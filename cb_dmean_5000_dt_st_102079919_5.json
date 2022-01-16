@@ -1,0 +1,2388 @@
+[
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mute_cb_dmean_5000_it.json",
+    "id_item": "mute_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mute",
+    "list_mean": [
+      "câm",
+      "yên lặng",
+      "âm câm"
+    ],
+    "hash_code_list_mean": "-1691278145",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809445243_c249823d7b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809445243_1edfc40e28_o.png",
+        "id_image": "mute_1112541"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809445203_59f2141af8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809445203_4fa5a7260e_o.png",
+        "id_image": "mute_2831073"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810067065_d1236c223a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810067065_fd589bce6b_o.png",
+        "id_image": "mute_6212371"
+      }
+    ],
+    "hash_code_list_img": "-542936367",
+    "list_definition_mean": [
+      {
+        "mean_english": "câm",
+        "definition": "unable to speak; dumb."
+      },
+      {
+        "mean_english": "yên lặng",
+        "definition": "silent",
+        "ex_of_definition_list": [
+          "She gazed at him in mute horror."
+        ]
+      },
+      {
+        "mean_english": "âm câm",
+        "definition": "(of a letter) not sounded in certain words",
+        "ex_of_definition_list": [
+          "The word ‘dumb’ has a mute ‘b’ at the end."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-21972962"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mutton_cb_dmean_5000_it.json",
+    "id_item": "mutton_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mutton",
+    "list_mean": [
+      "thịt cừu"
+    ],
+    "hash_code_list_mean": "567358601",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809330076_9d193180fc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809330076_6262ecea5f_o.png",
+        "id_image": "mutton_1699381"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809330016_404d02edc2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809330016_b336d66c84_o.png",
+        "id_image": "mutton_2851259"
+      }
+    ],
+    "hash_code_list_img": "-449850810",
+    "list_definition_mean": [
+      {
+        "mean_english": "thịt cừu",
+        "definition": "the flesh of sheep, used as food",
+        "ex_of_definition_list": [
+          "a leg of mutton."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2038911979"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/myopia_cb_dmean_5000_it.json",
+    "id_item": "myopia_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "myopia",
+    "list_mean": [
+      "tật cận thị"
+    ],
+    "hash_code_list_mean": "661417877",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810066575_9059792b28_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810066575_224e9a1570_o.png",
+        "id_image": "myopia_2824978"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809684764_0936bac756_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809684764_0a85d23257_o.png",
+        "id_image": "myopia_6029365"
+      }
+    ],
+    "hash_code_list_img": "-1543370068",
+    "list_definition_mean": [
+      {
+        "mean_english": "tật cận thị",
+        "definition": "short-sightedness",
+        "ex_of_definition_list": [
+          "She suffers from myopia."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "470437798"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mysterious_cb_dmean_5000_it.json",
+    "id_item": "mysterious_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mysterious",
+    "list_mean": [
+      "bí ẩn; khó hiểu"
+    ],
+    "hash_code_list_mean": "-1889459781",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809444763_cc843bb120_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809444763_78f294d1d0_o.png",
+        "id_image": "mysterious_3479836"
+      }
+    ],
+    "hash_code_list_img": "569113053",
+    "list_definition_mean": [
+      {
+        "mean_english": "bí ẩn; khó hiểu",
+        "definition": "difficult to understand or explain, or full of mystery",
+        "ex_of_definition_list": [
+          "mysterious happenings",
+          "He’s being very mysterious (= refuses to explain fully) about what his work is"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1867773379"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mystery_cb_dmean_5000_it.json",
+    "id_item": "mystery_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mystery",
+    "list_mean": [
+      "điều bí ẩn",
+      "điều bí mật"
+    ],
+    "hash_code_list_mean": "599550734",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809444698_fba16b3bc6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809444698_bef4e14760_o.png",
+        "id_image": "mystery_2040703"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809684659_6ca58591cf_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809684659_a3ccc0898a_o.png",
+        "id_image": "mystery_2178097"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809684614_18babe74bb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809684614_5c99378688_o.png",
+        "id_image": "mystery_3079241"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809329626_563ea9e013_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809329626_16e0996cbc_o.png",
+        "id_image": "mystery_4114763"
+      }
+    ],
+    "hash_code_list_img": "84659292",
+    "list_definition_mean": [
+      {
+        "mean_english": "điều bí ẩn",
+        "definition": "something that cannot be, or has not been, explained",
+        "ex_of_definition_list": [
+          "the mystery of how the universe was formed",
+          "the mystery of his disappearance",
+          "How she passed her exam is a mystery to me."
+        ]
+      },
+      {
+        "mean_english": "điều bí mật",
+        "definition": "the quality of being impossible to explain, understand etc",
+        "ex_of_definition_list": [
+          "Her death was surrounded by mystery."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1524201583"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mythology_cb_dmean_5000_it.json",
+    "id_item": "mythology_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mythology",
+    "list_mean": [
+      "khoa thần thoại học"
+    ],
+    "hash_code_list_mean": "-1299197364",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809684389_ecf817055d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809684389_b9845f7047_o.png",
+        "id_image": "mythology_5018232"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808374062_aa7edb688d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808374062_8d3e906ec8_o.png",
+        "id_image": "mythology_5234425"
+      }
+    ],
+    "hash_code_list_img": "1059821542",
+    "list_definition_mean": [
+      {
+        "mean_english": "khoa thần thoại học",
+        "definition": "(a collection of) myths",
+        "ex_of_definition_list": [
+          "Greek mythology."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "261372006"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/nail_cb_dmean_5000_it.json",
+    "id_item": "nail_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "nail",
+    "list_mean": [
+      "móng",
+      "cái đinh",
+      "đóng đinh"
+    ],
+    "hash_code_list_mean": "-2015433234",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808374022_40c03b67cc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808374022_07c93ef390_o.png",
+        "id_image": "nail_215254"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809444278_d9789ba76f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809444278_9608137e47_o.png",
+        "id_image": "nail_280160"
+      }
+    ],
+    "hash_code_list_img": "-1322748278",
+    "list_definition_mean": [
+      {
+        "mean_english": "móng",
+        "definition": "a piece of horn-like substance which grows over the ends of the fingers and toes to protect them",
+        "ex_of_definition_list": [
+          "I’ve broken my nail",
+          "toenails",
+          "Don’t bite your fingernails."
+        ]
+      },
+      {
+        "mean_english": "cái đinh",
+        "definition": "a thin pointed piece of metal used to fasten pieces of wood etc together",
+        "ex_of_definition_list": [
+          "He hammered a nail into the wall and hung a picture on it."
+        ]
+      },
+      {
+        "mean_english": "đóng đinh",
+        "definition": "to fasten with nails",
+        "ex_of_definition_list": [
+          "He nailed the picture to the wall."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1605414257"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/name_cb_dmean_5000_it.json",
+    "id_item": "name_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "name",
+    "list_mean": [
+      "tên",
+      "danh tiếng",
+      "đặt tên",
+      "nói rõ"
+    ],
+    "hash_code_list_mean": "-277674660",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808373842_73d83642c4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808373842_67004ef369_o.png",
+        "id_image": "name_1655593"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810065940_cc35096411_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810065940_0a274a47ba_o.png",
+        "id_image": "name_1828413"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808373792_163be229b9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808373792_7c30a2fe93_o.png",
+        "id_image": "name_4060911"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809329021_753f531158_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809329021_b439543242_o.png",
+        "id_image": "name_6135265"
+      }
+    ],
+    "hash_code_list_img": "1408719899",
+    "list_definition_mean": [
+      {
+        "mean_english": "tên",
+        "definition": "a word by which a person, place or thing is called",
+        "ex_of_definition_list": [
+          "My name is Rachel",
+          "She knows all the flowers by name."
+        ]
+      },
+      {
+        "mean_english": "danh tiếng",
+        "definition": "reputation; fame",
+        "ex_of_definition_list": [
+          "He has a name for honesty."
+        ]
+      },
+      {
+        "mean_english": "đặt tên",
+        "definition": "to give a name to",
+        "ex_of_definition_list": [
+          "They named the child Thomas."
+        ]
+      },
+      {
+        "mean_english": "nói rõ",
+        "definition": "to speak of or list by name",
+        "ex_of_definition_list": [
+          "He could name all the kings of England."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1757138693"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/nanny_cb_dmean_5000_it.json",
+    "id_item": "nanny_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "nanny",
+    "list_mean": [
+      "người giữ trẻ"
+    ],
+    "hash_code_list_mean": "-782527700",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809443923_3057e82720_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809443923_057c154271_o.png",
+        "id_image": "nanny_1876934"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808373672_aae0190622_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808373672_1aebec3317_o.png",
+        "id_image": "nanny_3088403"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809328901_d341448a74_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809328901_8ed7df5bdb_o.png",
+        "id_image": "nanny_4016138"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809328846_f2cbca1681_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809328846_72da15a4c7_o.png",
+        "id_image": "nanny_4079129"
+      }
+    ],
+    "hash_code_list_img": "370126070",
+    "list_definition_mean": [
+      {
+        "mean_english": "người giữ trẻ",
+        "definition": "a children’s nurse",
+        "ex_of_definition_list": [
+          "She was looked after by a nanny when she was a child."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1033287962"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/nanotechnology_cb_dmean_5000_it.json",
+    "id_item": "nanotechnology_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "nanotechnology",
+    "list_mean": [
+      "công nghệ nano"
+    ],
+    "hash_code_list_mean": "-224097051",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809328771_d2aba23052_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809328771_dfcbde789f_o.png",
+        "id_image": "nanotechnology_3480364"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809443708_5bc99fb15f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809443708_bcca761810_o.png",
+        "id_image": "nanotechnology_4157558"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809328786_0ce0b826cc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809328786_bcabc3f44c_o.png",
+        "id_image": "nanotechnology_901045"
+      }
+    ],
+    "hash_code_list_img": "-1625777895",
+    "list_definition_mean": [
+      {
+        "mean_english": "công nghệ nano",
+        "definition": "the science and use of structures that are less than 100 nanometres/nanometers in length, using atoms and molecules to create very small devices and materials such as computer chips",
+        "ex_of_definition_list": [
+          "Advances in nanotechnology may allow batteries to increase power and storage capacity."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "836253005"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/napkin_cb_dmean_5000_it.json",
+    "id_item": "napkin_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "napkin",
+    "list_mean": [
+      "khăn ăn",
+      "khăn ăn"
+    ],
+    "hash_code_list_mean": "-2065390559",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809443458_4cc15c2667_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809443458_82445e7493_o.png",
+        "id_image": "napkin_2235949"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810065205_653470a3f9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810065205_e79a7e9847_o.png",
+        "id_image": "napkin_2396948"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809328481_3fa2a8a274_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809328481_c217df290d_o.png",
+        "id_image": "napkin_455392"
+      }
+    ],
+    "hash_code_list_img": "-798769514",
+    "list_definition_mean": [
+      {
+        "mean_english": "khăn ăn",
+        "definition": "(also table napkin) a small piece of cloth or paper for protecting the clothes from drips etc and for wiping the lips at meals",
+        "ex_of_definition_list": [
+          "a paper napkin."
+        ]
+      },
+      {
+        "mean_english": "khăn ăn",
+        "definition": "the full form of nappy."
+      }
+    ],
+    "hash_code_list_definition_mean": "-2116454904"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/nappy_cb_dmean_5000_it.json",
+    "id_item": "nappy_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "nappy",
+    "list_mean": [
+      "tã lót"
+    ],
+    "hash_code_list_mean": "-763281733",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808373127_ee56624d99_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808373127_6961e2cfef_o.png",
+        "id_image": "nappy_1607295"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809683434_2aeb29e0d6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809683434_6a955ce887_o.png",
+        "id_image": "nappy_1607305"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809683384_23675272a3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809683384_153bb0a0ca_o.png",
+        "id_image": "nappy_3739497"
+      }
+    ],
+    "hash_code_list_img": "-1431943927",
+    "list_definition_mean": [
+      {
+        "mean_english": "tã lót",
+        "definition": "a piece of cloth or paper put between a baby’s legs to soak up urine etc; diaper American",
+        "ex_of_definition_list": [
+          "The baby’s nappy needs changing."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2027236715"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/nap_cb_dmean_5000_it.json",
+    "id_item": "nap_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "nap",
+    "list_mean": [
+      "giấc ngủ ngắn"
+    ],
+    "hash_code_list_mean": "-1932375767",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809443683_39e4c80ea9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809443683_1ceb6ddcd5_o.png",
+        "id_image": "nap_1702344"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809328666_c1dc2171df_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809328666_7a829b9b17_o.png",
+        "id_image": "nap_2964763"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809683684_fce40481a3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809683684_3c8a30ab4d_o.png",
+        "id_image": "nap_3310318"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808373327_4566cd57fb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808373327_d45643ebe1_o.png",
+        "id_image": "nap_3310321"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808373302_be5dcc008b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808373302_a30bd1ddac_o.png",
+        "id_image": "nap_5775901"
+      }
+    ],
+    "hash_code_list_img": "-1704349537",
+    "list_definition_mean": [
+      {
+        "mean_english": "giấc ngủ ngắn",
+        "definition": "a short sleep",
+        "ex_of_definition_list": [
+          "She always has a nap after lunch."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "451046520"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/narrative_cb_dmean_5000_it.json",
+    "id_item": "narrative_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "narrative",
+    "list_mean": [
+      "chuyện kể"
+    ],
+    "hash_code_list_mean": "931964903",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809328236_48657e9d37_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809328236_18c6b7421e_o.png",
+        "id_image": "narrative_6430531"
+      }
+    ],
+    "hash_code_list_img": "110650048",
+    "list_definition_mean": [
+      {
+        "mean_english": "chuyện kể",
+        "definition": "a story",
+        "ex_of_definition_list": [
+          "an exciting narrative."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "406074847"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/narrow_cb_dmean_5000_it.json",
+    "id_item": "narrow_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "narrow",
+    "list_mean": [
+      "hẹp",
+      "eo hẹp",
+      "hẹp hòi",
+      "thu hẹp"
+    ],
+    "hash_code_list_mean": "1926341517",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809683289_2bab706c76_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809683289_f4784ae579_o.png",
+        "id_image": "narrow_1670272"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809443208_a9ae176e3b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809443208_7443fbc721_o.png",
+        "id_image": "narrow_4563856"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809683329_2f85a8f9bc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809683329_8a3efe5379_o.png",
+        "id_image": "narrow_567422"
+      }
+    ],
+    "hash_code_list_img": "-1782249170",
+    "list_definition_mean": [
+      {
+        "mean_english": "hẹp",
+        "definition": "having or being only a small distance from side to side",
+        "ex_of_definition_list": [
+          "a narrow road",
+          "The bridge is too narrow for large lorries to cross."
+        ]
+      },
+      {
+        "mean_english": "eo hẹp",
+        "definition": "only just managed",
+        "ex_of_definition_list": [
+          "a narrow escape."
+        ]
+      },
+      {
+        "mean_english": "hẹp hòi",
+        "definition": "(of ideas, interests or experience) not extensive enough",
+        "ex_of_definition_list": [
+          "a narrow outlook on life."
+        ]
+      },
+      {
+        "mean_english": "thu hẹp",
+        "definition": "to make or become narrow",
+        "ex_of_definition_list": [
+          "The road suddenly narrowed."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1099854884"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/nasal_cb_dmean_5000_it.json",
+    "id_item": "nasal_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "nasal",
+    "list_mean": [
+      "thuộc về mũi",
+      "giọng mũi"
+    ],
+    "hash_code_list_mean": "2057697317",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809683144_85aef67273_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809683144_5b2c3abe32_o.png",
+        "id_image": "nasal_4118545"
+      }
+    ],
+    "hash_code_list_img": "2075922956",
+    "list_definition_mean": [
+      {
+        "mean_english": "thuộc về mũi",
+        "definition": "of the nose",
+        "ex_of_definition_list": [
+          "a nasal infection",
+          "nasal congestion."
+        ]
+      },
+      {
+        "mean_english": "giọng mũi",
+        "definition": "sounding through the nose",
+        "ex_of_definition_list": [
+          "a nasal voice."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1361694580"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/nationality_cb_dmean_5000_it.json",
+    "id_item": "nationality_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "nationality",
+    "list_mean": [
+      "quốc tịch"
+    ],
+    "hash_code_list_mean": "-1033792347",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809683054_ee5e203707_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809683054_59398d5c66_o.png",
+        "id_image": "national_3014423"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809443008_22b915d42d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809443008_b25f1c1bf6_o.png",
+        "id_image": "national_5189458"
+      }
+    ],
+    "hash_code_list_img": "387632560",
+    "list_definition_mean": [
+      {
+        "mean_english": "quốc tịch",
+        "definition": "(the state of belonging to) a particular nation",
+        "ex_of_definition_list": [
+          "‘What nationality are you?’ ‘I’m German’",
+          "You will come across (people of) many nationalities in London."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2104758815"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/national_cb_dmean_5000_it.json",
+    "id_item": "national_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "national",
+    "list_mean": [
+      "thuộc về quốc gia, dân tộc"
+    ],
+    "hash_code_list_mean": "-1317048892",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809683054_ee5e203707_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809683054_59398d5c66_o.png",
+        "id_image": "national_3014423"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809443008_22b915d42d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809443008_b25f1c1bf6_o.png",
+        "id_image": "national_5189458"
+      }
+    ],
+    "hash_code_list_img": "-1145240621",
+    "list_definition_mean": [
+      {
+        "mean_english": "thuộc về quốc gia, dân tộc",
+        "definition": "of or belonging to a particular nation",
+        "ex_of_definition_list": [
+          "national government",
+          "national pride."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1794125311"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/nation_cb_dmean_5000_it.json",
+    "id_item": "nation_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "nation",
+    "list_mean": [
+      "quốc gia",
+      "dân tộc"
+    ],
+    "hash_code_list_mean": "-207480806",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809683099_af71ccf14a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809683099_a514f84af8_o.png",
+        "id_image": "nation_6388849"
+      }
+    ],
+    "hash_code_list_img": "698124047",
+    "list_definition_mean": [
+      {
+        "mean_english": "quốc gia",
+        "definition": "a group of people living in a particular country, forming a single political and economic unit",
+        "ex_of_definition_list": [
+          "The President is going to address the nation in a speech this afternoon."
+        ]
+      },
+      {
+        "mean_english": "dân tộc",
+        "definition": "a large number of people who share the same history, ancestors, culture etc (whether or not they all live in the same country)",
+        "ex_of_definition_list": [
+          "the Jewish nation."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1847074671"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/native_cb_dmean_5000_it.json",
+    "id_item": "native_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "native",
+    "list_mean": [
+      "quê hương",
+      "thuộc địa phương",
+      "gốc gác",
+      "bẩm sinh",
+      "người sống ở",
+      "có nguồn gốc"
+    ],
+    "hash_code_list_mean": "-2135180178",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809442953_ab23d709b6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809442953_52c5a21857_o.png",
+        "id_image": "native_2396765"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808372607_02d6fdf0ee_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808372607_302ce09da8_o.png",
+        "id_image": "native_3429448"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809327846_1348c6fc9b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809327846_eee4b09db2_o.png",
+        "id_image": "native_3563876"
+      }
+    ],
+    "hash_code_list_img": "-1874815612",
+    "list_definition_mean": [
+      {
+        "mean_english": "quê hương",
+        "definition": "where one was born",
+        "ex_of_definition_list": [
+          "my native land."
+        ]
+      },
+      {
+        "mean_english": "thuộc địa phương",
+        "definition": "belonging to that place; local",
+        "ex_of_definition_list": [
+          "the native customs/art of Brazil",
+          "This animal/plant is native to Australia."
+        ]
+      },
+      {
+        "mean_english": "gốc gác",
+        "definition": "belonging by race to a country",
+        "ex_of_definition_list": [
+          "a native Englishman."
+        ]
+      },
+      {
+        "mean_english": "bẩm sinh",
+        "definition": "belonging to a person naturally",
+        "ex_of_definition_list": [
+          "native intelligence."
+        ]
+      },
+      {
+        "mean_english": "người sống ở",
+        "definition": "a person born in a certain place",
+        "ex_of_definition_list": [
+          "a native of Scotland",
+          "a native of London."
+        ]
+      },
+      {
+        "mean_english": "có nguồn gốc",
+        "definition": "one of the original inhabitants of a country eg before the arrival of explorers, immigrants etc",
+        "ex_of_definition_list": [
+          "Columbus thought the natives of America were Indians."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1141074418"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/natural_cb_dmean_5000_it.json",
+    "id_item": "natural_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "natural",
+    "list_mean": [
+      "tự nhiên",
+      "năng khiếu",
+      "tự nhiên",
+      "tự nhiên",
+      "nốt nhạc thường",
+      "người có khiếu tự nhiên",
+      "nốt thường"
+    ],
+    "hash_code_list_mean": "2038698742",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809327771_3fd08a285d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809327771_d8d6d997e5_o.png",
+        "id_image": "natural_2321460"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809682789_aa5315e40c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809682789_3b1e517f0a_o.png",
+        "id_image": "natural_3967285"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810064375_1b89293a59_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810064375_b21430568c_o.png",
+        "id_image": "natural_3967290"
+      }
+    ],
+    "hash_code_list_img": "-1266897710",
+    "list_definition_mean": [
+      {
+        "mean_english": "tự nhiên",
+        "definition": "of or produced by nature, not made by men",
+        "ex_of_definition_list": [
+          "coal, oil etc and other natural resources.",
+          "Wild animals are happier in their natural state than in a zoo."
+        ]
+      },
+      {
+        "mean_english": "năng khiếu",
+        "definition": "born in a person",
+        "ex_of_definition_list": [
+          "natural beauty",
+          "He had a natural ability for music."
+        ]
+      },
+      {
+        "mean_english": "tự nhiên",
+        "definition": "(of manner) simple, without pretence",
+        "ex_of_definition_list": [
+          "a nice, natural smile."
+        ]
+      },
+      {
+        "mean_english": "tự nhiên",
+        "definition": "normal; as one would expect",
+        "ex_of_definition_list": [
+          "It’s quite natural for a boy of his age to be interested in girls."
+        ]
+      },
+      {
+        "mean_english": "nốt nhạc thường",
+        "definition": "(of a musical note) not sharp or flat",
+        "ex_of_definition_list": [
+          "G natural is lower in pitch than G sharp."
+        ]
+      },
+      {
+        "mean_english": "người có khiếu tự nhiên",
+        "definition": "a person who is naturally good at something",
+        "ex_of_definition_list": [
+          "She’s a natural at tennis."
+        ]
+      },
+      {
+        "mean_english": "nốt thường",
+        "definition": "in music (a sign ( ) indicating) a note which is not to be played sharp or flat."
+      }
+    ],
+    "hash_code_list_definition_mean": "-823403479"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/nature_cb_dmean_5000_it.json",
+    "id_item": "nature_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "nature",
+    "list_mean": [
+      "thiên nhiên",
+      "bản tính",
+      "tính chất",
+      "loại; thứ"
+    ],
+    "hash_code_list_mean": "-1038517793",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809327541_5851c694b6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809327541_f71c0810d9_o.png",
+        "id_image": "nature_4359728"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808372222_576d2e25eb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808372222_228975ae72_o.png",
+        "id_image": "nature_4359742"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809682584_b15fea0afb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809682584_147cd3d0b7_o.png",
+        "id_image": "nature_4359947"
+      }
+    ],
+    "hash_code_list_img": "-1985360409",
+    "list_definition_mean": [
+      {
+        "mean_english": "thiên nhiên",
+        "definition": "the physical world, eg trees, plants, animals, mountains, rivers etc, or the power which made them",
+        "ex_of_definition_list": [
+          "the beauty of nature",
+          "the forces of nature",
+          "the study of nature."
+        ]
+      },
+      {
+        "mean_english": "bản tính",
+        "definition": "the qualities born in a person; personality",
+        "ex_of_definition_list": [
+          "She has a generous nature."
+        ]
+      },
+      {
+        "mean_english": "tính chất",
+        "definition": "quality; what something is or consists of",
+        "ex_of_definition_list": [
+          "What is the nature of your work?"
+        ]
+      },
+      {
+        "mean_english": "loại; thứ",
+        "definition": "a kind, type etc",
+        "ex_of_definition_list": [
+          "bankers and other people of that nature."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2129603846"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/naughty_cb_dmean_5000_it.json",
+    "id_item": "naughty_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "naughty",
+    "list_mean": [
+      "nghịch ngợm"
+    ],
+    "hash_code_list_mean": "1793736193",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809442428_5388548a8a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809442428_1a3fdcdb0d_o.png",
+        "id_image": "naughty_3362346"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809327396_72f1b6e9cd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809327396_9a0dd68780_o.png",
+        "id_image": "naughty_4138811"
+      }
+    ],
+    "hash_code_list_img": "-225011124",
+    "list_definition_mean": [
+      {
+        "mean_english": "nghịch ngợm",
+        "definition": "(usually of children) badly-behaved",
+        "ex_of_definition_list": [
+          "a naughty boy",
+          "It is naughty to kick other children."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1680028917"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/nausea_cb_dmean_5000_it.json",
+    "id_item": "nausea_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "nausea",
+    "list_mean": [
+      "sự buồn nôn"
+    ],
+    "hash_code_list_mean": "-1867834249",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808372032_13e2b5db51_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808372032_8e292dcaa8_o.png",
+        "id_image": "nausea_1805163"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809327281_6318714b81_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809327281_d346bf5ccc_o.png",
+        "id_image": "nausea_6349870"
+      }
+    ],
+    "hash_code_list_img": "241967070",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự buồn nôn",
+        "definition": "a feeling of sickness",
+        "ex_of_definition_list": [
+          "She was suffering from nausea."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "69207721"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/nautical_cb_dmean_5000_it.json",
+    "id_item": "nautical_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "nautical",
+    "list_mean": [
+      "hàng hải"
+    ],
+    "hash_code_list_mean": "1046635838",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808371942_5364679154_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808371942_ea00a01eb2_o.png",
+        "id_image": "nautical_353324"
+      }
+    ],
+    "hash_code_list_img": "444542291",
+    "list_definition_mean": [
+      {
+        "mean_english": "hàng hải",
+        "definition": "of ships or sailors",
+        "ex_of_definition_list": [
+          "a nautical map",
+          "nautical language."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "510622788"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/navigate_cb_dmean_5000_it.json",
+    "id_item": "navigate_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "navigate",
+    "list_mean": [
+      "làm hoa tiêu",
+      "dẫn đường"
+    ],
+    "hash_code_list_mean": "-1957625006",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809327181_6a527ec596_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809327181_30f2ef7739_o.png",
+        "id_image": "navigate_1406305"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809442198_52896b94bd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809442198_0562d2ea99_o.png",
+        "id_image": "navigate_1516447"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810063980_6a872226b7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810063980_e860748f5f_o.png",
+        "id_image": "navigate_2878798"
+      }
+    ],
+    "hash_code_list_img": "1030729032",
+    "list_definition_mean": [
+      {
+        "mean_english": "làm hoa tiêu",
+        "definition": "to direct, guide or move (a ship, aircraft etc) in a particular direction",
+        "ex_of_definition_list": [
+          "He navigated the ship through the dangerous rocks."
+        ]
+      },
+      {
+        "mean_english": "dẫn đường",
+        "definition": "to find or follow one’s route when in a ship, aircraft, car etc",
+        "ex_of_definition_list": [
+          "If I drive, will you navigate?"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1200653149"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/navigation_cb_dmean_5000_it.json",
+    "id_item": "navigation_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "navigation",
+    "list_mean": [
+      "ngành hàng hải"
+    ],
+    "hash_code_list_mean": "-1098908611",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808371742_4538e3762c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808371742_f60c5cc3db_o.png",
+        "id_image": "navigation_280069"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809442063_88ee4b9275_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809442063_d17391d108_o.png",
+        "id_image": "navigation_2879024"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810063870_c3d1b3f875_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810063870_039b5c0414_o.png",
+        "id_image": "navigation_4735966"
+      }
+    ],
+    "hash_code_list_img": "-119132144",
+    "list_definition_mean": [
+      {
+        "mean_english": "ngành hàng hải",
+        "definition": "the art or skill of navigating",
+        "ex_of_definition_list": [
+          "successful navigation of the rocky headland."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1704289804"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/navigator_cb_dmean_5000_it.json",
+    "id_item": "navigator_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "navigator",
+    "list_mean": [
+      "nhà hàng hải"
+    ],
+    "hash_code_list_mean": "1383132600",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809682014_a8f8540d6a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809682014_72135fd3d5_o.png",
+        "id_image": "navigator_1982540"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809326941_74e4a3e5e7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809326941_f23a5d038d_o.png",
+        "id_image": "navigator_648445"
+      }
+    ],
+    "hash_code_list_img": "-1176227818",
+    "list_definition_mean": [
+      {
+        "mean_english": "nhà hàng hải",
+        "definition": "a person who navigates",
+        "ex_of_definition_list": [
+          "He’s an experienced navigator of these seas."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1118346510"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/navy_cb_dmean_5000_it.json",
+    "id_item": "navy_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "navy",
+    "list_mean": [
+      "hải quân",
+      "xanh nước biển"
+    ],
+    "hash_code_list_mean": "790571210",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809441913_3177ba75a3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809441913_5231de5cb0_o.png",
+        "id_image": "navy_2642269"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809326841_8a9419cff9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809326841_90bed23845_o.png",
+        "id_image": "navy_3856868"
+      }
+    ],
+    "hash_code_list_img": "873651295",
+    "list_definition_mean": [
+      {
+        "mean_english": "hải quân",
+        "definition": "a country’s warships and the people who work in and with them",
+        "ex_of_definition_list": [
+          "Russia has one of the largest navies in the world",
+          "I joined the navy fifteen years ago."
+        ]
+      },
+      {
+        "mean_english": "xanh nước biển",
+        "definition": "(also adjective) (also navy blue) (of) a dark blue colour/color",
+        "ex_of_definition_list": [
+          "a navy (blue) jersey",
+          "These sweatshirts come in white or navy (blue)."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-491848386"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/nearby_cb_dmean_5000_it.json",
+    "id_item": "nearby_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "nearby",
+    "list_mean": [
+      "ở vị trí gần"
+    ],
+    "hash_code_list_mean": "385303506",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808371467_bf8002c05e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808371467_b47a94e7df_o.png",
+        "id_image": "nearby_5509695"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810063605_a345cda076_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810063605_c6b47dbf8b_o.png",
+        "id_image": "nearby_6010142"
+      }
+    ],
+    "hash_code_list_img": "1265300579",
+    "list_definition_mean": [
+      {
+        "mean_english": "ở vị trí gần",
+        "definition": "close to here or the place mentioned",
+        "ex_of_definition_list": [
+          "He lives nearby",
+          "a cottage with a stream running nearby."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "516952746"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/near_cb_dmean_5000_it.json",
+    "id_item": "near_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "near",
+    "list_mean": [
+      "gần",
+      "họ hàng gần",
+      "gần",
+      "gần",
+      "gần",
+      "đến gần"
+    ],
+    "hash_code_list_mean": "1656948653",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810063720_7a26341f72_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810063720_ebd0e0da01_o.png",
+        "id_image": "near_4843169"
+      }
+    ],
+    "hash_code_list_img": "886940115",
+    "list_definition_mean": [
+      {
+        "mean_english": "gần",
+        "definition": "not far away in place or time",
+        "ex_of_definition_list": [
+          "The station is quite near",
+          "Christmas is getting near."
+        ]
+      },
+      {
+        "mean_english": "họ hàng gần",
+        "definition": "not far away in relationship",
+        "ex_of_definition_list": [
+          "He is a near relation."
+        ]
+      },
+      {
+        "mean_english": "gần",
+        "definition": "to or at a short distance from here or the place mentioned",
+        "ex_of_definition_list": [
+          "He lives quite near."
+        ]
+      },
+      {
+        "mean_english": "gần",
+        "definition": "(with to) close to",
+        "ex_of_definition_list": [
+          "Don’t sit too near to the window."
+        ]
+      },
+      {
+        "mean_english": "gần",
+        "definition": "at a very small distance from (in place, time etc)",
+        "ex_of_definition_list": [
+          "She lives near the church",
+          "It was near midnight when they arrived."
+        ]
+      },
+      {
+        "mean_english": "đến gần",
+        "definition": "to come near (to)",
+        "ex_of_definition_list": [
+          "The roads became busier as they neared the town",
+          "As evening neared, it became noticeably colder."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1165883029"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/necklace_cb_dmean_5000_it.json",
+    "id_item": "necklace_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "necklace",
+    "list_mean": [
+      "chuỗi hạt"
+    ],
+    "hash_code_list_mean": "1565145212",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810063430_ec7786f29e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810063430_81b0bc4d52_o.png",
+        "id_image": "necklace_315206"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810063385_6d7181587b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810063385_815247293b_o.png",
+        "id_image": "necklace_332038"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809441423_80fd41fd8b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809441423_f53e96c17b_o.png",
+        "id_image": "necklace_488338"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809681464_df0b0a3424_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809681464_4c0cbfcd5f_o.png",
+        "id_image": "necklace_688325"
+      }
+    ],
+    "hash_code_list_img": "-1207607310",
+    "list_definition_mean": [
+      {
+        "mean_english": "chuỗi hạt",
+        "definition": "a string of jewels, beads etc worn around the neck",
+        "ex_of_definition_list": [
+          "a diamond necklace."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "423457778"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/neck_cb_dmean_5000_it.json",
+    "id_item": "neck_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "neck",
+    "list_mean": [
+      "cổ",
+      "cổ áo",
+      "phần cổ",
+      "ôm ấp"
+    ],
+    "hash_code_list_mean": "2042716298",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810063540_1a3f03d384_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810063540_581326b8fc_o.png",
+        "id_image": "neck_2688254"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809441608_50fd5efe0d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809441608_ba9e48a49a_o.png",
+        "id_image": "neck_2688307"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809681649_89e7109298_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809681649_e560612ae7_o.png",
+        "id_image": "neck_5737469"
+      }
+    ],
+    "hash_code_list_img": "-368796821",
+    "list_definition_mean": [
+      {
+        "mean_english": "cổ",
+        "definition": "the part of the body between the head and chest",
+        "ex_of_definition_list": [
+          "She wore a scarf around her neck."
+        ]
+      },
+      {
+        "mean_english": "cổ áo",
+        "definition": "the part of an article of clothing that covers that part of the body",
+        "ex_of_definition_list": [
+          "The neck of that shirt is dirty."
+        ]
+      },
+      {
+        "mean_english": "phần cổ",
+        "definition": "anything like a neck in shape or position",
+        "ex_of_definition_list": [
+          "the neck of a bottle."
+        ]
+      },
+      {
+        "mean_english": "ôm ấp",
+        "definition": "to kiss, hug and caress (passionately); to pet",
+        "ex_of_definition_list": [
+          "They were necking on a park bench."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "732638044"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/needle_cb_dmean_5000_it.json",
+    "id_item": "needle_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "needle",
+    "list_mean": [
+      "kim khâu",
+      "kim đan",
+      "cái kim la bàn",
+      "lá kim"
+    ],
+    "hash_code_list_mean": "457466630",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808370912_5d05664dbb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808370912_d7dbf559a7_o.png",
+        "id_image": "needle_3604951"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808370847_4eed63f664_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808370847_1286b80030_o.png",
+        "id_image": "needle_4637193"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809326036_8a005c2282_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809326036_68117a0238_o.png",
+        "id_image": "needle_4647418"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809441123_98bc45b4b1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809441123_e27fc52408_o.png",
+        "id_image": "needle_890983"
+      }
+    ],
+    "hash_code_list_img": "-34157542",
+    "list_definition_mean": [
+      {
+        "mean_english": "kim khâu",
+        "definition": "a small, sharp piece of steel with a hole (called an eye) at one end for thread, used in sewing etc",
+        "ex_of_definition_list": [
+          "a needle and thread",
+          "a sewing needle."
+        ]
+      },
+      {
+        "mean_english": "kim đan",
+        "definition": "any of various instruments of a long narrow pointed shape",
+        "ex_of_definition_list": [
+          "a knitting needle",
+          "a hypodermic needle."
+        ]
+      },
+      {
+        "mean_english": "cái kim la bàn",
+        "definition": "(in a compass etc) a moving pointer",
+        "ex_of_definition_list": [
+          "The needle is pointing North."
+        ]
+      },
+      {
+        "mean_english": "lá kim",
+        "definition": "the thin, sharp-pointed leaf of a pine, fir etc",
+        "ex_of_definition_list": [
+          "The Christmas tree tends to drop all its needles."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "765977444"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/negative_cb_dmean_5000_it.json",
+    "id_item": "negative_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "negative",
+    "list_mean": [
+      "phủ nhận",
+      "tiêu cực",
+      "âm",
+      "điện (âm)",
+      "lời từ chối",
+      "âm bản"
+    ],
+    "hash_code_list_mean": "738074352",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810062270_9ecb3b2fd8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810062270_9b18d851d2_o.png",
+        "id_image": "negative_2254818"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809440488_08079789be_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809440488_c7423a01e2_o.png",
+        "id_image": "negative_4001187"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809440588_dc58af3f94_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809440588_a46288278e_o.png",
+        "id_image": "negative_552430"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809325551_934f43a5b7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809325551_8061d3d4a6_o.png",
+        "id_image": "negative_655231"
+      }
+    ],
+    "hash_code_list_img": "1237910870",
+    "list_definition_mean": [
+      {
+        "mean_english": "phủ nhận",
+        "definition": "meaning or saying ’no’; denying something",
+        "ex_of_definition_list": [
+          "a negative answer."
+        ]
+      },
+      {
+        "mean_english": "tiêu cực",
+        "definition": "expecting to fail",
+        "ex_of_definition_list": [
+          "a negative attitude."
+        ]
+      },
+      {
+        "mean_english": "âm",
+        "definition": "less than zero",
+        "ex_of_definition_list": [
+          "–4 is a negative or minus number."
+        ]
+      },
+      {
+        "mean_english": "điện (âm)",
+        "definition": "having more electrons than normal",
+        "ex_of_definition_list": [
+          "The battery has a negative and a positive terminal."
+        ]
+      },
+      {
+        "mean_english": "lời từ chối",
+        "definition": "a word etc by which something is denied",
+        "ex_of_definition_list": [
+          "‘No’ and ‘never’ are negatives."
+        ]
+      },
+      {
+        "mean_english": "âm bản",
+        "definition": "the photographic film, from which prints are made, on which light and dark are reversed",
+        "ex_of_definition_list": [
+          "I gave away the print, but I still have the negative."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-933713801"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/neglect_cb_dmean_5000_it.json",
+    "id_item": "neglect_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "neglect",
+    "list_mean": [
+      "sao lãng",
+      "bỏ mặc",
+      "thờ ơ"
+    ],
+    "hash_code_list_mean": "864160914",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810062115_a59e64bb3f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810062115_6538f7f194_o.png",
+        "id_image": "neglect_6306497"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809440413_f52f43ab04_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809440413_42fee9fa4a_o.png",
+        "id_image": "neglect_708679"
+      }
+    ],
+    "hash_code_list_img": "735376659",
+    "list_definition_mean": [
+      {
+        "mean_english": "sao lãng",
+        "definition": "to treat carelessly or not give enough attention to",
+        "ex_of_definition_list": [
+          "He neglected his work."
+        ]
+      },
+      {
+        "mean_english": "bỏ mặc",
+        "definition": "to fail (to do something)",
+        "ex_of_definition_list": [
+          "He neglected to answer the letter."
+        ]
+      },
+      {
+        "mean_english": "thờ ơ",
+        "definition": "lack of care and attention",
+        "ex_of_definition_list": [
+          "The garden is suffering from neglect."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-719227961"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/negotiate_cb_dmean_5000_it.json",
+    "id_item": "negotiate_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "negotiate",
+    "list_mean": [
+      "đàm phán",
+      "thương lượng",
+      "vượt qua khó khăn"
+    ],
+    "hash_code_list_mean": "-1392048934",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809440283_9be326b1de_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809440283_475d5645c4_o.png",
+        "id_image": "negotiate_4133549"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809680349_b5ee95aa45_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809680349_69dd33ede5_o.png",
+        "id_image": "negotiate_5965826"
+      }
+    ],
+    "hash_code_list_img": "1148916207",
+    "list_definition_mean": [
+      {
+        "mean_english": "đàm phán",
+        "definition": "to bargain or discuss a subject in order to agree",
+        "ex_of_definition_list": [
+          "We’ll have to negotiate a price."
+        ]
+      },
+      {
+        "mean_english": "thương lượng",
+        "definition": "to arrange (a treaty, payment etc), usually after a long discussion",
+        "ex_of_definition_list": [
+          "It was hard enough to get the two sides to sit down and negotiate a peace agreement."
+        ]
+      },
+      {
+        "mean_english": "vượt qua khó khăn",
+        "definition": "to get past (an obstacle or difficulty)",
+        "ex_of_definition_list": [
+          "There still remain several obstacles to negotiate before a solution can be agreed on."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "31784957"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/neon_cb_dmean_5000_it.json",
+    "id_item": "neon_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "neon",
+    "list_mean": [
+      "nê-ông"
+    ],
+    "hash_code_list_mean": "-928078149",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809324866_a12138b3da_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809324866_53cf79aace_o.png",
+        "id_image": "neon_2779289"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808369652_429ab26488_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808369652_95cb7f0c10_o.png",
+        "id_image": "neon_4647300"
+      }
+    ],
+    "hash_code_list_img": "1100428972",
+    "list_definition_mean": [
+      {
+        "mean_english": "nê-ông",
+        "definition": "(symbol Ne) an element, a colourless/colorless gas used in certain forms of electric lighting, eg advertising signs",
+        "ex_of_definition_list": [
+          "(also adjective) a neon sign."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "672023471"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/nerve_cb_dmean_5000_it.json",
+    "id_item": "nerve_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "nerve",
+    "list_mean": [
+      "dây thần kinh",
+      "sự can đảm",
+      "táo tợn",
+      "truyền can đảm"
+    ],
+    "hash_code_list_mean": "-1905161973",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808369612_81bdff6a6f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808369612_c36863d631_o.png",
+        "id_image": "nerve_5730174"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810061655_8b19bf15cc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810061655_856c6f40e7_o.png",
+        "id_image": "nerve_5746696"
+      }
+    ],
+    "hash_code_list_img": "2118420566",
+    "list_definition_mean": [
+      {
+        "mean_english": "dây thần kinh",
+        "definition": "one of the cords which carry messages between all parts of the body and the brain",
+        "ex_of_definition_list": [
+          "the optic nerve."
+        ]
+      },
+      {
+        "mean_english": "sự can đảm",
+        "definition": "courage",
+        "ex_of_definition_list": [
+          "He must have needed a lot of nerve to do that",
+          "He lost his nerve."
+        ]
+      },
+      {
+        "mean_english": "táo tợn",
+        "definition": "rudeness",
+        "ex_of_definition_list": [
+          "What a nerve!"
+        ]
+      },
+      {
+        "mean_english": "truyền can đảm",
+        "definition": "to force (oneself) to have enough courage (to do something)",
+        "ex_of_definition_list": [
+          "He nerved himself to climb the high tower."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "170605902"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/nervous_cb_dmean_5000_it.json",
+    "id_item": "nervous_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "nervous",
+    "list_mean": [
+      "về dây thần kinh",
+      "sợ hãi"
+    ],
+    "hash_code_list_mean": "502529948",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809324516_e18dfda34e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809324516_21f8fae700_o.png",
+        "id_image": "nervous_2341842"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809679664_ff6faf87de_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809679664_a688f7a3a8_o.png",
+        "id_image": "nervous_3561733"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810061355_538802899c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810061355_3b9b570252_o.png",
+        "id_image": "nervous_3997730"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809439658_3107831fe8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809439658_cc44ece8d5_o.png",
+        "id_image": "nervous_599623"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809439623_ee0a1cdc11_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809439623_685f164767_o.png",
+        "id_image": "nervous_599634"
+      }
+    ],
+    "hash_code_list_img": "-1887101993",
+    "list_definition_mean": [
+      {
+        "mean_english": "về dây thần kinh",
+        "definition": "of the nerves",
+        "ex_of_definition_list": [
+          "the nervous system."
+        ]
+      },
+      {
+        "mean_english": "sợ hãi",
+        "definition": "rather afraid",
+        "ex_of_definition_list": [
+          "She was nervous about travelling by air",
+          "a nervous old lady."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2110983734"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/nest_cb_dmean_5000_it.json",
+    "id_item": "nest_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "nest",
+    "list_mean": [
+      "tổ chim",
+      "làm tổ"
+    ],
+    "hash_code_list_mean": "295334401",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809439393_0483b6d649_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809439393_a6c53152d0_o.png",
+        "id_image": "nest_1809034"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808369292_85b592823c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808369292_1be490eb59_o.png",
+        "id_image": "nest_183958"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809439358_80f1664592_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809439358_193d5b0cd3_o.png",
+        "id_image": "nest_2851878"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809324381_a87759d5b2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809324381_1b57405267_o.png",
+        "id_image": "nest_427432"
+      }
+    ],
+    "hash_code_list_img": "1081158023",
+    "list_definition_mean": [
+      {
+        "mean_english": "tổ chim",
+        "definition": "a structure or place in which birds (and some animals and insects) hatch or give birth to and look after their young",
+        "ex_of_definition_list": [
+          "The swallows are building a nest under the roof of our house",
+          "a wasp’s nest."
+        ]
+      },
+      {
+        "mean_english": "làm tổ",
+        "definition": "to build a nest and live in it",
+        "ex_of_definition_list": [
+          "A pair of robins are nesting in that bush."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "451916305"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/network_cb_dmean_5000_it.json",
+    "id_item": "network_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "network",
+    "list_mean": [
+      "mạng lưới",
+      "mạng lưới truyền thanh",
+      "mạng"
+    ],
+    "hash_code_list_mean": "-604372000",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810060995_8aaaaf3d4a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810060995_467bd8b7d0_o.png",
+        "id_image": "network_179649"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810060960_ce2a03edec_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810060960_e0ebb923db_o.png",
+        "id_image": "network_563221"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808368907_a282191440_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808368907_4e2c7ff392_o.png",
+        "id_image": "network_748857"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809323966_4aec5cd659_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809323966_6f507240b7_o.png",
+        "id_image": "network_755033"
+      }
+    ],
+    "hash_code_list_img": "1553892007",
+    "list_definition_mean": [
+      {
+        "mean_english": "mạng lưới",
+        "definition": "anything in the form of a net, ie with many lines crossing each other",
+        "ex_of_definition_list": [
+          "A network of roads covered the countryside."
+        ]
+      },
+      {
+        "mean_english": "mạng lưới truyền thanh",
+        "definition": "a widespread organization",
+        "ex_of_definition_list": [
+          "a radio network",
+          "television networks."
+        ]
+      },
+      {
+        "mean_english": "mạng",
+        "definition": "a system of computers that can exchange messages and information",
+        "ex_of_definition_list": [
+          "The Internet is a global computer network"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1485779285"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/net_cb_dmean_5000_it.json",
+    "id_item": "net_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "net",
+    "list_mean": [
+      "lưới",
+      "bọc lưới",
+      "lãi ròng",
+      "tịnh"
+    ],
+    "hash_code_list_mean": "1781560051",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809324231_20c56766e0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809324231_e17d72ac77_o.png",
+        "id_image": "net_1861733"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810061160_10f402b8ef_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810061160_6ff204c34b_o.png",
+        "id_image": "net_193685"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809439238_b115bc40b7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809439238_40b700361b_o.png",
+        "id_image": "net_4293751"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808369027_f16790020e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808369027_2d27f0cb9d_o.png",
+        "id_image": "net_4437003"
+      }
+    ],
+    "hash_code_list_img": "571107051",
+    "list_definition_mean": [
+      {
+        "mean_english": "lưới",
+        "definition": "(any of various devices for catching creatures, eg fish, or for any of a number of other purposes, consisting of) a loose open material made of knotted string, thread, wire etc",
+        "ex_of_definition_list": [
+          "a fishing net",
+          "a hairnet",
+          "a tennis net",
+          "(also adjective) a net curtain."
+        ]
+      },
+      {
+        "mean_english": "bọc lưới",
+        "definition": "to catch in a net",
+        "ex_of_definition_list": [
+          "They netted several tons of fish."
+        ]
+      },
+      {
+        "mean_english": "lãi ròng",
+        "definition": "(of a profit etc) remaining after all expenses etc have been paid",
+        "ex_of_definition_list": [
+          "The net profit from the sale was $200."
+        ]
+      },
+      {
+        "mean_english": "tịnh",
+        "definition": "(of the weight of something) not including the packaging or container",
+        "ex_of_definition_list": [
+          "The sugar has a net weight of 1 kilo",
+          "The sugar weighs one kilo net."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1483622163"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/neural_cb_dmean_5000_it.json",
+    "id_item": "neural_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "neural",
+    "list_mean": [
+      "thuộc thần kinh"
+    ],
+    "hash_code_list_mean": "-1924749401",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809438903_65417f5d9f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809438903_1fb87e733a_o.png",
+        "id_image": "neural_1671635"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808368667_d4f8d83f69_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808368667_f32cacdb6a_o.png",
+        "id_image": "neural_2103658"
+      }
+    ],
+    "hash_code_list_img": "-17244433",
+    "list_definition_mean": [
+      {
+        "mean_english": "thuộc thần kinh",
+        "definition": "relating to a nerve or the nervous system",
+        "ex_of_definition_list": [
+          "neural activity."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1872652964"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/neurology_cb_dmean_5000_it.json",
+    "id_item": "neurology_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "neurology",
+    "list_mean": [
+      "thần kinh học"
+    ],
+    "hash_code_list_mean": "-2133306470",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809678899_ebf89f9118_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809678899_568910c974_o.png",
+        "id_image": "neurology_2712083"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809678859_55c9e86499_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809678859_8bb46f2e26_o.png",
+        "id_image": "neurology_3974920"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809323711_668609400a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809323711_bd709a7b21_o.png",
+        "id_image": "neurology_421272"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809323681_f523916297_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809323681_6a365e38d8_o.png",
+        "id_image": "neurology_552415"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810060395_d71b5d3f08_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810060395_a75185e8ee_o.png",
+        "id_image": "neurology_6258407"
+      }
+    ],
+    "hash_code_list_img": "-607756387",
+    "list_definition_mean": [
+      {
+        "mean_english": "thần kinh học",
+        "definition": "the scientific study of the nervous system and the diseases that affect it",
+        "ex_of_definition_list": [
+          "She spent three and a half years studying neurology."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1779913089"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/neuter_cb_dmean_5000_it.json",
+    "id_item": "neuter_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "neuter",
+    "list_mean": [
+      "thuộc giống trung",
+      "vô tính"
+    ],
+    "hash_code_list_mean": "495712819",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809678789_5bafc5041d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809678789_8975392c7f_o.png",
+        "id_image": "neuter_2935070"
+      }
+    ],
+    "hash_code_list_img": "2123557313",
+    "list_definition_mean": [
+      {
+        "mean_english": "thuộc giống trung",
+        "definition": "in certain languages, of the gender which is neither masculine nor feminine",
+        "ex_of_definition_list": [
+          "a neuter noun."
+        ]
+      },
+      {
+        "mean_english": "vô tính",
+        "definition": "without sex",
+        "ex_of_definition_list": [
+          "Worker bees are neuter, being neither male nor female."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1023324072"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/neutral_cb_dmean_5000_it.json",
+    "id_item": "neutral_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "neutral",
+    "list_mean": [
+      "trung lập",
+      "trung tính",
+      "trung tính",
+      "trung lập",
+      "số không của hộp số"
+    ],
+    "hash_code_list_mean": "-2020683693",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809438558_d099db83c9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809438558_288055c6b2_o.png",
+        "id_image": "neutral_1864581"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809678654_1ca1f6480e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809678654_0736311d6a_o.png",
+        "id_image": "neutral_2164188"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808368307_d900cba233_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808368307_9180f03a7b_o.png",
+        "id_image": "neutral_2978093"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809678574_5dacc6315b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809678574_23e552c6ab_o.png",
+        "id_image": "neutral_4658054"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810060340_a0ba651680_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810060340_b2be079b28_o.png",
+        "id_image": "neutral_520438"
+      }
+    ],
+    "hash_code_list_img": "-170090850",
+    "list_definition_mean": [
+      {
+        "mean_english": "trung lập",
+        "definition": "not taking sides in a quarrel or war",
+        "ex_of_definition_list": [
+          "A neutral country was asked to help settle the dispute."
+        ]
+      },
+      {
+        "mean_english": "trung tính",
+        "definition": "(of colour/color) not strong or definite",
+        "ex_of_definition_list": [
+          "Grey is a neutral colour."
+        ]
+      },
+      {
+        "mean_english": "trung tính",
+        "definition": "(in electricity) neither positively nor negatively charged",
+        "ex_of_definition_list": [
+          "the neutral wire in a plug."
+        ]
+      },
+      {
+        "mean_english": "trung lập",
+        "definition": "(a person belonging to) a nation that takes no part in a war or quarrel",
+        "ex_of_definition_list": [
+          "Switzerland remained a neutral during the conflict."
+        ]
+      },
+      {
+        "mean_english": "số không của hộp số",
+        "definition": "the position of the gear of an engine in which no power passes to the wheels etc",
+        "ex_of_definition_list": [
+          "I put the car into neutral."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-596696988"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/newspaper_cb_dmean_5000_it.json",
+    "id_item": "newspaper_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "newspaper",
+    "list_mean": [
+      "báo"
+    ],
+    "hash_code_list_mean": "101295",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808368067_84a223eabe_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808368067_c9543b9f28_o.png",
+        "id_image": "newspaper_168668"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809438263_e717f6bde6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809438263_820783a614_o.png",
+        "id_image": "newspaper_420448"
+      }
+    ],
+    "hash_code_list_img": "-464602985",
+    "list_definition_mean": [
+      {
+        "mean_english": "báo",
+        "definition": "a paper, printed daily or weekly, containing news etc",
+        "ex_of_definition_list": [
+          "a daily newspaper."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1927934230"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/news_cb_dmean_5000_it.json",
+    "id_item": "news_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "news",
+    "list_mean": [
+      "tin tức"
+    ],
+    "hash_code_list_mean": "-1314797018",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809678459_e77d7264bf_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809678459_2a74c0b745_o.png",
+        "id_image": "news_383832"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809678419_93ddaebf00_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809678419_4a59a87131_o.png",
+        "id_image": "news_823470"
+      }
+    ],
+    "hash_code_list_img": "-547538429",
+    "list_definition_mean": [
+      {
+        "mean_english": "tin tức",
+        "definition": "a report of, or information about, recent events",
+        "ex_of_definition_list": [
+          "You can hear the news on the radio at 9 o’clock",
+          "Is there any news about your friend?",
+          "(also adjective) a news broadcast."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1521946134"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/next_cb_dmean_5000_it.json",
+    "id_item": "next_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "next",
+    "list_mean": [
+      "tiếp sau",
+      "sau đó",
+      "kế tiếp"
+    ],
+    "hash_code_list_mean": "-864991517",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809438153_26f0a37824_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809438153_48baec11d6_o.png",
+        "id_image": "next_452320"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809438113_32497c3687_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809438113_db30d70c43_o.png",
+        "id_image": "next_6321842"
+      }
+    ],
+    "hash_code_list_img": "-799643176",
+    "list_definition_mean": [
+      {
+        "mean_english": "tiếp sau",
+        "definition": "nearest in place, time etc",
+        "ex_of_definition_list": [
+          "When you have called at that house, go on to the next one",
+          "The next person to arrive late will be sent away",
+          "Who is next on the list?"
+        ]
+      },
+      {
+        "mean_english": "sau đó",
+        "definition": "immediately after in place or time",
+        "ex_of_definition_list": [
+          "Gavin arrived first and Kathy came next."
+        ]
+      },
+      {
+        "mean_english": "kế tiếp",
+        "definition": "the person or thing nearest in place, time etc",
+        "ex_of_definition_list": [
+          "Finish one question before you begin to answer the next",
+          "One minute he was sitting beside me – the next he was lying on the ground."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2144747828"
+  }
+]

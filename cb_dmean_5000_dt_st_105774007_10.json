@@ -1,0 +1,2539 @@
+[
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/simplify_cb_dmean_5000_it.json",
+    "id_item": "simplify_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "simplify",
+    "list_mean": [
+      "đơn giản hoá"
+    ],
+    "hash_code_list_mean": "147007208",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809338346_8f8fd632e2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809338346_8576210151_o.png",
+        "id_image": "simplify_5184298"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809453308_a3457341f6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809453308_0b0415c00c_o.png",
+        "id_image": "simplify_5398110"
+      }
+    ],
+    "hash_code_list_img": "584170076",
+    "list_definition_mean": [
+      {
+        "mean_english": "đơn giản hoá",
+        "definition": "to make simpler",
+        "ex_of_definition_list": [
+          "Can you simplify your language a little?"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1361254907"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/simulation_cb_dmean_5000_it.json",
+    "id_item": "simulation_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "simulation",
+    "list_mean": [
+      "sự giả vờ",
+      "sự bắt chước"
+    ],
+    "hash_code_list_mean": "1365628177",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809453253_25654a0ab0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809453253_4980832307_o.png",
+        "id_image": "simulation_3410196"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810075320_2dbd0a6170_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810075320_f954cab6c7_o.png",
+        "id_image": "simulation_4795509"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809453148_314283c546_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809453148_ecafb6eddd_o.png",
+        "id_image": "simulation_4795547"
+      }
+    ],
+    "hash_code_list_img": "-1995133678",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự giả vờ",
+        "definition": "(an act of) simulating."
+      },
+      {
+        "mean_english": "sự bắt chước",
+        "definition": "something made to resemble something else",
+        "ex_of_definition_list": [
+          "a computer simulation of aircraft flight."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1037673216"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/simulator_cb_dmean_5000_it.json",
+    "id_item": "simulator_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "simulator",
+    "list_mean": [
+      "thiết bị mô phỏng"
+    ],
+    "hash_code_list_mean": "1412992503",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810075140_ea4c6a3c5f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810075140_b2dc9a0103_o.png",
+        "id_image": "simulator_1754016"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809452998_4221be6388_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809452998_0fd71bc97d_o.png",
+        "id_image": "simulator_3245486"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810075235_831864b954_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810075235_1d66888420_o.png",
+        "id_image": "simulator_825002"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809693404_796e76b1f4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809693404_6e3d7d7899_o.png",
+        "id_image": "simulator_950700"
+      }
+    ],
+    "hash_code_list_img": "-1743140331",
+    "list_definition_mean": [
+      {
+        "mean_english": "thiết bị mô phỏng",
+        "definition": "a machine that is used for training people by artificially creating the conditions they will have to operate a plane, train etc in",
+        "ex_of_definition_list": [
+          "A flight simulator is used to train the pilots."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1486739254"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/since_cb_dmean_5000_it.json",
+    "id_item": "since_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "since",
+    "list_mean": [
+      "từ khi",
+      "kể từ",
+      "bởi vì, vì lẽ rằng",
+      "từ lúc ấy",
+      "từ đó",
+      "từ một thời điểm trong quá khứ đến nay",
+      "kể từ",
+      "kể từ khi"
+    ],
+    "hash_code_list_mean": "-393574619",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809452943_983be7ee20_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809452943_4deb60284b_o.png",
+        "id_image": "since_5277664"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810075020_2a9e7f4c6c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810075020_0288efdf66_o.png",
+        "id_image": "since_5361023"
+      }
+    ],
+    "hash_code_list_img": "1263954211",
+    "list_definition_mean": [
+      {
+        "mean_english": "từ khi",
+        "definition": "(often with ever) from a certain time onwards",
+        "ex_of_definition_list": [
+          "I have been at home (ever) since I returned from Italy."
+        ]
+      },
+      {
+        "mean_english": "kể từ",
+        "definition": "at a time after",
+        "ex_of_definition_list": [
+          "Since he agreed to come, he has become ill."
+        ]
+      },
+      {
+        "mean_english": "bởi vì, vì lẽ rằng",
+        "definition": "because",
+        "ex_of_definition_list": [
+          "Since you are going, I will go too."
+        ]
+      },
+      {
+        "mean_english": "từ lúc ấy",
+        "definition": "(usually with ever) from that time onwards",
+        "ex_of_definition_list": [
+          "We fought and I have avoided him ever since."
+        ]
+      },
+      {
+        "mean_english": "từ đó",
+        "definition": "at a later time",
+        "ex_of_definition_list": [
+          "We have since become friends."
+        ]
+      },
+      {
+        "mean_english": "từ một thời điểm trong quá khứ đến nay",
+        "definition": "from the time of (something in the past) until the present time",
+        "ex_of_definition_list": [
+          "She has been very unhappy ever since her quarrel with her boyfriend."
+        ]
+      },
+      {
+        "mean_english": "kể từ",
+        "definition": "at a time between (something in the past) and the present time",
+        "ex_of_definition_list": [
+          "I’ve changed my address since last year."
+        ]
+      },
+      {
+        "mean_english": "kể từ khi",
+        "definition": "from the time of (the invention, discovery etc of)",
+        "ex_of_definition_list": [
+          "the greatest invention since the wheel."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-166128202"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/singer_cb_dmean_5000_it.json",
+    "id_item": "singer_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "singer",
+    "list_mean": [
+      "ca sĩ"
+    ],
+    "hash_code_list_mean": "94352951",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809452713_a192a81b7a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809452713_50005fd3c9_o.png",
+        "id_image": "singer_307958"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810074855_b59f754807_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810074855_84f542bf85_o.png",
+        "id_image": "singer_360479"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808382782_3d329fbc2d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808382782_260c903e4f_o.png",
+        "id_image": "singer_5167402"
+      }
+    ],
+    "hash_code_list_img": "21708202",
+    "list_definition_mean": [
+      {
+        "mean_english": "ca sĩ",
+        "definition": "a person who sings, eg as a profession",
+        "ex_of_definition_list": [
+          "Are you a good singer?",
+          "He’s a trained singer."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "5554557"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/single_cb_dmean_5000_it.json",
+    "id_item": "single_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "single",
+    "list_mean": [
+      "đơn độc",
+      "đơn",
+      "độc thân",
+      "một chiều",
+      "đĩa ghi âm mỗi mặt chỉ có ghi một bài hát ngắn",
+      "vé một chiều"
+    ],
+    "hash_code_list_mean": "864013979",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809337656_ef2ca85421_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809337656_be498b6563_o.png",
+        "id_image": "single_2442287"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809692899_8920b3a95b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809692899_dcefa8810d_o.png",
+        "id_image": "single_5509321"
+      }
+    ],
+    "hash_code_list_img": "2107210689",
+    "list_definition_mean": [
+      {
+        "mean_english": "đơn độc",
+        "definition": "one only",
+        "ex_of_definition_list": [
+          "The spider hung on a single thread."
+        ]
+      },
+      {
+        "mean_english": "đơn",
+        "definition": "for one person only",
+        "ex_of_definition_list": [
+          "a single bed/mattress."
+        ]
+      },
+      {
+        "mean_english": "độc thân",
+        "definition": "unmarried",
+        "ex_of_definition_list": [
+          "a single person."
+        ]
+      },
+      {
+        "mean_english": "một chiều",
+        "definition": "for or in one direction only",
+        "ex_of_definition_list": [
+          "a single ticket/journey/fare."
+        ]
+      },
+      {
+        "mean_english": "đĩa ghi âm mỗi mặt chỉ có ghi một bài hát ngắn",
+        "definition": "a gramophone record with only one tune or song on each side",
+        "ex_of_definition_list": [
+          "This group have just brought out a new single."
+        ]
+      },
+      {
+        "mean_english": "vé một chiều",
+        "definition": "a one-way ticket",
+        "ex_of_definition_list": [
+          "A single to Cambridge, please."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1777907884"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sink_cb_dmean_5000_it.json",
+    "id_item": "sink_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "sink",
+    "list_mean": [
+      "chìm",
+      "lặn xuống dưới chân trời",
+      "xuyên vào, ngập sâu vào",
+      "xuống thấp, lắng xuống",
+      "đầu tư",
+      "bồn rửa bát, chậu rửa bát"
+    ],
+    "hash_code_list_mean": "1398959812",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809452268_83d03e83c8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809452268_e99bf750c9_o.png",
+        "id_image": "sink_194427"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809692714_798df41e0d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809692714_49d004b591_o.png",
+        "id_image": "sink_231929"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808382382_5e68981f35_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808382382_99e4fc9e7c_o.png",
+        "id_image": "sink_780818"
+      }
+    ],
+    "hash_code_list_img": "1269060572",
+    "list_definition_mean": [
+      {
+        "mean_english": "chìm",
+        "definition": "to (cause to) go down below the surface of water etc",
+        "ex_of_definition_list": [
+          "The torpedo sank the battleship immediately",
+          "The ship sank in deep water."
+        ]
+      },
+      {
+        "mean_english": "lặn xuống dưới chân trời",
+        "definition": "to go down or become lower (slowly)",
+        "ex_of_definition_list": [
+          "The sun sank slowly behind the hills",
+          "Her voice sank to a whisper."
+        ]
+      },
+      {
+        "mean_english": "xuyên vào, ngập sâu vào",
+        "definition": "to (cause to) go deeply (into something)",
+        "ex_of_definition_list": [
+          "The ink sank into the paper",
+          "He sank his teeth into an apple."
+        ]
+      },
+      {
+        "mean_english": "xuống thấp, lắng xuống",
+        "definition": "(of one’s spirits etc) to become depressed or less hopeful",
+        "ex_of_definition_list": [
+          "My heart sinks when I think of the difficulties ahead."
+        ]
+      },
+      {
+        "mean_english": "đầu tư",
+        "definition": "to invest (money)",
+        "ex_of_definition_list": [
+          "He sank all his savings in the business."
+        ]
+      },
+      {
+        "mean_english": "bồn rửa bát, chậu rửa bát",
+        "definition": "a kind of basin with a drain and a water supply connected to it",
+        "ex_of_definition_list": [
+          "He washed the dishes in the sink."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "722995233"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sinus_cb_dmean_5000_it.json",
+    "id_item": "sinus_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "sinus",
+    "list_mean": [
+      "xoang"
+    ],
+    "hash_code_list_mean": "114226082",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809337131_1bd92facc2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809337131_7752fc1ea3_o.png",
+        "id_image": "sinus_2332814"
+      }
+    ],
+    "hash_code_list_img": "1308161288",
+    "list_definition_mean": [
+      {
+        "mean_english": "xoang",
+        "definition": "an air-filled hollow in the bones of the skull, connected with the nose",
+        "ex_of_definition_list": [
+          "His sinuses frequently become blocked in the winter",
+          "(also adjective) He suffers from sinus trouble."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "255974302"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sin_cb_dmean_5000_it.json",
+    "id_item": "sin_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "sin",
+    "list_mean": [
+      "tội lỗi",
+      "phạm tội"
+    ],
+    "hash_code_list_mean": "-738888697",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808383062_4c5eb59799_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808383062_ff65b1eaed_o.png",
+        "id_image": "sin_4727683"
+      }
+    ],
+    "hash_code_list_img": "304006625",
+    "list_definition_mean": [
+      {
+        "mean_english": "tội lỗi",
+        "definition": "wickedness, or a wicked act, especially one that breaks a religious law",
+        "ex_of_definition_list": [
+          "It is a sin to envy the possessions of other people",
+          "Lying and cheating are both sins."
+        ]
+      },
+      {
+        "mean_english": "phạm tội",
+        "definition": "to do wrong; to commit a sin, especially in the religious sense",
+        "ex_of_definition_list": [
+          "Forgive me, Father, for I have sinned."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1943498445"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/siphon_cb_dmean_5000_it.json",
+    "id_item": "siphon_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "siphon",
+    "list_mean": [
+      "ống xi-phông, ống truyền nước",
+      "chai đựng nước, xô đa",
+      "hút bằng xi-phông"
+    ],
+    "hash_code_list_mean": "-1095607118",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808382147_3c21e03504_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808382147_2a5435962a_o.png",
+        "id_image": "siphon_5071860"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809692434_fdd99d95c1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809692434_13da00d4b7_o.png",
+        "id_image": "siphon_5071883"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809337036_a746d00680_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809337036_491b6408fa_o.png",
+        "id_image": "siphon_5158861"
+      }
+    ],
+    "hash_code_list_img": "439185375",
+    "list_definition_mean": [
+      {
+        "mean_english": "ống xi-phông, ống truyền nước",
+        "definition": "a bent pipe or tube through which liquid can be drawn off from one container to another at a lower level",
+        "ex_of_definition_list": [
+          "He used a siphon to get some petrol out of the car’s tank."
+        ]
+      },
+      {
+        "mean_english": "chai đựng nước, xô đa",
+        "definition": "(also soda-siphon) a glass bottle with such a tube, used for soda water."
+      },
+      {
+        "mean_english": "hút bằng xi-phông",
+        "definition": "(with off, into etc) to draw (off) through a siphon",
+        "ex_of_definition_list": [
+          "They siphoned the petrol into a can."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "205440436"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/siren_cb_dmean_5000_it.json",
+    "id_item": "siren_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "siren",
+    "list_mean": [
+      "còi báo động"
+    ],
+    "hash_code_list_mean": "2000373334",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809692294_d6815a4413_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809692294_79e4f8cbdd_o.png",
+        "id_image": "siren_2399471"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810073940_ce52ae8aa3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810073940_8711e32659_o.png",
+        "id_image": "siren_2605938"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810074005_35415bfdd2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810074005_9d539a436c_o.png",
+        "id_image": "siren_427193"
+      }
+    ],
+    "hash_code_list_img": "-2078613066",
+    "list_definition_mean": [
+      {
+        "mean_english": "còi báo động",
+        "definition": "a kind of instrument that gives out a loud hooting noise as a (warning) signal",
+        "ex_of_definition_list": [
+          "a factory siren."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "935001879"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sir_cb_dmean_5000_it.json",
+    "id_item": "sir_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "sir",
+    "list_mean": [
+      "thưa ông, ngài, tiên sinh!",
+      "tước hiệu dùng trước tên đầu của một hầu tước hoặc tòng nam tước"
+    ],
+    "hash_code_list_mean": "-1582034036",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809451863_0d3422fa8e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809451863_ee326d179f_o.png",
+        "id_image": "sir_1464047"
+      }
+    ],
+    "hash_code_list_img": "682846262",
+    "list_definition_mean": [
+      {
+        "mean_english": "thưa ông, ngài, tiên sinh!",
+        "definition": "a polite form of address (spoken or written) to a man",
+        "ex_of_definition_list": [
+          "Excuse me, sir!",
+          "He started his letter ‘Dear Sirs, …’."
+        ]
+      },
+      {
+        "mean_english": "tước hiệu dùng trước tên đầu của một hầu tước hoặc tòng nam tước",
+        "definition": "in the United Kingdom, the title of a knight or baronet",
+        "ex_of_definition_list": [
+          "Sir Francis Drake."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1076063247"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sister_cb_dmean_5000_it.json",
+    "id_item": "sister_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "sister",
+    "list_mean": [
+      "chị, em gái",
+      "bà xơ",
+      "bà chị ,cô em",
+      "chị em",
+      "có tính chất chị em"
+    ],
+    "hash_code_list_mean": "-776293925",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810073910_e0d3782b17_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810073910_3697e32e0f_o.png",
+        "id_image": "sister_4842391"
+      }
+    ],
+    "hash_code_list_img": "1196869906",
+    "list_definition_mean": [
+      {
+        "mean_english": "chị, em gái",
+        "definition": "the title given to a female child to describe her relationship to the other children of her parents",
+        "ex_of_definition_list": [
+          "She’s my sister",
+          "my father’s sister."
+        ]
+      },
+      {
+        "mean_english": "bà xơ",
+        "definition": "a type of senior nurse",
+        "ex_of_definition_list": [
+          "She’s a sister on Ward 5."
+        ]
+      },
+      {
+        "mean_english": "bà chị ,cô em",
+        "definition": "a female member of a religious group."
+      },
+      {
+        "mean_english": "chị em",
+        "definition": "a female fellow member of any group",
+        "ex_of_definition_list": [
+          "We must fight for equal opportunities, sisters!"
+        ]
+      },
+      {
+        "mean_english": "có tính chất chị em",
+        "definition": "closely similar in design, function etc",
+        "ex_of_definition_list": [
+          "sister ships."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "491429208"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/site_cb_dmean_5000_it.json",
+    "id_item": "site_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "site",
+    "list_mean": [
+      "chỗ xây dựng, địa điểm",
+      "chỗ, vị trí"
+    ],
+    "hash_code_list_mean": "-9578761",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809451598_f7c962e696_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809451598_72050bd3da_o.png",
+        "id_image": "site_1548764"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810073775_ec0a1842d2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810073775_79f097ca49_o.png",
+        "id_image": "site_821635"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810073735_95f2ce0be9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810073735_1d25fa13c0_o.png",
+        "id_image": "site_821639"
+      }
+    ],
+    "hash_code_list_img": "1601984775",
+    "list_definition_mean": [
+      {
+        "mean_english": "chỗ xây dựng, địa điểm",
+        "definition": "a place where a building, town etc is, was, or is to be, built",
+        "ex_of_definition_list": [
+          "He’s got a job on a building-site",
+          "The site for the new factory has not been decided."
+        ]
+      },
+      {
+        "mean_english": "chỗ, vị trí",
+        "definition": "(also Web site) a site on the Internet that gives information about a particular subject or person",
+        "ex_of_definition_list": [
+          "This site has a lot of useful links for finding out more about the subject."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-769003903"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sit_cb_dmean_5000_it.json",
+    "id_item": "sit_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "sit",
+    "list_mean": [
+      "ngồi",
+      "ở vào vị trí nào đó",
+      "là thành viên chính thức của",
+      "đậu",
+      "là thí sinh của một kì thi",
+      "ngồi làm mẫu để vẽ chân dung",
+      "họp"
+    ],
+    "hash_code_list_mean": "760285576",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809692124_7490a2f6a5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809692124_6af30234c9_o.png",
+        "id_image": "sit_619179"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809336756_eef75e76a0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809336756_6d5c884c3b_o.png",
+        "id_image": "sit_6401005"
+      }
+    ],
+    "hash_code_list_img": "2032479067",
+    "list_definition_mean": [
+      {
+        "mean_english": "ngồi",
+        "definition": "to (cause to) rest on the buttocks; to (cause to) be seated",
+        "ex_of_definition_list": [
+          "He likes sitting on the floor",
+          "They sat me in the chair and started asking questions."
+        ]
+      },
+      {
+        "mean_english": "ở vào vị trí nào đó",
+        "definition": "to lie or rest; to have a certain position",
+        "ex_of_definition_list": [
+          "The parcel is sitting on the table."
+        ]
+      },
+      {
+        "mean_english": "là thành viên chính thức của",
+        "definition": "(with on) to be an official member of (a board, committee etc)",
+        "ex_of_definition_list": [
+          "He sat on several committees."
+        ]
+      },
+      {
+        "mean_english": "đậu",
+        "definition": "(of birds) to perch",
+        "ex_of_definition_list": [
+          "An owl was sitting in the tree by the window."
+        ]
+      },
+      {
+        "mean_english": "là thí sinh của một kì thi",
+        "definition": "to undergo (an examination)",
+        "ex_of_definition_list": [
+          "Beth sits her geography exam today."
+        ]
+      },
+      {
+        "mean_english": "ngồi làm mẫu để vẽ chân dung",
+        "definition": "to take up a position, or act as a model, in order to have one’s picture painted or one’s photograph taken",
+        "ex_of_definition_list": [
+          "She is sitting for a portrait/photograph."
+        ]
+      },
+      {
+        "mean_english": "họp",
+        "definition": "(of a committee, parliament etc) to be in session",
+        "ex_of_definition_list": [
+          "Parliament sits from now until Christmas."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-2132597427"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/size_cb_dmean_5000_it.json",
+    "id_item": "size_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "size",
+    "list_mean": [
+      "quy mô, kích cỡ",
+      "cỡ, số, khổ"
+    ],
+    "hash_code_list_mean": "-1245531868",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808381497_7b4b99e89c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808381497_d99da68b71_o.png",
+        "id_image": "size_1026512"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809691754_55021f1ab2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809691754_c0c536f9be_o.png",
+        "id_image": "size_4559381"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808381417_4002272cc4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808381417_3eba4c42b1_o.png",
+        "id_image": "size_4698533"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810073365_d1810b1d7d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810073365_42b05ca6d7_o.png",
+        "id_image": "size_5458488"
+      }
+    ],
+    "hash_code_list_img": "939523424",
+    "list_definition_mean": [
+      {
+        "mean_english": "quy mô, kích cỡ",
+        "definition": "largeness",
+        "ex_of_definition_list": [
+          "an area the size of a football pitch",
+          "The size of the problem alarmed us."
+        ]
+      },
+      {
+        "mean_english": "cỡ, số, khổ",
+        "definition": "one of a number of classes in which shoes, dresses etc are grouped according to measurements",
+        "ex_of_definition_list": [
+          "I take size 5 in shoes."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1133829930"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skate_cb_dmean_5000_it.json",
+    "id_item": "skate_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "skate",
+    "list_mean": [
+      "giầy trượt băng",
+      "patanh",
+      "đi patanh",
+      "trượt patanh",
+      "cá đuối",
+      "thịt cá đuối"
+    ],
+    "hash_code_list_mean": "-171463800",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810073240_1d78511500_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810073240_72bbe44291_o.png",
+        "id_image": "skate_1044359"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809451193_e29d3d5f77_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809451193_2d19453b4b_o.png",
+        "id_image": "skate_3751132"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809691589_7ab766b15f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809691589_33a1f50f28_o.png",
+        "id_image": "skate_3900032"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808381337_f515490d34_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808381337_99c7f25cee_o.png",
+        "id_image": "skate_984285"
+      }
+    ],
+    "hash_code_list_img": "1876000973",
+    "list_definition_mean": [
+      {
+        "mean_english": "giầy trượt băng",
+        "definition": "a boot with a steel blade fixed to it for moving on ice etc",
+        "ex_of_definition_list": [
+          "I can move very fast across the ice on skates."
+        ]
+      },
+      {
+        "mean_english": "patanh",
+        "definition": "a roller-skate."
+      },
+      {
+        "mean_english": "đi patanh",
+        "definition": "to move on skates",
+        "ex_of_definition_list": [
+          "She skates beautifully."
+        ]
+      },
+      {
+        "mean_english": "trượt patanh",
+        "definition": "to move over, along etc by skating."
+      },
+      {
+        "mean_english": "cá đuối",
+        "definition": "a kind of large, flat fish."
+      },
+      {
+        "mean_english": "thịt cá đuối",
+        "definition": "its flesh, used as food."
+      }
+    ],
+    "hash_code_list_definition_mean": "-96519861"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skeleton_cb_dmean_5000_it.json",
+    "id_item": "skeleton_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "skeleton",
+    "list_mean": [
+      "bộ xương",
+      "khung, sườn"
+    ],
+    "hash_code_list_mean": "714378331",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808381047_1190e14d11_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808381047_b8462187ca_o.png",
+        "id_image": "skeleton_421619"
+      }
+    ],
+    "hash_code_list_img": "34412374",
+    "list_definition_mean": [
+      {
+        "mean_english": "bộ xương",
+        "definition": "the bony framework of an animal or person",
+        "ex_of_definition_list": [
+          "The archaeologists dug up the skeleton of a dinosaur."
+        ]
+      },
+      {
+        "mean_english": "khung, sườn",
+        "definition": "any framework or outline",
+        "ex_of_definition_list": [
+          "the steel skeleton of a building."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1483421567"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sketch_cb_dmean_5000_it.json",
+    "id_item": "sketch_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "sketch",
+    "list_mean": [
+      "bức phác họa",
+      "bảng tóm tắt",
+      "vở ca kịch ngắn",
+      "vẽ phác",
+      "phác thảo, phác họa"
+    ],
+    "hash_code_list_mean": "596975709",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808380987_10d39e50dc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808380987_eab1fba3a7_o.png",
+        "id_image": "sketch_1589269"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809450853_f5a7523356_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809450853_ed259d3cba_o.png",
+        "id_image": "sketch_2722267"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809335946_966cdd12e4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809335946_09ed762297_o.png",
+        "id_image": "sketch_448718"
+      }
+    ],
+    "hash_code_list_img": "381054334",
+    "list_definition_mean": [
+      {
+        "mean_english": "bức phác họa",
+        "definition": "a rough plan, drawing or painting",
+        "ex_of_definition_list": [
+          "He made several sketches before starting the portrait."
+        ]
+      },
+      {
+        "mean_english": "bảng tóm tắt",
+        "definition": "a short (written or spoken) account without many details",
+        "ex_of_definition_list": [
+          "The book began with a sketch of the author’s life."
+        ]
+      },
+      {
+        "mean_english": "vở ca kịch ngắn",
+        "definition": "a short play, dramatic scene etc",
+        "ex_of_definition_list": [
+          "a comedy sketch."
+        ]
+      },
+      {
+        "mean_english": "vẽ phác",
+        "definition": "to draw, describe, or plan without completing the details",
+        "ex_of_definition_list": [
+          "She sketched a number of possible future scenarios."
+        ]
+      },
+      {
+        "mean_english": "phác thảo, phác họa",
+        "definition": "to make rough drawings, paintings etc",
+        "ex_of_definition_list": [
+          "She sketches as a hobby."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1617730510"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skewer_cb_dmean_5000_it.json",
+    "id_item": "skewer_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "skewer",
+    "list_mean": [
+      "cái xiên"
+    ],
+    "hash_code_list_mean": "1603693385",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810072670_959583def0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810072670_aae31d0cd9_o.png",
+        "id_image": "skewer_1393921"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809450668_2eef32dc21_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809450668_ded7d31e72_o.png",
+        "id_image": "skewer_1505118"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808380847_601c441e18_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808380847_4975e4ff54_o.png",
+        "id_image": "skewer_532374"
+      }
+    ],
+    "hash_code_list_img": "-120769547",
+    "list_definition_mean": [
+      {
+        "mean_english": "cái xiên",
+        "definition": "a long pin of wood or metal for keeping meat together while roasting",
+        "ex_of_definition_list": [
+          "Put the cubes of meat on a skewer."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "160632853"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skid_cb_dmean_5000_it.json",
+    "id_item": "skid_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "skid",
+    "list_mean": [
+      "chèn ,chặn",
+      "sự trượt",
+      "cái chèn, cái chặn"
+    ],
+    "hash_code_list_mean": "1377229462",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809450608_8d6e5c53a7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809450608_b3203967f0_o.png",
+        "id_image": "skid_5727806"
+      }
+    ],
+    "hash_code_list_img": "1024401779",
+    "list_definition_mean": [
+      {
+        "mean_english": "chèn ,chặn",
+        "definition": "to slide accidentally sideways",
+        "ex_of_definition_list": [
+          "His back wheel skidded and he fell off his bike."
+        ]
+      },
+      {
+        "mean_english": "sự trượt",
+        "definition": "an accidental slide sideways",
+        "ex_of_definition_list": [
+          "He lost control of the car and it went into a skid."
+        ]
+      },
+      {
+        "mean_english": "cái chèn, cái chặn",
+        "definition": "a wedge etc put under a wheel to check it on a steep place."
+      }
+    ],
+    "hash_code_list_definition_mean": "340375675"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skill_cb_dmean_5000_it.json",
+    "id_item": "skill_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "skill",
+    "list_mean": [
+      "sự khéo léo, sự tinh xảo",
+      "kĩ năng, kĩ xảo"
+    ],
+    "hash_code_list_mean": "1404523133",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810072510_78eb958628_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810072510_555c77ccff_o.png",
+        "id_image": "skill_2117028"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810072450_c01eb5a3bb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810072450_da1e3b7581_o.png",
+        "id_image": "skill_4158022"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809335521_0f289e27ab_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809335521_5d4a1f1ce9_o.png",
+        "id_image": "skill_6214158"
+      }
+    ],
+    "hash_code_list_img": "-1440750259",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự khéo léo, sự tinh xảo",
+        "definition": "cleverness at doing something, resulting either from practice or from natural ability",
+        "ex_of_definition_list": [
+          "This job requires a lot of skill."
+        ]
+      },
+      {
+        "mean_english": "kĩ năng, kĩ xảo",
+        "definition": "a job or activity that requires training and practice; an art or craft",
+        "ex_of_definition_list": [
+          "the basic skills of reading and writing."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "253741814"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skinhead_cb_dmean_5000_it.json",
+    "id_item": "skinhead_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "skinhead",
+    "list_mean": [
+      "đầu trọc"
+    ],
+    "hash_code_list_mean": "233255508",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809690539_4d3c6a2994_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809690539_34d32b173e_o.png",
+        "id_image": "skinhead_1881176"
+      }
+    ],
+    "hash_code_list_img": "1558931381",
+    "list_definition_mean": [
+      {
+        "mean_english": "đầu trọc",
+        "definition": "a young man whose hair is completely shaven off, especially one who is violent and racist",
+        "ex_of_definition_list": [
+          "Chris was the leader of a gang of right-wing skinheads."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1659196577"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skin_cb_dmean_5000_it.json",
+    "id_item": "skin_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "skin",
+    "list_mean": [
+      "da, bì",
+      "vỏ",
+      "lớp vỏ, lớp phủ",
+      "lột da, bóc vỏ"
+    ],
+    "hash_code_list_mean": "-1071220724",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809450378_24326ea7c4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809450378_d2326b8c4a_o.png",
+        "id_image": "skin_2037378"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809450363_016228d974_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809450363_c96b7c5de6_o.png",
+        "id_image": "skin_2269004"
+      }
+    ],
+    "hash_code_list_img": "-1490250789",
+    "list_definition_mean": [
+      {
+        "mean_english": "da, bì",
+        "definition": "the natural outer covering of an animal or person",
+        "ex_of_definition_list": [
+          "She couldn’t stand the feel of wool against her skin",
+          "A snake can shed its skin."
+        ]
+      },
+      {
+        "mean_english": "vỏ",
+        "definition": "a thin outer layer, as on a fruit",
+        "ex_of_definition_list": [
+          "a banana skin",
+          "onion skins."
+        ]
+      },
+      {
+        "mean_english": "lớp vỏ, lớp phủ",
+        "definition": "a (thin) film or layer that forms on a liquid",
+        "ex_of_definition_list": [
+          "Boiled milk often has a skin on it."
+        ]
+      },
+      {
+        "mean_english": "lột da, bóc vỏ",
+        "definition": "to remove the skin from",
+        "ex_of_definition_list": [
+          "He skinned and cooked the rabbit."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "797873764"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skip_cb_dmean_5000_it.json",
+    "id_item": "skip_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "skip",
+    "list_mean": [
+      "nhảy",
+      "nhảy dây",
+      "bỏ qua"
+    ],
+    "hash_code_list_mean": "-1951870610",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809335311_fac11040df_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809335311_f71764d3f0_o.png",
+        "id_image": "skip_1236502"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809450278_e35c1a50d0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809450278_d3dc2daaf3_o.png",
+        "id_image": "skip_2368554"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809690409_c780de9dcf_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809690409_f71afdeeda_o.png",
+        "id_image": "skip_2372117"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810072145_76c73272bc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810072145_401951b8d1_o.png",
+        "id_image": "skip_4483469"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810072120_e686bcfca1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810072120_d472a504fd_o.png",
+        "id_image": "skip_4631777"
+      }
+    ],
+    "hash_code_list_img": "-355287379",
+    "list_definition_mean": [
+      {
+        "mean_english": "nhảy",
+        "definition": "to go along with a hop on each foot in turn",
+        "ex_of_definition_list": [
+          "The little girl skipped up the path."
+        ]
+      },
+      {
+        "mean_english": "nhảy dây",
+        "definition": "to jump over a rope that is being turned under the feet and over the head (as a children’s game)."
+      },
+      {
+        "mean_english": "bỏ qua",
+        "definition": "to miss out (a meal, part of a book etc)",
+        "ex_of_definition_list": [
+          "I skipped lunch and went shopping instead",
+          "Skip chapter two."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1529810062"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skirt_cb_dmean_5000_it.json",
+    "id_item": "skirt_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "skirt",
+    "list_mean": [
+      "váy, áo đầm của phụ nữ",
+      "vạt áo"
+    ],
+    "hash_code_list_mean": "1326445718",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810072085_7a51326436_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810072085_a546f89238_o.png",
+        "id_image": "skirt_215242"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809690269_35ceeafa10_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809690269_7e2f933235_o.png",
+        "id_image": "skirt_407323"
+      }
+    ],
+    "hash_code_list_img": "1661102213",
+    "list_definition_mean": [
+      {
+        "mean_english": "váy, áo đầm của phụ nữ",
+        "definition": "a garment, worn by women, that hangs from the waist",
+        "ex_of_definition_list": [
+          "Was she wearing trousers or a skirt?"
+        ]
+      },
+      {
+        "mean_english": "vạt áo",
+        "definition": "the lower part of a dress, coat etc",
+        "ex_of_definition_list": [
+          "a dress with a flared skirt."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1665275633"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/ski_cb_dmean_5000_it.json",
+    "id_item": "ski_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "ski",
+    "list_mean": [
+      "ván trượt tuyết",
+      "trượt tuyết",
+      "liên quan đến xki"
+    ],
+    "hash_code_list_mean": "1759734952",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809690904_40dfa5c42c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809690904_17c579b2d0_o.png",
+        "id_image": "ski_3118218"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810072565_42c6d840cd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810072565_f3175d1d73_o.png",
+        "id_image": "ski_4669581"
+      }
+    ],
+    "hash_code_list_img": "1490701703",
+    "list_definition_mean": [
+      {
+        "mean_english": "ván trượt tuyết",
+        "definition": "one of a pair of long narrow strips of wood etc that are attached to the feet for gliding over snow, water etc."
+      },
+      {
+        "mean_english": "trượt tuyết",
+        "definition": "to travel on or use skis especially as a leisure activity",
+        "ex_of_definition_list": [
+          "He broke his leg when he was skiing."
+        ]
+      },
+      {
+        "mean_english": "liên quan đến xki",
+        "definition": "of or for the activity of skiing",
+        "ex_of_definition_list": [
+          "ski-suits",
+          "ski-jump."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-2060402257"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skull_cb_dmean_5000_it.json",
+    "id_item": "skull_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "skull",
+    "list_mean": [
+      "sọ, đầu lâu"
+    ],
+    "hash_code_list_mean": "1394102735",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808380152_b2bb2a639a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808380152_c6641d5988_o.png",
+        "id_image": "skull_1123926"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808380132_1a0093ec13_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808380132_cacf4ce8fb_o.png",
+        "id_image": "skull_1171183"
+      }
+    ],
+    "hash_code_list_img": "-1593904782",
+    "list_definition_mean": [
+      {
+        "mean_english": "sọ, đầu lâu",
+        "definition": "the bony case that encloses the brain",
+        "ex_of_definition_list": [
+          "He’s fractured his skull."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1769597399"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skyline_cb_dmean_5000_it.json",
+    "id_item": "skyline_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "skyline",
+    "list_mean": [
+      "hình dáng in lên nền trời"
+    ],
+    "hash_code_list_mean": "1221172625",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809334826_4c246cbea4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809334826_c5faa2e41d_o.png",
+        "id_image": "skyline_1354447"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809334866_7c62718d86_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809334866_e9c5715588_o.png",
+        "id_image": "skyline_270072"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808379832_d5f364676b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808379832_76d2277565_o.png",
+        "id_image": "skyline_353361"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809449873_74f738a0a5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809449873_206156c775_o.png",
+        "id_image": "skyline_4613401"
+      }
+    ],
+    "hash_code_list_img": "-1768932437",
+    "list_definition_mean": [
+      {
+        "mean_english": "hình dáng in lên nền trời",
+        "definition": "the outline of buildings, hills etc seen against the sky",
+        "ex_of_definition_list": [
+          "the New York skyline",
+          "I could see something moving on the skyline."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "194466063"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sky_cb_dmean_5000_it.json",
+    "id_item": "sky_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "sky",
+    "list_mean": [
+      "trời, bầu trời"
+    ],
+    "hash_code_list_mean": "-1500950281",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808380062_1bc552feb6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808380062_9be4904257_o.png",
+        "id_image": "sky_390702"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809450028_309178e2ec_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809450028_d0df9f6283_o.png",
+        "id_image": "sky_3982016"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810071975_5a25f62696_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810071975_93ac7acd47_o.png",
+        "id_image": "sky_673897"
+      }
+    ],
+    "hash_code_list_img": "-1747395824",
+    "list_definition_mean": [
+      {
+        "mean_english": "trời, bầu trời",
+        "definition": "the part of space above the earth, in which the sun, moon etc can be seen; the heavens",
+        "ex_of_definition_list": [
+          "The sky was blue and cloudless",
+          "We had grey skies and rain throughout our holiday",
+          "The skies were grey all week."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1079503765"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slack_cb_dmean_5000_it.json",
+    "id_item": "slack_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "slack",
+    "list_mean": [
+      "chùng , lỏng",
+      "lỏng, không chắc chắn",
+      "bê trễ, chểnh mảng",
+      "uể oải, chậm chạp"
+    ],
+    "hash_code_list_mean": "-1216587129",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808379762_6981a2bfb5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808379762_c233702afb_o.png",
+        "id_image": "slack_2111611"
+      }
+    ],
+    "hash_code_list_img": "61569838",
+    "list_definition_mean": [
+      {
+        "mean_english": "chùng , lỏng",
+        "definition": "loose; not firmly stretched",
+        "ex_of_definition_list": [
+          "Leave the rope slack."
+        ]
+      },
+      {
+        "mean_english": "lỏng, không chắc chắn",
+        "definition": "not firmly in position",
+        "ex_of_definition_list": [
+          "He tightened a few slack screws."
+        ]
+      },
+      {
+        "mean_english": "bê trễ, chểnh mảng",
+        "definition": "not strict; careless",
+        "ex_of_definition_list": [
+          "He is very slack about getting things done."
+        ]
+      },
+      {
+        "mean_english": "uể oải, chậm chạp",
+        "definition": "in industry etc, not busy; inactive",
+        "ex_of_definition_list": [
+          "Business has been rather slack lately."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1631993506"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slalom_cb_dmean_5000_it.json",
+    "id_item": "slalom_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "slalom",
+    "list_mean": [
+      "cuộc thi trượt băng"
+    ],
+    "hash_code_list_mean": "-816921435",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809689809_cea62d8b34_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809689809_3570be457f_o.png",
+        "id_image": "slalom_3118226"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810071665_8968d030b3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810071665_fb4a57ffcf_o.png",
+        "id_image": "slalom_3677352"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809689844_9b503d0f23_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809689844_d7209306a3_o.png",
+        "id_image": "slalom_661942"
+      }
+    ],
+    "hash_code_list_img": "2069741260",
+    "list_definition_mean": [
+      {
+        "mean_english": "cuộc thi trượt băng",
+        "definition": "a ski race down a winding course marked by flags; a similar race for canoes in water",
+        "ex_of_definition_list": [
+          "(also adjective) a slalom race",
+          "a slalom course."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "371271277"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slash_cb_dmean_5000_it.json",
+    "id_item": "slash_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "slash",
+    "list_mean": [
+      "rạch, cắt",
+      "quất, quật",
+      "giảm, hạ bớt",
+      "vết chém , vết rạch",
+      "đống cành lá cắt"
+    ],
+    "hash_code_list_mean": "-1590775423",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809689749_af700b7dec_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809689749_84341d3074_o.png",
+        "id_image": "slash_3602460"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809334621_7f32cfb21f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809334621_8a4306b5fe_o.png",
+        "id_image": "slash_4334081"
+      }
+    ],
+    "hash_code_list_img": "-1881788275",
+    "list_definition_mean": [
+      {
+        "mean_english": "rạch, cắt",
+        "definition": "to make long cuts in (cloth etc)",
+        "ex_of_definition_list": [
+          "He slashed his victim’s face with a razor."
+        ]
+      },
+      {
+        "mean_english": "quất, quật",
+        "definition": "(with at) to strike out violently at (something)",
+        "ex_of_definition_list": [
+          "He slashed at the bush angrily with a stick."
+        ]
+      },
+      {
+        "mean_english": "giảm, hạ bớt",
+        "definition": "to reduce greatly",
+        "ex_of_definition_list": [
+          "A notice in the shop window read ‘Prices slashed!’"
+        ]
+      },
+      {
+        "mean_english": "vết chém , vết rạch",
+        "definition": "a long cut or slit",
+        "ex_of_definition_list": [
+          "The murder victim had several knife slashes across his chest."
+        ]
+      },
+      {
+        "mean_english": "đống cành lá cắt",
+        "definition": "a sweeping blow."
+      }
+    ],
+    "hash_code_list_definition_mean": "1786504957"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slate_cb_dmean_5000_it.json",
+    "id_item": "slate_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "slate",
+    "list_mean": [
+      "đá phiến, đá acđoa",
+      "bảng đá đen",
+      "công kích, đả kích"
+    ],
+    "hash_code_list_mean": "-1214040472",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810071575_337ab2a871_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810071575_fc31f9557f_o.png",
+        "id_image": "slate_2473171"
+      }
+    ],
+    "hash_code_list_img": "1685697770",
+    "list_definition_mean": [
+      {
+        "mean_english": "đá phiến, đá acđoa",
+        "definition": "(a piece of) a type of easily split rock of a dull blue-grey/-gray colour/color, used for roofing etc",
+        "ex_of_definition_list": [
+          "Slates fell off the roof in the wind",
+          "(also adjective) a slate roof."
+        ]
+      },
+      {
+        "mean_english": "bảng đá đen",
+        "definition": "a small writing-board made of this, used by schoolchildren."
+      },
+      {
+        "mean_english": "công kích, đả kích",
+        "definition": "to say harsh things to or about",
+        "ex_of_definition_list": [
+          "The new play was slated by the critics."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "158624886"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slavery_cb_dmean_5000_it.json",
+    "id_item": "slavery_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "slavery",
+    "list_mean": [
+      "tình trạng nô lệ",
+      "sự chiếm hữu nô lệ",
+      "công việc được trả công rẻ mạt"
+    ],
+    "hash_code_list_mean": "-586166227",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810071400_e854166db2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810071400_a11c8a1733_o.png",
+        "id_image": "slavery_1396585"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809334426_4b077f731d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809334426_5d9dcbf1ac_o.png",
+        "id_image": "slavery_3782230"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809334396_96fe7a4132_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809334396_33e27695e6_o.png",
+        "id_image": "slavery_4110378"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809334331_ee5df6150f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809334331_546f40676e_o.png",
+        "id_image": "slavery_4484310"
+      }
+    ],
+    "hash_code_list_img": "427279552",
+    "list_definition_mean": [
+      {
+        "mean_english": "tình trạng nô lệ",
+        "definition": "the state of being a slave",
+        "ex_of_definition_list": [
+          "He was sold into slavery."
+        ]
+      },
+      {
+        "mean_english": "sự chiếm hữu nô lệ",
+        "definition": "the system of ownership of slaves."
+      },
+      {
+        "mean_english": "công việc được trả công rẻ mạt",
+        "definition": "very hard and badly-paid work",
+        "ex_of_definition_list": [
+          "Her job is sheer slavery."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "194931456"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slave_cb_dmean_5000_it.json",
+    "id_item": "slave_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "slave",
+    "list_mean": [
+      "người nô lệ",
+      "người làm việc đầu tắt, mặt tối",
+      "làm việc quần quật"
+    ],
+    "hash_code_list_mean": "649099382",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809689619_ed169e66aa_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809689619_f78fd7baef_o.png",
+        "id_image": "slave_5773048"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809689574_248c171dde_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809689574_8a5ae9b923_o.png",
+        "id_image": "slave_5906183"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808379397_46685ef08a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808379397_a59ea76cdb_o.png",
+        "id_image": "slave_6146655"
+      }
+    ],
+    "hash_code_list_img": "-616699223",
+    "list_definition_mean": [
+      {
+        "mean_english": "người nô lệ",
+        "definition": "a person who works for a master to whom he belongs",
+        "ex_of_definition_list": [
+          "In the nineteenth century many Africans were sold as slaves in the United States."
+        ]
+      },
+      {
+        "mean_english": "người làm việc đầu tắt, mặt tối",
+        "definition": "a person who works very hard for someone else",
+        "ex_of_definition_list": [
+          "He has a slave who types his letters and organizes his life for him."
+        ]
+      },
+      {
+        "mean_english": "làm việc quần quật",
+        "definition": "to work very hard, often for another person",
+        "ex_of_definition_list": [
+          "I’ve been slaving away for you all day while you sit and watch television."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "712289986"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sledgehammer_cb_dmean_5000_it.json",
+    "id_item": "sledgehammer_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "sledgehammer",
+    "list_mean": [
+      "búa tạ"
+    ],
+    "hash_code_list_mean": "-1255498301",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809334166_f54aa45336_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809334166_2cd6040f3f_o.png",
+        "id_image": "sledgehammer_2270946"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809334136_37cae61891_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809334136_a817998e09_o.png",
+        "id_image": "sledgehammer_3468408"
+      }
+    ],
+    "hash_code_list_img": "1191167773",
+    "list_definition_mean": [
+      {
+        "mean_english": "búa tạ",
+        "definition": "a large heavy hammer",
+        "ex_of_definition_list": [
+          "He used a sledgehammer to break up the rocks."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "981330884"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sledge_cb_dmean_5000_it.json",
+    "id_item": "sledge_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "sledge",
+    "list_mean": [
+      "xe trượt tuyết",
+      "đi bằng xe trượt tuyết"
+    ],
+    "hash_code_list_mean": "452508497",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809334256_29fe04f371_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809334256_918eef6415_o.png",
+        "id_image": "sledge_1403910"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809449288_66222b4787_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809449288_73f8f5a75f_o.png",
+        "id_image": "sledge_4861808"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809449213_ee5ac4309a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809449213_2e0c35ff6c_o.png",
+        "id_image": "sledge_6235724"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809689249_3ac04b7bf3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809689249_96413b5274_o.png",
+        "id_image": "sledge_6263048"
+      }
+    ],
+    "hash_code_list_img": "1382346343",
+    "list_definition_mean": [
+      {
+        "mean_english": "xe trượt tuyết",
+        "definition": "(also, especially American, sledsled) a vehicle, usually with runners, made for sliding upon snow."
+      },
+      {
+        "mean_english": "đi bằng xe trượt tuyết",
+        "definition": "to ride on a sledge",
+        "ex_of_definition_list": [
+          "The children were sledging all afternoon."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1331062716"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sleepy_cb_dmean_5000_it.json",
+    "id_item": "sleepy_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "sleepy",
+    "list_mean": [
+      "buồn ngủ",
+      "ngái ngủ",
+      "im lìm"
+    ],
+    "hash_code_list_mean": "-1355347299",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809448908_849a0d1501_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809448908_4d9e181529_o.png",
+        "id_image": "sleepy_1553281"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808378737_8870f80322_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808378737_487aacdd93_o.png",
+        "id_image": "sleepy_1747710"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809333816_3f68f25cb6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809333816_2bf8c12b66_o.png",
+        "id_image": "sleepy_4860802"
+      }
+    ],
+    "hash_code_list_img": "-1622778437",
+    "list_definition_mean": [
+      {
+        "mean_english": "buồn ngủ",
+        "definition": "inclined to sleep; drowsy",
+        "ex_of_definition_list": [
+          "I feel very sleepy after that long walk."
+        ]
+      },
+      {
+        "mean_english": "ngái ngủ",
+        "definition": "not (seeming to be) alert",
+        "ex_of_definition_list": [
+          "She always has a sleepy expression on her face."
+        ]
+      },
+      {
+        "mean_english": "im lìm",
+        "definition": "(of places etc) very quiet; lacking entertainment and excitement",
+        "ex_of_definition_list": [
+          "a sleepy town."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1584780946"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sleep_cb_dmean_5000_it.json",
+    "id_item": "sleep_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "sleep",
+    "list_mean": [
+      "ngủ",
+      "giấc, sự ngủ"
+    ],
+    "hash_code_list_mean": "2136643699",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808378912_dc7331dfc8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808378912_b1b26f4770_o.png",
+        "id_image": "sleep_1552312"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810071035_8b9563227d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810071035_9dde1d8741_o.png",
+        "id_image": "sleep_2843712"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809689154_a38528a202_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809689154_2430be910c_o.png",
+        "id_image": "sleep_392786"
+      }
+    ],
+    "hash_code_list_img": "-98638742",
+    "list_definition_mean": [
+      {
+        "mean_english": "ngủ",
+        "definition": "to rest with the eyes closed and in a state of natural unconsciousness",
+        "ex_of_definition_list": [
+          "Goodnight – sleep well!",
+          "I can’t sleep – my mind is too active."
+        ]
+      },
+      {
+        "mean_english": "giấc, sự ngủ",
+        "definition": "(a) rest in a state of natural unconsciousness",
+        "ex_of_definition_list": [
+          "It is bad for you to have too little sleep, since it makes you tired",
+          "I had only four hours’ sleep last night."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "449055519"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sleet_cb_dmean_5000_it.json",
+    "id_item": "sleet_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "sleet",
+    "list_mean": [
+      "cơn mưa tuyết, mưa đá",
+      "mưa tuyết, mưa đá"
+    ],
+    "hash_code_list_mean": "1466164593",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808378697_d1064872d6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808378697_75efcd77bb_o.png",
+        "id_image": "sleet_2581087"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809333746_57522077e8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809333746_ba3989f61e_o.png",
+        "id_image": "sleet_3750467"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809688809_88023d6fae_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809688809_5e7211eb34_o.png",
+        "id_image": "sleet_3755313"
+      }
+    ],
+    "hash_code_list_img": "31252814",
+    "list_definition_mean": [
+      {
+        "mean_english": "cơn mưa tuyết, mưa đá",
+        "definition": "rain mixed with snow or hail",
+        "ex_of_definition_list": [
+          "That isn’t snow – it’s just sleet."
+        ]
+      },
+      {
+        "mean_english": "mưa tuyết, mưa đá",
+        "definition": "to hail or snow, with a mixture of rain",
+        "ex_of_definition_list": [
+          "It seems to be sleeting outside."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1611043412"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sleeveless_cb_dmean_5000_it.json",
+    "id_item": "sleeveless_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "sleeveless",
+    "list_mean": [
+      "không có ống tay"
+    ],
+    "hash_code_list_mean": "1605782197",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810070500_3eafdb0c6f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810070500_fd14cde8da_o.png",
+        "id_image": "sleeveless_1826469"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809688694_ed65e66978_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809688694_d7d4ee4c85_o.png",
+        "id_image": "sleeveless_293190"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809448653_86f3694b63_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809448653_e826306c3d_o.png",
+        "id_image": "sleeveless_2965267"
+      }
+    ],
+    "hash_code_list_img": "-1979897801",
+    "list_definition_mean": [
+      {
+        "mean_english": "không có ống tay",
+        "definition": "without sleeves",
+        "ex_of_definition_list": [
+          "a sleeveless dress."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2131925138"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sleeve_cb_dmean_5000_it.json",
+    "id_item": "sleeve_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "sleeve",
+    "list_mean": [
+      "ống tay áo",
+      "bao cứng đựng đĩa hát",
+      "ống bọc ngoài"
+    ],
+    "hash_code_list_mean": "-1050522806",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810070570_203bcd847d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810070570_d73b80323d_o.png",
+        "id_image": "sleeve_2473063"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809448778_35db12dba5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809448778_a6e22d0e89_o.png",
+        "id_image": "sleeve_580550"
+      }
+    ],
+    "hash_code_list_img": "1647726390",
+    "list_definition_mean": [
+      {
+        "mean_english": "ống tay áo",
+        "definition": "the part of a garment that covers the arm",
+        "ex_of_definition_list": [
+          "He tore the sleeve of his jacket",
+          "a dress with long/short sleeves."
+        ]
+      },
+      {
+        "mean_english": "bao cứng đựng đĩa hát",
+        "definition": "(also record-sleeve) a stiff envelope for a gramophone record."
+      },
+      {
+        "mean_english": "ống bọc ngoài",
+        "definition": "something, eg a tubular part in a piece of machinery, that covers as a sleeve of a garment does the arm."
+      }
+    ],
+    "hash_code_list_definition_mean": "307751750"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slice_cb_dmean_5000_it.json",
+    "id_item": "slice_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "slice",
+    "list_mean": [
+      "miếng mỏng, lát mỏng",
+      "phần, phần chia",
+      "cắt ra từng miếng mỏng",
+      "lạng",
+      "đánh xoáy"
+    ],
+    "hash_code_list_mean": "2142718128",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808378252_b6914908ec_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808378252_f63d5d5260_o.png",
+        "id_image": "slice_1589430"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809448473_e8c6042398_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809448473_26abb20348_o.png",
+        "id_image": "slice_3390608"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810070290_b24158efeb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810070290_b755b2f274_o.png",
+        "id_image": "slice_448754"
+      }
+    ],
+    "hash_code_list_img": "879622130",
+    "list_definition_mean": [
+      {
+        "mean_english": "miếng mỏng, lát mỏng",
+        "definition": "a thin broad piece (of something)",
+        "ex_of_definition_list": [
+          "How many slices of meat would you like?"
+        ]
+      },
+      {
+        "mean_english": "phần, phần chia",
+        "definition": "a part or share",
+        "ex_of_definition_list": [
+          "Who got the largest slice of the profits?"
+        ]
+      },
+      {
+        "mean_english": "cắt ra từng miếng mỏng",
+        "definition": "to cut into slices",
+        "ex_of_definition_list": [
+          "He sliced the sausage/cucumber."
+        ]
+      },
+      {
+        "mean_english": "lạng",
+        "definition": "to cut (as) with a sharp blade or knife",
+        "ex_of_definition_list": [
+          "The blade slipped and sliced off the tip of his forefinger."
+        ]
+      },
+      {
+        "mean_english": "đánh xoáy",
+        "definition": "in golf etc, to hit (a ball) in such a way that it curves away to the right (or in the case of a left-handed player, to the left)",
+        "ex_of_definition_list": [
+          "She sliced her shot and the ball went into the bunker."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "954462182"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slide_cb_dmean_5000_it.json",
+    "id_item": "slide_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "slide",
+    "list_mean": [
+      "trượt, chuyển động nhẹ nhàng",
+      "lướt qua, đi lướt",
+      "sự trượt",
+      "ván trượt",
+      "bản kính dương (ở đèn chiếu)",
+      "bản kính mang vật (ở kính hiển vi)",
+      "cái trâm"
+    ],
+    "hash_code_list_mean": "-1188048047",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810070005_9e6b4a86fb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810070005_23e6695e0e_o.png",
+        "id_image": "slide_4001221"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809688229_606249d848_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809688229_cd30935726_o.png",
+        "id_image": "slide_950737"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809448258_3a6f61d4a9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809448258_bbe672bd9c_o.png",
+        "id_image": "slide_950754"
+      }
+    ],
+    "hash_code_list_img": "-1023712082",
+    "list_definition_mean": [
+      {
+        "mean_english": "trượt, chuyển động nhẹ nhàng",
+        "definition": "to (cause to) move or pass along smoothly",
+        "ex_of_definition_list": [
+          "He slid the drawer open",
+          "Children must not slide in the school corridors."
+        ]
+      },
+      {
+        "mean_english": "lướt qua, đi lướt",
+        "definition": "to move quietly or secretly",
+        "ex_of_definition_list": [
+          "I slid hurriedly past the window",
+          "He slid the book quickly out of sight under his pillow."
+        ]
+      },
+      {
+        "mean_english": "sự trượt",
+        "definition": "an act of sliding."
+      },
+      {
+        "mean_english": "ván trượt",
+        "definition": "a slippery track, or apparatus with a smooth sloping surface, on which people or things can slide",
+        "ex_of_definition_list": [
+          "The children were taking turns on the slide in the playground."
+        ]
+      },
+      {
+        "mean_english": "bản kính dương (ở đèn chiếu)",
+        "definition": "a small transparent photograph for projecting on to a screen etc",
+        "ex_of_definition_list": [
+          "The lecture was illustrated with slides."
+        ]
+      },
+      {
+        "mean_english": "bản kính mang vật (ở kính hiển vi)",
+        "definition": "a glass plate on which objects are placed to be examined under a microscope."
+      },
+      {
+        "mean_english": "cái trâm",
+        "definition": "(also hair-slide) a (decorative) hinged fastening for the hair."
+      }
+    ],
+    "hash_code_list_definition_mean": "-114389336"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slime_cb_dmean_5000_it.json",
+    "id_item": "slime_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "slime",
+    "list_mean": [
+      "chất lỏng đặc, chất nhờn"
+    ],
+    "hash_code_list_mean": "1310722653",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809687979_b45d50da50_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809687979_1700004ca6_o.png",
+        "id_image": "slime_2213618"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809332946_6b75089e14_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809332946_703128acfe_o.png",
+        "id_image": "slime_5507660"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809447978_23b474dc19_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809447978_0ea0ff1b2d_o.png",
+        "id_image": "slime_5507730"
+      }
+    ],
+    "hash_code_list_img": "39844951",
+    "list_definition_mean": [
+      {
+        "mean_english": "chất lỏng đặc, chất nhờn",
+        "definition": "thin, slippery mud or other matter that is soft, sticky and half-liquid",
+        "ex_of_definition_list": [
+          "There was a layer of slime at the bottom of the pond."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1915091088"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slim_cb_dmean_5000_it.json",
+    "id_item": "slim_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "slim",
+    "list_mean": [
+      "mảnh khảnh, thon thả",
+      "sơ sài, nghèo nàn",
+      "làm cho người thon nhỏ"
+    ],
+    "hash_code_list_mean": "1971081459",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808377952_f3bfa39452_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808377952_621da4c1c7_o.png",
+        "id_image": "slim_412588"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810069880_a8db629296_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810069880_87f679eb0d_o.png",
+        "id_image": "slim_6381877"
+      }
+    ],
+    "hash_code_list_img": "960111543",
+    "list_definition_mean": [
+      {
+        "mean_english": "mảnh khảnh, thon thả",
+        "definition": "not thick or fat; thin",
+        "ex_of_definition_list": [
+          "She has a slim, graceful figure",
+          "Taking exercise is one way of keeping slim."
+        ]
+      },
+      {
+        "mean_english": "sơ sài, nghèo nàn",
+        "definition": "not good; slight",
+        "ex_of_definition_list": [
+          "There’s still a slim chance that we’ll find the child alive."
+        ]
+      },
+      {
+        "mean_english": "làm cho người thon nhỏ",
+        "definition": "to use means (such as eating less) in order to become slimmer",
+        "ex_of_definition_list": [
+          "I mustn’t eat cakes – I’m trying to slim."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1252942629"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slippery_cb_dmean_5000_it.json",
+    "id_item": "slippery_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "slippery",
+    "list_mean": [
+      "trơn, khó nắm giữ",
+      "không đáng tin cậy"
+    ],
+    "hash_code_list_mean": "-455924110",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809687559_ea59cb9e34_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809687559_8bbd3a5261_o.png",
+        "id_image": "slippery_1970782"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809447578_d3129ccf53_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809447578_bff8fd9804_o.png",
+        "id_image": "slippery_1971094"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808377287_5a0b9e9ddb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808377287_48aa331b0e_o.png",
+        "id_image": "slippery_2557011"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809447498_650da6de2f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809447498_260f5edf57_o.png",
+        "id_image": "slippery_2598165"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810069190_852ba88787_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810069190_01ce5148a7_o.png",
+        "id_image": "slippery_4745351"
+      }
+    ],
+    "hash_code_list_img": "2091275159",
+    "list_definition_mean": [
+      {
+        "mean_english": "trơn, khó nắm giữ",
+        "definition": "so smooth as to cause slipping",
+        "ex_of_definition_list": [
+          "The path is slippery – watch out!"
+        ]
+      },
+      {
+        "mean_english": "không đáng tin cậy",
+        "definition": "not trustworthy",
+        "ex_of_definition_list": [
+          "He’s rather a slippery character."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1378888327"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slipper_cb_dmean_5000_it.json",
+    "id_item": "slipper_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "slipper",
+    "list_mean": [
+      "dép lê"
+    ],
+    "hash_code_list_mean": "-1213500846",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809687614_1636267159_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809687614_5f4a15ae9a_o.png",
+        "id_image": "slipper_2652536"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809687644_0c73d7c5be_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809687644_de2b8c7b14_o.png",
+        "id_image": "slipper_412012"
+      }
+    ],
+    "hash_code_list_img": "1553676982",
+    "list_definition_mean": [
+      {
+        "mean_english": "dép lê",
+        "definition": "a loose, soft kind of shoe for wearing indoors",
+        "ex_of_definition_list": [
+          "He was wearing a pair of bedroom slippers."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1631251312"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slip_cb_dmean_5000_it.json",
+    "id_item": "slip_cb_dmean_5000_it",
+    "id_album": "105774007",
+    "english": "slip",
+    "list_mean": [
+      "trượt, tuột",
+      "thoát, tuột ra khỏi",
+      "không được khỏe, nhanh nhẹn, tỉnh táo như mọi ngày",
+      "chạy qua",
+      "lẻn, lủi, lẩn",
+      "đút nhanh, nhét gọn",
+      "sự trượt chân",
+      "sự sơ suất",
+      "áo gối, coócxê",
+      "bến tàu, chỗ đóng tàu",
+      "miếng giấy nhỏ"
+    ],
+    "hash_code_list_mean": "-856072420",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809332721_e43f21e662_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809332721_8d62b55d5b_o.png",
+        "id_image": "slip_1971073"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809687709_6c8986a9ee_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809687709_4e6c3fa4ec_o.png",
+        "id_image": "slip_4482334"
+      }
+    ],
+    "hash_code_list_img": "1635346407",
+    "list_definition_mean": [
+      {
+        "mean_english": "trượt, tuột",
+        "definition": "to slide accidentally and lose one’s balance or footing",
+        "ex_of_definition_list": [
+          "I slipped and fell on the path."
+        ]
+      },
+      {
+        "mean_english": "thoát, tuột ra khỏi",
+        "definition": "to slide, or drop, out of the right position or out of control",
+        "ex_of_definition_list": [
+          "The plate slipped out of my grasp."
+        ]
+      },
+      {
+        "mean_english": "không được khỏe, nhanh nhẹn, tỉnh táo như mọi ngày",
+        "definition": "to drop in standard",
+        "ex_of_definition_list": [
+          "I’m sorry about my mistake – I must be slipping!"
+        ]
+      },
+      {
+        "mean_english": "chạy qua",
+        "definition": "to move quietly especially without being noticed",
+        "ex_of_definition_list": [
+          "She slipped out of the room."
+        ]
+      },
+      {
+        "mean_english": "lẻn, lủi, lẩn",
+        "definition": "to escape from",
+        "ex_of_definition_list": [
+          "The dog had slipped its lead and disappeared."
+        ]
+      },
+      {
+        "mean_english": "đút nhanh, nhét gọn",
+        "definition": "to put or pass (something) with a quick, light movement",
+        "ex_of_definition_list": [
+          "She slipped the letter back in its envelope."
+        ]
+      },
+      {
+        "mean_english": "sự trượt chân",
+        "definition": "an act of slipping",
+        "ex_of_definition_list": [
+          "Her sprained ankle was a result of a slip on the path."
+        ]
+      },
+      {
+        "mean_english": "sự sơ suất",
+        "definition": "a usually small mistake",
+        "ex_of_definition_list": [
+          "Everyone makes the occasional slip."
+        ]
+      },
+      {
+        "mean_english": "áo gối, coócxê",
+        "definition": "a kind of undergarment worn under a dress; petticoat."
+      },
+      {
+        "mean_english": "bến tàu, chỗ đóng tàu",
+        "definition": "(also slipway) a sloping platform next to water used for building and launching ships."
+      },
+      {
+        "mean_english": "miếng giấy nhỏ",
+        "definition": "a strip or narrow piece of paper",
+        "ex_of_definition_list": [
+          "She wrote down his telephone number on a slip of paper."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-332757811"
+  }
+]

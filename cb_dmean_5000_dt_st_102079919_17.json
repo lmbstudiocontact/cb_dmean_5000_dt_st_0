@@ -1,0 +1,142 @@
+[
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/puzzle_cb_dmean_5000_it.json",
+    "id_item": "puzzle_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "puzzle",
+    "list_mean": [
+      "làm bối rối",
+      "suy nghĩ kỹ lưỡng",
+      "vấn đề khó xử",
+      "câu đố"
+    ],
+    "hash_code_list_mean": "-906064447",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808391337_2058601417_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808391337_7e7eeca983_o.png",
+        "id_image": "puzzle_296931"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809461138_2e6b424fbf_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809461138_f44d5c95ab_o.png",
+        "id_image": "puzzle_515784"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809461093_654b5361f0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809461093_d886dcd6ea_o.png",
+        "id_image": "puzzle_868648"
+      }
+    ],
+    "hash_code_list_img": "-1788065070",
+    "list_definition_mean": [
+      {
+        "mean_english": "làm bối rối",
+        "definition": "to perplex, baffle or bewilder",
+        "ex_of_definition_list": [
+          "The question puzzled them",
+          "What puzzles me is how he got here so soon."
+        ]
+      },
+      {
+        "mean_english": "suy nghĩ kỹ lưỡng",
+        "definition": "to think long and carefully about a problem etc",
+        "ex_of_definition_list": [
+          "I puzzled over the sum for hours."
+        ]
+      },
+      {
+        "mean_english": "vấn đề khó xử",
+        "definition": "a problem that causes a lot of thought",
+        "ex_of_definition_list": [
+          "Her behaviour was a puzzle to him."
+        ]
+      },
+      {
+        "mean_english": "câu đố",
+        "definition": "a kind of game or toy to test one’s thinking, knowledge or skill",
+        "ex_of_definition_list": [
+          "a jigsaw puzzle",
+          "a crossword puzzle."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-2066066510"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pyjamas_cb_dmean_5000_it.json",
+    "id_item": "pyjamas_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "pyjamas",
+    "list_mean": [
+      "bộ đồ ngủ"
+    ],
+    "hash_code_list_mean": "1415898296",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810083675_f2d7e3ed58_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810083675_903fe8d6c4_o.png",
+        "id_image": "pyjamas_2008029"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810083645_edaa2a0023_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810083645_22bdf44bfc_o.png",
+        "id_image": "pyjamas_2553589"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809460918_4c48a2ac15_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809460918_0dec64fa33_o.png",
+        "id_image": "pyjamas_2554103"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809460998_01d23cab3e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809460998_68e8148dd8_o.png",
+        "id_image": "pyjamas_407328"
+      }
+    ],
+    "hash_code_list_img": "1243496755",
+    "list_definition_mean": [
+      {
+        "mean_english": "bộ đồ ngủ",
+        "definition": "a suit for sleeping, consisting of trousers and a jacket",
+        "ex_of_definition_list": [
+          "two pairs of pyjamas."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "316919611"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pyre_cb_dmean_5000_it.json",
+    "id_item": "pyre_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "pyre",
+    "list_mean": [
+      "giàn thiêu"
+    ],
+    "hash_code_list_mean": "-155096081",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809345961_9793b5969a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809345961_8607f16e84_o.png",
+        "id_image": "pyre_2458055"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808390947_c60aceaf70_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808390947_43c0a392b8_o.png",
+        "id_image": "pyre_676345"
+      }
+    ],
+    "hash_code_list_img": "84914006",
+    "list_definition_mean": [
+      {
+        "mean_english": "giàn thiêu",
+        "definition": "a pile of wood on which a dead body is ceremonially burned",
+        "ex_of_definition_list": [
+          "a funeral pyre"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "817232275"
+  }
+]

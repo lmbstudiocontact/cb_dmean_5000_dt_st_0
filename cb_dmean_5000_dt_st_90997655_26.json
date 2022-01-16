@@ -1,0 +1,2347 @@
+[
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/daytime_cb_dmean_5000_it.json",
+    "id_item": "daytime_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "daytime",
+    "list_mean": [
+      "ban ngày"
+    ],
+    "hash_code_list_mean": "-1927592798",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810045910_9f14cc10be_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810045910_352e4214bd_o.png",
+        "id_image": "daytime_4062898"
+      }
+    ],
+    "hash_code_list_img": "41260904",
+    "list_definition_mean": [
+      {
+        "mean_english": "ban ngày",
+        "definition": "the time when it is day",
+        "ex_of_definition_list": [
+          "Hedgehogs don’t usually come out during the daytime."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "943051804"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/day_cb_dmean_5000_it.json",
+    "id_item": "day_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "day",
+    "list_mean": [
+      "ban ngày",
+      "ngày",
+      "ngày",
+      "thời buổi"
+    ],
+    "hash_code_list_mean": "1032936229",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809664409_a52d3c0450_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809664409_8138102a32_o.png",
+        "id_image": "day_183258"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809664344_b3f4a7d511_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809664344_52333b07b6_o.png",
+        "id_image": "day_2254640"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809664319_b36b204166_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809664319_61a56f6786_o.png",
+        "id_image": "day_4198955"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810046100_1af5037a41_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810046100_7765fa42a7_o.png",
+        "id_image": "day_721071"
+      }
+    ],
+    "hash_code_list_img": "-365107636",
+    "list_definition_mean": [
+      {
+        "mean_english": "ban ngày",
+        "definition": "the period from sunrise to sunset",
+        "ex_of_definition_list": [
+          "She worked all day",
+          "The days are warm, but the nights are cold."
+        ]
+      },
+      {
+        "mean_english": "ngày",
+        "definition": "a part of this period eg that part spent at work",
+        "ex_of_definition_list": [
+          "How long is your working day?",
+          "I see him every day."
+        ]
+      },
+      {
+        "mean_english": "ngày",
+        "definition": "the period of twenty-four hours from one midnight to the next",
+        "ex_of_definition_list": [
+          "How many days does September have?"
+        ]
+      },
+      {
+        "mean_english": "thời buổi",
+        "definition": "the period of, or of the greatest activity, influence, strength etc of (something or someone)",
+        "ex_of_definition_list": [
+          "There was far less traffic on the roads in my grandfather’s day",
+          "In the days of steam power, a five-person crew was required if a steam locomotive pulled a single passenger carriage."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "187562765"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/deadline_cb_dmean_5000_it.json",
+    "id_item": "deadline_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "deadline",
+    "list_mean": [
+      "hạn cuối"
+    ],
+    "hash_code_list_mean": "820090036",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808353002_8680fb4ca3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808353002_8fee3417f3_o.png",
+        "id_image": "deadline_287490"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809663999_de0863e450_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809663999_e7eecd57a9_o.png",
+        "id_image": "deadline_3772898"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808352987_a35dcef205_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808352987_72e332be15_o.png",
+        "id_image": "deadline_448741"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809664029_ea02ac4897_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809664029_715165e250_o.png",
+        "id_image": "deadline_850145"
+      }
+    ],
+    "hash_code_list_img": "-170331014",
+    "list_definition_mean": [
+      {
+        "mean_english": "hạn cuối",
+        "definition": "a time by which something must be done or finished",
+        "ex_of_definition_list": [
+          "Monday is the deadline for handing in this essay."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "219743832"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/deadlock_cb_dmean_5000_it.json",
+    "id_item": "deadlock_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "deadlock",
+    "list_mean": [
+      "sự bế tắc"
+    ],
+    "hash_code_list_mean": "-1101647706",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810045690_a0c59da3a5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810045690_dc6d293e5e_o.png",
+        "id_image": "deadlock_311573"
+      }
+    ],
+    "hash_code_list_img": "1664750090",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự bế tắc",
+        "definition": "a situation in which no further progress towards an agreement is possible",
+        "ex_of_definition_list": [
+          "Talks between the two sides ended in deadlock."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1364051475"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dead_cb_dmean_5000_it.json",
+    "id_item": "dead_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "dead",
+    "list_mean": [
+      "chết",
+      "hỏng",
+      "hoàn toàn",
+      "hoàn toàn",
+      "người đã mất",
+      "đã chết"
+    ],
+    "hash_code_list_mean": "-1053624444",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808353067_f7288731b9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808353067_6c19389aea_o.png",
+        "id_image": "dead_3768596"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808353052_7b5962c3de_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808353052_a34f10e9f9_o.png",
+        "id_image": "dead_5664088"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809308821_1030a41a28_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809308821_b6eaf03c45_o.png",
+        "id_image": "dead_6000754"
+      }
+    ],
+    "hash_code_list_img": "-2131623943",
+    "list_definition_mean": [
+      {
+        "mean_english": "chết",
+        "definition": "without life; not living",
+        "ex_of_definition_list": [
+          "a dead body",
+          "Throw out those dead flowers."
+        ]
+      },
+      {
+        "mean_english": "hỏng",
+        "definition": "not working and not giving any sign of being about to work",
+        "ex_of_definition_list": [
+          "The phone/engine is dead."
+        ]
+      },
+      {
+        "mean_english": "hoàn toàn",
+        "definition": "absolute or complete",
+        "ex_of_definition_list": [
+          "There was dead silence at his words",
+          "He came to a dead stop."
+        ]
+      },
+      {
+        "mean_english": "hoàn toàn",
+        "definition": "completely",
+        "ex_of_definition_list": [
+          "They were dead drunk when I saw them at the party."
+        ]
+      },
+      {
+        "mean_english": "người đã mất",
+        "definition": "people who have died",
+        "ex_of_definition_list": [
+          "The local people bury their dead in a cemetery overlooking the village."
+        ]
+      },
+      {
+        "mean_english": "đã chết",
+        "definition": "the state of being dead",
+        "ex_of_definition_list": [
+          "It’s a famous horror film about people who rise from the dead (= come alive again after being dead)."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1874696067"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/deaf_cb_dmean_5000_it.json",
+    "id_item": "deaf_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "deaf",
+    "list_mean": [
+      "điếc",
+      "làm ngơ"
+    ],
+    "hash_code_list_mean": "-451343962",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809663924_3e8ab70f06_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809663924_c186887392_o.png",
+        "id_image": "deaf_2395143"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809308706_a64974d575_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809308706_7e3435ce24_o.png",
+        "id_image": "deaf_2472657"
+      }
+    ],
+    "hash_code_list_img": "-1437635526",
+    "list_definition_mean": [
+      {
+        "mean_english": "điếc",
+        "definition": "unable to hear",
+        "ex_of_definition_list": [
+          "She has been deaf since birth."
+        ]
+      },
+      {
+        "mean_english": "làm ngơ",
+        "definition": "(with to) refusing to understand or to listen",
+        "ex_of_definition_list": [
+          "He was deaf to all arguments."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1930559757"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dealer_cb_dmean_5000_it.json",
+    "id_item": "dealer_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "dealer",
+    "list_mean": [
+      "người buôn bán",
+      "người chia bài"
+    ],
+    "hash_code_list_mean": "-493531795",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808352587_6704f976c2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808352587_9b0af38085_o.png",
+        "id_image": "dealer_1055836"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809423653_a67912de15_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809423653_1faaf36bc3_o.png",
+        "id_image": "dealer_5235543"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810045375_16ed27e5c5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810045375_4b459eb7e5_o.png",
+        "id_image": "dealer_6429372"
+      }
+    ],
+    "hash_code_list_img": "-1610380828",
+    "list_definition_mean": [
+      {
+        "mean_english": "người buôn bán",
+        "definition": "a person who buys and sells",
+        "ex_of_definition_list": [
+          "a dealer in antiques."
+        ]
+      },
+      {
+        "mean_english": "người chia bài",
+        "definition": "the person who distributes the cards in a card game."
+      }
+    ],
+    "hash_code_list_definition_mean": "1842955989"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/deal_cb_dmean_5000_it.json",
+    "id_item": "deal_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "deal",
+    "list_mean": [
+      "sự thỏa thuận trong kinh doanh",
+      "sự chia bài",
+      "kinh doanh",
+      "chia bài"
+    ],
+    "hash_code_list_mean": "-1612109033",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808352757_84fb0815e1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808352757_1337e0ddcd_o.png",
+        "id_image": "deal_1312290"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809308576_4bd2888714_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809308576_f2b8e5caba_o.png",
+        "id_image": "deal_1441352"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809663769_f0a5004481_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809663769_a1735b83bb_o.png",
+        "id_image": "deal_4433157"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810045475_7c669aa762_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810045475_67fd96a572_o.png",
+        "id_image": "deal_5928167"
+      }
+    ],
+    "hash_code_list_img": "895216838",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự thỏa thuận trong kinh doanh",
+        "definition": "a bargain or arrangement",
+        "ex_of_definition_list": [
+          "a business deal."
+        ]
+      },
+      {
+        "mean_english": "sự chia bài",
+        "definition": "the act of dividing cards among players in a card game."
+      },
+      {
+        "mean_english": "kinh doanh",
+        "definition": "to do business, especially to buy and sell",
+        "ex_of_definition_list": [
+          "I think he deals in stocks and shares."
+        ]
+      },
+      {
+        "mean_english": "chia bài",
+        "definition": "to distribute (cards)",
+        "ex_of_definition_list": [
+          "Whose turn is it to deal?"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "567032854"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/death_cb_dmean_5000_it.json",
+    "id_item": "death_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "death",
+    "list_mean": [
+      "cái chết",
+      "bị giết chết",
+      "tình trạng chết"
+    ],
+    "hash_code_list_mean": "-882032210",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809308226_6c1364d205_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809308226_975c57b075_o.png",
+        "id_image": "death_5778357"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809423398_683209bf2c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809423398_bf0d5ddd3b_o.png",
+        "id_image": "death_6001115"
+      }
+    ],
+    "hash_code_list_img": "1062758253",
+    "list_definition_mean": [
+      {
+        "mean_english": "cái chết",
+        "definition": "the act of dying",
+        "ex_of_definition_list": [
+          "There have been several deaths in the town recently",
+          "Most people fear death."
+        ]
+      },
+      {
+        "mean_english": "bị giết chết",
+        "definition": "something which causes one to die",
+        "ex_of_definition_list": [
+          "Smoking too much will be the death of him."
+        ]
+      },
+      {
+        "mean_english": "tình trạng chết",
+        "definition": "the state of being dead",
+        "ex_of_definition_list": [
+          "Her eyes were closed in death."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-876009048"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/debate_cb_dmean_5000_it.json",
+    "id_item": "debate_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "debate",
+    "list_mean": [
+      "cuộc tranh luận",
+      "tranh luận",
+      "cân nhắc"
+    ],
+    "hash_code_list_mean": "1765508258",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808352357_407a4381cf_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808352357_26ebc110be_o.png",
+        "id_image": "debate_1147948"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809308131_8db599c0cb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809308131_a8bb66bf86_o.png",
+        "id_image": "debate_2688835"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809423338_4fcb4271d9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809423338_df17fefc0c_o.png",
+        "id_image": "debate_3571109"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809423313_b438204cba_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809423313_a67be26fdb_o.png",
+        "id_image": "debate_5605909"
+      }
+    ],
+    "hash_code_list_img": "-950944122",
+    "list_definition_mean": [
+      {
+        "mean_english": "cuộc tranh luận",
+        "definition": "a discussion or argument, especially a formal one in front of an audience",
+        "ex_of_definition_list": [
+          "a Parliamentary debate."
+        ]
+      },
+      {
+        "mean_english": "tranh luận",
+        "definition": "to hold a formal discussion (about)",
+        "ex_of_definition_list": [
+          "Parliament will debate the question tomorrow."
+        ]
+      },
+      {
+        "mean_english": "cân nhắc",
+        "definition": "to think about or talk about something before coming to a decision",
+        "ex_of_definition_list": [
+          "We debated whether to go by bus or train."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "110999258"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/debris_cb_dmean_5000_it.json",
+    "id_item": "debris_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "debris",
+    "list_mean": [
+      "khoản nợ",
+      "vật vô giá trị"
+    ],
+    "hash_code_list_mean": "397209430",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809663349_1ebc066e44_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809663349_4303d2b8bc_o.png",
+        "id_image": "debris_698582"
+      }
+    ],
+    "hash_code_list_img": "349274184",
+    "list_definition_mean": [
+      {
+        "mean_english": "khoản nợ",
+        "definition": "the remains of something broken, destroyed etc",
+        "ex_of_definition_list": [
+          "The rescue team found a corpse among the debris of the plane."
+        ]
+      },
+      {
+        "mean_english": "vật vô giá trị",
+        "definition": "rubbish",
+        "ex_of_definition_list": [
+          "There was a lot of debris in the house after the builder had left."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-2122026214"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/debtor_cb_dmean_5000_it.json",
+    "id_item": "debtor_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "debtor",
+    "list_mean": [
+      "con nợ"
+    ],
+    "hash_code_list_mean": "-1354851406",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809423058_087edb3ed2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809423058_a67ee6c76d_o.png",
+        "id_image": "debtor_2361748"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809307851_c27eae94d8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809307851_7373d24848_o.png",
+        "id_image": "debtor_2719733"
+      }
+    ],
+    "hash_code_list_img": "-1825655959",
+    "list_definition_mean": [
+      {
+        "mean_english": "con nợ",
+        "definition": "a person who owes a debt",
+        "ex_of_definition_list": [
+          "In the old days, debtors used to be sent to jail."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1859854011"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/debt_cb_dmean_5000_it.json",
+    "id_item": "debt_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "debt",
+    "list_mean": [
+      "nợ"
+    ],
+    "hash_code_list_mean": "11348",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809423228_322b12a299_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809423228_e97f461a03_o.png",
+        "id_image": "debt_2398982"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809308026_5809993922_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809308026_d9f78ee709_o.png",
+        "id_image": "debt_2762625"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809307991_dc924f69b0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809307991_2e9d4d2c64_o.png",
+        "id_image": "debt_4334582"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809663194_ed3dccc5b5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809663194_19a3db1197_o.png",
+        "id_image": "debt_5705208"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809423083_5d939d18d1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809423083_7b25e12c8e_o.png",
+        "id_image": "debt_6159704"
+      }
+    ],
+    "hash_code_list_img": "-997393393",
+    "list_definition_mean": [
+      {
+        "mean_english": "nợ",
+        "definition": "what one person owes to another",
+        "ex_of_definition_list": [
+          "His debts amount to over $3,000",
+          "a debt of gratitude."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1458088127"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/decide_cb_dmean_5000_it.json",
+    "id_item": "decide_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "decide",
+    "list_mean": [
+      "quyết định",
+      "quyết định"
+    ],
+    "hash_code_list_mean": "-1886302975",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808351617_fa1fcdda60_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808351617_14aa4b9d5f_o.png",
+        "id_image": "decide_4301938"
+      }
+    ],
+    "hash_code_list_img": "1496969318",
+    "list_definition_mean": [
+      {
+        "mean_english": "quyết định",
+        "definition": "to (cause to) make up one’s mind",
+        "ex_of_definition_list": [
+          "I have decided to retire",
+          "What decided you against going?"
+        ]
+      },
+      {
+        "mean_english": "quyết định",
+        "definition": "to settle or make the result (of something) etc certain",
+        "ex_of_definition_list": [
+          "The last goal decided the match."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-2039821257"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/decision_cb_dmean_5000_it.json",
+    "id_item": "decision_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "decision",
+    "list_mean": [
+      "quyết định"
+    ],
+    "hash_code_list_mean": "-327382423",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810044420_97b4fa5474_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810044420_a83816e497_o.png",
+        "id_image": "decision_1900209"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809662719_d1549bc1aa_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809662719_2be638c65c_o.png",
+        "id_image": "decision_1900265"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808351577_a439380e75_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808351577_de3215af68_o.png",
+        "id_image": "decision_993690"
+      }
+    ],
+    "hash_code_list_img": "1956910717",
+    "list_definition_mean": [
+      {
+        "mean_english": "quyết định",
+        "definition": "the act of deciding; a judgement",
+        "ex_of_definition_list": [
+          "a time/moment of decision",
+          "I think you made the wrong decision."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "389226584"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/deck_cb_dmean_5000_it.json",
+    "id_item": "deck_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "deck",
+    "list_mean": [
+      "boong tàu",
+      "sàn xe buýt",
+      "bộ bài"
+    ],
+    "hash_code_list_mean": "-1049026585",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809307381_e242b2029b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809307381_dc7cef5c57_o.png",
+        "id_image": "deck_2240422"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809307371_bd02e97f82_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809307371_32f1f74b7d_o.png",
+        "id_image": "deck_4320025"
+      }
+    ],
+    "hash_code_list_img": "1962366246",
+    "list_definition_mean": [
+      {
+        "mean_english": "boong tàu",
+        "definition": "a platform extending from one side of a ship etc to the other and forming the floor",
+        "ex_of_definition_list": [
+          "The cars are carried on the lower deck of the ferry."
+        ]
+      },
+      {
+        "mean_english": "sàn xe buýt",
+        "definition": "a floor in a bus",
+        "ex_of_definition_list": [
+          "Let’s go on the top deck."
+        ]
+      },
+      {
+        "mean_english": "bộ bài",
+        "definition": "a pack of playing cards",
+        "ex_of_definition_list": [
+          "Shall I shuffle the deck?"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-2083061126"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/declaration_cb_dmean_5000_it.json",
+    "id_item": "declaration_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "declaration",
+    "list_mean": [
+      "sự tuyên bố"
+    ],
+    "hash_code_list_mean": "444545428",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808351457_643f52faee_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808351457_ec81f74119_o.png",
+        "id_image": "declaration_2463834"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810044280_d37d684c83_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810044280_98c6604fb9_o.png",
+        "id_image": "declaration_2688839"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809307311_f833680a60_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809307311_7c3b2dcfdf_o.png",
+        "id_image": "declaration_3530058"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809307286_a741fe1185_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809307286_477db535d6_o.png",
+        "id_image": "declaration_3842673"
+      }
+    ],
+    "hash_code_list_img": "-1150231860",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự tuyên bố",
+        "definition": "a formal announcement",
+        "ex_of_definition_list": [
+          "a declaration of marriage/war."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1032575136"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/declare_cb_dmean_5000_it.json",
+    "id_item": "declare_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "declare",
+    "list_mean": [
+      "chính thức thông báo",
+      "tuyên bố",
+      "khai báo hàng hoá để đánh thuế"
+    ],
+    "hash_code_list_mean": "-6712207",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809307266_57146639fa_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809307266_b1b0c9d0f3_o.png",
+        "id_image": "declare_5361668"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809307251_1bb6002e05_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809307251_7acf82f3b3_o.png",
+        "id_image": "declare_6159101"
+      }
+    ],
+    "hash_code_list_img": "245773773",
+    "list_definition_mean": [
+      {
+        "mean_english": "chính thức thông báo",
+        "definition": "to announce publicly or formally",
+        "ex_of_definition_list": [
+          "War was declared this morning."
+        ]
+      },
+      {
+        "mean_english": "tuyên bố",
+        "definition": "to say firmly",
+        "ex_of_definition_list": [
+          "‘I don’t like him at all,’ she declared."
+        ]
+      },
+      {
+        "mean_english": "khai báo hàng hoá để đánh thuế",
+        "definition": "to make known (goods on which duty must be paid, income on which tax should be paid etc)",
+        "ex_of_definition_list": [
+          "He decided to declare his untaxed earnings to the tax office."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1173389059"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/decline_cb_dmean_5000_it.json",
+    "id_item": "decline_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "decline",
+    "list_mean": [
+      "từ chối",
+      "giảm",
+      "sự sút giảm"
+    ],
+    "hash_code_list_mean": "1750153114",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810044175_77f92854d5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810044175_be022afc53_o.png",
+        "id_image": "decline_1977274"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809662454_5f9eb09d42_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809662454_f4016dc11e_o.png",
+        "id_image": "decline_5965800"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809307226_fd6c84723c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809307226_82c2eb899b_o.png",
+        "id_image": "decline_970346"
+      }
+    ],
+    "hash_code_list_img": "1738833690",
+    "list_definition_mean": [
+      {
+        "mean_english": "từ chối",
+        "definition": "to say ’no’ to (an invitation etc); to refuse",
+        "ex_of_definition_list": [
+          "We declined his offer of a lift."
+        ]
+      },
+      {
+        "mean_english": "giảm",
+        "definition": "to become less strong or less good etc",
+        "ex_of_definition_list": [
+          "His health has declined recently",
+          "Our profits have temporarily declined."
+        ]
+      },
+      {
+        "mean_english": "sự sút giảm",
+        "definition": "a gradual lessening or worsening (of health, standards, quantity etc)",
+        "ex_of_definition_list": [
+          "There has been a gradual decline in the birthrate."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-271204593"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/decoder_cb_dmean_5000_it.json",
+    "id_item": "decoder_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "decoder",
+    "list_mean": [
+      "thiết bị giải mã"
+    ],
+    "hash_code_list_mean": "-2045789844",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809662369_b5af0b177b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809662369_9c6b4404e6_o.png",
+        "id_image": "decoder_1866724"
+      }
+    ],
+    "hash_code_list_img": "897586028",
+    "list_definition_mean": [
+      {
+        "mean_english": "thiết bị giải mã",
+        "definition": "a piece of electronic equipment that can change electronic signals into something understandable such as pictures and sound on a television",
+        "ex_of_definition_list": [
+          "a satellite decoder."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1442749518"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/decode_cb_dmean_5000_it.json",
+    "id_item": "decode_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "decode",
+    "list_mean": [
+      "giải mã"
+    ],
+    "hash_code_list_mean": "-1413937459",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810044110_b0dbb45abd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810044110_a96e49cb19_o.png",
+        "id_image": "decode_2456546"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809307041_3f122998d4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809307041_981c2e9f17_o.png",
+        "id_image": "decode_3500698"
+      }
+    ],
+    "hash_code_list_img": "1326177317",
+    "list_definition_mean": [
+      {
+        "mean_english": "giải mã",
+        "definition": "to translate (a coded message) into ordinary understandable language",
+        "ex_of_definition_list": [
+          "The machine was capable of decoding enemy communications."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "48339791"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/decoration_cb_dmean_5000_it.json",
+    "id_item": "decoration_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "decoration",
+    "list_mean": [
+      "sự trang trí",
+      "việc trang trí"
+    ],
+    "hash_code_list_mean": "1775434546",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808351057_2a75336312_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808351057_74daef36e2_o.png",
+        "id_image": "decoration_3851173"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810043865_9e47ceb0e8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810043865_8b2b746fc2_o.png",
+        "id_image": "decoration_3942198"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809306796_279b621b21_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809306796_7c5122dece_o.png",
+        "id_image": "decoration_6348786"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809306746_4c9ec0c4c1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809306746_f4b0234e6b_o.png",
+        "id_image": "decoration_6397927"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808350922_b428238b10_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808350922_731a6a0c22_o.png",
+        "id_image": "decoration_6419775"
+      }
+    ],
+    "hash_code_list_img": "1134114620",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự trang trí",
+        "definition": "something used to decorate",
+        "ex_of_definition_list": [
+          "cake decorations."
+        ]
+      },
+      {
+        "mean_english": "việc trang trí",
+        "definition": "the act of decorating",
+        "ex_of_definition_list": [
+          "The decoration of the house will be a long job."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-278727085"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/decorative_cb_dmean_5000_it.json",
+    "id_item": "decorative_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "decorative",
+    "list_mean": [
+      "để trang trí"
+    ],
+    "hash_code_list_mean": "851171324",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809421888_b4c646169f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809421888_97fd4b082b_o.png",
+        "id_image": "decorative_4027962"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808350867_1997dfd142_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808350867_4f6915109e_o.png",
+        "id_image": "decorative_4205304"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809662099_933299395c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809662099_0acb9256e0_o.png",
+        "id_image": "decorative_5376597"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810043775_0e6ec21b7c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810043775_3c7caf2aa3_o.png",
+        "id_image": "decorative_939420"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808350902_b449c9690f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808350902_055165cf1e_o.png",
+        "id_image": "decorative_939438"
+      }
+    ],
+    "hash_code_list_img": "-398296679",
+    "list_definition_mean": [
+      {
+        "mean_english": "để trang trí",
+        "definition": "ornamental or beautiful (especially if not useful)",
+        "ex_of_definition_list": [
+          "a decorative arrangement of flowers."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1253733942"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/decorator_cb_dmean_5000_it.json",
+    "id_item": "decorator_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "decorator",
+    "list_mean": [
+      "người trang trí nội thất"
+    ],
+    "hash_code_list_mean": "261696470",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809662069_c597558854_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809662069_3e42f2c50c_o.png",
+        "id_image": "decorator_4736331"
+      }
+    ],
+    "hash_code_list_img": "909315079",
+    "list_definition_mean": [
+      {
+        "mean_english": "người trang trí nội thất",
+        "definition": "a person who decorates rooms, houses etc",
+        "ex_of_definition_list": [
+          "He was a painter and decorator by trade."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1071243323"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/decor_cb_dmean_5000_it.json",
+    "id_item": "decor_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "decor",
+    "list_mean": [
+      "đồ trang trí"
+    ],
+    "hash_code_list_mean": "-2130246644",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810044040_430090b570_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810044040_49810fc320_o.png",
+        "id_image": "decor_1198316"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810043995_de3a04ede2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810043995_0da2f7bcd9_o.png",
+        "id_image": "decor_4257669"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809662269_5c2e1f4888_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809662269_c6c10e704f_o.png",
+        "id_image": "decor_4954622"
+      }
+    ],
+    "hash_code_list_img": "-1225491328",
+    "list_definition_mean": [
+      {
+        "mean_english": "đồ trang trí",
+        "definition": "the decoration of a room etc and the arrangement of the objects in it",
+        "ex_of_definition_list": [
+          "It was a comfortable room, but I didn’t like the decor."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "951749476"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/decrease_cb_dmean_5000_it.json",
+    "id_item": "decrease_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "decrease",
+    "list_mean": [
+      "giảm",
+      "sự giảm sút"
+    ],
+    "hash_code_list_mean": "-778185072",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810043675_7914b8dc11_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810043675_a5f94d813a_o.png",
+        "id_image": "decrease_1011587"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809306636_fac3b3121b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809306636_441875d936_o.png",
+        "id_image": "decrease_267983"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810043665_a99e221a48_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810043665_0bbf3bcb07_o.png",
+        "id_image": "decrease_5260144"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809306571_4a328ba3aa_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809306571_0c37a9f4f3_o.png",
+        "id_image": "decrease_6315561"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810043610_b9545ffeb9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810043610_d017698e10_o.png",
+        "id_image": "decrease_6344119"
+      }
+    ],
+    "hash_code_list_img": "-1152129972",
+    "list_definition_mean": [
+      {
+        "mean_english": "giảm",
+        "definition": "to make or become less",
+        "ex_of_definition_list": [
+          "The population of the island has gradually decreased."
+        ]
+      },
+      {
+        "mean_english": "sự giảm sút",
+        "definition": "a growing less",
+        "ex_of_definition_list": [
+          "a decrease of fifty per cent",
+          "a gradual decrease in unemployment."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "581842060"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/decree_cb_dmean_5000_it.json",
+    "id_item": "decree_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "decree",
+    "list_mean": [
+      "sắc lệnh",
+      "bản án",
+      "ra sắc lệnh; tuyên án"
+    ],
+    "hash_code_list_mean": "-1952998878",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809421608_ae13fde8d0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809421608_196d9ab04f_o.png",
+        "id_image": "decree_1428282"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810043485_4071cb616d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810043485_ae6485547b_o.png",
+        "id_image": "decree_476758"
+      }
+    ],
+    "hash_code_list_img": "-804154954",
+    "list_definition_mean": [
+      {
+        "mean_english": "sắc lệnh",
+        "definition": "an order or law",
+        "ex_of_definition_list": [
+          "A decree was issued by the king."
+        ]
+      },
+      {
+        "mean_english": "bản án",
+        "definition": "a ruling of a court of civil law."
+      },
+      {
+        "mean_english": "ra sắc lệnh; tuyên án",
+        "definition": "to order, command or decide (something)",
+        "ex_of_definition_list": [
+          "The court decreed that he should pay the fine in full."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "852561585"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dedication_cb_dmean_5000_it.json",
+    "id_item": "dedication_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "dedication",
+    "list_mean": [
+      "sự tận tụy",
+      "đề tặng sách"
+    ],
+    "hash_code_list_mean": "-1773951539",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808350482_3d77a68357_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808350482_fdbb80c071_o.png",
+        "id_image": "dedication_1322189"
+      }
+    ],
+    "hash_code_list_img": "1023606659",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự tận tụy",
+        "definition": "the quality of being dedicated; the act of dedicating",
+        "ex_of_definition_list": [
+          "His dedication to duty was admirable."
+        ]
+      },
+      {
+        "mean_english": "đề tặng sách",
+        "definition": "the words dedicating a book to someone",
+        "ex_of_definition_list": [
+          "We can put the dedication at the top of the page."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1702303179"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/deep_cb_dmean_5000_it.json",
+    "id_item": "deep_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "deep",
+    "list_mean": [
+      "sâu",
+      "chiều sâu",
+      "chìm đắm vào",
+      "say; nặng",
+      "trầm",
+      "xa ở bên dưới hoặc ở trong"
+    ],
+    "hash_code_list_mean": "-390673827",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808350462_799e37b199_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808350462_13d9fc7aac_o.png",
+        "id_image": "deep_1035461"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809306281_89f2d80495_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809306281_0f00c09b82_o.png",
+        "id_image": "deep_5538313"
+      }
+    ],
+    "hash_code_list_img": "537645769",
+    "list_definition_mean": [
+      {
+        "mean_english": "sâu",
+        "definition": "going or being far down or far into",
+        "ex_of_definition_list": [
+          "a deep lake",
+          "a deep wound."
+        ]
+      },
+      {
+        "mean_english": "chiều sâu",
+        "definition": "going or being far down by a named amount",
+        "ex_of_definition_list": [
+          "We dug a hole six feet deep."
+        ]
+      },
+      {
+        "mean_english": "chìm đắm vào",
+        "definition": "occupied or involved to a great extent",
+        "ex_of_definition_list": [
+          "He is deep in debt."
+        ]
+      },
+      {
+        "mean_english": "say; nặng",
+        "definition": "intense; strong",
+        "ex_of_definition_list": [
+          "The sea is a deep blue colour/color",
+          "They are in a deep sleep."
+        ]
+      },
+      {
+        "mean_english": "trầm",
+        "definition": "low in pitch",
+        "ex_of_definition_list": [
+          "His voice is very deep."
+        ]
+      },
+      {
+        "mean_english": "xa ở bên dưới hoặc ở trong",
+        "definition": "far down or into",
+        "ex_of_definition_list": [
+          "They made their way deep into the wood."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-497440509"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/deer_cb_dmean_5000_it.json",
+    "id_item": "deer_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "deer",
+    "list_mean": [
+      "hươu, nai"
+    ],
+    "hash_code_list_mean": "2096272773",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809421423_ae63a06d76_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809421423_be1ce9dcf6_o.png",
+        "id_image": "deer_292647"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810043275_acf09c6fb6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810043275_6db35cae0d_o.png",
+        "id_image": "deer_621915"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809421363_70799f874b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809421363_35306f0f31_o.png",
+        "id_image": "deer_667710"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809661579_285029c198_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809661579_c284b92e16_o.png",
+        "id_image": "deer_721088"
+      }
+    ],
+    "hash_code_list_img": "195222550",
+    "list_definition_mean": [
+      {
+        "mean_english": "hươu, nai",
+        "definition": "a kind of large, grass-eating animal, the male of which sometimes has antlers",
+        "ex_of_definition_list": [
+          "a herd of deer."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1356228289"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/default_cb_dmean_5000_it.json",
+    "id_item": "default_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "default",
+    "list_mean": [
+      "vỡ nợ",
+      "mặc định",
+      "vỡ nợ"
+    ],
+    "hash_code_list_mean": "-1183896904",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810043200_ea406f6d7b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810043200_e765e019a7_o.png",
+        "id_image": "default_5762278"
+      }
+    ],
+    "hash_code_list_img": "1037463572",
+    "list_definition_mean": [
+      {
+        "mean_english": "vỡ nợ",
+        "definition": "failure to do something which is required by law, especially paying back a debt",
+        "ex_of_definition_list": [
+          "The tenant is in default on paying the rent."
+        ]
+      },
+      {
+        "mean_english": "mặc định",
+        "definition": "the way in which a software program behaves or things appear on a computer screen unless you change them",
+        "ex_of_definition_list": [
+          "(also adjective) default settings."
+        ]
+      },
+      {
+        "mean_english": "vỡ nợ",
+        "definition": "to not do something you are legally obliged to do, especially if you do not pay back a debt",
+        "ex_of_definition_list": [
+          "She defaulted on her loan."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1371861365"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/defective_cb_dmean_5000_it.json",
+    "id_item": "defective_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "defective",
+    "list_mean": [
+      "có thiếu sót"
+    ],
+    "hash_code_list_mean": "1790112174",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809306061_f22c2bb5a0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809306061_bcc205ce79_o.png",
+        "id_image": "defective_5318814"
+      }
+    ],
+    "hash_code_list_img": "1228499144",
+    "list_definition_mean": [
+      {
+        "mean_english": "có thiếu sót",
+        "definition": "having a fault or flaw",
+        "ex_of_definition_list": [
+          "I had to return the electric kettle because it was defective."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "606440307"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/defect_cb_dmean_5000_it.json",
+    "id_item": "defect_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "defect",
+    "list_mean": [
+      "khuyết điểm",
+      "đào tẩu"
+    ],
+    "hash_code_list_mean": "2128587413",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809421273_ae1b1b5ac5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809421273_f853cb5bea_o.png",
+        "id_image": "defect_1769105"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809661524_1fc22e4534_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809661524_8fde2f61b7_o.png",
+        "id_image": "defect_4401423"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809306091_a8acf57c96_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809306091_293dd0aae8_o.png",
+        "id_image": "defect_6040986"
+      }
+    ],
+    "hash_code_list_img": "821565533",
+    "list_definition_mean": [
+      {
+        "mean_english": "khuyết điểm",
+        "definition": "a fault or flaw",
+        "ex_of_definition_list": [
+          "It was a basic defect in her character",
+          "a defect in the china."
+        ]
+      },
+      {
+        "mean_english": "đào tẩu",
+        "definition": "to leave a country, political party etc to go and join another; to desert",
+        "ex_of_definition_list": [
+          "He defected to the West."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1383365083"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/defence_cb_dmean_5000_it.json",
+    "id_item": "defence_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "defence",
+    "list_mean": [
+      "sự phòng thủ",
+      "bảo vệ",
+      "lời biện hộ"
+    ],
+    "hash_code_list_mean": "1392115547",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809421163_5a1a622ed2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809421163_126fb2fc98_o.png",
+        "id_image": "defence_2534481"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809421138_d2348be004_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809421138_7dd4a2e374_o.png",
+        "id_image": "defence_2742145"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809661429_8e0f81d443_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809661429_21d8a8c222_o.png",
+        "id_image": "defence_4965937"
+      }
+    ],
+    "hash_code_list_img": "-1159952061",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự phòng thủ",
+        "definition": "the act or action of defending against attack",
+        "ex_of_definition_list": [
+          "the defence of Rome",
+          "He spoke in defence/defense of the plans."
+        ]
+      },
+      {
+        "mean_english": "bảo vệ",
+        "definition": "the method or equipment used to guard or protect",
+        "ex_of_definition_list": [
+          "The walls will act as a defence/defense against flooding."
+        ]
+      },
+      {
+        "mean_english": "lời biện hộ",
+        "definition": "a person’s answer to an accusation especially in a law court",
+        "ex_of_definition_list": [
+          "What is your defence/defense?"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1628703990"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/defendant_cb_dmean_5000_it.json",
+    "id_item": "defendant_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "defendant",
+    "list_mean": [
+      "bị cáo"
+    ],
+    "hash_code_list_mean": "1496893817",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809305971_3ab3455150_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809305971_43570ce052_o.png",
+        "id_image": "defendant_1566568"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809305946_d338dcb8b9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809305946_2c645a8b06_o.png",
+        "id_image": "defendant_1865651"
+      }
+    ],
+    "hash_code_list_img": "472141192",
+    "list_definition_mean": [
+      {
+        "mean_english": "bị cáo",
+        "definition": "a person accused or sued in a law court",
+        "ex_of_definition_list": [
+          "The defendant pleaded ‘not guilty’."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "298750776"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/defender_cb_dmean_5000_it.json",
+    "id_item": "defender_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "defender",
+    "list_mean": [
+      "người bảo vệ"
+    ],
+    "hash_code_list_mean": "94944447",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809421073_8ef9b04ba5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809421073_e31a1cac21_o.png",
+        "id_image": "defender_1373168"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808350112_45236032b7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808350112_c81b97efd9_o.png",
+        "id_image": "defender_2302972"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809305856_4d9f8878b5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809305856_7f5c31cce4_o.png",
+        "id_image": "defender_4109529"
+      }
+    ],
+    "hash_code_list_img": "-831996720",
+    "list_definition_mean": [
+      {
+        "mean_english": "người bảo vệ",
+        "definition": "a person who defends (someone or something)",
+        "ex_of_definition_list": [
+          "He’s one of the best defenders in the league",
+          "the defenders of the castle."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "132930252"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/defensive_cb_dmean_5000_it.json",
+    "id_item": "defensive_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "defensive",
+    "list_mean": [
+      "có tính chất bảo vệ"
+    ],
+    "hash_code_list_mean": "-252992623",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809661249_f055cb9d68_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809661249_1cc90ee9f8_o.png",
+        "id_image": "defensive_2748776"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810042785_866d681403_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810042785_0c8098e467_o.png",
+        "id_image": "defensive_4443666"
+      }
+    ],
+    "hash_code_list_img": "1841600303",
+    "list_definition_mean": [
+      {
+        "mean_english": "có tính chất bảo vệ",
+        "definition": "protective or resisting attack",
+        "ex_of_definition_list": [
+          "a defensive attitude",
+          "defensive action."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2111302773"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/deficit_cb_dmean_5000_it.json",
+    "id_item": "deficit_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "deficit",
+    "list_mean": [
+      "số tiền thiếu hụt"
+    ],
+    "hash_code_list_mean": "-1735347227",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809661224_90f96fc41b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809661224_503d6225da_o.png",
+        "id_image": "deficit_2112495"
+      }
+    ],
+    "hash_code_list_img": "684660667",
+    "list_definition_mean": [
+      {
+        "mean_english": "số tiền thiếu hụt",
+        "definition": "the amount by which an amount (of money etc) is less than the amount required",
+        "ex_of_definition_list": [
+          "a trade deficit",
+          "a deficit of several hundred dollars."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1782113264"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/deforestation_cb_dmean_5000_it.json",
+    "id_item": "deforestation_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "deforestation",
+    "list_mean": [
+      "sự phá rừng"
+    ],
+    "hash_code_list_mean": "1914193194",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809661174_4f2abd82ec_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809661174_87e9590218_o.png",
+        "id_image": "deforestation_3075166"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809305771_db641a1868_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809305771_442b7be95c_o.png",
+        "id_image": "deforestation_4148626"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809661159_483d73f2b5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809661159_ce8f7ec713_o.png",
+        "id_image": "deforestation_4694678"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808349932_a3e31d2a44_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808349932_dcce368869_o.png",
+        "id_image": "deforestation_4745398"
+      }
+    ],
+    "hash_code_list_img": "161149583",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự phá rừng",
+        "definition": "the process of cutting down or burning all the trees in a forested area",
+        "ex_of_definition_list": [
+          "deforestation in the Amazon rainforest."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "199076038"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/defrost_cb_dmean_5000_it.json",
+    "id_item": "defrost_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "defrost",
+    "list_mean": [
+      "rã băng",
+      "rã đông"
+    ],
+    "hash_code_list_mean": "2064196995",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810042660_2e8821ac32_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810042660_82f8ed6e2a_o.png",
+        "id_image": "defrost_1793165"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808349917_f10c7a89ea_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808349917_8a2b2b99ba_o.png",
+        "id_image": "defrost_5660311"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809305701_d83ac55d46_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809305701_7e5cc4a73e_o.png",
+        "id_image": "defrost_5869081"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809305686_96eb6a6a15_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809305686_0810baf21e_o.png",
+        "id_image": "defrost_6080851"
+      }
+    ],
+    "hash_code_list_img": "-1702291821",
+    "list_definition_mean": [
+      {
+        "mean_english": "rã băng",
+        "definition": "to remove frost or ice from (eg a refrigerator)",
+        "ex_of_definition_list": [
+          "I keep forgetting to defrost the freezer."
+        ]
+      },
+      {
+        "mean_english": "rã đông",
+        "definition": "(of frozen food etc) to thaw (out)",
+        "ex_of_definition_list": [
+          "Make sure you defrost the chicken thoroughly."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "826587642"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/degree_cb_dmean_5000_it.json",
+    "id_item": "degree_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "degree",
+    "list_mean": [
+      "mức độ",
+      "độ C",
+      "độ",
+      "bằng cấp"
+    ],
+    "hash_code_list_mean": "1904442329",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810042620_519b5fcd94_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810042620_869f22c5ed_o.png",
+        "id_image": "degree_1440972"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809661109_db96f63905_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809661109_84296b1e8e_o.png",
+        "id_image": "degree_2036626"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810042610_92893b4f78_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810042610_4f1fe8b91e_o.png",
+        "id_image": "degree_2070913"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809305646_4f352c472a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809305646_3a8fab256f_o.png",
+        "id_image": "degree_2234743"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809661089_b897658c9f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809661089_8010e66a22_o.png",
+        "id_image": "degree_4650621"
+      }
+    ],
+    "hash_code_list_img": "1854092335",
+    "list_definition_mean": [
+      {
+        "mean_english": "mức độ",
+        "definition": "(an) amount or extent",
+        "ex_of_definition_list": [
+          "There is still a degree of uncertainty",
+          "This job requires a high degree of skill."
+        ]
+      },
+      {
+        "mean_english": "độ C",
+        "definition": "a unit of temperature",
+        "ex_of_definition_list": [
+          "20° (= 20 degrees) Celsius."
+        ]
+      },
+      {
+        "mean_english": "độ",
+        "definition": "a unit by which angles are measured",
+        "ex_of_definition_list": [
+          "at an angle of 90 (= 90 degrees)."
+        ]
+      },
+      {
+        "mean_english": "bằng cấp",
+        "definition": "a title or certificate given by a university etc",
+        "ex_of_definition_list": [
+          "He has a degree in chemistry."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1767157412"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/delay_cb_dmean_5000_it.json",
+    "id_item": "delay_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "delay",
+    "list_mean": [
+      "làm chậm trễ",
+      "hoãn",
+      "sự chậm trễ"
+    ],
+    "hash_code_list_mean": "-73196850",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809305611_ca99598e3e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809305611_36a13c81cb_o.png",
+        "id_image": "delay_3103094"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809420668_c4b52d45ed_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809420668_06e234fbfa_o.png",
+        "id_image": "delay_3103420"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810042555_1f3439042c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810042555_dfaba90510_o.png",
+        "id_image": "delay_4271279"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810042540_4a90e16f74_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810042540_d4ec39563f_o.png",
+        "id_image": "delay_4271651"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809661039_f92ba5c794_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809661039_bd859fb177_o.png",
+        "id_image": "delay_4412665"
+      }
+    ],
+    "hash_code_list_img": "-1957702501",
+    "list_definition_mean": [
+      {
+        "mean_english": "làm chậm trễ",
+        "definition": "to put off to another time",
+        "ex_of_definition_list": [
+          "We have delayed publication of the book till the Spring."
+        ]
+      },
+      {
+        "mean_english": "hoãn",
+        "definition": "to keep or stay back or slow down",
+        "ex_of_definition_list": [
+          "I was delayed by the traffic."
+        ]
+      },
+      {
+        "mean_english": "sự chậm trễ",
+        "definition": "(something which causes) keeping back or slowing down",
+        "ex_of_definition_list": [
+          "He came without delay",
+          "Today’s train services are subject to delays."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1320993519"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/delegate_cb_dmean_5000_it.json",
+    "id_item": "delegate_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "delegate",
+    "list_mean": [
+      "ủy thác",
+      "người đại biểu"
+    ],
+    "hash_code_list_mean": "709679322",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808349772_e129f6c3d5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808349772_6891a1fd73_o.png",
+        "id_image": "delegate_2473026"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809661014_af5a7b1bd0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809661014_d3883124f7_o.png",
+        "id_image": "delegate_2753112"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809305531_5edae2d93b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809305531_26332d3d68_o.png",
+        "id_image": "delegate_3317632"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809305501_bc1e92a492_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809305501_eee9dbc750_o.png",
+        "id_image": "delegate_4176940"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809660964_3858e5b5fd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809660964_edc6e8f6d6_o.png",
+        "id_image": "delegate_4805747"
+      }
+    ],
+    "hash_code_list_img": "-1174807440",
+    "list_definition_mean": [
+      {
+        "mean_english": "ủy thác",
+        "definition": "to give (a piece of work, power etc) to someone else",
+        "ex_of_definition_list": [
+          "He delegates a great deal of work to his assistant."
+        ]
+      },
+      {
+        "mean_english": "người đại biểu",
+        "definition": "an elected representative (to a conference, Parliament, committee etc)",
+        "ex_of_definition_list": [
+          "The delegates met in the conference room."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1066956707"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/delete_cb_dmean_5000_it.json",
+    "id_item": "delete_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "delete",
+    "list_mean": [
+      "xóa bỏ"
+    ],
+    "hash_code_list_mean": "-632122138",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809660944_f71a717c8c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809660944_5d09cd8be4_o.png",
+        "id_image": "delete_1083104"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809420558_e54983cfdc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809420558_ae2baae2a5_o.png",
+        "id_image": "delete_1265886"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808349667_7b7e57029d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808349667_62ef2dff27_o.png",
+        "id_image": "delete_1364987"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809420583_cf3ddabde4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809420583_662e281a41_o.png",
+        "id_image": "delete_216658"
+      }
+    ],
+    "hash_code_list_img": "-457717582",
+    "list_definition_mean": [
+      {
+        "mean_english": "xóa bỏ",
+        "definition": "to rub or strike out (eg a piece of writing)",
+        "ex_of_definition_list": [
+          "Delete his name from the list."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1244266061"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/delicatessen_cb_dmean_5000_it.json",
+    "id_item": "delicatessen_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "delicatessen",
+    "list_mean": [
+      "cửa hàng bán những thức ăn ngon"
+    ],
+    "hash_code_list_mean": "-1727876445",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808349642_26c63d94b9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808349642_4eac595e47_o.png",
+        "id_image": "delicatessen_3361357"
+      }
+    ],
+    "hash_code_list_img": "553276054",
+    "list_definition_mean": [
+      {
+        "mean_english": "cửa hàng bán những thức ăn ngon",
+        "definition": "(a shop selling) foods prepared ready for the table, especially cooked meats and usually unusual and foreign foods",
+        "ex_of_definition_list": [
+          "I bought some smoked sausage at the delicatessen."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "817902738"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/delicate_cb_dmean_5000_it.json",
+    "id_item": "delicate_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "delicate",
+    "list_mean": [
+      "mỏng manh",
+      "mịn màng",
+      "tinh vi",
+      "ngon; tinh tế"
+    ],
+    "hash_code_list_mean": "1632729061",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809660919_c434359f88_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809660919_4c32f779e4_o.png",
+        "id_image": "delicate_525818"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809420513_5ee8a5e05a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809420513_79716a4333_o.png",
+        "id_image": "delicate_525837"
+      }
+    ],
+    "hash_code_list_img": "-938317789",
+    "list_definition_mean": [
+      {
+        "mean_english": "mỏng manh",
+        "definition": "requiring special treatment or careful handling",
+        "ex_of_definition_list": [
+          "delicate china",
+          "a delicate situation/problem."
+        ]
+      },
+      {
+        "mean_english": "mịn màng",
+        "definition": "of fine texture etc; dainty",
+        "ex_of_definition_list": [
+          "a delicate pattern",
+          "the delicate skin of a child."
+        ]
+      },
+      {
+        "mean_english": "tinh vi",
+        "definition": "able to do fine, accurate work",
+        "ex_of_definition_list": [
+          "a delicate instrument."
+        ]
+      },
+      {
+        "mean_english": "ngon; tinh tế",
+        "definition": "subtle",
+        "ex_of_definition_list": [
+          "This cheese has a delicate taste",
+          "a delicate shade of blue."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1915285370"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/delicious_cb_dmean_5000_it.json",
+    "id_item": "delicious_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "delicious",
+    "list_mean": [
+      "thơm ngon"
+    ],
+    "hash_code_list_mean": "1232718135",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810042370_bba3de0b4d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810042370_d75ebc0c66_o.png",
+        "id_image": "delicious_2965079"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809305416_c838eac5cf_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809305416_622a42d2c4_o.png",
+        "id_image": "delicious_3508661"
+      }
+    ],
+    "hash_code_list_img": "-596923512",
+    "list_definition_mean": [
+      {
+        "mean_english": "thơm ngon",
+        "definition": "highly pleasing to the taste",
+        "ex_of_definition_list": [
+          "a delicious meal."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "43951615"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/delivery_cb_dmean_5000_it.json",
+    "id_item": "delivery_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "delivery",
+    "list_mean": [
+      "sự giao thư, hàng",
+      "quá trình sinh đẻ"
+    ],
+    "hash_code_list_mean": "1517420749",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809334206_cce80a683c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809334206_86ce27eb6e_o.png",
+        "id_image": "delivery_423314"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810071180_99fcbe2efe_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810071180_077e9bed0b_o.png",
+        "id_image": "delivery_423316"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808379007_fcde95b1f2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808379007_0ec3d6dec8_o.png",
+        "id_image": "delivery_827377"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808378992_80898ba758_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808378992_bfe6359efa_o.png",
+        "id_image": "delivery_870135"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810071110_326c7df779_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810071110_737a27b8e0_o.png",
+        "id_image": "delivery_870138"
+      }
+    ],
+    "hash_code_list_img": "-1978347362",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự giao thư, hàng",
+        "definition": "(an act of) handing over (letters, parcels etc)",
+        "ex_of_definition_list": [
+          "There are two parcel deliveries a week."
+        ]
+      },
+      {
+        "mean_english": "quá trình sinh đẻ",
+        "definition": "the process of the birth of a child",
+        "ex_of_definition_list": [
+          "the delivery of the twins."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "970933444"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/deliver_cb_dmean_5000_it.json",
+    "id_item": "deliver_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "deliver",
+    "list_mean": [
+      "giao",
+      "trình bày",
+      "đỡ đẻ"
+    ],
+    "hash_code_list_mean": "-1132952698",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810071440_7d0673a016_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810071440_c88c43f20a_o.png",
+        "id_image": "deliver_1783671"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809449448_4a898198d4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809449448_d4a32249af_o.png",
+        "id_image": "deliver_3396271"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810071530_3c9f21335e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810071530_0588912e65_o.png",
+        "id_image": "deliver_384030"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809689604_d326c8bd64_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809689604_086fbe0dbd_o.png",
+        "id_image": "deliver_384048"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808379287_0d95fa9a84_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808379287_b3b128b2a2_o.png",
+        "id_image": "deliver_4108804"
+      }
+    ],
+    "hash_code_list_img": "1476135607",
+    "list_definition_mean": [
+      {
+        "mean_english": "giao",
+        "definition": "to give or hand over (something) to the person for whom it is intended",
+        "ex_of_definition_list": [
+          "The postman delivers the letters once a day."
+        ]
+      },
+      {
+        "mean_english": "trình bày",
+        "definition": "to give",
+        "ex_of_definition_list": [
+          "He delivered a long speech."
+        ]
+      },
+      {
+        "mean_english": "đỡ đẻ",
+        "definition": "to assist (a woman) at the birth of (a child)",
+        "ex_of_definition_list": [
+          "The doctor delivered the twins safely."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-684983893"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/demand_cb_dmean_5000_it.json",
+    "id_item": "demand_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "demand",
+    "list_mean": [
+      "yêu cầu",
+      "đòi hỏi",
+      "sự đòi hỏi",
+      "sự yêu cầu",
+      "nhu cầu"
+    ],
+    "hash_code_list_mean": "1887330539",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809334001_84cfbec075_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809334001_6d7597b5bd_o.png",
+        "id_image": "demand_1888488"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809449018_05f71a06ce_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809449018_8ea3fb1f23_o.png",
+        "id_image": "demand_3382611"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810070960_89c913daa0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810070960_39151ffef5_o.png",
+        "id_image": "demand_4497181"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809333881_4f0844f5d9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809333881_b46ef2522e_o.png",
+        "id_image": "demand_5823815"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809689139_85aab2e0fe_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809689139_14395e2038_o.png",
+        "id_image": "demand_992826"
+      }
+    ],
+    "hash_code_list_img": "196317227",
+    "list_definition_mean": [
+      {
+        "mean_english": "yêu cầu",
+        "definition": "to ask or ask for firmly and sharply",
+        "ex_of_definition_list": [
+          "I demanded an explanation."
+        ]
+      },
+      {
+        "mean_english": "đòi hỏi",
+        "definition": "to require or need",
+        "ex_of_definition_list": [
+          "The proposal demands careful thought."
+        ]
+      },
+      {
+        "mean_english": "sự đòi hỏi",
+        "definition": "a request made so that it sounds like a command",
+        "ex_of_definition_list": [
+          "The management refused to meet the workers’ demands for more money."
+        ]
+      },
+      {
+        "mean_english": "sự yêu cầu",
+        "definition": "an urgent claim",
+        "ex_of_definition_list": [
+          "The children make a lot of demands on my time."
+        ]
+      },
+      {
+        "mean_english": "nhu cầu",
+        "definition": "willingness or desire to buy or obtain (certain goods etc); a need for (certain goods etc)",
+        "ex_of_definition_list": [
+          "There’s no demand for books of this kind."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1704887696"
+  }
+]

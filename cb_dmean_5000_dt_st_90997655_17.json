@@ -1,0 +1,2154 @@
+[
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chest_cb_dmean_5000_it.json",
+    "id_item": "chest_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chest",
+    "list_mean": [
+      "ngực",
+      "hòm, tủ"
+    ],
+    "hash_code_list_mean": "658678304",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809310516_9f7dd86b54_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809310516_8f8d4a55cb_o.png",
+        "id_image": "chest_4033801"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809665679_aa4168a516_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809665679_076b71df1e_o.png",
+        "id_image": "chest_4287213"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809665644_74f31f21cb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809665644_2387571994_o.png",
+        "id_image": "chest_4760653"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809425423_333348c241_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809425423_663b42d89e_o.png",
+        "id_image": "chest_5327086"
+      }
+    ],
+    "hash_code_list_img": "-1093338210",
+    "list_definition_mean": [
+      {
+        "mean_english": "ngực",
+        "definition": "the part of the body between the neck and waist, containing the heart and the lungs",
+        "ex_of_definition_list": [
+          "He was complaining of a severe pain in his chest."
+        ]
+      },
+      {
+        "mean_english": "hòm, tủ",
+        "definition": "a large, strong wooden or metal box",
+        "ex_of_definition_list": [
+          "The sheets were kept in a wooden chest."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-85711522"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chew_cb_dmean_5000_it.json",
+    "id_item": "chew_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chew",
+    "list_mean": [
+      "nhai"
+    ],
+    "hash_code_list_mean": "3380097",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810047055_6d20cb6a96_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810047055_4cd5c3f87d_o.png",
+        "id_image": "chewing_1117233"
+      }
+    ],
+    "hash_code_list_img": "1499383937",
+    "list_definition_mean": [
+      {
+        "mean_english": "nhai",
+        "definition": "to break (food etc) with the teeth before swallowing",
+        "ex_of_definition_list": [
+          "If you chew your food properly, it is easier to digest."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "180121636"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chickenpox_cb_dmean_5000_it.json",
+    "id_item": "chickenpox_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chickenpox",
+    "list_mean": [
+      "bệnh thủy đậu"
+    ],
+    "hash_code_list_mean": "757838079",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808354057_a5221282eb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808354057_c564cc81db_o.png",
+        "id_image": "chickenpox_2927278"
+      }
+    ],
+    "hash_code_list_img": "271249882",
+    "list_definition_mean": [
+      {
+        "mean_english": "bệnh thủy đậu",
+        "definition": "an infectious disease with fever and red itchy spots",
+        "ex_of_definition_list": [
+          "A small chance exists of catching chickenpox from another person even after receiving the vaccine."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1674071376"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chicken_cb_dmean_5000_it.json",
+    "id_item": "chicken_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chicken",
+    "list_mean": [
+      "gà con",
+      "gà",
+      "người nhát gan"
+    ],
+    "hash_code_list_mean": "148453823",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810046875_4476c5f15e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810046875_2d1336272c_o.png",
+        "id_image": "chicken_1408032"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809424978_08c4079acf_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809424978_6753c0c5db_o.png",
+        "id_image": "chicken_1449791"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809665239_92a0c53e2f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809665239_1f2cf9cc70_o.png",
+        "id_image": "chicken_347486"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809309956_c2279fc338_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809309956_bfbff8bec7_o.png",
+        "id_image": "chicken_826920"
+      }
+    ],
+    "hash_code_list_img": "1498869708",
+    "list_definition_mean": [
+      {
+        "mean_english": "gà con",
+        "definition": "a young bird, especially a young hen",
+        "ex_of_definition_list": [
+          "She keeps chickens."
+        ]
+      },
+      {
+        "mean_english": "gà",
+        "definition": "its flesh used as food",
+        "ex_of_definition_list": [
+          "a plate of fried chicken."
+        ]
+      },
+      {
+        "mean_english": "người nhát gan",
+        "definition": "a coward",
+        "ex_of_definition_list": [
+          "Don’t be such a chicken!"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "312808487"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chick_cb_dmean_5000_it.json",
+    "id_item": "chick_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chick",
+    "list_mean": [
+      "sự thanh lịch"
+    ],
+    "hash_code_list_mean": "-1992060226",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810047025_8bcd0e2dcc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810047025_ec8b7e1523_o.png",
+        "id_image": "chick_183982"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808354297_8380be3c2a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808354297_4fb96a386b_o.png",
+        "id_image": "chick_2632851"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810046995_e0b1d6084d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810046995_706e3ab18e_o.png",
+        "id_image": "chick_2640161"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810046970_1ae42ec860_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810046970_7a8d389487_o.png",
+        "id_image": "chick_3408366"
+      }
+    ],
+    "hash_code_list_img": "-1007623191",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự thanh lịch",
+        "definition": "a baby bird",
+        "ex_of_definition_list": [
+          "One of the chicks fell out of the blackbird’s nest."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1246891812"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chicory_cb_dmean_5000_it.json",
+    "id_item": "chicory_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chicory",
+    "list_mean": [
+      "cây diếp xoắn"
+    ],
+    "hash_code_list_mean": "-1431153447",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809424918_ca55f043d6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809424918_b7daf3050f_o.png",
+        "id_image": "chicory_5705976"
+      }
+    ],
+    "hash_code_list_img": "634435895",
+    "list_definition_mean": [
+      {
+        "mean_english": "cây diếp xoắn",
+        "definition": "a plant whose leaves are used in salads and whose root is ground and mixed with coffee",
+        "ex_of_definition_list": [
+          "(also adjective) chicory salad."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1570485946"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chief_cb_dmean_5000_it.json",
+    "id_item": "chief_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chief",
+    "list_mean": [
+      "chủ yếu",
+      "thủ lĩnh"
+    ],
+    "hash_code_list_mean": "-1263082028",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809665059_57ba848fe7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809665059_3e4c45088f_o.png",
+        "id_image": "chief_4786257"
+      }
+    ],
+    "hash_code_list_img": "2136210519",
+    "list_definition_mean": [
+      {
+        "mean_english": "chủ yếu",
+        "definition": "greatest in importance etc",
+        "ex_of_definition_list": [
+          "the chief cause of disease."
+        ]
+      },
+      {
+        "mean_english": "thủ lĩnh",
+        "definition": "the head of a clan or tribe, or a department, business etc",
+        "ex_of_definition_list": [
+          "a tribal chief."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1372992415"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/childbirth_cb_dmean_5000_it.json",
+    "id_item": "childbirth_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "childbirth",
+    "list_mean": [
+      "quá trình sinh con"
+    ],
+    "hash_code_list_mean": "-1543369716",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808353777_492d457ed4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808353777_227ed07165_o.png",
+        "id_image": "childbirth_1775611"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809424648_75ce3d986c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809424648_e212a81e17_o.png",
+        "id_image": "childbirth_5233821"
+      }
+    ],
+    "hash_code_list_img": "-1313724406",
+    "list_definition_mean": [
+      {
+        "mean_english": "quá trình sinh con",
+        "definition": "the act of giving birth to a child",
+        "ex_of_definition_list": [
+          "She died in childbirth."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1609269970"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/childhood_cb_dmean_5000_it.json",
+    "id_item": "childhood_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "childhood",
+    "list_mean": [
+      "thời thơ ấu"
+    ],
+    "hash_code_list_mean": "-1105385630",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808353707_9a0815f9e0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808353707_8c732d86e3_o.png",
+        "id_image": "childhood_360005"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810046460_a90f4f3909_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810046460_3d48094bd1_o.png",
+        "id_image": "childhood_6174469"
+      }
+    ],
+    "hash_code_list_img": "-2027509903",
+    "list_definition_mean": [
+      {
+        "mean_english": "thời thơ ấu",
+        "definition": "the state or time of being a child",
+        "ex_of_definition_list": [
+          "Her childhood was a time of happiness."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1461520708"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/child_cb_dmean_5000_it.json",
+    "id_item": "child_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "child",
+    "list_mean": [
+      "đứa bé",
+      "đứa con"
+    ],
+    "hash_code_list_mean": "1540353774",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809424833_7d51b98afd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809424833_bf03026c48_o.png",
+        "id_image": "child_3014379"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809424788_65db19bca9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809424788_10e15893f3_o.png",
+        "id_image": "child_3564520"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808353877_9284448931_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808353877_3a0b8738c2_o.png",
+        "id_image": "child_4110366"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810046635_833d67f550_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810046635_5771fb8266_o.png",
+        "id_image": "child_5234006"
+      }
+    ],
+    "hash_code_list_img": "-1339340086",
+    "list_definition_mean": [
+      {
+        "mean_english": "đứa bé",
+        "definition": "a young human being of either sex",
+        "ex_of_definition_list": [
+          "a small child."
+        ]
+      },
+      {
+        "mean_english": "đứa con",
+        "definition": "a son or daughter",
+        "ex_of_definition_list": [
+          "Her youngest child is five years old."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1660839065"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chilli_cb_dmean_5000_it.json",
+    "id_item": "chilli_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chilli",
+    "list_mean": [
+      "ớt khô"
+    ],
+    "hash_code_list_mean": "-1383414865",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810046265_036edef1e7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810046265_cca31ae60b_o.png",
+        "id_image": "chilli_1660537"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809664619_fed255212f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809664619_18c7f2bdde_o.png",
+        "id_image": "chilli_5495490"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810046190_af5794147c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810046190_31831b89f3_o.png",
+        "id_image": "chilli_5495496"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810046285_d3e51a096c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810046285_2ebaf864b6_o.png",
+        "id_image": "chilli_805274"
+      }
+    ],
+    "hash_code_list_img": "2054668506",
+    "list_definition_mean": [
+      {
+        "mean_english": "ớt khô",
+        "definition": "the hot-tasting pod of a type of pepper, often dried, powdered and used in sauces etc",
+        "ex_of_definition_list": [
+          "red hot chillies."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "375039065"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chill_cb_dmean_5000_it.json",
+    "id_item": "chill_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chill",
+    "list_mean": [
+      "sự ớn lạnh",
+      "cảm lạnh",
+      "giá lạnh",
+      "làm lạnh"
+    ],
+    "hash_code_list_mean": "-1114558737",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808353632_62198b46b9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808353632_fd6708b1f0_o.png",
+        "id_image": "chill_1721746"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809424543_9413317af9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809424543_d076ef4b9a_o.png",
+        "id_image": "chill_1730175"
+      }
+    ],
+    "hash_code_list_img": "-1551359512",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự ớn lạnh",
+        "definition": "coldness",
+        "ex_of_definition_list": [
+          "There’s a chill in the air."
+        ]
+      },
+      {
+        "mean_english": "cảm lạnh",
+        "definition": "an illness which causes shivering",
+        "ex_of_definition_list": [
+          "I think I’ve caught a chill."
+        ]
+      },
+      {
+        "mean_english": "giá lạnh",
+        "definition": "cold",
+        "ex_of_definition_list": [
+          "a chill wind."
+        ]
+      },
+      {
+        "mean_english": "làm lạnh",
+        "definition": "to make cold (without freezing)",
+        "ex_of_definition_list": [
+          "Have you chilled the wine?"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1231763301"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chime_cb_dmean_5000_it.json",
+    "id_item": "chime_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chime",
+    "list_mean": [
+      "chuông chùm",
+      "rung chuông",
+      "điểm chuông"
+    ],
+    "hash_code_list_mean": "-1003505291",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808353387_3f2a02850c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808353387_5a46292dd5_o.png",
+        "id_image": "chime_1913264"
+      }
+    ],
+    "hash_code_list_img": "119156240",
+    "list_definition_mean": [
+      {
+        "mean_english": "chuông chùm",
+        "definition": "(the ringing of) a set of tuned bells",
+        "ex_of_definition_list": [
+          "the chime of the clock."
+        ]
+      },
+      {
+        "mean_english": "rung chuông",
+        "definition": "to (cause to) ring",
+        "ex_of_definition_list": [
+          "The church bells chimed."
+        ]
+      },
+      {
+        "mean_english": "điểm chuông",
+        "definition": "(of a clock) to indicate the time by chiming",
+        "ex_of_definition_list": [
+          "The clock chimed 9 o’clock."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-613494160"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chimney_cb_dmean_5000_it.json",
+    "id_item": "chimney_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chimney",
+    "list_mean": [
+      "ống khói"
+    ],
+    "hash_code_list_mean": "-1631741400",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809664359_66c6a87a39_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809664359_fb68688e77_o.png",
+        "id_image": "chimney_257530"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810046040_e5849624d0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810046040_7023989785_o.png",
+        "id_image": "chimney_288564"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809309021_5430cb1080_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809309021_eef282ec78_o.png",
+        "id_image": "chimney_6248285"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809664259_c81bf6d3f0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809664259_f2ea136a83_o.png",
+        "id_image": "chimney_6249580"
+      }
+    ],
+    "hash_code_list_img": "472269773",
+    "list_definition_mean": [
+      {
+        "mean_english": "ống khói",
+        "definition": "a passage for the escape of smoke etc from a fireplace or furnace",
+        "ex_of_definition_list": [
+          "a factory chimney."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "419082261"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chin_cb_dmean_5000_it.json",
+    "id_item": "chin_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chin",
+    "list_mean": [
+      "cằm"
+    ],
+    "hash_code_list_mean": "338846",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809308941_a937124f1d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809308941_4968c7e45e_o.png",
+        "id_image": "chin_5737351"
+      }
+    ],
+    "hash_code_list_img": "326781811",
+    "list_definition_mean": [
+      {
+        "mean_english": "cằm",
+        "definition": "the part of the face below the mouth",
+        "ex_of_definition_list": [
+          "His beard completely covers his chin."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "873224191"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chip_cb_dmean_5000_it.json",
+    "id_item": "chip_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chip",
+    "list_mean": [
+      "làm sứt",
+      "chỗ sứt",
+      "khoai tây mỏng rán",
+      "thẻ đánh bạc",
+      "chíp điện tử"
+    ],
+    "hash_code_list_mean": "894667510",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809308846_0f45b802a5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809308846_d73e38dfd2_o.png",
+        "id_image": "chips_2819418"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809424033_d07dfd03b9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809424033_7d6e3f1215_o.png",
+        "id_image": "chips_3728168"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810045865_02637c33d4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810045865_1dc73896b0_o.png",
+        "id_image": "chips_536103"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808353132_dea381f6f0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808353132_b3c654d82f_o.png",
+        "id_image": "chip_750992"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809308891_5f91af9d4e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809308891_20554b634a_o.png",
+        "id_image": "chip_752568"
+      }
+    ],
+    "hash_code_list_img": "1422167478",
+    "list_definition_mean": [
+      {
+        "mean_english": "làm sứt",
+        "definition": "to knock or strike small pieces off",
+        "ex_of_definition_list": [
+          "This glass (was) chipped when I knocked it over."
+        ]
+      },
+      {
+        "mean_english": "chỗ sứt",
+        "definition": "a place from which a small piece is broken",
+        "ex_of_definition_list": [
+          "There’s a chip in the edge of this saucer."
+        ]
+      },
+      {
+        "mean_english": "khoai tây mỏng rán",
+        "definition": "a cut piece of potato (fried); French fries American",
+        "ex_of_definition_list": [
+          "steak and chips."
+        ]
+      },
+      {
+        "mean_english": "thẻ đánh bạc",
+        "definition": "a counter representing a certain value, used in gambling",
+        "ex_of_definition_list": [
+          "gaming chips."
+        ]
+      },
+      {
+        "mean_english": "chíp điện tử",
+        "definition": "a very small printed circuit, as used in computers, TV sets etc",
+        "ex_of_definition_list": [
+          "a silicon chip."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-855514600"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chisel_cb_dmean_5000_it.json",
+    "id_item": "chisel_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chisel",
+    "list_mean": [
+      "cái đục",
+      "đục; chạm trổ"
+    ],
+    "hash_code_list_mean": "-888527517",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809664059_7cf461060c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809664059_bfe56269e4_o.png",
+        "id_image": "chisel_1422221"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809308776_cfca109d5c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809308776_78b0e01a1a_o.png",
+        "id_image": "chisel_2270908"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810045750_77f9caa36f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810045750_348c9ac710_o.png",
+        "id_image": "chisel_2270912"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809423958_ac929f632f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809423958_c60af0e230_o.png",
+        "id_image": "chisel_5848281"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809664099_857265cf21_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809664099_f46a802541_o.png",
+        "id_image": "chisel_664125"
+      }
+    ],
+    "hash_code_list_img": "1563172397",
+    "list_definition_mean": [
+      {
+        "mean_english": "cái đục",
+        "definition": "a tool with a cutting edge at the end",
+        "ex_of_definition_list": [
+          "She was using a chisel to carve the stone."
+        ]
+      },
+      {
+        "mean_english": "đục; chạm trổ",
+        "definition": "to cut or carve (wood etc) with a chisel",
+        "ex_of_definition_list": [
+          "The sculptor was chiselling the features on a statue."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1635959225"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chocolate_cb_dmean_5000_it.json",
+    "id_item": "chocolate_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chocolate",
+    "list_mean": [
+      "sô cô la",
+      "đồ uống sô cô la",
+      "bọc bằng sô cô la"
+    ],
+    "hash_code_list_mean": "-1980490841",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808352807_7e1efed3b3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808352807_86c4deef18_o.png",
+        "id_image": "chocolate_119518"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809423738_d4963b35e3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809423738_16800a0bd7_o.png",
+        "id_image": "chocolate_1451191"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808352782_5cc3977b6c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808352782_eed1b1cd68_o.png",
+        "id_image": "chocolate_332961"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809308631_3742982c3b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809308631_3e0be3e07f_o.png",
+        "id_image": "chocolate_619472"
+      }
+    ],
+    "hash_code_list_img": "-738451357",
+    "list_definition_mean": [
+      {
+        "mean_english": "sô cô la",
+        "definition": "a paste made from the seeds of the cacao tree."
+      },
+      {
+        "mean_english": "đồ uống sô cô la",
+        "definition": "a sweet or drink made from it",
+        "ex_of_definition_list": [
+          "Have a chocolate",
+          "a cup of chocolate."
+        ]
+      },
+      {
+        "mean_english": "bọc bằng sô cô la",
+        "definition": "of, made from, covered with, chocolate",
+        "ex_of_definition_list": [
+          "chocolate ice-cream",
+          "chocolate biscuits."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1927338820"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/choice_cb_dmean_5000_it.json",
+    "id_item": "choice_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "choice",
+    "list_mean": [
+      "quyền lựa chọn",
+      "sự lựa chọn"
+    ],
+    "hash_code_list_mean": "113873605",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809663664_c114ae59dd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809663664_11042ef5a1_o.png",
+        "id_image": "choices_5778306"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810045360_ca5f70881d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810045360_8b8cb7fc75_o.png",
+        "id_image": "choices_5998622"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808352612_0b8d2f56f0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808352612_253db864a2_o.png",
+        "id_image": "choice_1356586"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809423668_d67ce7c5ca_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809423668_7a00c1c146_o.png",
+        "id_image": "choice_3899178"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809423703_252bebab1d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809423703_af3cc00e51_o.png",
+        "id_image": "choice_751782"
+      }
+    ],
+    "hash_code_list_img": "-2097828191",
+    "list_definition_mean": [
+      {
+        "mean_english": "quyền lựa chọn",
+        "definition": "an act or the power of choosing",
+        "ex_of_definition_list": [
+          "You have no choice – you must do it."
+        ]
+      },
+      {
+        "mean_english": "sự lựa chọn",
+        "definition": "a thing chosen",
+        "ex_of_definition_list": [
+          "Which college was your first choice?"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1159772457"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/choir_cb_dmean_5000_it.json",
+    "id_item": "choir_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "choir",
+    "list_mean": [
+      "đội hợp xướng"
+    ],
+    "hash_code_list_mean": "1787690833",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809423588_e80b6389ec_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809423588_61c7a55254_o.png",
+        "id_image": "choir_1312035"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808352457_1c8665fdbb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808352457_ed91b575b0_o.png",
+        "id_image": "choir_2336073"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809663624_13f25acd7c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809663624_aa48b89d85_o.png",
+        "id_image": "choir_667724"
+      }
+    ],
+    "hash_code_list_img": "-1447681712",
+    "list_definition_mean": [
+      {
+        "mean_english": "đội hợp xướng",
+        "definition": "a group of singers",
+        "ex_of_definition_list": [
+          "He used to sing in the church choir."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "704205457"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/choke_cb_dmean_5000_it.json",
+    "id_item": "choke_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "choke",
+    "list_mean": [
+      "nghẹt thở",
+      "tắc",
+      "bướm gió"
+    ],
+    "hash_code_list_mean": "-518693635",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810045220_c638eafaf2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810045220_e3ce29dab5_o.png",
+        "id_image": "choke_4658059"
+      }
+    ],
+    "hash_code_list_img": "83812714",
+    "list_definition_mean": [
+      {
+        "mean_english": "nghẹt thở",
+        "definition": "to (cause to) stop, or partly stop, breathing",
+        "ex_of_definition_list": [
+          "The gas choked him",
+          "He choked to death."
+        ]
+      },
+      {
+        "mean_english": "tắc",
+        "definition": "to block",
+        "ex_of_definition_list": [
+          "This pipe was choked with dirt."
+        ]
+      },
+      {
+        "mean_english": "bướm gió",
+        "definition": "an apparatus in a car engine etc to prevent the passage of too much air when starting the engine",
+        "ex_of_definition_list": [
+          "You’ll need to use the choke to get the bike started when it’s cold."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "831390199"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cholera_cb_dmean_5000_it.json",
+    "id_item": "cholera_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "cholera",
+    "list_mean": [
+      "bệnh tả"
+    ],
+    "hash_code_list_mean": "-883443345",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810045095_d6c7b7417c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810045095_25141315e7_o.png",
+        "id_image": "cholera_2927280"
+      }
+    ],
+    "hash_code_list_img": "978609066",
+    "list_definition_mean": [
+      {
+        "mean_english": "bệnh tả",
+        "definition": "a highly infectious, often fatal disease occurring in hot countries",
+        "ex_of_definition_list": [
+          "An outbreak of cholera decimated the local population."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "298046030"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/choose_cb_dmean_5000_it.json",
+    "id_item": "choose_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "choose",
+    "list_mean": [
+      "chọn, lựa",
+      "quyết định"
+    ],
+    "hash_code_list_mean": "1001284073",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808352172_a35fe4e040_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808352172_94abfe1f2c_o.png",
+        "id_image": "choose_3254763"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809423308_90f261506b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809423308_fb7ede129a_o.png",
+        "id_image": "choose_648991"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809423213_aa586e5741_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809423213_9005b58094_o.png",
+        "id_image": "choosing_1412246"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809423133_3783e42542_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809423133_f1b67e3a09_o.png",
+        "id_image": "choosing_6092505"
+      }
+    ],
+    "hash_code_list_img": "1036941419",
+    "list_definition_mean": [
+      {
+        "mean_english": "chọn, lựa",
+        "definition": "to take (one thing rather than another from a number of things) according to what one wants",
+        "ex_of_definition_list": [
+          "Always choose (a book) carefully."
+        ]
+      },
+      {
+        "mean_english": "quyết định",
+        "definition": "to decide (on one course of action rather than another)",
+        "ex_of_definition_list": [
+          "If he chooses to resign, let him do so."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1121918724"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chopper_cb_dmean_5000_it.json",
+    "id_item": "chopper_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chopper",
+    "list_mean": [
+      "dao bầu",
+      "máy bay trực thăng"
+    ],
+    "hash_code_list_mean": "2115571928",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809663064_1594966d80_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809663064_7fd08ea3a0_o.png",
+        "id_image": "chopper_2160628"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809422938_c11feb0269_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809422938_79601d805f_o.png",
+        "id_image": "chopper_5238581"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809307766_650c1cfc0f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809307766_0e2aaf48f6_o.png",
+        "id_image": "chopper_5663653"
+      }
+    ],
+    "hash_code_list_img": "-644671598",
+    "list_definition_mean": [
+      {
+        "mean_english": "dao bầu",
+        "definition": "an instrument for chopping",
+        "ex_of_definition_list": [
+          "a meat chopper."
+        ]
+      },
+      {
+        "mean_english": "máy bay trực thăng",
+        "definition": "a helicopter",
+        "ex_of_definition_list": [
+          "a ride in a chopper."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1490641275"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chop_cb_dmean_5000_it.json",
+    "id_item": "chop_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chop",
+    "list_mean": [
+      "chặt nhỏ",
+      "miếng thịt sườn",
+      "hàm động vật"
+    ],
+    "hash_code_list_mean": "1573318802",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809307861_d5f0e1f988_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809307861_3b4c2b4ed0_o.png",
+        "id_image": "chop_1740505"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809663109_8cb73ca52d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809663109_ae72216224_o.png",
+        "id_image": "chop_3690254"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810044885_bdefeb3b39_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810044885_575a143656_o.png",
+        "id_image": "chop_413213"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809663159_33b910f4de_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809663159_846ffb43fd_o.png",
+        "id_image": "chop_815966"
+      }
+    ],
+    "hash_code_list_img": "127063532",
+    "list_definition_mean": [
+      {
+        "mean_english": "chặt nhỏ",
+        "definition": "(sometimes with up) to cut (into small pieces)",
+        "ex_of_definition_list": [
+          "He chopped up the vegetables."
+        ]
+      },
+      {
+        "mean_english": "miếng thịt sườn",
+        "definition": "a slice of mutton, pork etc containing a rib",
+        "ex_of_definition_list": [
+          "a lamb/pork chop."
+        ]
+      },
+      {
+        "mean_english": "hàm động vật",
+        "definition": "the jaws or mouth, especially of an animal",
+        "ex_of_definition_list": [
+          "The tiger was licking its chops."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-398583477"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/choral_cb_dmean_5000_it.json",
+    "id_item": "choral_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "choral",
+    "list_mean": [
+      "thuộc dàn đồng ca"
+    ],
+    "hash_code_list_mean": "-1956843841",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808351747_da16571b38_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808351747_eda00bb774_o.png",
+        "id_image": "choral_122837"
+      }
+    ],
+    "hash_code_list_img": "812666788",
+    "list_definition_mean": [
+      {
+        "mean_english": "thuộc dàn đồng ca",
+        "definition": "of, for, or to be sung by, a choir",
+        "ex_of_definition_list": [
+          "choral music."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "700603355"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chord_cb_dmean_5000_it.json",
+    "id_item": "chord_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chord",
+    "list_mean": [
+      "hợp âm"
+    ],
+    "hash_code_list_mean": "1693152149",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810044585_86637065ea_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810044585_60c96e0042_o.png",
+        "id_image": "chord_3355143"
+      }
+    ],
+    "hash_code_list_img": "650482535",
+    "list_definition_mean": [
+      {
+        "mean_english": "hợp âm",
+        "definition": "in music, a number of notes played together",
+        "ex_of_definition_list": [
+          "What’s the fingering position for the D minor chord?"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "731498838"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/choreography_cb_dmean_5000_it.json",
+    "id_item": "choreography_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "choreography",
+    "list_mean": [
+      "vũ đạo",
+      "việc biên đạo múa"
+    ],
+    "hash_code_list_mean": "-311556002",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809662839_070337a4ba_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809662839_bc2a24a41b_o.png",
+        "id_image": "choreography_5775019"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808351682_3c9aa9f657_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808351682_bbdf6ea716_o.png",
+        "id_image": "choreography_5775140"
+      }
+    ],
+    "hash_code_list_img": "1387555711",
+    "list_definition_mean": [
+      {
+        "mean_english": "vũ đạo",
+        "definition": "the art of arranging the steps and movements of dancers during a performance, such as for a ballet or stage show",
+        "ex_of_definition_list": [
+          "She studied choreography at the Beijing Dance Academy."
+        ]
+      },
+      {
+        "mean_english": "việc biên đạo múa",
+        "definition": "the steps and movements of a ballet or other dance performance",
+        "ex_of_definition_list": [
+          "He directed the choreography of the show."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-844976429"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chromatic_cb_dmean_5000_it.json",
+    "id_item": "chromatic_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chromatic",
+    "list_mean": [
+      "nửa cung"
+    ],
+    "hash_code_list_mean": "1045400360",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808351552_bdf6cbb46b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808351552_4b0fb51c49_o.png",
+        "id_image": "chromatic_4371052"
+      }
+    ],
+    "hash_code_list_img": "16948504",
+    "list_definition_mean": [
+      {
+        "mean_english": "nửa cung",
+        "definition": "a series of musical notes, each separated from the next by a semitone",
+        "ex_of_definition_list": [
+          "She taught me how to play the chromatic scales."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1414923464"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chromosome_cb_dmean_5000_it.json",
+    "id_item": "chromosome_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chromosome",
+    "list_mean": [
+      "nhiễm sắc thể"
+    ],
+    "hash_code_list_mean": "-2008633364",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809307386_d06ee6a931_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809307386_f00a0b19ef_o.png",
+        "id_image": "chromosome_4072385"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809662664_37c38fe927_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809662664_ba4c4c626f_o.png",
+        "id_image": "chromosome_5903860"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810044295_15e8221acc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810044295_5952a8cb2b_o.png",
+        "id_image": "chromosome_5903907"
+      }
+    ],
+    "hash_code_list_img": "725563174",
+    "list_definition_mean": [
+      {
+        "mean_english": "nhiễm sắc thể",
+        "definition": "one of the thread-shaped structures that are found in the central part (= nucleus) of living cells and contain genes",
+        "ex_of_definition_list": [
+          "Human cells have 23 pairs of chromosomes."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "470696577"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chrysalis_cb_dmean_5000_it.json",
+    "id_item": "chrysalis_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chrysalis",
+    "list_mean": [
+      "con nhộng"
+    ],
+    "hash_code_list_mean": "1498621529",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809307341_dec91ed333_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809307341_4c778938c5_o.png",
+        "id_image": "chrysalis_1653106"
+      }
+    ],
+    "hash_code_list_img": "1640287964",
+    "list_definition_mean": [
+      {
+        "mean_english": "con nhộng",
+        "definition": "the form taken by some insects (eg butterflies) at an early stage in their development",
+        "ex_of_definition_list": [
+          "The butterflies should emerge from the chrysalis within 10-14 days."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "952833573"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chrysanthemum_cb_dmean_5000_it.json",
+    "id_item": "chrysanthemum_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chrysanthemum",
+    "list_mean": [
+      "cây hoa cúc"
+    ],
+    "hash_code_list_mean": "-1910630689",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810044265_708e3a4d88_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810044265_99809d2821_o.png",
+        "id_image": "chrysanthemum_2448672"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809662574_8c8072a502_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809662574_c0995cc577_o.png",
+        "id_image": "chrysanthemum_4334560"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809307271_ceabc3caa2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809307271_b63127512e_o.png",
+        "id_image": "chrysanthemum_6080510"
+      }
+    ],
+    "hash_code_list_img": "899912223",
+    "list_definition_mean": [
+      {
+        "mean_english": "cây hoa cúc",
+        "definition": "a type of garden flower with a large, bushy head",
+        "ex_of_definition_list": [
+          "a lovely bunch of chrysanthemums."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1700334081"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chubby_cb_dmean_5000_it.json",
+    "id_item": "chubby_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chubby",
+    "list_mean": [
+      "tròn trĩnh"
+    ],
+    "hash_code_list_mean": "-490699106",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810044210_26fa013728_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810044210_ca37473d7e_o.png",
+        "id_image": "chubby_1818370"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809422343_5d343e6cef_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809422343_10d8af63d8_o.png",
+        "id_image": "chubby_5571374"
+      }
+    ],
+    "hash_code_list_img": "-1959336718",
+    "list_definition_mean": [
+      {
+        "mean_english": "tròn trĩnh",
+        "definition": "plump",
+        "ex_of_definition_list": [
+          "a baby’s chubby face."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2067540735"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/church_cb_dmean_5000_it.json",
+    "id_item": "church_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "church",
+    "list_mean": [
+      "nhà thờ",
+      "giáo hội"
+    ],
+    "hash_code_list_mean": "-1532127622",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809307181_c544492e47_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809307181_d33656d4d2_o.png",
+        "id_image": "church_1339623"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809662469_55030b52e5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809662469_433133aaac_o.png",
+        "id_image": "church_257549"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809662439_014df7635b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809662439_6f675b2ea7_o.png",
+        "id_image": "church_2776267"
+      }
+    ],
+    "hash_code_list_img": "841432196",
+    "list_definition_mean": [
+      {
+        "mean_english": "nhà thờ",
+        "definition": "a building for public Christian worship",
+        "ex_of_definition_list": [
+          "The wedding will be held at the village church."
+        ]
+      },
+      {
+        "mean_english": "giáo hội",
+        "definition": "a group of Christians considered as a whole",
+        "ex_of_definition_list": [
+          "the Catholic Church."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-659465975"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chutney_cb_dmean_5000_it.json",
+    "id_item": "chutney_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "chutney",
+    "list_mean": [
+      "tương chutney"
+    ],
+    "hash_code_list_mean": "1611799867",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809307131_c2ab6e32a7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809307131_2a766979d3_o.png",
+        "id_image": "chutney_4647098"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809422243_c5b0594513_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809422243_5b89f8b299_o.png",
+        "id_image": "chutney_5956078"
+      }
+    ],
+    "hash_code_list_img": "-1091276186",
+    "list_definition_mean": [
+      {
+        "mean_english": "tương chutney",
+        "definition": "a sauce made from fruit, vegetables and spices",
+        "ex_of_definition_list": [
+          "tomato chutney"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1340759807"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cicada_cb_dmean_5000_it.json",
+    "id_item": "cicada_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "cicada",
+    "list_mean": [
+      "con ve sầu"
+    ],
+    "hash_code_list_mean": "-795172371",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809307061_9ca263763a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809307061_d185af7d36_o.png",
+        "id_image": "cicada_1779607"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809307021_dcc2fedc86_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809307021_7f28e24667_o.png",
+        "id_image": "cicada_4699094"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810044030_f23115aa8b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810044030_1652b60fa9_o.png",
+        "id_image": "cicada_4982525"
+      }
+    ],
+    "hash_code_list_img": "-1510980155",
+    "list_definition_mean": [
+      {
+        "mean_english": "con ve sầu",
+        "definition": "an insect that makes a loud chirping noise",
+        "ex_of_definition_list": [
+          "the chirping of cicadas."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1493806767"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cider_cb_dmean_5000_it.json",
+    "id_item": "cider_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "cider",
+    "list_mean": [
+      "rượu táo"
+    ],
+    "hash_code_list_mean": "1107937553",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809306946_84b020223d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809306946_e32e232e40_o.png",
+        "id_image": "cider_2688561"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810043950_71ef44559c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810043950_d6ff34a775_o.png",
+        "id_image": "cider_3751902"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809422053_f8e4d65f2a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809422053_0395929b9f_o.png",
+        "id_image": "cider_3823907"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809422018_755fcbb047_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809422018_b506aed816_o.png",
+        "id_image": "cider_6118889"
+      }
+    ],
+    "hash_code_list_img": "-717474399",
+    "list_definition_mean": [
+      {
+        "mean_english": "rượu táo",
+        "definition": "an alcoholic drink made from apples",
+        "ex_of_definition_list": [
+          "a bottle of dry/sweet cider."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2066777538"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cigarette_cb_dmean_5000_it.json",
+    "id_item": "cigarette_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "cigarette",
+    "list_mean": [
+      "điếu thuốc lá"
+    ],
+    "hash_code_list_mean": "-1661956045",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809662149_e1a7332e4d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809662149_10bd4b6860_o.png",
+        "id_image": "cigarette_595766"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810043755_ab85f65c7c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810043755_e438eb6252_o.png",
+        "id_image": "cigarette_804662"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808350877_87e7edbde7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808350877_c8f436acb0_o.png",
+        "id_image": "cigarette_850213"
+      }
+    ],
+    "hash_code_list_img": "-1993987254",
+    "list_definition_mean": [
+      {
+        "mean_english": "điếu thuốc lá",
+        "definition": "a tube of finely cut tobacco rolled in thin paper",
+        "ex_of_definition_list": [
+          "She lit a cigarette."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1146116359"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cigar_cb_dmean_5000_it.json",
+    "id_item": "cigar_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "cigar",
+    "list_mean": [
+      "điếu xì gà"
+    ],
+    "hash_code_list_mean": "-1585397742",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809662199_6a3514362c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809662199_bab5c16e86_o.png",
+        "id_image": "cigar_3184185"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809421963_399c212931_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809421963_1c3e010b4c_o.png",
+        "id_image": "cigar_3207499"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809306756_593da1e634_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809306756_321b5d3d40_o.png",
+        "id_image": "cigar_4612461"
+      }
+    ],
+    "hash_code_list_img": "-1710873565",
+    "list_definition_mean": [
+      {
+        "mean_english": "điếu xì gà",
+        "definition": "a roll of tobacco leaves for smoking",
+        "ex_of_definition_list": [
+          "Edgar was puffing away on a fat cigar."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1893107671"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cinema_cb_dmean_5000_it.json",
+    "id_item": "cinema_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "cinema",
+    "list_mean": [
+      "rạp chiếu phim",
+      "nghệ thuật điện ảnh"
+    ],
+    "hash_code_list_mean": "-1590435396",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809421843_5ebbee368b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809421843_6b3c004fd0_o.png",
+        "id_image": "cinema_2217602"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809662049_3857d586e8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809662049_6fe175480b_o.png",
+        "id_image": "cinema_3351573"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809661999_22fa93b6d6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809661999_b1d90cb7dc_o.png",
+        "id_image": "cinema_3936956"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808350847_68a9c30441_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808350847_749ce584eb_o.png",
+        "id_image": "cinema_860157"
+      }
+    ],
+    "hash_code_list_img": "1551171866",
+    "list_definition_mean": [
+      {
+        "mean_english": "rạp chiếu phim",
+        "definition": "a building in which films/movies are shown; movie theater American",
+        "ex_of_definition_list": [
+          "Do you fancy going to the cinema tonight?"
+        ]
+      },
+      {
+        "mean_english": "nghệ thuật điện ảnh",
+        "definition": "the art or business of making films/movies",
+        "ex_of_definition_list": [
+          "She wrote a book on French cinema",
+          "(also adjective) the cinema industry."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-926316707"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cinnamon_cb_dmean_5000_it.json",
+    "id_item": "cinnamon_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "cinnamon",
+    "list_mean": [
+      "quế"
+    ],
+    "hash_code_list_mean": "120122",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809421773_f329875681_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809421773_d9b8d93d2c_o.png",
+        "id_image": "cinnamon_3944330"
+      }
+    ],
+    "hash_code_list_img": "2059830798",
+    "list_definition_mean": [
+      {
+        "mean_english": "quế",
+        "definition": "the bark of a tree of the laurel family, used as a spice",
+        "ex_of_definition_list": [
+          "ground cinnamon."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "718053955"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/circle_cb_dmean_5000_it.json",
+    "id_item": "circle_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "circle",
+    "list_mean": [
+      "hình tròn",
+      "vòng tròn",
+      "nhóm người",
+      "ban công",
+      "bao quanh",
+      "khoanh tròn"
+    ],
+    "hash_code_list_mean": "-184631688",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810043590_67c2627d21_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810043590_864b04c512_o.png",
+        "id_image": "circles_238367"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810043555_50594e4d75_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810043555_419e3cffbe_o.png",
+        "id_image": "circles_2844977"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809421753_5b8508650e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809421753_44597e308a_o.png",
+        "id_image": "circle_217216"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808350722_df983a4ca7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808350722_1b7bf93ecf_o.png",
+        "id_image": "circle_3873888"
+      }
+    ],
+    "hash_code_list_img": "-1493332732",
+    "list_definition_mean": [
+      {
+        "mean_english": "hình tròn",
+        "definition": "a figure (O) bounded by one line, every point on which is equally distant from the centre/center",
+        "ex_of_definition_list": [
+          "How do you work out the circumference of a circle?"
+        ]
+      },
+      {
+        "mean_english": "vòng tròn",
+        "definition": "something in the form of a circle",
+        "ex_of_definition_list": [
+          "She was surrounded by a circle of admirers."
+        ]
+      },
+      {
+        "mean_english": "nhóm người",
+        "definition": "a group of people",
+        "ex_of_definition_list": [
+          "a circle of close friends",
+          "wealthy circles."
+        ]
+      },
+      {
+        "mean_english": "ban công",
+        "definition": "a balcony in a theatre/theater etc",
+        "ex_of_definition_list": [
+          "We sat in the circle at the opera."
+        ]
+      },
+      {
+        "mean_english": "bao quanh",
+        "definition": "to move in a circle round something",
+        "ex_of_definition_list": [
+          "The chickens circled round the farmer who was bringing their food."
+        ]
+      },
+      {
+        "mean_english": "khoanh tròn",
+        "definition": "to draw a circle round",
+        "ex_of_definition_list": [
+          "Please circle the word you think is wrong."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-162948355"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/circuit_cb_dmean_5000_it.json",
+    "id_item": "circuit_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "circuit",
+    "list_mean": [
+      "đường vòng quanh",
+      "vòng đua",
+      "mạch điện",
+      "hành trình"
+    ],
+    "hash_code_list_mean": "461914866",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808350617_a1580e62a9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808350617_3b395bec25_o.png",
+        "id_image": "circuit_3211832"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809421643_fe284f65e4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809421643_980312bb82_o.png",
+        "id_image": "circuit_4259332"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809306431_afbc7d76a7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809306431_b8af27fa8c_o.png",
+        "id_image": "circuit_4606967"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809421568_5ee6cbfb77_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809421568_d8a1ba0b19_o.png",
+        "id_image": "circuit_4684553"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809661839_22086a2e95_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809661839_5e833a7f4b_o.png",
+        "id_image": "circuit_675827"
+      }
+    ],
+    "hash_code_list_img": "2111079454",
+    "list_definition_mean": [
+      {
+        "mean_english": "đường vòng quanh",
+        "definition": "a journey or course round something",
+        "ex_of_definition_list": [
+          "the Earth’s circuit round the sun",
+          "three circuits of the racetrack."
+        ]
+      },
+      {
+        "mean_english": "vòng đua",
+        "definition": "a racetrack, running track etc",
+        "ex_of_definition_list": [
+          "the Grand Prix circuit at Silverstone."
+        ]
+      },
+      {
+        "mean_english": "mạch điện",
+        "definition": "the path of an electric current and the parts through which it passes",
+        "ex_of_definition_list": [
+          "an electric circuit."
+        ]
+      },
+      {
+        "mean_english": "hành trình",
+        "definition": "a journey or tour made regularly and repeatedly eg by salesmen, sportsmen etc",
+        "ex_of_definition_list": [
+          "His regular sales circuit used to take him all over the country."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1730733475"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/circular_cb_dmean_5000_it.json",
+    "id_item": "circular_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "circular",
+    "list_mean": [
+      "có hình tròn",
+      "vòng quanh",
+      "thông tri"
+    ],
+    "hash_code_list_mean": "-1145622141",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808350507_30583451fd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808350507_57562c9fbc_o.png",
+        "id_image": "circular_2442310"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808350472_64680601da_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808350472_9fa9938906_o.png",
+        "id_image": "circular_3815512"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809421483_c9054fa57e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809421483_931e52e825_o.png",
+        "id_image": "circular_6203356"
+      }
+    ],
+    "hash_code_list_img": "-1556426333",
+    "list_definition_mean": [
+      {
+        "mean_english": "có hình tròn",
+        "definition": "having the form of a circle",
+        "ex_of_definition_list": [
+          "a circular piece of paper."
+        ]
+      },
+      {
+        "mean_english": "vòng quanh",
+        "definition": "leading back to the point from which it started",
+        "ex_of_definition_list": [
+          "a circular road."
+        ]
+      },
+      {
+        "mean_english": "thông tri",
+        "definition": "a notice etc, especially advertising something, sent to a number of persons",
+        "ex_of_definition_list": [
+          "We often get circulars advertising holidays."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "276429548"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/circumference_cb_dmean_5000_it.json",
+    "id_item": "circumference_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "circumference",
+    "list_mean": [
+      "chu vi"
+    ],
+    "hash_code_list_mean": "-1361115070",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809306241_5d57c38aa1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809306241_14872e07db_o.png",
+        "id_image": "circumference_391135"
+      }
+    ],
+    "hash_code_list_img": "479162822",
+    "list_definition_mean": [
+      {
+        "mean_english": "chu vi",
+        "definition": "(the length of) the boundary line of a circle or anything circular in shape",
+        "ex_of_definition_list": [
+          "the circumference of a circle/wheel."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "894658431"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/circus_cb_dmean_5000_it.json",
+    "id_item": "circus_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "circus",
+    "list_mean": [
+      "gánh xiếc",
+      "chỗ nhiều đường giao nhau"
+    ],
+    "hash_code_list_mean": "-1470789302",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808350362_67b89289ea_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808350362_26a6f5bef0_o.png",
+        "id_image": "circus_1753948"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809306166_ff8d089c00_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809306166_586392effa_o.png",
+        "id_image": "circus_2519125"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810043185_d601fc7eed_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810043185_3cd47f53c3_o.png",
+        "id_image": "circus_2519129"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810043245_931608ae19_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810043245_2025204100_o.png",
+        "id_image": "circus_675172"
+      }
+    ],
+    "hash_code_list_img": "1002758455",
+    "list_definition_mean": [
+      {
+        "mean_english": "gánh xiếc",
+        "definition": "a travelling show with performances by horsemen, acrobats, animals etc",
+        "ex_of_definition_list": [
+          "a traveling/travelling circus",
+          "The children went to the circus."
+        ]
+      },
+      {
+        "mean_english": "chỗ nhiều đường giao nhau",
+        "definition": "an open space in a town etc where several roads meet",
+        "ex_of_definition_list": [
+          "Piccadilly Circus."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1007068782"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cistern_cb_dmean_5000_it.json",
+    "id_item": "cistern_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "cistern",
+    "list_mean": [
+      "bể chứa nước"
+    ],
+    "hash_code_list_mean": "71959885",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809661499_f88ff7e739_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809661499_a12e06b943_o.png",
+        "id_image": "cistern_1111185"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809661469_3013400e70_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809661469_32ee04e051_o.png",
+        "id_image": "cistern_2523127"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810043075_25ddd097ec_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810043075_5cda176214_o.png",
+        "id_image": "cistern_6315528"
+      }
+    ],
+    "hash_code_list_img": "-23913206",
+    "list_definition_mean": [
+      {
+        "mean_english": "bể chứa nước",
+        "definition": "a tank etc for storing water (especially for a lavatory)",
+        "ex_of_definition_list": [
+          "A plumber came to repair the toilet cistern."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "127127741"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/citizenship_cb_dmean_5000_it.json",
+    "id_item": "citizenship_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "citizenship",
+    "list_mean": [
+      "quyền công dân"
+    ],
+    "hash_code_list_mean": "1043233687",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809421043_4a5679a762_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809421043_a9f49e857c_o.png",
+        "id_image": "citizenship_4697304"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809421028_d1d433ab3b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809421028_831a4324e7_o.png",
+        "id_image": "citizenship_4697338"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810042865_c8c03c3d74_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810042865_72ee3fa9ff_o.png",
+        "id_image": "citizenship_5291775"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809420998_6b0a91bda2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809420998_b4d442dded_o.png",
+        "id_image": "citizenship_5308212"
+      }
+    ],
+    "hash_code_list_img": "-1678376022",
+    "list_definition_mean": [
+      {
+        "mean_english": "quyền công dân",
+        "definition": "the status, rights and duties of a citizen, especially of a particular country etc",
+        "ex_of_definition_list": [
+          "He has applied for British citizenship."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1496102031"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/citizen_cb_dmean_5000_it.json",
+    "id_item": "citizen_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "citizen",
+    "list_mean": [
+      "dân thành phố",
+      "công dân"
+    ],
+    "hash_code_list_mean": "1319868076",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809661434_eedfa82da9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809661434_9a7f970225_o.png",
+        "id_image": "citizen_1339965"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809305976_08c22d71e7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809305976_33f58b5530_o.png",
+        "id_image": "citizen_1339987"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810042960_ae9e63793f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810042960_61baaf489d_o.png",
+        "id_image": "citizen_3571168"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809421078_c0629699ab_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809421078_8532e6ce7c_o.png",
+        "id_image": "citizen_5605873"
+      }
+    ],
+    "hash_code_list_img": "2068740560",
+    "list_definition_mean": [
+      {
+        "mean_english": "dân thành phố",
+        "definition": "an inhabitant of a city or town",
+        "ex_of_definition_list": [
+          "a citizen of London."
+        ]
+      },
+      {
+        "mean_english": "công dân",
+        "definition": "a member of a state or country",
+        "ex_of_definition_list": [
+          "a British citizen",
+          "a citizen of the USA."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1471150259"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/citric_cb_dmean_5000_it.json",
+    "id_item": "citric_cb_dmean_5000_it",
+    "id_album": "90997655",
+    "english": "citric",
+    "list_mean": [
+      "axít xitric"
+    ],
+    "hash_code_list_mean": "-1308433046",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810042815_4a2fd54ca5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810042815_6bf2e112e0_o.png",
+        "id_image": "citric_2358305"
+      }
+    ],
+    "hash_code_list_img": "1604700398",
+    "list_definition_mean": [
+      {
+        "mean_english": "axít xitric",
+        "definition": "the acid which gives lemons and certain other fruits their sourness",
+        "ex_of_definition_list": [
+          "Lemon juice is about 5% citric acid."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "214761517"
+  }
+]

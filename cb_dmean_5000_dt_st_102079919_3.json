@@ -1,0 +1,2336 @@
+[
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/milk_cb_dmean_5000_it.json",
+    "id_item": "milk_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "milk",
+    "list_mean": [
+      "sữa",
+      "vắt sữa"
+    ],
+    "hash_code_list_mean": "-985588388",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809343711_b975765a9c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809343711_54d178f318_o.png",
+        "id_image": "milk_373024"
+      }
+    ],
+    "hash_code_list_img": "173930923",
+    "list_definition_mean": [
+      {
+        "mean_english": "sữa",
+        "definition": "a white liquid produced by female mammals as food for their young",
+        "ex_of_definition_list": [
+          "a glass of milk",
+          "The commonest source of milk is the cow",
+          "(also adjective) a milk bottle."
+        ]
+      },
+      {
+        "mean_english": "vắt sữa",
+        "definition": "to obtain milk from",
+        "ex_of_definition_list": [
+          "The farmer milks his cows each day."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "358220361"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/millstone_cb_dmean_5000_it.json",
+    "id_item": "millstone_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "millstone",
+    "list_mean": [
+      "đá cối xay",
+      "gánh nặng"
+    ],
+    "hash_code_list_mean": "1952445556",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810080450_9a9ff63163_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810080450_fe1c1cf0ae_o.png",
+        "id_image": "millstone_3317637"
+      }
+    ],
+    "hash_code_list_img": "1172289219",
+    "list_definition_mean": [
+      {
+        "mean_english": "đá cối xay",
+        "definition": "one of the two large, heavy stones used in an old-fashioned mill for grinding grain."
+      },
+      {
+        "mean_english": "gánh nặng",
+        "definition": "(usually with round one’s/the neck) something that is a heavy burden or responsibility, and prevents easy progress",
+        "ex_of_definition_list": [
+          "He regarded his brother as a millstone round his neck."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1850866562"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mill_cb_dmean_5000_it.json",
+    "id_item": "mill_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mill",
+    "list_mean": [
+      "máy xay",
+      "nhà máy xay",
+      "nhà máy",
+      "nghiền",
+      "hỗn loạn"
+    ],
+    "hash_code_list_mean": "77129166",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809698434_a931931972_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809698434_c30c00af4a_o.png",
+        "id_image": "mill_1111098"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809343221_8555da6a4f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809343221_878a327761_o.png",
+        "id_image": "mill_123944"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809457913_efa41f746a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809457913_8463a23e51_o.png",
+        "id_image": "mill_2245016"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809343131_f897320d73_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809343131_1359851754_o.png",
+        "id_image": "mill_6092381"
+      }
+    ],
+    "hash_code_list_img": "-1072753976",
+    "list_definition_mean": [
+      {
+        "mean_english": "máy xay",
+        "definition": "a machine, sometimes now electrical, for grinding coffee, pepper etc by crushing it between rough, hard surfaces",
+        "ex_of_definition_list": [
+          "a coffee mill",
+          "a pepper mill."
+        ]
+      },
+      {
+        "mean_english": "nhà máy xay",
+        "definition": "a building where grain is ground",
+        "ex_of_definition_list": [
+          "The farmer took his corn to the mill."
+        ]
+      },
+      {
+        "mean_english": "nhà máy",
+        "definition": "a building where certain types of things are manufactured",
+        "ex_of_definition_list": [
+          "a steel mill."
+        ]
+      },
+      {
+        "mean_english": "nghiền",
+        "definition": "to grind or press",
+        "ex_of_definition_list": [
+          "This flour was milled locally."
+        ]
+      },
+      {
+        "mean_english": "hỗn loạn",
+        "definition": "(usually with aboutor around) (of crowds) to move about in a disorganized way",
+        "ex_of_definition_list": [
+          "There’s a huge crowd of people milling around outside."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "66430992"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mime_cb_dmean_5000_it.json",
+    "id_item": "mime_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mime",
+    "list_mean": [
+      "kịch câm",
+      "vở kịch câm",
+      "nghệ sĩ kịch câm",
+      "diễn kịch câm"
+    ],
+    "hash_code_list_mean": "997104040",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808387902_ebab78430e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808387902_6d093764c2_o.png",
+        "id_image": "mime_3530999"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809342956_69d6bf557e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809342956_cb999408ec_o.png",
+        "id_image": "mime_773391"
+      }
+    ],
+    "hash_code_list_img": "2036630392",
+    "list_definition_mean": [
+      {
+        "mean_english": "kịch câm",
+        "definition": "the art of using movement to perform the function of speech, especially in drama",
+        "ex_of_definition_list": [
+          "She is studying mime."
+        ]
+      },
+      {
+        "mean_english": "vở kịch câm",
+        "definition": "a play in which no words are spoken and the actions tell the story",
+        "ex_of_definition_list": [
+          "The children performed a mime."
+        ]
+      },
+      {
+        "mean_english": "nghệ sĩ kịch câm",
+        "definition": "an actor in such a play; someone who practises this art",
+        "ex_of_definition_list": [
+          "Marcel Marceau was a famous mime."
+        ]
+      },
+      {
+        "mean_english": "diễn kịch câm",
+        "definition": "to act, eg in such a play, using movements rather than words",
+        "ex_of_definition_list": [
+          "He mimed his love for her by holding his hands over his heart."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "597044868"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mincer_cb_dmean_5000_it.json",
+    "id_item": "mincer_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mincer",
+    "list_mean": [
+      "người õng ẹo"
+    ],
+    "hash_code_list_mean": "1456803108",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809698094_3227c35874_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809698094_d77f6925d0_o.png",
+        "id_image": "mincer_1699283"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809457643_14484c189b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809457643_6a66575c78_o.png",
+        "id_image": "mincer_447187"
+      }
+    ],
+    "hash_code_list_img": "-174831556",
+    "list_definition_mean": [
+      {
+        "mean_english": "người õng ẹo",
+        "definition": "a machine for mincing meat etc",
+        "ex_of_definition_list": [
+          "Could you put the meat in the mincer?"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "127083692"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mince_cb_dmean_5000_it.json",
+    "id_item": "mince_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mince",
+    "list_mean": [
+      "cắt nhỏ",
+      "đi đứng õng ẹo",
+      "thịt băm"
+    ],
+    "hash_code_list_mean": "-563528042",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808387867_ecf6a60266_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808387867_336359576c_o.png",
+        "id_image": "mince_3690250"
+      }
+    ],
+    "hash_code_list_img": "1679092663",
+    "list_definition_mean": [
+      {
+        "mean_english": "cắt nhỏ",
+        "definition": "to cut into small pieces or chop finely",
+        "ex_of_definition_list": [
+          "Would you like me to mince the meat for you?"
+        ]
+      },
+      {
+        "mean_english": "đi đứng õng ẹo",
+        "definition": "to walk with short steps, in an unpleasantly dainty or delicate way",
+        "ex_of_definition_list": [
+          "He minced over to her."
+        ]
+      },
+      {
+        "mean_english": "thịt băm",
+        "definition": "meat (usually beef) chopped up into small pieces",
+        "ex_of_definition_list": [
+          "mince and potatoes."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "812009321"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mind_cb_dmean_5000_it.json",
+    "id_item": "mind_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mind",
+    "list_mean": [
+      "trí tuệ",
+      "chăm nom",
+      "cảm thấy phiền lòng",
+      "cẩn thận",
+      "để ý",
+      "sự xen vào"
+    ],
+    "hash_code_list_mean": "1571865827",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809698059_ac3133b270_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809698059_701cc790db_o.png",
+        "id_image": "mind_1215548"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809698024_55965f4137_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809698024_8f38d28abb_o.png",
+        "id_image": "mind_1215563"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808387737_f9dcfa9e95_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808387737_75ea704418_o.png",
+        "id_image": "mind_1935494"
+      }
+    ],
+    "hash_code_list_img": "-1349162482",
+    "list_definition_mean": [
+      {
+        "mean_english": "trí tuệ",
+        "definition": "the power by which one thinks etc; the intelligence or understanding",
+        "ex_of_definition_list": [
+          "She has a very inquiring mind."
+        ]
+      },
+      {
+        "mean_english": "chăm nom",
+        "definition": "to look after or supervise (eg a child)",
+        "ex_of_definition_list": [
+          "Would you mind the baby for a few minutes?."
+        ]
+      },
+      {
+        "mean_english": "cảm thấy phiền lòng",
+        "definition": "to be upset by; to object to",
+        "ex_of_definition_list": [
+          "You must try not to mind when he criticizes your work."
+        ]
+      },
+      {
+        "mean_english": "cẩn thận",
+        "definition": "to be careful of",
+        "ex_of_definition_list": [
+          "Mind (= be careful not to trip over) the step!"
+        ]
+      },
+      {
+        "mean_english": "để ý",
+        "definition": "to pay attention to or obey",
+        "ex_of_definition_list": [
+          "You should mind your parents’ words/advice."
+        ]
+      },
+      {
+        "mean_english": "sự xen vào",
+        "definition": "be careful!",
+        "ex_of_definition_list": [
+          "Mind! There’s a car coming!"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-480997587"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mineralogy_cb_dmean_5000_it.json",
+    "id_item": "mineralogy_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mineralogy",
+    "list_mean": [
+      "khoáng vật học"
+    ],
+    "hash_code_list_mean": "-597597246",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809697654_a92b76ef3d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809697654_ab95b1ddfe_o.png",
+        "id_image": "mineralogy_6348288"
+      }
+    ],
+    "hash_code_list_img": "1101963056",
+    "list_definition_mean": [
+      {
+        "mean_english": "khoáng vật học",
+        "definition": "the scientific study of minerals",
+        "ex_of_definition_list": [
+          "the Department of Mineralogy at the University of Lausanne."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1210018222"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mineral_cb_dmean_5000_it.json",
+    "id_item": "mineral_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mineral",
+    "list_mean": [
+      "khoáng"
+    ],
+    "hash_code_list_mean": "-1132075385",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808387437_ee66d4fb8c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808387437_6b13939f00_o.png",
+        "id_image": "mineral_3075083"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810079970_941fe04409_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810079970_d0cd34b0c0_o.png",
+        "id_image": "mineral_649076"
+      }
+    ],
+    "hash_code_list_img": "1242904996",
+    "list_definition_mean": [
+      {
+        "mean_english": "khoáng",
+        "definition": "a substance (metals, gems, coal, salt etc) found naturally in the earth and mined",
+        "ex_of_definition_list": [
+          "What minerals are mined in that country?",
+          "(also adjective) mineral ores."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1168376690"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mine_cb_dmean_5000_it.json",
+    "id_item": "mine_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mine",
+    "list_mean": [
+      "của tôi",
+      "mỏ",
+      "thủy lôi",
+      "khai thác",
+      "đặt mìn",
+      "phá hủy bằng mìn"
+    ],
+    "hash_code_list_mean": "-245863266",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809457463_fb4a7c8247_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809457463_285c2b26bd_o.png",
+        "id_image": "mine_1083283"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809457433_7694f002a7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809457433_f4d1b34c74_o.png",
+        "id_image": "mine_2150133"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808387722_f0a2d8a5a9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808387722_d895924dab_o.png",
+        "id_image": "mine_942381"
+      }
+    ],
+    "hash_code_list_img": "408747040",
+    "list_definition_mean": [
+      {
+        "mean_english": "của tôi",
+        "definition": "something which belongs to me",
+        "ex_of_definition_list": [
+          "Are these pencils yours or mine? He is a friend of mine (= one of my friends)."
+        ]
+      },
+      {
+        "mean_english": "mỏ",
+        "definition": "a place (usually underground) from which metals, coal, salt etc are dug",
+        "ex_of_definition_list": [
+          "My father worked in the mines."
+        ]
+      },
+      {
+        "mean_english": "thủy lôi",
+        "definition": "a type of bomb used underwater or placed just beneath the surface of the ground",
+        "ex_of_definition_list": [
+          "The ship has been blown up by a mine."
+        ]
+      },
+      {
+        "mean_english": "khai thác",
+        "definition": "to dig (for metals etc) in a mine",
+        "ex_of_definition_list": [
+          "Coal is mined near here."
+        ]
+      },
+      {
+        "mean_english": "đặt mìn",
+        "definition": "to place explosive mines in",
+        "ex_of_definition_list": [
+          "They’ve mined the mouth of the river."
+        ]
+      },
+      {
+        "mean_english": "phá hủy bằng mìn",
+        "definition": "to blow up with mines",
+        "ex_of_definition_list": [
+          "His ship was mined."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1576277522"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/minibus_cb_dmean_5000_it.json",
+    "id_item": "minibus_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "minibus",
+    "list_mean": [
+      "xe buýt nhỏ"
+    ],
+    "hash_code_list_mean": "1549049297",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809342256_76f7afcc6c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809342256_9af0aa22f6_o.png",
+        "id_image": "minibus_1850810"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809697414_68feb48a35_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809697414_fd340ef14e_o.png",
+        "id_image": "minibus_2290104"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809697384_7f568f4f32_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809697384_49109f7ae9_o.png",
+        "id_image": "minibus_2882152"
+      }
+    ],
+    "hash_code_list_img": "-1417424159",
+    "list_definition_mean": [
+      {
+        "mean_english": "xe buýt nhỏ",
+        "definition": "a small bus, usually with only a dozen seats or so",
+        "ex_of_definition_list": [
+          "The school choir hired a minibus."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "146215025"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/minimal_cb_dmean_5000_it.json",
+    "id_item": "minimal_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "minimal",
+    "list_mean": [
+      "rất nhỏ"
+    ],
+    "hash_code_list_mean": "-538206667",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810079575_4984f8c714_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810079575_3af4c170ff_o.png",
+        "id_image": "minimal_2571962"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808387122_9d18e065d8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808387122_6aca63c77d_o.png",
+        "id_image": "minimal_4660895"
+      }
+    ],
+    "hash_code_list_img": "-309641300",
+    "list_definition_mean": [
+      {
+        "mean_english": "rất nhỏ",
+        "definition": "very small indeed",
+        "ex_of_definition_list": [
+          "minimal expense."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "499289221"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/minimize_cb_dmean_5000_it.json",
+    "id_item": "minimize_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "minimize",
+    "list_mean": [
+      "giảm thiểu",
+      "đánh giá thấp"
+    ],
+    "hash_code_list_mean": "136982084",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810079465_7c25db1ee9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810079465_69082291c0_o.png",
+        "id_image": "minimize_1828563"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809456873_22d14550a1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809456873_ef31d098f7_o.png",
+        "id_image": "minimize_3058484"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810079510_27a091e91d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810079510_b58566e0c6_o.png",
+        "id_image": "minimize_376873"
+      }
+    ],
+    "hash_code_list_img": "-983999326",
+    "list_definition_mean": [
+      {
+        "mean_english": "giảm thiểu",
+        "definition": "to make as little as possible",
+        "ex_of_definition_list": [
+          "Our aim is to minimize the danger as far as possible."
+        ]
+      },
+      {
+        "mean_english": "đánh giá thấp",
+        "definition": "to cause to seem little or unimportant",
+        "ex_of_definition_list": [
+          "He minimized the help he had received."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1142185719"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mini_cb_dmean_5000_it.json",
+    "id_item": "mini_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mini",
+    "list_mean": [
+      "váy ngắn",
+      "xe buýt nhỏ",
+      "thuộc xe buýt nhỏ"
+    ],
+    "hash_code_list_mean": "-517909068",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809697529_74f2aafaa2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809697529_d128c736fe_o.png",
+        "id_image": "mini_1600948"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809457138_a7ee8686c5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809457138_40642090b5_o.png",
+        "id_image": "mini_2364436"
+      }
+    ],
+    "hash_code_list_img": "-700414102",
+    "list_definition_mean": [
+      {
+        "mean_english": "váy ngắn",
+        "definition": "short for miniskirt."
+      },
+      {
+        "mean_english": "xe buýt nhỏ",
+        "definition": "a type of small car",
+        "ex_of_definition_list": [
+          "She drives a mini."
+        ]
+      },
+      {
+        "mean_english": "thuộc xe buýt nhỏ",
+        "definition": "small",
+        "ex_of_definition_list": [
+          "a mini dictionary",
+          "a minibus."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "192133582"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mink_cb_dmean_5000_it.json",
+    "id_item": "mink_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mink",
+    "list_mean": [
+      "chồn vizon",
+      "lông chồn",
+      "áo lông chồn"
+    ],
+    "hash_code_list_mean": "-1743657965",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809697064_257cbb7490_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809697064_fd9f611d91_o.png",
+        "id_image": "mink_185706"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810079255_c30b2f6ed4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810079255_695f108ae0_o.png",
+        "id_image": "mink_2281108"
+      }
+    ],
+    "hash_code_list_img": "264118329",
+    "list_definition_mean": [
+      {
+        "mean_english": "chồn vizon",
+        "definition": "a small weasel-like kind of animal."
+      },
+      {
+        "mean_english": "lông chồn",
+        "definition": "its fur",
+        "ex_of_definition_list": [
+          "a hat made of mink",
+          "(also adjective) a mink coat."
+        ]
+      },
+      {
+        "mean_english": "áo lông chồn",
+        "definition": "a mink coat",
+        "ex_of_definition_list": [
+          "She wore her new mink."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1065765141"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/minority_cb_dmean_5000_it.json",
+    "id_item": "minority_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "minority",
+    "list_mean": [
+      "thiểu số"
+    ],
+    "hash_code_list_mean": "-193979818",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809341731_fe9a4ce26f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809341731_24a8ebc520_o.png",
+        "id_image": "minority_6334000"
+      }
+    ],
+    "hash_code_list_img": "1565583381",
+    "list_definition_mean": [
+      {
+        "mean_english": "thiểu số",
+        "definition": "a small number; less than half",
+        "ex_of_definition_list": [
+          "Only a minority of people live in the countryside",
+          "a racial/political minority."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2060388305"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/minor_cb_dmean_5000_it.json",
+    "id_item": "minor_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "minor",
+    "list_mean": [
+      "nhỏ; thứ yếu",
+      "đề tài phụ",
+      "học như một đề tài phụ",
+      "trẻ vị thành niên"
+    ],
+    "hash_code_list_mean": "-607179820",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809697029_9e591d394b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809697029_ab4697c39f_o.png",
+        "id_image": "minor_2332289"
+      }
+    ],
+    "hash_code_list_img": "428307570",
+    "list_definition_mean": [
+      {
+        "mean_english": "nhỏ; thứ yếu",
+        "definition": "less, or little, in importance, size etc",
+        "ex_of_definition_list": [
+          "Always halt when driving from a minor road on to a major road",
+          "She has to go into hospital for a minor operation."
+        ]
+      },
+      {
+        "mean_english": "đề tài phụ",
+        "definition": "a secondary subject that a student chooses to study at university or college",
+        "ex_of_definition_list": [
+          "Her major is in physics, but she has a minor in computer science."
+        ]
+      },
+      {
+        "mean_english": "học như một đề tài phụ",
+        "definition": "to study something as a minor subject",
+        "ex_of_definition_list": [
+          "He is minoring in French."
+        ]
+      },
+      {
+        "mean_english": "trẻ vị thành niên",
+        "definition": "a person who is not yet legally an adult",
+        "ex_of_definition_list": [
+          "It is illegal to sell alcohol to minors."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1188239811"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mint_cb_dmean_5000_it.json",
+    "id_item": "mint_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mint",
+    "list_mean": [
+      "nơi đúc tiền",
+      "đúc tiền",
+      "cây bạc hà",
+      "kẹo bạc hà"
+    ],
+    "hash_code_list_mean": "1655862672",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809696974_bc57743e77_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809696974_a5ec5d4476_o.png",
+        "id_image": "mint_1407838"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810079115_02c64ebcf9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810079115_95892730e9_o.png",
+        "id_image": "mint_1918892"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810079100_7bf84e2103_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810079100_2060cded81_o.png",
+        "id_image": "mint_4264701"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809456458_3dace02a4c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809456458_89902e2a90_o.png",
+        "id_image": "mint_5389307"
+      }
+    ],
+    "hash_code_list_img": "411343873",
+    "list_definition_mean": [
+      {
+        "mean_english": "nơi đúc tiền",
+        "definition": "a place where money is made by the government",
+        "ex_of_definition_list": [
+          "the Royal Mint."
+        ]
+      },
+      {
+        "mean_english": "đúc tiền",
+        "definition": "to manufacture (money)",
+        "ex_of_definition_list": [
+          "When were these coins minted?"
+        ]
+      },
+      {
+        "mean_english": "cây bạc hà",
+        "definition": "a plant with strong-smelling leaves, used as a flavouring/flavoring."
+      },
+      {
+        "mean_english": "kẹo bạc hà",
+        "definition": "(also peppermint) (a sweet with) the flavour/flavor of these leaves",
+        "ex_of_definition_list": [
+          "a box of mints",
+          "(also adjective) mint chocolate."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1060252719"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/minus_cb_dmean_5000_it.json",
+    "id_item": "minus_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "minus",
+    "list_mean": [
+      "trừ",
+      "phép trừ",
+      "âm"
+    ],
+    "hash_code_list_mean": "-14832277",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809696789_84b27e5171_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809696789_1bc879562e_o.png",
+        "id_image": "minus_227949"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810078930_910b8f977e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810078930_09d25e60d3_o.png",
+        "id_image": "minus_2368488"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809341496_8c6f16e8b2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809341496_d54f9880fb_o.png",
+        "id_image": "minus_2844381"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809341481_8f822ce5ca_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809341481_701e907a62_o.png",
+        "id_image": "minus_5982743"
+      }
+    ],
+    "hash_code_list_img": "180810562",
+    "list_definition_mean": [
+      {
+        "mean_english": "trừ",
+        "definition": "used to show subtraction",
+        "ex_of_definition_list": [
+          "Ten minus two equals eight (10 – 2 = 8)."
+        ]
+      },
+      {
+        "mean_english": "phép trừ",
+        "definition": "(also minus sign) a sign (–) used to show subtraction or negative quality."
+      },
+      {
+        "mean_english": "âm",
+        "definition": "negative or less than zero",
+        "ex_of_definition_list": [
+          "a minus number",
+          "Twelve from ten equals minus two (10 – 12 = –2)."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-807225047"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/minute_cb_dmean_5000_it.json",
+    "id_item": "minute_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "minute",
+    "list_mean": [
+      "phút (thời gian)",
+      "phút (góc độ)",
+      "rất ngắn",
+      "thời điểm đó",
+      "biên bản",
+      "rất nhỏ",
+      "tỉ mỉ"
+    ],
+    "hash_code_list_mean": "-1111335083",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809341461_0e5b76ed02_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809341461_45fd55e714_o.png",
+        "id_image": "minute_817285"
+      }
+    ],
+    "hash_code_list_img": "564421357",
+    "list_definition_mean": [
+      {
+        "mean_english": "phút (thời gian)",
+        "definition": "the sixtieth part of an hour; sixty seconds",
+        "ex_of_definition_list": [
+          "It is twenty minutes to eight",
+          "The journey takes thirty minutes",
+          "a ten-minute delay."
+        ]
+      },
+      {
+        "mean_english": "phút (góc độ)",
+        "definition": "in measuring an angle, the sixtieth part of a degree; sixty seconds",
+        "ex_of_definition_list": [
+          "an angle of 47 50′ (= forty-seven degrees, fifty minutes)."
+        ]
+      },
+      {
+        "mean_english": "rất ngắn",
+        "definition": "a very short time",
+        "ex_of_definition_list": [
+          "Wait a minute",
+          "It will be done in a minute."
+        ]
+      },
+      {
+        "mean_english": "thời điểm đó",
+        "definition": "a particular point in time",
+        "ex_of_definition_list": [
+          "At that minute, the telephone rang."
+        ]
+      },
+      {
+        "mean_english": "biên bản",
+        "definition": "the notes taken at a meeting recording what was said",
+        "ex_of_definition_list": [
+          "The chairman asked for this decision to be recorded in the minutes."
+        ]
+      },
+      {
+        "mean_english": "rất nhỏ",
+        "definition": "very small",
+        "ex_of_definition_list": [
+          "The diamonds in the brooch were minute."
+        ]
+      },
+      {
+        "mean_english": "tỉ mỉ",
+        "definition": "paying attention to the smallest details",
+        "ex_of_definition_list": [
+          "He took minute care over the preparation of the meal."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "882736759"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mirror_cb_dmean_5000_it.json",
+    "id_item": "mirror_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mirror",
+    "list_mean": [
+      "gương",
+      "soi gương"
+    ],
+    "hash_code_list_mean": "1563017614",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809696589_4b4452f9d9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809696589_55c6a96b2e_o.png",
+        "id_image": "mirror_1043200"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809696564_90dccf46c3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809696564_709925f72b_o.png",
+        "id_image": "mirror_1202537"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809341411_a2739a032e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809341411_dd52222163_o.png",
+        "id_image": "mirror_699316"
+      }
+    ],
+    "hash_code_list_img": "1224254323",
+    "list_definition_mean": [
+      {
+        "mean_english": "gương",
+        "definition": "a piece of glass or metal having a surface that reflects an image",
+        "ex_of_definition_list": [
+          "a shaving mirror",
+          "She spends a lot of time looking in the mirror."
+        ]
+      },
+      {
+        "mean_english": "soi gương",
+        "definition": "to reflect as a mirror does",
+        "ex_of_definition_list": [
+          "The smooth surface of the lake mirrored the surrounding mountains."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-172921833"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/miscellaneous_cb_dmean_5000_it.json",
+    "id_item": "miscellaneous_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "miscellaneous",
+    "list_mean": [
+      "pha tạp",
+      "hàng hóa khác"
+    ],
+    "hash_code_list_mean": "377932941",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810078705_e91092c160_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810078705_89ca0164e3_o.png",
+        "id_image": "miscellaneous_1798666"
+      }
+    ],
+    "hash_code_list_img": "1091633156",
+    "list_definition_mean": [
+      {
+        "mean_english": "pha tạp",
+        "definition": "composed of several kinds; mixed",
+        "ex_of_definition_list": [
+          "a miscellaneous collection of pictures."
+        ]
+      },
+      {
+        "mean_english": "hàng hóa khác",
+        "definition": "short for miscellaneous items",
+        "ex_of_definition_list": [
+          "The last section of the catalogue is entitled ‘miscellaneous’."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-770864962"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/missile_cb_dmean_5000_it.json",
+    "id_item": "missile_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "missile",
+    "list_mean": [
+      "vật phóng ra",
+      "tên lửa"
+    ],
+    "hash_code_list_mean": "-1932872485",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809696474_7139a688ac_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809696474_ee71cbae60_o.png",
+        "id_image": "missile_1033022"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809696439_34d8b61127_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809696439_a63080fee3_o.png",
+        "id_image": "missile_1280964"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809455988_11fd0e140f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809455988_7250f07ca7_o.png",
+        "id_image": "missile_4469603"
+      }
+    ],
+    "hash_code_list_img": "103521508",
+    "list_definition_mean": [
+      {
+        "mean_english": "vật phóng ra",
+        "definition": "a weapon or object which is thrown or fired from a gun, bow etc."
+      },
+      {
+        "mean_english": "tên lửa",
+        "definition": "a rocket-powered weapon carrying an explosive charge",
+        "ex_of_definition_list": [
+          "a ground-to-air missile."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1852020341"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mission_cb_dmean_5000_it.json",
+    "id_item": "mission_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mission",
+    "list_mean": [
+      "sứ mệnh",
+      "mục đích",
+      "phái đoàn",
+      "tòa công sứ",
+      "hội truyền giáo"
+    ],
+    "hash_code_list_mean": "928571709",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809340901_ca042c89a7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809340901_eb13c30f17_o.png",
+        "id_image": "mission_1485075"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809340861_c9a266b720_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809340861_dcc628e98c_o.png",
+        "id_image": "mission_3775347"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808385767_910905b856_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808385767_ec4dc68922_o.png",
+        "id_image": "mission_4577418"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809455733_7e586e20ae_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809455733_dfa36fdb35_o.png",
+        "id_image": "mission_780578"
+      }
+    ],
+    "hash_code_list_img": "-825185187",
+    "list_definition_mean": [
+      {
+        "mean_english": "sứ mệnh",
+        "definition": "a purpose for which a person or group of people is sent",
+        "ex_of_definition_list": [
+          "His mission was to seek help."
+        ]
+      },
+      {
+        "mean_english": "mục đích",
+        "definition": "the purpose for which (one feels) one was born",
+        "ex_of_definition_list": [
+          "He regards it as his mission to help the cause of world peace."
+        ]
+      },
+      {
+        "mean_english": "phái đoàn",
+        "definition": "a group of people sent to have political and/or business discussions",
+        "ex_of_definition_list": [
+          "a Chinese trade mission."
+        ]
+      },
+      {
+        "mean_english": "tòa công sứ",
+        "definition": "a place where missionaries live."
+      },
+      {
+        "mean_english": "hội truyền giáo",
+        "definition": "a group of missionaries",
+        "ex_of_definition_list": [
+          "a Catholic mission."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-542164889"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mist_cb_dmean_5000_it.json",
+    "id_item": "mist_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mist",
+    "list_mean": [
+      "sương mù"
+    ],
+    "hash_code_list_mean": "-1132629266",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809696029_5207cca01c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809696029_19e6e73efb_o.png",
+        "id_image": "mist_2910067"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809340726_8a7ea306a3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809340726_a5cc26028e_o.png",
+        "id_image": "mist_5756826"
+      }
+    ],
+    "hash_code_list_img": "1363409084",
+    "list_definition_mean": [
+      {
+        "mean_english": "sương mù",
+        "definition": "a cloud of moisture in the air but very close to the ground, which makes it difficult to see any distance",
+        "ex_of_definition_list": [
+          "The hills are covered in thick mist."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "685189392"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mite_cb_dmean_5000_it.json",
+    "id_item": "mite_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mite",
+    "list_mean": [
+      "em bé",
+      "ve"
+    ],
+    "hash_code_list_mean": "-1301699823",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808385612_0e34725dc4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808385612_e6b4f0e520_o.png",
+        "id_image": "mite_1357517"
+      }
+    ],
+    "hash_code_list_img": "1729472249",
+    "list_definition_mean": [
+      {
+        "mean_english": "em bé",
+        "definition": "a tiny person or child",
+        "ex_of_definition_list": [
+          "The poor little mite is crying."
+        ]
+      },
+      {
+        "mean_english": "ve",
+        "definition": "a type of very small insect",
+        "ex_of_definition_list": [
+          "House dust mites cause allergies."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "270211346"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mitten_cb_dmean_5000_it.json",
+    "id_item": "mitten_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mitten",
+    "list_mean": [
+      "găng đấu quyền anh",
+      "găng tay hở ngón"
+    ],
+    "hash_code_list_mean": "-1907501748",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808385492_096f4a7cb1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808385492_ea8a28a820_o.png",
+        "id_image": "mitten_709403"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808385447_3df722fd4d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808385447_3d6f3dce28_o.png",
+        "id_image": "mitten_823206"
+      }
+    ],
+    "hash_code_list_img": "481202842",
+    "list_definition_mean": [
+      {
+        "mean_english": "găng đấu quyền anh",
+        "definition": "a kind of glove with two sections, one for the thumb and the other for the fingers",
+        "ex_of_definition_list": [
+          "a pair of mittens."
+        ]
+      },
+      {
+        "mean_english": "găng tay hở ngón",
+        "definition": "a type of glove with separate sections for each finger, reaching only to halfway down the fingers."
+      }
+    ],
+    "hash_code_list_definition_mean": "-511223154"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mixer_cb_dmean_5000_it.json",
+    "id_item": "mixer_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mixer",
+    "list_mean": [
+      "người trộn; máy trộn"
+    ],
+    "hash_code_list_mean": "-2022765662",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808385302_86b06e90a9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808385302_5cd4c05bf9_o.png",
+        "id_image": "mixer_259161"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809695619_e6eb5d2a50_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809695619_b0402bdf2d_o.png",
+        "id_image": "mixer_259163"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809455173_76cc8bd738_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809455173_60aa380caa_o.png",
+        "id_image": "mixer_294629"
+      }
+    ],
+    "hash_code_list_img": "-208508399",
+    "list_definition_mean": [
+      {
+        "mean_english": "người trộn; máy trộn",
+        "definition": "a person or thing that mixes; a thing which is used for mixing",
+        "ex_of_definition_list": [
+          "an electric food-mixer."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1112766187"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mix_cb_dmean_5000_it.json",
+    "id_item": "mix_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mix",
+    "list_mean": [
+      "pha lẫn",
+      "trộn",
+      "hoà nhập",
+      "hòa hợp",
+      "sự hòa hợp",
+      "hỗn hợp"
+    ],
+    "hash_code_list_mean": "1413017102",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808385347_8b40deefdf_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808385347_89cc1a20b1_o.png",
+        "id_image": "mixed_1214379"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809340426_b4786917d1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809340426_06aa7bd790_o.png",
+        "id_image": "mix_2289953"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810077720_1477f43738_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810077720_2ed8443dfe_o.png",
+        "id_image": "mix_5376878"
+      }
+    ],
+    "hash_code_list_img": "1594973862",
+    "list_definition_mean": [
+      {
+        "mean_english": "pha lẫn",
+        "definition": "to put or blend together to form one mass",
+        "ex_of_definition_list": [
+          "She mixed the butter and sugar together",
+          "He mixed the blue with the yellow to make green paint."
+        ]
+      },
+      {
+        "mean_english": "trộn",
+        "definition": "to prepare or make by doing this",
+        "ex_of_definition_list": [
+          "She mixed the cement in a bucket."
+        ]
+      },
+      {
+        "mean_english": "hoà nhập",
+        "definition": "to go together or blend successfully to form one mass",
+        "ex_of_definition_list": [
+          "Oil and water don’t mix."
+        ]
+      },
+      {
+        "mean_english": "hòa hợp",
+        "definition": "to go together socially",
+        "ex_of_definition_list": [
+          "People of different races were mixing together happily."
+        ]
+      },
+      {
+        "mean_english": "sự hòa hợp",
+        "definition": "the result of mixing things or people together",
+        "ex_of_definition_list": [
+          "London has an interesting racial mix."
+        ]
+      },
+      {
+        "mean_english": "hỗn hợp",
+        "definition": "a collection of ingredients used to make something",
+        "ex_of_definition_list": [
+          "(a) cake mix."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1765935238"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mobile_cb_dmean_5000_it.json",
+    "id_item": "mobile_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mobile",
+    "list_mean": [
+      "di động",
+      "dễ di chuyển",
+      "hay thay đổi"
+    ],
+    "hash_code_list_mean": "1491803324",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809454958_23ed7f7175_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809454958_efd24ae1f3_o.png",
+        "id_image": "mobile_1443110"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809340041_8ecf2aae5a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809340041_590826dfe8_o.png",
+        "id_image": "mobile_1447580"
+      }
+    ],
+    "hash_code_list_img": "817627525",
+    "list_definition_mean": [
+      {
+        "mean_english": "di động",
+        "definition": "able to move",
+        "ex_of_definition_list": [
+          "A van supplying country districts with library books is called a mobile library",
+          "The old lady is no longer mobile – she has to stay in bed all day."
+        ]
+      },
+      {
+        "mean_english": "dễ di chuyển",
+        "definition": "able to move or be moved quickly or easily",
+        "ex_of_definition_list": [
+          "Considering his age, he’s very mobile on his feet",
+          "Most of the furniture is very light and mobile."
+        ]
+      },
+      {
+        "mean_english": "hay thay đổi",
+        "definition": "(of someone’s features or face) changing easily in expression."
+      }
+    ],
+    "hash_code_list_definition_mean": "711955082"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mob_cb_dmean_5000_it.json",
+    "id_item": "mob_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mob",
+    "list_mean": [
+      "đám đông hỗn tạp",
+      "tấn công"
+    ],
+    "hash_code_list_mean": "2094539885",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808385047_13c0656660_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808385047_9f721842bc_o.png",
+        "id_image": "mob_3292647"
+      }
+    ],
+    "hash_code_list_img": "2047200743",
+    "list_definition_mean": [
+      {
+        "mean_english": "đám đông hỗn tạp",
+        "definition": "a noisy, violent or disorderly crowd of people",
+        "ex_of_definition_list": [
+          "He was attacked by an angry mob."
+        ]
+      },
+      {
+        "mean_english": "tấn công",
+        "definition": "(of a crowd) to surround and push about in a disorderly way",
+        "ex_of_definition_list": [
+          "The singer was mobbed by a huge crowd of his fans."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-979508530"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/moccasin_cb_dmean_5000_it.json",
+    "id_item": "moccasin_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "moccasin",
+    "list_mean": [
+      "giầy da đanh"
+    ],
+    "hash_code_list_mean": "-2086332416",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809695164_9956b0f69a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809695164_af3f7bab9f_o.png",
+        "id_image": "moccasin_2130502"
+      }
+    ],
+    "hash_code_list_img": "390769617",
+    "list_definition_mean": [
+      {
+        "mean_english": "giầy da đanh",
+        "definition": "a type of shoe, made of soft leather, worn by American Indians; an imitation of it",
+        "ex_of_definition_list": [
+          "a pair of moccasins."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1598009321"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/model_cb_dmean_5000_it.json",
+    "id_item": "model_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "model",
+    "list_mean": [
+      "mô hình",
+      "kiểu",
+      "người mẫu",
+      "người làm mẫu",
+      "vật mẫu",
+      "mẫu",
+      "làm mẫu",
+      "làm mẫu",
+      "đắp khuôn",
+      "nặn kiểu"
+    ],
+    "hash_code_list_mean": "-1445753027",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810076810_19c270fb9b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810076810_44f8d14065_o.png",
+        "id_image": "model_4213112"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810076765_4ac157a835_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810076765_b8a8856298_o.png",
+        "id_image": "model_4695756"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810076710_6eb123d75a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810076710_f22b83e449_o.png",
+        "id_image": "model_6036762"
+      }
+    ],
+    "hash_code_list_img": "1386426624",
+    "list_definition_mean": [
+      {
+        "mean_english": "mô hình",
+        "definition": "a copy or representation of something usually on a much smaller scale",
+        "ex_of_definition_list": [
+          "a model of the Taj Mahal",
+          "(also adjective) a model aeroplane."
+        ]
+      },
+      {
+        "mean_english": "kiểu",
+        "definition": "a particular type or design of something, eg a car, that is manufactured in large numbers",
+        "ex_of_definition_list": [
+          "Our car is this year’s model."
+        ]
+      },
+      {
+        "mean_english": "người mẫu",
+        "definition": "a person who wears clothes etc so that possible buyers can see them being worn",
+        "ex_of_definition_list": [
+          "He has a job as a male fashion model."
+        ]
+      },
+      {
+        "mean_english": "người làm mẫu",
+        "definition": "a person who is painted, sculpted, photographed etc by an artist, photographer etc",
+        "ex_of_definition_list": [
+          "I work as an artist’s model."
+        ]
+      },
+      {
+        "mean_english": "vật mẫu",
+        "definition": "something that can be used to copy from",
+        "ex_of_definition_list": [
+          "Use the sentences in the coursebook as models for your own writing."
+        ]
+      },
+      {
+        "mean_english": "mẫu",
+        "definition": "a person or thing which is an excellent example",
+        "ex_of_definition_list": [
+          "She is a model of politeness",
+          "(also adjective) model behaviour."
+        ]
+      },
+      {
+        "mean_english": "làm mẫu",
+        "definition": "to wear (clothes etc) to show them to possible buyers",
+        "ex_of_definition_list": [
+          "They model (underwear) for a living."
+        ]
+      },
+      {
+        "mean_english": "làm mẫu",
+        "definition": "to work or pose as a model for an artist, photographer etc",
+        "ex_of_definition_list": [
+          "She models at the local art school."
+        ]
+      },
+      {
+        "mean_english": "đắp khuôn",
+        "definition": "to make models (of things or people)",
+        "ex_of_definition_list": [
+          "He models (the heads of famous people) in clay."
+        ]
+      },
+      {
+        "mean_english": "nặn kiểu",
+        "definition": "to form (something) into a (particular) shape",
+        "ex_of_definition_list": [
+          "She modelled the clay into the shape of a penguin"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2050980512"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/modern_cb_dmean_5000_it.json",
+    "id_item": "modern_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "modern",
+    "list_mean": [
+      "hiện đại"
+    ],
+    "hash_code_list_mean": "1896081920",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809339011_9b4fd81124_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809339011_348e502f26_o.png",
+        "id_image": "modern_1430743"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810076050_b19bbb23fb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810076050_dd379d0f7d_o.png",
+        "id_image": "modern_3335668"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810076015_a92b943d86_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810076015_64b775015b_o.png",
+        "id_image": "modern_4412728"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809694049_43c7fd963a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809694049_acd9b1a935_o.png",
+        "id_image": "modern_4698454"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810075915_6e0933eee1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810075915_67f7eebe6e_o.png",
+        "id_image": "modern_6377221"
+      }
+    ],
+    "hash_code_list_img": "-563943914",
+    "list_definition_mean": [
+      {
+        "mean_english": "hiện đại",
+        "definition": "belonging to the present or to recent times; not old or ancient",
+        "ex_of_definition_list": [
+          "modern furniture/clothes."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1017472201"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mode_cb_dmean_5000_it.json",
+    "id_item": "mode_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mode",
+    "list_mean": [
+      "cách thức",
+      "kiểu",
+      "mốt"
+    ],
+    "hash_code_list_mean": "1341993194",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809339651_ef33b82fde_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809339651_c6cde929d4_o.png",
+        "id_image": "mode_1248154"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810076840_0bfae4cde7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810076840_afe61ee83e_o.png",
+        "id_image": "mode_3653321"
+      }
+    ],
+    "hash_code_list_img": "220635930",
+    "list_definition_mean": [
+      {
+        "mean_english": "cách thức",
+        "definition": "a manner of doing something",
+        "ex_of_definition_list": [
+          "an unusual mode of expression."
+        ]
+      },
+      {
+        "mean_english": "kiểu",
+        "definition": "a kind or type",
+        "ex_of_definition_list": [
+          "modes of transport."
+        ]
+      },
+      {
+        "mean_english": "mốt",
+        "definition": "a fashion",
+        "ex_of_definition_list": [
+          "Large hats are the latest mode."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-597043685"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/modify_cb_dmean_5000_it.json",
+    "id_item": "modify_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "modify",
+    "list_mean": [
+      "sửa đổi"
+    ],
+    "hash_code_list_mean": "-1901527989",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809453778_3acce5486d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809453778_8031287382_o.png",
+        "id_image": "modify_2196224"
+      }
+    ],
+    "hash_code_list_img": "627248893",
+    "list_definition_mean": [
+      {
+        "mean_english": "sửa đổi",
+        "definition": "to change the form or quality of, usually slightly",
+        "ex_of_definition_list": [
+          "We had to modify the original design."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "203607916"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/module_cb_dmean_5000_it.json",
+    "id_item": "module_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "module",
+    "list_mean": [
+      "bộ phận tháo rời"
+    ],
+    "hash_code_list_mean": "-238178179",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809693879_c98d87fc3e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809693879_f4223b4d80_o.png",
+        "id_image": "module_1832092"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808383597_df72c8f3a3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808383597_45ab775c4d_o.png",
+        "id_image": "module_4631217"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808383577_a270cf555f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808383577_497d2ced81_o.png",
+        "id_image": "module_4631395"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810075690_b11f356306_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810075690_52d1e9b393_o.png",
+        "id_image": "module_5488350"
+      }
+    ],
+    "hash_code_list_img": "-1165182479",
+    "list_definition_mean": [
+      {
+        "mean_english": "bộ phận tháo rời",
+        "definition": "a self-contained unit forming eg part of a building, spacecraft etc",
+        "ex_of_definition_list": [
+          "a lunar module."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "966446338"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/moisture_cb_dmean_5000_it.json",
+    "id_item": "moisture_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "moisture",
+    "list_mean": [
+      "độ ẩm"
+    ],
+    "hash_code_list_mean": "487654971",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808383517_31677a0abe_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808383517_7dfc2032b3_o.png",
+        "id_image": "moisture_4646980"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808383482_8d852a4cbd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808383482_ba8f1d25a2_o.png",
+        "id_image": "moisture_5830611"
+      }
+    ],
+    "hash_code_list_img": "1751316097",
+    "list_definition_mean": [
+      {
+        "mean_english": "độ ẩm",
+        "definition": "(the quality of) dampness",
+        "ex_of_definition_list": [
+          "This soil needs moisture."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1767245884"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/moisturize_cb_dmean_5000_it.json",
+    "id_item": "moisturize_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "moisturize",
+    "list_mean": [
+      "làm cho ẩm"
+    ],
+    "hash_code_list_mean": "1365529408",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809338541_09ca1381b6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809338541_26ba052187_o.png",
+        "id_image": "moisturizing_1905835"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810075545_4f0a2bbc34_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810075545_b8818c6f99_o.png",
+        "id_image": "moisturizing_2446361"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809693639_2a0cfde7ba_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809693639_a54bc0c31f_o.png",
+        "id_image": "moisturizing_3791155"
+      }
+    ],
+    "hash_code_list_img": "-1955611010",
+    "list_definition_mean": [
+      {
+        "mean_english": "làm cho ẩm",
+        "definition": "to keep the moisture in (skin)",
+        "ex_of_definition_list": [
+          "This cream is used to moisturize the skin."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "588125786"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/monarchy_cb_dmean_5000_it.json",
+    "id_item": "monarchy_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "monarchy",
+    "list_mean": [
+      "chế độ quân chủ"
+    ],
+    "hash_code_list_mean": "1409551651",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810075085_b68baf2cb3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810075085_6a1c1649ef_o.png",
+        "id_image": "monarchy_261803"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809693279_5773763cab_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809693279_b473558646_o.png",
+        "id_image": "monarchy_353357"
+      }
+    ],
+    "hash_code_list_img": "-842673640",
+    "list_definition_mean": [
+      {
+        "mean_english": "chế độ quân chủ",
+        "definition": "(a country etc that has) government by a monarch",
+        "ex_of_definition_list": [
+          "a constitutional monarchy."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "971900872"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/monetary_cb_dmean_5000_it.json",
+    "id_item": "monetary_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "monetary",
+    "list_mean": [
+      "thuộc tiền tệ"
+    ],
+    "hash_code_list_mean": "-1656614757",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809337981_221ca0a1f9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809337981_a13bb49156_o.png",
+        "id_image": "monetary_2419639"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809337956_0057b6a272_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809337956_7e4971ce0b_o.png",
+        "id_image": "monetary_4496615"
+      }
+    ],
+    "hash_code_list_img": "-1861466306",
+    "list_definition_mean": [
+      {
+        "mean_english": "thuộc tiền tệ",
+        "definition": "of, or consisting of, money",
+        "ex_of_definition_list": [
+          "monetary problems."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "67025241"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/money_cb_dmean_5000_it.json",
+    "id_item": "money_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "money",
+    "list_mean": [
+      "tiền"
+    ],
+    "hash_code_list_mean": "3800865",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809337836_f22b406f53_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809337836_f46de1b317_o.png",
+        "id_image": "money_144902"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809337806_b27cb4ae3d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809337806_bac0f880b1_o.png",
+        "id_image": "money_144904"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808382767_0022f0b68c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808382767_85ba55de80_o.png",
+        "id_image": "money_171689"
+      }
+    ],
+    "hash_code_list_img": "535804756",
+    "list_definition_mean": [
+      {
+        "mean_english": "tiền",
+        "definition": "coins or banknotes used in trading",
+        "ex_of_definition_list": [
+          "Have you any money in your purse?",
+          "The desire for money is a cause of much unhappiness."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1788504619"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/monitor_cb_dmean_5000_it.json",
+    "id_item": "monitor_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "monitor",
+    "list_mean": [
+      "lớp trưởng",
+      "bộ kiểm tra",
+      "giám sát"
+    ],
+    "hash_code_list_mean": "561535108",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808382752_08daf6d720_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808382752_55ea8a91f9_o.png",
+        "id_image": "monitor_194345"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809337711_4832f6e418_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809337711_ea2daa1e38_o.png",
+        "id_image": "monitor_194353"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809337681_737a11b5f3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809337681_ec0e8cd142_o.png",
+        "id_image": "monitor_294630"
+      }
+    ],
+    "hash_code_list_img": "2046180447",
+    "list_definition_mean": [
+      {
+        "mean_english": "lớp trưởng",
+        "definition": "a senior pupil who helps to see that school rules are kept."
+      },
+      {
+        "mean_english": "bộ kiểm tra",
+        "definition": "any of several kinds of instrument etc by means of which something can be constantly checked, especially a small screen in a television studio showing the picture which is being transmitted at any given time",
+        "ex_of_definition_list": [
+          "a television monitor",
+          "a computer monitor."
+        ]
+      },
+      {
+        "mean_english": "giám sát",
+        "definition": "to act as, or to use, a monitor; to keep a careful check on",
+        "ex_of_definition_list": [
+          "These machines/technicians monitor the results constantly."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1682868760"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/monkey_cb_dmean_5000_it.json",
+    "id_item": "monkey_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "monkey",
+    "list_mean": [
+      "con khỉ",
+      "thằng nhãi ranh",
+      "làm trò khỉ"
+    ],
+    "hash_code_list_mean": "528719975",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809692954_c364fc4ce6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809692954_fb51d90059_o.png",
+        "id_image": "monkey_194978"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808382592_586b250716_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808382592_7aa65f0000_o.png",
+        "id_image": "monkey_257473"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810074600_1dca2e8e14_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810074600_091c651770_o.png",
+        "id_image": "monkey_375109"
+      }
+    ],
+    "hash_code_list_img": "933762226",
+    "list_definition_mean": [
+      {
+        "mean_english": "con khỉ",
+        "definition": "an animal of the type most like man, especially those which are small and have long tails (ie not the apes)."
+      },
+      {
+        "mean_english": "thằng nhãi ranh",
+        "definition": "a mischievous child",
+        "ex_of_definition_list": [
+          "Their son is a little monkey."
+        ]
+      },
+      {
+        "mean_english": "làm trò khỉ",
+        "definition": "(especially with with) to meddle or interfere",
+        "ex_of_definition_list": [
+          "Who’s been monkeying (about) with the television set?"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1186333836"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/monopoly_cb_dmean_5000_it.json",
+    "id_item": "monopoly_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "monopoly",
+    "list_mean": [
+      "độc quyền"
+    ],
+    "hash_code_list_mean": "1077057692",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809337446_dc653de226_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809337446_367d75bc6e_o.png",
+        "id_image": "monopoly_2241428"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809337411_e87054d5c9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809337411_e6fc31d4bd_o.png",
+        "id_image": "monopoly_2367224"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809692694_b030ca4601_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809692694_942ff4087b_o.png",
+        "id_image": "monopoly_2727146"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809337341_67bdc60d85_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809337341_f2c675987c_o.png",
+        "id_image": "monopoly_3274250"
+      }
+    ],
+    "hash_code_list_img": "-1198036199",
+    "list_definition_mean": [
+      {
+        "mean_english": "độc quyền",
+        "definition": "the sole right of making or selling something etc",
+        "ex_of_definition_list": [
+          "a state monopoly on oil production."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1901953727"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/monster_cb_dmean_5000_it.json",
+    "id_item": "monster_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "monster",
+    "list_mean": [
+      "quái vật",
+      "con vật khổng lồ",
+      "người quái ác"
+    ],
+    "hash_code_list_mean": "-350181622",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809337306_936440ae7e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809337306_d3b85f7b33_o.png",
+        "id_image": "monster_606890"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810074365_448cc74382_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810074365_bbbc64e867_o.png",
+        "id_image": "monster_773372"
+      }
+    ],
+    "hash_code_list_img": "518425177",
+    "list_definition_mean": [
+      {
+        "mean_english": "quái vật",
+        "definition": "(also adjective) (something) of unusual size, form or appearance",
+        "ex_of_definition_list": [
+          "a monster tomato."
+        ]
+      },
+      {
+        "mean_english": "con vật khổng lồ",
+        "definition": "a huge and/or horrible creature",
+        "ex_of_definition_list": [
+          "prehistoric monsters."
+        ]
+      },
+      {
+        "mean_english": "người quái ác",
+        "definition": "a very evil person",
+        "ex_of_definition_list": [
+          "The man must be a monster to treat his children so badly!"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1249235125"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/monthly_cb_dmean_5000_it.json",
+    "id_item": "monthly_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "monthly",
+    "list_mean": [
+      "hàng tháng",
+      "một lần một tháng"
+    ],
+    "hash_code_list_mean": "2146096659",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809452073_300395bcba_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809452073_53e90ce61d_o.png",
+        "id_image": "monthly_2390318"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808382237_0c561d0a80_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808382237_32dcd7c8d6_o.png",
+        "id_image": "monthly_4334665"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810074220_81b95e1040_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810074220_163f252718_o.png",
+        "id_image": "monthly_5571536"
+      }
+    ],
+    "hash_code_list_img": "-1827932089",
+    "list_definition_mean": [
+      {
+        "mean_english": "hàng tháng",
+        "definition": "happening, being published etc once a month",
+        "ex_of_definition_list": [
+          "a monthly magazine."
+        ]
+      },
+      {
+        "mean_english": "một lần một tháng",
+        "definition": "once a month",
+        "ex_of_definition_list": [
+          "The magazine is published monthly."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1383678456"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/monumental_cb_dmean_5000_it.json",
+    "id_item": "monumental_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "monumental",
+    "list_mean": [
+      "đồ sộ"
+    ],
+    "hash_code_list_mean": "487244259",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809692404_c2047ea5f9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809692404_d0c47b5ee8_o.png",
+        "id_image": "monumental_353326"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808382057_3afc70e86c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808382057_7be8e7dd33_o.png",
+        "id_image": "monumental_422038"
+      }
+    ],
+    "hash_code_list_img": "-809186536",
+    "list_definition_mean": [
+      {
+        "mean_english": "đồ sộ",
+        "definition": "of great size or scale",
+        "ex_of_definition_list": [
+          "a monumental achievement."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1894492733"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/monument_cb_dmean_5000_it.json",
+    "id_item": "monument_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "monument",
+    "list_mean": [
+      "tượng đài"
+    ],
+    "hash_code_list_mean": "529096441",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808382162_c846eb6530_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808382162_cb3d4e1081_o.png",
+        "id_image": "monument_530853"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809337096_f379e87622_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809337096_84e431714a_o.png",
+        "id_image": "monument_5368249"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809451943_7a185657db_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809451943_52ba44cffa_o.png",
+        "id_image": "monument_5392244"
+      }
+    ],
+    "hash_code_list_img": "2017786009",
+    "list_definition_mean": [
+      {
+        "mean_english": "tượng đài",
+        "definition": "something built in memory of a person or event, eg a building, tomb etc",
+        "ex_of_definition_list": [
+          "They erected a monument in his honour."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1221330476"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mood_cb_dmean_5000_it.json",
+    "id_item": "mood_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "mood",
+    "list_mean": [
+      "tâm trạng"
+    ],
+    "hash_code_list_mean": "-1485326118",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809336876_e6bd62385f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809336876_47eb034549_o.png",
+        "id_image": "mood_4516967"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810073895_906d626347_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810073895_e81bded2e7_o.png",
+        "id_image": "mood_5266110"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809451718_7e2cbb7cc0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809451718_2692d7b3d1_o.png",
+        "id_image": "mood_6134059"
+      }
+    ],
+    "hash_code_list_img": "1857154055",
+    "list_definition_mean": [
+      {
+        "mean_english": "tâm trạng",
+        "definition": "the state of a person’s feelings, temper, mind etc at a particular time",
+        "ex_of_definition_list": [
+          "What kind of mood is she in?",
+          "I’m in a bad mood today."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "953797091"
+  }
+]

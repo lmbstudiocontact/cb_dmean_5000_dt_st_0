@@ -1,0 +1,2586 @@
+[
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fair_cb_dmean_5000_it.json",
+    "id_item": "fair_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fair",
+    "list_mean": [
+      "vàng hoe (tóc); trắng (da)",
+      "công bằng",
+      "thời tiết đẹp",
+      "khá; khá tốt",
+      "rất lớn; rất dài",
+      "đẹp",
+      "hội chợ vui chơi giải trí",
+      "chợ phiên",
+      "hội chợ"
+    ],
+    "hash_code_list_mean": "-85615556",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809692664_b60f274566_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809692664_06e51eef84_o.png",
+        "id_image": "fair_1819827"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808382337_622e06b770_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808382337_1c177fcdc1_o.png",
+        "id_image": "fair_3260927"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809337406_729751a191_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809337406_db5c9e1953_o.png",
+        "id_image": "fair_895538"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809337391_e11b488bc3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809337391_858e6b1e99_o.png",
+        "id_image": "fair_950744"
+      }
+    ],
+    "hash_code_list_img": "-197353055",
+    "list_definition_mean": [
+      {
+        "mean_english": "vàng hoe (tóc); trắng (da)",
+        "definition": "light-coloured/light-colored; with light-coloured/light-colored hair and skin",
+        "ex_of_definition_list": [
+          "fair hair",
+          "Scandinavian people are often fair."
+        ]
+      },
+      {
+        "mean_english": "công bằng",
+        "definition": "just; not favouring/favoring one side",
+        "ex_of_definition_list": [
+          "a fair result."
+        ]
+      },
+      {
+        "mean_english": "thời tiết đẹp",
+        "definition": "(of weather) fine; without rain",
+        "ex_of_definition_list": [
+          "a fair afternoon."
+        ]
+      },
+      {
+        "mean_english": "khá; khá tốt",
+        "definition": "quite good; neither bad nor good",
+        "ex_of_definition_list": [
+          "Her work is only fair."
+        ]
+      },
+      {
+        "mean_english": "rất lớn; rất dài",
+        "definition": "quite big, long etc",
+        "ex_of_definition_list": [
+          "The box is a fair size."
+        ]
+      },
+      {
+        "mean_english": "đẹp",
+        "definition": "beautiful",
+        "ex_of_definition_list": [
+          "a fair maiden."
+        ]
+      },
+      {
+        "mean_english": "hội chợ vui chơi giải trí",
+        "definition": "a collection of entertainments that travels from town to town",
+        "ex_of_definition_list": [
+          "She won a large doll at the fair."
+        ]
+      },
+      {
+        "mean_english": "chợ phiên",
+        "definition": "a large market held at fixed times",
+        "ex_of_definition_list": [
+          "A fair is held here every spring."
+        ]
+      },
+      {
+        "mean_english": "hội chợ",
+        "definition": "an exhibition of goods from different countries, firms etc",
+        "ex_of_definition_list": [
+          "a trade fair."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1887747835"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/faith_cb_dmean_5000_it.json",
+    "id_item": "faith_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "faith",
+    "list_mean": [
+      "sự tin tưởng",
+      "đức tin",
+      "lời hứa"
+    ],
+    "hash_code_list_mean": "-855529018",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810074280_b8eba9bc24_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810074280_c3cdb76b3f_o.png",
+        "id_image": "faith_1783653"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810074260_94601326a7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810074260_b6a8df149a_o.png",
+        "id_image": "faith_2849804"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808382202_de93bb2a10_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808382202_17d58a6122_o.png",
+        "id_image": "faith_4118167"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810074180_be0b4fd8be_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810074180_013e545127_o.png",
+        "id_image": "faith_6396814"
+      }
+    ],
+    "hash_code_list_img": "1049408462",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự tin tưởng",
+        "definition": "trust or belief",
+        "ex_of_definition_list": [
+          "She had faith in his ability."
+        ]
+      },
+      {
+        "mean_english": "đức tin",
+        "definition": "religious belief",
+        "ex_of_definition_list": [
+          "Years of hardship had not caused him to lose his faith."
+        ]
+      },
+      {
+        "mean_english": "lời hứa",
+        "definition": "loyalty to one’s promise",
+        "ex_of_definition_list": [
+          "She was determined to keep faith with him."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-981747550"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fake_cb_dmean_5000_it.json",
+    "id_item": "fake_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fake",
+    "list_mean": [
+      "đồ giả",
+      "kẻ mạo nhận",
+      "giả",
+      "giả danh",
+      "giả mạo"
+    ],
+    "hash_code_list_mean": "933469753",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809337091_ecbf3a7f5c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809337091_170810b071_o.png",
+        "id_image": "fake_1717700"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809692444_0b3f55f084_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809692444_6983ed37d2_o.png",
+        "id_image": "fake_2233992"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809692399_77d05b9627_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809692399_cb58536752_o.png",
+        "id_image": "fake_2742130"
+      }
+    ],
+    "hash_code_list_img": "466987654",
+    "list_definition_mean": [
+      {
+        "mean_english": "đồ giả",
+        "definition": "a worthless imitation (especially intended to deceive); forgery",
+        "ex_of_definition_list": [
+          "That picture is a fake."
+        ]
+      },
+      {
+        "mean_english": "kẻ mạo nhận",
+        "definition": "a person who pretends to be something he/she is not",
+        "ex_of_definition_list": [
+          "He pretended to be a doctor, but he was a fake."
+        ]
+      },
+      {
+        "mean_english": "giả",
+        "definition": "made in imitation of something more valuable, especially with the intention of deceiving",
+        "ex_of_definition_list": [
+          "fake diamonds."
+        ]
+      },
+      {
+        "mean_english": "giả danh",
+        "definition": "pretending to be something one is not",
+        "ex_of_definition_list": [
+          "a fake clergyman."
+        ]
+      },
+      {
+        "mean_english": "giả mạo",
+        "definition": "to pretend or imitate in order to deceive",
+        "ex_of_definition_list": [
+          "He faked his father’s signature on the cheque/check."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-2138250840"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fall_cb_dmean_5000_it.json",
+    "id_item": "fall_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fall",
+    "list_mean": [
+      "rơi; rơi xuống",
+      "ngã",
+      "hạ thấp; nguôi đi",
+      "xảy ra",
+      "trở nên",
+      "trở thành nhiệm vụ của ai",
+      "sự rơi; sự ngã",
+      "số lượng của cái gì đang hoặc đã rơi",
+      "(nhất là chính trị) thất bại; sụp đổ",
+      "mùa thu"
+    ],
+    "hash_code_list_mean": "1142107426",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809336976_c028f973fd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809336976_2d447f868a_o.png",
+        "id_image": "fall_3335400"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809337011_ffcceac095_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809337011_ee7ccaeb4b_o.png",
+        "id_image": "fall_453352"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809336941_6f06d2d4d0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809336941_7072aa4713_o.png",
+        "id_image": "fall_4643462"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809692264_4221b1f069_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809692264_06ae2503c2_o.png",
+        "id_image": "fall_5059827"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809692224_ebb99cb81e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809692224_bc31ccf43b_o.png",
+        "id_image": "fall_5903644"
+      }
+    ],
+    "hash_code_list_img": "-718783213",
+    "list_definition_mean": [
+      {
+        "mean_english": "rơi; rơi xuống",
+        "definition": "to go down from a higher level usually unintentionally",
+        "ex_of_definition_list": [
+          "The apple fell from the tree",
+          "Her eye fell on an old book."
+        ]
+      },
+      {
+        "mean_english": "ngã",
+        "definition": "(often with over) to go down to the ground etc from an upright position, usually by accident",
+        "ex_of_definition_list": [
+          "She tripped and fell (over)."
+        ]
+      },
+      {
+        "mean_english": "hạ thấp; nguôi đi",
+        "definition": "to become lower or less",
+        "ex_of_definition_list": [
+          "The temperature is falling."
+        ]
+      },
+      {
+        "mean_english": "xảy ra",
+        "definition": "to happen or occur",
+        "ex_of_definition_list": [
+          "Easter falls early this year."
+        ]
+      },
+      {
+        "mean_english": "trở nên",
+        "definition": "to enter a certain state or condition",
+        "ex_of_definition_list": [
+          "She fell asleep",
+          "They fell in love."
+        ]
+      },
+      {
+        "mean_english": "trở thành nhiệm vụ của ai",
+        "definition": "(only with it as subject) to come as one’s duty etc",
+        "ex_of_definition_list": [
+          "It falls to me to take care of the children."
+        ]
+      },
+      {
+        "mean_english": "sự rơi; sự ngã",
+        "definition": "the act of falling",
+        "ex_of_definition_list": [
+          "He had a fall."
+        ]
+      },
+      {
+        "mean_english": "số lượng của cái gì đang hoặc đã rơi",
+        "definition": "(a quantity of) something that has fallen",
+        "ex_of_definition_list": [
+          "a fall of snow."
+        ]
+      },
+      {
+        "mean_english": "(nhất là chính trị) thất bại; sụp đổ",
+        "definition": "capture or (political) defeat",
+        "ex_of_definition_list": [
+          "the fall of Rome."
+        ]
+      },
+      {
+        "mean_english": "mùa thu",
+        "definition": "the autumn",
+        "ex_of_definition_list": [
+          "Leaves change color in the fall."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1583003131"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/false_cb_dmean_5000_it.json",
+    "id_item": "false_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "false",
+    "list_mean": [
+      "sai; nhầm",
+      "cố tình làm sai để đánh lừa",
+      "không thật",
+      "phản trắc"
+    ],
+    "hash_code_list_mean": "-1089313577",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809692109_2fa56b805f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809692109_6dbdbc9ffa_o.png",
+        "id_image": "false_5226409"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809692074_0bba974a30_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809692074_cc55fc980a_o.png",
+        "id_image": "false_5706113"
+      }
+    ],
+    "hash_code_list_img": "1743413329",
+    "list_definition_mean": [
+      {
+        "mean_english": "sai; nhầm",
+        "definition": "not true; not correct",
+        "ex_of_definition_list": [
+          "He made a false statement to the police."
+        ]
+      },
+      {
+        "mean_english": "cố tình làm sai để đánh lừa",
+        "definition": "not genuine; intended to deceive",
+        "ex_of_definition_list": [
+          "She has a false passport."
+        ]
+      },
+      {
+        "mean_english": "không thật",
+        "definition": "artificial",
+        "ex_of_definition_list": [
+          "false teeth."
+        ]
+      },
+      {
+        "mean_english": "phản trắc",
+        "definition": "not loyal",
+        "ex_of_definition_list": [
+          "false friends."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1163210945"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fame_cb_dmean_5000_it.json",
+    "id_item": "fame_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fame",
+    "list_mean": [
+      "danh tiếng"
+    ],
+    "hash_code_list_mean": "-125270055",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808381742_52cc4c147b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808381742_fc98f55eab_o.png",
+        "id_image": "fame_1787424"
+      }
+    ],
+    "hash_code_list_img": "451900487",
+    "list_definition_mean": [
+      {
+        "mean_english": "danh tiếng",
+        "definition": "the quality of being well-known",
+        "ex_of_definition_list": [
+          "Her novels brought her fame."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2124429779"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/family_cb_dmean_5000_it.json",
+    "id_item": "family_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "family",
+    "list_mean": [
+      "gia đình",
+      "gia tộc",
+      "con cái",
+      "(sinh vật học), (ngôn ngữ học) họ"
+    ],
+    "hash_code_list_mean": "1918730556",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808381692_68cabdcb89_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808381692_8e4eb1313f_o.png",
+        "id_image": "family_437491"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810073650_e26efe3a36_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810073650_686f2f03ee_o.png",
+        "id_image": "family_599547"
+      }
+    ],
+    "hash_code_list_img": "-1372350108",
+    "list_definition_mean": [
+      {
+        "mean_english": "gia đình",
+        "definition": "(singular or plural) a man, his wife and their children",
+        "ex_of_definition_list": [
+          "These houses were built for families",
+          "The (members of the) Clark family are all very athletic",
+          "(also adjective) a family holiday."
+        ]
+      },
+      {
+        "mean_english": "gia tộc",
+        "definition": "a group of people related to each other, including cousins, grandchildren etc",
+        "ex_of_definition_list": [
+          "He comes from a wealthy family",
+          "(also adjective) the family home."
+        ]
+      },
+      {
+        "mean_english": "con cái",
+        "definition": "the children of a man and his wife",
+        "ex_of_definition_list": [
+          "When I get married, I would like a large family."
+        ]
+      },
+      {
+        "mean_english": "(sinh vật học), (ngôn ngữ học) họ",
+        "definition": "a group of plants, animals, languages etc that are connected in some way",
+        "ex_of_definition_list": [
+          "In spite of its name, a koala bear is not a member of the bear family."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-290539207"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/famine_cb_dmean_5000_it.json",
+    "id_item": "famine_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "famine",
+    "list_mean": [
+      "nạn đói kém"
+    ],
+    "hash_code_list_mean": "-146108112",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809451518_988fe7630e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809451518_9020067bbd_o.png",
+        "id_image": "famine_1999880"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808381577_efaae2cd61_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808381577_35a146bfb2_o.png",
+        "id_image": "famine_5208443"
+      }
+    ],
+    "hash_code_list_img": "-181751922",
+    "list_definition_mean": [
+      {
+        "mean_english": "nạn đói kém",
+        "definition": "(a) great lack or shortage especially of food",
+        "ex_of_definition_list": [
+          "Some parts of the world suffer regularly from famine."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1700153146"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/famous_cb_dmean_5000_it.json",
+    "id_item": "famous_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "famous",
+    "list_mean": [
+      "nổi tiếng/ nổi danh vì cái gì"
+    ],
+    "hash_code_list_mean": "2070979630",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809691854_ea68811199_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809691854_bd99da96cb_o.png",
+        "id_image": "famous_1449041"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809451428_c5c04e7944_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809451428_99959a24a2_o.png",
+        "id_image": "famous_5904451"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809451388_06e6232e58_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809451388_a1e83d7493_o.png",
+        "id_image": "famous_5906117"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808381462_c82fe38810_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808381462_9b471ea150_o.png",
+        "id_image": "famous_6347717"
+      }
+    ],
+    "hash_code_list_img": "-1342061309",
+    "list_definition_mean": [
+      {
+        "mean_english": "nổi tiếng/ nổi danh vì cái gì",
+        "definition": "well-known (for good or worthy reasons)",
+        "ex_of_definition_list": [
+          "a famous actor",
+          "She is famous for her determination to win."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "544865563"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fancy_cb_dmean_5000_it.json",
+    "id_item": "fancy_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fancy",
+    "list_mean": [
+      "sự mê thích nhất thời",
+      "sức tưởng tượng",
+      "cái được tưởng tượng",
+      "được làm cho đẹp mắt",
+      "mong ước; muốn",
+      "tưởng tượng; cho rằng",
+      "mến; thích"
+    ],
+    "hash_code_list_mean": "-130562551",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810073275_a26898ee0e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810073275_a3d3e5dabd_o.png",
+        "id_image": "fancy_1808016"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808381317_cc8fee49d7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808381317_2978d7ce33_o.png",
+        "id_image": "fancy_1808026"
+      }
+    ],
+    "hash_code_list_img": "1212246980",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự mê thích nhất thời",
+        "definition": "a sudden (often unexpected) liking or desire",
+        "ex_of_definition_list": [
+          "The child had many peculiar fancies."
+        ]
+      },
+      {
+        "mean_english": "sức tưởng tượng",
+        "definition": "the power of the mind to imagine things",
+        "ex_of_definition_list": [
+          "She had a tendency to indulge in flights of fancy."
+        ]
+      },
+      {
+        "mean_english": "cái được tưởng tượng",
+        "definition": "something imagined."
+      },
+      {
+        "mean_english": "được làm cho đẹp mắt",
+        "definition": "decorated; not plain",
+        "ex_of_definition_list": [
+          "fancy cakes."
+        ]
+      },
+      {
+        "mean_english": "mong ước; muốn",
+        "definition": "to like the idea of having or doing something",
+        "ex_of_definition_list": [
+          "I fancy a cup of tea."
+        ]
+      },
+      {
+        "mean_english": "tưởng tượng; cho rằng",
+        "definition": "to think or have a certain feeling or impression (that)",
+        "ex_of_definition_list": [
+          "I fancied (that) you were angry."
+        ]
+      },
+      {
+        "mean_english": "mến; thích",
+        "definition": "to have strong sexual interest in (a person)",
+        "ex_of_definition_list": [
+          "He fancies her a lot."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2084934844"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fang_cb_dmean_5000_it.json",
+    "id_item": "fang_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fang",
+    "list_mean": [
+      "răng nanh",
+      "răng nọc"
+    ],
+    "hash_code_list_mean": "2060655276",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809691454_20fbcd5313_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809691454_553bb96d0c_o.png",
+        "id_image": "fang_5398346"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808381102_6e8679c6a1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808381102_8bd15dc94c_o.png",
+        "id_image": "fang_5939426"
+      }
+    ],
+    "hash_code_list_img": "1555494535",
+    "list_definition_mean": [
+      {
+        "mean_english": "răng nanh",
+        "definition": "a long pointed tooth especially of a fierce animal",
+        "ex_of_definition_list": [
+          "The wolf bared its fangs."
+        ]
+      },
+      {
+        "mean_english": "răng nọc",
+        "definition": "the poison-tooth of a snake."
+      }
+    ],
+    "hash_code_list_definition_mean": "-2000504890"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fantasy_cb_dmean_5000_it.json",
+    "id_item": "fantasy_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fantasy",
+    "list_mean": [
+      "hình ảnh tưởng tượng"
+    ],
+    "hash_code_list_mean": "6975318",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810072890_8ae4fa1063_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810072890_a6f48c0a69_o.png",
+        "id_image": "fantasy_2040675"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809335891_b0e580b1ca_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809335891_7aa95efe1e_o.png",
+        "id_image": "fantasy_3500690"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810072820_09dc0d0ef3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810072820_3e238514dd_o.png",
+        "id_image": "fantasy_3839827"
+      }
+    ],
+    "hash_code_list_img": "-181689633",
+    "list_definition_mean": [
+      {
+        "mean_english": "hình ảnh tưởng tượng",
+        "definition": "an imaginary (especially not realistic) scene, story etc",
+        "ex_of_definition_list": [
+          "He was always having fantasies about becoming rich and famous",
+          "(also adjective) He lived in a fantasy world."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1444494937"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fan_cb_dmean_5000_it.json",
+    "id_item": "fan_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fan",
+    "list_mean": [
+      "cái quạt",
+      "quạt máy",
+      "quạt",
+      "thổi bùng",
+      "người hâm mộ; người say mê"
+    ],
+    "hash_code_list_mean": "251483880",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809336431_246f303c50_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809336431_5c51d8a706_o.png",
+        "id_image": "fan_166578"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810073380_823a07d1b4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810073380_5c3d5c10d0_o.png",
+        "id_image": "fan_517776"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809336386_096897c977_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809336386_241353ebcc_o.png",
+        "id_image": "fan_689332"
+      }
+    ],
+    "hash_code_list_img": "756365804",
+    "list_definition_mean": [
+      {
+        "mean_english": "cái quạt",
+        "definition": "a flat instrument held in the hand and waved to direct a current of air across the face in hot weather",
+        "ex_of_definition_list": [
+          "Ladies used to carry fans to keep themselves cool."
+        ]
+      },
+      {
+        "mean_english": "quạt máy",
+        "definition": "a mechanical instrument causing a current of air",
+        "ex_of_definition_list": [
+          "He has had a fan fitted in the kitchen for extracting cooking smells."
+        ]
+      },
+      {
+        "mean_english": "quạt",
+        "definition": "to cool (as if) with a fan",
+        "ex_of_definition_list": [
+          "She sat in the corner, fanning herself."
+        ]
+      },
+      {
+        "mean_english": "thổi bùng",
+        "definition": "to increase or strengthen (a fire) by directing air towards it with a fan etc",
+        "ex_of_definition_list": [
+          "They fanned the fire until it burst into flames."
+        ]
+      },
+      {
+        "mean_english": "người hâm mộ; người say mê",
+        "definition": "an enthusiastic admirer of a sport, hobby or well-known person",
+        "ex_of_definition_list": [
+          "I’m a great fan of his",
+          "football fans",
+          "(also adjective) fan mail/letters (= letters etc sent by admirers)."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "202799027"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/farewell_cb_dmean_5000_it.json",
+    "id_item": "farewell_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "farewell",
+    "list_mean": [
+      "lời chào tạm biệt",
+      "tạm biệt"
+    ],
+    "hash_code_list_mean": "25421405",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809691044_4485936456_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809691044_51a8b685e5_o.png",
+        "id_image": "farewell_2165932"
+      }
+    ],
+    "hash_code_list_img": "1093181095",
+    "list_definition_mean": [
+      {
+        "mean_english": "lời chào tạm biệt",
+        "definition": "an act of saying goodbye",
+        "ex_of_definition_list": [
+          "They said their farewells at the station",
+          "(also adjective) a farewell dinner."
+        ]
+      },
+      {
+        "mean_english": "tạm biệt",
+        "definition": "goodbye",
+        "ex_of_definition_list": [
+          "‘Farewell for ever!’ she cried."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "687465927"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/farmer_cb_dmean_5000_it.json",
+    "id_item": "farmer_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "farmer",
+    "list_mean": [
+      "người nông dân; người chủ trại"
+    ],
+    "hash_code_list_mean": "-1731929647",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810072455_aeaf06c44d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810072455_f118bf9835_o.png",
+        "id_image": "farmer_2654068"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809335651_e1564c5f8c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809335651_20d4878999_o.png",
+        "id_image": "farmer_307959"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809335606_7a318a8fe8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809335606_ce56fa3ec0_o.png",
+        "id_image": "farmer_949560"
+      }
+    ],
+    "hash_code_list_img": "134590636",
+    "list_definition_mean": [
+      {
+        "mean_english": "người nông dân; người chủ trại",
+        "definition": "the owner or tenant of a farm who works on the land etc",
+        "ex_of_definition_list": [
+          "a dairy farmer."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2122810319"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/farmland_cb_dmean_5000_it.json",
+    "id_item": "farmland_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "farmland",
+    "list_mean": [
+      "đất nông nghiệp"
+    ],
+    "hash_code_list_mean": "499474563",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808380417_9e413fe9e9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808380417_7bb088eb67_o.png",
+        "id_image": "farmland_307798"
+      }
+    ],
+    "hash_code_list_img": "4400231",
+    "list_definition_mean": [
+      {
+        "mean_english": "đất nông nghiệp",
+        "definition": "land which is used for farming",
+        "ex_of_definition_list": [
+          "The family owns 300 acres of farmland."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "349400017"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/farm_cb_dmean_5000_it.json",
+    "id_item": "farm_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "farm",
+    "list_mean": [
+      "trại; trang trại",
+      "nhà ở trong trang trại",
+      "cày cấy; trồng trọt"
+    ],
+    "hash_code_list_mean": "699610088",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809690949_4a2bbda2c7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809690949_73ae6964cf_o.png",
+        "id_image": "farm_1408038"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808380737_b2b7ffdef4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808380737_f98f605745_o.png",
+        "id_image": "farm_2373257"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810072560_1ff2230e41_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810072560_02ed5314c7_o.png",
+        "id_image": "farm_4327432"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810072695_487c580ac4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810072695_0396696c20_o.png",
+        "id_image": "farm_804583"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810072660_2cc37121df_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810072660_332c46c6b5_o.png",
+        "id_image": "farm_804587"
+      }
+    ],
+    "hash_code_list_img": "-2071739174",
+    "list_definition_mean": [
+      {
+        "mean_english": "trại; trang trại",
+        "definition": "an area of land, including buildings, used for growing crops, breeding and keeping cows, sheep, pigs etc",
+        "ex_of_definition_list": [
+          "Much of England is good agricultural land and there are many farms."
+        ]
+      },
+      {
+        "mean_english": "nhà ở trong trang trại",
+        "definition": "the farmer’s house and the buildings near it in such a place",
+        "ex_of_definition_list": [
+          "We visited the farm",
+          "(also adjective) a farm kitchen."
+        ]
+      },
+      {
+        "mean_english": "cày cấy; trồng trọt",
+        "definition": "to cultivate (the land) in order to grow crops, breed and keep animals etc",
+        "ex_of_definition_list": [
+          "He farms (5,000 acres) in the south."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "577396258"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/far_cb_dmean_5000_it.json",
+    "id_item": "far_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "far",
+    "list_mean": [
+      "xa; xa xưa;",
+      "xa",
+      "rất nhiều",
+      "xa",
+      "xa hơn"
+    ],
+    "hash_code_list_mean": "119645002",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809691109_2948b659d7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809691109_8e7888885e_o.png",
+        "id_image": "far_2165949"
+      }
+    ],
+    "hash_code_list_img": "804661055",
+    "list_definition_mean": [
+      {
+        "mean_english": "xa; xa xưa;",
+        "definition": "indicating distance, progress etc",
+        "ex_of_definition_list": [
+          "How far is it from here to his house?"
+        ]
+      },
+      {
+        "mean_english": "xa",
+        "definition": "at or to a long way away",
+        "ex_of_definition_list": [
+          "She went far away/off."
+        ]
+      },
+      {
+        "mean_english": "rất nhiều",
+        "definition": "very much",
+        "ex_of_definition_list": [
+          "She was a far better swimmer than her friend (was)."
+        ]
+      },
+      {
+        "mean_english": "xa",
+        "definition": "distant; a long way away",
+        "ex_of_definition_list": [
+          "a far country."
+        ]
+      },
+      {
+        "mean_english": "xa hơn",
+        "definition": "more distant (usually of two things)",
+        "ex_of_definition_list": [
+          "He lives on the far side of the lake."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-699185565"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fashion_cb_dmean_5000_it.json",
+    "id_item": "fashion_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fashion",
+    "list_mean": [
+      "thời trang",
+      "mốt thời thượng",
+      "lề thói hay cách làm cái gì"
+    ],
+    "hash_code_list_mean": "83408382",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808380322_c63664369a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808380322_c17e7ff37d_o.png",
+        "id_image": "fashion_4515576"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810072155_823545bf46_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810072155_4199cb6681_o.png",
+        "id_image": "fashion_4647174"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809335206_48f9a3291b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809335206_cab48cdee3_o.png",
+        "id_image": "fashion_4647299"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808380222_d2d562e4b9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808380222_d806eddc21_o.png",
+        "id_image": "fashion_5825559"
+      }
+    ],
+    "hash_code_list_img": "1035293893",
+    "list_definition_mean": [
+      {
+        "mean_english": "thời trang",
+        "definition": "the style and design of clothes",
+        "ex_of_definition_list": [
+          "women’s fashions",
+          "Are you interested in fashion?",
+          "(also adjective) a fashion magazine."
+        ]
+      },
+      {
+        "mean_english": "mốt thời thượng",
+        "definition": "the way of behaving, dressing etc which is popular at a certain time",
+        "ex_of_definition_list": [
+          "Fashions in music and art are always changing."
+        ]
+      },
+      {
+        "mean_english": "lề thói hay cách làm cái gì",
+        "definition": "a way of doing something",
+        "ex_of_definition_list": [
+          "She spoke in a very strange fashion."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-667976692"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fast_cb_dmean_5000_it.json",
+    "id_item": "fast_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fast",
+    "list_mean": [
+      "nhanh",
+      "nhanh",
+      "(đồng hồ) chạy nhanh",
+      "vững vàng; chắc chắn",
+      "ăn chay; nhịn đói",
+      "thời kỳ nhịn ăn, ăn chay, ăn kiêng",
+      "bền; không phai",
+      "chắc chắn"
+    ],
+    "hash_code_list_mean": "765280337",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810072080_5a6c0fc309_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810072080_cbeb096a61_o.png",
+        "id_image": "fast_1455324"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808380177_e2cbef623d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808380177_24f56cac58_o.png",
+        "id_image": "fast_1476721"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809690244_c9dda8eaef_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809690244_b38094891c_o.png",
+        "id_image": "fast_1652556"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809690209_0288de1ac8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809690209_37a9f39db9_o.png",
+        "id_image": "fast_3043536"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809335006_9b8fa8c83f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809335006_d97ed4de7a_o.png",
+        "id_image": "fast_6316099"
+      }
+    ],
+    "hash_code_list_img": "-355958543",
+    "list_definition_mean": [
+      {
+        "mean_english": "nhanh",
+        "definition": "quick-moving",
+        "ex_of_definition_list": [
+          "a fast car."
+        ]
+      },
+      {
+        "mean_english": "nhanh",
+        "definition": "quick",
+        "ex_of_definition_list": [
+          "a fast worker."
+        ]
+      },
+      {
+        "mean_english": "(đồng hồ) chạy nhanh",
+        "definition": "(of a clock, watch etc) showing a time in advance of the correct time",
+        "ex_of_definition_list": [
+          "My watch is five minutes fast."
+        ]
+      },
+      {
+        "mean_english": "vững vàng; chắc chắn",
+        "definition": "quickly",
+        "ex_of_definition_list": [
+          "She speaks so fast I can’t understand her."
+        ]
+      },
+      {
+        "mean_english": "ăn chay; nhịn đói",
+        "definition": "to go without food, especially for religious or medical reasons",
+        "ex_of_definition_list": [
+          "Muslims fast during the festival of Ramadan."
+        ]
+      },
+      {
+        "mean_english": "thời kỳ nhịn ăn, ăn chay, ăn kiêng",
+        "definition": "a time or act of fasting",
+        "ex_of_definition_list": [
+          "She has just finished two days’ fast."
+        ]
+      },
+      {
+        "mean_english": "bền; không phai",
+        "definition": "(of a dye) fixed; that will not come out of a fabric when it is washed."
+      },
+      {
+        "mean_english": "chắc chắn",
+        "definition": "firm; fixed",
+        "ex_of_definition_list": [
+          "She made her end of the rope fast to a tree."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1352459261"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fatherhood_cb_dmean_5000_it.json",
+    "id_item": "fatherhood_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fatherhood",
+    "list_mean": [
+      "cương vị làm bố"
+    ],
+    "hash_code_list_mean": "-1526171987",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809689834_a99c9e17eb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809689834_6010c00a55_o.png",
+        "id_image": "fatherhood_392757"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810071705_33f5f56ca4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810071705_15180b5d31_o.png",
+        "id_image": "fatherhood_769649"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809449718_4a74a0da73_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809449718_5b2325d592_o.png",
+        "id_image": "fatherhood_859958"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809449658_bc0fa6fbcc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809449658_e7b896eaf4_o.png",
+        "id_image": "fatherhood_859980"
+      }
+    ],
+    "hash_code_list_img": "-259742817",
+    "list_definition_mean": [
+      {
+        "mean_english": "cương vị làm bố",
+        "definition": "the state or condition of being a father",
+        "ex_of_definition_list": [
+          "Now that the children are older I am enjoying fatherhood."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2071663719"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/father_cb_dmean_5000_it.json",
+    "id_item": "father_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "father",
+    "list_mean": [
+      "cha; bố",
+      "cha cố",
+      "tổ tiên; ông tổ",
+      "là cha của (ai); sinh ra"
+    ],
+    "hash_code_list_mean": "275120544",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809449818_84bb99a410_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809449818_dacfa6b228_o.png",
+        "id_image": "father_2880554"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810071780_de52005783_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810071780_8339d6429c_o.png",
+        "id_image": "father_437504"
+      }
+    ],
+    "hash_code_list_img": "-573155421",
+    "list_definition_mean": [
+      {
+        "mean_english": "cha; bố",
+        "definition": "a male parent, especially human",
+        "ex_of_definition_list": [
+          "Peter is her father."
+        ]
+      },
+      {
+        "mean_english": "cha cố",
+        "definition": "the title of a (usually Roman Catholic) priest",
+        "ex_of_definition_list": [
+          "I met Father Sullivan this morning."
+        ]
+      },
+      {
+        "mean_english": "tổ tiên; ông tổ",
+        "definition": "a person who begins, invents or first makes something"
+      },
+      {
+        "mean_english": "là cha của (ai); sinh ra",
+        "definition": "to be the father of",
+        "ex_of_definition_list": [
+          "King Charles II fathered a number of children."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-2007033935"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fatigue_cb_dmean_5000_it.json",
+    "id_item": "fatigue_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fatigue",
+    "list_mean": [
+      "mệt nhọc",
+      "sự giảm sức chịu đựng của kim loại"
+    ],
+    "hash_code_list_mean": "2094581989",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809689739_a3e2e1d02b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809689739_faf0aa80ff_o.png",
+        "id_image": "fatigue_2332658"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809334606_b6809e65fb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809334606_f662f20d2a_o.png",
+        "id_image": "fatigue_2746456"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809449538_453bb86fb6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809449538_9134b76acb_o.png",
+        "id_image": "fatigue_3782059"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808379447_25cbb2b5d9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808379447_296b504309_o.png",
+        "id_image": "fatigue_3997930"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809449478_f3555acd5c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809449478_d3d7f38cfb_o.png",
+        "id_image": "fatigue_4412652"
+      }
+    ],
+    "hash_code_list_img": "1423961881",
+    "list_definition_mean": [
+      {
+        "mean_english": "mệt nhọc",
+        "definition": "great tiredness (caused especially by hard work or effort)",
+        "ex_of_definition_list": [
+          "He was suffering from fatigue."
+        ]
+      },
+      {
+        "mean_english": "sự giảm sức chịu đựng của kim loại",
+        "definition": "(especially in metals) weakness caused by continual use",
+        "ex_of_definition_list": [
+          "metal fatigue."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "249810230"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fatty_cb_dmean_5000_it.json",
+    "id_item": "fatty_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fatty",
+    "list_mean": [
+      "như mỡ; có nhiều mỡ"
+    ],
+    "hash_code_list_mean": "-1048528451",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808379347_44b9e0e88a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808379347_c72a58d086_o.png",
+        "id_image": "fatty_3411775"
+      }
+    ],
+    "hash_code_list_img": "1756600252",
+    "list_definition_mean": [
+      {
+        "mean_english": "như mỡ; có nhiều mỡ",
+        "definition": "containing, or like, fat",
+        "ex_of_definition_list": [
+          "This meat is very fatty."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1233162900"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fat_cb_dmean_5000_it.json",
+    "id_item": "fat_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fat",
+    "list_mean": [
+      "mỡ; chất béo",
+      "dầu; mỡ ăn",
+      "béo mập",
+      "nhiều về số lượng; giá trị"
+    ],
+    "hash_code_list_mean": "-1200811283",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809334876_d52c398cde_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809334876_38532b72c5_o.png",
+        "id_image": "fat_2376394"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810071845_684eb464cb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810071845_b025e1817a_o.png",
+        "id_image": "fat_2843563"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810071790_3a594bc1f1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810071790_e4969ec332_o.png",
+        "id_image": "fat_3703381"
+      }
+    ],
+    "hash_code_list_img": "-827663781",
+    "list_definition_mean": [
+      {
+        "mean_english": "mỡ; chất béo",
+        "definition": "an oily substance made by the bodies of animals and by some plants",
+        "ex_of_definition_list": [
+          "This meat has got a lot of fat on it."
+        ]
+      },
+      {
+        "mean_english": "dầu; mỡ ăn",
+        "definition": "a kind of such substance, used especially for cooking",
+        "ex_of_definition_list": [
+          "There are several good cooking fats on the market."
+        ]
+      },
+      {
+        "mean_english": "béo mập",
+        "definition": "having a lot of fat on one’s body; large, heavy and round in shape",
+        "ex_of_definition_list": [
+          "He was a very fat child."
+        ]
+      },
+      {
+        "mean_english": "nhiều về số lượng; giá trị",
+        "definition": "large or abundant",
+        "ex_of_definition_list": [
+          "Her business made a fat profit",
+          "A fat lot of good that is! (= That is no good at all)"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "696998184"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/faucet_cb_dmean_5000_it.json",
+    "id_item": "faucet_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "faucet",
+    "list_mean": [
+      "vòi"
+    ],
+    "hash_code_list_mean": "121036",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809689419_2872385553_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809689419_76e296db71_o.png",
+        "id_image": "faucet_1084908"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808379292_859a2c77f0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808379292_a5e45b1572_o.png",
+        "id_image": "faucet_244769"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809449363_ca46404b1b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809449363_e67c2d77c0_o.png",
+        "id_image": "faucet_2597511"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809689354_733b422e46_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809689354_0c420ccdc2_o.png",
+        "id_image": "faucet_2933841"
+      }
+    ],
+    "hash_code_list_img": "-1960071910",
+    "list_definition_mean": [
+      {
+        "mean_english": "vòi",
+        "definition": "a device which you turn on and off to control the flow of water from a pipe; tap British",
+        "ex_of_definition_list": [
+          "the hot/cold faucet."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1540348690"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fault_cb_dmean_5000_it.json",
+    "id_item": "fault_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fault",
+    "list_mean": [
+      "khuyết điểm",
+      "tội; lỗi",
+      "(địa chất) phay; sự đứt đoạn",
+      "phát hiện khuyết điểm"
+    ],
+    "hash_code_list_mean": "-546487581",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810071230_3fa7407515_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810071230_d77405767a_o.png",
+        "id_image": "fault_2867347"
+      }
+    ],
+    "hash_code_list_img": "260297024",
+    "list_definition_mean": [
+      {
+        "mean_english": "khuyết điểm",
+        "definition": "a mistake; something for which one is to blame",
+        "ex_of_definition_list": [
+          "The accident was your fault."
+        ]
+      },
+      {
+        "mean_english": "tội; lỗi",
+        "definition": "an imperfection; something wrong",
+        "ex_of_definition_list": [
+          "There is a fault in this machine",
+          "a fault in his character."
+        ]
+      },
+      {
+        "mean_english": "(địa chất) phay; sự đứt đoạn",
+        "definition": "a crack in the rock surface of the earth",
+        "ex_of_definition_list": [
+          "faults in the earth’s crust."
+        ]
+      },
+      {
+        "mean_english": "phát hiện khuyết điểm",
+        "definition": "to find fault with",
+        "ex_of_definition_list": [
+          "I couldn’t fault him / his piano-playing."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-388575733"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/favourite_cb_dmean_5000_it.json",
+    "id_item": "favourite_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "favourite",
+    "list_mean": [
+      "được ưa thích nhất",
+      "người hoặc vật được yêu thích hơn những người hoặc vật khác"
+    ],
+    "hash_code_list_mean": "-1750752207",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810071100_470306c414_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810071100_a63eec90b0_o.png",
+        "id_image": "favourite_1836022"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809334066_7a19cb8f65_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809334066_6b0ceef434_o.png",
+        "id_image": "favourite_2373986"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809449043_55f3a60cbb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809449043_6a6b785f66_o.png",
+        "id_image": "favourite_4001236"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809333961_e3cb89e03c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809333961_e39ca45f0f_o.png",
+        "id_image": "favourite_4780253"
+      }
+    ],
+    "hash_code_list_img": "-1025771696",
+    "list_definition_mean": [
+      {
+        "mean_english": "được ưa thích nhất",
+        "definition": "best-liked; preferred",
+        "ex_of_definition_list": [
+          "His favourite city is Paris."
+        ]
+      },
+      {
+        "mean_english": "người hoặc vật được yêu thích hơn những người hoặc vật khác",
+        "definition": "a person or thing that one likes best",
+        "ex_of_definition_list": [
+          "Of all her paintings that is my favourite."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-565178091"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fawn_cb_dmean_5000_it.json",
+    "id_item": "fawn_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fawn",
+    "list_mean": [
+      "hươu, nai nhỏ",
+      "có màu nâu vàng nhạt",
+      "xun xoe; bợ đỡ",
+      "vẫy đuôi mừng (chó)"
+    ],
+    "hash_code_list_mean": "71504701",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809333896_61ebbc79d3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809333896_aa1974c5d2_o.png",
+        "id_image": "fawn_5150889"
+      }
+    ],
+    "hash_code_list_img": "448512499",
+    "list_definition_mean": [
+      {
+        "mean_english": "hươu, nai nhỏ",
+        "definition": "a young deer."
+      },
+      {
+        "mean_english": "có màu nâu vàng nhạt",
+        "definition": "(also adjective) (of) its colour/color, a light yellowish brown",
+        "ex_of_definition_list": [
+          "a fawn sweater."
+        ]
+      },
+      {
+        "mean_english": "xun xoe; bợ đỡ",
+        "definition": "(with upon) to be too humble or to flatter (someone) in a servile way",
+        "ex_of_definition_list": [
+          "The courtiers fawned upon the queen."
+        ]
+      },
+      {
+        "mean_english": "vẫy đuôi mừng (chó)",
+        "definition": "(of dogs) to show affection (by wagging the tail, rolling over etc)."
+      }
+    ],
+    "hash_code_list_definition_mean": "-2135143423"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fax_cb_dmean_5000_it.json",
+    "id_item": "fax_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fax",
+    "list_mean": [
+      "bản phắc",
+      "máy fax",
+      "số fax",
+      "gửi fax"
+    ],
+    "hash_code_list_mean": "2028092457",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809688969_3501a312e4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809688969_785b72baf3_o.png",
+        "id_image": "fax_2666481"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809688939_1741454745_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809688939_d102e6d5ef_o.png",
+        "id_image": "fax_2832764"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809688894_5d86a4a2d6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809688894_8a110c4c09_o.png",
+        "id_image": "fax_3447631"
+      }
+    ],
+    "hash_code_list_img": "584043862",
+    "list_definition_mean": [
+      {
+        "mean_english": "bản phắc",
+        "definition": "a facsimile; a written message sent by a special telephone system",
+        "ex_of_definition_list": [
+          "I’ll send you a fax."
+        ]
+      },
+      {
+        "mean_english": "máy fax",
+        "definition": "(also fax machine) a machine for transmitting and receiving faxes",
+        "ex_of_definition_list": [
+          "Our new fax has a separate telephone line."
+        ]
+      },
+      {
+        "mean_english": "số fax",
+        "definition": "a fax number",
+        "ex_of_definition_list": [
+          "fax 8139007."
+        ]
+      },
+      {
+        "mean_english": "gửi fax",
+        "definition": "to send someone a fax",
+        "ex_of_definition_list": [
+          "I’ll fax you the document tomorrow."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1100632021"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fear_cb_dmean_5000_it.json",
+    "id_item": "fear_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fear",
+    "list_mean": [
+      "sự sợ hãi",
+      "sợ (ai/cái gì)",
+      "lo ngại"
+    ],
+    "hash_code_list_mean": "-1239984707",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810070680_d0cdcf5921_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810070680_3c79bc4135_o.png",
+        "id_image": "fear_2367133"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809688774_8a83dfa598_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809688774_c3dd51b80d_o.png",
+        "id_image": "fear_4897333"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809688879_6767bcc03c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809688879_22d8bdb56b_o.png",
+        "id_image": "fear_708633"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808378657_5dcdb43def_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808378657_b6367d1879_o.png",
+        "id_image": "fear_817782"
+      }
+    ],
+    "hash_code_list_img": "1223484501",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự sợ hãi",
+        "definition": "(a) feeling of great worry or anxiety caused by the knowledge of danger",
+        "ex_of_definition_list": [
+          "The soldier tried not to show his fear",
+          "She has a deep-seated fear of spiders."
+        ]
+      },
+      {
+        "mean_english": "sợ (ai/cái gì)",
+        "definition": "to feel fear because of (something)",
+        "ex_of_definition_list": [
+          "She feared her father when he was angry",
+          "I fear for my father’s safety (= I am worried because I think he is in danger)."
+        ]
+      },
+      {
+        "mean_english": "lo ngại",
+        "definition": "to regret",
+        "ex_of_definition_list": [
+          "I fear you will not be able to see him today."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1077457399"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/feast_cb_dmean_5000_it.json",
+    "id_item": "feast_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "feast",
+    "list_mean": [
+      "bữa tiệc",
+      "ngày lễ hội",
+      "ăn cỗ"
+    ],
+    "hash_code_list_mean": "-1300719034",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809448703_d7b96f290c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809448703_e9cebdb2c2_o.png",
+        "id_image": "feast_2077102"
+      }
+    ],
+    "hash_code_list_img": "232226348",
+    "list_definition_mean": [
+      {
+        "mean_english": "bữa tiệc",
+        "definition": "a large and rich meal, usually eaten to celebrate some occasion",
+        "ex_of_definition_list": [
+          "The king invited them to a feast in the palace."
+        ]
+      },
+      {
+        "mean_english": "ngày lễ hội",
+        "definition": "a particular day on which some (especially religious) person or event is remembered and celebrated",
+        "ex_of_definition_list": [
+          "Today is the feast of St Stephen."
+        ]
+      },
+      {
+        "mean_english": "ăn cỗ",
+        "definition": "to eat (as if) at a feast",
+        "ex_of_definition_list": [
+          "We feasted all day."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-35636626"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/feather_cb_dmean_5000_it.json",
+    "id_item": "feather_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "feather",
+    "list_mean": [
+      "lông vũ; lông (chim)",
+      "trang hoàng bằng lông"
+    ],
+    "hash_code_list_mean": "344343208",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809333606_7fc0ed80aa_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809333606_acde68565d_o.png",
+        "id_image": "feather_420279"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810070465_332b6ae1b3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810070465_3b5a0a7ed2_o.png",
+        "id_image": "feather_5833251"
+      }
+    ],
+    "hash_code_list_img": "-2000805728",
+    "list_definition_mean": [
+      {
+        "mean_english": "lông vũ; lông (chim)",
+        "definition": "one of the things that grow from a bird’s skin that form the covering of its body",
+        "ex_of_definition_list": [
+          "They cleaned the oil off the seagull’s feathers."
+        ]
+      },
+      {
+        "mean_english": "trang hoàng bằng lông",
+        "definition": "to line, cover or decorate with feathers",
+        "ex_of_definition_list": [
+          "The eagle feathers its nest with down from its own breast."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-316912353"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/feature_cb_dmean_5000_it.json",
+    "id_item": "feature_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "feature",
+    "list_mean": [
+      "đặc trưng",
+      "nét (mặt)",
+      "bài đặc biệt (trong một tờ báo)",
+      "tiết mục chủ chốt; bộ phim chính",
+      "dành vai nổi bật cho"
+    ],
+    "hash_code_list_mean": "1331950925",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809333466_65d93c52bf_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809333466_8bd666962c_o.png",
+        "id_image": "feature_2620406"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809688434_7909ee889b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809688434_f60a242128_o.png",
+        "id_image": "feature_6133670"
+      }
+    ],
+    "hash_code_list_img": "1907105754",
+    "list_definition_mean": [
+      {
+        "mean_english": "đặc trưng",
+        "definition": "a mark by which anything is known; a quality",
+        "ex_of_definition_list": [
+          "The use of bright colours/colors is one of the features of her painting."
+        ]
+      },
+      {
+        "mean_english": "nét (mặt)",
+        "definition": "one of the parts of one’s face (eyes, nose etc)",
+        "ex_of_definition_list": [
+          "She has very regular features."
+        ]
+      },
+      {
+        "mean_english": "bài đặc biệt (trong một tờ báo)",
+        "definition": "a special article in a newspaper",
+        "ex_of_definition_list": [
+          "‘The Times’ is doing a feature on winter holidays."
+        ]
+      },
+      {
+        "mean_english": "tiết mục chủ chốt; bộ phim chính",
+        "definition": "the main film in a cinema / movie theater programme/program etc",
+        "ex_of_definition_list": [
+          "The feature begins at 7.30",
+          "(also adjective) a feature film."
+        ]
+      },
+      {
+        "mean_english": "dành vai nổi bật cho",
+        "definition": "to give or have a part (especially an important one)",
+        "ex_of_definition_list": [
+          "That film features the best of the British actresses."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-257242292"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/feedback_cb_dmean_5000_it.json",
+    "id_item": "feedback_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "feedback",
+    "list_mean": [
+      "sự phản hồi",
+      "tiếng bật trở lại"
+    ],
+    "hash_code_list_mean": "-2046485825",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810069585_5d226c9586_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810069585_1004a6f2d4_o.png",
+        "id_image": "feedback_2665141"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809447938_7ba7a0eb89_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809447938_136c33ecfe_o.png",
+        "id_image": "feedback_537039"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809687829_cfc1b52fce_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809687829_94de0b45a9_o.png",
+        "id_image": "feedback_813328"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810069620_7369c51195_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810069620_bb4f6b1b63_o.png",
+        "id_image": "feedback_813357"
+      }
+    ],
+    "hash_code_list_img": "342294166",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự phản hồi",
+        "definition": "advice or criticism about how successful something or someone’s work is",
+        "ex_of_definition_list": [
+          "After the lesson, the observer provides feedback to the teacher."
+        ]
+      },
+      {
+        "mean_english": "tiếng bật trở lại",
+        "definition": "an unpleasant high noise that occurs when some of the sound produced by electrical equipment goes back into it, for example if an electric guitar is held too near an amplifier."
+      }
+    ],
+    "hash_code_list_definition_mean": "794037498"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fee_cb_dmean_5000_it.json",
+    "id_item": "fee_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fee",
+    "list_mean": [
+      "tiền thù lao"
+    ],
+    "hash_code_list_mean": "-1106682624",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809688129_1638a089b4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809688129_ca4aff85df_o.png",
+        "id_image": "fee_1328236"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809688099_eef04d21d2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809688099_d379653131_o.png",
+        "id_image": "fee_5235433"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809448108_77dd8466c2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809448108_0bc41c69c9_o.png",
+        "id_image": "fee_5455911"
+      }
+    ],
+    "hash_code_list_img": "1685888242",
+    "list_definition_mean": [
+      {
+        "mean_english": "tiền thù lao",
+        "definition": "the price paid for work done by a doctor, lawyer fee or for some special service or right",
+        "ex_of_definition_list": [
+          "the lawyer’s fee",
+          "an entrance fee",
+          "university fees."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "963036824"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/female_cb_dmean_5000_it.json",
+    "id_item": "female_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "female",
+    "list_mean": [
+      "đàn bà; con vật giống cái",
+      "cây giống cái"
+    ],
+    "hash_code_list_mean": "-1951658080",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809687429_8ecc59b3b4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809687429_bbb7665f63_o.png",
+        "id_image": "female_1552298"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809687364_45a882dc51_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809687364_2e4af47a41_o.png",
+        "id_image": "female_2680973"
+      }
+    ],
+    "hash_code_list_img": "573481802",
+    "list_definition_mean": [
+      {
+        "mean_english": "đàn bà; con vật giống cái",
+        "definition": "(a person, animal etc) of the sex that gives birth to children, produces eggs etc",
+        "ex_of_definition_list": [
+          "a female blackbird",
+          "the female of the species."
+        ]
+      },
+      {
+        "mean_english": "cây giống cái",
+        "definition": "(a plant) that produces seeds."
+      }
+    ],
+    "hash_code_list_definition_mean": "-824667971"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/feminist_cb_dmean_5000_it.json",
+    "id_item": "feminist_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "feminist",
+    "list_mean": [
+      "người ủng hộ thuyết nam nữ bình quyền"
+    ],
+    "hash_code_list_mean": "-2134227363",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810069105_a987c84771_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810069105_6f2a42c61b_o.png",
+        "id_image": "feminist_1425419"
+      }
+    ],
+    "hash_code_list_img": "1431782068",
+    "list_definition_mean": [
+      {
+        "mean_english": "người ủng hộ thuyết nam nữ bình quyền",
+        "definition": "a supporter of feminism",
+        "ex_of_definition_list": [
+          "a radical feminist."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2136918777"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fence_cb_dmean_5000_it.json",
+    "id_item": "fence_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fence",
+    "list_mean": [
+      "hàng rào",
+      "rào lại",
+      "đấu kiếm; đánh kiếm",
+      "lảng tránh; đánh trống lảng"
+    ],
+    "hash_code_list_mean": "-427453894",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808377102_a0dd6850b1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808377102_c2e5d5ee98_o.png",
+        "id_image": "fence_517597"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809447343_22d0b971d8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809447343_dc64602e35_o.png",
+        "id_image": "fence_899187"
+      }
+    ],
+    "hash_code_list_img": "1363213104",
+    "list_definition_mean": [
+      {
+        "mean_english": "hàng rào",
+        "definition": "a line of wooden or metal posts joined by wood, wire etc to stop people, animals etc moving on to or off a piece of land",
+        "ex_of_definition_list": [
+          "The garden was surrounded by a wooden fence."
+        ]
+      },
+      {
+        "mean_english": "rào lại",
+        "definition": "to enclose (an area of land) with a fence eg to prevent people, animals etc from getting in",
+        "ex_of_definition_list": [
+          "We fenced off the field."
+        ]
+      },
+      {
+        "mean_english": "đấu kiếm; đánh kiếm",
+        "definition": "to fight with (blunted) swords as a sport."
+      },
+      {
+        "mean_english": "lảng tránh; đánh trống lảng",
+        "definition": "to avoid answering questions",
+        "ex_of_definition_list": [
+          "He fenced with me for half an hour before I got the truth."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "978769860"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fender_cb_dmean_5000_it.json",
+    "id_item": "fender_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fender",
+    "list_mean": [
+      "đệm chắn",
+      "lá chắn",
+      "cái cản sốc (phía trước ôtô)"
+    ],
+    "hash_code_list_mean": "798300070",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809447128_844053ce31_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809447128_c0aef72ae7_o.png",
+        "id_image": "fender_1394926"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809332091_2448ddf2e2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809332091_5c0650231c_o.png",
+        "id_image": "fender_1924247"
+      }
+    ],
+    "hash_code_list_img": "-1475286282",
+    "list_definition_mean": [
+      {
+        "mean_english": "đệm chắn",
+        "definition": "anything used to protect a boat from touching another, a pier etc",
+        "ex_of_definition_list": [
+          "She hung old car tyres/tires over the side of the boat to act as fenders."
+        ]
+      },
+      {
+        "mean_english": "lá chắn",
+        "definition": "a low guard around a fireplace to prevent coal etc from falling out."
+      },
+      {
+        "mean_english": "cái cản sốc (phía trước ôtô)",
+        "definition": "a wing of a car."
+      }
+    ],
+    "hash_code_list_definition_mean": "-1586716702"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fermentation_cb_dmean_5000_it.json",
+    "id_item": "fermentation_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fermentation",
+    "list_mean": [
+      "(hành động hoặc quá trình) lên men"
+    ],
+    "hash_code_list_mean": "-255976995",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809447063_be7db9b413_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809447063_0fa6952908_o.png",
+        "id_image": "fermentation_2533960"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808376767_85504972af_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808376767_78f4d6f9ea_o.png",
+        "id_image": "fermentation_4185462"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808376717_45ce0813ef_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808376717_1bf3c5d990_o.png",
+        "id_image": "fermentation_6286367"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808376692_f5e3565f5e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808376692_e18ab0fc71_o.png",
+        "id_image": "fermentation_6286376"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810068550_5b7d77d96f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810068550_3946df7f89_o.png",
+        "id_image": "fermentation_6286417"
+      }
+    ],
+    "hash_code_list_img": "560590156",
+    "list_definition_mean": [
+      {
+        "mean_english": "(hành động hoặc quá trình) lên men",
+        "definition": "the chemical change occurring when something ferments or is fermented",
+        "ex_of_definition_list": [
+          "the fermentation of beer."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "429515284"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/ferry_cb_dmean_5000_it.json",
+    "id_item": "ferry_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "ferry",
+    "list_mean": [
+      "chuyên chở (bằng phà)",
+      "phà"
+    ],
+    "hash_code_list_mean": "-830260929",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809686769_5770265f05_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809686769_44b371732d_o.png",
+        "id_image": "ferry_1142691"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809331751_bef4e85e24_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809331751_8d8790cba8_o.png",
+        "id_image": "ferry_1354602"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809686699_c1284488ab_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809686699_0f59bce3ee_o.png",
+        "id_image": "ferry_2290119"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808376392_4d0408bbde_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808376392_bec05a786d_o.png",
+        "id_image": "ferry_3117953"
+      }
+    ],
+    "hash_code_list_img": "826111049",
+    "list_definition_mean": [
+      {
+        "mean_english": "chuyên chở (bằng phà)",
+        "definition": "to carry (people, cars etc) from one place to another by boat (or plane)",
+        "ex_of_definition_list": [
+          "She ferried us across the river in a small boat."
+        ]
+      },
+      {
+        "mean_english": "phà",
+        "definition": "a boat which ferries people, cars etc from one place to another",
+        "ex_of_definition_list": [
+          "We took the cross-channel ferry."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-196121445"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fertility_cb_dmean_5000_it.json",
+    "id_item": "fertility_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fertility",
+    "list_mean": [
+      "tình trạng màu mỡ; khả năng sinh sản"
+    ],
+    "hash_code_list_mean": "-524877316",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809446583_1da0e9e454_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809446583_529935d9b0_o.png",
+        "id_image": "fertility_1742011"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809686644_457325a87c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809686644_6a9cbd5be7_o.png",
+        "id_image": "fertility_527028"
+      }
+    ],
+    "hash_code_list_img": "1500436730",
+    "list_definition_mean": [
+      {
+        "mean_english": "tình trạng màu mỡ; khả năng sinh sản",
+        "definition": "the state or condition of being fertile",
+        "ex_of_definition_list": [
+          "Diet among girls can affect fertility."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "271570748"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fertilizer_cb_dmean_5000_it.json",
+    "id_item": "fertilizer_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fertilizer",
+    "list_mean": [
+      "phân bón"
+    ],
+    "hash_code_list_mean": "2010194816",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809446563_d9f8bd2fa2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809446563_79474cff1a_o.png",
+        "id_image": "fertilizer_3526896"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810068245_35ef096a11_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810068245_0d13cc7848_o.png",
+        "id_image": "fertilizer_4525256"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809331456_497ff54a56_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809331456_aba15eb53a_o.png",
+        "id_image": "fertilizer_5011039"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809686444_9e4b20a08c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809686444_13076dd152_o.png",
+        "id_image": "fertilizer_5264906"
+      }
+    ],
+    "hash_code_list_img": "1389913533",
+    "list_definition_mean": [
+      {
+        "mean_english": "phân bón",
+        "definition": "a substance (manure, chemicals etc) used to make land (more) fertile",
+        "ex_of_definition_list": [
+          "artificial fertilizers."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1148535821"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/festival_cb_dmean_5000_it.json",
+    "id_item": "festival_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "festival",
+    "list_mean": [
+      "ngày hội; đại hội liên hoan",
+      "liên hoan"
+    ],
+    "hash_code_list_mean": "1477170303",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809446383_72977447d4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809446383_a202595275_o.png",
+        "id_image": "festival_1312005"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809446318_b06736f03e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809446318_01f79fab19_o.png",
+        "id_image": "festival_3728797"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810068030_0fd2c87be8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810068030_3892681a35_o.png",
+        "id_image": "festival_3892281"
+      }
+    ],
+    "hash_code_list_img": "1807935237",
+    "list_definition_mean": [
+      {
+        "mean_english": "ngày hội; đại hội liên hoan",
+        "definition": "an occasion of public celebration",
+        "ex_of_definition_list": [
+          "In Italy, each village holds a festival once a year."
+        ]
+      },
+      {
+        "mean_english": "liên hoan",
+        "definition": "a season of musical, theatrical etc performances",
+        "ex_of_definition_list": [
+          "Every three years the city puts on a drama festival",
+          "(also adjective) a festival programme."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1733100791"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/festive_cb_dmean_5000_it.json",
+    "id_item": "festive_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "festive",
+    "list_mean": [
+      "thuộc hoặc thích hợp với ngày lễ, ngày hội"
+    ],
+    "hash_code_list_mean": "491949571",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809446258_dc79cbb5fe_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809446258_ec0b402109_o.png",
+        "id_image": "festive_6347811"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809686264_0194d96e48_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809686264_a8d9cb059a_o.png",
+        "id_image": "festive_6347838"
+      }
+    ],
+    "hash_code_list_img": "-1283477586",
+    "list_definition_mean": [
+      {
+        "mean_english": "thuộc hoặc thích hợp với ngày lễ, ngày hội",
+        "definition": "happy and (as if) celebrating",
+        "ex_of_definition_list": [
+          "a festive atmosphere."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1250344480"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fetch_cb_dmean_5000_it.json",
+    "id_item": "fetch_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fetch",
+    "list_mean": [
+      "tìm về, đem về",
+      "bán được với (cái giá là)"
+    ],
+    "hash_code_list_mean": "1292160904",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809446183_9bc1105bb9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809446183_2b700367f1_o.png",
+        "id_image": "fetch_6401089"
+      }
+    ],
+    "hash_code_list_img": "601649376",
+    "list_definition_mean": [
+      {
+        "mean_english": "tìm về, đem về",
+        "definition": "to go and get (something or someone) and bring it",
+        "ex_of_definition_list": [
+          "He threw a stick for the dog to fetch.",
+          "Fetch me some bread."
+        ]
+      },
+      {
+        "mean_english": "bán được với (cái giá là)",
+        "definition": "to be sold for (a certain price)",
+        "ex_of_definition_list": [
+          "The picture fetched $100."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1624487467"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fever_cb_dmean_5000_it.json",
+    "id_item": "fever_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fever",
+    "list_mean": [
+      "cơn sốt"
+    ],
+    "hash_code_list_mean": "1119868421",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809446138_0dd7b42194_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809446138_093a5142b8_o.png",
+        "id_image": "fever_2328385"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810067885_8238f9c220_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810067885_da5bd6478a_o.png",
+        "id_image": "fever_3154453"
+      }
+    ],
+    "hash_code_list_img": "-1111657288",
+    "list_definition_mean": [
+      {
+        "mean_english": "cơn sốt",
+        "definition": "(an illness causing) high body temperature and quick heart-beat",
+        "ex_of_definition_list": [
+          "She is in bed with a fever"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1404635128"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fiction_cb_dmean_5000_it.json",
+    "id_item": "fiction_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fiction",
+    "list_mean": [
+      "tiểu thuyết hư cấu"
+    ],
+    "hash_code_list_mean": "836616980",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809331006_4caed91b1d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809331006_c28b168234_o.png",
+        "id_image": "fiction_2178098"
+      }
+    ],
+    "hash_code_list_img": "957388322",
+    "list_definition_mean": [
+      {
+        "mean_english": "tiểu thuyết hư cấu",
+        "definition": "stories etc which tell of imagined, not real, characters and events (see also non-fiction)",
+        "ex_of_definition_list": [
+          "a work of fiction."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "571267699"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fiddle_cb_dmean_5000_it.json",
+    "id_item": "fiddle_cb_dmean_5000_it",
+    "id_album": "94691743",
+    "english": "fiddle",
+    "list_mean": [
+      "đàn viôlông",
+      "ngón lừa bịp; sự gian lận",
+      "chơi viôlông",
+      "chơi đùa không cẩn thận cái gì trong tay",
+      "gian lận"
+    ],
+    "hash_code_list_mean": "1753491958",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809445828_844506c038_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809445828_2aef6e3f5a_o.png",
+        "id_image": "fiddle_2128786"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808375602_37fc3148e4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808375602_9da5baf740_o.png",
+        "id_image": "fiddle_350449"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809445873_c266a0a9fb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809445873_390619eb25_o.png",
+        "id_image": "fiddle_352491"
+      }
+    ],
+    "hash_code_list_img": "1578104466",
+    "list_definition_mean": [
+      {
+        "mean_english": "đàn viôlông",
+        "definition": "a violin",
+        "ex_of_definition_list": [
+          "She played the fiddle."
+        ]
+      },
+      {
+        "mean_english": "ngón lừa bịp; sự gian lận",
+        "definition": "a dishonest business arrangement",
+        "ex_of_definition_list": [
+          "a tax fiddle."
+        ]
+      },
+      {
+        "mean_english": "chơi viôlông",
+        "definition": "to play a violin",
+        "ex_of_definition_list": [
+          "He fiddled while they danced."
+        ]
+      },
+      {
+        "mean_english": "chơi đùa không cẩn thận cái gì trong tay",
+        "definition": "(with with) to make restless, aimless movements",
+        "ex_of_definition_list": [
+          "Stop fiddling with your pencil!"
+        ]
+      },
+      {
+        "mean_english": "gian lận",
+        "definition": "to manage (money, accounts etc) dishonestly",
+        "ex_of_definition_list": [
+          "She has been fiddling the accounts for years."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-204144803"
+  }
+]

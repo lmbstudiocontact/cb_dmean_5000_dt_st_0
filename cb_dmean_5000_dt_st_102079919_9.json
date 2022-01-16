@@ -1,0 +1,2299 @@
+[
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pantry_cb_dmean_5000_it.json",
+    "id_item": "pantry_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "pantry",
+    "list_mean": [
+      "phòng để thức ăn"
+    ],
+    "hash_code_list_mean": "-1222615045",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808379482_4fc7cc40c8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808379482_4e96a1cc99_o.png",
+        "id_image": "pantry_2934209"
+      }
+    ],
+    "hash_code_list_img": "1322847011",
+    "list_definition_mean": [
+      {
+        "mean_english": "phòng để thức ăn",
+        "definition": "a room for storing food",
+        "ex_of_definition_list": [
+          "The house had a large kitchen with a pantry."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1618596408"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pant_cb_dmean_5000_it.json",
+    "id_item": "pant_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "pant",
+    "list_mean": [
+      "thở hổn hển",
+      "nói hổn hển"
+    ],
+    "hash_code_list_mean": "-1577206150",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809689979_ea35ed8cdb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809689979_40cf342b8f_o.png",
+        "id_image": "pant_3043360"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809689959_d7a146a778_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809689959_9e8e78941f_o.png",
+        "id_image": "pant_5507633"
+      }
+    ],
+    "hash_code_list_img": "1708488117",
+    "list_definition_mean": [
+      {
+        "mean_english": "thở hổn hển",
+        "definition": "to gasp for breath",
+        "ex_of_definition_list": [
+          "He was panting heavily as he ran."
+        ]
+      },
+      {
+        "mean_english": "nói hổn hển",
+        "definition": "to say while gasping for breath",
+        "ex_of_definition_list": [
+          "‘Wait for me!’ she panted."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "583541688"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/papacy_cb_dmean_5000_it.json",
+    "id_item": "papacy_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "papacy",
+    "list_mean": [
+      "chức giáo hoàng",
+      "chế độ giáo hoàng"
+    ],
+    "hash_code_list_mean": "-73990222",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809449433_afc03ff806_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809449433_1fe692afed_o.png",
+        "id_image": "papacy_280016"
+      }
+    ],
+    "hash_code_list_img": "2056145002",
+    "list_definition_mean": [
+      {
+        "mean_english": "chức giáo hoàng",
+        "definition": "the position or power of the pope",
+        "ex_of_definition_list": [
+          "The papacy is the central authority of the Roman Catholic church."
+        ]
+      },
+      {
+        "mean_english": "chế độ giáo hoàng",
+        "definition": "government by popes",
+        "ex_of_definition_list": [
+          "the history of the papacy."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1802251276"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/paperwork_cb_dmean_5000_it.json",
+    "id_item": "paperwork_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "paperwork",
+    "list_mean": [
+      "công việc giấy tờ"
+    ],
+    "hash_code_list_mean": "-1709299241",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809334081_fc46407f96_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809334081_9a645b9acb_o.png",
+        "id_image": "paperwork_2419650"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809689134_b86aa0a01a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809689134_0dd9f27d22_o.png",
+        "id_image": "paperwork_3653585"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808378887_a8d1456b06_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808378887_5f5e1f9d2a_o.png",
+        "id_image": "paperwork_5902618"
+      }
+    ],
+    "hash_code_list_img": "1184837750",
+    "list_definition_mean": [
+      {
+        "mean_english": "công việc giấy tờ",
+        "definition": "the part of a job which consists of keeping files, writing letters etc",
+        "ex_of_definition_list": [
+          "I spend most of my time on paperwork."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1681886941"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/paper_cb_dmean_5000_it.json",
+    "id_item": "paper_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "paper",
+    "list_mean": [
+      "giấy",
+      "tờ giấy",
+      "báo",
+      "đề bài thi",
+      "giấy tờ"
+    ],
+    "hash_code_list_mean": "-1170382917",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808379207_620cf3c898_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808379207_e3f29faa61_o.png",
+        "id_image": "paper_1032687"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809334281_1667e10365_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809334281_fa3f457fb5_o.png",
+        "id_image": "paper_1131437"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809449273_e32641108d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809449273_67de35a036_o.png",
+        "id_image": "paper_1188520"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808379252_594c83cca7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808379252_94f1172f66_o.png",
+        "id_image": "paper_420285"
+      }
+    ],
+    "hash_code_list_img": "318515245",
+    "list_definition_mean": [
+      {
+        "mean_english": "giấy",
+        "definition": "the material on which these words are written, made from wood, rags etc and used for writing, printing, wrapping parcels etc",
+        "ex_of_definition_list": [
+          "I need paper and a pen to write a letter",
+          "(also adjective) a paper bag."
+        ]
+      },
+      {
+        "mean_english": "tờ giấy",
+        "definition": "a single (often printed or typed) piece of this",
+        "ex_of_definition_list": [
+          "There were papers all over his desk."
+        ]
+      },
+      {
+        "mean_english": "báo",
+        "definition": "a newspaper",
+        "ex_of_definition_list": [
+          "Have you read the paper?"
+        ]
+      },
+      {
+        "mean_english": "đề bài thi",
+        "definition": "a group of questions for a written examination",
+        "ex_of_definition_list": [
+          "The Latin paper was very difficult."
+        ]
+      },
+      {
+        "mean_english": "giấy tờ",
+        "definition": "documents proving one’s identity, nationality etc",
+        "ex_of_definition_list": [
+          "The policeman demanded to see my papers."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1218687512"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/paprika_cb_dmean_5000_it.json",
+    "id_item": "paprika_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "paprika",
+    "list_mean": [
+      "ớt Hung"
+    ],
+    "hash_code_list_mean": "62776972",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809333946_2d66a05596_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809333946_5e03d0c002_o.png",
+        "id_image": "paprika_258591"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810070920_dfce4fe8fb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810070920_104ea0894c_o.png",
+        "id_image": "paprika_3461857"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810070955_b28818f47e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810070955_254fdd10a6_o.png",
+        "id_image": "paprika_563385"
+      }
+    ],
+    "hash_code_list_img": "1787118694",
+    "list_definition_mean": [
+      {
+        "mean_english": "ớt Hung",
+        "definition": "a type of red pepper powder used in cooking",
+        "ex_of_definition_list": [
+          "Add a pinch of smoked paprika."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2011319643"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parachute_cb_dmean_5000_it.json",
+    "id_item": "parachute_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "parachute",
+    "list_mean": [
+      "cái dù",
+      "nhảy dù"
+    ],
+    "hash_code_list_mean": "388638908",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810070615_9f51a97e63_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810070615_f1d651ccec_o.png",
+        "id_image": "parachute_1485078"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809333676_25265dd984_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809333676_a4b093b162_o.png",
+        "id_image": "parachute_1487559"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809333661_6413800999_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809333661_1a017976af_o.png",
+        "id_image": "parachute_4146379"
+      }
+    ],
+    "hash_code_list_img": "-1316049800",
+    "list_definition_mean": [
+      {
+        "mean_english": "cái dù",
+        "definition": "an umbrella-shaped piece of light, strong cloth etc beneath which a person etc is tied with ropes so that he etc can come slowly down to the ground from a great height",
+        "ex_of_definition_list": [
+          "They made the descent from the plane by parachute",
+          "(also adjective) a parachute-jump."
+        ]
+      },
+      {
+        "mean_english": "nhảy dù",
+        "definition": "to come down to the ground using a parachute",
+        "ex_of_definition_list": [
+          "The troops parachuted into France."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2075392643"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parade_cb_dmean_5000_it.json",
+    "id_item": "parade_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "parade",
+    "list_mean": [
+      "cuộc diễu hành",
+      "cuộc duyệt binh",
+      "diễu hành",
+      "duyệt binh",
+      "phô trương"
+    ],
+    "hash_code_list_mean": "1014267205",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809688519_cfa5f90d42_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809688519_771885cd00_o.png",
+        "id_image": "parade_1054481"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810070300_61c7bc4bd1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810070300_36077f241c_o.png",
+        "id_image": "parade_2507888"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809333531_13a70ff7c5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809333531_36c575f432_o.png",
+        "id_image": "parade_352505"
+      }
+    ],
+    "hash_code_list_img": "-794444595",
+    "list_definition_mean": [
+      {
+        "mean_english": "cuộc diễu hành",
+        "definition": "a line of people, vehicles etc moving forward in order often as a celebration of some event",
+        "ex_of_definition_list": [
+          "a circus parade."
+        ]
+      },
+      {
+        "mean_english": "cuộc duyệt binh",
+        "definition": "an arrangement of soldiers in a particular order",
+        "ex_of_definition_list": [
+          "The troops are on parade."
+        ]
+      },
+      {
+        "mean_english": "diễu hành",
+        "definition": "to march in a line moving forward in order",
+        "ex_of_definition_list": [
+          "They paraded through the town."
+        ]
+      },
+      {
+        "mean_english": "duyệt binh",
+        "definition": "to arrange soldiers in order",
+        "ex_of_definition_list": [
+          "The colonel paraded his soldiers."
+        ]
+      },
+      {
+        "mean_english": "phô trương",
+        "definition": "to show or display in an obvious way",
+        "ex_of_definition_list": [
+          "She paraded her new clothes in front of her friends."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "607181664"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/paradise_cb_dmean_5000_it.json",
+    "id_item": "paradise_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "paradise",
+    "list_mean": [
+      "nơi lý tưởng",
+      "thiên đường"
+    ],
+    "hash_code_list_mean": "-641886182",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808378277_8fefde2857_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808378277_7e956b8b74_o.png",
+        "id_image": "paradise_4359804"
+      }
+    ],
+    "hash_code_list_img": "566974055",
+    "list_definition_mean": [
+      {
+        "mean_english": "nơi lý tưởng",
+        "definition": "a place or state of great happiness",
+        "ex_of_definition_list": [
+          "It’s paradise to be by a warm fire on a cold night."
+        ]
+      },
+      {
+        "mean_english": "thiên đường",
+        "definition": "heaven",
+        "ex_of_definition_list": [
+          "When we die, we go to Paradise."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "975885957"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/paragraph_cb_dmean_5000_it.json",
+    "id_item": "paragraph_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "paragraph",
+    "list_mean": [
+      "đoạn văn"
+    ],
+    "hash_code_list_mean": "20048171",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809333321_3154b24fa2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809333321_05551238e8_o.png",
+        "id_image": "paragraph_4507980"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809333256_b6b6044a71_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809333256_2ee9714027_o.png",
+        "id_image": "paragraph_6311360"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810070225_e0250f666f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810070225_811ce4fd7e_o.png",
+        "id_image": "paragraph_930232"
+      }
+    ],
+    "hash_code_list_img": "254557737",
+    "list_definition_mean": [
+      {
+        "mean_english": "đoạn văn",
+        "definition": "a part of a piece of writing, marked by beginning the first sentence on a new line and usually leaving a short space at the beginning of the line",
+        "ex_of_definition_list": [
+          "There are a couple of paragraphs about the bank robbery on page three of today’s paper."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1778013525"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parallel_cb_dmean_5000_it.json",
+    "id_item": "parallel_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "parallel",
+    "list_mean": [
+      "song song",
+      "tương tự",
+      "dọc theo",
+      "đường song song",
+      "sự tương đồng",
+      "đường vĩ tuyến",
+      "so sánh với"
+    ],
+    "hash_code_list_mean": "-1145684551",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809333236_ac3b7a42d5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809333236_a93c768bbf_o.png",
+        "id_image": "parallel_5376858"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809333201_291f3ff548_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809333201_c75ddd1df5_o.png",
+        "id_image": "parallel_5967429"
+      }
+    ],
+    "hash_code_list_img": "1216696895",
+    "list_definition_mean": [
+      {
+        "mean_english": "song song",
+        "definition": "(of straight lines) going in the same direction and always staying the same distance apart",
+        "ex_of_definition_list": [
+          "The road is parallel to/with the river."
+        ]
+      },
+      {
+        "mean_english": "tương tự",
+        "definition": "alike (in some way)",
+        "ex_of_definition_list": [
+          "There are parallel passages in the two books."
+        ]
+      },
+      {
+        "mean_english": "dọc theo",
+        "definition": "in the same direction but always about the same distance away",
+        "ex_of_definition_list": [
+          "We sailed parallel to the coast for several days."
+        ]
+      },
+      {
+        "mean_english": "đường song song",
+        "definition": "a line parallel to another",
+        "ex_of_definition_list": [
+          "Draw a parallel to this line."
+        ]
+      },
+      {
+        "mean_english": "sự tương đồng",
+        "definition": "a likeness or state of being alike",
+        "ex_of_definition_list": [
+          "Is there a parallel between the British Empire and the Roman Empire?"
+        ]
+      },
+      {
+        "mean_english": "đường vĩ tuyến",
+        "definition": "a line drawn from east to west across a map etc at a fixed distance from the equator",
+        "ex_of_definition_list": [
+          "The border between Canada and the United States follows the forty-ninth parallel."
+        ]
+      },
+      {
+        "mean_english": "so sánh với",
+        "definition": "to be equal to",
+        "ex_of_definition_list": [
+          "His stupidity can’t be paralleled."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "127984454"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/paramedic_cb_dmean_5000_it.json",
+    "id_item": "paramedic_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "paramedic",
+    "list_mean": [
+      "hộ lý, nhân viên cấp cứu"
+    ],
+    "hash_code_list_mean": "-359687239",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808378047_144664f325_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808378047_5846a2cbcd_o.png",
+        "id_image": "paramedic_2231095"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809448188_d253638cd7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809448188_47836ab1b6_o.png",
+        "id_image": "paramedic_4310331"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809448138_805ae287c1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809448138_8142af1b98_o.png",
+        "id_image": "paramedic_6036785"
+      }
+    ],
+    "hash_code_list_img": "497771076",
+    "list_definition_mean": [
+      {
+        "mean_english": "hộ lý, nhân viên cấp cứu",
+        "definition": "someone who is trained to help people who are ill or injured, especially in emergency situations, but who is not a doctor or a nurse",
+        "ex_of_definition_list": [
+          "Paramedics treated the injured woman at the scene of the accident."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1816933150"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parasite_cb_dmean_5000_it.json",
+    "id_item": "parasite_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "parasite",
+    "list_mean": [
+      "động/ thực vật ký sinh"
+    ],
+    "hash_code_list_mean": "1460620914",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810069810_86e8373c5e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810069810_5ee500297e_o.png",
+        "id_image": "parasite_4092758"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808377737_bb962c397b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808377737_9b85ae914d_o.png",
+        "id_image": "parasite_5266675"
+      }
+    ],
+    "hash_code_list_img": "746687210",
+    "list_definition_mean": [
+      {
+        "mean_english": "động/ thực vật ký sinh",
+        "definition": "an animal or plant that lives on another animal or plant without giving anything in return",
+        "ex_of_definition_list": [
+          "Fleas are parasites",
+          "He is a parasite on society."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2076071271"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parcel_cb_dmean_5000_it.json",
+    "id_item": "parcel_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "parcel",
+    "list_mean": [
+      "bưu kiện"
+    ],
+    "hash_code_list_mean": "-766049187",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809447953_ce2a0a8261_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809447953_a227489279_o.png",
+        "id_image": "parcel_1988279"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810069640_9df4d539d5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810069640_cb89025c81_o.png",
+        "id_image": "parcel_4586107"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808377602_8feb6f7ee8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808377602_3fa1f6c789_o.png",
+        "id_image": "parcel_4586128"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809687779_8289f49ce2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809687779_c476c2bf81_o.png",
+        "id_image": "parcel_4649818"
+      }
+    ],
+    "hash_code_list_img": "30064592",
+    "list_definition_mean": [
+      {
+        "mean_english": "bưu kiện",
+        "definition": "thing(s) wrapped and tied, usually to be sent by post",
+        "ex_of_definition_list": [
+          "I got a parcel in the post today."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "182174683"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parchment_cb_dmean_5000_it.json",
+    "id_item": "parchment_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "parchment",
+    "list_mean": [
+      "giấy da"
+    ],
+    "hash_code_list_mean": "-1411614170",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809332731_22eceb8a81_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809332731_8dc3ee914d_o.png",
+        "id_image": "parchment_1553791"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809447728_ea5d520111_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809447728_7639791617_o.png",
+        "id_image": "parchment_2858842"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809447683_c3a5986ba4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809447683_ba9f141b9a_o.png",
+        "id_image": "parchment_3317537"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810069430_673780668c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810069430_818794baee_o.png",
+        "id_image": "parchment_5327120"
+      }
+    ],
+    "hash_code_list_img": "1210666799",
+    "list_definition_mean": [
+      {
+        "mean_english": "giấy da",
+        "definition": "a (piece of a) material used for writing on, made from animal skin",
+        "ex_of_definition_list": [
+          "People wrote on parchment in medieval times."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "388165120"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parenthood_cb_dmean_5000_it.json",
+    "id_item": "parenthood_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "parenthood",
+    "list_mean": [
+      "bậc cha mẹ"
+    ],
+    "hash_code_list_mean": "856702967",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809447503_7184f8331b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809447503_422ecc4c6c_o.png",
+        "id_image": "parenthood_4215454"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809332506_b947496032_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809332506_dc86653fcd_o.png",
+        "id_image": "parenthood_859967"
+      }
+    ],
+    "hash_code_list_img": "-1788270033",
+    "list_definition_mean": [
+      {
+        "mean_english": "bậc cha mẹ",
+        "definition": "the state of being a parent",
+        "ex_of_definition_list": [
+          "unplanned parenthood."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "514296977"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parent_cb_dmean_5000_it.json",
+    "id_item": "parent_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "parent",
+    "list_mean": [
+      "cha; mẹ",
+      "cha mẹ nuôi"
+    ],
+    "hash_code_list_mean": "1138866944",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809687549_26bec75ac7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809687549_af65f5ceb7_o.png",
+        "id_image": "parent_6306179"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808377327_3c555d977c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808377327_e1723da80a_o.png",
+        "id_image": "parent_6306230"
+      }
+    ],
+    "hash_code_list_img": "-517605329",
+    "list_definition_mean": [
+      {
+        "mean_english": "cha; mẹ",
+        "definition": "one of the two persons etc (one male and one female) who are jointly the cause of one’s birth",
+        "ex_of_definition_list": [
+          "her doting parents."
+        ]
+      },
+      {
+        "mean_english": "cha mẹ nuôi",
+        "definition": "a person with the legal position of a mother or father eg by adoption",
+        "ex_of_definition_list": [
+          "his adoptive parents."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1195025707"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/park_cb_dmean_5000_it.json",
+    "id_item": "park_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "park",
+    "list_mean": [
+      "công viên",
+      "bãi",
+      "đỗ xe"
+    ],
+    "hash_code_list_mean": "1963289195",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810068915_790de22a4d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810068915_7e56880103_o.png",
+        "id_image": "park_1381963"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808376917_1f4642bc90_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808376917_beb30b6fba_o.png",
+        "id_image": "park_1911298"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810068830_f427595c91_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810068830_4df4ab3098_o.png",
+        "id_image": "park_5389811"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810068980_69c9de947c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810068980_ed21a61f3b_o.png",
+        "id_image": "park_553941"
+      }
+    ],
+    "hash_code_list_img": "1325518062",
+    "list_definition_mean": [
+      {
+        "mean_english": "công viên",
+        "definition": "a public piece of ground with grass and trees",
+        "ex_of_definition_list": [
+          "The children go to the park every morning to play."
+        ]
+      },
+      {
+        "mean_english": "bãi",
+        "definition": "the land surrounding a large country house",
+        "ex_of_definition_list": [
+          "Deer run wild in the park surrounding the mansion."
+        ]
+      },
+      {
+        "mean_english": "đỗ xe",
+        "definition": "to stop and leave (a motor car etc) for a time",
+        "ex_of_definition_list": [
+          "He parked in front of our house."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2055986238"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parliament_cb_dmean_5000_it.json",
+    "id_item": "parliament_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "parliament",
+    "list_mean": [
+      "quốc hội"
+    ],
+    "hash_code_list_mean": "-1557379859",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809686974_e8f2972959_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809686974_8c56be39ff_o.png",
+        "id_image": "parliament_1410741"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809686949_0ff3e23236_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809686949_f29fc21e96_o.png",
+        "id_image": "parliament_1927670"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809686914_2c5b308488_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809686914_d29103f2d6_o.png",
+        "id_image": "parliament_2424197"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809686894_8877ea244b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809686894_1efd276263_o.png",
+        "id_image": "parliament_4457249"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810068495_518dbbc23e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810068495_6a511f2a04_o.png",
+        "id_image": "parliament_4498495"
+      }
+    ],
+    "hash_code_list_img": "690484587",
+    "list_definition_mean": [
+      {
+        "mean_english": "quốc hội",
+        "definition": "the highest law-making council of a nation – in Britain, the House of Commons and the House of Lords, considered together",
+        "ex_of_definition_list": [
+          "an Act of Parliament."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1342958526"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parole_cb_dmean_5000_it.json",
+    "id_item": "parole_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "parole",
+    "list_mean": [
+      "lời hứa danh dự để được ân xá",
+      "ân xá"
+    ],
+    "hash_code_list_mean": "-1612657498",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809331776_794c26f147_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809331776_ecb6975f01_o.png",
+        "id_image": "parole_4458921"
+      }
+    ],
+    "hash_code_list_img": "1124973775",
+    "list_definition_mean": [
+      {
+        "mean_english": "lời hứa danh dự để được ân xá",
+        "definition": "permission that is given to someone to leave prison before the end of their sentence if they agree to obey certain rules and behave well",
+        "ex_of_definition_list": [
+          "He is hoping to be released on parole."
+        ]
+      },
+      {
+        "mean_english": "ân xá",
+        "definition": "to permit someone to leave prison before the end of their sentence if they agree to obey certain rules and behave well",
+        "ex_of_definition_list": [
+          "He was paroled after serving three years of his sentence."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-242702716"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/paroxysm_cb_dmean_5000_it.json",
+    "id_item": "paroxysm_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "paroxysm",
+    "list_mean": [
+      "cơn bộc phát"
+    ],
+    "hash_code_list_mean": "1133175406",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810068410_5c9eb17e7e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810068410_7ea2a91014_o.png",
+        "id_image": "paroxysm_3998108"
+      }
+    ],
+    "hash_code_list_img": "363529344",
+    "list_definition_mean": [
+      {
+        "mean_english": "cơn bộc phát",
+        "definition": "a sudden sharp attack (of pain, rage, laughter etc)",
+        "ex_of_definition_list": [
+          "paroxysms of laughter."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1919747233"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parquet_cb_dmean_5000_it.json",
+    "id_item": "parquet_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "parquet",
+    "list_mean": [
+      "sàn gỗ"
+    ],
+    "hash_code_list_mean": "-792427346",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809686639_f546147fce_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809686639_98f3cb7fe5_o.png",
+        "id_image": "parquet_1207147"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809331701_08ca0a3720_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809331701_42ddc0e9c3_o.png",
+        "id_image": "parquet_252738"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809686669_be1ac868d7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809686669_0477eb6dd3_o.png",
+        "id_image": "parquet_252739"
+      }
+    ],
+    "hash_code_list_img": "1898625892",
+    "list_definition_mean": [
+      {
+        "mean_english": "sàn gỗ",
+        "definition": "a type of floor-covering made of pieces of wood arranged in a design",
+        "ex_of_definition_list": [
+          "flooring made of parquet",
+          "(also adjective) a parquet floor."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "792739113"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parrot_cb_dmean_5000_it.json",
+    "id_item": "parrot_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "parrot",
+    "list_mean": [
+      "con vẹt"
+    ],
+    "hash_code_list_mean": "949284946",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810068315_6308b1c6e9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810068315_fd457b626a_o.png",
+        "id_image": "parrot_1355972"
+      }
+    ],
+    "hash_code_list_img": "1313152953",
+    "list_definition_mean": [
+      {
+        "mean_english": "con vẹt",
+        "definition": "a kind of bird found in warm countries, especially in South America, with a hooked bill and usually brightly-coloured/-colored feathers, that can be taught to imitate human speech",
+        "ex_of_definition_list": [
+          "The parrot was squawking in its cage."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2023156105"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parsley_cb_dmean_5000_it.json",
+    "id_item": "parsley_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "parsley",
+    "list_mean": [
+      "cây mùi tây"
+    ],
+    "hash_code_list_mean": "-2104820255",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809331501_8628974337_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809331501_005aac9909_o.png",
+        "id_image": "parsley_1135507"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809446483_88b0deac8c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809446483_33ab68ccca_o.png",
+        "id_image": "parsley_1407861"
+      }
+    ],
+    "hash_code_list_img": "480993417",
+    "list_definition_mean": [
+      {
+        "mean_english": "cây mùi tây",
+        "definition": "a kind of herb used in cookery to decorate or add flavour to food",
+        "ex_of_definition_list": [
+          "flat-leaf parsley."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2015935626"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/participant_cb_dmean_5000_it.json",
+    "id_item": "participant_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "participant",
+    "list_mean": [
+      "người tham dự"
+    ],
+    "hash_code_list_mean": "-790144753",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809686359_999396b426_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809686359_050cde9dd0_o.png",
+        "id_image": "participant_5957132"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809446288_8dfd8d3d0c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809446288_ba3a71f8b5_o.png",
+        "id_image": "participant_6040649"
+      }
+    ],
+    "hash_code_list_img": "-1694742239",
+    "list_definition_mean": [
+      {
+        "mean_english": "người tham dự",
+        "definition": "a person who participates (in a particular activity)",
+        "ex_of_definition_list": [
+          "the participants in the Olympic Games."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "102027322"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/particle_cb_dmean_5000_it.json",
+    "id_item": "particle_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "particle",
+    "list_mean": [
+      "hạt"
+    ],
+    "hash_code_list_mean": "343162",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810067950_6f855a16fd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810067950_45f5fc5cc1_o.png",
+        "id_image": "particle_1280969"
+      }
+    ],
+    "hash_code_list_img": "1200740643",
+    "list_definition_mean": [
+      {
+        "mean_english": "hạt",
+        "definition": "a very small piece",
+        "ex_of_definition_list": [
+          "a particle of dust."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1730497042"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/partition_cb_dmean_5000_it.json",
+    "id_item": "partition_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "partition",
+    "list_mean": [
+      "bức vách ngăn",
+      "sự phân chia",
+      "phân chia"
+    ],
+    "hash_code_list_mean": "-2094387215",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809446188_0605920acd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809446188_47c1bbfe7e_o.png",
+        "id_image": "partition_360129"
+      }
+    ],
+    "hash_code_list_img": "1057763102",
+    "list_definition_mean": [
+      {
+        "mean_english": "bức vách ngăn",
+        "definition": "something that divides, eg a light, often temporary, wall between rooms",
+        "ex_of_definition_list": [
+          "The office was divided in two by a wooden partition."
+        ]
+      },
+      {
+        "mean_english": "sự phân chia",
+        "definition": "the act of dividing; the state of being divided",
+        "ex_of_definition_list": [
+          "the partition of India."
+        ]
+      },
+      {
+        "mean_english": "phân chia",
+        "definition": "to divide",
+        "ex_of_definition_list": [
+          "They partitioned the room (off) with a curtain."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-922444693"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/partnership_cb_dmean_5000_it.json",
+    "id_item": "partnership_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "partnership",
+    "list_mean": [
+      "sự cộng tác",
+      "sự liên kết"
+    ],
+    "hash_code_list_mean": "1158319037",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809330896_03a6e24868_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809330896_f9dd94b1ea_o.png",
+        "id_image": "partnership_3057916"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809445773_a0ee709702_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809445773_691ccc4352_o.png",
+        "id_image": "partnership_3386878"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809330791_480417b4ee_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809330791_f74da0cd39_o.png",
+        "id_image": "partnership_3775393"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809685799_d37b3c810a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809685799_e2c940786a_o.png",
+        "id_image": "partnership_5138009"
+      }
+    ],
+    "hash_code_list_img": "-1021842859",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự cộng tác",
+        "definition": "the state of being or becoming partners",
+        "ex_of_definition_list": [
+          "a business partnership",
+          "He entered into partnership with his brother."
+        ]
+      },
+      {
+        "mean_english": "sự liên kết",
+        "definition": "people playing together in a game",
+        "ex_of_definition_list": [
+          "The champions were defeated by the partnership of Rutherford and Carragher in the men’s doubles."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1027303838"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/partner_cb_dmean_5000_it.json",
+    "id_item": "partner_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "partner",
+    "list_mean": [
+      "cộng sự",
+      "bạn nhảy/ cùng phe",
+      "cùng nhảy/ cùng chơi"
+    ],
+    "hash_code_list_mean": "178354572",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808375802_df7e969952_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808375802_f35238a438_o.png",
+        "id_image": "partner_1322195"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808375752_7ae4d51b66_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808375752_938ecccb2e_o.png",
+        "id_image": "partner_1806239"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809446003_6e99beb244_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809446003_a80ceeaa04_o.png",
+        "id_image": "partner_4214044"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808375842_3abeac09fb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808375842_60d1b6d2bf_o.png",
+        "id_image": "partner_860504"
+      }
+    ],
+    "hash_code_list_img": "-250303313",
+    "list_definition_mean": [
+      {
+        "mean_english": "cộng sự",
+        "definition": "a person who shares the ownership of a business etc with one or more others",
+        "ex_of_definition_list": [
+          "She was made a partner in the firm."
+        ]
+      },
+      {
+        "mean_english": "bạn nhảy/ cùng phe",
+        "definition": "one of two people who dance, play in a game etc together",
+        "ex_of_definition_list": [
+          "a tennis/dancing partner."
+        ]
+      },
+      {
+        "mean_english": "cùng nhảy/ cùng chơi",
+        "definition": "to be a partner to (someone)",
+        "ex_of_definition_list": [
+          "He partnered his wife in the last dance."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1528624880"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/party_cb_dmean_5000_it.json",
+    "id_item": "party_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "party",
+    "list_mean": [
+      "bữa tiệc",
+      "nhóm",
+      "đảng",
+      "tiệc tùng"
+    ],
+    "hash_code_list_mean": "-1595297702",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810067375_b0f2e2605f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810067375_3449cba6de_o.png",
+        "id_image": "party_1712012"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810067335_8a8a7f75dc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810067335_93634606a6_o.png",
+        "id_image": "party_1809880"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809685534_ff6f643856_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809685534_cd233c04c7_o.png",
+        "id_image": "party_2640240"
+      }
+    ],
+    "hash_code_list_img": "-487523561",
+    "list_definition_mean": [
+      {
+        "mean_english": "bữa tiệc",
+        "definition": "a meeting of guests for entertainment, celebration etc",
+        "ex_of_definition_list": [
+          "a birthday party",
+          "She’s giving/having a party tonight",
+          "(also adjective) a party dress."
+        ]
+      },
+      {
+        "mean_english": "nhóm",
+        "definition": "a group of people with a particular purpose",
+        "ex_of_definition_list": [
+          "a party of tourists."
+        ]
+      },
+      {
+        "mean_english": "đảng",
+        "definition": "a group of people with the same ideas and purposes, especially political",
+        "ex_of_definition_list": [
+          "a political party."
+        ]
+      },
+      {
+        "mean_english": "tiệc tùng",
+        "definition": "to enjoy yourself by eating, drinking, dancing etc with other people",
+        "ex_of_definition_list": [
+          "She was out all night partying again."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1386015190"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/part_cb_dmean_5000_it.json",
+    "id_item": "part_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "part",
+    "list_mean": [
+      "một phần",
+      "phần",
+      "vai diễn",
+      "lời nói của vai kịch",
+      "bè",
+      "trách nhiệm",
+      "chia; tách"
+    ],
+    "hash_code_list_mean": "694492054",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810068090_530cc2268c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810068090_1a53409dda_o.png",
+        "id_image": "part_5605897"
+      }
+    ],
+    "hash_code_list_img": "90023646",
+    "list_definition_mean": [
+      {
+        "mean_english": "một phần",
+        "definition": "something which, together with other things, makes a whole; a piece",
+        "ex_of_definition_list": [
+          "We spent part of the time at home and part at the seaside."
+        ]
+      },
+      {
+        "mean_english": "phần",
+        "definition": "an equal division",
+        "ex_of_definition_list": [
+          "He divided the cake into three parts."
+        ]
+      },
+      {
+        "mean_english": "vai diễn",
+        "definition": "a character in a play etc",
+        "ex_of_definition_list": [
+          "She played the part of the queen."
+        ]
+      },
+      {
+        "mean_english": "lời nói của vai kịch",
+        "definition": "the words, actions etc of a character in a play etc",
+        "ex_of_definition_list": [
+          "He learned his part quickly."
+        ]
+      },
+      {
+        "mean_english": "bè",
+        "definition": "in music, the notes to be played or sung by a particular instrument or voice",
+        "ex_of_definition_list": [
+          "the violin part."
+        ]
+      },
+      {
+        "mean_english": "trách nhiệm",
+        "definition": "a person’s share, responsibility etc in doing something",
+        "ex_of_definition_list": [
+          "He played a great part in the company’s success."
+        ]
+      },
+      {
+        "mean_english": "chia; tách",
+        "definition": "to separate; to divide",
+        "ex_of_definition_list": [
+          "They parted (from each other) at the gate."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1661321489"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/passenger_cb_dmean_5000_it.json",
+    "id_item": "passenger_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "passenger",
+    "list_mean": [
+      "hành khách"
+    ],
+    "hash_code_list_mean": "1454503482",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809330326_6e8e3f74b2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809330326_42dcff1346_o.png",
+        "id_image": "passenger_1178842"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810067185_05f54b6f93_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810067185_643f8b9a2e_o.png",
+        "id_image": "passenger_1178844"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809330256_2117457127_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809330256_37c4020bbf_o.png",
+        "id_image": "passenger_1523915"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809445208_0730d753c5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809445208_6cd4e9277c_o.png",
+        "id_image": "passenger_2248059"
+      }
+    ],
+    "hash_code_list_img": "-1533404877",
+    "list_definition_mean": [
+      {
+        "mean_english": "hành khách",
+        "definition": "a person who travels in any vehicle, boat, aeroplane/airplane etc (not the driver or anyone working there)",
+        "ex_of_definition_list": [
+          "a passenger on a train",
+          "(also adjective) a passenger train."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "974082400"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/passionate_cb_dmean_5000_it.json",
+    "id_item": "passionate_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "passionate",
+    "list_mean": [
+      "nồng nàn"
+    ],
+    "hash_code_list_mean": "-119109095",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809330031_6fa6378ce1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809330031_7949cf5e15_o.png",
+        "id_image": "passionate_2617776"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809330006_4f3ff63bd9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809330006_c05a4ced42_o.png",
+        "id_image": "passionate_4158008"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808374632_60f150083b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808374632_d0064cde5b_o.png",
+        "id_image": "passionate_5230548"
+      }
+    ],
+    "hash_code_list_img": "-664906828",
+    "list_definition_mean": [
+      {
+        "mean_english": "nồng nàn",
+        "definition": "having very strong feelings; intense or emotional",
+        "ex_of_definition_list": [
+          "a passionate woman",
+          "passionate hatred."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1103456591"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/passion_cb_dmean_5000_it.json",
+    "id_item": "passion_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "passion",
+    "list_mean": [
+      "sự say mê"
+    ],
+    "hash_code_list_mean": "797860883",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808374777_90737255c3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808374777_cfa84f841c_o.png",
+        "id_image": "passion_1935509"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809330081_f5a1e6809f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809330081_18bec7d33c_o.png",
+        "id_image": "passion_4729366"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808374867_1564e1d29a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808374867_09d22fcc94_o.png",
+        "id_image": "passion_536902"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810066960_2a25e434ff_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810066960_ff54f5f4a4_o.png",
+        "id_image": "passion_552429"
+      }
+    ],
+    "hash_code_list_img": "-44088183",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự say mê",
+        "definition": "very strong feeling, especially of anger or love",
+        "ex_of_definition_list": [
+          "He argued with great passion",
+          "He has a passion for chocolate."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1688211455"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/passport_cb_dmean_5000_it.json",
+    "id_item": "passport_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "passport",
+    "list_mean": [
+      "hộ chiếu"
+    ],
+    "hash_code_list_mean": "1104594922",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809684749_5475b50d8e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809684749_ee71691fe6_o.png",
+        "id_image": "passport_169452"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809444703_0d4acdda46_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809444703_e13292b2b6_o.png",
+        "id_image": "passport_495969"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808374327_df6e017fb2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808374327_ab6c508a79_o.png",
+        "id_image": "passport_807674"
+      }
+    ],
+    "hash_code_list_img": "-1858988887",
+    "list_definition_mean": [
+      {
+        "mean_english": "hộ chiếu",
+        "definition": "a document of identification, necessary for foreign travel",
+        "ex_of_definition_list": [
+          "a British passport."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1339490615"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/password_cb_dmean_5000_it.json",
+    "id_item": "password_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "password",
+    "list_mean": [
+      "mật khẩu"
+    ],
+    "hash_code_list_mean": "-1118651084",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808374247_6c68d93e90_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808374247_564853eb3f_o.png",
+        "id_image": "password_121177"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810066370_df8a881842_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810066370_5072fbf3b6_o.png",
+        "id_image": "password_180954"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809684524_b91a314024_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809684524_7379f64037_o.png",
+        "id_image": "password_406061"
+      }
+    ],
+    "hash_code_list_img": "-1677392518",
+    "list_definition_mean": [
+      {
+        "mean_english": "mật khẩu",
+        "definition": "a secret word by which those who know it can recognize each other and be allowed to go past, enter etc",
+        "ex_of_definition_list": [
+          "You have to enter your password before you can use the computer.",
+          "He was not allowed into the army camp because he did not know the password."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1350450838"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pass_cb_dmean_5000_it.json",
+    "id_item": "pass_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "pass",
+    "list_mean": [
+      "đi ngang qua",
+      "chuyển/ truyền lại",
+      "vượt quá",
+      "vượt qua",
+      "trải qua",
+      "thông qua",
+      "tuyên bố",
+      "kết thúc",
+      "thi đỗ",
+      "đường đèo",
+      "giấy phép ra vào",
+      "thi đỗ",
+      "sự chuyền bóng"
+    ],
+    "hash_code_list_mean": "807062108",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809445408_7bd85eeed0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809445408_6f01cbdf99_o.png",
+        "id_image": "pass_589871"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808375082_262733e5b4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808375082_d698198852_o.png",
+        "id_image": "pass_6080089"
+      }
+    ],
+    "hash_code_list_img": "1617619532",
+    "list_definition_mean": [
+      {
+        "mean_english": "đi ngang qua",
+        "definition": "to move towards and then beyond (something, by going past, through, by, over etc)",
+        "ex_of_definition_list": [
+          "I pass the shops on my way to work",
+          "The procession passed along the corridor."
+        ]
+      },
+      {
+        "mean_english": "chuyển/ truyền lại",
+        "definition": "to move, give etc from one person, state etc to another",
+        "ex_of_definition_list": [
+          "They passed the photographs around",
+          "The tradition is passed (on/down) from father to son."
+        ]
+      },
+      {
+        "mean_english": "vượt quá",
+        "definition": "to go or be beyond",
+        "ex_of_definition_list": [
+          "This passes my understanding."
+        ]
+      },
+      {
+        "mean_english": "vượt qua",
+        "definition": "(of vehicles etc on a road) to overtake",
+        "ex_of_definition_list": [
+          "The sports car passed me on a dangerous bend in the road."
+        ]
+      },
+      {
+        "mean_english": "trải qua",
+        "definition": "to spend (time)",
+        "ex_of_definition_list": [
+          "They passed several weeks in the country."
+        ]
+      },
+      {
+        "mean_english": "thông qua",
+        "definition": "(of an official group, government etc) to accept or approve",
+        "ex_of_definition_list": [
+          "The government has passed a resolution."
+        ]
+      },
+      {
+        "mean_english": "tuyên bố",
+        "definition": "to give or announce (a judgement or sentence)",
+        "ex_of_definition_list": [
+          "The magistrate passed judgement on the prisoner."
+        ]
+      },
+      {
+        "mean_english": "kết thúc",
+        "definition": "to end or go away",
+        "ex_of_definition_list": [
+          "His sickness soon passed."
+        ]
+      },
+      {
+        "mean_english": "thi đỗ",
+        "definition": "to (judge to) be successful in (an examination etc)",
+        "ex_of_definition_list": [
+          "I passed my driving test."
+        ]
+      },
+      {
+        "mean_english": "đường đèo",
+        "definition": "a narrow path between mountains",
+        "ex_of_definition_list": [
+          "a mountain pass."
+        ]
+      },
+      {
+        "mean_english": "giấy phép ra vào",
+        "definition": "a ticket or card allowing a person to do something, eg to travel free or to get in to a building",
+        "ex_of_definition_list": [
+          "You must show your pass before entering."
+        ]
+      },
+      {
+        "mean_english": "thi đỗ",
+        "definition": "a successful result in an examination, especially when below a distinction, honours etc",
+        "ex_of_definition_list": [
+          "There were ten passes and no fails."
+        ]
+      },
+      {
+        "mean_english": "sự chuyền bóng",
+        "definition": "(in ball games) a throw, kick, hit etc of the ball from one player to another",
+        "ex_of_definition_list": [
+          "The centre-forward made a pass towards the goal."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-735169205"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pasta_cb_dmean_5000_it.json",
+    "id_item": "pasta_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "pasta",
+    "list_mean": [
+      "mì ống"
+    ],
+    "hash_code_list_mean": "-947900696",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809444378_6f9c519d32_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809444378_9a49c69b97_o.png",
+        "id_image": "pasta_4127288"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809329481_ca6fa9a3d2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809329481_8086f5efdc_o.png",
+        "id_image": "pasta_805320"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809444418_246cd7486d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809444418_92b111b4fb_o.png",
+        "id_image": "pasta_872435"
+      }
+    ],
+    "hash_code_list_img": "2090086315",
+    "list_definition_mean": [
+      {
+        "mean_english": "mì ống",
+        "definition": "a dough used in Italian cooking for making spaghetti, macaroni etc",
+        "ex_of_definition_list": [
+          "a bowl of pasta."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1755429712"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pastel_cb_dmean_5000_it.json",
+    "id_item": "pastel_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "pastel",
+    "list_mean": [
+      "màu nhạt",
+      "phấn màu",
+      "tranh vẽ bằng phấn màu"
+    ],
+    "hash_code_list_mean": "-308376532",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810066010_d5dee582b5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810066010_83b9014936_o.png",
+        "id_image": "pastel_4424490"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809329181_0d8fde97bc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809329181_b18b08147e_o.png",
+        "id_image": "pastel_5854311"
+      }
+    ],
+    "hash_code_list_img": "1783746839",
+    "list_definition_mean": [
+      {
+        "mean_english": "màu nhạt",
+        "definition": "(of colours/colors) pale, containing a lot of white",
+        "ex_of_definition_list": [
+          "a soft pastel green."
+        ]
+      },
+      {
+        "mean_english": "phấn màu",
+        "definition": "a kind of coloured/colored pencil, made with chalk, which makes a pale colour/color",
+        "ex_of_definition_list": [
+          "She works mainly in pastels."
+        ]
+      },
+      {
+        "mean_english": "tranh vẽ bằng phấn màu",
+        "definition": "a picture drawn with this kind of pencil",
+        "ex_of_definition_list": [
+          "He began making pastels in 1902."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1677235213"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/paste_cb_dmean_5000_it.json",
+    "id_item": "paste_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "paste",
+    "list_mean": [
+      "hồ bột",
+      "bột nhão",
+      "patê"
+    ],
+    "hash_code_list_mean": "2062380485",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810066070_8a520ee776_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810066070_3e251ac83e_o.png",
+        "id_image": "paste_2932791"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808373952_767a414b4f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808373952_75da04df49_o.png",
+        "id_image": "paste_3645904"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809684289_eb949f40f3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809684289_5d136bc8da_o.png",
+        "id_image": "paste_391316"
+      }
+    ],
+    "hash_code_list_img": "843879452",
+    "list_definition_mean": [
+      {
+        "mean_english": "hồ bột",
+        "definition": "a soft, damp mixture, especially one made up of glue and water and used for sticking pieces of paper etc together",
+        "ex_of_definition_list": [
+          "wallpaper paste."
+        ]
+      },
+      {
+        "mean_english": "bột nhão",
+        "definition": "a mixture of flour, fat etc used for making pies, pastry etc",
+        "ex_of_definition_list": [
+          "Add the flour, a little at a time, to make a thick paste."
+        ]
+      },
+      {
+        "mean_english": "patê",
+        "definition": "a mixture made from some types of food",
+        "ex_of_definition_list": [
+          "tomato paste",
+          "almond paste."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2048766237"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pastime_cb_dmean_5000_it.json",
+    "id_item": "pastime_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "pastime",
+    "list_mean": [
+      "sự giải trí"
+    ],
+    "hash_code_list_mean": "-887674440",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810065930_20ece8d7ee_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810065930_b30886676f_o.png",
+        "id_image": "pastime_1907770"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809684069_8c6db89fb0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809684069_43fe895124_o.png",
+        "id_image": "pastime_2241455"
+      }
+    ],
+    "hash_code_list_img": "-1479608984",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự giải trí",
+        "definition": "an occupation which one enjoys and takes part in during one’s spare time; hobby",
+        "ex_of_definition_list": [
+          "Playing chess is his favourite pastime."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2112012731"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pastry_cb_dmean_5000_it.json",
+    "id_item": "pastry_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "pastry",
+    "list_mean": [
+      "bột nhão",
+      "bánh ngọt"
+    ],
+    "hash_code_list_mean": "-436408353",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809328876_c0ba398e10_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809328876_071296b09b_o.png",
+        "id_image": "pastry_1056801"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810065670_3091b47335_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810065670_9ce3983407_o.png",
+        "id_image": "pastry_2484312"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809328791_d97ec93bb2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809328791_b1b517a7b7_o.png",
+        "id_image": "pastry_5293914"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809683824_5249cd8063_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809683824_04445a6b40_o.png",
+        "id_image": "pastry_6299639"
+      }
+    ],
+    "hash_code_list_img": "-1355487468",
+    "list_definition_mean": [
+      {
+        "mean_english": "bột nhão",
+        "definition": "flour paste used in making pies, tarts etc",
+        "ex_of_definition_list": [
+          "puff pastry."
+        ]
+      },
+      {
+        "mean_english": "bánh ngọt",
+        "definition": "a pie, tart etc made with this",
+        "ex_of_definition_list": [
+          "Danish pastries."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "260296216"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pasty_cb_dmean_5000_it.json",
+    "id_item": "pasty_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "pasty",
+    "list_mean": [
+      "bánh pasty"
+    ],
+    "hash_code_list_mean": "830433951",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809443703_a16fa5aed9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809443703_d7b37348ed_o.png",
+        "id_image": "pasty_641890"
+      }
+    ],
+    "hash_code_list_img": "2004057693",
+    "list_definition_mean": [
+      {
+        "mean_english": "bánh pasty",
+        "definition": "a small pie made by wrapping pastry around meat, vegetables, or cheese and baking it",
+        "ex_of_definition_list": [
+          "a Cornish pasty."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "905774072"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/past_cb_dmean_5000_it.json",
+    "id_item": "past_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "past",
+    "list_mean": [
+      "quá khứ",
+      "đã qua",
+      "thời quá khứ",
+      "qua",
+      "quá",
+      "qua",
+      "quá khứ",
+      "thời quá khứ"
+    ],
+    "hash_code_list_mean": "-560170565",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810066275_3736caac84_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810066275_34baccc712_o.png",
+        "id_image": "past_6214151"
+      }
+    ],
+    "hash_code_list_img": "349810241",
+    "list_definition_mean": [
+      {
+        "mean_english": "quá khứ",
+        "definition": "just finished",
+        "ex_of_definition_list": [
+          "the past year."
+        ]
+      },
+      {
+        "mean_english": "đã qua",
+        "definition": "over, finished or ended, of an earlier time than the present",
+        "ex_of_definition_list": [
+          "The time for discussion is past."
+        ]
+      },
+      {
+        "mean_english": "thời quá khứ",
+        "definition": "(of the tense of a verb) indicating action in the past",
+        "ex_of_definition_list": [
+          "In ‘He did it’, the verb is in the past tense."
+        ]
+      },
+      {
+        "mean_english": "qua",
+        "definition": "up to and beyond; by",
+        "ex_of_definition_list": [
+          "He ran past me."
+        ]
+      },
+      {
+        "mean_english": "quá",
+        "definition": "after",
+        "ex_of_definition_list": [
+          "It’s past six o’clock."
+        ]
+      },
+      {
+        "mean_english": "qua",
+        "definition": "up to and beyond (a particular place, person etc)",
+        "ex_of_definition_list": [
+          "The soldiers marched past."
+        ]
+      },
+      {
+        "mean_english": "quá khứ",
+        "definition": "a person’s earlier life or career, especially if secret or not respectable",
+        "ex_of_definition_list": [
+          "He never spoke about his past."
+        ]
+      },
+      {
+        "mean_english": "thời quá khứ",
+        "definition": "the past tense",
+        "ex_of_definition_list": [
+          "a verb in the past."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "2084396072"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/patchwork_cb_dmean_5000_it.json",
+    "id_item": "patchwork_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "patchwork",
+    "list_mean": [
+      "miếng vải chắp vá"
+    ],
+    "hash_code_list_mean": "54924124",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809683624_d823ba6cc2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809683624_d537fdbc7c_o.png",
+        "id_image": "patchwork_2133960"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808373227_4cdceaef91_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808373227_d8ed82b4d2_o.png",
+        "id_image": "patchwork_6306788"
+      }
+    ],
+    "hash_code_list_img": "-897899894",
+    "list_definition_mean": [
+      {
+        "mean_english": "miếng vải chắp vá",
+        "definition": "cloth made by sewing small pieces of material together",
+        "ex_of_definition_list": [
+          "a skirt made of patchwork",
+          "(also adjective) a patchwork quilt."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "367559135"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/patch_cb_dmean_5000_it.json",
+    "id_item": "patch_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "patch",
+    "list_mean": [
+      "miếng vá",
+      "khoảng đất nhỏ",
+      "vá"
+    ],
+    "hash_code_list_mean": "103093978",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809683734_f01afbbd0b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809683734_721c47b612_o.png",
+        "id_image": "patch_401554"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810065495_f0476093b8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810065495_02ff8b3657_o.png",
+        "id_image": "patch_4299245"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810065430_450dc6b816_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810065430_9e3f543a3c_o.png",
+        "id_image": "patch_4539324"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810065370_2ff98098f4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810065370_9307677df0_o.png",
+        "id_image": "patch_6147341"
+      }
+    ],
+    "hash_code_list_img": "342287370",
+    "list_definition_mean": [
+      {
+        "mean_english": "miếng vá",
+        "definition": "a piece of material sewn on to cover a hole",
+        "ex_of_definition_list": [
+          "She sewed a patch on the knee of her jeans."
+        ]
+      },
+      {
+        "mean_english": "khoảng đất nhỏ",
+        "definition": "a small piece of ground",
+        "ex_of_definition_list": [
+          "a vegetable patch."
+        ]
+      },
+      {
+        "mean_english": "vá",
+        "definition": "to mend (clothes etc) by sewing on pieces of material",
+        "ex_of_definition_list": [
+          "She patched the (hole in the) child’s trousers."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1670891047"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/patent_cb_dmean_5000_it.json",
+    "id_item": "patent_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "patent",
+    "list_mean": [
+      "bằng sáng chế",
+      "được cấp bằng sáng chế"
+    ],
+    "hash_code_list_mean": "1537894222",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809443448_366b4f5595_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809443448_c48f975101_o.png",
+        "id_image": "patent_2361734"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809683514_db16729635_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809683514_1726d83d0d_o.png",
+        "id_image": "patent_3528898"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810065165_be5b91806e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810065165_3112fc1125_o.png",
+        "id_image": "patent_4391616"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808373097_9b14797f59_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808373097_e7108d70fd_o.png",
+        "id_image": "patent_5352130"
+      }
+    ],
+    "hash_code_list_img": "405159113",
+    "list_definition_mean": [
+      {
+        "mean_english": "bằng sáng chế",
+        "definition": "an official licence/license from the government giving one person or business the right to make and sell a particular article and to prevent others from doing the same",
+        "ex_of_definition_list": [
+          "She took out a patent on her design",
+          "(also adjective) a patent process."
+        ]
+      },
+      {
+        "mean_english": "được cấp bằng sáng chế",
+        "definition": "to obtain a patent for; He patented his new invention."
+      }
+    ],
+    "hash_code_list_definition_mean": "-843404079"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/paternity_cb_dmean_5000_it.json",
+    "id_item": "paternity_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "paternity",
+    "list_mean": [
+      "cương vị làm cha"
+    ],
+    "hash_code_list_mean": "-66932548",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810065105_c8f8b5eb56_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810065105_9733ff7230_o.png",
+        "id_image": "paternity_5904087"
+      }
+    ],
+    "hash_code_list_img": "1187025875",
+    "list_definition_mean": [
+      {
+        "mean_english": "cương vị làm cha",
+        "definition": "the fact or state of being a father",
+        "ex_of_definition_list": [
+          "(also adjective) paternity leave."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1922191160"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pathology_cb_dmean_5000_it.json",
+    "id_item": "pathology_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "pathology",
+    "list_mean": [
+      "bệnh lý học"
+    ],
+    "hash_code_list_mean": "-874856625",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810064850_5a27e0d04f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810064850_14530c497c_o.png",
+        "id_image": "pathology_3335884"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809443123_5fa3596d20_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809443123_00fe66ae8d_o.png",
+        "id_image": "pathology_3974916"
+      }
+    ],
+    "hash_code_list_img": "1036156574",
+    "list_definition_mean": [
+      {
+        "mean_english": "bệnh lý học",
+        "definition": "the science of diseases",
+        "ex_of_definition_list": [
+          "the Department of Pathology."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1341130851"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pathway_cb_dmean_5000_it.json",
+    "id_item": "pathway_cb_dmean_5000_it",
+    "id_album": "102079919",
+    "english": "pathway",
+    "list_mean": [
+      "đường mòn; đường nhỏ"
+    ],
+    "hash_code_list_mean": "524449766",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809328016_9c9cd58b7e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809328016_c282f1c88e_o.png",
+        "id_image": "pathway_4146248"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809327956_08e9f88e00_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809327956_aaaa384ff4_o.png",
+        "id_image": "pathway_5573841"
+      }
+    ],
+    "hash_code_list_img": "-2115862202",
+    "list_definition_mean": [
+      {
+        "mean_english": "đường mòn; đường nhỏ",
+        "definition": "a path",
+        "ex_of_definition_list": [
+          "The pathway led down to the beach."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "41646386"
+  }
+]
