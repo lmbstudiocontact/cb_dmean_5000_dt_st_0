@@ -31,7 +31,7 @@
         "id_image": "platform_6213821"
       }
     ],
-    "hash_code_list_img": "-1586335453",
+    "hash_code_list_img": "-1584183196",
     "list_definition_mean": [
       {
         "mean_english": "sân ga",
@@ -49,7 +49,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1992506445"
+    "hash_code_list_definition_mean": "1948068739"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/platter_cb_dmean_5000_it.json",
@@ -77,7 +77,7 @@
         "id_image": "platter_6118294"
       }
     ],
-    "hash_code_list_img": "-543347434",
+    "hash_code_list_img": "1636940726",
     "list_definition_mean": [
       {
         "mean_english": "đĩa phẳng (bằng gỗ để đựng thức ăn)",
@@ -87,7 +87,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "2082419012"
+    "hash_code_list_definition_mean": "724030962"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/playful_cb_dmean_5000_it.json",
@@ -106,7 +106,7 @@
         "id_image": "playful_1612468"
       }
     ],
-    "hash_code_list_img": "1380336989",
+    "hash_code_list_img": "485281992",
     "list_definition_mean": [
       {
         "mean_english": "đùa nghịch",
@@ -123,7 +123,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1804306520"
+    "hash_code_list_definition_mean": "-546749165"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/playground_cb_dmean_5000_it.json",
@@ -156,7 +156,7 @@
         "id_image": "playground_4598508"
       }
     ],
-    "hash_code_list_img": "-2080584990",
+    "hash_code_list_img": "-737519049",
     "list_definition_mean": [
       {
         "mean_english": "sân chơi",
@@ -166,7 +166,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "698325664"
+    "hash_code_list_definition_mean": "1210243008"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/playtime_cb_dmean_5000_it.json",
@@ -184,7 +184,7 @@
         "id_image": "playtime_1702342"
       }
     ],
-    "hash_code_list_img": "19262790",
+    "hash_code_list_img": "2101686420",
     "list_definition_mean": [
       {
         "mean_english": "giờ ra chơi",
@@ -194,7 +194,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "866796357"
+    "hash_code_list_definition_mean": "1941379412"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/play_cb_dmean_5000_it.json",
@@ -206,7 +206,6 @@
       "chơi",
       "đóng vai",
       "biểu diễn",
-      "biểu diễn",
       "chơi khăm",
       "đấu với",
       "vụt qua",
@@ -217,7 +216,7 @@
       "cuộc thi đấu",
       "sự vận hành"
     ],
-    "hash_code_list_mean": "-976234759",
+    "hash_code_list_mean": "-2082294504",
     "list_img": [
       {
         "link_thumb": "https://live.staticflickr.com/65535/51808386442_e988be2b53_n.jpg",
@@ -235,7 +234,7 @@
         "id_image": "play_814147"
       }
     ],
-    "hash_code_list_img": "-2076829931",
+    "hash_code_list_img": "987614373",
     "list_definition_mean": [
       {
         "mean_english": "nô đùa",
@@ -335,13 +334,9 @@
         "ex_of_definition_list": [
           "At the start of today’s play, England was leading India by fifteen runs."
         ]
-      },
-      {
-        "mean_english": "sự vận hành",
-        "definition": "freedom of movement (eg in part of a machine)."
       }
     ],
-    "hash_code_list_definition_mean": "185226658"
+    "hash_code_list_definition_mean": "-1462628047"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/please_cb_dmean_5000_it.json",
@@ -371,7 +366,7 @@
         "id_image": "please_6171972"
       }
     ],
-    "hash_code_list_img": "2028830371",
+    "hash_code_list_img": "-729927898",
     "list_definition_mean": [
       {
         "mean_english": "làm hài lòng",
@@ -398,7 +393,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "593699546"
+    "hash_code_list_definition_mean": "-1432312057"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pleasure_cb_dmean_5000_it.json",
@@ -416,7 +411,7 @@
         "id_image": "pleasure_6213834"
       }
     ],
-    "hash_code_list_img": "132158185",
+    "hash_code_list_img": "1386207934",
     "list_definition_mean": [
       {
         "mean_english": "điều thú vị",
@@ -427,7 +422,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1412114382"
+    "hash_code_list_definition_mean": "1145512150"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pledge_cb_dmean_5000_it.json",
@@ -449,7 +444,7 @@
         "id_image": "pledge_1279711"
       }
     ],
-    "hash_code_list_img": "1197177228",
+    "hash_code_list_img": "1927960211",
     "list_definition_mean": [
       {
         "mean_english": "lời hứa",
@@ -487,7 +482,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1038779130"
+    "hash_code_list_definition_mean": "1354427805"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/plot_cb_dmean_5000_it.json",
@@ -498,10 +493,9 @@
       "âm mưu",
       "cốt truyện",
       "mảnh đất nhỏ",
-      "âm mưu",
       "vẽ sơ đồ"
     ],
-    "hash_code_list_mean": "-1528317764",
+    "hash_code_list_mean": "1793206717",
     "list_img": [
       {
         "link_thumb": "https://live.staticflickr.com/65535/51809455273_ab424ee71f_n.jpg",
@@ -524,7 +518,7 @@
         "id_image": "plot_6348179"
       }
     ],
-    "hash_code_list_img": "-1975501080",
+    "hash_code_list_img": "352366261",
     "list_definition_mean": [
       {
         "mean_english": "âm mưu",
@@ -562,7 +556,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1255505501"
+    "hash_code_list_definition_mean": "-1914998693"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/plug_cb_dmean_5000_it.json",
@@ -592,7 +586,7 @@
         "id_image": "plug_403182"
       }
     ],
-    "hash_code_list_img": "-150529341",
+    "hash_code_list_img": "-1642384003",
     "list_definition_mean": [
       {
         "mean_english": "phích cắm",
@@ -616,7 +610,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "729299639"
+    "hash_code_list_definition_mean": "-583036572"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/plumber_cb_dmean_5000_it.json",
@@ -644,7 +638,7 @@
         "id_image": "plumber_4457516"
       }
     ],
-    "hash_code_list_img": "-2095928646",
+    "hash_code_list_img": "26344511",
     "list_definition_mean": [
       {
         "mean_english": "thợ ống nước",
@@ -654,7 +648,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "831253203"
+    "hash_code_list_definition_mean": "1673413991"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/plummet_cb_dmean_5000_it.json",
@@ -673,7 +667,7 @@
         "id_image": "plummet_1638523"
       }
     ],
-    "hash_code_list_img": "418472763",
+    "hash_code_list_img": "1644323020",
     "list_definition_mean": [
       {
         "mean_english": "lao thẳng xuống",
@@ -681,13 +675,9 @@
         "ex_of_definition_list": [
           "The rock plummeted to the bottom of the cliff."
         ]
-      },
-      {
-        "mean_english": "dây dọi",
-        "definition": "an indicator hung down to see if something is vertical."
       }
     ],
-    "hash_code_list_definition_mean": "-213574251"
+    "hash_code_list_definition_mean": "92510204"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/plum_cb_dmean_5000_it.json",
@@ -715,7 +705,7 @@
         "id_image": "plum_3800523"
       }
     ],
-    "hash_code_list_img": "1508896737",
+    "hash_code_list_img": "1060737671",
     "list_definition_mean": [
       {
         "mean_english": "quả mận",
@@ -726,7 +716,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "61693880"
+    "hash_code_list_definition_mean": "560752708"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/plush_cb_dmean_5000_it.json",
@@ -744,7 +734,7 @@
         "id_image": "plush_1482293"
       }
     ],
-    "hash_code_list_img": "1790696701",
+    "hash_code_list_img": "1547358532",
     "list_definition_mean": [
       {
         "mean_english": "sang trọng",
@@ -754,7 +744,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1069508358"
+    "hash_code_list_definition_mean": "794026140"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/plus_cb_dmean_5000_it.json",
@@ -784,7 +774,7 @@
         "id_image": "plus_5982800"
       }
     ],
-    "hash_code_list_img": "-1495696233",
+    "hash_code_list_img": "831533883",
     "list_definition_mean": [
       {
         "mean_english": "cộng",
@@ -792,10 +782,6 @@
         "ex_of_definition_list": [
           "Two plus three equals five (2 + 3 = 5)."
         ]
-      },
-      {
-        "mean_english": "phép cộng; dấu dương",
-        "definition": "(also plus sign) a sign (+) used to show addition or positive quality."
       },
       {
         "mean_english": "dương",
@@ -806,7 +792,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "316093222"
+    "hash_code_list_definition_mean": "-1792291931"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pneumatic_cb_dmean_5000_it.json",
@@ -825,7 +811,7 @@
         "id_image": "pneumatic_951028"
       }
     ],
-    "hash_code_list_img": "1166203429",
+    "hash_code_list_img": "1821826171",
     "list_definition_mean": [
       {
         "mean_english": "đầy không khí",
@@ -842,7 +828,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "434883718"
+    "hash_code_list_definition_mean": "-863406128"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pneumonia_cb_dmean_5000_it.json",
@@ -870,7 +856,7 @@
         "id_image": "pneumonia_4171527"
       }
     ],
-    "hash_code_list_img": "1793614023",
+    "hash_code_list_img": "-527580394",
     "list_definition_mean": [
       {
         "mean_english": "viêm phổi",
@@ -880,7 +866,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1379795387"
+    "hash_code_list_definition_mean": "1639379622"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pocket_cb_dmean_5000_it.json",
@@ -913,7 +899,7 @@
         "id_image": "pocket_532027"
       }
     ],
-    "hash_code_list_img": "-852471169",
+    "hash_code_list_img": "-1130258658",
     "list_definition_mean": [
       {
         "mean_english": "túi",
@@ -961,7 +947,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "223536673"
+    "hash_code_list_definition_mean": "-446313182"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/poetry_cb_dmean_5000_it.json",
@@ -990,7 +976,7 @@
         "id_image": "poetry_5320497"
       }
     ],
-    "hash_code_list_img": "1806598349",
+    "hash_code_list_img": "2034797318",
     "list_definition_mean": [
       {
         "mean_english": "thi ca",
@@ -1007,7 +993,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "50192949"
+    "hash_code_list_definition_mean": "-2039777903"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/poet_cb_dmean_5000_it.json",
@@ -1035,7 +1021,7 @@
         "id_image": "poet_4545072"
       }
     ],
-    "hash_code_list_img": "-974890292",
+    "hash_code_list_img": "-2097265899",
     "list_definition_mean": [
       {
         "mean_english": "nhà thơ",
@@ -1045,7 +1031,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "623180254"
+    "hash_code_list_definition_mean": "1405108841"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pointer_cb_dmean_5000_it.json",
@@ -1080,12 +1066,8 @@
         "id_image": "pointer_3858340"
       }
     ],
-    "hash_code_list_img": "1960375057",
+    "hash_code_list_img": "-31367474",
     "list_definition_mean": [
-      {
-        "mean_english": "que chỉ bản đồ",
-        "definition": "a long stick used to indicate places on a large map etc."
-      },
       {
         "mean_english": "kim",
         "definition": "an indicator on a dial",
@@ -1101,7 +1083,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1959336041"
+    "hash_code_list_definition_mean": "1269316776"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/point_cb_dmean_5000_it.json",
@@ -1148,7 +1130,7 @@
         "id_image": "point_682533"
       }
     ],
-    "hash_code_list_img": "513528563",
+    "hash_code_list_img": "-377191951",
     "list_definition_mean": [
       {
         "mean_english": "đầu nhọn",
@@ -1195,10 +1177,6 @@
         "ex_of_definition_list": [
           "the boiling point of water."
         ]
-      },
-      {
-        "mean_english": "điểm trên la bàn",
-        "definition": "a division on a compass eg north, south-west etc."
       },
       {
         "mean_english": "điểm thi đấu",
@@ -1253,13 +1231,9 @@
           "He pointed (his finger) at the door",
           "He pointed to a sign."
         ]
-      },
-      {
-        "mean_english": "vá, lấp",
-        "definition": "to fill worn places in (a stone or brick wall etc) with mortar."
       }
     ],
-    "hash_code_list_definition_mean": "21061890"
+    "hash_code_list_definition_mean": "1108968853"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/poisonous_cb_dmean_5000_it.json",
@@ -1287,7 +1261,7 @@
         "id_image": "poisonous_5671517"
       }
     ],
-    "hash_code_list_img": "-400114970",
+    "hash_code_list_img": "-1352120489",
     "list_definition_mean": [
       {
         "mean_english": "có độc",
@@ -1298,7 +1272,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1423709785"
+    "hash_code_list_definition_mean": "544430284"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/poison_cb_dmean_5000_it.json",
@@ -1323,7 +1297,7 @@
         "id_image": "poison_921807"
       }
     ],
-    "hash_code_list_img": "-240474625",
+    "hash_code_list_img": "-954670816",
     "list_definition_mean": [
       {
         "mean_english": "chất độc",
@@ -1348,7 +1322,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1259367734"
+    "hash_code_list_definition_mean": "1594169726"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/poker_cb_dmean_5000_it.json",
@@ -1372,7 +1346,7 @@
         "id_image": "poker_5558277"
       }
     ],
-    "hash_code_list_img": "1164464153",
+    "hash_code_list_img": "-159905447",
     "list_definition_mean": [
       {
         "mean_english": "que cời lửa",
@@ -1380,13 +1354,9 @@
         "ex_of_definition_list": [
           "a red-hot poker."
         ]
-      },
-      {
-        "mean_english": "sự chơi bài",
-        "definition": "a kind of card game usually played for money."
       }
     ],
-    "hash_code_list_definition_mean": "-605279469"
+    "hash_code_list_definition_mean": "1593443864"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/poke_cb_dmean_5000_it.json",
@@ -1422,7 +1392,7 @@
         "id_image": "poke_6159105"
       }
     ],
-    "hash_code_list_img": "-1554904779",
+    "hash_code_list_img": "229051875",
     "list_definition_mean": [
       {
         "mean_english": "đẩy; chọc",
@@ -1455,7 +1425,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "830233191"
+    "hash_code_list_definition_mean": "-1141131534"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/polar_cb_dmean_5000_it.json",
@@ -1478,7 +1448,7 @@
         "id_image": "polar_2844402"
       }
     ],
-    "hash_code_list_img": "1582312227",
+    "hash_code_list_img": "-837073547",
     "list_definition_mean": [
       {
         "mean_english": "thuộc địa cực",
@@ -1489,7 +1459,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "457951192"
+    "hash_code_list_definition_mean": "323248227"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pole_cb_dmean_5000_it.json",
@@ -1516,7 +1486,7 @@
         "id_image": "pole_4276356"
       }
     ],
-    "hash_code_list_img": "2034802576",
+    "hash_code_list_img": "-1639421208",
     "list_definition_mean": [
       {
         "mean_english": "cực trái đất",
@@ -1524,10 +1494,6 @@
         "ex_of_definition_list": [
           "the North/South Pole."
         ]
-      },
-      {
-        "mean_english": "chân trời",
-        "definition": "the points in the heavens opposite the Earth’s North and South Poles, around which stars seem to turn."
       },
       {
         "mean_english": "cực nam châm",
@@ -1552,7 +1518,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-518861764"
+    "hash_code_list_definition_mean": "1399126271"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/police_cb_dmean_5000_it.json",
@@ -1576,7 +1542,7 @@
         "id_image": "police_771388"
       }
     ],
-    "hash_code_list_img": "-1732623151",
+    "hash_code_list_img": "-1945415214",
     "list_definition_mean": [
       {
         "mean_english": "cảnh sát",
@@ -1595,7 +1561,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "566105231"
+    "hash_code_list_definition_mean": "101687818"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/policy_cb_dmean_5000_it.json",
@@ -1624,7 +1590,7 @@
         "id_image": "policy_536905"
       }
     ],
-    "hash_code_list_img": "1141179268",
+    "hash_code_list_img": "1508557807",
     "list_definition_mean": [
       {
         "mean_english": "chính sách",
@@ -1641,7 +1607,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1831790402"
+    "hash_code_list_definition_mean": "2098977861"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/polish_cb_dmean_5000_it.json",
@@ -1677,7 +1643,7 @@
         "id_image": "polish_2670828"
       }
     ],
-    "hash_code_list_img": "1979870140",
+    "hash_code_list_img": "1272628830",
     "list_definition_mean": [
       {
         "mean_english": "đánh bóng",
@@ -1709,7 +1675,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-411395691"
+    "hash_code_list_definition_mean": "328807138"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/polite_cb_dmean_5000_it.json",
@@ -1727,7 +1693,7 @@
         "id_image": "polite_708662"
       }
     ],
-    "hash_code_list_img": "1923018622",
+    "hash_code_list_img": "518758011",
     "list_definition_mean": [
       {
         "mean_english": "lịch sự",
@@ -1738,7 +1704,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1823843948"
+    "hash_code_list_definition_mean": "432371934"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/political_cb_dmean_5000_it.json",
@@ -1766,7 +1732,7 @@
         "id_image": "political_5978879"
       }
     ],
-    "hash_code_list_img": "-1879225577",
+    "hash_code_list_img": "1961659517",
     "list_definition_mean": [
       {
         "mean_english": "thuộc chính trị",
@@ -1777,7 +1743,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "642554291"
+    "hash_code_list_definition_mean": "751467867"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/politician_cb_dmean_5000_it.json",
@@ -1800,7 +1766,7 @@
         "id_image": "politician_6036792"
       }
     ],
-    "hash_code_list_img": "525407234",
+    "hash_code_list_img": "775737263",
     "list_definition_mean": [
       {
         "mean_english": "chính trị gia",
@@ -1810,7 +1776,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1084423665"
+    "hash_code_list_definition_mean": "1369468916"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/politics_cb_dmean_5000_it.json",
@@ -1838,7 +1804,7 @@
         "id_image": "politics_2234801"
       }
     ],
-    "hash_code_list_img": "-297701564",
+    "hash_code_list_img": "1336042631",
     "list_definition_mean": [
       {
         "mean_english": "chính trị",
@@ -1848,7 +1814,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "861715676"
+    "hash_code_list_definition_mean": "1065002263"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pollen_cb_dmean_5000_it.json",
@@ -1876,7 +1842,7 @@
         "id_image": "pollen_4365614"
       }
     ],
-    "hash_code_list_img": "-2134319938",
+    "hash_code_list_img": "-1418115736",
     "list_definition_mean": [
       {
         "mean_english": "phấn hoa",
@@ -1886,7 +1852,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "42050922"
+    "hash_code_list_definition_mean": "1653474338"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/poll_cb_dmean_5000_it.json",
@@ -1922,7 +1888,7 @@
         "id_image": "poll_281389"
       }
     ],
-    "hash_code_list_img": "374141566",
+    "hash_code_list_img": "1803853858",
     "list_definition_mean": [
       {
         "mean_english": "cuộc bầu cử",
@@ -1939,10 +1905,6 @@
         ]
       },
       {
-        "mean_english": "cuộc thăm dò ý kiến",
-        "definition": "(also opinion poll) a test of public opinion by asking people questions."
-      },
-      {
         "mean_english": "thu được",
         "definition": "to receive a number of votes",
         "ex_of_definition_list": [
@@ -1950,7 +1912,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-794401660"
+    "hash_code_list_definition_mean": "-1935781241"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pond_cb_dmean_5000_it.json",
@@ -1983,7 +1945,7 @@
         "id_image": "pond_4251881"
       }
     ],
-    "hash_code_list_img": "-413295250",
+    "hash_code_list_img": "-905088360",
     "list_definition_mean": [
       {
         "mean_english": "cái ao",
@@ -1993,7 +1955,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "2136509413"
+    "hash_code_list_definition_mean": "1040066486"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/ponytail_cb_dmean_5000_it.json",
@@ -2016,7 +1978,7 @@
         "id_image": "ponytail_3684545"
       }
     ],
-    "hash_code_list_img": "238028524",
+    "hash_code_list_img": "-1649038365",
     "list_definition_mean": [
       {
         "mean_english": "tóc cột kiểu đuôi ngựa",
@@ -2026,7 +1988,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1928928432"
+    "hash_code_list_definition_mean": "1945567184"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pool_cb_dmean_5000_it.json",
@@ -2054,7 +2016,7 @@
         "id_image": "pool_4052543"
       }
     ],
-    "hash_code_list_img": "255120113",
+    "hash_code_list_img": "-1988459669",
     "list_definition_mean": [
       {
         "mean_english": "vũng nước",
@@ -2099,7 +2061,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "313650393"
+    "hash_code_list_definition_mean": "1115981973"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/poor_cb_dmean_5000_it.json",
@@ -2124,7 +2086,7 @@
         "id_image": "poor_6349625"
       }
     ],
-    "hash_code_list_img": "-864819802",
+    "hash_code_list_img": "-530401371",
     "list_definition_mean": [
       {
         "mean_english": "nghèo",
@@ -2150,7 +2112,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1652990205"
+    "hash_code_list_definition_mean": "-771337631"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pope_cb_dmean_5000_it.json",
@@ -2168,7 +2130,7 @@
         "id_image": "pope_2545645"
       }
     ],
-    "hash_code_list_img": "1950477834",
+    "hash_code_list_img": "236544599",
     "list_definition_mean": [
       {
         "mean_english": "giáo hoàng",
@@ -2178,7 +2140,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "165851576"
+    "hash_code_list_definition_mean": "156304734"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/popularity_cb_dmean_5000_it.json",
@@ -2201,7 +2163,7 @@
         "id_image": "popularity_4149860"
       }
     ],
-    "hash_code_list_img": "-223244229",
+    "hash_code_list_img": "-1508776508",
     "list_definition_mean": [
       {
         "mean_english": "tính phổ biến",
@@ -2211,7 +2173,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1491026749"
+    "hash_code_list_definition_mean": "1866841742"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/popular_cb_dmean_5000_it.json",
@@ -2237,7 +2199,7 @@
         "id_image": "popular_4334789"
       }
     ],
-    "hash_code_list_img": "-1680270887",
+    "hash_code_list_img": "1730318028",
     "list_definition_mean": [
       {
         "mean_english": "nổi tiếng",
@@ -2270,7 +2232,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1171976836"
+    "hash_code_list_definition_mean": "-482759198"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/population_cb_dmean_5000_it.json",
@@ -2298,7 +2260,7 @@
         "id_image": "population_649167"
       }
     ],
-    "hash_code_list_img": "-122581726",
+    "hash_code_list_img": "-590793699",
     "list_definition_mean": [
       {
         "mean_english": "dân số",
@@ -2309,7 +2271,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1558129826"
+    "hash_code_list_definition_mean": "578967425"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pop_cb_dmean_5000_it.json",
@@ -2344,7 +2306,7 @@
         "id_image": "pop_837202"
       }
     ],
-    "hash_code_list_img": "-484631111",
+    "hash_code_list_img": "-976033989",
     "list_definition_mean": [
       {
         "mean_english": "tiếng nổ bốp",
@@ -2390,10 +2352,6 @@
         ]
       },
       {
-        "mean_english": "nhạc pop",
-        "definition": "(of music) written, played adj in a modern style."
-      },
-      {
         "mean_english": "thuộc nhạc pop",
         "definition": "of, or related to, pop music",
         "ex_of_definition_list": [
@@ -2403,7 +2361,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1308847052"
+    "hash_code_list_definition_mean": "751013881"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/porcelain_cb_dmean_5000_it.json",
@@ -2426,7 +2384,7 @@
         "id_image": "porcelain_5627051"
       }
     ],
-    "hash_code_list_img": "-481982211",
+    "hash_code_list_img": "1850042498",
     "list_definition_mean": [
       {
         "mean_english": "đồ sứ",
@@ -2437,7 +2395,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1786221915"
+    "hash_code_list_definition_mean": "1503458028"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/porch_cb_dmean_5000_it.json",
@@ -2456,7 +2414,7 @@
         "id_image": "porch_1698766"
       }
     ],
-    "hash_code_list_img": "1191183982",
+    "hash_code_list_img": "1527980162",
     "list_definition_mean": [
       {
         "mean_english": "mái hiên",
@@ -2464,13 +2422,9 @@
         "ex_of_definition_list": [
           "They waited in the porch until it stopped raining."
         ]
-      },
-      {
-        "mean_english": "hành lang",
-        "definition": "a veranda."
       }
     ],
-    "hash_code_list_definition_mean": "-1100092066"
+    "hash_code_list_definition_mean": "1705491615"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pore_cb_dmean_5000_it.json",
@@ -2489,7 +2443,7 @@
         "id_image": "pore_4148607"
       }
     ],
-    "hash_code_list_img": "49737224",
+    "hash_code_list_img": "1381209667",
     "list_definition_mean": [
       {
         "mean_english": "lỗ chân lông",
@@ -2506,6 +2460,6 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1939889055"
+    "hash_code_list_definition_mean": "835233158"
   }
 ]

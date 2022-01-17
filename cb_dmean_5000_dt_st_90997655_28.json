@@ -25,7 +25,7 @@
         "id_image": "diagnose_5570859"
       }
     ],
-    "hash_code_list_img": "-1662203806",
+    "hash_code_list_img": "-828083010",
     "list_definition_mean": [
       {
         "mean_english": "chẩn đoán",
@@ -35,7 +35,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1078839736"
+    "hash_code_list_definition_mean": "616080306"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diagnosis_cb_dmean_5000_it.json",
@@ -73,7 +73,7 @@
         "id_image": "diagnosis_943603"
       }
     ],
-    "hash_code_list_img": "-427658483",
+    "hash_code_list_img": "2143816570",
     "list_definition_mean": [
       {
         "mean_english": "lời chẩn đoán",
@@ -83,7 +83,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "776157664"
+    "hash_code_list_definition_mean": "549353817"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diagonal_cb_dmean_5000_it.json",
@@ -111,7 +111,7 @@
         "id_image": "diagonal_538813"
       }
     ],
-    "hash_code_list_img": "1773230562",
+    "hash_code_list_img": "-1834501897",
     "list_definition_mean": [
       {
         "mean_english": "chéo",
@@ -121,7 +121,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1013118649"
+    "hash_code_list_definition_mean": "859410545"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diagram_cb_dmean_5000_it.json",
@@ -154,7 +154,7 @@
         "id_image": "diagram_975043"
       }
     ],
-    "hash_code_list_img": "-1934362961",
+    "hash_code_list_img": "-161504972",
     "list_definition_mean": [
       {
         "mean_english": "biểu đồ",
@@ -164,7 +164,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1420694111"
+    "hash_code_list_definition_mean": "334681163"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dialogue_cb_dmean_5000_it.json",
@@ -202,7 +202,7 @@
         "id_image": "dialogue_6347649"
       }
     ],
-    "hash_code_list_img": "1958959178",
+    "hash_code_list_img": "-235197929",
     "list_definition_mean": [
       {
         "mean_english": "đối thoại",
@@ -212,7 +212,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "973844191"
+    "hash_code_list_definition_mean": "1248786225"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dialysis_cb_dmean_5000_it.json",
@@ -235,7 +235,7 @@
         "id_image": "dialysis_4246559"
       }
     ],
-    "hash_code_list_img": "2085335675",
+    "hash_code_list_img": "850588203",
     "list_definition_mean": [
       {
         "mean_english": "lọc máu",
@@ -245,7 +245,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "379886064"
+    "hash_code_list_definition_mean": "311040169"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dial_cb_dmean_5000_it.json",
@@ -281,7 +281,7 @@
         "id_image": "dial_5517638"
       }
     ],
-    "hash_code_list_img": "-1469780983",
+    "hash_code_list_img": "-687449942",
     "list_definition_mean": [
       {
         "mean_english": "mặt của đồng hồ",
@@ -289,10 +289,6 @@
         "ex_of_definition_list": [
           "My watch has a dial you can see in the dark."
         ]
-      },
-      {
-        "mean_english": "đĩa số",
-        "definition": "the turning disc over the numbers on a telephone."
       },
       {
         "mean_english": "bản hoặc đĩa trên máy thu thanh hoặc thu hình chỉ bước sóng",
@@ -310,7 +306,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1090301314"
+    "hash_code_list_definition_mean": "-1551570715"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diameter_cb_dmean_5000_it.json",
@@ -328,7 +324,7 @@
         "id_image": "diameter_5967631"
       }
     ],
-    "hash_code_list_img": "1217784085",
+    "hash_code_list_img": "331451353",
     "list_definition_mean": [
       {
         "mean_english": "đường kính",
@@ -338,7 +334,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1910464335"
+    "hash_code_list_definition_mean": "1639866480"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diamond_cb_dmean_5000_it.json",
@@ -359,7 +355,7 @@
         "id_image": "diamond_218364"
       }
     ],
-    "hash_code_list_img": "1379589767",
+    "hash_code_list_img": "1155023666",
     "list_definition_mean": [
       {
         "mean_english": "kim cương",
@@ -370,22 +366,14 @@
         ]
       },
       {
-        "mean_english": "mẩu kim cương",
-        "definition": "a piece of diamond (often artificial) used as a tip on eg a record-player stylus."
-      },
-      {
         "mean_english": "hình thoi",
         "definition": "a kind of four-sided figure or shape; ♢",
         "ex_of_definition_list": [
           "There was a pattern of red and yellow diamonds on the floor."
         ]
-      },
-      {
-        "mean_english": "quân rô",
-        "definition": "one of the playing cards of the suit diamonds, which have red symbols of this shape on them."
       }
     ],
-    "hash_code_list_definition_mean": "269233993"
+    "hash_code_list_definition_mean": "-1968779323"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diarrhoea_cb_dmean_5000_it.json",
@@ -408,7 +396,7 @@
         "id_image": "diarrhoea_3782065"
       }
     ],
-    "hash_code_list_img": "-690044312",
+    "hash_code_list_img": "176490683",
     "list_definition_mean": [
       {
         "mean_english": "ỉa chảy",
@@ -418,7 +406,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "189963677"
+    "hash_code_list_definition_mean": "1541119112"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diary_cb_dmean_5000_it.json",
@@ -456,7 +444,7 @@
         "id_image": "diary_6381788"
       }
     ],
-    "hash_code_list_img": "-1975656042",
+    "hash_code_list_img": "96436408",
     "list_definition_mean": [
       {
         "mean_english": "nhật ký",
@@ -466,7 +454,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1156030141"
+    "hash_code_list_definition_mean": "824197922"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dice_cb_dmean_5000_it.json",
@@ -496,7 +484,7 @@
         "id_image": "dice_606002"
       }
     ],
-    "hash_code_list_img": "-1803926553",
+    "hash_code_list_img": "1830736295",
     "list_definition_mean": [
       {
         "mean_english": "súc sắc",
@@ -511,13 +499,9 @@
         "ex_of_definition_list": [
           "She diced the carrots for the soup."
         ]
-      },
-      {
-        "mean_english": "đánh bạc bằng súc sắc",
-        "definition": "to compete (with someone) at throwing dice; to gamble."
       }
     ],
-    "hash_code_list_definition_mean": "1880082413"
+    "hash_code_list_definition_mean": "1572182736"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dictation_cb_dmean_5000_it.json",
@@ -540,7 +524,7 @@
         "id_image": "dictation_6305563"
       }
     ],
-    "hash_code_list_img": "-297089263",
+    "hash_code_list_img": "-1534194055",
     "list_definition_mean": [
       {
         "mean_english": "sự đọc chính tả",
@@ -550,7 +534,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "169571688"
+    "hash_code_list_definition_mean": "613765475"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dictatorship_cb_dmean_5000_it.json",
@@ -579,7 +563,7 @@
         "id_image": "dictatorship_3158198"
       }
     ],
-    "hash_code_list_img": "-1521095790",
+    "hash_code_list_img": "-1978853996",
     "list_definition_mean": [
       {
         "mean_english": "chế độ độc tài",
@@ -596,7 +580,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1023302808"
+    "hash_code_list_definition_mean": "-624291316"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dictionary_cb_dmean_5000_it.json",
@@ -604,10 +588,9 @@
     "id_album": "90997655",
     "english": "dictionary",
     "list_mean": [
-      "từ điển",
       "từ điển"
     ],
-    "hash_code_list_mean": "-1617664703",
+    "hash_code_list_mean": "-1124293845",
     "list_img": [
       {
         "link_thumb": "https://live.staticflickr.com/65535/51808367857_5e764cca5f_n.jpg",
@@ -630,7 +613,7 @@
         "id_image": "dictionary_6150909"
       }
     ],
-    "hash_code_list_img": "390296757",
+    "hash_code_list_img": "-1094930064",
     "list_definition_mean": [
       {
         "mean_english": "từ điển",
@@ -647,7 +630,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-710247337"
+    "hash_code_list_definition_mean": "782520861"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dietary_cb_dmean_5000_it.json",
@@ -670,7 +653,7 @@
         "id_image": "dietary_2860838"
       }
     ],
-    "hash_code_list_img": "108832439",
+    "hash_code_list_img": "-73579588",
     "list_definition_mean": [
       {
         "mean_english": "chế độ ăn kiêng",
@@ -681,7 +664,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1550858367"
+    "hash_code_list_definition_mean": "1179472772"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diet_cb_dmean_5000_it.json",
@@ -715,7 +698,7 @@
         "id_image": "diet_6181882"
       }
     ],
-    "hash_code_list_img": "466126128",
+    "hash_code_list_img": "399068904",
     "list_definition_mean": [
       {
         "mean_english": "chế độ ăn kiêng",
@@ -734,7 +717,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "839992962"
+    "hash_code_list_definition_mean": "1357403142"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/die_cb_dmean_5000_it.json",
@@ -755,7 +738,7 @@
         "id_image": "die_3387107"
       }
     ],
-    "hash_code_list_img": "1645406833",
+    "hash_code_list_img": "1293326202",
     "list_definition_mean": [
       {
         "mean_english": "chết; qua đời",
@@ -779,13 +762,9 @@
           "I’m dying for a drink",
           "I’m dying to see her."
         ]
-      },
-      {
-        "mean_english": "khuôn rập",
-        "definition": "a stamp or punch for making raised designs on money, paper etc."
       }
     ],
-    "hash_code_list_definition_mean": "1689615101"
+    "hash_code_list_definition_mean": "-353981070"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/difference_cb_dmean_5000_it.json",
@@ -810,7 +789,7 @@
         "id_image": "difference_3053704"
       }
     ],
-    "hash_code_list_img": "-984853396",
+    "hash_code_list_img": "764716472",
     "list_definition_mean": [
       {
         "mean_english": "sự khác nhau",
@@ -837,7 +816,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1784071464"
+    "hash_code_list_definition_mean": "906897860"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/difficulty_cb_dmean_5000_it.json",
@@ -857,7 +836,7 @@
         "id_image": "difficulty_4516936"
       }
     ],
-    "hash_code_list_img": "1604238713",
+    "hash_code_list_img": "198347941",
     "list_definition_mean": [
       {
         "mean_english": "sự khó khăn",
@@ -881,7 +860,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1901162998"
+    "hash_code_list_definition_mean": "-1511589030"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/digestion_cb_dmean_5000_it.json",
@@ -900,7 +879,7 @@
         "id_image": "digestion_5601046"
       }
     ],
-    "hash_code_list_img": "812424011",
+    "hash_code_list_img": "340368241",
     "list_definition_mean": [
       {
         "mean_english": "sự tiêu hóa",
@@ -917,7 +896,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "30845554"
+    "hash_code_list_definition_mean": "-765361653"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/digestive_cb_dmean_5000_it.json",
@@ -935,7 +914,7 @@
         "id_image": "digestive_2721094"
       }
     ],
-    "hash_code_list_img": "1391440727",
+    "hash_code_list_img": "828691913",
     "list_definition_mean": [
       {
         "mean_english": "thuộc sự tiêu hóa",
@@ -945,7 +924,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "447906869"
+    "hash_code_list_definition_mean": "199263232"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/digger_cb_dmean_5000_it.json",
@@ -983,7 +962,7 @@
         "id_image": "digger_6141616"
       }
     ],
-    "hash_code_list_img": "-1649750947",
+    "hash_code_list_img": "-2056099950",
     "list_definition_mean": [
       {
         "mean_english": "máy đào",
@@ -993,7 +972,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1682999207"
+    "hash_code_list_definition_mean": "82051055"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/digit_cb_dmean_5000_it.json",
@@ -1017,7 +996,7 @@
         "id_image": "digit_1410448"
       }
     ],
-    "hash_code_list_img": "-213787653",
+    "hash_code_list_img": "114499262",
     "list_definition_mean": [
       {
         "mean_english": "con số",
@@ -1025,13 +1004,9 @@
         "ex_of_definition_list": [
           "105 is a number with three digits."
         ]
-      },
-      {
-        "mean_english": "ngón tay; ngón chân",
-        "definition": "a finger or toe."
       }
     ],
-    "hash_code_list_definition_mean": "1605203554"
+    "hash_code_list_definition_mean": "1401143079"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dig_cb_dmean_5000_it.json",
@@ -1062,7 +1037,7 @@
         "id_image": "dig_6041525"
       }
     ],
-    "hash_code_list_img": "-1021551497",
+    "hash_code_list_img": "-1503692922",
     "list_definition_mean": [
       {
         "mean_english": "xới đất",
@@ -1094,7 +1069,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1959778981"
+    "hash_code_list_definition_mean": "-1187934389"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dimension_cb_dmean_5000_it.json",
@@ -1132,7 +1107,7 @@
         "id_image": "dimension_992621"
       }
     ],
-    "hash_code_list_img": "775718908",
+    "hash_code_list_img": "146680679",
     "list_definition_mean": [
       {
         "mean_english": "kích thước",
@@ -1142,7 +1117,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1746617074"
+    "hash_code_list_definition_mean": "1645885598"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diner_cb_dmean_5000_it.json",
@@ -1167,7 +1142,7 @@
         "id_image": "diner_5002439"
       }
     ],
-    "hash_code_list_img": "-1834984571",
+    "hash_code_list_img": "1564450637",
     "list_definition_mean": [
       {
         "mean_english": "người dự tiệc",
@@ -1175,17 +1150,9 @@
         "ex_of_definition_list": [
           "The diners ran from the restaurant when the fire started."
         ]
-      },
-      {
-        "mean_english": "toa ăn trên tàu hỏa",
-        "definition": "a restaurant car on a train."
-      },
-      {
-        "mean_english": "quán ăn nhỏ bình dân",
-        "definition": "a small inexpensive restaurant."
       }
     ],
-    "hash_code_list_definition_mean": "-1000501411"
+    "hash_code_list_definition_mean": "2144599333"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dinner_cb_dmean_5000_it.json",
@@ -1219,7 +1186,7 @@
         "id_image": "dinner_6039656"
       }
     ],
-    "hash_code_list_img": "-1533086565",
+    "hash_code_list_img": "-1904975139",
     "list_definition_mean": [
       {
         "mean_english": "bữa tối",
@@ -1238,7 +1205,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "681052663"
+    "hash_code_list_definition_mean": "1100331431"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diplomacy_cb_dmean_5000_it.json",
@@ -1267,7 +1234,7 @@
         "id_image": "diplomacy_4960724"
       }
     ],
-    "hash_code_list_img": "-1476303291",
+    "hash_code_list_img": "516451722",
     "list_definition_mean": [
       {
         "mean_english": "ngành ngoại giao",
@@ -1284,7 +1251,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1972371988"
+    "hash_code_list_definition_mean": "-1082181931"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diplomat_cb_dmean_5000_it.json",
@@ -1302,7 +1269,7 @@
         "id_image": "diplomat_4849734"
       }
     ],
-    "hash_code_list_img": "1631904952",
+    "hash_code_list_img": "974320646",
     "list_definition_mean": [
       {
         "mean_english": "nhà ngoại giao",
@@ -1312,7 +1279,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "234107659"
+    "hash_code_list_definition_mean": "656476762"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diploma_cb_dmean_5000_it.json",
@@ -1340,7 +1307,7 @@
         "id_image": "diploma_225764"
       }
     ],
-    "hash_code_list_img": "-1655583126",
+    "hash_code_list_img": "485557840",
     "list_definition_mean": [
       {
         "mean_english": "bằng cấp",
@@ -1350,7 +1317,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "653395139"
+    "hash_code_list_definition_mean": "139108228"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dip_cb_dmean_5000_it.json",
@@ -1389,7 +1356,7 @@
         "id_image": "dip_5015335"
       }
     ],
-    "hash_code_list_img": "1846187466",
+    "hash_code_list_img": "1171376003",
     "list_definition_mean": [
       {
         "mean_english": "nhúng, nhấn chìm",
@@ -1413,10 +1380,6 @@
         ]
       },
       {
-        "mean_english": "hạ xuống rồi kéo lên ngay",
-        "definition": "(of a ship) to lower (a flag) briefly in salute."
-      },
-      {
         "mean_english": "việc nhấn chìm",
         "definition": "a hollow (in a road etc)",
         "ex_of_definition_list": [
@@ -1438,7 +1401,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1308313901"
+    "hash_code_list_definition_mean": "923446685"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/direction_cb_dmean_5000_it.json",
@@ -1479,7 +1442,7 @@
         "id_image": "direction_3380706"
       }
     ],
-    "hash_code_list_img": "-816560343",
+    "hash_code_list_img": "229441633",
     "list_definition_mean": [
       {
         "mean_english": "hướng",
@@ -1504,13 +1467,9 @@
           "We asked the policeman for directions",
           "I have lost the directions for this washing-machine."
         ]
-      },
-      {
-        "mean_english": "lời hướng dẫn",
-        "definition": "the act of aiming or turning (something or someone) towards a certain point."
       }
     ],
-    "hash_code_list_definition_mean": "-346294024"
+    "hash_code_list_definition_mean": "1476421892"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/directory_cb_dmean_5000_it.json",
@@ -1548,7 +1507,7 @@
         "id_image": "directory_485316"
       }
     ],
-    "hash_code_list_img": "1141320029",
+    "hash_code_list_img": "1528264014",
     "list_definition_mean": [
       {
         "mean_english": "danh bạ",
@@ -1558,7 +1517,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1095312536"
+    "hash_code_list_definition_mean": "1950682298"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/director_cb_dmean_5000_it.json",
@@ -1596,7 +1555,7 @@
         "id_image": "director_6347654"
       }
     ],
-    "hash_code_list_img": "-1302697788",
+    "hash_code_list_img": "-1095235185",
     "list_definition_mean": [
       {
         "mean_english": "giám đốc",
@@ -1607,7 +1566,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "525474952"
+    "hash_code_list_definition_mean": "1226125352"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/direct_cb_dmean_5000_it.json",
@@ -1648,7 +1607,7 @@
         "id_image": "direct_3983610"
       }
     ],
-    "hash_code_list_img": "1258852784",
+    "hash_code_list_img": "676740574",
     "list_definition_mean": [
       {
         "mean_english": "thẳng",
@@ -1715,7 +1674,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1519876672"
+    "hash_code_list_definition_mean": "-1066594084"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dirty_cb_dmean_5000_it.json",
@@ -1747,7 +1706,7 @@
         "id_image": "dirty_5256932"
       }
     ],
-    "hash_code_list_img": "1563527426",
+    "hash_code_list_img": "-1325304130",
     "list_definition_mean": [
       {
         "mean_english": "bẩn",
@@ -1771,10 +1730,6 @@
         ]
       },
       {
-        "mean_english": "(thời tiết) xấu",
-        "definition": "(of weather) stormy."
-      },
-      {
         "mean_english": "làm bẩn",
         "definition": "to make or become dirty",
         "ex_of_definition_list": [
@@ -1782,7 +1737,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1971451444"
+    "hash_code_list_definition_mean": "-1324359827"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/disability_cb_dmean_5000_it.json",
@@ -1805,7 +1760,7 @@
         "id_image": "disability_2472589"
       }
     ],
-    "hash_code_list_img": "2127744018",
+    "hash_code_list_img": "-43546972",
     "list_definition_mean": [
       {
         "mean_english": "sự tàn tật; sự bất lực",
@@ -1815,7 +1770,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "418966515"
+    "hash_code_list_definition_mean": "995585794"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/disable_cb_dmean_5000_it.json",
@@ -1843,7 +1798,7 @@
         "id_image": "disable_4777564"
       }
     ],
-    "hash_code_list_img": "-1431171824",
+    "hash_code_list_img": "385781484",
     "list_definition_mean": [
       {
         "mean_english": "làm tàn tật; làm cho bất lực",
@@ -1853,7 +1808,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1903745072"
+    "hash_code_list_definition_mean": "1706407436"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/disagreement_cb_dmean_5000_it.json",
@@ -1882,7 +1837,7 @@
         "id_image": "disagreement_4144567"
       }
     ],
-    "hash_code_list_img": "-1639389343",
+    "hash_code_list_img": "-1647946524",
     "list_definition_mean": [
       {
         "mean_english": "cuộc ttranh cãi",
@@ -1899,7 +1854,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-2120562673"
+    "hash_code_list_definition_mean": "1359311999"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/disagree_cb_dmean_5000_it.json",
@@ -1934,7 +1889,7 @@
         "id_image": "disagree_5226303"
       }
     ],
-    "hash_code_list_img": "-2048579032",
+    "hash_code_list_img": "2020149296",
     "list_definition_mean": [
       {
         "mean_english": "không đồng ý",
@@ -1959,7 +1914,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1506298801"
+    "hash_code_list_definition_mean": "1768636154"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/disappear_cb_dmean_5000_it.json",
@@ -1968,10 +1923,9 @@
     "english": "disappear",
     "list_mean": [
       "biến mất",
-      "mất đi",
-      "biến mất"
+      "mất đi"
     ],
-    "hash_code_list_mean": "158118919",
+    "hash_code_list_mean": "-126993941",
     "list_img": [
       {
         "link_thumb": "https://live.staticflickr.com/65535/51809673619_a146067b42_n.jpg",
@@ -1984,7 +1938,7 @@
         "id_image": "disappear_5906162"
       }
     ],
-    "hash_code_list_img": "530317772",
+    "hash_code_list_img": "-975603882",
     "list_definition_mean": [
       {
         "mean_english": "biến mất",
@@ -2008,7 +1962,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-649422673"
+    "hash_code_list_definition_mean": "-142787969"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/disapprove_cb_dmean_5000_it.json",
@@ -2026,7 +1980,7 @@
         "id_image": "disapprove_1982943"
       }
     ],
-    "hash_code_list_img": "1366000880",
+    "hash_code_list_img": "533476480",
     "list_definition_mean": [
       {
         "mean_english": "phản đối",
@@ -2036,7 +1990,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1210231660"
+    "hash_code_list_definition_mean": "678631422"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/disaster_cb_dmean_5000_it.json",
@@ -2074,7 +2028,7 @@
         "id_image": "disaster_6367406"
       }
     ],
-    "hash_code_list_img": "-507851265",
+    "hash_code_list_img": "978098040",
     "list_definition_mean": [
       {
         "mean_english": "tai họa",
@@ -2084,7 +2038,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "449966470"
+    "hash_code_list_definition_mean": "428310682"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/disbelief_cb_dmean_5000_it.json",
@@ -2107,7 +2061,7 @@
         "id_image": "disbelief_708640"
       }
     ],
-    "hash_code_list_img": "-122850745",
+    "hash_code_list_img": "-1516407920",
     "list_definition_mean": [
       {
         "mean_english": "sự thiếu tin tưởng",
@@ -2117,7 +2071,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1431110700"
+    "hash_code_list_definition_mean": "1137663006"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/discharge_cb_dmean_5000_it.json",
@@ -2146,7 +2100,7 @@
         "id_image": "discharge_2781837"
       }
     ],
-    "hash_code_list_img": "1833557904",
+    "hash_code_list_img": "-1346998788",
     "list_definition_mean": [
       {
         "mean_english": "sự giải ngũ",
@@ -2192,13 +2146,9 @@
           "He was given his discharge from the army",
           "the discharge of one’s duties."
         ]
-      },
-      {
-        "mean_english": "cái rỉ ra",
-        "definition": "pus etc coming from eg a wound."
       }
     ],
-    "hash_code_list_definition_mean": "-744549973"
+    "hash_code_list_definition_mean": "-1436123897"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/disciple_cb_dmean_5000_it.json",
@@ -2216,7 +2166,7 @@
         "id_image": "disciple_1866070"
       }
     ],
-    "hash_code_list_img": "477745330",
+    "hash_code_list_img": "1697588985",
     "list_definition_mean": [
       {
         "mean_english": "môn đồ",
@@ -2226,7 +2176,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "133581814"
+    "hash_code_list_definition_mean": "1687161333"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/discipline_cb_dmean_5000_it.json",
@@ -2267,7 +2217,7 @@
         "id_image": "discipline_6193108"
       }
     ],
-    "hash_code_list_img": "961736474",
+    "hash_code_list_img": "-1862512494",
     "list_definition_mean": [
       {
         "mean_english": "sự rèn luyện",
@@ -2275,10 +2225,6 @@
         "ex_of_definition_list": [
           "All children need a certain amount of discipline."
         ]
-      },
-      {
-        "mean_english": "kỷ luật",
-        "definition": "strict self-control (amongst soldiers etc)."
       },
       {
         "mean_english": "rèn luyện",
@@ -2295,7 +2241,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "995787553"
+    "hash_code_list_definition_mean": "-300549929"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/disconnect_cb_dmean_5000_it.json",
@@ -2318,7 +2264,7 @@
         "id_image": "disconnect_4614241"
       }
     ],
-    "hash_code_list_img": "853736670",
+    "hash_code_list_img": "930101863",
     "list_definition_mean": [
       {
         "mean_english": "ngắt",
@@ -2328,7 +2274,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1789821675"
+    "hash_code_list_definition_mean": "1476823903"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/discord_cb_dmean_5000_it.json",
@@ -2362,7 +2308,7 @@
         "id_image": "discord_4053305"
       }
     ],
-    "hash_code_list_img": "1483750058",
+    "hash_code_list_img": "1688171271",
     "list_definition_mean": [
       {
         "mean_english": "sự bất hòa",
@@ -2370,12 +2316,8 @@
         "ex_of_definition_list": [
           "The issue is a source of discord between the two countries."
         ]
-      },
-      {
-        "mean_english": "sự không hợp âm",
-        "definition": "in music, a group of notes played together which give a jarring sound."
       }
     ],
-    "hash_code_list_definition_mean": "1875400166"
+    "hash_code_list_definition_mean": "234107659"
   }
 ]

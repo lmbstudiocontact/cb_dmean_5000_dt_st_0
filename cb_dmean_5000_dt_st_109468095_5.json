@@ -30,7 +30,7 @@
         "id_image": "wooden_6006256"
       }
     ],
-    "hash_code_list_img": "1090778814",
+    "hash_code_list_img": "-290479050",
     "list_definition_mean": [
       {
         "mean_english": "bằng gỗ",
@@ -40,7 +40,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "33712911"
+    "hash_code_list_definition_mean": "1626217032"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/woodland_cb_dmean_5000_it.json",
@@ -73,7 +73,7 @@
         "id_image": "woodland_3075162"
       }
     ],
-    "hash_code_list_img": "-1016608488",
+    "hash_code_list_img": "802342855",
     "list_definition_mean": [
       {
         "mean_english": "rừng",
@@ -83,7 +83,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1536044742"
+    "hash_code_list_definition_mean": "1001197340"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/woodwork_cb_dmean_5000_it.json",
@@ -117,7 +117,7 @@
         "id_image": "woodwork_2472995"
       }
     ],
-    "hash_code_list_img": "-1657556322",
+    "hash_code_list_img": "-2084018210",
     "list_definition_mean": [
       {
         "mean_english": "nghề mộc",
@@ -134,7 +134,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1234058465"
+    "hash_code_list_definition_mean": "-1511270871"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wood_cb_dmean_5000_it.json",
@@ -159,7 +159,7 @@
         "id_image": "wood_878460"
       }
     ],
-    "hash_code_list_img": "-2090436740",
+    "hash_code_list_img": "-393652246",
     "list_definition_mean": [
       {
         "mean_english": "gỗ",
@@ -176,13 +176,9 @@
         "ex_of_definition_list": [
           "They went for a walk in the woods."
         ]
-      },
-      {
-        "mean_english": "gậy đánh gôn",
-        "definition": "a golf-club whose head is made of wood."
       }
     ],
-    "hash_code_list_definition_mean": "-1712351739"
+    "hash_code_list_definition_mean": "786223249"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wool_cb_dmean_5000_it.json",
@@ -210,7 +206,7 @@
         "id_image": "wool_588416"
       }
     ],
-    "hash_code_list_img": "2087161727",
+    "hash_code_list_img": "-10172263",
     "list_definition_mean": [
       {
         "mean_english": "len",
@@ -222,7 +218,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1016481938"
+    "hash_code_list_definition_mean": "636050723"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/worker_cb_dmean_5000_it.json",
@@ -247,7 +243,7 @@
         "id_image": "worker_562536"
       }
     ],
-    "hash_code_list_img": "124776957",
+    "hash_code_list_img": "-1522325790",
     "list_definition_mean": [
       {
         "mean_english": "công nhân",
@@ -258,10 +254,6 @@
         ]
       },
       {
-        "mean_english": "thường là công nhân làm việc chân tay",
-        "definition": "a manual worker rather than an office-worker etc."
-      },
-      {
         "mean_english": "người lao động",
         "definition": "a person who works (hard etc)",
         "ex_of_definition_list": [
@@ -269,7 +261,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "516239304"
+    "hash_code_list_definition_mean": "2077463988"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/workforce_cb_dmean_5000_it.json",
@@ -297,7 +289,7 @@
         "id_image": "workforce_6214216"
       }
     ],
-    "hash_code_list_img": "-1643199465",
+    "hash_code_list_img": "-521856123",
     "list_definition_mean": [
       {
         "mean_english": "lực lượng lao động",
@@ -307,7 +299,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1927061436"
+    "hash_code_list_definition_mean": "1326723477"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/workman_cb_dmean_5000_it.json",
@@ -325,7 +317,7 @@
         "id_image": "workman_2419713"
       }
     ],
-    "hash_code_list_img": "1057152083",
+    "hash_code_list_img": "554451088",
     "list_definition_mean": [
       {
         "mean_english": "công nhân",
@@ -335,7 +327,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "420842869"
+    "hash_code_list_definition_mean": "119819686"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/workout_cb_dmean_5000_it.json",
@@ -363,7 +355,7 @@
         "id_image": "workout_3476439"
       }
     ],
-    "hash_code_list_img": "-287710485",
+    "hash_code_list_img": "708194180",
     "list_definition_mean": [
       {
         "mean_english": "giai đoạn tập luyện cường độ cao",
@@ -373,7 +365,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "2135554620"
+    "hash_code_list_definition_mean": "1652252282"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/workplace_cb_dmean_5000_it.json",
@@ -406,7 +398,7 @@
         "id_image": "workplace_562537"
       }
     ],
-    "hash_code_list_img": "195782464",
+    "hash_code_list_img": "756781504",
     "list_definition_mean": [
       {
         "mean_english": "chỗ làm việc",
@@ -416,7 +408,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1107839509"
+    "hash_code_list_definition_mean": "2140082731"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/work_cb_dmean_5000_it.json",
@@ -437,10 +429,9 @@
       "vượt qua được",
       "trở nên",
       "chế tác",
-      "tác phẩm",
       "phần"
     ],
-    "hash_code_list_mean": "1961168277",
+    "hash_code_list_mean": "-1205189821",
     "list_img": [
       {
         "link_thumb": "https://live.staticflickr.com/65535/51810071355_c388c3b3e6_n.jpg",
@@ -458,7 +449,7 @@
         "id_image": "work_5966049"
       }
     ],
-    "hash_code_list_img": "-76344355",
+    "hash_code_list_img": "-1734449388",
     "list_definition_mean": [
       {
         "mean_english": "nỗ lực",
@@ -572,7 +563,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-2140534832"
+    "hash_code_list_definition_mean": "1598566830"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/worldwide_cb_dmean_5000_it.json",
@@ -600,7 +591,7 @@
         "id_image": "worldwide_230604"
       }
     ],
-    "hash_code_list_img": "653596582",
+    "hash_code_list_img": "615209708",
     "list_definition_mean": [
       {
         "mean_english": "toàn thế giới",
@@ -611,7 +602,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "607149801"
+    "hash_code_list_definition_mean": "6085530"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/world_cb_dmean_5000_it.json",
@@ -645,7 +636,7 @@
         "id_image": "world_439956"
       }
     ],
-    "hash_code_list_img": "-2112547765",
+    "hash_code_list_img": "-1465036544",
     "list_definition_mean": [
       {
         "mean_english": "Thế giới",
@@ -699,7 +690,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-850922789"
+    "hash_code_list_definition_mean": "-660415168"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/worm_cb_dmean_5000_it.json",
@@ -724,12 +715,8 @@
         "id_image": "worm_350973"
       }
     ],
-    "hash_code_list_img": "1528807962",
+    "hash_code_list_img": "-493712602",
     "list_definition_mean": [
-      {
-        "mean_english": "con giun",
-        "definition": "a kind of small creeping animal with a ringed body and no backbone; earthworm"
-      },
       {
         "mean_english": "luồn vào",
         "definition": "to make (one’s way) slowly or secretly",
@@ -745,7 +732,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1792412675"
+    "hash_code_list_definition_mean": "-754893511"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/worry_cb_dmean_5000_it.json",
@@ -766,7 +753,7 @@
         "id_image": "worry_2472934"
       }
     ],
-    "hash_code_list_img": "709360508",
+    "hash_code_list_img": "890563135",
     "list_definition_mean": [
       {
         "mean_english": "khiến ai lo lắng",
@@ -785,10 +772,6 @@
         ]
       },
       {
-        "mean_english": "ngoạm",
-        "definition": "to shake or tear with the teeth etc as a dog does its prey etc."
-      },
-      {
         "mean_english": "mối lo lắng",
         "definition": "(a cause of) anxiety",
         "ex_of_definition_list": [
@@ -797,7 +780,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-2067605617"
+    "hash_code_list_definition_mean": "-2055759513"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/worship_cb_dmean_5000_it.json",
@@ -827,7 +810,7 @@
         "id_image": "worship_594728"
       }
     ],
-    "hash_code_list_img": "815194933",
+    "hash_code_list_img": "411148572",
     "list_definition_mean": [
       {
         "mean_english": "thờ",
@@ -852,7 +835,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "36895443"
+    "hash_code_list_definition_mean": "1204319767"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/worth_cb_dmean_5000_it.json",
@@ -877,7 +860,7 @@
         "id_image": "worth_4834034"
       }
     ],
-    "hash_code_list_img": "-935000799",
+    "hash_code_list_img": "1916468773",
     "list_definition_mean": [
       {
         "mean_english": "giá trị",
@@ -903,7 +886,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-372577793"
+    "hash_code_list_definition_mean": "1892289726"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wound_cb_dmean_5000_it.json",
@@ -928,7 +911,7 @@
         "id_image": "wound_4236974"
       }
     ],
-    "hash_code_list_img": "2067942747",
+    "hash_code_list_img": "-538589841",
     "list_definition_mean": [
       {
         "mean_english": "vết thương",
@@ -954,7 +937,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1943363770"
+    "hash_code_list_definition_mean": "-1054373222"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wrapper_cb_dmean_5000_it.json",
@@ -977,7 +960,7 @@
         "id_image": "wrapping_2403461"
       }
     ],
-    "hash_code_list_img": "568182504",
+    "hash_code_list_img": "1599230355",
     "list_definition_mean": [
       {
         "mean_english": "giấy bọc",
@@ -987,7 +970,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "182584642"
+    "hash_code_list_definition_mean": "949292394"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wrap_cb_dmean_5000_it.json",
@@ -1022,7 +1005,7 @@
         "id_image": "wrap_2923199"
       }
     ],
-    "hash_code_list_img": "1212006141",
+    "hash_code_list_img": "-667892066",
     "list_definition_mean": [
       {
         "mean_english": "gói lại",
@@ -1038,13 +1021,9 @@
           "She wrapped the book (up) in brown paper",
           "She wrapped the baby up in a warm shawl."
         ]
-      },
-      {
-        "mean_english": "áo khoác",
-        "definition": "a warm covering to put over one’s shoulders."
       }
     ],
-    "hash_code_list_definition_mean": "1359095456"
+    "hash_code_list_definition_mean": "-255218013"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wrath_cb_dmean_5000_it.json",
@@ -1062,7 +1041,7 @@
         "id_image": "wrath_1805160"
       }
     ],
-    "hash_code_list_img": "1516892686",
+    "hash_code_list_img": "1764032418",
     "list_definition_mean": [
       {
         "mean_english": "sự phẫn nộ",
@@ -1072,7 +1051,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "363377223"
+    "hash_code_list_definition_mean": "1954526416"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wreath_cb_dmean_5000_it.json",
@@ -1096,7 +1075,7 @@
         "id_image": "wreath_6280076"
       }
     ],
-    "hash_code_list_img": "553333625",
+    "hash_code_list_img": "297993245",
     "list_definition_mean": [
       {
         "mean_english": "vòng hoa",
@@ -1113,7 +1092,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-968517604"
+    "hash_code_list_definition_mean": "137042175"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wrench_cb_dmean_5000_it.json",
@@ -1139,7 +1118,7 @@
         "id_image": "wrench_2137963"
       }
     ],
-    "hash_code_list_img": "-1128257035",
+    "hash_code_list_img": "1130226851",
     "list_definition_mean": [
       {
         "mean_english": "giật mạnh",
@@ -1154,17 +1133,9 @@
         "ex_of_definition_list": [
           "I wrenched my shoulder moving furniture about."
         ]
-      },
-      {
-        "mean_english": "sự giật mạnh",
-        "definition": "a violent pull or twist."
-      },
-      {
-        "mean_english": "chìa vặn",
-        "definition": "a type of strong tool for turning nuts, bolts etc."
       }
     ],
-    "hash_code_list_definition_mean": "61281089"
+    "hash_code_list_definition_mean": "2096740072"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wrestler_cb_dmean_5000_it.json",
@@ -1192,7 +1163,7 @@
         "id_image": "wrestler_773365"
       }
     ],
-    "hash_code_list_img": "-467213536",
+    "hash_code_list_img": "1640351261",
     "list_definition_mean": [
       {
         "mean_english": "đô vật",
@@ -1202,7 +1173,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "522821602"
+    "hash_code_list_definition_mean": "2041836005"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wrinkle_cb_dmean_5000_it.json",
@@ -1231,7 +1202,7 @@
         "id_image": "wrinkle_5220715"
       }
     ],
-    "hash_code_list_img": "-1403972902",
+    "hash_code_list_img": "2121466316",
     "list_definition_mean": [
       {
         "mean_english": "vết nhăn",
@@ -1248,7 +1219,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-754018439"
+    "hash_code_list_definition_mean": "322448584"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wrist_cb_dmean_5000_it.json",
@@ -1276,7 +1247,7 @@
         "id_image": "wrist_5726860"
       }
     ],
-    "hash_code_list_img": "1460613650",
+    "hash_code_list_img": "1714915782",
     "list_definition_mean": [
       {
         "mean_english": "cổ tay",
@@ -1286,7 +1257,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "200027552"
+    "hash_code_list_definition_mean": "25999333"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/writer_cb_dmean_5000_it.json",
@@ -1309,7 +1280,7 @@
         "id_image": "writer_2653927"
       }
     ],
-    "hash_code_list_img": "1107854141",
+    "hash_code_list_img": "-1780892378",
     "list_definition_mean": [
       {
         "mean_english": "tác giả",
@@ -1320,7 +1291,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1565462516"
+    "hash_code_list_definition_mean": "406201004"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/write_cb_dmean_5000_it.json",
@@ -1350,7 +1321,7 @@
         "id_image": "write_878563"
       }
     ],
-    "hash_code_list_img": "486128084",
+    "hash_code_list_img": "-1574456222",
     "list_definition_mean": [
       {
         "mean_english": "viết",
@@ -1378,7 +1349,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-113253979"
+    "hash_code_list_definition_mean": "-827920693"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wrong_cb_dmean_5000_it.json",
@@ -1418,7 +1389,7 @@
         "id_image": "wrong_5705495"
       }
     ],
-    "hash_code_list_img": "549891435",
+    "hash_code_list_img": "2087022911",
     "list_definition_mean": [
       {
         "mean_english": "sai",
@@ -1479,6 +1450,6 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-593160893"
+    "hash_code_list_definition_mean": "-565717908"
   }
 ]

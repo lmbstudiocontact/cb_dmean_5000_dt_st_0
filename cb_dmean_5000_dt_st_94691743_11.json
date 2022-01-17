@@ -20,7 +20,7 @@
         "id_image": "gunman_2495713"
       }
     ],
-    "hash_code_list_img": "321534050",
+    "hash_code_list_img": "-59550341",
     "list_definition_mean": [
       {
         "mean_english": "tay súng",
@@ -30,7 +30,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1312634593"
+    "hash_code_list_definition_mean": "2048393229"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gun_cb_dmean_5000_it.json",
@@ -48,7 +48,7 @@
         "id_image": "gun_414809"
       }
     ],
-    "hash_code_list_img": "641618253",
+    "hash_code_list_img": "2070627977",
     "list_definition_mean": [
       {
         "mean_english": "súng",
@@ -58,7 +58,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "26406167"
+    "hash_code_list_definition_mean": "1044788962"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/guru_cb_dmean_5000_it.json",
@@ -82,12 +82,8 @@
         "id_image": "guru_3496213"
       }
     ],
-    "hash_code_list_img": "958756451",
+    "hash_code_list_img": "833461754",
     "list_definition_mean": [
-      {
-        "mean_english": "giáo trưởng ở Ấn Độ",
-        "definition": "a religious teacher or leader, especially in Hinduism or Sikhism."
-      },
       {
         "mean_english": "người có uy tín",
         "definition": "an expert on a particular subject who gives advice to other people",
@@ -96,7 +92,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "703062242"
+    "hash_code_list_definition_mean": "1720078490"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gutter_cb_dmean_5000_it.json",
@@ -114,7 +110,7 @@
         "id_image": "gutter_5613134"
       }
     ],
-    "hash_code_list_img": "2024985277",
+    "hash_code_list_img": "1534376852",
     "list_definition_mean": [
       {
         "mean_english": "rãnh nước",
@@ -124,7 +120,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1289154730"
+    "hash_code_list_definition_mean": "254093185"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/guy_cb_dmean_5000_it.json",
@@ -148,7 +144,7 @@
         "id_image": "guy_4968145"
       }
     ],
-    "hash_code_list_img": "1236917906",
+    "hash_code_list_img": "922299681",
     "list_definition_mean": [
       {
         "mean_english": "anh chàng; gã",
@@ -156,13 +152,9 @@
         "ex_of_definition_list": [
           "I don’t know the guy you’re talking about."
         ]
-      },
-      {
-        "mean_english": "dây thừng",
-        "definition": "(also guy-rope) a rope which keeps a tent etc steady."
       }
     ],
-    "hash_code_list_definition_mean": "1869993763"
+    "hash_code_list_definition_mean": "1734079840"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gym_cb_dmean_5000_it.json",
@@ -190,7 +182,7 @@
         "id_image": "gym_2503456"
       }
     ],
-    "hash_code_list_img": "-330878622",
+    "hash_code_list_img": "-1436113976",
     "list_definition_mean": [
       {
         "mean_english": "phòng tập thể dục",
@@ -201,7 +193,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "801954222"
+    "hash_code_list_definition_mean": "1925514862"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gypsy_cb_dmean_5000_it.json",
@@ -219,7 +211,7 @@
         "id_image": "gypsy_1081093"
       }
     ],
-    "hash_code_list_img": "345127197",
+    "hash_code_list_img": "1570606830",
     "list_definition_mean": [
       {
         "mean_english": "dân Gipxi",
@@ -229,7 +221,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1465902841"
+    "hash_code_list_definition_mean": "2006906346"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/habit_cb_dmean_5000_it.json",
@@ -259,7 +251,7 @@
         "id_image": "habit_6193291"
       }
     ],
-    "hash_code_list_img": "1049332354",
+    "hash_code_list_img": "-10713298",
     "list_definition_mean": [
       {
         "mean_english": "thói quen",
@@ -284,7 +276,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1633244367"
+    "hash_code_list_definition_mean": "849779550"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hack_cb_dmean_5000_it.json",
@@ -315,7 +307,7 @@
         "id_image": "hack_2456775"
       }
     ],
-    "hash_code_list_img": "-1459070175",
+    "hash_code_list_img": "-675072245",
     "list_definition_mean": [
       {
         "mean_english": "chặt; đốn",
@@ -338,13 +330,9 @@
         "ex_of_definition_list": [
           "He marked the tree by making a few hacks on the trunk."
         ]
-      },
-      {
-        "mean_english": "ngựa, xe ô tô cho thuê",
-        "definition": "a horse, or in the United States, a car, for hire."
       }
     ],
-    "hash_code_list_definition_mean": "-1494296065"
+    "hash_code_list_definition_mean": "-806299667"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hail_cb_dmean_5000_it.json",
@@ -388,7 +376,7 @@
         "id_image": "hail_6236375"
       }
     ],
-    "hash_code_list_img": "-184010715",
+    "hash_code_list_img": "1963991415",
     "list_definition_mean": [
       {
         "mean_english": "trận mưa đá",
@@ -441,7 +429,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "705402005"
+    "hash_code_list_definition_mean": "727375202"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/haircut_cb_dmean_5000_it.json",
@@ -469,7 +457,7 @@
         "id_image": "haircut_3460756"
       }
     ],
-    "hash_code_list_img": "1897464374",
+    "hash_code_list_img": "703969011",
     "list_definition_mean": [
       {
         "mean_english": "sự cắt tóc",
@@ -479,7 +467,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1475186612"
+    "hash_code_list_definition_mean": "1919352973"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hairdresser_cb_dmean_5000_it.json",
@@ -507,7 +495,7 @@
         "id_image": "hairdresser_4514328"
       }
     ],
-    "hash_code_list_img": "1977379260",
+    "hash_code_list_img": "-791056572",
     "list_definition_mean": [
       {
         "mean_english": "thợ cắt tóc; thợ làm đầu",
@@ -517,7 +505,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1560388362"
+    "hash_code_list_definition_mean": "809350696"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hairpin_cb_dmean_5000_it.json",
@@ -556,12 +544,8 @@
         "id_image": "hairpin_5362053"
       }
     ],
-    "hash_code_list_img": "1432055560",
+    "hash_code_list_img": "-809089302",
     "list_definition_mean": [
-      {
-        "mean_english": "cái kẹp tóc",
-        "definition": "a bent wire for keeping a woman’s hair in place."
-      },
       {
         "mean_english": "chỗ cua gấp trên đường",
         "definition": "(of a bend in a road) sharp and U-shaped, especially on a mountain or a hill",
@@ -570,7 +554,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-799014499"
+    "hash_code_list_definition_mean": "1467218012"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hairstyle_cb_dmean_5000_it.json",
@@ -598,7 +582,7 @@
         "id_image": "hairstyle_6003245"
       }
     ],
-    "hash_code_list_img": "-1854561558",
+    "hash_code_list_img": "1059981151",
     "list_definition_mean": [
       {
         "mean_english": "kiểu tóc",
@@ -608,7 +592,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "872422524"
+    "hash_code_list_definition_mean": "52813914"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hairy_cb_dmean_5000_it.json",
@@ -626,7 +610,7 @@
         "id_image": "hairy_340028"
       }
     ],
-    "hash_code_list_img": "1533296013",
+    "hash_code_list_img": "1138931961",
     "list_definition_mean": [
       {
         "mean_english": "rậm tóc, lông",
@@ -636,7 +620,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1636726656"
+    "hash_code_list_definition_mean": "1974726457"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hair_cb_dmean_5000_it.json",
@@ -670,7 +654,7 @@
         "id_image": "hair_3791206"
       }
     ],
-    "hash_code_list_img": "-1112152011",
+    "hash_code_list_img": "-390422529",
     "list_definition_mean": [
       {
         "mean_english": "lông",
@@ -687,7 +671,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1928450338"
+    "hash_code_list_definition_mean": "1514441775"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/half_cb_dmean_5000_it.json",
@@ -697,14 +681,12 @@
     "list_mean": [
       "một nửa",
       "hiệp",
-      "một nửa",
       "tạo thành từ hai nửa",
       "chưa đủ; chưa hoàn chỉnh",
       "tới một nửa",
-      "một phần",
-      "một nửa"
+      "một phần"
     ],
-    "hash_code_list_mean": "323591103",
+    "hash_code_list_mean": "-2062142845",
     "list_img": [
       {
         "link_thumb": "https://live.staticflickr.com/65535/51808360227_e85190b012_n.jpg",
@@ -717,8 +699,64 @@
         "id_image": "half_5331557"
       }
     ],
-    "hash_code_list_img": "771624239",
-    "hash_code_list_definition_mean": ""
+    "hash_code_list_img": "1599255158",
+    "list_definition_mean": [
+      {
+        "mean_english": "một nửa",
+        "definition": "one of two equal parts of anything",
+        "ex_of_definition_list": [
+          "He tried to stick the two halves together again",
+          "half a kilo of sugar",
+          "a kilo and a half of sugar",
+          "one and a half kilos of sugar."
+        ]
+      },
+      {
+        "mean_english": "hiệp",
+        "definition": "one of two equal parts of a game (eg in football, hockey) usually with a break between them",
+        "ex_of_definition_list": [
+          "Rangers scored three goals in the first half."
+        ]
+      },
+      {
+        "mean_english": "một nửa",
+        "definition": "being (equal to) one of two equal parts (of something)",
+        "ex_of_definition_list": [
+          "a half bottle of wine."
+        ]
+      },
+      {
+        "mean_english": "tạo thành từ hai nửa",
+        "definition": "being made up of two things in equal parts",
+        "ex_of_definition_list": [
+          "A centaur is a mythical creature, half man and half horse."
+        ]
+      },
+      {
+        "mean_english": "chưa đủ; chưa hoàn chỉnh",
+        "definition": "not full or complete",
+        "ex_of_definition_list": [
+          "a half smile."
+        ]
+      },
+      {
+        "mean_english": "tới một nửa",
+        "definition": "to the extent of one half",
+        "ex_of_definition_list": [
+          "This cup is only half full",
+          "It’s half empty."
+        ]
+      },
+      {
+        "mean_english": "một phần",
+        "definition": "almost; partly",
+        "ex_of_definition_list": [
+          "I’m half hoping he won’t come",
+          "He was half dead from hunger."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "863092039"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hallucination_cb_dmean_5000_it.json",
@@ -741,7 +779,7 @@
         "id_image": "hallucination_3997830"
       }
     ],
-    "hash_code_list_img": "-1190896575",
+    "hash_code_list_img": "-982205198",
     "list_definition_mean": [
       {
         "mean_english": "ảo giác",
@@ -751,7 +789,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "307923669"
+    "hash_code_list_definition_mean": "1999357160"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hallway_cb_dmean_5000_it.json",
@@ -769,7 +807,7 @@
         "id_image": "hallway_3650715"
       }
     ],
-    "hash_code_list_img": "1999690271",
+    "hash_code_list_img": "1651216561",
     "list_definition_mean": [
       {
         "mean_english": "phòng đợi; hành lang",
@@ -779,7 +817,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "838466002"
+    "hash_code_list_definition_mean": "1271859405"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hall_cb_dmean_5000_it.json",
@@ -806,7 +844,7 @@
         "id_image": "hall_3981093"
       }
     ],
-    "hash_code_list_img": "-1692581726",
+    "hash_code_list_img": "725932693",
     "list_definition_mean": [
       {
         "mean_english": "phòng đợi",
@@ -831,10 +869,6 @@
         ]
       },
       {
-        "mean_english": "hành lang",
-        "definition": "a passageway through a building; a corridor."
-      },
-      {
         "mean_english": "ký túc xá",
         "definition": "a building of a university, college etc, especially one in which students etc live",
         "ex_of_definition_list": [
@@ -842,7 +876,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1436527268"
+    "hash_code_list_definition_mean": "1071127024"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hamburger_cb_dmean_5000_it.json",
@@ -866,12 +900,8 @@
         "id_image": "hamburger_816180"
       }
     ],
-    "hash_code_list_img": "-1474624147",
+    "hash_code_list_img": "1900369076",
     "list_definition_mean": [
-      {
-        "mean_english": "bánh kẹp thịt bò",
-        "definition": "a round cake of minced/ground beef, usually fried."
-      },
       {
         "mean_english": "bánh hamburge cuộn",
         "definition": "a bread roll containing one of these",
@@ -880,7 +910,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "397764532"
+    "hash_code_list_definition_mean": "98984906"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hammer_cb_dmean_5000_it.json",
@@ -912,7 +942,7 @@
         "id_image": "hammer_942385"
       }
     ],
-    "hash_code_list_img": "-1382212761",
+    "hash_code_list_img": "1165694064",
     "list_definition_mean": [
       {
         "mean_english": "cái búa",
@@ -921,14 +951,6 @@
           "He accidentally hit his thumb with the hammer",
           "a joiner’s hammer."
         ]
-      },
-      {
-        "mean_english": "đầu cần",
-        "definition": "the part of a bell, piano, clock etc that hits against some other part, so making a noise."
-      },
-      {
-        "mean_english": "ném búa",
-        "definition": "in sport, a metal ball on a long steel handle for throwing."
       },
       {
         "mean_english": "đóng bằng búa",
@@ -945,7 +967,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1436340213"
+    "hash_code_list_definition_mean": "443469707"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hamper_cb_dmean_5000_it.json",
@@ -969,7 +991,7 @@
         "id_image": "hamper_4277886"
       }
     ],
-    "hash_code_list_img": "1477030383",
+    "hash_code_list_img": "-1128402567",
     "list_definition_mean": [
       {
         "mean_english": "ngăn cản",
@@ -986,7 +1008,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1358524197"
+    "hash_code_list_definition_mean": "-1676124790"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/ham_cb_dmean_5000_it.json",
@@ -1009,7 +1031,7 @@
         "id_image": "ham_1660603"
       }
     ],
-    "hash_code_list_img": "-84900779",
+    "hash_code_list_img": "-1493035196",
     "list_definition_mean": [
       {
         "mean_english": "giăm bông",
@@ -1019,7 +1041,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1649565170"
+    "hash_code_list_definition_mean": "562337355"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handbag_cb_dmean_5000_it.json",
@@ -1042,7 +1064,7 @@
         "id_image": "handbag_592160"
       }
     ],
-    "hash_code_list_img": "290569119",
+    "hash_code_list_img": "1790401485",
     "list_definition_mean": [
       {
         "mean_english": "túi xách",
@@ -1052,7 +1074,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1761371017"
+    "hash_code_list_definition_mean": "918835560"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handbook_cb_dmean_5000_it.json",
@@ -1075,7 +1097,7 @@
         "id_image": "handbook_4914324"
       }
     ],
-    "hash_code_list_img": "-980065982",
+    "hash_code_list_img": "-657626020",
     "list_definition_mean": [
       {
         "mean_english": "sổ tay",
@@ -1086,7 +1108,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1845548886"
+    "hash_code_list_definition_mean": "1129983132"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handbrake_cb_dmean_5000_it.json",
@@ -1114,7 +1136,7 @@
         "id_image": "handbrake_3410140"
       }
     ],
-    "hash_code_list_img": "-559136678",
+    "hash_code_list_img": "-1166727078",
     "list_definition_mean": [
       {
         "mean_english": "phanh tay",
@@ -1124,7 +1146,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "700586730"
+    "hash_code_list_definition_mean": "985075027"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handcuff_cb_dmean_5000_it.json",
@@ -1142,7 +1164,7 @@
         "id_image": "handcuff_2302412"
       }
     ],
-    "hash_code_list_img": "602837758",
+    "hash_code_list_img": "2062575962",
     "list_definition_mean": [
       {
         "mean_english": "khoá bằng còng số tám",
@@ -1152,7 +1174,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "2087699095"
+    "hash_code_list_definition_mean": "891122315"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handgun_cb_dmean_5000_it.json",
@@ -1170,7 +1192,7 @@
         "id_image": "handgun_1280488"
       }
     ],
-    "hash_code_list_img": "1260069492",
+    "hash_code_list_img": "685227402",
     "list_definition_mean": [
       {
         "mean_english": "súng ngắn",
@@ -1180,7 +1202,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "443172276"
+    "hash_code_list_definition_mean": "395393418"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handicap_cb_dmean_5000_it.json",
@@ -1212,7 +1234,7 @@
         "id_image": "handicap_354481"
       }
     ],
-    "hash_code_list_img": "83423799",
+    "hash_code_list_img": "1051392289",
     "list_definition_mean": [
       {
         "mean_english": "điều bất lợi",
@@ -1220,14 +1242,6 @@
         "ex_of_definition_list": [
           "The loss of a finger would be a handicap for a pianist."
         ]
-      },
-      {
-        "mean_english": "cuộc thi có chấp",
-        "definition": "(in a race, competition etc) a disadvantage of some sort (eg having to run a greater distance in a race) given to the best competitors so that others have a better chance of winning."
-      },
-      {
-        "mean_english": "cuộc thi có chấp (để hai bên cân sức)",
-        "definition": "a race, competition etc in which this happens."
       },
       {
         "mean_english": "tàn tật",
@@ -1244,7 +1258,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "315418328"
+    "hash_code_list_definition_mean": "-72671312"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handkerchief_cb_dmean_5000_it.json",
@@ -1272,7 +1286,7 @@
         "id_image": "handkerchief_4507854"
       }
     ],
-    "hash_code_list_img": "-331205186",
+    "hash_code_list_img": "-730633553",
     "list_definition_mean": [
       {
         "mean_english": "khăn tay",
@@ -1282,7 +1296,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "448700940"
+    "hash_code_list_definition_mean": "1961793514"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handle_cb_dmean_5000_it.json",
@@ -1319,7 +1333,7 @@
         "id_image": "handle_6344536"
       }
     ],
-    "hash_code_list_img": "1216758795",
+    "hash_code_list_img": "-101502304",
     "list_definition_mean": [
       {
         "mean_english": "quai; tay cầm",
@@ -1358,7 +1372,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "673643382"
+    "hash_code_list_definition_mean": "-1017645237"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handmade_cb_dmean_5000_it.json",
@@ -1386,7 +1400,7 @@
         "id_image": "handmade_3967370"
       }
     ],
-    "hash_code_list_img": "-1961209203",
+    "hash_code_list_img": "1394769052",
     "list_definition_mean": [
       {
         "mean_english": "làm bằng tay",
@@ -1396,7 +1410,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1672434373"
+    "hash_code_list_definition_mean": "2145041242"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handshake_cb_dmean_5000_it.json",
@@ -1429,7 +1443,7 @@
         "id_image": "handshake_993715"
       }
     ],
-    "hash_code_list_img": "1130553779",
+    "hash_code_list_img": "-1437560991",
     "list_definition_mean": [
       {
         "mean_english": "cái bắt tay",
@@ -1439,7 +1453,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1156038794"
+    "hash_code_list_definition_mean": "2076619062"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handsome_cb_dmean_5000_it.json",
@@ -1463,7 +1477,7 @@
         "id_image": "handsome_3891309"
       }
     ],
-    "hash_code_list_img": "-190472400",
+    "hash_code_list_img": "-1035617450",
     "list_definition_mean": [
       {
         "mean_english": "đẹp trai",
@@ -1480,7 +1494,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "2020279477"
+    "hash_code_list_definition_mean": "368427431"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handstand_cb_dmean_5000_it.json",
@@ -1498,7 +1512,7 @@
         "id_image": "handstand_4598525"
       }
     ],
-    "hash_code_list_img": "637328613",
+    "hash_code_list_img": "1664879232",
     "list_definition_mean": [
       {
         "mean_english": "trồng cây chuối",
@@ -1508,7 +1522,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1434809885"
+    "hash_code_list_definition_mean": "98264802"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handyman_cb_dmean_5000_it.json",
@@ -1531,7 +1545,7 @@
         "id_image": "handyman_2767679"
       }
     ],
-    "hash_code_list_img": "-1005303249",
+    "hash_code_list_img": "-1210313871",
     "list_definition_mean": [
       {
         "mean_english": "người làm những công việc lặt vặt",
@@ -1541,7 +1555,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "403683253"
+    "hash_code_list_definition_mean": "1228025123"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handy_cb_dmean_5000_it.json",
@@ -1565,7 +1579,7 @@
         "id_image": "handy_3879792"
       }
     ],
-    "hash_code_list_img": "-2037427148",
+    "hash_code_list_img": "-1008049759",
     "list_definition_mean": [
       {
         "mean_english": "sẵn có; thuận tiện",
@@ -1583,7 +1597,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1639945494"
+    "hash_code_list_definition_mean": "-1903002758"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hand_cb_dmean_5000_it.json",
@@ -1619,7 +1633,7 @@
         "id_image": "hand_673871"
       }
     ],
-    "hash_code_list_img": "-611881287",
+    "hash_code_list_img": "-1040442883",
     "list_definition_mean": [
       {
         "mean_english": "bàn tay",
@@ -1690,7 +1704,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "243497561"
+    "hash_code_list_definition_mean": "-1566670200"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hanger_cb_dmean_5000_it.json",
@@ -1718,7 +1732,7 @@
         "id_image": "hanger_547913"
       }
     ],
-    "hash_code_list_img": "-1608085875",
+    "hash_code_list_img": "-664543636",
     "list_definition_mean": [
       {
         "mean_english": "mắc áo",
@@ -1728,7 +1742,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "655089823"
+    "hash_code_list_definition_mean": "1340714522"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hang_cb_dmean_5000_it.json",
@@ -1755,7 +1769,7 @@
         "id_image": "hang_2780746"
       }
     ],
-    "hash_code_list_img": "-355920785",
+    "hash_code_list_img": "645779148",
     "list_definition_mean": [
       {
         "mean_english": "treo; mắc",
@@ -1795,7 +1809,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1056167445"
+    "hash_code_list_definition_mean": "1156692306"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/happy_cb_dmean_5000_it.json",
@@ -1820,7 +1834,7 @@
         "id_image": "happy_817745"
       }
     ],
-    "hash_code_list_img": "-914628962",
+    "hash_code_list_img": "996629950",
     "list_definition_mean": [
       {
         "mean_english": "hạnh phúc",
@@ -1845,7 +1859,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1808436016"
+    "hash_code_list_definition_mean": "901940601"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/harbour_cb_dmean_5000_it.json",
@@ -1880,7 +1894,7 @@
         "id_image": "harbour_5626926"
       }
     ],
-    "hash_code_list_img": "1363703391",
+    "hash_code_list_img": "1741612479",
     "list_definition_mean": [
       {
         "mean_english": "cảng",
@@ -1904,7 +1918,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1934898942"
+    "hash_code_list_definition_mean": "-1542430525"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hardware_cb_dmean_5000_it.json",
@@ -1933,7 +1947,7 @@
         "id_image": "hardware_675600"
       }
     ],
-    "hash_code_list_img": "927483516",
+    "hash_code_list_img": "743501719",
     "list_definition_mean": [
       {
         "mean_english": "đồ ngũ kim",
@@ -1950,7 +1964,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1695994203"
+    "hash_code_list_definition_mean": "570303213"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hard_cb_dmean_5000_it.json",
@@ -1987,7 +2001,7 @@
         "id_image": "hard_827667"
       }
     ],
-    "hash_code_list_img": "-1990084855",
+    "hash_code_list_img": "-2016701943",
     "list_definition_mean": [
       {
         "mean_english": "cứng rắn",
@@ -2064,7 +2078,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-74312259"
+    "hash_code_list_definition_mean": "799143912"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/harmful_cb_dmean_5000_it.json",
@@ -2087,7 +2101,7 @@
         "id_image": "harmful_3922393"
       }
     ],
-    "hash_code_list_img": "-2012810567",
+    "hash_code_list_img": "-1781304851",
     "list_definition_mean": [
       {
         "mean_english": "có hại",
@@ -2097,7 +2111,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "176469757"
+    "hash_code_list_definition_mean": "1708315627"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/harmonic_cb_dmean_5000_it.json",
@@ -2115,7 +2129,7 @@
         "id_image": "harmonic_352273"
       }
     ],
-    "hash_code_list_img": "1544369972",
+    "hash_code_list_img": "211984478",
     "list_definition_mean": [
       {
         "mean_english": "hài hoà; hòa âm",
@@ -2125,7 +2139,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1938841118"
+    "hash_code_list_definition_mean": "2141012178"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/harmony_cb_dmean_5000_it.json",
@@ -2164,7 +2178,7 @@
         "id_image": "harmony_5265801"
       }
     ],
-    "hash_code_list_img": "-272368343",
+    "hash_code_list_img": "-1595058320",
     "list_definition_mean": [
       {
         "mean_english": "sự hài hoà; sự hoà âm",
@@ -2181,7 +2195,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-2123452755"
+    "hash_code_list_definition_mean": "1127653800"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/harpoon_cb_dmean_5000_it.json",
@@ -2210,12 +2224,8 @@
         "id_image": "harpoon_4690500"
       }
     ],
-    "hash_code_list_img": "-509801105",
+    "hash_code_list_img": "1404027094",
     "list_definition_mean": [
-      {
-        "mean_english": "cây lao móc",
-        "definition": "a spear fastened to a rope, used especially for killing whales."
-      },
       {
         "mean_english": "đâm bằng cây lao móc",
         "definition": "to strike with a harpoon",
@@ -2224,7 +2234,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1178732257"
+    "hash_code_list_definition_mean": "1312634593"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/harvest_cb_dmean_5000_it.json",
@@ -2258,7 +2268,7 @@
         "id_image": "harvest_5612929"
       }
     ],
-    "hash_code_list_img": "-1873527381",
+    "hash_code_list_img": "444052422",
     "list_definition_mean": [
       {
         "mean_english": "việc thu hoạch",
@@ -2275,6 +2285,6 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-647759189"
+    "hash_code_list_definition_mean": "-1481106698"
   }
 ]

@@ -26,7 +26,7 @@
         "id_image": "moon_433842"
       }
     ],
-    "hash_code_list_img": "1065378258",
+    "hash_code_list_img": "1912787916",
     "list_definition_mean": [
       {
         "mean_english": "mặt trăng",
@@ -44,7 +44,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1031669899"
+    "hash_code_list_definition_mean": "-1716089727"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/moor_cb_dmean_5000_it.json",
@@ -63,12 +63,8 @@
         "id_image": "moor_2000317"
       }
     ],
-    "hash_code_list_img": "89432850",
+    "hash_code_list_img": "223198035",
     "list_definition_mean": [
-      {
-        "mean_english": "đồng hoang",
-        "definition": "a large stretch of open, unfarmed land with poor soil often covered with heather, coarse grass etc."
-      },
       {
         "mean_english": "neo tàu",
         "definition": "to fasten (a ship etc) by a rope, cable or anchor",
@@ -77,7 +73,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-630462482"
+    "hash_code_list_definition_mean": "438055082"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mop_cb_dmean_5000_it.json",
@@ -114,7 +110,7 @@
         "id_image": "mop_5234131"
       }
     ],
-    "hash_code_list_img": "847258374",
+    "hash_code_list_img": "-991180304",
     "list_definition_mean": [
       {
         "mean_english": "giẻ lau sàn",
@@ -152,7 +148,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "943539934"
+    "hash_code_list_definition_mean": "186105536"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/moral_cb_dmean_5000_it.json",
@@ -176,7 +172,7 @@
         "id_image": "moral_6352978"
       }
     ],
-    "hash_code_list_img": "-2005929418",
+    "hash_code_list_img": "1950733545",
     "list_definition_mean": [
       {
         "mean_english": "thuộc đạo đức",
@@ -194,7 +190,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1002149951"
+    "hash_code_list_definition_mean": "213322179"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/more_cb_dmean_5000_it.json",
@@ -205,12 +201,10 @@
       "nhiều hơn",
       "thêm nữa",
       "hơn",
-      "nhiều hơn",
       "một lần nữa",
-      "nhiều hơn",
       "thêm"
     ],
-    "hash_code_list_mean": "-2116478601",
+    "hash_code_list_mean": "-1663254703",
     "list_img": [
       {
         "link_thumb": "https://live.staticflickr.com/65535/51809451318_ab815318a1_n.jpg",
@@ -223,7 +217,7 @@
         "id_image": "more_455902"
       }
     ],
-    "hash_code_list_img": "621717278",
+    "hash_code_list_img": "1704037556",
     "list_definition_mean": [
       {
         "mean_english": "nhiều hơn",
@@ -276,7 +270,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-2112279898"
+    "hash_code_list_definition_mean": "-2016084258"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/morgue_cb_dmean_5000_it.json",
@@ -299,7 +293,7 @@
         "id_image": "morgue_6001056"
       }
     ],
-    "hash_code_list_img": "-47886800",
+    "hash_code_list_img": "1738607129",
     "list_definition_mean": [
       {
         "mean_english": "nhà xác",
@@ -309,7 +303,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1677732113"
+    "hash_code_list_definition_mean": "725028040"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mortar_cb_dmean_5000_it.json",
@@ -344,16 +338,8 @@
         "id_image": "mortar_963300"
       }
     ],
-    "hash_code_list_img": "1957472578",
+    "hash_code_list_img": "968231494",
     "list_definition_mean": [
-      {
-        "mean_english": "vữa",
-        "definition": "a mixture of cement, sand and water, used in building eg to hold bricks in place."
-      },
-      {
-        "mean_english": "súng cối",
-        "definition": "a type of short gun for firing shells upwards, in close-range attacks."
-      },
       {
         "mean_english": "cối giã",
         "definition": "a dish in which to grind substances, especially with a pestle",
@@ -362,7 +348,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "113096586"
+    "hash_code_list_definition_mean": "637283246"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mortgage_cb_dmean_5000_it.json",
@@ -396,7 +382,7 @@
         "id_image": "mortgage_646635"
       }
     ],
-    "hash_code_list_img": "1590341771",
+    "hash_code_list_img": "-2069387477",
     "list_definition_mean": [
       {
         "mean_english": "văn tự thế chấp",
@@ -405,13 +391,9 @@
           "a fixed-rate mortgage",
           "(also adjective) mortgage repayments."
         ]
-      },
-      {
-        "mean_english": "thế chấp",
-        "definition": "to offer (buildings etc) as security for a loan."
       }
     ],
-    "hash_code_list_definition_mean": "-1892796253"
+    "hash_code_list_definition_mean": "1539258504"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mosquito_cb_dmean_5000_it.json",
@@ -439,7 +421,7 @@
         "id_image": "mosquito_3154460"
       }
     ],
-    "hash_code_list_img": "819882216",
+    "hash_code_list_img": "-1647976106",
     "list_definition_mean": [
       {
         "mean_english": "con muỗi",
@@ -450,7 +432,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "733026509"
+    "hash_code_list_definition_mean": "1007881425"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/moss_cb_dmean_5000_it.json",
@@ -478,7 +460,7 @@
         "id_image": "moss_3968223"
       }
     ],
-    "hash_code_list_img": "1098017224",
+    "hash_code_list_img": "1452932773",
     "list_definition_mean": [
       {
         "mean_english": "rêu",
@@ -488,7 +470,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1345525168"
+    "hash_code_list_definition_mean": "90777730"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/motherboard_cb_dmean_5000_it.json",
@@ -516,7 +498,7 @@
         "id_image": "motherboard_3868395"
       }
     ],
-    "hash_code_list_img": "-1927546984",
+    "hash_code_list_img": "1924034989",
     "list_definition_mean": [
       {
         "mean_english": "bo mạch chủ",
@@ -526,7 +508,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1218622641"
+    "hash_code_list_definition_mean": "1755976067"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/motherhood_cb_dmean_5000_it.json",
@@ -549,7 +531,7 @@
         "id_image": "motherhood_394438"
       }
     ],
-    "hash_code_list_img": "-1770195311",
+    "hash_code_list_img": "-166126276",
     "list_definition_mean": [
       {
         "mean_english": "tình mẹ",
@@ -559,7 +541,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "21964142"
+    "hash_code_list_definition_mean": "1846406214"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mother_cb_dmean_5000_it.json",
@@ -584,7 +566,7 @@
         "id_image": "mother_819074"
       }
     ],
-    "hash_code_list_img": "380803017",
+    "hash_code_list_img": "-869045137",
     "list_definition_mean": [
       {
         "mean_english": "mẹ",
@@ -609,7 +591,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "252540992"
+    "hash_code_list_definition_mean": "-1217836456"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/moth_cb_dmean_5000_it.json",
@@ -633,12 +615,8 @@
         "id_image": "moth_5517066"
       }
     ],
-    "hash_code_list_img": "-1196922322",
+    "hash_code_list_img": "-2010206713",
     "list_definition_mean": [
-      {
-        "mean_english": "con thiêu thân",
-        "definition": "any of a large number of insects, rather like butterflies but with wider bodies, seen mostly at night and attracted by light."
-      },
       {
         "mean_english": "mọt vải",
         "definition": "a clothes moth",
@@ -647,7 +625,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-186990614"
+    "hash_code_list_definition_mean": "1527894263"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/motion_cb_dmean_5000_it.json",
@@ -683,7 +661,7 @@
         "id_image": "motion_5775923"
       }
     ],
-    "hash_code_list_img": "-962350380",
+    "hash_code_list_img": "-455059595",
     "list_definition_mean": [
       {
         "mean_english": "sự vận động",
@@ -715,7 +693,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-66831896"
+    "hash_code_list_definition_mean": "2130657447"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/motivate_cb_dmean_5000_it.json",
@@ -753,7 +731,7 @@
         "id_image": "motivate_6002895"
       }
     ],
-    "hash_code_list_img": "-1466439234",
+    "hash_code_list_img": "-2116168408",
     "list_definition_mean": [
       {
         "mean_english": "thúc đẩy",
@@ -763,7 +741,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1655635092"
+    "hash_code_list_definition_mean": "1131908492"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/motorbike_cb_dmean_5000_it.json",
@@ -796,7 +774,7 @@
         "id_image": "motorbike_698597"
       }
     ],
-    "hash_code_list_img": "1777716906",
+    "hash_code_list_img": "275001196",
     "list_definition_mean": [
       {
         "mean_english": "xe mô tô",
@@ -806,7 +784,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1819657735"
+    "hash_code_list_definition_mean": "225009596"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/motorcyclist_cb_dmean_5000_it.json",
@@ -834,7 +812,7 @@
         "id_image": "motorcyclist_4532474"
       }
     ],
-    "hash_code_list_img": "2017343879",
+    "hash_code_list_img": "372363646",
     "list_definition_mean": [
       {
         "mean_english": "người lái xe mô tô",
@@ -844,7 +822,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "680415456"
+    "hash_code_list_definition_mean": "1678289099"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/motorway_cb_dmean_5000_it.json",
@@ -872,7 +850,7 @@
         "id_image": "motorway_3393375"
       }
     ],
-    "hash_code_list_img": "1605171695",
+    "hash_code_list_img": "-412720843",
     "list_definition_mean": [
       {
         "mean_english": "xa lộ",
@@ -882,7 +860,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "107799763"
+    "hash_code_list_definition_mean": "1492835562"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/motor_cb_dmean_5000_it.json",
@@ -911,7 +889,7 @@
         "id_image": "motor_465048"
       }
     ],
-    "hash_code_list_img": "1525828855",
+    "hash_code_list_img": "-369999386",
     "list_definition_mean": [
       {
         "mean_english": "động cơ ô tô",
@@ -929,7 +907,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1291723156"
+    "hash_code_list_definition_mean": "-655436261"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mould_cb_dmean_5000_it.json",
@@ -942,10 +920,9 @@
       "khuôn",
       "đường gờ, đường chỉ",
       "đúc",
-      "nặn",
       "nặn"
     ],
-    "hash_code_list_mean": "524720576",
+    "hash_code_list_mean": "-675821467",
     "list_img": [
       {
         "link_thumb": "https://live.staticflickr.com/65535/51809334461_7a97f15fbb_n.jpg",
@@ -963,12 +940,8 @@
         "id_image": "mould_817327"
       }
     ],
-    "hash_code_list_img": "1625059142",
+    "hash_code_list_img": "357795538",
     "list_definition_mean": [
-      {
-        "mean_english": "đất tơi xốp",
-        "definition": "(soil which is full of) rotted leaves etc."
-      },
       {
         "mean_english": "mốc meo",
         "definition": "a growth on stale food etc",
@@ -982,10 +955,6 @@
         "ex_of_definition_list": [
           "a jelly mould/mold."
         ]
-      },
-      {
-        "mean_english": "đường gờ, đường chỉ",
-        "definition": "something, especially a food, formed in a mould/mold."
       },
       {
         "mean_english": "đúc",
@@ -1009,7 +978,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1611026553"
+    "hash_code_list_definition_mean": "66430992"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mountain_cb_dmean_5000_it.json",
@@ -1037,7 +1006,7 @@
         "id_image": "mountain_661933"
       }
     ],
-    "hash_code_list_img": "-1313432114",
+    "hash_code_list_img": "1340459326",
     "list_definition_mean": [
       {
         "mean_english": "núi",
@@ -1048,7 +1017,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "616459859"
+    "hash_code_list_definition_mean": "720486265"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mount_cb_dmean_5000_it.json",
@@ -1073,7 +1042,7 @@
         "id_image": "mount_306730"
       }
     ],
-    "hash_code_list_img": "307536876",
+    "hash_code_list_img": "31874156",
     "list_definition_mean": [
       {
         "mean_english": "leo",
@@ -1113,10 +1082,6 @@
         ]
       },
       {
-        "mean_english": "ngựa cưỡi",
-        "definition": "a thing or animal that one rides, especially a horse."
-      },
-      {
         "mean_english": "khung",
         "definition": "a support or backing on which anything is placed for display",
         "ex_of_definition_list": [
@@ -1131,7 +1096,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "466926757"
+    "hash_code_list_definition_mean": "1185063733"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mourn_cb_dmean_5000_it.json",
@@ -1149,7 +1114,7 @@
         "id_image": "mourn_3768716"
       }
     ],
-    "hash_code_list_img": "588108689",
+    "hash_code_list_img": "1679092663",
     "list_definition_mean": [
       {
         "mean_english": "than khóc, thương tiếc",
@@ -1159,7 +1124,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "8972409"
+    "hash_code_list_definition_mean": "1804109489"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mousse_cb_dmean_5000_it.json",
@@ -1187,7 +1152,7 @@
         "id_image": "mousse_2455852"
       }
     ],
-    "hash_code_list_img": "-173990145",
+    "hash_code_list_img": "629525148",
     "list_definition_mean": [
       {
         "mean_english": "món kem mút",
@@ -1197,7 +1162,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1715259624"
+    "hash_code_list_definition_mean": "102373394"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/moustache_cb_dmean_5000_it.json",
@@ -1215,7 +1180,7 @@
         "id_image": "moustache_205043"
       }
     ],
-    "hash_code_list_img": "14679312",
+    "hash_code_list_img": "1401758503",
     "list_definition_mean": [
       {
         "mean_english": "ria mép",
@@ -1225,7 +1190,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1542294448"
+    "hash_code_list_definition_mean": "264686309"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mouthpiece_cb_dmean_5000_it.json",
@@ -1244,7 +1209,7 @@
         "id_image": "mouthpiece_1923024"
       }
     ],
-    "hash_code_list_img": "615391650",
+    "hash_code_list_img": "1268380428",
     "list_definition_mean": [
       {
         "mean_english": "miệng (kèn, sáo, còi…)",
@@ -1252,13 +1217,9 @@
         "ex_of_definition_list": [
           "the mouthpiece of a horn."
         ]
-      },
-      {
-        "mean_english": "ống nói (điện thoại)",
-        "definition": "the part of a telephone etc into which one speaks."
       }
     ],
-    "hash_code_list_definition_mean": "284855888"
+    "hash_code_list_definition_mean": "1023842297"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mouth_cb_dmean_5000_it.json",
@@ -1278,7 +1239,7 @@
         "id_image": "mouth_2731397"
       }
     ],
-    "hash_code_list_img": "2105051332",
+    "hash_code_list_img": "1168376690",
     "list_definition_mean": [
       {
         "mean_english": "miệng",
@@ -1302,7 +1263,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-832092644"
+    "hash_code_list_definition_mean": "-1517060893"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/movement_cb_dmean_5000_it.json",
@@ -1346,7 +1307,7 @@
         "id_image": "movement_5978857"
       }
     ],
-    "hash_code_list_img": "-287195014",
+    "hash_code_list_img": "-75056494",
     "list_definition_mean": [
       {
         "mean_english": "sự chuyển động",
@@ -1398,7 +1359,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1585061600"
+    "hash_code_list_definition_mean": "-573171951"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/move_cb_dmean_5000_it.json",
@@ -1425,7 +1386,7 @@
         "id_image": "move_1558171"
       }
     ],
-    "hash_code_list_img": "-1446652639",
+    "hash_code_list_img": "951010685",
     "list_definition_mean": [
       {
         "mean_english": "di chuyển",
@@ -1465,7 +1426,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "378256852"
+    "hash_code_list_definition_mean": "-201226146"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/movie_cb_dmean_5000_it.json",
@@ -1489,7 +1450,7 @@
         "id_image": "movie_412785"
       }
     ],
-    "hash_code_list_img": "-179704260",
+    "hash_code_list_img": "-45091779",
     "list_definition_mean": [
       {
         "mean_english": "bộ phim",
@@ -1506,7 +1467,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1026097167"
+    "hash_code_list_definition_mean": "-1473789290"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mug_cb_dmean_5000_it.json",
@@ -1536,7 +1497,7 @@
         "id_image": "mug_6255844"
       }
     ],
-    "hash_code_list_img": "1739760212",
+    "hash_code_list_img": "468091139",
     "list_definition_mean": [
       {
         "mean_english": "ca",
@@ -1546,10 +1507,6 @@
         ]
       },
       {
-        "mean_english": "mặt",
-        "definition": "a slang word for the face."
-      },
-      {
         "mean_english": "bóp cổ",
         "definition": "to attack and usually rob",
         "ex_of_definition_list": [
@@ -1557,7 +1514,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "2007889306"
+    "hash_code_list_definition_mean": "1345209229"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/multicultural_cb_dmean_5000_it.json",
@@ -1575,7 +1532,7 @@
         "id_image": "multicultural_1425396"
       }
     ],
-    "hash_code_list_img": "611498531",
+    "hash_code_list_img": "1139386561",
     "list_definition_mean": [
       {
         "mean_english": "đa văn hóa",
@@ -1585,7 +1542,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1207334851"
+    "hash_code_list_definition_mean": "1525969971"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/multilingual_cb_dmean_5000_it.json",
@@ -1603,7 +1560,7 @@
         "id_image": "multilingual_6314107"
       }
     ],
-    "hash_code_list_img": "1538546459",
+    "hash_code_list_img": "222334076",
     "list_definition_mean": [
       {
         "mean_english": "đa ngôn ngữ",
@@ -1613,7 +1570,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "437148715"
+    "hash_code_list_definition_mean": "394663929"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/multimedia_cb_dmean_5000_it.json",
@@ -1648,8 +1605,24 @@
         "id_image": "multimedia_6298339"
       }
     ],
-    "hash_code_list_img": "-237296375",
-    "hash_code_list_definition_mean": ""
+    "hash_code_list_img": "1828385785",
+    "list_definition_mean": [
+      {
+        "mean_english": "đa môi trường",
+        "definition": "using a combination of sound, pictures, and video to present information on a computer screen",
+        "ex_of_definition_list": [
+          "multimedia software."
+        ]
+      },
+      {
+        "mean_english": "đa phương tiện",
+        "definition": "(in art and education) using different methods and materials to present information or to express something",
+        "ex_of_definition_list": [
+          "a multimedia presentation."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1551526690"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/multiple_cb_dmean_5000_it.json",
@@ -1679,7 +1652,7 @@
         "id_image": "multiple_3527609"
       }
     ],
-    "hash_code_list_img": "-1599771177",
+    "hash_code_list_img": "-1412864905",
     "list_definition_mean": [
       {
         "mean_english": "gồm nhiều phần",
@@ -1703,7 +1676,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "290818785"
+    "hash_code_list_definition_mean": "15518180"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/multiplication_cb_dmean_5000_it.json",
@@ -1726,7 +1699,7 @@
         "id_image": "multiplication_6287123"
       }
     ],
-    "hash_code_list_img": "829499491",
+    "hash_code_list_img": "928579437",
     "list_definition_mean": [
       {
         "mean_english": "tính nhân",
@@ -1736,7 +1709,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1774990223"
+    "hash_code_list_definition_mean": "730553789"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/multiply_cb_dmean_5000_it.json",
@@ -1765,7 +1738,7 @@
         "id_image": "multiply_5558675"
       }
     ],
-    "hash_code_list_img": "1695916368",
+    "hash_code_list_img": "42586462",
     "list_definition_mean": [
       {
         "mean_english": "nhân lên",
@@ -1782,7 +1755,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-357197006"
+    "hash_code_list_definition_mean": "10771839"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/municipality_cb_dmean_5000_it.json",
@@ -1801,7 +1774,7 @@
         "id_image": "municipality_4430746"
       }
     ],
-    "hash_code_list_img": "1016654536",
+    "hash_code_list_img": "62443153",
     "list_definition_mean": [
       {
         "mean_english": "thành phố tự trị",
@@ -1818,7 +1791,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-162377260"
+    "hash_code_list_definition_mean": "-1313227055"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/municipal_cb_dmean_5000_it.json",
@@ -1836,7 +1809,7 @@
         "id_image": "municipal_5763219"
       }
     ],
-    "hash_code_list_img": "422635790",
+    "hash_code_list_img": "976783240",
     "list_definition_mean": [
       {
         "mean_english": "thuộc thành thị",
@@ -1846,7 +1819,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "764482714"
+    "hash_code_list_definition_mean": "1021635425"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/murder_cb_dmean_5000_it.json",
@@ -1876,7 +1849,7 @@
         "id_image": "murder_5411101"
       }
     ],
-    "hash_code_list_img": "184371780",
+    "hash_code_list_img": "-72264141",
     "list_definition_mean": [
       {
         "mean_english": "kẻ sát nhân",
@@ -1901,7 +1874,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-317630384"
+    "hash_code_list_definition_mean": "323464964"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/muscle_cb_dmean_5000_it.json",
@@ -1929,7 +1902,7 @@
         "id_image": "muscle_5730228"
       }
     ],
-    "hash_code_list_img": "-1218148171",
+    "hash_code_list_img": "877682335",
     "list_definition_mean": [
       {
         "mean_english": "cơ bắp",
@@ -1939,7 +1912,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "359819258"
+    "hash_code_list_definition_mean": "937593663"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/muscular_cb_dmean_5000_it.json",
@@ -1958,7 +1931,7 @@
         "id_image": "muscular_2307843"
       }
     ],
-    "hash_code_list_img": "993904497",
+    "hash_code_list_img": "1014991940",
     "list_definition_mean": [
       {
         "mean_english": "liên quan đến cơ bắp",
@@ -1975,7 +1948,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-463090585"
+    "hash_code_list_definition_mean": "1658113419"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/museum_cb_dmean_5000_it.json",
@@ -2003,7 +1976,7 @@
         "id_image": "museum_827094"
       }
     ],
-    "hash_code_list_img": "-2119582638",
+    "hash_code_list_img": "-1571432004",
     "list_definition_mean": [
       {
         "mean_english": "bảo tàng",
@@ -2013,7 +1986,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1260431619"
+    "hash_code_list_definition_mean": "1091633156"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/muse_cb_dmean_5000_it.json",
@@ -2036,7 +2009,7 @@
         "id_image": "muse_647668"
       }
     ],
-    "hash_code_list_img": "-1934609155",
+    "hash_code_list_img": "2101395297",
     "list_definition_mean": [
       {
         "mean_english": "suy tưởng",
@@ -2046,7 +2019,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "852736388"
+    "hash_code_list_definition_mean": "49250634"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mushroom_cb_dmean_5000_it.json",
@@ -2070,7 +2043,7 @@
         "id_image": "mushroom_1408997"
       }
     ],
-    "hash_code_list_img": "1260201652",
+    "hash_code_list_img": "1392835007",
     "list_definition_mean": [
       {
         "mean_english": "nấm",
@@ -2088,7 +2061,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-512464906"
+    "hash_code_list_definition_mean": "294628620"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/musical_cb_dmean_5000_it.json",
@@ -2119,7 +2092,7 @@
         "id_image": "musical_5105523"
       }
     ],
-    "hash_code_list_img": "421970079",
+    "hash_code_list_img": "-1594549749",
     "list_definition_mean": [
       {
         "mean_english": "thuộc âm nhạc",
@@ -2150,7 +2123,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-83160232"
+    "hash_code_list_definition_mean": "-825185187"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/musician_cb_dmean_5000_it.json",
@@ -2179,7 +2152,7 @@
         "id_image": "musician_4125075"
       }
     ],
-    "hash_code_list_img": "-821640281",
+    "hash_code_list_img": "-640736378",
     "list_definition_mean": [
       {
         "mean_english": "nhà soạn nhạc; nhạc sĩ",
@@ -2196,7 +2169,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "354167213"
+    "hash_code_list_definition_mean": "270211346"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/music_cb_dmean_5000_it.json",
@@ -2220,7 +2193,7 @@
         "id_image": "music_439532"
       }
     ],
-    "hash_code_list_img": "-1494991912",
+    "hash_code_list_img": "814462917",
     "list_definition_mean": [
       {
         "mean_english": "âm nhạc",
@@ -2239,7 +2212,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-799310163"
+    "hash_code_list_definition_mean": "481202842"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mustard_cb_dmean_5000_it.json",
@@ -2262,7 +2235,7 @@
         "id_image": "mustard_877720"
       }
     ],
-    "hash_code_list_img": "-1308971036",
+    "hash_code_list_img": "1596769549",
     "list_definition_mean": [
       {
         "mean_english": "cây mù tạc",
@@ -2272,6 +2245,6 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "525933389"
+    "hash_code_list_definition_mean": "1799623229"
   }
 ]

@@ -21,7 +21,7 @@
         "id_image": "bouquet_332950"
       }
     ],
-    "hash_code_list_img": "-1322961031",
+    "hash_code_list_img": "-303430466",
     "list_definition_mean": [
       {
         "mean_english": "bó hoa",
@@ -29,13 +29,9 @@
         "ex_of_definition_list": [
           "The bride carried a bouquet of roses."
         ]
-      },
-      {
-        "mean_english": "hương vị rượu",
-        "definition": "the perfume of wine."
       }
     ],
-    "hash_code_list_definition_mean": "1568470621"
+    "hash_code_list_definition_mean": "163631324"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bourbon_cb_dmean_5000_it.json",
@@ -64,7 +60,7 @@
         "id_image": "bourbon_4829249"
       }
     ],
-    "hash_code_list_img": "2140106669",
+    "hash_code_list_img": "969601994",
     "list_definition_mean": [
       {
         "mean_english": "rượu whisky ngô",
@@ -72,13 +68,9 @@
         "ex_of_definition_list": [
           "a bottle of bourbon."
         ]
-      },
-      {
-        "mean_english": "một ly whisky ngô",
-        "definition": "a glass of this type of whisky."
       }
     ],
-    "hash_code_list_definition_mean": "907923041"
+    "hash_code_list_definition_mean": "829239500"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/boutique_cb_dmean_5000_it.json",
@@ -106,7 +98,7 @@
         "id_image": "boutique_6306777"
       }
     ],
-    "hash_code_list_img": "1631124854",
+    "hash_code_list_img": "1555439958",
     "list_definition_mean": [
       {
         "mean_english": "tiệm bán quần áo",
@@ -117,7 +109,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "647580809"
+    "hash_code_list_definition_mean": "1167582978"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bowl_cb_dmean_5000_it.json",
@@ -150,16 +142,8 @@
         "id_image": "bowl_5830303"
       }
     ],
-    "hash_code_list_img": "-1171963327",
+    "hash_code_list_img": "2095581384",
     "list_definition_mean": [
-      {
-        "mean_english": "quả bóng bowling",
-        "definition": "a wooden ball rolled along the ground in playing bowls. See also bowls below."
-      },
-      {
-        "mean_english": "chơi bóng gỗ",
-        "definition": "to play bowls."
-      },
       {
         "mean_english": "ném bóng qua đầu",
         "definition": "to deliver or send (a ball) towards the batsman in cricket",
@@ -190,7 +174,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-2058261455"
+    "hash_code_list_definition_mean": "-1209455781"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bow_cb_dmean_5000_it.json",
@@ -219,7 +203,7 @@
         "id_image": "bow_827173"
       }
     ],
-    "hash_code_list_img": "-465078100",
+    "hash_code_list_img": "1129396584",
     "list_definition_mean": [
       {
         "mean_english": "cúi chào",
@@ -251,10 +235,6 @@
         ]
       },
       {
-        "mean_english": "cây vĩ (violong)",
-        "definition": "a rod with horsehair stretched along it, by which the strings of a violin etc are sounded."
-      },
-      {
         "mean_english": "nơ con bướm",
         "definition": "a looped knot of material",
         "ex_of_definition_list": [
@@ -269,7 +249,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1206160734"
+    "hash_code_list_definition_mean": "32862261"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/box_cb_dmean_5000_it.json",
@@ -301,7 +281,7 @@
         "id_image": "box_588424"
       }
     ],
-    "hash_code_list_img": "-1165679736",
+    "hash_code_list_img": "806477105",
     "list_definition_mean": [
       {
         "mean_english": "hộp; thùng",
@@ -340,7 +320,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1104093718"
+    "hash_code_list_definition_mean": "1429483169"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/boyfriend_cb_dmean_5000_it.json",
@@ -368,7 +348,7 @@
         "id_image": "boyfriend_4412607"
       }
     ],
-    "hash_code_list_img": "-1290361518",
+    "hash_code_list_img": "-1347680575",
     "list_definition_mean": [
       {
         "mean_english": "bạn trai",
@@ -378,7 +358,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "490567379"
+    "hash_code_list_definition_mean": "3027569"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/boy_cb_dmean_5000_it.json",
@@ -407,7 +387,7 @@
         "id_image": "boy_435043"
       }
     ],
-    "hash_code_list_img": "217510461",
+    "hash_code_list_img": "-1736209491",
     "list_definition_mean": [
       {
         "mean_english": "con trai",
@@ -425,7 +405,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1174578709"
+    "hash_code_list_definition_mean": "-637942639"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bracelet_cb_dmean_5000_it.json",
@@ -458,7 +438,7 @@
         "id_image": "bracelet_499268"
       }
     ],
-    "hash_code_list_img": "164545091",
+    "hash_code_list_img": "801981371",
     "list_definition_mean": [
       {
         "mean_english": "vòng tay",
@@ -468,7 +448,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "293786110"
+    "hash_code_list_definition_mean": "655550739"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brace_cb_dmean_5000_it.json",
@@ -498,7 +478,7 @@
         "id_image": "brace_2933552"
       }
     ],
-    "hash_code_list_img": "-919591557",
+    "hash_code_list_img": "613361904",
     "list_definition_mean": [
       {
         "mean_english": "vật nối",
@@ -522,7 +502,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "20020861"
+    "hash_code_list_definition_mean": "-1949833809"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bracket_cb_dmean_5000_it.json",
@@ -558,8 +538,24 @@
         "id_image": "bracket_605614"
       }
     ],
-    "hash_code_list_img": "-1769707488",
-    "hash_code_list_definition_mean": ""
+    "hash_code_list_img": "356841124",
+    "list_definition_mean": [
+      {
+        "mean_english": "giá đỡ",
+        "definition": "a support for a shelf etc",
+        "ex_of_definition_list": [
+          "The shelf fell down because the brackets were not strong enough."
+        ]
+      },
+      {
+        "mean_english": "xếp loại",
+        "definition": "(sometimes with together) to group together (similar or equal people or things)",
+        "ex_of_definition_list": [
+          "This kind of financing is often bracketed together with higher interest rates."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1344557768"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/braid_cb_dmean_5000_it.json",
@@ -593,7 +589,7 @@
         "id_image": "braid_3684510"
       }
     ],
-    "hash_code_list_img": "-535102221",
+    "hash_code_list_img": "85537532",
     "list_definition_mean": [
       {
         "mean_english": "bện",
@@ -610,7 +606,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-2135614041"
+    "hash_code_list_definition_mean": "-1960017352"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/braille_cb_dmean_5000_it.json",
@@ -638,7 +634,7 @@
         "id_image": "braille_5318760"
       }
     ],
-    "hash_code_list_img": "1055136124",
+    "hash_code_list_img": "934371023",
     "list_definition_mean": [
       {
         "mean_english": "chữ Bray (chữ nổi cho người mù)",
@@ -648,7 +644,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1120687231"
+    "hash_code_list_definition_mean": "293786110"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brainstorm_cb_dmean_5000_it.json",
@@ -678,7 +674,7 @@
         "id_image": "brainstorm_562528"
       }
     ],
-    "hash_code_list_img": "607486029",
+    "hash_code_list_img": "483224538",
     "list_definition_mean": [
       {
         "mean_english": "cơn động não",
@@ -702,7 +698,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-120068480"
+    "hash_code_list_definition_mean": "1911279879"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brain_cb_dmean_5000_it.json",
@@ -732,7 +728,7 @@
         "id_image": "brain_286484"
       }
     ],
-    "hash_code_list_img": "1689912886",
+    "hash_code_list_img": "-1317810131",
     "list_definition_mean": [
       {
         "mean_english": "bộ não",
@@ -759,7 +755,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1636014484"
+    "hash_code_list_definition_mean": "869290248"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brake_cb_dmean_5000_it.json",
@@ -788,7 +784,7 @@
         "id_image": "brake_1870853"
       }
     ],
-    "hash_code_list_img": "-120247695",
+    "hash_code_list_img": "127110453",
     "list_definition_mean": [
       {
         "mean_english": "phanh lại",
@@ -805,7 +801,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1969475466"
+    "hash_code_list_definition_mean": "1297074296"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/branch_cb_dmean_5000_it.json",
@@ -835,7 +831,7 @@
         "id_image": "branch_6357748"
       }
     ],
-    "hash_code_list_img": "-1603055402",
+    "hash_code_list_img": "-2144557192",
     "list_definition_mean": [
       {
         "mean_english": "cành cây",
@@ -860,7 +856,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1024677217"
+    "hash_code_list_definition_mean": "501359197"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brandy_cb_dmean_5000_it.json",
@@ -878,7 +874,7 @@
         "id_image": "brandy_6411108"
       }
     ],
-    "hash_code_list_img": "139416056",
+    "hash_code_list_img": "6788156",
     "list_definition_mean": [
       {
         "mean_english": "rượu mạnh",
@@ -889,7 +885,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "422266700"
+    "hash_code_list_definition_mean": "1931327838"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brand_cb_dmean_5000_it.json",
@@ -932,7 +928,7 @@
         "id_image": "brand_741882"
       }
     ],
-    "hash_code_list_img": "-1416729194",
+    "hash_code_list_img": "-1816847233",
     "list_definition_mean": [
       {
         "mean_english": "nhãn mác",
@@ -948,10 +944,6 @@
         "ex_of_definition_list": [
           "He has his own brand of humour/humor."
         ]
-      },
-      {
-        "mean_english": "vết dấu sắt nung",
-        "definition": "a mark on cattle etc to show who owns them, made with a hot iron."
       },
       {
         "mean_english": "đóng dấu bằng sắt nung",
@@ -975,7 +967,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1357463431"
+    "hash_code_list_definition_mean": "-174207709"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brass_cb_dmean_5000_it.json",
@@ -999,7 +991,7 @@
         "id_image": "brass_3460852"
       }
     ],
-    "hash_code_list_img": "1662399304",
+    "hash_code_list_img": "630844967",
     "list_definition_mean": [
       {
         "mean_english": "đồng thau",
@@ -1017,7 +1009,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1946331073"
+    "hash_code_list_definition_mean": "1873158180"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/breach_cb_dmean_5000_it.json",
@@ -1042,7 +1034,7 @@
         "id_image": "breach_2720551"
       }
     ],
-    "hash_code_list_img": "-778305165",
+    "hash_code_list_img": "1228390471",
     "list_definition_mean": [
       {
         "mean_english": "sự thất hứa",
@@ -1067,7 +1059,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-429171795"
+    "hash_code_list_definition_mean": "-2122966135"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bread_cb_dmean_5000_it.json",
@@ -1101,7 +1093,7 @@
         "id_image": "bread_527774"
       }
     ],
-    "hash_code_list_img": "-1043868286",
+    "hash_code_list_img": "469663252",
     "list_definition_mean": [
       {
         "mean_english": "bánh mỳ",
@@ -1119,7 +1111,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "404301742"
+    "hash_code_list_definition_mean": "344781837"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/breakable_cb_dmean_5000_it.json",
@@ -1138,7 +1130,7 @@
         "id_image": "breakable_1259988"
       }
     ],
-    "hash_code_list_img": "987252759",
+    "hash_code_list_img": "2103748991",
     "list_definition_mean": [
       {
         "mean_english": "dễ vỡ",
@@ -1155,7 +1147,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1501084640"
+    "hash_code_list_definition_mean": "982645300"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/breakage_cb_dmean_5000_it.json",
@@ -1173,7 +1165,7 @@
         "id_image": "breakage_2928720"
       }
     ],
-    "hash_code_list_img": "745089039",
+    "hash_code_list_img": "1569908993",
     "list_definition_mean": [
       {
         "mean_english": "chỗ vỡ",
@@ -1183,7 +1175,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "435875307"
+    "hash_code_list_definition_mean": "376234598"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/breakdown_cb_dmean_5000_it.json",
@@ -1217,7 +1209,7 @@
         "id_image": "breakdown_950426"
       }
     ],
-    "hash_code_list_img": "1623142621",
+    "hash_code_list_img": "-519181560",
     "list_definition_mean": [
       {
         "mean_english": "sự suy sụp tinh thần",
@@ -1234,7 +1226,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1512811294"
+    "hash_code_list_definition_mean": "1044136605"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/breakfast_cb_dmean_5000_it.json",
@@ -1273,7 +1265,7 @@
         "id_image": "breakfast_854293"
       }
     ],
-    "hash_code_list_img": "-742996829",
+    "hash_code_list_img": "-754129343",
     "list_definition_mean": [
       {
         "mean_english": "bữa sáng",
@@ -1292,7 +1284,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-2100294769"
+    "hash_code_list_definition_mean": "-303230698"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/break_cb_dmean_5000_it.json",
@@ -1339,7 +1331,7 @@
         "id_image": "break_769662"
       }
     ],
-    "hash_code_list_img": "72831593",
+    "hash_code_list_img": "1092423811",
     "list_definition_mean": [
       {
         "mean_english": "chia ra",
@@ -1433,10 +1425,6 @@
         ]
       },
       {
-        "mean_english": "khe hở",
-        "definition": "an opening."
-      },
-      {
         "mean_english": "cơ hội",
         "definition": "a chance or piece of (good or bad) luck",
         "ex_of_definition_list": [
@@ -1444,7 +1432,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "957231613"
+    "hash_code_list_definition_mean": "-286518228"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/breathalyzer_cb_dmean_5000_it.json",
@@ -1462,7 +1450,7 @@
         "id_image": "breathalyzer_1675093"
       }
     ],
-    "hash_code_list_img": "2058566855",
+    "hash_code_list_img": "153115689",
     "list_definition_mean": [
       {
         "mean_english": "máy đo độ cồn",
@@ -1472,7 +1460,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "870649873"
+    "hash_code_list_definition_mean": "417167238"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/breath_cb_dmean_5000_it.json",
@@ -1511,7 +1499,7 @@
         "id_image": "breath_2688252"
       }
     ],
-    "hash_code_list_img": "1266224077",
+    "hash_code_list_img": "1704936502",
     "list_definition_mean": [
       {
         "mean_english": "hơi thở",
@@ -1528,7 +1516,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1686605556"
+    "hash_code_list_definition_mean": "-1561704914"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/breeze_cb_dmean_5000_it.json",
@@ -1551,7 +1539,7 @@
         "id_image": "breeze_5132656"
       }
     ],
-    "hash_code_list_img": "-613788909",
+    "hash_code_list_img": "1799326489",
     "list_definition_mean": [
       {
         "mean_english": "gió nhẹ",
@@ -1561,7 +1549,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1505424102"
+    "hash_code_list_definition_mean": "675100231"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/breezy_cb_dmean_5000_it.json",
@@ -1580,7 +1568,7 @@
         "id_image": "breezy_5492974"
       }
     ],
-    "hash_code_list_img": "1743186801",
+    "hash_code_list_img": "138733196",
     "list_definition_mean": [
       {
         "mean_english": "có gió hiu hiu",
@@ -1598,7 +1586,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-392510154"
+    "hash_code_list_definition_mean": "-1847916518"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brewery_cb_dmean_5000_it.json",
@@ -1626,7 +1614,7 @@
         "id_image": "brewery_382267"
       }
     ],
-    "hash_code_list_img": "1923032654",
+    "hash_code_list_img": "-1320581598",
     "list_definition_mean": [
       {
         "mean_english": "nhà máy bia, rượu",
@@ -1636,7 +1624,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "65583375"
+    "hash_code_list_definition_mean": "1533434447"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brew_cb_dmean_5000_it.json",
@@ -1661,7 +1649,7 @@
         "id_image": "brew_2597453"
       }
     ],
-    "hash_code_list_img": "1935085256",
+    "hash_code_list_img": "-1118377755",
     "list_definition_mean": [
       {
         "mean_english": "chế, ủ (rượu, bia)",
@@ -1685,7 +1673,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "976382433"
+    "hash_code_list_definition_mean": "-741948731"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bribe_cb_dmean_5000_it.json",
@@ -1719,7 +1707,7 @@
         "id_image": "bribe_5291764"
       }
     ],
-    "hash_code_list_img": "-1446662504",
+    "hash_code_list_img": "-19311851",
     "list_definition_mean": [
       {
         "mean_english": "vật hối lộ",
@@ -1736,7 +1724,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "2142205625"
+    "hash_code_list_definition_mean": "1275172633"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bricklayer_cb_dmean_5000_it.json",
@@ -1754,7 +1742,7 @@
         "id_image": "bricklayer_2421989"
       }
     ],
-    "hash_code_list_img": "249483367",
+    "hash_code_list_img": "1889371841",
     "list_definition_mean": [
       {
         "mean_english": "thợ nề",
@@ -1764,7 +1752,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1409864914"
+    "hash_code_list_definition_mean": "327845362"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brick_cb_dmean_5000_it.json",
@@ -1792,7 +1780,7 @@
         "id_image": "brick_605611"
       }
     ],
-    "hash_code_list_img": "-42675711",
+    "hash_code_list_img": "-384706052",
     "list_definition_mean": [
       {
         "mean_english": "gạch",
@@ -1803,7 +1791,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1705282762"
+    "hash_code_list_definition_mean": "1505424102"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bridesmaid_cb_dmean_5000_it.json",
@@ -1826,7 +1814,7 @@
         "id_image": "bridesmaid_6413567"
       }
     ],
-    "hash_code_list_img": "1371864853",
+    "hash_code_list_img": "-1730200673",
     "list_definition_mean": [
       {
         "mean_english": "phù dâu",
@@ -1836,7 +1824,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1313671722"
+    "hash_code_list_definition_mean": "1502819939"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bride_cb_dmean_5000_it.json",
@@ -1864,7 +1852,7 @@
         "id_image": "bride_4403073"
       }
     ],
-    "hash_code_list_img": "-1254618958",
+    "hash_code_list_img": "2060865860",
     "list_definition_mean": [
       {
         "mean_english": "cô dâu",
@@ -1874,7 +1862,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1152113470"
+    "hash_code_list_definition_mean": "1523941039"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bridge_cb_dmean_5000_it.json",
@@ -1912,7 +1900,7 @@
         "id_image": "bridge_3722837"
       }
     ],
-    "hash_code_list_img": "-801672258",
+    "hash_code_list_img": "-1446662504",
     "list_definition_mean": [
       {
         "mean_english": "cái cầu",
@@ -1957,7 +1945,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "611849844"
+    "hash_code_list_definition_mean": "-1898788194"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/briefcase_cb_dmean_5000_it.json",
@@ -1985,7 +1973,7 @@
         "id_image": "briefcase_583604"
       }
     ],
-    "hash_code_list_img": "293733687",
+    "hash_code_list_img": "-2035319463",
     "list_definition_mean": [
       {
         "mean_english": "cặp đựng giấy tờ, tài liệu",
@@ -1995,7 +1983,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "6650714"
+    "hash_code_list_definition_mean": "1409864914"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brief_cb_dmean_5000_it.json",
@@ -2030,7 +2018,7 @@
         "id_image": "briefing_4213340"
       }
     ],
-    "hash_code_list_img": "1796402447",
+    "hash_code_list_img": "-1486773399",
     "list_definition_mean": [
       {
         "mean_english": "ngắn gọn",
@@ -2055,7 +2043,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-346192614"
+    "hash_code_list_definition_mean": "1560777765"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bright_cb_dmean_5000_it.json",
@@ -2081,7 +2069,7 @@
         "id_image": "bright_1576543"
       }
     ],
-    "hash_code_list_img": "1871630592",
+    "hash_code_list_img": "-549225691",
     "list_definition_mean": [
       {
         "mean_english": "sáng chói",
@@ -2112,7 +2100,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "265676432"
+    "hash_code_list_definition_mean": "-235144650"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/broadcast_cb_dmean_5000_it.json",
@@ -2152,7 +2140,7 @@
         "id_image": "broadcast_650949"
       }
     ],
-    "hash_code_list_img": "548118910",
+    "hash_code_list_img": "-16803274",
     "list_definition_mean": [
       {
         "mean_english": "phát đi",
@@ -2177,7 +2165,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "2145867218"
+    "hash_code_list_definition_mean": "-1789169152"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/broccoli_cb_dmean_5000_it.json",
@@ -2205,7 +2193,7 @@
         "id_image": "broccoli_4796240"
       }
     ],
-    "hash_code_list_img": "1444009702",
+    "hash_code_list_img": "-747631553",
     "list_definition_mean": [
       {
         "mean_english": "súp lơ xanh",
@@ -2216,7 +2204,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "18913838"
+    "hash_code_list_definition_mean": "1702180675"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brochure_cb_dmean_5000_it.json",
@@ -2249,7 +2237,7 @@
         "id_image": "brochure_5978612"
       }
     ],
-    "hash_code_list_img": "1230870210",
+    "hash_code_list_img": "1796402447",
     "list_definition_mean": [
       {
         "mean_english": "sách nhỏ thông tin quảng cáo về cái gì",
@@ -2260,7 +2248,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1376425502"
+    "hash_code_list_definition_mean": "877959576"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/broken_cb_dmean_5000_it.json",
@@ -2302,7 +2290,7 @@
         "id_image": "broken_977873"
       }
     ],
-    "hash_code_list_img": "-416573677",
+    "hash_code_list_img": "-651569428",
     "list_definition_mean": [
       {
         "mean_english": "bị vỡ",
@@ -2341,7 +2329,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1886843388"
+    "hash_code_list_definition_mean": "1460589168"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/broker_cb_dmean_5000_it.json",
@@ -2374,7 +2362,7 @@
         "id_image": "broker_6417455"
       }
     ],
-    "hash_code_list_img": "151814998",
+    "hash_code_list_img": "1549642741",
     "list_definition_mean": [
       {
         "mean_english": "người môi giới",
@@ -2385,7 +2373,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "202453834"
+    "hash_code_list_definition_mean": "2112194364"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bronchus_cb_dmean_5000_it.json",
@@ -2408,7 +2396,7 @@
         "id_image": "bronchus_655298"
       }
     ],
-    "hash_code_list_img": "1607739107",
+    "hash_code_list_img": "-1086727627",
     "list_definition_mean": [
       {
         "mean_english": "phế quản",
@@ -2418,7 +2406,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1356806154"
+    "hash_code_list_definition_mean": "1767994610"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bronze_cb_dmean_5000_it.json",
@@ -2443,7 +2431,7 @@
         "id_image": "bronze_4033748"
       }
     ],
-    "hash_code_list_img": "-386870719",
+    "hash_code_list_img": "-151140550",
     "list_definition_mean": [
       {
         "mean_english": "đồng thiếc",
@@ -2467,7 +2455,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-823919952"
+    "hash_code_list_definition_mean": "995857510"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brooch_cb_dmean_5000_it.json",
@@ -2500,7 +2488,7 @@
         "id_image": "brooch_4612601"
       }
     ],
-    "hash_code_list_img": "-485624969",
+    "hash_code_list_img": "1642640782",
     "list_definition_mean": [
       {
         "mean_english": "ghim hoa (gài cổ áo)",
@@ -2510,6 +2498,6 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1182463659"
+    "hash_code_list_definition_mean": "1007264623"
   }
 ]

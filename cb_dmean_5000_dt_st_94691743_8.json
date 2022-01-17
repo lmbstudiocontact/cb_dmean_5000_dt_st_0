@@ -25,7 +25,7 @@
         "id_image": "fun_6321934"
       }
     ],
-    "hash_code_list_img": "1408602969",
+    "hash_code_list_img": "915411592",
     "list_definition_mean": [
       {
         "mean_english": "sự vui đùa; trò vui",
@@ -36,7 +36,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1418678143"
+    "hash_code_list_definition_mean": "1496536345"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/furious_cb_dmean_5000_it.json",
@@ -65,7 +65,7 @@
         "id_image": "furious_5046979"
       }
     ],
-    "hash_code_list_img": "-1658112998",
+    "hash_code_list_img": "-111067154",
     "list_definition_mean": [
       {
         "mean_english": "giận dữ, điên tiết",
@@ -82,7 +82,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "31525887"
+    "hash_code_list_definition_mean": "75446652"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/furnace_cb_dmean_5000_it.json",
@@ -115,7 +115,7 @@
         "id_image": "furnace_5350495"
       }
     ],
-    "hash_code_list_img": "1429870704",
+    "hash_code_list_img": "-142173380",
     "list_definition_mean": [
       {
         "mean_english": "lò luyện kim, lò nấu thuỷ tinh",
@@ -125,7 +125,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1828935732"
+    "hash_code_list_definition_mean": "1869758945"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/furniture_cb_dmean_5000_it.json",
@@ -163,7 +163,7 @@
         "id_image": "furniture_963806"
       }
     ],
-    "hash_code_list_img": "-1757778296",
+    "hash_code_list_img": "660765566",
     "list_definition_mean": [
       {
         "mean_english": "đồ dùng trong nhà",
@@ -173,7 +173,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1005872235"
+    "hash_code_list_definition_mean": "1922862606"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/furry_cb_dmean_5000_it.json",
@@ -197,7 +197,7 @@
         "id_image": "furry_1881168"
       }
     ],
-    "hash_code_list_img": "1410353249",
+    "hash_code_list_img": "-123283607",
     "list_definition_mean": [
       {
         "mean_english": "được phủ lông thú",
@@ -214,7 +214,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-120223231"
+    "hash_code_list_definition_mean": "1778441880"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/fur_cb_dmean_5000_it.json",
@@ -244,12 +244,8 @@
         "id_image": "fur_5930724"
       }
     ],
-    "hash_code_list_img": "-1840471478",
+    "hash_code_list_img": "2053747614",
     "list_definition_mean": [
-      {
-        "mean_english": "lông mao; lông thú",
-        "definition": "the thick, short, fine hair of certain animals."
-      },
       {
         "mean_english": "bộ da lông thú",
         "definition": "the skin(s) of these animals, often used to make or decorate clothes etc for people",
@@ -266,7 +262,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-846578924"
+    "hash_code_list_definition_mean": "2037173004"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/fuse_cb_dmean_5000_it.json",
@@ -297,7 +293,7 @@
         "id_image": "fuse_5387352"
       }
     ],
-    "hash_code_list_img": "-302379361",
+    "hash_code_list_img": "-1710555233",
     "list_definition_mean": [
       {
         "mean_english": "nấu chảy",
@@ -329,7 +325,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-2136389581"
+    "hash_code_list_definition_mean": "642238735"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/fusion_cb_dmean_5000_it.json",
@@ -348,7 +344,7 @@
         "id_image": "fusion_2934081"
       }
     ],
-    "hash_code_list_img": "571704682",
+    "hash_code_list_img": "1112459695",
     "list_definition_mean": [
       {
         "mean_english": "sự trộn lẫn bằng cách nấu chảy",
@@ -365,7 +361,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "2024755784"
+    "hash_code_list_definition_mean": "-1168843257"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/future_cb_dmean_5000_it.json",
@@ -405,7 +401,7 @@
         "id_image": "future_4901060"
       }
     ],
-    "hash_code_list_img": "-1520960263",
+    "hash_code_list_img": "-1119742867",
     "list_definition_mean": [
       {
         "mean_english": "tương lai",
@@ -414,17 +410,9 @@
           "He was afraid of what the future might bring",
           "(also adjective) his future wife."
         ]
-      },
-      {
-        "mean_english": "thời tương lai",
-        "definition": "(a verb in) the future tense."
-      },
-      {
-        "mean_english": "thuộc hoặc xảy ra trong tương lai",
-        "definition": "(of a tense of a verb) indicating an action which will take place at a later time."
       }
     ],
-    "hash_code_list_definition_mean": "-385181008"
+    "hash_code_list_definition_mean": "738648420"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gadget_cb_dmean_5000_it.json",
@@ -457,7 +445,7 @@
         "id_image": "gadget_3883884"
       }
     ],
-    "hash_code_list_img": "1975024262",
+    "hash_code_list_img": "-76882659",
     "list_definition_mean": [
       {
         "mean_english": "đồ dùng",
@@ -467,7 +455,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1776858928"
+    "hash_code_list_definition_mean": "959378718"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gain_cb_dmean_5000_it.json",
@@ -490,7 +478,7 @@
         "id_image": "gain_3553737"
       }
     ],
-    "hash_code_list_img": "1486040359",
+    "hash_code_list_img": "1391532233",
     "list_definition_mean": [
       {
         "mean_english": "giành được",
@@ -536,7 +524,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1575990298"
+    "hash_code_list_definition_mean": "1549308059"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/galaxy_cb_dmean_5000_it.json",
@@ -570,7 +558,7 @@
         "id_image": "galaxy_5570602"
       }
     ],
-    "hash_code_list_img": "-2118413080",
+    "hash_code_list_img": "-1099100124",
     "list_definition_mean": [
       {
         "mean_english": "thiên hà",
@@ -588,7 +576,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1969328896"
+    "hash_code_list_definition_mean": "979952693"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gallery_cb_dmean_5000_it.json",
@@ -627,7 +615,7 @@
         "id_image": "gallery_758515"
       }
     ],
-    "hash_code_list_img": "-648931181",
+    "hash_code_list_img": "-1598389039",
     "list_definition_mean": [
       {
         "mean_english": "phòng trưng bày",
@@ -645,7 +633,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "541154982"
+    "hash_code_list_definition_mean": "-2037218659"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gallows_cb_dmean_5000_it.json",
@@ -668,7 +656,7 @@
         "id_image": "gallows_252141"
       }
     ],
-    "hash_code_list_img": "-1475265403",
+    "hash_code_list_img": "2143596184",
     "list_definition_mean": [
       {
         "mean_english": "giá treo cổ",
@@ -678,7 +666,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "987679294"
+    "hash_code_list_definition_mean": "1287328259"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gamble_cb_dmean_5000_it.json",
@@ -697,7 +685,7 @@
         "id_image": "gamble_1055852"
       }
     ],
-    "hash_code_list_img": "979818909",
+    "hash_code_list_img": "1925300116",
     "list_definition_mean": [
       {
         "mean_english": "đánh cờ bạc",
@@ -714,7 +702,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1426854013"
+    "hash_code_list_definition_mean": "406209648"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/game_cb_dmean_5000_it.json",
@@ -751,7 +739,7 @@
         "id_image": "game_452701"
       }
     ],
-    "hash_code_list_img": "1006597025",
+    "hash_code_list_img": "-1463825126",
     "list_definition_mean": [
       {
         "mean_english": "trò chơi",
@@ -792,7 +780,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-670460153"
+    "hash_code_list_definition_mean": "-1547391043"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gang_cb_dmean_5000_it.json",
@@ -811,7 +799,7 @@
         "id_image": "gang_2495707"
       }
     ],
-    "hash_code_list_img": "1871690021",
+    "hash_code_list_img": "838624686",
     "list_definition_mean": [
       {
         "mean_english": "đoàn, tốp, kíp, toán",
@@ -828,7 +816,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-397853007"
+    "hash_code_list_definition_mean": "1264915163"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gap_cb_dmean_5000_it.json",
@@ -861,7 +849,7 @@
         "id_image": "gap_994634"
       }
     ],
-    "hash_code_list_img": "-1579642371",
+    "hash_code_list_img": "-887578097",
     "list_definition_mean": [
       {
         "mean_english": "lỗ hổng",
@@ -871,7 +859,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1921332709"
+    "hash_code_list_definition_mean": "1624449061"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/garage_cb_dmean_5000_it.json",
@@ -905,7 +893,7 @@
         "id_image": "garage_560679"
       }
     ],
-    "hash_code_list_img": "-310470459",
+    "hash_code_list_img": "-546344464",
     "list_definition_mean": [
       {
         "mean_english": "ga-ra",
@@ -922,7 +910,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1940083418"
+    "hash_code_list_definition_mean": "-916887218"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/garbage_cb_dmean_5000_it.json",
@@ -955,7 +943,7 @@
         "id_image": "garbage_5207497"
       }
     ],
-    "hash_code_list_img": "-186838895",
+    "hash_code_list_img": "-1516880085",
     "list_definition_mean": [
       {
         "mean_english": "rác",
@@ -966,7 +954,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1250685435"
+    "hash_code_list_definition_mean": "1194179348"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/garden_cb_dmean_5000_it.json",
@@ -995,7 +983,7 @@
         "id_image": "garden_327405"
       }
     ],
-    "hash_code_list_img": "-2071344732",
+    "hash_code_list_img": "-343657529",
     "list_definition_mean": [
       {
         "mean_english": "vườn",
@@ -1013,7 +1001,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "131722761"
+    "hash_code_list_definition_mean": "-1182981683"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/garland_cb_dmean_5000_it.json",
@@ -1041,7 +1029,7 @@
         "id_image": "garland_4534961"
       }
     ],
-    "hash_code_list_img": "99131612",
+    "hash_code_list_img": "-416725138",
     "list_definition_mean": [
       {
         "mean_english": "vòng hoa",
@@ -1051,7 +1039,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "745172226"
+    "hash_code_list_definition_mean": "815124618"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/garlic_cb_dmean_5000_it.json",
@@ -1069,7 +1057,7 @@
         "id_image": "garlic_3944096"
       }
     ],
-    "hash_code_list_img": "1422097866",
+    "hash_code_list_img": "2144545909",
     "list_definition_mean": [
       {
         "mean_english": "cây tỏi",
@@ -1079,7 +1067,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1962603631"
+    "hash_code_list_definition_mean": "2066997004"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/garment_cb_dmean_5000_it.json",
@@ -1112,7 +1100,7 @@
         "id_image": "garment_5939295"
       }
     ],
-    "hash_code_list_img": "46833739",
+    "hash_code_list_img": "1504275542",
     "list_definition_mean": [
       {
         "mean_english": "quần áo",
@@ -1122,7 +1110,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1224760803"
+    "hash_code_list_definition_mean": "184854211"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/garnish_cb_dmean_5000_it.json",
@@ -1141,7 +1129,7 @@
         "id_image": "garnish_1900796"
       }
     ],
-    "hash_code_list_img": "1885172495",
+    "hash_code_list_img": "1571447354",
     "list_definition_mean": [
       {
         "mean_english": "trang trí món ăn",
@@ -1158,7 +1146,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "80894798"
+    "hash_code_list_definition_mean": "-923855531"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gasp_cb_dmean_5000_it.json",
@@ -1177,8 +1165,17 @@
         "id_image": "gasp_1814939"
       }
     ],
-    "hash_code_list_img": "1011753949",
-    "hash_code_list_definition_mean": ""
+    "hash_code_list_img": "1338957730",
+    "list_definition_mean": [
+      {
+        "mean_english": "hơi thở hổn hển",
+        "definition": "the sound made by suddenly breathing in, eg because of surprise or sudden pain",
+        "ex_of_definition_list": [
+          "a gasp of fear."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "614953596"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gastric_cb_dmean_5000_it.json",
@@ -1206,7 +1203,7 @@
         "id_image": "gastric_4694737"
       }
     ],
-    "hash_code_list_img": "1739419091",
+    "hash_code_list_img": "575124389",
     "list_definition_mean": [
       {
         "mean_english": "(thuộc) dạ dày",
@@ -1216,7 +1213,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "493488513"
+    "hash_code_list_definition_mean": "382334991"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gas_cb_dmean_5000_it.json",
@@ -1253,7 +1250,7 @@
         "id_image": "gas_6315520"
       }
     ],
-    "hash_code_list_img": "1621776740",
+    "hash_code_list_img": "265001743",
     "list_definition_mean": [
       {
         "mean_english": "ga",
@@ -1270,10 +1267,6 @@
         ]
       },
       {
-        "mean_english": "khí gây tê",
-        "definition": "a gas which is used by dentists as an anaesthetic."
-      },
-      {
         "mean_english": "khí độc",
         "definition": "a poisonous or irritating gas used in war etc",
         "ex_of_definition_list": [
@@ -1288,7 +1281,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1772195815"
+    "hash_code_list_definition_mean": "504641004"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gate_cb_dmean_5000_it.json",
@@ -1306,7 +1299,7 @@
         "id_image": "gate_4413103"
       }
     ],
-    "hash_code_list_img": "2025082858",
+    "hash_code_list_img": "275943431",
     "list_definition_mean": [
       {
         "mean_english": "cổng",
@@ -1316,7 +1309,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "839843860"
+    "hash_code_list_definition_mean": "766950048"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gauge_cb_dmean_5000_it.json",
@@ -1353,7 +1346,7 @@
         "id_image": "gauge_780787"
       }
     ],
-    "hash_code_list_img": "-1703756325",
+    "hash_code_list_img": "1961234841",
     "list_definition_mean": [
       {
         "mean_english": "đo",
@@ -1378,10 +1371,6 @@
         ]
       },
       {
-        "mean_english": "cỡ; hạn độ",
-        "definition": "a standard size (of wire, bullets etc)"
-      },
-      {
         "mean_english": "bề ngang đường sắt",
         "definition": "the distance between the rails of a railway/railroad line",
         "ex_of_definition_list": [
@@ -1389,7 +1378,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "634137735"
+    "hash_code_list_definition_mean": "-74906528"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gauze_cb_dmean_5000_it.json",
@@ -1422,7 +1411,7 @@
         "id_image": "gauze_2682110"
       }
     ],
-    "hash_code_list_img": "1702080167",
+    "hash_code_list_img": "-952218142",
     "list_definition_mean": [
       {
         "mean_english": "sa; lượt; gạc",
@@ -1433,7 +1422,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1710901798"
+    "hash_code_list_definition_mean": "1036227633"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gear_cb_dmean_5000_it.json",
@@ -1459,8 +1448,31 @@
         "id_image": "gear_2137990"
       }
     ],
-    "hash_code_list_img": "-691344268",
-    "hash_code_list_definition_mean": ""
+    "hash_code_list_img": "-1526972925",
+    "list_definition_mean": [
+      {
+        "mean_english": "số",
+        "definition": "a combination of these wheels, eg in a car",
+        "ex_of_definition_list": [
+          "The car is in first gear."
+        ]
+      },
+      {
+        "mean_english": "bộ phận",
+        "definition": "a mechanism used for a particular purpose",
+        "ex_of_definition_list": [
+          "an aeroplane’s landing-gear."
+        ]
+      },
+      {
+        "mean_english": "dụng cụ, quần áo",
+        "definition": "the things needed for a particular job, sport etc",
+        "ex_of_definition_list": [
+          "sports gear."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-80825975"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gel_cb_dmean_5000_it.json",
@@ -1493,7 +1505,7 @@
         "id_image": "gel_456625"
       }
     ],
-    "hash_code_list_img": "-1470969939",
+    "hash_code_list_img": "-1624956242",
     "list_definition_mean": [
       {
         "mean_english": "gel",
@@ -1503,7 +1515,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "780027039"
+    "hash_code_list_definition_mean": "1919161906"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gem_cb_dmean_5000_it.json",
@@ -1522,12 +1534,8 @@
         "id_image": "gem_4334176"
       }
     ],
-    "hash_code_list_img": "1851859265",
+    "hash_code_list_img": "433143075",
     "list_definition_mean": [
-      {
-        "mean_english": "ngọc",
-        "definition": "a precious stone especially when cut into a particular shape, eg for a ring or necklace."
-      },
       {
         "mean_english": "cái gì quý",
         "definition": "anything or anyone thought to be especially good",
@@ -1536,7 +1544,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-852389325"
+    "hash_code_list_definition_mean": "612681863"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/genealogy_cb_dmean_5000_it.json",
@@ -1555,7 +1563,7 @@
         "id_image": "genealogy_2597677"
       }
     ],
-    "hash_code_list_img": "1903889824",
+    "hash_code_list_img": "2035788406",
     "list_definition_mean": [
       {
         "mean_english": "phả hệ",
@@ -1563,13 +1571,9 @@
         "ex_of_definition_list": [
           "the genealogy of the royal house of Tudor."
         ]
-      },
-      {
-        "mean_english": "sơ đồ phả hệ",
-        "definition": "a plan, list etc of the ancestors of a person or family."
       }
     ],
-    "hash_code_list_definition_mean": "-1041569792"
+    "hash_code_list_definition_mean": "819330106"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/general_cb_dmean_5000_it.json",
@@ -1596,7 +1600,7 @@
         "id_image": "general_2714191"
       }
     ],
-    "hash_code_list_img": "-1860118243",
+    "hash_code_list_img": "-647308235",
     "list_definition_mean": [
       {
         "mean_english": "phổ biến; chung",
@@ -1635,7 +1639,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1895622794"
+    "hash_code_list_definition_mean": "-82806073"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/generate_cb_dmean_5000_it.json",
@@ -1653,7 +1657,7 @@
         "id_image": "generate_5391609"
       }
     ],
-    "hash_code_list_img": "698681904",
+    "hash_code_list_img": "695846670",
     "list_definition_mean": [
       {
         "mean_english": "tạo ra; phát ra",
@@ -1664,7 +1668,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "2050379323"
+    "hash_code_list_definition_mean": "632879601"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/generation_cb_dmean_5000_it.json",
@@ -1672,10 +1676,9 @@
     "id_album": "94691743",
     "english": "generation",
     "list_mean": [
-      "thế hệ",
       "thế hệ"
     ],
-    "hash_code_list_mean": "885628481",
+    "hash_code_list_mean": "-643412749",
     "list_img": [
       {
         "link_thumb": "https://live.staticflickr.com/65535/51809336326_8114001da1_n.jpg",
@@ -1688,7 +1691,7 @@
         "id_image": "generation_5225027"
       }
     ],
-    "hash_code_list_img": "1382810079",
+    "hash_code_list_img": "-655559240",
     "list_definition_mean": [
       {
         "mean_english": "thế hệ",
@@ -1705,7 +1708,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "-1624016550"
+    "hash_code_list_definition_mean": "-1515032317"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/generator_cb_dmean_5000_it.json",
@@ -1743,7 +1746,7 @@
         "id_image": "generator_778672"
       }
     ],
-    "hash_code_list_img": "1791317408",
+    "hash_code_list_img": "923832824",
     "list_definition_mean": [
       {
         "mean_english": "máy phát điện",
@@ -1753,7 +1756,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "951116486"
+    "hash_code_list_definition_mean": "1242124207"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/generic_cb_dmean_5000_it.json",
@@ -1776,7 +1779,7 @@
         "id_image": "generic_1818679"
       }
     ],
-    "hash_code_list_img": "-1257015858",
+    "hash_code_list_img": "1278595825",
     "list_definition_mean": [
       {
         "mean_english": "chung cho cả loại",
@@ -1786,7 +1789,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "970777342"
+    "hash_code_list_definition_mean": "195198213"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/generous_cb_dmean_5000_it.json",
@@ -1816,7 +1819,7 @@
         "id_image": "generous_5778726"
       }
     ],
-    "hash_code_list_img": "963473580",
+    "hash_code_list_img": "-487143886",
     "list_definition_mean": [
       {
         "mean_english": "hào phóng",
@@ -1843,7 +1846,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1668714013"
+    "hash_code_list_definition_mean": "-1305048610"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/genesis_cb_dmean_5000_it.json",
@@ -1866,7 +1869,7 @@
         "id_image": "genesis_2586113"
       }
     ],
-    "hash_code_list_img": "-2036226060",
+    "hash_code_list_img": "1405809050",
     "list_definition_mean": [
       {
         "mean_english": "nguồn gốc",
@@ -1876,7 +1879,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "595396164"
+    "hash_code_list_definition_mean": "227935616"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/genetic_cb_dmean_5000_it.json",
@@ -1904,7 +1907,7 @@
         "id_image": "genetic_4061294"
       }
     ],
-    "hash_code_list_img": "527451062",
+    "hash_code_list_img": "-1853729855",
     "list_definition_mean": [
       {
         "mean_english": "thuộc di truyền học",
@@ -1914,7 +1917,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "391056677"
+    "hash_code_list_definition_mean": "393413365"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gene_cb_dmean_5000_it.json",
@@ -1947,7 +1950,7 @@
         "id_image": "gene_5903851"
       }
     ],
-    "hash_code_list_img": "-1342704626",
+    "hash_code_list_img": "1680910151",
     "list_definition_mean": [
       {
         "mean_english": "(sinh vật học) gien",
@@ -1957,7 +1960,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1504420834"
+    "hash_code_list_definition_mean": "1522872872"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/genius_cb_dmean_5000_it.json",
@@ -1980,7 +1983,7 @@
         "id_image": "genius_4752562"
       }
     ],
-    "hash_code_list_img": "1654397018",
+    "hash_code_list_img": "1933956922",
     "list_definition_mean": [
       {
         "mean_english": "thiên tài",
@@ -1990,7 +1993,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1978602417"
+    "hash_code_list_definition_mean": "1102831017"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/genome_cb_dmean_5000_it.json",
@@ -2023,7 +2026,7 @@
         "id_image": "genome_4507159"
       }
     ],
-    "hash_code_list_img": "2060291774",
+    "hash_code_list_img": "-1814576618",
     "list_definition_mean": [
       {
         "mean_english": "hệ gen",
@@ -2033,7 +2036,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1318491630"
+    "hash_code_list_definition_mean": "2033117957"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gentleman_cb_dmean_5000_it.json",
@@ -2067,7 +2070,7 @@
         "id_image": "gentleman_5020638"
       }
     ],
-    "hash_code_list_img": "-1711041171",
+    "hash_code_list_img": "2086563210",
     "list_definition_mean": [
       {
         "mean_english": "người đàn ông lịch sự",
@@ -2084,7 +2087,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1132726787"
+    "hash_code_list_definition_mean": "449257262"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/geography_cb_dmean_5000_it.json",
@@ -2122,7 +2125,7 @@
         "id_image": "geography_5928245"
       }
     ],
-    "hash_code_list_img": "693018754",
+    "hash_code_list_img": "-496371929",
     "list_definition_mean": [
       {
         "mean_english": "địa lý học",
@@ -2132,7 +2135,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "975853333"
+    "hash_code_list_definition_mean": "1548031755"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/geology_cb_dmean_5000_it.json",
@@ -2165,7 +2168,7 @@
         "id_image": "geology_6348237"
       }
     ],
-    "hash_code_list_img": "1084926471",
+    "hash_code_list_img": "-595579048",
     "list_definition_mean": [
       {
         "mean_english": "địa chất học",
@@ -2175,7 +2178,7 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "1955119522"
+    "hash_code_list_definition_mean": "2083424472"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/geometric_cb_dmean_5000_it.json",
@@ -2203,7 +2206,7 @@
         "id_image": "geometric_6006336"
       }
     ],
-    "hash_code_list_img": "-981568304",
+    "hash_code_list_img": "126757608",
     "list_definition_mean": [
       {
         "mean_english": "thuộc hình học",
@@ -2213,6 +2216,6 @@
         ]
       }
     ],
-    "hash_code_list_definition_mean": "673901147"
+    "hash_code_list_definition_mean": "484079069"
   }
 ]
