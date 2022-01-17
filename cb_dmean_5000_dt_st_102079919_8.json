@@ -30,62 +30,24 @@
         "id_image": "outside_5029613"
       }
     ],
-    "hash_code_list_img": "-2147041070",
-    "list_definition_mean": [
-      {
-        "mean_english": "bề ngoài",
-        "definition": "the outer surface",
-        "ex_of_definition_list": [
-          "The outside of the house was painted white."
-        ]
-      },
-      {
-        "mean_english": "phía ngoài",
-        "definition": "of, on, or near the outer part of anything",
-        "ex_of_definition_list": [
-          "the outside door."
-        ]
-      },
-      {
-        "mean_english": "từ bên ngoài",
-        "definition": "not part of (a group, one’s work etc)",
-        "ex_of_definition_list": [
-          "We shall need outside help",
-          "She has a lot of outside interests."
-        ]
-      },
-      {
-        "mean_english": "mỏng manh",
-        "definition": "(of a chance etc) very small",
-        "ex_of_definition_list": [
-          "He has an outside chance of winning the race."
-        ]
-      },
-      {
-        "mean_english": "bên ngoài",
-        "definition": "out of, not in a building etc",
-        "ex_of_definition_list": [
-          "He went outside",
-          "He stayed outside."
-        ]
-      },
-      {
-        "mean_english": "bề ngoài",
-        "definition": "on the outside",
-        "ex_of_definition_list": [
-          "The house looked beautiful outside."
-        ]
-      },
-      {
-        "mean_english": "ngoài",
-        "definition": "on the outer part or side of; not inside or within",
-        "ex_of_definition_list": [
-          "He stood outside the house",
-          "He did that outside working hours."
-        ]
-      }
+    "hash_code_list_img": "-1018025459",
+    "list_example": [
+      "The outside of the house was painted white.",
+      "the outside door.",
+      "We shall need outside help",
+      "She has a lot of outside interests.",
+      "He has an outside chance of winning the race.",
+      "He stood outside the house",
+      "He did that outside working hours.",
+      "The dancers returned because they could use it as a tool to formulate body actions which were outside their normal performance routines.",
+      "It is possible that these pieces were used in ritual contexts outside the funerary context, then later placed in the tomb as an offering.",
+      "There is an increasing need for assessments of the status of monkey populations both within and outside protected areas.",
+      "In contrast, in traditional design, the role of functions and advantages of functional representation and manipulation are often unclear to researchers outside of the community.",
+      "Rental income and other personal property remained outside the separate estate and subject to disposal by the trustee at his discretion.",
+      "Some values of the maximum speed of the vertical velocity inside and outside the front are also given in table 1.",
+      "If spatial understanding is regarded as outside conceptual structure, why is social understanding regarded as inside conceptual structure?"
     ],
-    "hash_code_list_definition_mean": "340441209"
+    "hash_code_list_example": "-962773253"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/out_cb_dmean_5000_it.json",
@@ -127,105 +89,17 @@
         "id_image": "out_3557810"
       }
     ],
-    "hash_code_list_img": "-1903295347",
-    "list_definition_mean": [
-      {
-        "mean_english": "bên ngoài",
-        "definition": "adverb, adjective not in a building etc; from inside a building etc; in(to) the open air",
-        "ex_of_definition_list": [
-          "The children are out in the garden",
-          "They went out for a walk."
-        ]
-      },
-      {
-        "mean_english": "lấy ra",
-        "definition": "adverb from inside (something)",
-        "ex_of_definition_list": [
-          "He opened the desk and took out a pencil."
-        ]
-      },
-      {
-        "mean_english": "rời khỏi",
-        "definition": "adverb, adjective away from home, an office etc",
-        "ex_of_definition_list": [
-          "We had an evening out",
-          "The manager is out."
-        ]
-      },
-      {
-        "mean_english": "ra đi",
-        "definition": "adverb, adjective far away",
-        "ex_of_definition_list": [
-          "The ship was out at sea",
-          "He went out to India."
-        ]
-      },
-      {
-        "mean_english": "to",
-        "definition": "adverb loudly and clearly",
-        "ex_of_definition_list": [
-          "He shouted out the answer."
-        ]
-      },
-      {
-        "mean_english": "hoàn toàn",
-        "definition": "adverb completely",
-        "ex_of_definition_list": [
-          "She was tired out."
-        ]
-      },
-      {
-        "mean_english": "sai",
-        "definition": "adverb, adjective not correct",
-        "ex_of_definition_list": [
-          "My calculations seem to be out."
-        ]
-      },
-      {
-        "mean_english": "ra ngoài",
-        "definition": "adverb, adjective free, known, available etc",
-        "ex_of_definition_list": [
-          "He let the cat out",
-          "The secret is out."
-        ]
-      },
-      {
-        "mean_english": "thua",
-        "definition": "adverb, adjective (in games) having been defeated",
-        "ex_of_definition_list": [
-          "The batsman was (caught) out."
-        ]
-      },
-      {
-        "mean_english": "tham gia đình công",
-        "definition": "adverb, adjective on strike",
-        "ex_of_definition_list": [
-          "The men came out in protest."
-        ]
-      },
-      {
-        "mean_english": "lỗi mốt",
-        "definition": "adverb, adjective no longer in fashion",
-        "ex_of_definition_list": [
-          "Long hair is definitely out."
-        ]
-      },
-      {
-        "mean_english": "rút",
-        "definition": "adverb, adjective (of the tide) with the water at or going to its lowest level",
-        "ex_of_definition_list": [
-          "The tide is (going) out."
-        ]
-      },
-      {
-        "mean_english": "không được chấp nhận",
-        "definition": "adjective unacceptable",
-        "ex_of_definition_list": [
-          "That suggestion is definitely out."
-        ]
-      }
+    "hash_code_list_img": "1474154491",
+    "list_example": [
+      "The children are out in the garden",
+      "They went out for a walk.",
+      "He opened the desk and took out a pencil.",
+      "The ship was out at sea",
+      "He went out to India.",
+      "He shouted out the answer.",
+      "The men came out in protest."
     ],
-    "hash_code_list_definition_mean": "1867224900"
+    "hash_code_list_example": "-1615891427"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/oval_cb_dmean_5000_it.json",
@@ -254,24 +128,17 @@
         "id_image": "oval_6080969"
       }
     ],
-    "hash_code_list_img": "1775402116",
-    "list_definition_mean": [
-      {
-        "mean_english": "có hình bầu dục",
-        "definition": "shaped like an egg",
-        "ex_of_definition_list": [
-          "an oval table."
-        ]
-      },
-      {
-        "mean_english": "hình bầu dục",
-        "definition": "an oval shape",
-        "ex_of_definition_list": [
-          "He drew an oval."
-        ]
-      }
+    "hash_code_list_img": "1299608046",
+    "list_example": [
+      "an oval table.",
+      "Detailed anatomical examination of the oval fossa and its environs relative to placement of the device is obviously of great practical importance.",
+      "The bodies of two individuals were placed in a large oval chamber, accessed from a cylindrical side-step, that goes down 80 cm from the surface.",
+      "In addition, the individual nematodes had conspicuous oval bodies.",
+      "In most cases there is an oval foramen, although occasionally a significant atrial septal defect is evident.",
+      "Subjects with interatrial communication: 55 patients with an interatrial communication were studied (48 within the oval fossa; 7 of sinusvenosus type).",
+      "All the objects except one were oval and loaf-shaped; they had a flat base and a rounded, convex body (figures 3 and 4)."
     ],
-    "hash_code_list_definition_mean": "-1964885536"
+    "hash_code_list_example": "607313454"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/oven_cb_dmean_5000_it.json",
@@ -299,17 +166,12 @@
         "id_image": "oven_649207"
       }
     ],
-    "hash_code_list_img": "-216374989",
-    "list_definition_mean": [
-      {
-        "mean_english": "lò nướng",
-        "definition": "a closed box-like space, usually part of a cooker, which is heated for cooking food",
-        "ex_of_definition_list": [
-          "She put the cake into the oven."
-        ]
-      }
+    "hash_code_list_img": "-685438828",
+    "list_example": [
+      "A subsample of 20 randomly chosen plants was partitioned into stem, leaf, petiole, peduncle and fruit components and oven dried.",
+      "Application of thermal oven is restricted to the materials of low melting points only."
     ],
-    "hash_code_list_definition_mean": "1388742980"
+    "hash_code_list_example": "1849208697"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/overall_cb_dmean_5000_it.json",
@@ -339,31 +201,18 @@
         "id_image": "overall_614285"
       }
     ],
-    "hash_code_list_img": "1771440592",
-    "list_definition_mean": [
-      {
-        "mean_english": "áo khoác làm việc",
-        "definition": "a garment worn over ordinary clothes to protect them from dirt etc",
-        "ex_of_definition_list": [
-          "She wears an overall when cleaning the house."
-        ]
-      },
-      {
-        "mean_english": "tổng thể",
-        "definition": "complete, including everything",
-        "ex_of_definition_list": [
-          "What is the overall cost of the scheme?"
-        ]
-      },
-      {
-        "mean_english": "nói chung",
-        "definition": "(also over all) complete, including everything",
-        "ex_of_definition_list": [
-          "What will the scheme cost overall?"
-        ]
-      }
+    "hash_code_list_img": "-1454606251",
+    "list_example": [
+      "She wears an overall when cleaning the house.",
+      "What is the overall cost of the scheme?",
+      "The paper examines the contribution that gender roles and identities make to the overall configuration of resources available to particular individuals.",
+      "Perhaps a clearer way to assess the impact of a pension reform could use ' ' typical ' ' career earnings paths, holding constant overall contributions.",
+      "A maximum likelihood ratio test is used to determine which covariates are significantly different from zero and thereby contributing significantly to overall survivorship.",
+      "Although the force control performance is affected by the noise generated by the rotating drill, the overall robotic drilling performance remains satisfactory.",
+      "Every centre was encouraged to strengthen its social science research, to address particular themes and overall staff numbers.",
+      "However, even though not significant, the magnitude of the overall difference was equivalent to that recorded in the previous correlational studies."
     ],
-    "hash_code_list_definition_mean": "786921065"
+    "hash_code_list_example": "267737768"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/overboard_cb_dmean_5000_it.json",
@@ -381,17 +230,15 @@
         "id_image": "overboard_168281"
       }
     ],
-    "hash_code_list_img": "196069235",
-    "list_definition_mean": [
-      {
-        "mean_english": "qua mạn tàu",
-        "definition": "over the side of a ship or boat into the water",
-        "ex_of_definition_list": [
-          "He jumped overboard."
-        ]
-      }
+    "hash_code_list_img": "551229982",
+    "list_example": [
+      "I am thinking of positioning watches and the global positioning system, whereby people who go overboard can be easily and quickly located.",
+      "I am not one of those who go overboard in favour of the consumer councils.",
+      "I am not suggesting that we throw overboard this traditional method, as it can yield perfectly valid insights particularly with regard to time experienced over various stretches of duration.",
+      "The regulation is designed to prevent shark finning where shark carcasses are thrown overboard after high-value shark fins have been removed.",
+      "If a contributor on a sea voyage falls overboard and his body is not recovered, would his representatives not receive the grant?"
     ],
-    "hash_code_list_definition_mean": "361960681"
+    "hash_code_list_example": "2115914403"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/overcast_cb_dmean_5000_it.json",
@@ -409,17 +256,17 @@
         "id_image": "overcast_5493138"
       }
     ],
-    "hash_code_list_img": "93367203",
-    "list_definition_mean": [
-      {
-        "mean_english": "trời u ám",
-        "definition": "cloudy",
-        "ex_of_definition_list": [
-          "a slightly overcast day."
-        ]
-      }
+    "hash_code_list_img": "1592756789",
+    "list_example": [
+      "a slightly overcast day.",
+      "On several overcast days, observations were continued throughout the day.",
+      "All indirect measurements were only taken during uniformly overcast sky conditions or after sunset (mostly after 1700 h).",
+      "He waited hours until the sun began setting to capture the overcast shadowy lighting seen in the film.",
+      "On an overcast day, the light is very diffused and is about 5% of direct sunlight.",
+      "The leaflets close in overcast weather, and the foliage is popular with browsing animals.",
+      "Furthermore, weather can change throughout the day - for example, a rainy morning followed by an overcast afternoon and evening."
     ],
-    "hash_code_list_definition_mean": "1585874114"
+    "hash_code_list_example": "1094512432"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/overcoat_cb_dmean_5000_it.json",
@@ -447,17 +294,14 @@
         "id_image": "overcoat_5349711"
       }
     ],
-    "hash_code_list_img": "1003627372",
-    "list_definition_mean": [
-      {
-        "mean_english": "áo choàng",
-        "definition": "a usually heavy coat worn over all other clothes especially in winter",
-        "ex_of_definition_list": [
-          "He was wearing a thick overcoat."
-        ]
-      }
+    "hash_code_list_img": "-1989428625",
+    "list_example": [
+      "The purpose of the overcoat is to emit radiation during par t of the compression phase of the laser pulse.",
+      "He put on his frock-coat and silk hat, and took his overcoat over his arm, and together they walked downstairs into safety.",
+      "This is true of basic items such as a warm waterproof overcoat and a meal with meat, chicken or fish every second day.",
+      "Various tungsten percentages and overcoat thicknesses were simulated in order to optimize the amount of radiation heating developed in the ablator."
     ],
-    "hash_code_list_definition_mean": "145279703"
+    "hash_code_list_example": "1221414263"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/overcome_cb_dmean_5000_it.json",
@@ -476,25 +320,16 @@
         "id_image": "overcome_1935506"
       }
     ],
-    "hash_code_list_img": "2056319836",
-    "list_definition_mean": [
-      {
-        "mean_english": "mất tinh thần",
-        "definition": "helpless; defeated by emotion etc",
-        "ex_of_definition_list": [
-          "overcome with grief",
-          "I felt quite overcome."
-        ]
-      },
-      {
-        "mean_english": "khắc phục",
-        "definition": "to defeat or conquer",
-        "ex_of_definition_list": [
-          "She finally overcame her fear of the dark."
-        ]
-      }
+    "hash_code_list_img": "1110926029",
+    "list_example": [
+      "overcome with grief",
+      "Only with the high exit velocities possible with pulsed laser ablation propulsion is it possible to overcome this problem.",
+      "If the demands of the task are low and the possible responses are restricted, a typically developing child should be able to overcome any ambiguity.",
+      "The encountered difficulties and the strategies deployed to overcome them are described in depth.",
+      "I am confident that the methodological and epistemological problems can be overcome through a combination of ingenuity, flair and some inevitable compromises.",
+      "To overcome biases, it seems necessary to have a well-structured process for probability elicitation."
     ],
-    "hash_code_list_definition_mean": "1008660313"
+    "hash_code_list_example": "1429575422"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/overdose_cb_dmean_5000_it.json",
@@ -512,17 +347,11 @@
         "id_image": "overdose_2688333"
       }
     ],
-    "hash_code_list_img": "735627536",
-    "list_definition_mean": [
-      {
-        "mean_english": "quá liều",
-        "definition": "too great an amount (of medicine)",
-        "ex_of_definition_list": [
-          "an overdose of sleeping-pills."
-        ]
-      }
+    "hash_code_list_img": "2069419671",
+    "list_example": [
+      "an overdose of sleeping-pills."
     ],
-    "hash_code_list_definition_mean": "130527899"
+    "hash_code_list_example": "-2080287896"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/overdue_cb_dmean_5000_it.json",
@@ -551,24 +380,12 @@
         "id_image": "overdue_6381386"
       }
     ],
-    "hash_code_list_img": "6024446",
-    "list_definition_mean": [
-      {
-        "mean_english": "quá chậm",
-        "definition": "late",
-        "ex_of_definition_list": [
-          "The train is overdue."
-        ]
-      },
-      {
-        "mean_english": "quá hạn",
-        "definition": "(of bills, work etc) not yet paid, done, delivered etc, although the date for doing this has passed",
-        "ex_of_definition_list": [
-          "overdue library books."
-        ]
-      }
+    "hash_code_list_img": "586805797",
+    "list_example": [
+      "overdue library books.",
+      "The appearance of this long overdue book will significantly improve the situation."
     ],
-    "hash_code_list_definition_mean": "961757553"
+    "hash_code_list_example": "718015412"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/overhead_cb_dmean_5000_it.json",
@@ -586,18 +403,11 @@
         "id_image": "overhead_5641182"
       }
     ],
-    "hash_code_list_img": "1373719765",
-    "list_definition_mean": [
-      {
-        "mean_english": "phía trên đầu",
-        "definition": "above; over one’s head",
-        "ex_of_definition_list": [
-          "The plane flew overhead",
-          "an overhead bridge."
-        ]
-      }
+    "hash_code_list_img": "546704240",
+    "list_example": [
+      "an overhead bridge."
     ],
-    "hash_code_list_definition_mean": "169600490"
+    "hash_code_list_example": "1668409867"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/overlap_cb_dmean_5000_it.json",
@@ -616,17 +426,11 @@
         "id_image": "overlap_979798"
       }
     ],
-    "hash_code_list_img": "1327733397",
-    "list_definition_mean": [
-      {
-        "mean_english": "gối lên nhau",
-        "definition": "to extend over and cover a part of",
-        "ex_of_definition_list": [
-          "The pieces of cloth overlapped (each other)."
-        ]
-      }
+    "hash_code_list_img": "544784169",
+    "list_example": [
+      "an overlap of two centimetres."
     ],
-    "hash_code_list_definition_mean": "1901405143"
+    "hash_code_list_example": "-295425447"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/overload_cb_dmean_5000_it.json",
@@ -654,17 +458,19 @@
         "id_image": "overload_4994789"
       }
     ],
-    "hash_code_list_img": "-1627436326",
-    "list_definition_mean": [
-      {
-        "mean_english": "quá tải",
-        "definition": "to fill with too much of something",
-        "ex_of_definition_list": [
-          "The lorry overturned because it had been overloaded."
-        ]
-      }
+    "hash_code_list_img": "-478214199",
+    "list_example": [
+      "The lorry overturned because it had been overloaded.",
+      "In basic terms, non-integrated or homolateral function can be seen when somebody is panicking; emotional functioning is overloading, rational response mechanisms are 'switched off'.",
+      "Examples of such techniques and principles are abstraction, inheritance, modularity, overloading, information hiding, error handling, generic programming, compositionality, and separation of concerns.",
+      "A second, smaller collection of sound files documented gestures which caused problems such as inaccurate analyses, overloaded synthesis filters, or even crashes.",
+      "Likewise, if the definition used =, then it would clearly be overloaded in both cases.",
+      "I already seem to be overloading a non-existent syllabus.",
+      "Type classes and run-time overloading techniques seem more realistic in these respects.",
+      "We follow previous formalizations of type classes in providing a translation into a language without overloading.",
+      "We introduce a categorical constructor corresponding to overloading, and formalize the equations as a single equation in the functor category."
     ],
-    "hash_code_list_definition_mean": "448990211"
+    "hash_code_list_example": "1515685056"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/overnight_cb_dmean_5000_it.json",
@@ -683,24 +489,16 @@
         "id_image": "overnight_5966266"
       }
     ],
-    "hash_code_list_img": "367478996",
-    "list_definition_mean": [
-      {
-        "mean_english": "qua đêm",
-        "definition": "for or during the night",
-        "ex_of_definition_list": [
-          "an overnight bag."
-        ]
-      },
-      {
-        "mean_english": "chốc lát",
-        "definition": "very quick(ly)",
-        "ex_of_definition_list": [
-          "He was an overnight success."
-        ]
-      }
+    "hash_code_list_img": "1977345199",
+    "list_example": [
+      "an overnight bag.",
+      "He was an overnight success.",
+      "Campers were defined as those camp attendees who stayed overnight or participated in any of the activities or who had eaten food at the camp.",
+      "When grandparents were widowed, grandchildren tended to visit more frequently and to come to stay overnight more often.",
+      "However, the fact that equality is not going to happen overnight or indeed ever, is no reason for not reducing current inequalities.",
+      "Accommodating relatives overnight is necessary when they travel a long distance, or because of their close involvement in housework or care tasks."
     ],
-    "hash_code_list_definition_mean": "940397249"
+    "hash_code_list_example": "-74994347"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/oversee_cb_dmean_5000_it.json",
@@ -718,17 +516,15 @@
         "id_image": "oversee_6041210"
       }
     ],
-    "hash_code_list_img": "1660570279",
-    "list_definition_mean": [
-      {
-        "mean_english": "giám sát",
-        "definition": "to supervise",
-        "ex_of_definition_list": [
-          "He oversees production at the factory."
-        ]
-      }
+    "hash_code_list_img": "1280809850",
+    "list_example": [
+      "Many of these organizations were created because of safety concerns; they oversee measures regarding organ transplants, blood supply, food, and medical goods and services.",
+      "A radiography workforce development committee was established to oversee this work.",
+      "Then the entire family spent the next several weeks making daily excursions to oversee the work.",
+      "The client may oversee the tradesman's work, just to make sure all is going to plan.",
+      "Its purpose is to oversee and coordinate transplantation."
     ],
-    "hash_code_list_definition_mean": "665690375"
+    "hash_code_list_example": "2019513083"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/oversleep_cb_dmean_5000_it.json",
@@ -746,17 +542,13 @@
         "id_image": "oversleep_6164676"
       }
     ],
-    "hash_code_list_img": "1684281783",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngủ quên",
-        "definition": "to sleep longer than one intended",
-        "ex_of_definition_list": [
-          "He overslept and missed the train."
-        ]
-      }
+    "hash_code_list_img": "1519842282",
+    "list_example": [
+      "The following morning they oversleep and are late for their wedding.",
+      "It follows then that oversleep and overstay are instances of scalebased excess rather than container-based excess.",
+      "Other examples of oversleep and overstay below can be also analyzed along this line."
     ],
-    "hash_code_list_definition_mean": "1265189567"
+    "hash_code_list_example": "-1245475593"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/overtake_cb_dmean_5000_it.json",
@@ -784,17 +576,16 @@
         "id_image": "overtake_4796161"
       }
     ],
-    "hash_code_list_img": "217273696",
-    "list_definition_mean": [
-      {
-        "mean_english": "vượt",
-        "definition": "to pass (a car etc) while driving etc",
-        "ex_of_definition_list": [
-          "He overtook a police car."
-        ]
-      }
+    "hash_code_list_img": "-1031168257",
+    "list_example": [
+      "The portion of the frozen soil between lenses remains saturated, although some consolidation of this zone may have occurred before it was overtaken by the advancing ice front.",
+      "However, discussions were to be overtaken by events with the outbreak of serious disorder in the spring and summer months of 1981 in inner-city areas across the country.",
+      "The traditional warden role has been overtaken by technology.",
+      "They will eventually be overtaken by child learners who receive enough exposure to the second language.",
+      "The technological and managerial aspects of water management have overtaken the governance and public affairs dimension.",
+      "The mental experience, as represented by the double interiority of being inside the carriage inside the painting, overtakes the physical."
     ],
-    "hash_code_list_definition_mean": "780427067"
+    "hash_code_list_example": "685200803"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/overtime_cb_dmean_5000_it.json",
@@ -827,17 +618,14 @@
         "id_image": "overtime_5260408"
       }
     ],
-    "hash_code_list_img": "1053978409",
-    "list_definition_mean": [
-      {
-        "mean_english": "giờ làm thêm",
-        "definition": "time spent in working beyond one’s set number of hours etc",
-        "ex_of_definition_list": [
-          "He did five hours’ overtime this week."
-        ]
-      }
+    "hash_code_list_img": "1306413219",
+    "list_example": [
+      "He did five hours’ overtime this week.",
+      "The law included minimum wage guarantees, maximum hours provisions, and stipulations regarding overtime pay. 32.",
+      "Late night work and overtime work by those with preschool children were prohibited in 1999 and 2002 respectively.",
+      "The aim is to schedule the harvest of olives and the production of olive oil minimizing overtime cost and setup, storage, waiting and production cost."
     ],
-    "hash_code_list_definition_mean": "1476094239"
+    "hash_code_list_example": "-101568404"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/overweight_cb_dmean_5000_it.json",
@@ -865,17 +653,13 @@
         "id_image": "overweight_6207854"
       }
     ],
-    "hash_code_list_img": "1657452090",
-    "list_definition_mean": [
-      {
-        "mean_english": "quá trọng lượng; béo phì",
-        "definition": "too heavy; too fat",
-        "ex_of_definition_list": [
-          "If I eat too much I soon get overweight."
-        ]
-      }
+    "hash_code_list_img": "881667976",
+    "list_example": [
+      "Type 2 diabetes, which comprises 90 percent of cases, appears mostly in middle-aged overweight people.",
+      "However, the atypical depressive subtype was associated with being overweight among males and females, and hypomanic symptoms were related to being overweight among males.",
+      "In extremely overweight adolescents, surgery has shown positive treatment results, but the deficiency of adequate studies makes it impossible to draw reliable conclusions."
     ],
-    "hash_code_list_definition_mean": "2139268926"
+    "hash_code_list_example": "-1613405399"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/overwork_cb_dmean_5000_it.json",
@@ -903,17 +687,11 @@
         "id_image": "overwork_5704966"
       }
     ],
-    "hash_code_list_img": "1084393952",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự làm việc quá sức",
-        "definition": "the act of working too hard",
-        "ex_of_definition_list": [
-          "It’s overwork that made him ill."
-        ]
-      }
+    "hash_code_list_img": "1727675812",
+    "list_example": [
+      "It’s overwork that made him ill."
     ],
-    "hash_code_list_definition_mean": "1652216933"
+    "hash_code_list_example": "353890378"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/ovule_cb_dmean_5000_it.json",
@@ -931,17 +709,11 @@
         "id_image": "ovule_1742030"
       }
     ],
-    "hash_code_list_img": "1870673397",
-    "list_definition_mean": [
-      {
-        "mean_english": "noãn",
-        "definition": "the female reproductive structure of a plant that develops into a seed when it is fertilized",
-        "ex_of_definition_list": [
-          "Seeds are the result of fertilization of the ovules by pollen."
-        ]
-      }
+    "hash_code_list_img": "1816986179",
+    "list_example": [
+      "Seeds are the result of fertilization of the ovules by pollen."
     ],
-    "hash_code_list_definition_mean": "1856990476"
+    "hash_code_list_example": "-1308680681"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/owner_cb_dmean_5000_it.json",
@@ -974,17 +746,12 @@
         "id_image": "owner_646641"
       }
     ],
-    "hash_code_list_img": "-53482367",
-    "list_definition_mean": [
-      {
-        "mean_english": "người chủ",
-        "definition": "a person who owns something",
-        "ex_of_definition_list": [
-          "Are you the owner of that car?"
-        ]
-      }
+    "hash_code_list_img": "1933901239",
+    "list_example": [
+      "Are you the owner of that car?",
+      "In other words, the end-user's research is shackled by the owner of the upstream research tool."
     ],
-    "hash_code_list_definition_mean": "1786466324"
+    "hash_code_list_example": "1653341086"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/oxygen_cb_dmean_5000_it.json",
@@ -1012,17 +779,16 @@
         "id_image": "oxygen_762523"
       }
     ],
-    "hash_code_list_img": "-2060090311",
-    "list_definition_mean": [
-      {
-        "mean_english": "khí oxy",
-        "definition": "(symbol O) an element, a gas without taste, colour/color or smell, forming part of the air",
-        "ex_of_definition_list": [
-          "He died from lack of oxygen."
-        ]
-      }
+    "hash_code_list_img": "-462392420",
+    "list_example": [
+      "The present study was undertaken to investigate the effects of inspired oxygen and positive end-expiratory pressure on arterial blood gases and systemic delivery of oxygen.",
+      "Increased subaerial volcanism and the rise of atmospheric oxygen 2.5 billion years ago.",
+      "Thus, it appears that at least a few species of methanogens can tolerate atmospheric oxygen for relatively extended periods of time.",
+      "We note that since (2.20), the equation for oxygen tension, is quasi-steady, small jumps in the oxygen tension may appear between consecutive timesteps.",
+      "This effect allows oxygen to be released from the molecule at venous oxygen pressure.",
+      "An improvement in uptake of peak level of oxygen was observed after intervention."
     ],
-    "hash_code_list_definition_mean": "1322554110"
+    "hash_code_list_example": "-158978584"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pacemaker_cb_dmean_5000_it.json",
@@ -1046,17 +812,19 @@
         "id_image": "pacemaker_670849"
       }
     ],
-    "hash_code_list_img": "1827612570",
-    "list_definition_mean": [
-      {
-        "mean_english": "máy điều hoà nhịp tim",
-        "definition": "an electronic device to make the heart beats regular or stronger",
-        "ex_of_definition_list": [
-          "He wears a heart pacemaker."
-        ]
-      }
+    "hash_code_list_img": "-597645524",
+    "list_example": [
+      "He wears a heart pacemaker.",
+      "Such pacemakers are already widely available and may be provided if thought necessary by the consultant to meet the essential clinical needs of a patient.",
+      "Thus, children who require aerial pacemakers have the ability to increase their heart rates, but do so only moderately during daily life.",
+      "There is one other small point concerning pacemakers worn by people with heart conditions.",
+      "Experience with implantable pacemakers using myocardial electrodes in the management of heart block.",
+      "One underwent heart transplant. 56 children (65%) have required pacemakers, 55% within 9 days of birth.",
+      "Because cardiac pacemakers are an accepted technology dating back to the 1960s (31), it may seem paradoxical to question their intrinsic efficacy and utility today.",
+      "Cardiac pacemakers are implanted after heart transplants to control early brady-arrhythmias due to sick sinus syndrome or atrioventricular block.",
+      "We do not contest the use of pacemakers in this indication."
     ],
-    "hash_code_list_definition_mean": "1730154529"
+    "hash_code_list_example": "1557648768"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pacific_cb_dmean_5000_it.json",
@@ -1075,24 +843,12 @@
         "id_image": "pacific_2243616"
       }
     ],
-    "hash_code_list_img": "1034355136",
-    "list_definition_mean": [
-      {
-        "mean_english": "yên bình",
-        "definition": "peaceful or calm",
-        "ex_of_definition_list": [
-          "a pacific lake/river."
-        ]
-      },
-      {
-        "mean_english": "vì hòa bình",
-        "definition": "wanting peace; conciliatory",
-        "ex_of_definition_list": [
-          "The emperor ordered the Avar prisoners returned as a pacific gesture."
-        ]
-      }
+    "hash_code_list_img": "1287091172",
+    "list_example": [
+      "a pacific lake/river.",
+      "The emperor ordered the Avar prisoners returned as a pacific gesture."
     ],
-    "hash_code_list_definition_mean": "1475123157"
+    "hash_code_list_example": "550204179"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pacifism_cb_dmean_5000_it.json",
@@ -1115,17 +871,14 @@
         "id_image": "pacifism_734891"
       }
     ],
-    "hash_code_list_img": "404306406",
-    "list_definition_mean": [
-      {
-        "mean_english": "chủ nghĩa hoà bình",
-        "definition": "the belief that all war is wrong and that one must not take part in it",
-        "ex_of_definition_list": [
-          "The Quaker faith of his father drew him to pacifism."
-        ]
-      }
+    "hash_code_list_img": "-1665473764",
+    "list_example": [
+      "In the course of the debate which there took place it was discussed from many angles, from impassioned pacifism to impenitent conscriptionism.",
+      "They have turned right round from one side to the other: the party of pacifism has now become the party of aggression.",
+      "Radical pacifism offered the best resource.",
+      "This is a plain attempt to dismantle essentialized notions of women's pacifism in favor of a more complex representation of women's identities."
     ],
-    "hash_code_list_definition_mean": "1867633131"
+    "hash_code_list_example": "651046075"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/package_cb_dmean_5000_it.json",
@@ -1164,24 +917,11 @@
         "id_image": "package_365256"
       }
     ],
-    "hash_code_list_img": "1962289651",
-    "list_definition_mean": [
-      {
-        "mean_english": "bưu kiện",
-        "definition": "things wrapped up and tied (for posting etc); a parcel",
-        "ex_of_definition_list": [
-          "a package of books."
-        ]
-      },
-      {
-        "mean_english": "đóng gói",
-        "definition": "to wrap up into a package",
-        "ex_of_definition_list": [
-          "He packaged (up) the clothes."
-        ]
-      }
+    "hash_code_list_img": "316912692",
+    "list_example": [
+      "a package of books."
     ],
-    "hash_code_list_definition_mean": "913068794"
+    "hash_code_list_example": "556606451"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/packet_cb_dmean_5000_it.json",
@@ -1214,17 +954,11 @@
         "id_image": "packet_6302065"
       }
     ],
-    "hash_code_list_img": "-794177482",
-    "list_definition_mean": [
-      {
-        "mean_english": "bao bì",
-        "definition": "a small often flat, usually paper or cardboard container, especially one in which food is sold or in which small objects are sent through the post",
-        "ex_of_definition_list": [
-          "a packet of biscuits."
-        ]
-      }
+    "hash_code_list_img": "943047287",
+    "list_example": [
+      "a packet of biscuits."
     ],
-    "hash_code_list_definition_mean": "1216623914"
+    "hash_code_list_example": "1224443763"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pack_cb_dmean_5000_it.json",
@@ -1262,52 +996,14 @@
         "id_image": "pack_618097"
       }
     ],
-    "hash_code_list_img": "1156090344",
-    "list_definition_mean": [
-      {
-        "mean_english": "ba lô",
-        "definition": "things tied up together or put in a container, especially to be carried on one’s back",
-        "ex_of_definition_list": [
-          "He carried his luggage in a pack on his back."
-        ]
-      },
-      {
-        "mean_english": "bộ bài",
-        "definition": "a set of (fifty-two) playing-cards",
-        "ex_of_definition_list": [
-          "a pack of cards."
-        ]
-      },
-      {
-        "mean_english": "đàn; bầy",
-        "definition": "a number or group of certain animals",
-        "ex_of_definition_list": [
-          "a pack of wolves."
-        ]
-      },
-      {
-        "mean_english": "gói; hộp",
-        "definition": "a packet",
-        "ex_of_definition_list": [
-          "a pack of cigarettes."
-        ]
-      },
-      {
-        "mean_english": "đóng gói",
-        "definition": "to put (clothes etc) into a bag, suitcase or trunk for a journey",
-        "ex_of_definition_list": [
-          "I’ve packed all I need and I’m ready to go."
-        ]
-      },
-      {
-        "mean_english": "tập hợp",
-        "definition": "to come together in large numbers in a small space",
-        "ex_of_definition_list": [
-          "They packed into the hall to hear his speech."
-        ]
-      }
+    "hash_code_list_img": "-12990345",
+    "list_example": [
+      "He carried his luggage in a pack on his back.",
+      "a pack of cards.",
+      "a pack of wolves.",
+      "a pack of cigarettes."
     ],
-    "hash_code_list_definition_mean": "-1991228172"
+    "hash_code_list_example": "245341766"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/paddle_cb_dmean_5000_it.json",
@@ -1337,24 +1033,11 @@
         "id_image": "paddle_486390"
       }
     ],
-    "hash_code_list_img": "-2133434048",
-    "list_definition_mean": [
-      {
-        "mean_english": "lội nước",
-        "definition": "to walk about in shallow water",
-        "ex_of_definition_list": [
-          "The children went paddling in the sea."
-        ]
-      },
-      {
-        "mean_english": "chèo xuồng",
-        "definition": "to move with a paddle",
-        "ex_of_definition_list": [
-          "He paddled the canoe along the river."
-        ]
-      }
+    "hash_code_list_img": "-394556326",
+    "list_example": [
+      "He paddled the canoe along the river."
     ],
-    "hash_code_list_definition_mean": "1602174077"
+    "hash_code_list_example": "170871621"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/padlock_cb_dmean_5000_it.json",
@@ -1378,24 +1061,11 @@
         "id_image": "padlock_144898"
       }
     ],
-    "hash_code_list_img": "300482166",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái khoá móc",
-        "definition": "a (usually metal) movable lock with a U-shaped bar which can be passed through a ring, chain etc and locked",
-        "ex_of_definition_list": [
-          "He has put a padlock on the gate."
-        ]
-      },
-      {
-        "mean_english": "khoá móc",
-        "definition": "to fasten with a padlock",
-        "ex_of_definition_list": [
-          "She padlocked her bike."
-        ]
-      }
+    "hash_code_list_img": "-647588703",
+    "list_example": [
+      "He has put a padlock on the gate."
     ],
-    "hash_code_list_definition_mean": "1395342752"
+    "hash_code_list_example": "1888275277"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pad_cb_dmean_5000_it.json",
@@ -1437,45 +1107,11 @@
         "id_image": "pad_2123822"
       }
     ],
-    "hash_code_list_img": "-1016996153",
-    "list_definition_mean": [
-      {
-        "mean_english": "miếng đệm",
-        "definition": "a soft, cushion-like object made of or filled with a soft material, used to prevent damage by knocking, rubbing etc",
-        "ex_of_definition_list": [
-          "She knelt on a pad to clean the floor."
-        ]
-      },
-      {
-        "mean_english": "tập giấy viết",
-        "definition": "sheets of paper fixed together",
-        "ex_of_definition_list": [
-          "a writing pad."
-        ]
-      },
-      {
-        "mean_english": "bệ phóng",
-        "definition": "a platform from which rockets are sent off",
-        "ex_of_definition_list": [
-          "a launching pad."
-        ]
-      },
-      {
-        "mean_english": "đệm",
-        "definition": "to put a pad in or on (for protection, to make big enough etc)",
-        "ex_of_definition_list": [
-          "The shoes were too big so she padded them with cotton wool."
-        ]
-      },
-      {
-        "mean_english": "đi lon ton",
-        "definition": "to walk softly",
-        "ex_of_definition_list": [
-          "The dog padded along the road."
-        ]
-      }
+    "hash_code_list_img": "-1723754487",
+    "list_example": [
+      "She knelt on a pad to clean the floor."
     ],
-    "hash_code_list_definition_mean": "11400281"
+    "hash_code_list_example": "1485761093"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/page_cb_dmean_5000_it.json",
@@ -1506,25 +1142,13 @@
         "id_image": "page_893427"
       }
     ],
-    "hash_code_list_img": "645908786",
-    "list_definition_mean": [
-      {
-        "mean_english": "trang sách",
-        "definition": "one side of a sheet of paper in a book, magazine etc",
-        "ex_of_definition_list": [
-          "page ninety-four",
-          "a three-page letter."
-        ]
-      },
-      {
-        "mean_english": "gọi loa nhắn tin",
-        "definition": "to try to find someone in a public place by calling out his name (often through a loud-speaker system)",
-        "ex_of_definition_list": [
-          "I could not see my friend in the hotel, so I had him paged."
-        ]
-      }
+    "hash_code_list_img": "-2005261506",
+    "list_example": [
+      "page ninety-four",
+      "a three-page letter.",
+      "This reaches its most inconclusive situation on page 22, when it is used twice in one sentence, both capitalised and not!"
     ],
-    "hash_code_list_definition_mean": "-127922750"
+    "hash_code_list_example": "321102560"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pail_cb_dmean_5000_it.json",
@@ -1542,17 +1166,17 @@
         "id_image": "pail_1619258"
       }
     ],
-    "hash_code_list_img": "348629906",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái thùng",
-        "definition": "a bucket",
-        "ex_of_definition_list": [
-          "a pail of water."
-        ]
-      }
+    "hash_code_list_img": "649989442",
+    "list_example": [
+      "a pail of water.",
+      "The significance of collecting milk is further emphasised by the fact that the milk pail must be wooden and not made of metal or pottery.",
+      "The fact that the same mathematics will explain the concave surface of water in a pail whether the pail or the universe is rotating defines the physicist's concept of equivalence.",
+      "I discussed this matter with an expert recently, and he described the pail used for milking as absolutely prehistoric.",
+      "They were unable to use sanitary arrangements and so a pail was kept in the room.",
+      "One lad had his lunch pail with him in the room.",
+      "The answer to fie last pail of the question is in the affirmative."
     ],
-    "hash_code_list_definition_mean": "1300752402"
+    "hash_code_list_example": "16513401"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/painful_cb_dmean_5000_it.json",
@@ -1575,17 +1199,18 @@
         "id_image": "pain_2037321"
       }
     ],
-    "hash_code_list_img": "-490850899",
-    "list_definition_mean": [
-      {
-        "mean_english": "đau đớn",
-        "definition": "causing pain",
-        "ex_of_definition_list": [
-          "a painful injury."
-        ]
-      }
+    "hash_code_list_img": "-1151566142",
+    "list_example": [
+      "a painful injury.",
+      "The procedure most probably works by distracting attention from the painful stimulation and refocusing it on music.",
+      "Given that numerous painful conditions, such as osteoarthritis, osteoporosis, and neuropathies, are more common with age, this finding is perhaps counterintuitive.",
+      "Thus, we are pleased when we are able to feel sympathy for the painful feelings of others.",
+      "Dislocation of children from their familiar environment, friends, and school adds considerable stress during an already painful period of children's lives.",
+      "The child undergoes the same terribly painful experiences in each situation.",
+      "There were 12 patients with on-choreatic dyskinesias, three with off-dystonic postures, and five with painful manifestations not related to muscle hypertonia.",
+      "I said we're going to do something ... that's going to be painful to a lot of people."
     ],
-    "hash_code_list_definition_mean": "1338734990"
+    "hash_code_list_example": "784085934"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/painkiller_cb_dmean_5000_it.json",
@@ -1618,17 +1243,11 @@
         "id_image": "painkiller_805694"
       }
     ],
-    "hash_code_list_img": "-1875674062",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuốc giảm đau",
-        "definition": "a drug etc which lessens or removes pain",
-        "ex_of_definition_list": [
-          "The doctor prescribed her some painkillers."
-        ]
-      }
+    "hash_code_list_img": "1764972026",
+    "list_example": [
+      "The doctor prescribed her some painkillers."
     ],
-    "hash_code_list_definition_mean": "1341960668"
+    "hash_code_list_example": "-2059564667"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/painter_cb_dmean_5000_it.json",
@@ -1662,25 +1281,13 @@
         "id_image": "painter_3527113"
       }
     ],
-    "hash_code_list_img": "1850301602",
-    "list_definition_mean": [
-      {
-        "mean_english": "thợ sơn",
-        "definition": "a person whose job is to put paint on things, especially walls, doors etc in houses",
-        "ex_of_definition_list": [
-          "He’s a painter and decorator."
-        ]
-      },
-      {
-        "mean_english": "hoạ sĩ",
-        "definition": "an artist who makes pictures in paint",
-        "ex_of_definition_list": [
-          "an Impressionist painter",
-          "Who was the painter of this portrait?"
-        ]
-      }
+    "hash_code_list_img": "-1773435981",
+    "list_example": [
+      "He’s a painter and decorator.",
+      "Who was the painter of this portrait?",
+      "The most he would say is that he identified the painter as a kindred spirit, dealing in his own sphere with analogous creative problems."
     ],
-    "hash_code_list_definition_mean": "-2005661127"
+    "hash_code_list_example": "-1612143585"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/paint_cb_dmean_5000_it.json",
@@ -1719,32 +1326,11 @@
         "id_image": "paint_995451"
       }
     ],
-    "hash_code_list_img": "557095501",
-    "list_definition_mean": [
-      {
-        "mean_english": "sơn",
-        "definition": "a colouring substance in the form of liquid or paste",
-        "ex_of_definition_list": [
-          "The artist’s clothes were covered in paint",
-          "(also adjective) a paint pot."
-        ]
-      },
-      {
-        "mean_english": "sơn",
-        "definition": "to spread paint carefully on (wood, walls etc)",
-        "ex_of_definition_list": [
-          "He is painting the kitchen."
-        ]
-      },
-      {
-        "mean_english": "vẽ tranh",
-        "definition": "to make a picture (of something or someone) using paint",
-        "ex_of_definition_list": [
-          "She painted her mother and father."
-        ]
-      }
+    "hash_code_list_img": "-686365185",
+    "list_example": [
+      "(also adjective) a paint pot."
     ],
-    "hash_code_list_definition_mean": "-2136434191"
+    "hash_code_list_example": "-1738337592"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pain_cb_dmean_5000_it.json",
@@ -1783,24 +1369,17 @@
         "id_image": "pain_6257658"
       }
     ],
-    "hash_code_list_img": "1215233115",
-    "list_definition_mean": [
-      {
-        "mean_english": "đau",
-        "definition": "hurt or suffering of the body or mind",
-        "ex_of_definition_list": [
-          "a pain in the chest."
-        ]
-      },
-      {
-        "mean_english": "làm bị đau",
-        "definition": "to cause suffering or upset to (someone)",
-        "ex_of_definition_list": [
-          "It pained her to admit that she was wrong."
-        ]
-      }
+    "hash_code_list_img": "361165436",
+    "list_example": [
+      "a pain in the chest.",
+      "Similarly, attempts to suppress pain expression can be understood as a function of the relationship between patient and caregiver.",
+      "In discussing pain and discomfort avoidance, he also emphasises the interplay of physical and psychological factors.",
+      "Patients were selected for this trial if they had suffered from nonspecific low back pain for at least 6 weeks.",
+      "Hypnosis does seem to be a useful option, as patients reported an average of 36% reduction in pain scores after their session.",
+      "The patients represent a convenience sample taken from a population of patients who had received either a spinal cord stimulator or an implantable pain pump.",
+      "As noted earlier, three subjects dropped out of the study because of pain and worsening of clinical symptoms."
     ],
-    "hash_code_list_definition_mean": "116886824"
+    "hash_code_list_example": "874413438"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/palace_cb_dmean_5000_it.json",
@@ -1828,17 +1407,18 @@
         "id_image": "palace_4209592"
       }
     ],
-    "hash_code_list_img": "-1847307178",
-    "list_definition_mean": [
-      {
-        "mean_english": "cung điện",
-        "definition": "a large and magnificent house, especially one lived in by a king or queen",
-        "ex_of_definition_list": [
-          "Buckingham Palace."
-        ]
-      }
+    "hash_code_list_img": "82020481",
+    "list_example": [
+      "Other non-epicentral interments and later on-floor deposits in palaces contain slightly heavier and larger spindle whorls that may have been used to spin a wider variety of vegetable fibers.",
+      "In this situation, at least one of the rhymes for palaces must be an off-rhyme.",
+      "At the same time, the prelates strove to create palaces that might vie with the finest residences.",
+      "Like many before and after him, he used the architectural structure and the interior decoration of his palaces to demonstrate and buttress the existing hierarchical order.",
+      "However, it is also possible that apprentices or attached specialists worked in and around the palaces of the king's family on valuable raw materials and in creating high-status goods.",
+      "Only 11 can properly be described as palaces.",
+      "We do not want palaces; we want reasonably good buildings, and the present ones could be improved.",
+      "The concerts take place in the palaces of the princely residence and other historic venues in the region."
     ],
-    "hash_code_list_definition_mean": "197080633"
+    "hash_code_list_example": "1554624152"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/palm_cb_dmean_5000_it.json",
@@ -1872,24 +1452,11 @@
         "id_image": "palm_882888"
       }
     ],
-    "hash_code_list_img": "-894973118",
-    "list_definition_mean": [
-      {
-        "mean_english": "lòng bàn tay",
-        "definition": "the inner surface of the hand between the wrist and the fingers",
-        "ex_of_definition_list": [
-          "She held the mouse in the palm of her hand."
-        ]
-      },
-      {
-        "mean_english": "cây cọ",
-        "definition": "(also palm tree) a kind of tall tree, with broad, spreading leaves, which grows in hot countries",
-        "ex_of_definition_list": [
-          "a coconut palm."
-        ]
-      }
+    "hash_code_list_img": "1911798986",
+    "list_example": [
+      "She held the mouse in the palm of her hand."
     ],
-    "hash_code_list_definition_mean": "79768892"
+    "hash_code_list_example": "772486995"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pamphlet_cb_dmean_5000_it.json",
@@ -1917,17 +1484,11 @@
         "id_image": "pamphlet_4493298"
       }
     ],
-    "hash_code_list_img": "-1709112455",
-    "list_definition_mean": [
-      {
-        "mean_english": "sách bướm",
-        "definition": "a small paper-covered book usually giving information, expressing an opinion on a popular subject etc",
-        "ex_of_definition_list": [
-          "a political pamphlet."
-        ]
-      }
+    "hash_code_list_img": "-1164816481",
+    "list_example": [
+      "Even a flimsy pamphlet remains a strong enough fuse to ignite doctors' defense of their autonomy."
     ],
-    "hash_code_list_definition_mean": "179672583"
+    "hash_code_list_example": "1865004012"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pancake_cb_dmean_5000_it.json",
@@ -1950,17 +1511,12 @@
         "id_image": "pancake_619504"
       }
     ],
-    "hash_code_list_img": "-1401139823",
-    "list_definition_mean": [
-      {
-        "mean_english": "bánh kếp",
-        "definition": "a thin cake usually made of milk, flour and eggs and fried in a pan etc",
-        "ex_of_definition_list": [
-          "a savoury pancake."
-        ]
-      }
+    "hash_code_list_img": "-759769481",
+    "list_example": [
+      "Another situation is possible if the bottle is held closer to the pancake and moved relatively faster.",
+      "As the panfry, stir-fry and stir are all achieved by the pancake turner."
     ],
-    "hash_code_list_definition_mean": "502805896"
+    "hash_code_list_example": "-1406795318"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pancreas_cb_dmean_5000_it.json",
@@ -1983,17 +1539,16 @@
         "id_image": "pancreas_2417999"
       }
     ],
-    "hash_code_list_img": "155671632",
-    "list_definition_mean": [
-      {
-        "mean_english": "tuyến tuỵ",
-        "definition": "a part of the body which helps in the digestion of food",
-        "ex_of_definition_list": [
-          "cancer of the pancreas."
-        ]
-      }
+    "hash_code_list_img": "-921528643",
+    "list_example": [
+      "One attractive aspect of metformin during pregnancy is that it does not stimulate the fetal pancreas to over secrete insulin.",
+      "Histological examination of the brain and glands, such as the thyroid, pancreas and adrenals was unremarkable.",
+      "There is a chronic shortage of human pancreas tissue suitable for either whole pancreas or islet transplantation.",
+      "It also plays a role in b-cell differentiation, pancreas development and glucose homeostasis.",
+      "Numerous digenean cysts were adjacent to, but not infiltrating, the liver and pancreas and within the mesentery surrounding the gastrointestinal tract (fig. 2).",
+      "The potential use of fetal porcine pancreas is attractive because of the ease of maintaining sterility and the growth potential of these islets in culture."
     ],
-    "hash_code_list_definition_mean": "1655880781"
+    "hash_code_list_example": "828336537"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/panel_cb_dmean_5000_it.json",
@@ -2017,24 +1572,11 @@
         "id_image": "panel_209203"
       }
     ],
-    "hash_code_list_img": "963675977",
-    "list_definition_mean": [
-      {
-        "mean_english": "ván ô (cửa, tường…)",
-        "definition": "a flat, straight-sided piece of wood, fabric etc such as is put into a door, wall, dress etc",
-        "ex_of_definition_list": [
-          "a door panel."
-        ]
-      },
-      {
-        "mean_english": "ban hội thẩm; nhóm người tham gia cuộc thi",
-        "definition": "a group of people chosen for a particular purpose eg to judge a contest, take part in a quiz or other game",
-        "ex_of_definition_list": [
-          "The studio audience will ask some questions and the panel will try to answer them."
-        ]
-      }
+    "hash_code_list_img": "1687810512",
+    "list_example": [
+      "The studio audience will ask some questions and the panel will try to answer them."
     ],
-    "hash_code_list_definition_mean": "-227039586"
+    "hash_code_list_example": "2110965088"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/panic_cb_dmean_5000_it.json",
@@ -2072,24 +1614,11 @@
         "id_image": "panic_5705051"
       }
     ],
-    "hash_code_list_img": "792932200",
-    "list_definition_mean": [
-      {
-        "mean_english": "hoảng loạn",
-        "definition": "(a) sudden great fear, especially that spreads through a crowd etc",
-        "ex_of_definition_list": [
-          "The fire caused a panic in the shopping mall."
-        ]
-      },
-      {
-        "mean_english": "hoảng loạn",
-        "definition": "to make or become so frightened that one loses the power to think clearly",
-        "ex_of_definition_list": [
-          "He panicked at the sight of the audience."
-        ]
-      }
+    "hash_code_list_img": "1715525111",
+    "list_example": [
+      "The fire caused a panic in the shopping mall."
     ],
-    "hash_code_list_definition_mean": "-1890568696"
+    "hash_code_list_example": "644076697"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/panorama_cb_dmean_5000_it.json",
@@ -2117,17 +1646,12 @@
         "id_image": "panorama_553538"
       }
     ],
-    "hash_code_list_img": "-1648646611",
-    "list_definition_mean": [
-      {
-        "mean_english": "toàn cảnh",
-        "definition": "a wide view, of a landscape etc",
-        "ex_of_definition_list": [
-          "There is a wonderful panorama from that hill."
-        ]
-      }
+    "hash_code_list_img": "2123937545",
+    "list_example": [
+      "There is a wonderful panorama from that hill.",
+      "Once imported, the panorama is mapped, or wallpapered onto the inside of a sphere and a camera is placed precisely at its centre."
     ],
-    "hash_code_list_definition_mean": "160041057"
+    "hash_code_list_example": "-1576582765"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/panoramic_cb_dmean_5000_it.json",
@@ -2155,17 +1679,18 @@
         "id_image": "panoramic_764506"
       }
     ],
-    "hash_code_list_img": "-1387343512",
-    "list_definition_mean": [
-      {
-        "mean_english": "có tính toàn cảnh",
-        "definition": "of or like a panorama",
-        "ex_of_definition_list": [
-          "a panoramic view."
-        ]
-      }
+    "hash_code_list_img": "-2081661243",
+    "list_example": [
+      "a panoramic view.",
+      "Topographical beauty was represented in impressive panoramic townscapes, and cultural institutions were illustrated in small wood-engraved vignettes in guide books and directories.",
+      "From left to right: the panoramic visual system, polarized-light sensors, ambient-light sensors.",
+      "Nominally, the measurement cycle involves taking a panoramic survey and measurement of environmental parameters.",
+      "Some of the writers take a panoramic view, others focus in on specific texts in close readings.",
+      "The robot vehicle is powered by solar energy and fitted with two cameras with panoramic vision.",
+      "A panoramic perspective of history cannot emerge through a tracing of a course of events, however significant.",
+      "The landmarks are extracted and organised in a panoramic description called fresco."
     ],
-    "hash_code_list_definition_mean": "1689316457"
+    "hash_code_list_example": "-2051615496"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pantomime_cb_dmean_5000_it.json",
@@ -2185,30 +1710,12 @@
         "id_image": "pantomime_837205"
       }
     ],
-    "hash_code_list_img": "840106715",
-    "list_definition_mean": [
-      {
-        "mean_english": "kịch thần thoại",
-        "definition": "a play performed at Christmas time, usually based on a popular fairy tale, with music, dancing, comedy etc",
-        "ex_of_definition_list": [
-          "The TV star is currently appearing in a pantomime in Ipswich."
-        ]
-      },
-      {
-        "mean_english": "kịch câm",
-        "definition": "(also mime) a performance by an actor done without using words",
-        "ex_of_definition_list": [
-          "He studied pantomime in acting school."
-        ]
-      },
-      {
-        "mean_english": "ra hiệu",
-        "definition": "to act out a scene without using words",
-        "ex_of_definition_list": [
-          "Since she couldn’t speak French, she had to pantomime her request for water."
-        ]
-      }
+    "hash_code_list_img": "1198167851",
+    "list_example": [
+      "The TV star is currently appearing in a pantomime in Ipswich.",
+      "He studied pantomime in acting school.",
+      "Since she couldn’t speak French, she had to pantomime her request for water."
     ],
-    "hash_code_list_definition_mean": "-109489392"
+    "hash_code_list_example": "426387317"
   }
 ]

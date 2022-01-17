@@ -27,25 +27,13 @@
         "id_image": "map_683836"
       }
     ],
-    "hash_code_list_img": "2103030962",
-    "list_definition_mean": [
-      {
-        "mean_english": "bản đồ",
-        "definition": "a drawing or plan, in outline, of (any part of) the surface of the earth, with various features shown (usually roads, rivers, seas, towns etc)",
-        "ex_of_definition_list": [
-          "a map of the world",
-          "a road map."
-        ]
-      },
-      {
-        "mean_english": "vẽ bản đồ",
-        "definition": "to make a map of (an area)",
-        "ex_of_definition_list": [
-          "Africa was mapped by many different explorers."
-        ]
-      }
+    "hash_code_list_img": "503371019",
+    "list_example": [
+      "a map of the world",
+      "The distance map is determined using just two videoscans and thus only two computations per point.",
+      "Since we are not assuming weak purity, the vertical map on the right of this diagram need not be injective."
     ],
-    "hash_code_list_definition_mean": "1662096234"
+    "hash_code_list_example": "612085615"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/marathon_cb_dmean_5000_it.json",
@@ -73,18 +61,11 @@
         "id_image": "marathon_5200936"
       }
     ],
-    "hash_code_list_img": "-1216821580",
-    "list_definition_mean": [
-      {
-        "mean_english": "chạy ma-ra-tông",
-        "definition": "a long-distance footrace, usually 42km 195m (26 miles 385 yd)",
-        "ex_of_definition_list": [
-          "He came third in the marathon",
-          "(also adjective) a marathon race/discussion."
-        ]
-      }
+    "hash_code_list_img": "-1689339854",
+    "list_example": [
+      "(also adjective) a marathon race/discussion."
     ],
-    "hash_code_list_definition_mean": "252744350"
+    "hash_code_list_example": "-1555416125"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/marble_cb_dmean_5000_it.json",
@@ -118,25 +99,12 @@
         "id_image": "marble_6365793"
       }
     ],
-    "hash_code_list_img": "475814137",
-    "list_definition_mean": [
-      {
-        "mean_english": "đá hoa",
-        "definition": "a kind of hard, usually highly polished stone, cold to the touch",
-        "ex_of_definition_list": [
-          "This table is made of marble",
-          "(also adjective) a marble statue."
-        ]
-      },
-      {
-        "mean_english": "viên bi ve",
-        "definition": "a small hard ball of glass used in children’s games",
-        "ex_of_definition_list": [
-          "The little boy rolled a marble along the ground."
-        ]
-      }
+    "hash_code_list_img": "-449191793",
+    "list_example": [
+      "(also adjective) a marble statue.",
+      "The little boy rolled a marble along the ground."
     ],
-    "hash_code_list_definition_mean": "-1776878682"
+    "hash_code_list_example": "895984210"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/margin_cb_dmean_5000_it.json",
@@ -166,31 +134,12 @@
         "id_image": "margin_893415"
       }
     ],
-    "hash_code_list_img": "1031647346",
-    "list_definition_mean": [
-      {
-        "mean_english": "lề",
-        "definition": "the blank edge round a page of writing or print",
-        "ex_of_definition_list": [
-          "Please write your comments in the margin."
-        ]
-      },
-      {
-        "mean_english": "mép; bờ",
-        "definition": "an edge or border",
-        "ex_of_definition_list": [
-          "the margin of the lake."
-        ]
-      },
-      {
-        "mean_english": "số dư",
-        "definition": "something extra, beyond what should be needed",
-        "ex_of_definition_list": [
-          "There is very little margin for error in Grand Prix racing."
-        ]
-      }
+    "hash_code_list_img": "-10330129",
+    "list_example": [
+      "the margin of the lake.",
+      "There is very little margin for error in Grand Prix racing."
     ],
-    "hash_code_list_definition_mean": "702140148"
+    "hash_code_list_example": "400648784"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/marine_cb_dmean_5000_it.json",
@@ -224,25 +173,12 @@
         "id_image": "marine_5969101"
       }
     ],
-    "hash_code_list_img": "524273914",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc biển",
-        "definition": "of the sea",
-        "ex_of_definition_list": [
-          "marine animals",
-          "marine law."
-        ]
-      },
-      {
-        "mean_english": "hải quân",
-        "definition": "a soldier serving on board a ship",
-        "ex_of_definition_list": [
-          "He has joined the marines."
-        ]
-      }
+    "hash_code_list_img": "-678305241",
+    "list_example": [
+      "marine animals",
+      "marine law."
     ],
-    "hash_code_list_definition_mean": "-525498885"
+    "hash_code_list_example": "-363398222"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/marker_cb_dmean_5000_it.json",
@@ -272,25 +208,21 @@
         "id_image": "marker_6396748"
       }
     ],
-    "hash_code_list_img": "1795998149",
-    "list_definition_mean": [
-      {
-        "mean_english": "vật dùng để đánh dấu",
-        "definition": "something used for marking, eg in scoring, showing the position of something etc",
-        "ex_of_definition_list": [
-          "The area is indicated by large green markers."
-        ]
-      },
-      {
-        "mean_english": "bút dạ",
-        "definition": "a type of pen, usually with a thick point",
-        "ex_of_definition_list": [
-          "a felt marker",
-          "a permanent marker."
-        ]
-      }
+    "hash_code_list_img": "105123737",
+    "list_example": [
+      "The area is indicated by large green markers.",
+      "a felt marker",
+      "a permanent marker.",
+      "No doubt such m e t h o d s will generate many more potential markers.",
+      "One drawback of it, however, is the dominant nature of the markers.",
+      "What factors lead to the loss and replacement of pragmatic markers in the course of time?",
+      "The chapter on molecular markers in selection of tomato germplasm has been cleverly written even though markers are used in many other chapters.",
+      "In large populations, selection acting on genetic markers may bias estimates of gene flow.",
+      "Molecular size markers are shown on the left of the gel.",
+      "Pragmatic pressure to communicate encouraged participants to employ an available solution in order to avoid the ambiguity that resulted from the absence of grammatical markers.",
+      "The first is well-defined and concrete, the mountains and rivers natural markers that stress territorial integrity and individuality."
     ],
-    "hash_code_list_definition_mean": "-1220452684"
+    "hash_code_list_example": "-943984214"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/market_cb_dmean_5000_it.json",
@@ -320,31 +252,11 @@
         "id_image": "market_831495"
       }
     ],
-    "hash_code_list_img": "-887528998",
-    "list_definition_mean": [
-      {
-        "mean_english": "chợ",
-        "definition": "a public place where people meet to buy and sell or the public event at which this happens",
-        "ex_of_definition_list": [
-          "He has a clothes stall in the market."
-        ]
-      },
-      {
-        "mean_english": "thị trường",
-        "definition": "(a place where there is) a demand for certain things",
-        "ex_of_definition_list": [
-          "There is a market for cotton goods in hot countries."
-        ]
-      },
-      {
-        "mean_english": "bán",
-        "definition": "to (attempt to) sell",
-        "ex_of_definition_list": [
-          "I produce the goods and my brother markets them all over the world."
-        ]
-      }
+    "hash_code_list_img": "790030049",
+    "list_example": [
+      "There is a market for cotton goods in hot countries."
     ],
-    "hash_code_list_definition_mean": "-1783131452"
+    "hash_code_list_example": "249803914"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/mark_cb_dmean_5000_it.json",
@@ -377,82 +289,21 @@
         "id_image": "mark_4469819"
       }
     ],
-    "hash_code_list_img": "1721588342",
-    "list_definition_mean": [
-      {
-        "mean_english": "điểm số",
-        "definition": "a point given as a reward for good work etc",
-        "ex_of_definition_list": [
-          "She got good marks in the exam."
-        ]
-      },
-      {
-        "mean_english": "vết bẩn",
-        "definition": "a stain",
-        "ex_of_definition_list": [
-          "That spilt coffee has left a mark on the carpet."
-        ]
-      },
-      {
-        "mean_english": "dấu vết",
-        "definition": "a sign used as a guide to position etc",
-        "ex_of_definition_list": [
-          "There’s a mark on the map showing where the church is."
-        ]
-      },
-      {
-        "mean_english": "dấu chữ thập (của những người không biết viết",
-        "definition": "a cross or other sign used instead of a signature",
-        "ex_of_definition_list": [
-          "He couldn’t sign his name, so he made his mark instead."
-        ]
-      },
-      {
-        "mean_english": "biểu hiện",
-        "definition": "an indication or sign of a particular thing",
-        "ex_of_definition_list": [
-          "a mark of respect."
-        ]
-      },
-      {
-        "mean_english": "đánh dấu",
-        "definition": "to put a mark or stain on, or to become marked or stained",
-        "ex_of_definition_list": [
-          "Every pupil’s coat must be marked with his or her name",
-          "That coffee has marked the tablecloth",
-          "This white material marks easily."
-        ]
-      },
-      {
-        "mean_english": "chấm điểm",
-        "definition": "to give marks to (a piece of work)",
-        "ex_of_definition_list": [
-          "I have forty exam-papers to mark tonight."
-        ]
-      },
-      {
-        "mean_english": "chứng tỏ",
-        "definition": "to show; to be a sign of",
-        "ex_of_definition_list": [
-          "X marks the spot where the treasure is buried."
-        ]
-      },
-      {
-        "mean_english": "ghi chép",
-        "definition": "to note",
-        "ex_of_definition_list": [
-          "Mark it down in your notebook."
-        ]
-      },
-      {
-        "mean_english": "chú ý",
-        "definition": "(in football/soccer etc) to keep close to (an opponent) so as to prevent his getting the ball",
-        "ex_of_definition_list": [
-          "Your job is to mark the centre-forward."
-        ]
-      }
+    "hash_code_list_img": "641308220",
+    "list_example": [
+      "That spilt coffee has left a mark on the carpet.",
+      "There’s a mark on the map showing where the church is.",
+      "He couldn’t sign his name, so he made his mark instead.",
+      "a mark of respect.",
+      "I have forty exam-papers to mark tonight.",
+      "Your job is to mark the centre-forward.",
+      "The current data do not allow us to adjudicate among these possibilities, but they nevertheless mark an advance in understanding lexical development.",
+      "More indirectly, these two stylistic dimensions mark different epistemic relations to the discourse, emphasizing and privileging different kinds of information.",
+      "This divergence is always possible, and there is typically nothing in promulgation to mark the cases where it obtains from ones where it does not.",
+      "A question mark (?) indicates that the pedigree is not fully resolved.",
+      "It is to be hoped that his lamented death did not occur too soon for him to leave his mark on the second volume."
     ],
-    "hash_code_list_definition_mean": "-1643319186"
+    "hash_code_list_example": "2004485348"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/marmalade_cb_dmean_5000_it.json",
@@ -480,17 +331,14 @@
         "id_image": "marmalade_447232"
       }
     ],
-    "hash_code_list_img": "-994688290",
-    "list_definition_mean": [
-      {
-        "mean_english": "mứt cam",
-        "definition": "a type of jam made from oranges, lemons, or grapefruit",
-        "ex_of_definition_list": [
-          "a jar of marmalade."
-        ]
-      }
+    "hash_code_list_img": "334799500",
+    "list_example": [
+      "So we will just have a porridge breakfast with no marmalade or jam.",
+      "We shall take all preserves, including marmalade and imported jams, off the ration altogether.",
+      "There used to be an advertisement years ago of orange marmalade as a substitute for butter.",
+      "I am not familiar with the exportation of jam, marmalade or biscuits."
     ],
-    "hash_code_list_definition_mean": "1613856263"
+    "hash_code_list_example": "191085521"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/marriage_cb_dmean_5000_it.json",
@@ -520,33 +368,18 @@
         "id_image": "marriage_538248"
       }
     ],
-    "hash_code_list_img": "-488015233",
-    "list_definition_mean": [
-      {
-        "mean_english": "đám cưới",
-        "definition": "the ceremony by which a man and woman become husband and wife",
-        "ex_of_definition_list": [
-          "Their marriage took place last week",
-          "(also adjective) the marriage ceremony."
-        ]
-      },
-      {
-        "mean_english": "kết hôn",
-        "definition": "the state of being married; married life",
-        "ex_of_definition_list": [
-          "Their marriage lasted for thirty happy years."
-        ]
-      },
-      {
-        "mean_english": "sự kết hợp chặt chẽ",
-        "definition": "a close joining together",
-        "ex_of_definition_list": [
-          "His work is regarded as a successful marriage of East and West",
-          "the marriage of his skill and her judgement."
-        ]
-      }
+    "hash_code_list_img": "968030454",
+    "list_example": [
+      "Their marriage took place last week",
+      "(also adjective) the marriage ceremony.",
+      "Their marriage lasted for thirty happy years.",
+      "His work is regarded as a successful marriage of East and West",
+      "the marriage of his skill and her judgement.",
+      "The \"successful\" governess, it seems, manages her pupils into \"successful\" betrothals - just like the marriage plot novel.",
+      "The share it acquired depended on the daughters' present circumstances, on whether they were unmarried, married, or returned from marriage as a widow or divorcée.",
+      "Due recognition must also be given to changes in nuptial fertility and to apparently changing perceptions of the roles of marriage and the family."
     ],
-    "hash_code_list_definition_mean": "341900841"
+    "hash_code_list_example": "392806308"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/marshmallow_cb_dmean_5000_it.json",
@@ -584,17 +417,14 @@
         "id_image": "marshmallow_790640"
       }
     ],
-    "hash_code_list_img": "-575931540",
-    "list_definition_mean": [
-      {
-        "mean_english": "kẹo marshmallow",
-        "definition": "a soft and spongy pink or white sweet/candy made from sugar, gelatine, and egg white",
-        "ex_of_definition_list": [
-          "a packet of marshmallows."
-        ]
-      }
+    "hash_code_list_img": "-301466411",
+    "list_example": [
+      "In between these two rice and marshmallow bars, a creamy marshmallow layer is added in between the two pieces to help the layers stick together.",
+      "The shape is small and square or marshmallow shaped.",
+      "The candy brand is named for the milky-tasting filling which is similar to marshmallow creme.",
+      "Over the years the company expanded its production to include a variety of sesame, marshmallow and jelly-based candies."
     ],
-    "hash_code_list_definition_mean": "1959734654"
+    "hash_code_list_example": "-271407491"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/marsh_cb_dmean_5000_it.json",
@@ -612,18 +442,20 @@
         "id_image": "marsh_307778"
       }
     ],
-    "hash_code_list_img": "295749415",
-    "list_definition_mean": [
-      {
-        "mean_english": "đầm lầy",
-        "definition": "(an area of) soft wet land",
-        "ex_of_definition_list": [
-          "a salt marsh",
-          "The heavy rainfall turned the land into a marsh."
-        ]
-      }
+    "hash_code_list_img": "892226444",
+    "list_example": [
+      "a salt marsh",
+      "The heavy rainfall turned the land into a marsh.",
+      "The marshes in my area could be at risk.",
+      "Pit heaps, marshes, water and flashes of water are all part of our inheritance from deep mining in the past.",
+      "I have brought back tapes, photographs and videos taken at great risk of life and limb by people deep inside the heart of the marshes.",
+      "The owner also has on marshes about one mile distant eleven cattle and one calf.",
+      "Under his direction, marshes were drained, a hospital founded, courts of judicature set up, and an assembly of landowners convened to regulate local taxes and other sources of revenue.",
+      "He has other plans to rip up the marshes, which are sites of special scientific interest.",
+      "What percentage of the marshes is at present arable land?",
+      "If a scheme could be devised to protect these marshes which was both technically and economically sound, we would certainly consider it for grant aid."
     ],
-    "hash_code_list_definition_mean": "2119663372"
+    "hash_code_list_example": "394680421"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/martial_cb_dmean_5000_it.json",
@@ -642,24 +474,12 @@
         "id_image": "martial_2822365"
       }
     ],
-    "hash_code_list_img": "1543420377",
-    "list_definition_mean": [
-      {
-        "mean_english": "hiếu chiến",
-        "definition": "warlike or fond of fighting",
-        "ex_of_definition_list": [
-          "a martial nation."
-        ]
-      },
-      {
-        "mean_english": "thuộc chiến tranh",
-        "definition": "belonging to or suitable for war",
-        "ex_of_definition_list": [
-          "martial music."
-        ]
-      }
+    "hash_code_list_img": "278947036",
+    "list_example": [
+      "a martial nation.",
+      "martial music."
     ],
-    "hash_code_list_definition_mean": "97963054"
+    "hash_code_list_example": "-198622170"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/mart_cb_dmean_5000_it.json",
@@ -682,17 +502,19 @@
         "id_image": "mart_6040953"
       }
     ],
-    "hash_code_list_img": "-1900244701",
-    "list_definition_mean": [
-      {
-        "mean_english": "chợ",
-        "definition": "(especially in the names of shops/stores) a place where goods are sold",
-        "ex_of_definition_list": [
-          "a furniture mart."
-        ]
-      }
+    "hash_code_list_img": "-1089430770",
+    "list_example": [
+      "a furniture mart.",
+      "Co-operation is needed between farmers and livestock marts on the one hand and renderers and abattoirs on the other.",
+      "A vast number of cattle come through the marts every day of the week, and those cattle are unknown to anybody.",
+      "Scrutiny of live auction marts is also inevitable.",
+      "For a short time there was much bewildering consternation in all the marts and exchanges in the world.",
+      "The train of events is affecting farmers, processors at the marts, factory workers and butchers.",
+      "Circulars could also be available at post offices and marts, directed to farmers with empty cottages, persuading them to enter into hirings.",
+      "Quite apart from destroying the value of property and the general amenities, these marts are a great nuisance to shoppers and residents.",
+      "There are the merchants and auction marts that deal with these commodities."
     ],
-    "hash_code_list_definition_mean": "1290911081"
+    "hash_code_list_example": "-1776983821"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/mascot_cb_dmean_5000_it.json",
@@ -725,17 +547,12 @@
         "id_image": "mascot_5978320"
       }
     ],
-    "hash_code_list_img": "711005377",
-    "list_definition_mean": [
-      {
-        "mean_english": "linh vật",
-        "definition": "a person, animal or thing supposed to bring good luck",
-        "ex_of_definition_list": [
-          "a lucky mascot."
-        ]
-      }
+    "hash_code_list_img": "1575637794",
+    "list_example": [
+      "The ever-present figure of a human bull-dog perpetually smoking a cigar has become a symbol of tenacity of purpose and a mascot of good luck to the freedom-loving world.",
+      "I understand that one is no longer allowed to have a mascot in a dangerous position at the front of a car."
     ],
-    "hash_code_list_definition_mean": "1782724894"
+    "hash_code_list_example": "-1840269639"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/mask_cb_dmean_5000_it.json",
@@ -764,26 +581,12 @@
         "id_image": "mask_588826"
       }
     ],
-    "hash_code_list_img": "1843616248",
-    "list_definition_mean": [
-      {
-        "mean_english": "mặt nạ",
-        "definition": "something, eg a covering resembling a face, used for hiding or protecting the whole or part of the face",
-        "ex_of_definition_list": [
-          "The thief wore a black mask",
-          "Her face was a mask",
-          "under the mask of friendship."
-        ]
-      },
-      {
-        "mean_english": "mang mặt nạ; che giấu",
-        "definition": "to hide or disguise",
-        "ex_of_definition_list": [
-          "He managed to mask his feelings."
-        ]
-      }
+    "hash_code_list_img": "-104365108",
+    "list_example": [
+      "under the mask of friendship.",
+      "He managed to mask his feelings."
     ],
-    "hash_code_list_definition_mean": "140410276"
+    "hash_code_list_example": "1461369423"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/masonry_cb_dmean_5000_it.json",
@@ -811,17 +614,16 @@
         "id_image": "masonry_4646949"
       }
     ],
-    "hash_code_list_img": "-1909386191",
-    "list_definition_mean": [
-      {
-        "mean_english": "nghề thợ nề",
-        "definition": "stone(work)",
-        "ex_of_definition_list": [
-          "He was killed by falling masonry."
-        ]
-      }
+    "hash_code_list_img": "-1808035753",
+    "list_example": [
+      "Nonetheless, some masonry structures and buildings with masonry footings do exist.",
+      "Eventually, it is reduced to \"shattered\" masonry (40), lying between the paws of the implacable sphinx.",
+      "On the building's center line, at the base of the stairs, was a 3 m wide vaulted masonry shrine.",
+      "The result was an increasingly tall masonry facade crosscutting depressions in the natural terrain.",
+      "Being above necessity, architecture was more than a mundane trade, like masonry or carpentry, and demanded professionals with taste and distinction.",
+      "At ground floor level, a precast hollow deck is suspended above the ground on short masonry walls built up from the concrete foundations."
     ],
-    "hash_code_list_definition_mean": "298060420"
+    "hash_code_list_example": "180440432"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/masquerade_cb_dmean_5000_it.json",
@@ -850,24 +652,11 @@
         "id_image": "masquerade_863129"
       }
     ],
-    "hash_code_list_img": "-924119487",
-    "list_definition_mean": [
-      {
-        "mean_english": "trò giả dối",
-        "definition": "(a) pretence or disguise",
-        "ex_of_definition_list": [
-          "Her show of friendship was (a) masquerade."
-        ]
-      },
-      {
-        "mean_english": "giả mạo",
-        "definition": "(with as) to pretend to be, usually intending to deceive",
-        "ex_of_definition_list": [
-          "The criminal was masquerading as a respectable businessman."
-        ]
-      }
+    "hash_code_list_img": "-2081720600",
+    "list_example": [
+      "One can miss it nowadays in the masquerade of forms that is going on."
     ],
-    "hash_code_list_definition_mean": "912562408"
+    "hash_code_list_example": "-316015912"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/massage_cb_dmean_5000_it.json",
@@ -901,24 +690,18 @@
         "id_image": "massage_5775840"
       }
     ],
-    "hash_code_list_img": "-2083448808",
-    "list_definition_mean": [
-      {
-        "mean_english": "xoa bóp",
-        "definition": "to treat (a person’s body or part of it) by rubbing etc to ease and remove pain or stiffness",
-        "ex_of_definition_list": [
-          "She massaged my sore back."
-        ]
-      },
-      {
-        "mean_english": "sự xoa bóp",
-        "definition": "(a) treatment by massaging",
-        "ex_of_definition_list": [
-          "His ankle was treated by massage."
-        ]
-      }
+    "hash_code_list_img": "-1353820770",
+    "list_example": [
+      "She massaged my sore back.",
+      "His ankle was treated by massage.",
+      "They do not have that effect, and the more that they appear to be massaged, the less they inspire confidence, because people have long since given up believing ministerial forecasts.",
+      "The figures are then massaged and sent down like darts to the county councils.",
+      "The two sets of figures are massaged into compatibility by the forecast that the income from council house sales will rise by £430 million next year.",
+      "At least the total of one million unemployed then was a real figure and not a massaged figure.",
+      "Is not the wide talk of profits for companies now largely fiction and a matter of opinion, with figures being massaged by standard accountancy techniques?",
+      "If the foreign policy baseline is not published here, on the official record, it can always be massaged to fit the budgetary restraints."
     ],
-    "hash_code_list_definition_mean": "-972374077"
+    "hash_code_list_example": "-1011626412"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/mass_cb_dmean_5000_it.json",
@@ -943,62 +726,16 @@
         "id_image": "mass_1534157"
       }
     ],
-    "hash_code_list_img": "783882118",
-    "list_definition_mean": [
-      {
-        "mean_english": "khối; đống",
-        "definition": "a large lump or quantity, gathered together",
-        "ex_of_definition_list": [
-          "A mass of people were waiting outside the concert hall",
-          "The new car park has been described as an ugly mass of concrete."
-        ]
-      },
-      {
-        "mean_english": "nhiều; đông",
-        "definition": "a large quantity",
-        "ex_of_definition_list": [
-          "I’ve masses of work / things to do."
-        ]
-      },
-      {
-        "mean_english": "đa số; phần lớn",
-        "definition": "the bulk, principal part or main body",
-        "ex_of_definition_list": [
-          "The mass of people are in favour of peace."
-        ]
-      },
-      {
-        "mean_english": "khối lượng",
-        "definition": "(a) measure of the quantity of matter in an object",
-        "ex_of_definition_list": [
-          "The mass of the rock is 500 kilos."
-        ]
-      },
-      {
-        "mean_english": "tập trung",
-        "definition": "to bring or come together in large numbers or quantities",
-        "ex_of_definition_list": [
-          "The troops massed for an attack."
-        ]
-      },
-      {
-        "mean_english": "đông; hàng loạt",
-        "definition": "of large quantities or numbers",
-        "ex_of_definition_list": [
-          "mass murder",
-          "a mass meeting."
-        ]
-      },
-      {
-        "mean_english": "lễ Mét",
-        "definition": "(a) celebration, especially in the Roman Catholic church, of Christ’s last meal (Last Supper) with his disciples",
-        "ex_of_definition_list": [
-          "The monks were attending midnight Mass.",
-          "What time do you go to Mass?"
-        ]
-      }
+    "hash_code_list_img": "1669140796",
+    "list_example": [
+      "A mass of people were waiting outside the concert hall",
+      "The new car park has been described as an ugly mass of concrete.",
+      "The mass of people are in favour of peace.",
+      "The mass of the rock is 500 kilos.",
+      "mass murder",
+      "a mass meeting."
     ],
-    "hash_code_list_definition_mean": "943900064"
+    "hash_code_list_example": "853564535"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/master_cb_dmean_5000_it.json",
@@ -1029,73 +766,17 @@
         "id_image": "master_2621768"
       }
     ],
-    "hash_code_list_img": "-195062111",
-    "list_definition_mean": [
-      {
-        "mean_english": "chủ nhân",
-        "definition": "a person or thing that commands or controls",
-        "ex_of_definition_list": [
-          "I’m master in this house!"
-        ]
-      },
-      {
-        "mean_english": "ông chủ",
-        "definition": "an owner (of a slave, dog etc)",
-        "ex_of_definition_list": [
-          "The dog ran to its master."
-        ]
-      },
-      {
-        "mean_english": "thầy giáo",
-        "definition": "a male teacher",
-        "ex_of_definition_list": [
-          "the Maths master."
-        ]
-      },
-      {
-        "mean_english": "thuyền trưởng",
-        "definition": "the commander of a merchant ship",
-        "ex_of_definition_list": [
-          "the ship’s master."
-        ]
-      },
-      {
-        "mean_english": "bậc thầy",
-        "definition": "a person very skilled in an art, science etc",
-        "ex_of_definition_list": [
-          "He’s a real master at painting."
-        ]
-      },
-      {
-        "mean_english": "cậu (xưng hô)",
-        "definition": "a polite title for a boy, in writing or in speaking",
-        "ex_of_definition_list": [
-          "Master John Wallace."
-        ]
-      },
-      {
-        "mean_english": "tổng thể",
-        "definition": "(of a person in a job) fully qualified, skilled and experienced",
-        "ex_of_definition_list": [
-          "a master builder/mariner/plumber."
-        ]
-      },
-      {
-        "mean_english": "đánh bại",
-        "definition": "to overcome (an opponent, handicap etc)",
-        "ex_of_definition_list": [
-          "She has mastered her fear of heights."
-        ]
-      },
-      {
-        "mean_english": "thông thạo",
-        "definition": "to become skilful in",
-        "ex_of_definition_list": [
-          "I don’t think I’ll ever master arithmetic."
-        ]
-      }
+    "hash_code_list_img": "913163162",
+    "list_example": [
+      "I’m master in this house!",
+      "He’s a real master at painting.",
+      "a master builder/mariner/plumber.",
+      "I don’t think I’ll ever master arithmetic.",
+      "The master reaches for his pocket, ready to reward the useful lad with a gift of money.",
+      "He had tentatively agreed to become master of the rolls, and felt that the failure of that appointment reflected badly upon him.",
+      "The exchange of power between master and servant exercises the architectural setting as symbolic and actual battleground of play."
     ],
-    "hash_code_list_definition_mean": "-730801764"
+    "hash_code_list_example": "-1666687405"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/mast_cb_dmean_5000_it.json",
@@ -1118,17 +799,19 @@
         "id_image": "mast_2855400"
       }
     ],
-    "hash_code_list_img": "1524701410",
-    "list_definition_mean": [
-      {
-        "mean_english": "cột buồm; cột ăng-ten",
-        "definition": "a long upright pole especially for carrying the sails of a ship, an aerial, flag etc",
-        "ex_of_definition_list": [
-          "The sailor climbed the mast."
-        ]
-      }
+    "hash_code_list_img": "860823243",
+    "list_example": [
+      "The sailor climbed the mast.",
+      "I share that frustration given the number of masts that have been sited in my constituency.",
+      "There is no clear evidence of any directly harmful health effects caused by mobile phone masts.",
+      "Such towers and masts are growing faster than leylandii, and are now being erected close to many private houses.",
+      "I think the answer is very definitely that we have to have regard to the amenities of the places where we erect these masts.",
+      "As a result of these decisions six masts were built during this period, four in 2000 and two in 2001.",
+      "We must be transparent about where the masts are placed.",
+      "The authority will be able to take any representations into account when considering whether to grant or refuse approval to the mast's siting and appearance.",
+      "Overall, it is desirable to keep the number of telecommunications masts to a minimum, whether operative or redundant."
     ],
-    "hash_code_list_definition_mean": "814945849"
+    "hash_code_list_example": "311874256"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/match_cb_dmean_5000_it.json",
@@ -1172,59 +855,13 @@
         "id_image": "match_5226382"
       }
     ],
-    "hash_code_list_img": "1125232722",
-    "list_definition_mean": [
-      {
-        "mean_english": "diêm",
-        "definition": "a short piece of wood or other material tipped with a substance that catches fire when rubbed against a rough or specially-prepared surface",
-        "ex_of_definition_list": [
-          "He struck a match."
-        ]
-      },
-      {
-        "mean_english": "cuộc thi đấu",
-        "definition": "a contest or game",
-        "ex_of_definition_list": [
-          "a football/rugby/chess match."
-        ]
-      },
-      {
-        "mean_english": "sự hợp nhau",
-        "definition": "a thing that is similar to or the same as another in some way(s) eg in colour/color or pattern",
-        "ex_of_definition_list": [
-          "These trousers are not an exact match for my jacket."
-        ]
-      },
-      {
-        "mean_english": "người ngang sức",
-        "definition": "a person who is able to equal another",
-        "ex_of_definition_list": [
-          "She has finally met her match at arguing."
-        ]
-      },
-      {
-        "mean_english": "cuộc hôn nhân",
-        "definition": "a marriage or an act of marrying",
-        "ex_of_definition_list": [
-          "She hoped to arrange a match for her daughter."
-        ]
-      },
-      {
-        "mean_english": "phù hợp với",
-        "definition": "to be equal or similar to something or someone in some way eg in colour/color or pattern",
-        "ex_of_definition_list": [
-          "That dress matches her red hair."
-        ]
-      },
-      {
-        "mean_english": "đối chọi",
-        "definition": "to set (two things, people etc) to compete",
-        "ex_of_definition_list": [
-          "He matched his skill against the champion’s."
-        ]
-      }
+    "hash_code_list_img": "-1122253255",
+    "list_example": [
+      "These trousers are not an exact match for my jacket.",
+      "She has finally met her match at arguing.",
+      "She hoped to arrange a match for her daughter."
     ],
-    "hash_code_list_definition_mean": "-683301956"
+    "hash_code_list_example": "815912010"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/material_cb_dmean_5000_it.json",
@@ -1261,45 +898,14 @@
         "id_image": "material_416213"
       }
     ],
-    "hash_code_list_img": "-2119173196",
-    "list_definition_mean": [
-      {
-        "mean_english": "nguyên vật liệu",
-        "definition": "anything out of which something is, or may be, made",
-        "ex_of_definition_list": [
-          "Tables are usually made from solid material such as wood."
-        ]
-      },
-      {
-        "mean_english": "vải",
-        "definition": "cloth",
-        "ex_of_definition_list": [
-          "I’d like three metres of blue woollen/woolen material."
-        ]
-      },
-      {
-        "mean_english": "vật chất",
-        "definition": "consisting of solid(s), liquid(s), gas(es) or any combination of these",
-        "ex_of_definition_list": [
-          "the material world."
-        ]
-      },
-      {
-        "mean_english": "hữu hình",
-        "definition": "belonging to the world; not spiritual",
-        "ex_of_definition_list": [
-          "He wanted material things like money, possessions, and power."
-        ]
-      },
-      {
-        "mean_english": "sự cần thiết",
-        "definition": "essential or important",
-        "ex_of_definition_list": [
-          "evidence that is material to his defence."
-        ]
-      }
+    "hash_code_list_img": "1246294500",
+    "list_example": [
+      "Tables are usually made from solid material such as wood.",
+      "the material world.",
+      "He wanted material things like money, possessions, and power.",
+      "evidence that is material to his defence."
     ],
-    "hash_code_list_definition_mean": "-1585902147"
+    "hash_code_list_example": "124846622"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/maternity_cb_dmean_5000_it.json",
@@ -1327,19 +933,20 @@
         "id_image": "maternity_6258709"
       }
     ],
-    "hash_code_list_img": "-539541575",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà hộ sinh",
-        "definition": "the state of being or becoming a mother",
-        "ex_of_definition_list": [
-          "a maternity hospital",
-          "a maternity ward",
-          "maternity clothes."
-        ]
-      }
+    "hash_code_list_img": "196648357",
+    "list_example": [
+      "a maternity hospital",
+      "a maternity ward",
+      "maternity clothes.",
+      "This is already the case for maternity treatment (when there are no complications) and may later allow the use of diagnosis-related groups.",
+      "The most common focus of activity was in relationship to maternity and public policies directed towards motherhood.",
+      "In the case of a third or subsequent birth, a substantial sum is forfeited, ostensibly to pay for maternity services.",
+      "It is the role of the specialist nurse to ensure effective communication with all maternity units and establish good links.",
+      "In 1945, the federal government was empowered to regulate maternity insurance as well as family allowances.",
+      "In developed countries, the rate of maternal mortality is now very low, limiting its usefulness as a quality indicator for maternity care.",
+      "A large proportion are referred from the maternity department, so it is likely that their youngest child is still in infancy."
     ],
-    "hash_code_list_definition_mean": "1491860458"
+    "hash_code_list_example": "-720333287"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/mate_cb_dmean_5000_it.json",
@@ -1379,45 +986,15 @@
         "id_image": "mate_6255810"
       }
     ],
-    "hash_code_list_img": "-924718557",
-    "list_definition_mean": [
-      {
-        "mean_english": "giao phối",
-        "definition": "to come, or bring (animals etc), together for breeding",
-        "ex_of_definition_list": [
-          "The bears have mated and produced a cub."
-        ]
-      },
-      {
-        "mean_english": "bạn tình",
-        "definition": "an animal etc with which another is paired for breeding",
-        "ex_of_definition_list": [
-          "Some birds sing in order to attract a mate."
-        ]
-      },
-      {
-        "mean_english": "bạn nghề",
-        "definition": "a companion or friend",
-        "ex_of_definition_list": [
-          "We’ve been mates for years."
-        ]
-      },
-      {
-        "mean_english": "người trợ lực",
-        "definition": "a fellow workman or assistant",
-        "ex_of_definition_list": [
-          "a carpenter’s mate."
-        ]
-      },
-      {
-        "mean_english": "phó thuyền trưởng",
-        "definition": "a merchant ship’s officer under the master or captain",
-        "ex_of_definition_list": [
-          "the first mate."
-        ]
-      }
+    "hash_code_list_img": "1282613846",
+    "list_example": [
+      "The bears have mated and produced a cub.",
+      "Some birds sing in order to attract a mate.",
+      "We’ve been mates for years.",
+      "a carpenter’s mate.",
+      "the first mate."
     ],
-    "hash_code_list_definition_mean": "572379892"
+    "hash_code_list_example": "-1134065269"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/mathematical_cb_dmean_5000_it.json",
@@ -1436,25 +1013,21 @@
         "id_image": "mathematical_329786"
       }
     ],
-    "hash_code_list_img": "674608112",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc toán học",
-        "definition": "of or done by mathematics",
-        "ex_of_definition_list": [
-          "a mathematical problem",
-          "a mathematical table."
-        ]
-      },
-      {
-        "mean_english": "chính xác",
-        "definition": "very exact or accurate",
-        "ex_of_definition_list": [
-          "the mathematical precision of Ancient Greek architecture."
-        ]
-      }
+    "hash_code_list_img": "415117860",
+    "list_example": [
+      "a mathematical problem",
+      "a mathematical table.",
+      "the mathematical precision of Ancient Greek architecture.",
+      "However, an examination of the verbal description of this part of the model and its mathematical implementation reveals a number of problems with this approach.",
+      "Several mathematical strategies can be employed to create new candidate vectors for the current generation, based on the old candidate vectors of the previous generation.",
+      "We assume this fixed scale of uniform steps in affinity for mathematical convenience.",
+      "The precise form of mathematical functions describing these effects is established, while approximate methods for efficient computing of these functions are also proposed.",
+      "The use of bounding volumes allows to simplify the mathematical representation and reduces the computational complexity.",
+      "It may be resolved, however, by accepting that mathematical knowledge comprises both images of knowledge and the body of knowledge.",
+      "A definite mathematical answer to this matter would require a higher-order approximation.",
+      "On the other hand the mathematical analysis of the related models appears to be rather restricted."
     ],
-    "hash_code_list_definition_mean": "60159273"
+    "hash_code_list_example": "-1511173206"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/mathematician_cb_dmean_5000_it.json",
@@ -1478,24 +1051,12 @@
         "id_image": "mathematician_827371"
       }
     ],
-    "hash_code_list_img": "1170746507",
-    "list_definition_mean": [
-      {
-        "mean_english": "giỏi toán",
-        "definition": "a person who is good at mathematics",
-        "ex_of_definition_list": [
-          "For a young boy, he’s quite a mathematician!"
-        ]
-      },
-      {
-        "mean_english": "nhà toán học",
-        "definition": "someone who works in mathematics",
-        "ex_of_definition_list": [
-          "He is a mathematician with a local engineering firm."
-        ]
-      }
+    "hash_code_list_img": "-1642197690",
+    "list_example": [
+      "He is a mathematician with a local engineering firm.",
+      "Intertextual reference presented rhetorical problems to the nineteenth-century mathematician that are absent in modern science."
     ],
-    "hash_code_list_definition_mean": "680841040"
+    "hash_code_list_example": "1079182702"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/mathematics_cb_dmean_5000_it.json",
@@ -1528,17 +1089,16 @@
         "id_image": "mathematics_6032181"
       }
     ],
-    "hash_code_list_img": "1845874382",
-    "list_definition_mean": [
-      {
-        "mean_english": "môn toán học",
-        "definition": "(abbreviation mathsmӕθs, British mathmӕθ American the science or branch of knowledge dealing with measurements, numbers and quantities",
-        "ex_of_definition_list": [
-          "applied mathematics."
-        ]
-      }
+    "hash_code_list_img": "-658593153",
+    "list_example": [
+      "But they had - at the same time - to be war y that mathematics was not \"so close\" to applications as to produce unwanted philosophical conflict.",
+      "And a group with no need for higher mathematics may package complex arithmetic in its numbering system.",
+      "The book was in two parts, the first part philosophical, the second dealing with mathematics and the natural sciences.",
+      "As such, they are the outcome both of a historical process of reciprocal interaction with the body of mathematics and of external influences.",
+      "Although the mathematics of the model is somewhat complex, the intuition behind it is straightforward.",
+      "In these lectures he sharply criticized accepted views of mathematics and physics."
     ],
-    "hash_code_list_definition_mean": "572706123"
+    "hash_code_list_example": "1110806677"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/mat_cb_dmean_5000_it.json",
@@ -1571,19 +1131,21 @@
         "id_image": "mat_5367887"
       }
     ],
-    "hash_code_list_img": "-996678166",
-    "list_definition_mean": [
-      {
-        "mean_english": "chiếu; thảm chùi chân",
-        "definition": "a flat piece of material (rushes, rubber, carpet, cork etc) for wiping shoes on, covering a floor, or various other purposes",
-        "ex_of_definition_list": [
-          "Wipe your shoes on the doormat",
-          "a yoga mat",
-          "a table mat."
-        ]
-      }
+    "hash_code_list_img": "43712114",
+    "list_example": [
+      "Wipe your shoes on the doormat",
+      "a yoga mat",
+      "a table mat.",
+      "There is often a wooden platform between the stilts where food is prepared and where hammocks are slung, although people sleep mostly upstairs on mats.",
+      "They probably represent remnants of microbial mats that developed on the seafloor during the quiescence periods of submarine hydrothermal activity.",
+      "In this bundle, ropes hold the reed matting covering the body, and a mask marks the face.",
+      "Oviposition is in the leaf sheaths or corm periphery at the base of the banana mat.",
+      "These algal mats are said to be rich in phosphates, nitrogen, organic matter, and cation-exchange capacity.",
+      "The ratio of production to consumption of organic matter in these mats therefore appears to have been preserved at nutrient concentrations greatly elevated from ambient.",
+      "Films of microbial mats might be present, paralleling bedding planes.",
+      "No negotiation was undertaken about whether she could keep the mat."
     ],
-    "hash_code_list_definition_mean": "735140105"
+    "hash_code_list_example": "514535516"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/mausoleum_cb_dmean_5000_it.json",
@@ -1611,17 +1173,11 @@
         "id_image": "mausoleum_6000988"
       }
     ],
-    "hash_code_list_img": "-1360231220",
-    "list_definition_mean": [
-      {
-        "mean_english": "lăng mộ",
-        "definition": "a very fine tomb, often with a monument",
-        "ex_of_definition_list": [
-          "They buried the duke in the mausoleum."
-        ]
-      }
+    "hash_code_list_img": "-2086946832",
+    "list_example": [
+      "Another post office in my constituency used to have a big mausoleum of an office above it."
     ],
-    "hash_code_list_definition_mean": "557424242"
+    "hash_code_list_example": "-666620884"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/maximize_cb_dmean_5000_it.json",
@@ -1650,24 +1206,12 @@
         "id_image": "maximize_5068482"
       }
     ],
-    "hash_code_list_img": "1167957421",
-    "list_definition_mean": [
-      {
-        "mean_english": "tăng tối đa",
-        "definition": "to increase something as much as it is possible",
-        "ex_of_definition_list": [
-          "We’re trying to maximize our profits."
-        ]
-      },
-      {
-        "mean_english": "sử dụng hết cỡ",
-        "definition": "to make the best possible use of something",
-        "ex_of_definition_list": [
-          "You have to maximize the opportunities that come your way."
-        ]
-      }
+    "hash_code_list_img": "1226292396",
+    "list_example": [
+      "We’re trying to maximize our profits.",
+      "You have to maximize the opportunities that come your way."
     ],
-    "hash_code_list_definition_mean": "-1657266486"
+    "hash_code_list_example": "-2000887987"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/maximum_cb_dmean_5000_it.json",
@@ -1686,24 +1230,12 @@
         "id_image": "maximum_4745557"
       }
     ],
-    "hash_code_list_img": "2001804987",
-    "list_definition_mean": [
-      {
-        "mean_english": "tối đa",
-        "definition": "greatest",
-        "ex_of_definition_list": [
-          "This requires maximum effort / the maximum amount of effort."
-        ]
-      },
-      {
-        "mean_english": "lượng cực đại",
-        "definition": "the greatest number or quantity or the highest point or degree",
-        "ex_of_definition_list": [
-          "Two hundred an hour is the maximum we can produce."
-        ]
-      }
+    "hash_code_list_img": "567163713",
+    "list_example": [
+      "This requires maximum effort / the maximum amount of effort.",
+      "Two hundred an hour is the maximum we can produce."
     ],
-    "hash_code_list_definition_mean": "-370925439"
+    "hash_code_list_example": "1726425886"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/maybe_cb_dmean_5000_it.json",
@@ -1726,17 +1258,14 @@
         "id_image": "maybe_5650824"
       }
     ],
-    "hash_code_list_img": "1189570235",
-    "list_definition_mean": [
-      {
-        "mean_english": "có thể",
-        "definition": "it is possible (that); perhaps",
-        "ex_of_definition_list": [
-          "Maybe he’ll come, and maybe he won’t."
-        ]
-      }
+    "hash_code_list_img": "732468351",
+    "list_example": [
+      "Maybe he’ll come, and maybe he won’t.",
+      "In the end, maybe ' presence' is what it's all about, for all of us who try to write about opera.",
+      "They started to act as self-conscious actors in the local arenas and, maybe even more important, they were recognised as such by locals and non-locals.",
+      "An example maybe of evolutionary over-engineering, it is reminiscent of the discredited thesis that phylogeny necessarily recapitulates ontogeny."
     ],
-    "hash_code_list_definition_mean": "840444951"
+    "hash_code_list_example": "-1794610242"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/maze_cb_dmean_5000_it.json",
@@ -1764,17 +1293,13 @@
         "id_image": "maze_951781"
       }
     ],
-    "hash_code_list_img": "-241195421",
-    "list_definition_mean": [
-      {
-        "mean_english": "mê cung",
-        "definition": "a deliberately confusing series of paths, often surrounded by walls or hedges, from which it’s difficult to find the way out",
-        "ex_of_definition_list": [
-          "I’m lost in a maze of rules and regulations."
-        ]
-      }
+    "hash_code_list_img": "-1270951368",
+    "list_example": [
+      "I’m lost in a maze of rules and regulations.",
+      "Let me try to find a path through this maze of varieties and super-varieties by attempting a taxonomy (see panel 1).",
+      "Structural characteristics of elements within a sentence as well as item frequency can influence maze production."
     ],
-    "hash_code_list_definition_mean": "2044888720"
+    "hash_code_list_example": "718724130"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/meadow_cb_dmean_5000_it.json",
@@ -1797,17 +1322,13 @@
         "id_image": "meadow_3722750"
       }
     ],
-    "hash_code_list_img": "-193047385",
-    "list_definition_mean": [
-      {
-        "mean_english": "đồng cỏ",
-        "definition": "a field of grass, usually on low ground",
-        "ex_of_definition_list": [
-          "There were cows in the meadow."
-        ]
-      }
+    "hash_code_list_img": "1748378198",
+    "list_example": [
+      "Once the drained meadow is created, it is a good that is not incrementally increased in either quality or quantity by further efforts.",
+      "It is relatively well supplied with good meadow land, and its name means 'the narrow cultivated land'.",
+      "Zones of medieval land-use (open fields, woods and meadow land) are often readily identifiable."
     ],
-    "hash_code_list_definition_mean": "623950613"
+    "hash_code_list_example": "-139424530"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/meal_cb_dmean_5000_it.json",
@@ -1841,27 +1362,12 @@
         "id_image": "meal_649067"
       }
     ],
-    "hash_code_list_img": "-832008181",
-    "list_definition_mean": [
-      {
-        "mean_english": "bữa ăn",
-        "definition": "the food taken at one time",
-        "ex_of_definition_list": [
-          "a three-course meal",
-          "a hearty meal",
-          "She eats three meals a day."
-        ]
-      },
-      {
-        "mean_english": "bột xay thô",
-        "definition": "the edible parts of grain ground to a coarse powder",
-        "ex_of_definition_list": [
-          "a sack of meal",
-          "oatmeal."
-        ]
-      }
+    "hash_code_list_img": "780527488",
+    "list_example": [
+      "This is true of basic items such as a warm waterproof overcoat and a meal with meat, chicken or fish every second day.",
+      "After we had enjoyed the meal the company delighted in drinking and singing."
     ],
-    "hash_code_list_definition_mean": "-671556003"
+    "hash_code_list_example": "-333055944"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/measurement_cb_dmean_5000_it.json",
@@ -1896,31 +1402,21 @@
         "id_image": "measurement_927856"
       }
     ],
-    "hash_code_list_img": "447608677",
-    "list_definition_mean": [
-      {
-        "mean_english": "kích thước",
-        "definition": "size, amount etc found by measuring",
-        "ex_of_definition_list": [
-          "What are the measurements of this room?"
-        ]
-      },
-      {
-        "mean_english": "số đo",
-        "definition": "the sizes of various parts of the body, usually the distance round the chest, waist and hips",
-        "ex_of_definition_list": [
-          "What are your measurements, madam?"
-        ]
-      },
-      {
-        "mean_english": "sự đo lường",
-        "definition": "the act of measuring",
-        "ex_of_definition_list": [
-          "We can find the size of something by means of measurement."
-        ]
-      }
+    "hash_code_list_img": "-1642504872",
+    "list_example": [
+      "What are the measurements of this room?",
+      "What are your measurements, madam?",
+      "We can find the size of something by means of measurement.",
+      "The main problem here is the absence of reliable measurements essential for the theory of plasma properties.",
+      "Such measurements can usually be assumed to be normally distributed and therefore a number of well-established methods can be used to analyse crop yield data.",
+      "In this dataset, measurements were taken at slightly different times.",
+      "The difficulty of reproducing measurements of the pulmonary valve is an important factor affecting interobserver variability.",
+      "The maximum diameter was found by rotating the humerus while taking measurements at midshaft.",
+      "The gradient could not be quantified, because measurements of flow could not be performed.",
+      "To per form these measurements a special spectrometer used to register the line emission in the range 3- 4!",
+      "Preliminary investigation showed that these measurements were inaccurate and rather subjective."
     ],
-    "hash_code_list_definition_mean": "-1380032819"
+    "hash_code_list_example": "1138698012"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/measure_cb_dmean_5000_it.json",
@@ -1966,74 +1462,15 @@
         "id_image": "measure_5181894"
       }
     ],
-    "hash_code_list_img": "1072614133",
-    "list_definition_mean": [
-      {
-        "mean_english": "dụng cụ đo lường",
-        "definition": "an instrument for finding the size, amount etc of something",
-        "ex_of_definition_list": [
-          "a glass measure for liquids",
-          "a tape measure."
-        ]
-      },
-      {
-        "mean_english": "một đơn vị",
-        "definition": "a unit",
-        "ex_of_definition_list": [
-          "The metre is a measure of length."
-        ]
-      },
-      {
-        "mean_english": "hệ thống đo lường",
-        "definition": "a system of measuring",
-        "ex_of_definition_list": [
-          "dry/liquid/square measure."
-        ]
-      },
-      {
-        "mean_english": "biện pháp",
-        "definition": "a plan of action or something done",
-        "ex_of_definition_list": [
-          "We must take (= use, or put into action) certain measures to stop the increase in crime."
-        ]
-      },
-      {
-        "mean_english": "hạn độ; chừng mực",
-        "definition": "a certain amount",
-        "ex_of_definition_list": [
-          "I have a measure of sympathy for her – after all, she’s very young and inexperienced."
-        ]
-      },
-      {
-        "mean_english": "đo lường",
-        "definition": "to find the size, amount etc of (something)",
-        "ex_of_definition_list": [
-          "He measured the table."
-        ]
-      },
-      {
-        "mean_english": "đo được",
-        "definition": "to show the size, amount etc of",
-        "ex_of_definition_list": [
-          "A thermometer measures temperature."
-        ]
-      },
-      {
-        "mean_english": "so với",
-        "definition": "(with against, besides etc) to judge in comparison with",
-        "ex_of_definition_list": [
-          "She measured her skill in cooking against her friend’s."
-        ]
-      },
-      {
-        "mean_english": "đo được",
-        "definition": "to be a certain size",
-        "ex_of_definition_list": [
-          "This table measures two metres by one metre."
-        ]
-      }
+    "hash_code_list_img": "1312737813",
+    "list_example": [
+      "a glass measure for liquids",
+      "The metre is a measure of length.",
+      "I have a measure of sympathy for her – after all, she’s very young and inexperienced.",
+      "We can then measure the average running time of these algorithms on random instances.",
+      "This condition thus permitted us to measure the influence of performing two mental operations on the storage abilities of the children."
     ],
-    "hash_code_list_definition_mean": "-421868770"
+    "hash_code_list_example": "-1988404452"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/meaty_cb_dmean_5000_it.json",
@@ -2052,24 +1489,19 @@
         "id_image": "meaty_1581646"
       }
     ],
-    "hash_code_list_img": "663139939",
-    "list_definition_mean": [
-      {
-        "mean_english": "có thịt",
-        "definition": "full of (animal) meat",
-        "ex_of_definition_list": [
-          "a meaty soup/stew."
-        ]
-      },
-      {
-        "mean_english": "có mùi thịt",
-        "definition": "(tasting, smelling etc) like meat",
-        "ex_of_definition_list": [
-          "This smells meaty."
-        ]
-      }
+    "hash_code_list_img": "1797753654",
+    "list_example": [
+      "a meaty soup/stew.",
+      "The film provides teenagers with meaty material for discussion of what they themselves have to give up in order to get what they may no longer think is worth getting.",
+      "Uncostumed humans, however, such as those surfboarding, light snorkeling, or swimming, present a much greater area of open meaty flesh to carnivorous shark predators.",
+      "Feeding is easy: they will generally eat any meaty foods offered.",
+      "Their live show is known for keeping packed crowds intensely involved for an entire show, with call-and-response choruses and meaty guitar riffs.",
+      "Seitan is generally used in place of meat; tempeh, tofu, and meaty mushrooms may also be used.",
+      "Body is to be medium length, with broad, meaty back and a deep, firm loin.",
+      "The term \"ribs\" usually refers to the less meaty part of the chops, often cooked as a slab (not cut into separate ribs).",
+      "Will he not ensure that there is a better meat content, or see that the housewife pays less for bread with a meaty flavour?"
     ],
-    "hash_code_list_definition_mean": "-1385217465"
+    "hash_code_list_example": "-760036112"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/meat_cb_dmean_5000_it.json",
@@ -2097,18 +1529,11 @@
         "id_image": "meat_2403379"
       }
     ],
-    "hash_code_list_img": "603771823",
-    "list_definition_mean": [
-      {
-        "mean_english": "thịt",
-        "definition": "the flesh of animals or birds used as food",
-        "ex_of_definition_list": [
-          "She does not eat meat",
-          "(also adjective) What did you have for the meat course?"
-        ]
-      }
+    "hash_code_list_img": "-1940310666",
+    "list_example": [
+      "(also adjective) What did you have for the meat course?"
     ],
-    "hash_code_list_definition_mean": "993587281"
+    "hash_code_list_example": "323145917"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/mechanical_cb_dmean_5000_it.json",
@@ -2128,31 +1553,12 @@
         "id_image": "mechanical_2286219"
       }
     ],
-    "hash_code_list_img": "1645088085",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc máy móc",
-        "definition": "having to do with machines",
-        "ex_of_definition_list": [
-          "mechanical engineering."
-        ]
-      },
-      {
-        "mean_english": "bằng máy móc",
-        "definition": "worked or done by machinery",
-        "ex_of_definition_list": [
-          "a mechanical sweeper."
-        ]
-      },
-      {
-        "mean_english": "không suy tính",
-        "definition": "done etc without thinking, from force of habit",
-        "ex_of_definition_list": [
-          "After you’ve been driving for a while, many of your actions will become mechanical."
-        ]
-      }
+    "hash_code_list_img": "715819489",
+    "list_example": [
+      "mechanical engineering.",
+      "a mechanical sweeper."
     ],
-    "hash_code_list_definition_mean": "439429308"
+    "hash_code_list_example": "-1391599940"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/mechanic_cb_dmean_5000_it.json",
@@ -2180,17 +1586,19 @@
         "id_image": "mechanic_6036781"
       }
     ],
-    "hash_code_list_img": "1039212417",
-    "list_definition_mean": [
-      {
-        "mean_english": "thợ máy",
-        "definition": "a skilled worker who repairs or maintains machinery",
-        "ex_of_definition_list": [
-          "a garage mechanic."
-        ]
-      }
+    "hash_code_list_img": "-769423177",
+    "list_example": [
+      "a garage mechanic.",
+      "To understand this, we may consider the analogy between quantum mechanics and a drum.",
+      "Statistical mechanics is the successor theory to thermodynamics, the science of work and heat.",
+      "Newtonian mechanics is seen as a paradigmatic causal theory; but as an action-at-a-distance theory, it can hardly be said to comply with the contiguity requirement.",
+      "Computing scientists are generating new insights into the foundations of quantum mechanics, which will be of value even if practical quantum computers are never built.",
+      "There is now also a wide literature on applications in solid and fluid mechanics.",
+      "A newly developed statistical mechanics model describing the evolution of the turbulent mixing zone from an initial random per turbation is presented.",
+      "To explicate this position, we map the likely operational mechanics of dot eu by employing a conceptual framework which extends academic analysis in two areas.",
+      "In view of its many specific features one can say that robot dynamic constituted a new field of applied mechanics."
     ],
-    "hash_code_list_definition_mean": "1557310950"
+    "hash_code_list_example": "242154782"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/mechanism_cb_dmean_5000_it.json",
@@ -2223,17 +1631,19 @@
         "id_image": "mechanism_5541887"
       }
     ],
-    "hash_code_list_img": "-28068376",
-    "list_definition_mean": [
-      {
-        "mean_english": "cơ cấu",
-        "definition": "a (usually small) piece of machinery",
-        "ex_of_definition_list": [
-          "a watch mechanism."
-        ]
-      }
+    "hash_code_list_img": "-827787648",
+    "list_example": [
+      "a watch mechanism.",
+      "However, a great deal of intervention has also been applied through extra-budgetary mechanisms.",
+      "An agoric system is a computer based software system that encapsulates market based mechanisms such as those from economic theory.",
+      "Available evidence does not indicate involvement of cytosolic oxidoreductases in mechanisms of aerobic metronidazole resistance.",
+      "The mechanisms underlying the relationships observed here cannot be determined from these data.",
+      "However, questions remain about the nature of the noise effects and the underlying causal mechanisms.",
+      "To this end, their chief concern was to safeguard access both to the mechanisms of traditional solidarity and to the means and factors of production.",
+      "To support this simple idea, programming languages should provide mechanisms to link and specialise components.",
+      "The known generation mechanisms for the field are mainly thermal, radiative and dynamo."
     ],
-    "hash_code_list_definition_mean": "1858051148"
+    "hash_code_list_example": "-410874374"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/medal_cb_dmean_5000_it.json",
@@ -2261,18 +1671,11 @@
         "id_image": "medal_702307"
       }
     ],
-    "hash_code_list_img": "141055977",
-    "list_definition_mean": [
-      {
-        "mean_english": "huân chương",
-        "definition": "a piece of metal with a design, inscription etc stamped on it, given as a reward for bravery, long service, excellence etc, or made to celebrate a special occasion",
-        "ex_of_definition_list": [
-          "a bronze/silver/gold medal",
-          "He won a medal in the War."
-        ]
-      }
+    "hash_code_list_img": "592906479",
+    "list_example": [
+      "He won a medal in the War."
     ],
-    "hash_code_list_definition_mean": "1297259998"
+    "hash_code_list_example": "1174626106"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/media_cb_dmean_5000_it.json",
@@ -2301,18 +1704,11 @@
         "id_image": "media_4660823"
       }
     ],
-    "hash_code_list_img": "1835129254",
-    "list_definition_mean": [
-      {
-        "mean_english": "phương tiện truyền thông đại chúng",
-        "definition": "all the organizations that supply news and information to the public, such as newspapers, radio, television, and the Internet",
-        "ex_of_definition_list": [
-          "the news media",
-          "There has been considerable media coverage in recent years of householders who have been prosecuted after taking action against intruders."
-        ]
-      }
+    "hash_code_list_img": "1806389205",
+    "list_example": [
+      "There has been considerable media coverage in recent years of householders who have been prosecuted after taking action against intruders."
     ],
-    "hash_code_list_definition_mean": "1478917056"
+    "hash_code_list_example": "-105313147"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/medical_cb_dmean_5000_it.json",
@@ -2346,25 +1742,20 @@
         "id_image": "medical_4246617"
       }
     ],
-    "hash_code_list_img": "2140324451",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc y học",
-        "definition": "of healing, medicine or doctors",
-        "ex_of_definition_list": [
-          "medical care",
-          "medical insurance."
-        ]
-      },
-      {
-        "mean_english": "sự khám sức khỏe",
-        "definition": "a medical examination",
-        "ex_of_definition_list": [
-          "You have to pass a medical before you can join the army."
-        ]
-      }
+    "hash_code_list_img": "-1359843612",
+    "list_example": [
+      "medical care",
+      "medical insurance.",
+      "You have to pass a medical before you can join the army.",
+      "There were a total of 100 transfers to academic medical centers.",
+      "When such inhibition is a reaction to the injury by a mental protective state, he recommends combining the medical treatment with psychological therapy.",
+      "There were no medical or technical complications during transport.",
+      "Costs were based on frequencies of inpatient and outpatient visits, diagnostic and laboratory testing, medication, and medical procedures associated with the specific health states.",
+      "These tables are commonly used to summarize medical literature, but they can also be applied to other sources of information.",
+      "By the end of the century, however, a few women had managed to break the ranks of male professionalism and attain medical degrees.",
+      "At the same time, this new technology replaced other medical devices and could thereby create savings, at least in theory."
     ],
-    "hash_code_list_definition_mean": "332627570"
+    "hash_code_list_example": "1706011063"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/medication_cb_dmean_5000_it.json",
@@ -2402,17 +1793,13 @@
         "id_image": "medication_552437"
       }
     ],
-    "hash_code_list_img": "-389222752",
-    "list_definition_mean": [
-      {
-        "mean_english": "cấp thuốc",
-        "definition": "medicine or drugs that are given to people who are ill/sick",
-        "ex_of_definition_list": [
-          "He has to take medication for a heart condition."
-        ]
-      }
+    "hash_code_list_img": "1301434281",
+    "list_example": [
+      "He has to take medication for a heart condition.",
+      "Affordable access to essential medication in developing countries: conflicts between ethical and economic imperatives.",
+      "Lower intake of medication might be expected to cause more severe psychotic symptoms."
     ],
-    "hash_code_list_definition_mean": "887606786"
+    "hash_code_list_example": "-1598900862"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/medicine_cb_dmean_5000_it.json",
@@ -2446,24 +1833,12 @@
         "id_image": "medicine_807123"
       }
     ],
-    "hash_code_list_img": "755618555",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuốc",
-        "definition": "a substance, especially a liquid for swallowing, that is used to treat or keep away disease or illness",
-        "ex_of_definition_list": [
-          "a dose of medicine."
-        ]
-      },
-      {
-        "mean_english": "khoa nội",
-        "definition": "the science of curing people who are ill, or making their suffering less (especially by means other than surgery)",
-        "ex_of_definition_list": [
-          "He is studying medicine."
-        ]
-      }
+    "hash_code_list_img": "-1499477154",
+    "list_example": [
+      "It further entails an analysis of how patient-centered medicine can work in different directions, some quite coercive.",
+      "Traditional medicine is developing into an economically unfeasible high-tech operation that governments are increasingly weary of supporting, especially where public health systems exist."
     ],
-    "hash_code_list_definition_mean": "-772971576"
+    "hash_code_list_example": "-1843802554"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/medieval_cb_dmean_5000_it.json",
@@ -2501,16 +1876,17 @@
         "id_image": "medieval_5234363"
       }
     ],
-    "hash_code_list_img": "-1129774576",
-    "list_definition_mean": [
-      {
-        "mean_english": "thời trung cổ",
-        "definition": "of, or belonging to, the Middle Ages",
-        "ex_of_definition_list": [
-          "medieval music."
-        ]
-      }
+    "hash_code_list_img": "1287527809",
+    "list_example": [
+      "medieval music.",
+      "By the end of the medieval period, even some commoner households had begun to assume this character.",
+      "But there is nothing new in principle here; it was part of medieval thinking about extraordinary happenings and became more systematic after the fifteenth century.",
+      "The questions raised by medieval music reception reach to musicological fields outside medieval studies, but especially ethnomusicology and popular music studies.",
+      "To this extent, the reader receives a good deal of elementary instruction in the topics and issues of medieval philosophical theology.",
+      "By this time change within the industrial, commercial, residential and political structure of the city was reshaping the city's medieval form.",
+      "A number of factors in varying degrees assisted in the process during the early medieval period.",
+      "A medieval verse tale characterized by comic and ribald treatment of themes drawn from life."
     ],
-    "hash_code_list_definition_mean": "74211824"
+    "hash_code_list_example": "1134625974"
   }
 ]

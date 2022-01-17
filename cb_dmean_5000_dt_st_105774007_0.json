@@ -21,24 +21,12 @@
         "id_image": "quadrant_582585"
       }
     ],
-    "hash_code_list_img": "-1263712509",
-    "list_definition_mean": [
-      {
-        "mean_english": "một phần tư",
-        "definition": "a quarter of a circle or a quarter of the circumference of a circle",
-        "ex_of_definition_list": [
-          "Find the area of a quadrant of the circle whose diameter is 22.4 cm."
-        ]
-      },
-      {
-        "mean_english": "thước đo độ",
-        "definition": "an instrument which was formerly used in astronomy and navigation for measuring the altitudes of stars",
-        "ex_of_definition_list": [
-          "John Cabot would have used a quadrant to find his way across the Atlantic Ocean to discover Canada."
-        ]
-      }
+    "hash_code_list_img": "273987517",
+    "list_example": [
+      "Find the area of a quadrant of the circle whose diameter is 22.4 cm.",
+      "John Cabot would have used a quadrant to find his way across the Atlantic Ocean to discover Canada."
     ],
-    "hash_code_list_definition_mean": "1936620473"
+    "hash_code_list_example": "-637169997"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/quake_cb_dmean_5000_it.json",
@@ -58,24 +46,11 @@
         "id_image": "quake_559963"
       }
     ],
-    "hash_code_list_img": "970256485",
-    "list_definition_mean": [
-      {
-        "mean_english": "run sợ",
-        "definition": "(of people) to shake or tremble, especially with fear",
-        "ex_of_definition_list": [
-          "Her voice was quaking with fear."
-        ]
-      },
-      {
-        "mean_english": "động đất",
-        "definition": "(of the ground) to shake",
-        "ex_of_definition_list": [
-          "The ground quaked under their feet."
-        ]
-      }
+    "hash_code_list_img": "1475909279",
+    "list_example": [
+      "By studying evidence of past quakes and closely monitoring ground motion and current earthquake activity, scientists attempt to understand their causes and recurrence intervals."
     ],
-    "hash_code_list_definition_mean": "2064854423"
+    "hash_code_list_example": "2063185078"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/qualification_cb_dmean_5000_it.json",
@@ -105,31 +80,13 @@
         "id_image": "qualification_2867425"
       }
     ],
-    "hash_code_list_img": "73339979",
-    "list_definition_mean": [
-      {
-        "mean_english": "năng lực; chuyên môn",
-        "definition": "(the act of gaining) a skill, achievement etc (eg an examination pass) that makes (a person) able or suitable to do a job etc",
-        "ex_of_definition_list": [
-          "What qualifications do you need for this job?"
-        ]
-      },
-      {
-        "mean_english": "bằng cấp",
-        "definition": "something that gives a person the right to do something",
-        "ex_of_definition_list": [
-          "She has the residential qualification to become a citizen."
-        ]
-      },
-      {
-        "mean_english": "sự hạn chế",
-        "definition": "a limitation to something one has said or written",
-        "ex_of_definition_list": [
-          "I think this is an excellent piece of work – with certain qualifications."
-        ]
-      }
+    "hash_code_list_img": "-2116127702",
+    "list_example": [
+      "She has the residential qualification to become a citizen.",
+      "Each school independently determined lunch program qualification status, which was based on family income and the number of occupants in the household.",
+      "Negative mobility effects with respect to people at lower qualification levels compared with the higher qualified reference group are plausible."
     ],
-    "hash_code_list_definition_mean": "-2072961675"
+    "hash_code_list_example": "-1002134204"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/qualify_cb_dmean_5000_it.json",
@@ -165,39 +122,17 @@
         "id_image": "qualify_5572386"
       }
     ],
-    "hash_code_list_img": "-1239975521",
-    "list_definition_mean": [
-      {
-        "mean_english": "đủ tiêu chuẩn",
-        "definition": "to cause to be or to become able or suitable for",
-        "ex_of_definition_list": [
-          "A degree in English does not necessarily qualify you to teach the subject",
-          "She is too young to qualify for a place in the team."
-        ]
-      },
-      {
-        "mean_english": "có đủ điều kiện",
-        "definition": "(with as) to show that one is suitable for a profession or job etc, especially by passing a test or examination",
-        "ex_of_definition_list": [
-          "I hope to qualify as a doctor."
-        ]
-      },
-      {
-        "mean_english": "có đủ tư cách",
-        "definition": "(with for) to allow, or be allowed, to take part in a competition etc, usually by reaching a satisfactory standard in an earlier test or competition",
-        "ex_of_definition_list": [
-          "She failed to qualify for the long jump."
-        ]
-      },
-      {
-        "mean_english": "bổ nghĩa",
-        "definition": "(of an adjective) to describe, or add to the meaning of",
-        "ex_of_definition_list": [
-          "In ‘red books’, the adjective ‘red’ qualifies the noun ‘books’."
-        ]
-      }
+    "hash_code_list_img": "1387555921",
+    "list_example": [
+      "A degree in English does not necessarily qualify you to teach the subject",
+      "She is too young to qualify for a place in the team.",
+      "I hope to qualify as a doctor.",
+      "She failed to qualify for the long jump.",
+      "These shared behaviours may qualify as conventions or traditions, without requiring the use of more loaded and complex terms such as culture.",
+      "This has been expected since the histidine kinase family does not qualify on the sequence level as member of this superfamily.",
+      "Maybe we will want to qualify what we say about in vitro fertilization as time goes on."
     ],
-    "hash_code_list_definition_mean": "923687172"
+    "hash_code_list_example": "-852668712"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/quality_cb_dmean_5000_it.json",
@@ -231,26 +166,18 @@
         "id_image": "quality_5983780"
       }
     ],
-    "hash_code_list_img": "1742659231",
-    "list_definition_mean": [
-      {
-        "mean_english": "chất lượng",
-        "definition": "the extent to which something has features which are good or bad etc, especially features which are good",
-        "ex_of_definition_list": [
-          "We produce several different qualities of paper",
-          "We’re looking for quality rather than quantity",
-          "(also adjective) quality goods."
-        ]
-      },
-      {
-        "mean_english": "phẩm chất",
-        "definition": "some (usually good) feature which makes a person or thing special or noticeable",
-        "ex_of_definition_list": [
-          "Kindness is a human quality which everyone admires."
-        ]
-      }
+    "hash_code_list_img": "1405053143",
+    "list_example": [
+      "We’re looking for quality rather than quantity",
+      "(also adjective) quality goods.",
+      "Kindness is a human quality which everyone admires.",
+      "Rigorous validation and quality control procedures have been imposed throughout the development course.",
+      "To gain market advantage, a manufacturer should outclass competitors in either quality or cost or quick response, or a combination of one or more.",
+      "In fact, what seems most important is the quality of life roles.",
+      "Only the 6-digit load reduced writing quality in addition to fluency.",
+      "Perhaps also surprisingly, the number of refereed papers on food quality and human health issues were similar for both conventional and organic research."
     ],
-    "hash_code_list_definition_mean": "-1814463268"
+    "hash_code_list_example": "583139234"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/quantity_cb_dmean_5000_it.json",
@@ -273,20 +200,14 @@
         "id_image": "quantity_2104137"
       }
     ],
-    "hash_code_list_img": "-501731941",
-    "list_definition_mean": [
-      {
-        "mean_english": "số lượng",
-        "definition": "the size, weight, number etc of something, especially a large size etc",
-        "ex_of_definition_list": [
-          "What quantity of paper do you need?",
-          "I buy these goods in quantity",
-          "a small quantity of cement",
-          "large quantities of tinned food."
-        ]
-      }
+    "hash_code_list_img": "-1430388942",
+    "list_example": [
+      "What quantity of paper do you need?",
+      "a small quantity of cement",
+      "Counting realizes a temporal, first-order representation of the ordinal structure of the quantity of such a given set.",
+      "Typically, this resulted in reduced quantity produced but had no effect on the rated quality of the texts."
     ],
-    "hash_code_list_definition_mean": "1190383894"
+    "hash_code_list_example": "1680814632"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/quantum_cb_dmean_5000_it.json",
@@ -314,17 +235,18 @@
         "id_image": "quantum_6214172"
       }
     ],
-    "hash_code_list_img": "-1901442451",
-    "list_definition_mean": [
-      {
-        "mean_english": "lượng tử",
-        "definition": "the smallest amount of a physical quantity, such as energy, that can exist independently, or this amount used as a unit of measurement",
-        "ex_of_definition_list": [
-          "The amount of energy given off is measured in quanta."
-        ]
-      }
+    "hash_code_list_img": "-224115350",
+    "list_example": [
+      "Therefore, even in the regime of quantum chaos, the computer can be used reliably for some time, although it is eventually destroyed.",
+      "It is uncertain, however, whether ' quantum evolution ', and punctuated equilibrium in the transition zone are important.",
+      "The most distinctive feature of quantum theory - the interference of probabilities - is thus expressed equally well in position space and momentum space.",
+      "The dispersion relation for a quantum pair plasma is derived, by using a wave kinetic description.",
+      "The development of quantum walks in the context of quantum computation, as generalisations of random walk techniques, has led rapidly to several new quantum algorithms.",
+      "In recent years, these two notions of complexity have begun to interact within the quantum information field.",
+      "In quantum mechanics a particle can behave like a particle or a wave.",
+      "Long-term study of solar radiation regimes in a tropical wet forest using quantum sensors and hemispherical photographs."
     ],
-    "hash_code_list_definition_mean": "817785380"
+    "hash_code_list_example": "-1804269644"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/quarantine_cb_dmean_5000_it.json",
@@ -364,31 +286,14 @@
         "id_image": "quarantine_4600898"
       }
     ],
-    "hash_code_list_img": "-1034874445",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự cách ly",
-        "definition": "the keeping away from other people or animals of people or animals that might be carrying an infectious disease",
-        "ex_of_definition_list": [
-          "My dog was in quarantine for six months."
-        ]
-      },
-      {
-        "mean_english": "thời hạn cách ly",
-        "definition": "the period in or for which this is done",
-        "ex_of_definition_list": [
-          "The quarantine for a dog entering Britain from abroad is six months."
-        ]
-      },
-      {
-        "mean_english": "cách ly",
-        "definition": "to put (a person or animal) in quarantine",
-        "ex_of_definition_list": [
-          "The government authorized health authorities to quarantine anyone infected by the disease."
-        ]
-      }
+    "hash_code_list_img": "-1000864603",
+    "list_example": [
+      "My dog was in quarantine for six months.",
+      "The quarantine for a dog entering Britain from abroad is six months.",
+      "The government authorized health authorities to quarantine anyone infected by the disease.",
+      "When the quarantine station opened in 1891 it was equipped only for the disinfection of commodities."
     ],
-    "hash_code_list_definition_mean": "-822599611"
+    "hash_code_list_example": "1548087976"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/quarrel_cb_dmean_5000_it.json",
@@ -412,25 +317,11 @@
         "id_image": "quarrel_4763127"
       }
     ],
-    "hash_code_list_img": "1610417388",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự cãi nhau",
-        "definition": "an angry disagreement or argument",
-        "ex_of_definition_list": [
-          "I’ve had a quarrel with my girlfriend."
-        ]
-      },
-      {
-        "mean_english": "cãi nhau",
-        "definition": "to have an angry argument (with someone)",
-        "ex_of_definition_list": [
-          "I’ve quarrelled with my girlfriend",
-          "My girlfriend and I have quarrelled."
-        ]
-      }
+    "hash_code_list_img": "-553445269",
+    "list_example": [
+      "I’ve had a quarrel with my girlfriend."
     ],
-    "hash_code_list_definition_mean": "-1729411004"
+    "hash_code_list_example": "1470662696"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/quarry_cb_dmean_5000_it.json",
@@ -451,31 +342,13 @@
         "id_image": "quarry_4158441"
       }
     ],
-    "hash_code_list_img": "1975576285",
-    "list_definition_mean": [
-      {
-        "mean_english": "mỏ đá",
-        "definition": "a place, usually a very large hole in the ground, from which stone is got for building etc",
-        "ex_of_definition_list": [
-          "a limestone quarry."
-        ]
-      },
-      {
-        "mean_english": "khai thác đá ở mỏ",
-        "definition": "to dig (stone) in a quarry",
-        "ex_of_definition_list": [
-          "The stone was quarried locally."
-        ]
-      },
-      {
-        "mean_english": "con mồi",
-        "definition": "a hunted animal or bird",
-        "ex_of_definition_list": [
-          "The hunting dogs chased after their quarry."
-        ]
-      }
+    "hash_code_list_img": "1356101498",
+    "list_example": [
+      "a limestone quarry.",
+      "The hunting dogs chased after their quarry.",
+      "However, there are differences between the quarrying industry and other industries that might seek abstraction licences."
     ],
-    "hash_code_list_definition_mean": "1202682357"
+    "hash_code_list_example": "-1116366871"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/quarter_cb_dmean_5000_it.json",
@@ -514,79 +387,19 @@
         "id_image": "quarter_3103224"
       }
     ],
-    "hash_code_list_img": "927973731",
-    "list_definition_mean": [
-      {
-        "mean_english": "một phần tư",
-        "definition": "one of four equal parts of something which together form the whole (amount) of the thing",
-        "ex_of_definition_list": [
-          "There are four of us, so we’ll cut the cake into quarters",
-          "It’s (a) quarter past / American after four",
-          "In the first quarter of the year his firm made a profit",
-          "The shop is about a quarter of a mile away",
-          "an hour and a quarter",
-          "two and a quarter hours."
-        ]
-      },
-      {
-        "mean_english": "khu phố; quận",
-        "definition": "a district or part of a town especially where a particular group of people live",
-        "ex_of_definition_list": [
-          "He lives in the Polish quarter of the town."
-        ]
-      },
-      {
-        "mean_english": "phương hướng",
-        "definition": "a direction",
-        "ex_of_definition_list": [
-          "People were coming at me from all quarters."
-        ]
-      },
-      {
-        "mean_english": "sự tha chết cho hàng binh",
-        "definition": "mercy shown to an enemy",
-        "ex_of_definition_list": [
-          "They showed us no quarter."
-        ]
-      },
-      {
-        "mean_english": "góc tư của con vật",
-        "definition": "the leg of a usually large animal, or a joint of meat which includes a leg",
-        "ex_of_definition_list": [
-          "a quarter of beef",
-          "a bull’s hindquarters."
-        ]
-      },
-      {
-        "mean_english": "một phần tư ván đấu",
-        "definition": "one of four equal periods of play in some games",
-        "ex_of_definition_list": [
-          "In the second quarter of the game, the Bears quarterback was intercepted."
-        ]
-      },
-      {
-        "mean_english": "chia thành bốn phần bằng nhau",
-        "definition": "to cut into four equal parts",
-        "ex_of_definition_list": [
-          "We’ll quarter the cake and then we’ll all have an equal share."
-        ]
-      },
-      {
-        "mean_english": "chia bốn",
-        "definition": "to divide by four",
-        "ex_of_definition_list": [
-          "If we each do the work at the same time, we could quarter the time it would take to finish the job."
-        ]
-      },
-      {
-        "mean_english": "cung cấp chỗ ở cho ai",
-        "definition": "to give (especially a soldier) somewhere to stay",
-        "ex_of_definition_list": [
-          "The soldiers were quartered all over the town."
-        ]
-      }
+    "hash_code_list_img": "-2139397458",
+    "list_example": [
+      "It’s (a) quarter past / American after four",
+      "In the first quarter of the year his firm made a profit",
+      "The shop is about a quarter of a mile away",
+      "two and a quarter hours.",
+      "He lives in the Polish quarter of the town.",
+      "a quarter of beef",
+      "In the second quarter of the game, the Bears quarterback was intercepted.",
+      "We’ll quarter the cake and then we’ll all have an equal share.",
+      "If we each do the work at the same time, we could quarter the time it would take to finish the job."
     ],
-    "hash_code_list_definition_mean": "176500305"
+    "hash_code_list_example": "-1910346041"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/quaver_cb_dmean_5000_it.json",
@@ -611,24 +424,15 @@
         "id_image": "quaver_366494"
       }
     ],
-    "hash_code_list_img": "-60141457",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự rung tiếng",
-        "definition": "(especially of a sound or a person’s voice) to shake or tremble",
-        "ex_of_definition_list": [
-          "The old man’s voice quavered."
-        ]
-      },
-      {
-        "mean_english": "giọng nói run rẩy",
-        "definition": "a shaking or trembling",
-        "ex_of_definition_list": [
-          "There was a quaver in her voice."
-        ]
-      }
+    "hash_code_list_img": "1627814827",
+    "list_example": [
+      "There was a quaver in her voice.",
+      "A third cycle is left unfinished when the dotted quaver motion breaks off in the second bar.",
+      "There are then trills for one bar and another quaver, quaver rest, quaver, quaver rest pattern with a straight crotchet accompaniment for 4 bars.",
+      "Motives 1-3, for example, each present a quaver rest, followed by one, two or three quaver attacks, followed by a note of longer duration.",
+      "The pair of semiquavers allotted to the trochee 'nebyl' appears appropriate, as does the quaver employed for the monosyllable 'tarn' (there), with its lengthened final consonant."
     ],
-    "hash_code_list_definition_mean": "2105823476"
+    "hash_code_list_example": "-1094159253"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/queen_cb_dmean_5000_it.json",
@@ -657,47 +461,12 @@
         "id_image": "queen_4133591"
       }
     ],
-    "hash_code_list_img": "584461894",
-    "list_definition_mean": [
-      {
-        "mean_english": "nữ hoàng",
-        "definition": "a woman who rules a country, who inherits her position by right of birth",
-        "ex_of_definition_list": [
-          "the Queen of England",
-          "Queen Elizabeth II."
-        ]
-      },
-      {
-        "mean_english": "hoàng hậu",
-        "definition": "the wife of a king",
-        "ex_of_definition_list": [
-          "The king and his queen were both present."
-        ]
-      },
-      {
-        "mean_english": "nữ chúa",
-        "definition": "a woman who is in some way important, excellent or special",
-        "ex_of_definition_list": [
-          "a beauty queen",
-          "a movie queen."
-        ]
-      },
-      {
-        "mean_english": "quân đầm",
-        "definition": "a playing card with a picture of a queen on it",
-        "ex_of_definition_list": [
-          "I have two aces and a queen."
-        ]
-      },
-      {
-        "mean_english": "quân hậu",
-        "definition": "an important chesspiece",
-        "ex_of_definition_list": [
-          "He moved his queen to the left."
-        ]
-      }
+    "hash_code_list_img": "-736672465",
+    "list_example": [
+      "The king and his queen were both present.",
+      "He moved his queen to the left."
     ],
-    "hash_code_list_definition_mean": "2047162941"
+    "hash_code_list_example": "2051264174"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/queer_cb_dmean_5000_it.json",
@@ -722,32 +491,14 @@
         "id_image": "queer_2620874"
       }
     ],
-    "hash_code_list_img": "-675344416",
-    "list_definition_mean": [
-      {
-        "mean_english": "đồng tính luyến ái",
-        "definition": "belonging or related to the cultural movement that perceives gender and sexuality as fluid",
-        "ex_of_definition_list": [
-          "queer studies."
-        ]
-      },
-      {
-        "mean_english": "kỳ quặc",
-        "definition": "odd, strange or unusual",
-        "ex_of_definition_list": [
-          "queer behaviour/behavior",
-          "queer noises in the middle of the night."
-        ]
-      },
-      {
-        "mean_english": "khó chịu; chóng mặt",
-        "definition": "sick; unwell",
-        "ex_of_definition_list": [
-          "I do feel a bit queer – perhaps I ate too many oysters."
-        ]
-      }
+    "hash_code_list_img": "-733686376",
+    "list_example": [
+      "queer studies.",
+      "queer behaviour/behavior",
+      "queer noises in the middle of the night.",
+      "I do feel a bit queer – perhaps I ate too many oysters."
     ],
-    "hash_code_list_definition_mean": "-490771520"
+    "hash_code_list_example": "-784026987"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/query_cb_dmean_5000_it.json",
@@ -778,38 +529,12 @@
         "id_image": "query_6109187"
       }
     ],
-    "hash_code_list_img": "-150458156",
-    "list_definition_mean": [
-      {
-        "mean_english": "câu hỏi",
-        "definition": "a question",
-        "ex_of_definition_list": [
-          "In answer to your query about hotel reservations, I am sorry to tell you that we have no vacancies."
-        ]
-      },
-      {
-        "mean_english": "dấu chấm hỏi",
-        "definition": "a question mark",
-        "ex_of_definition_list": [
-          "You have omitted the query."
-        ]
-      },
-      {
-        "mean_english": "chất vấn",
-        "definition": "to question (a statement etc)",
-        "ex_of_definition_list": [
-          "I think the waiter has added up the bill wrongly – you should query it."
-        ]
-      },
-      {
-        "mean_english": "hỏi",
-        "definition": "to ask",
-        "ex_of_definition_list": [
-          "‘What time does the train leave?’ she queried."
-        ]
-      }
+    "hash_code_list_img": "-2106239245",
+    "list_example": [
+      "In answer to your query about hotel reservations, I am sorry to tell you that we have no vacancies.",
+      "I think the waiter has added up the bill wrongly – you should query it."
     ],
-    "hash_code_list_definition_mean": "-290223618"
+    "hash_code_list_example": "866674729"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/questionnaire_cb_dmean_5000_it.json",
@@ -837,17 +562,13 @@
         "id_image": "questionnaire_2820228"
       }
     ],
-    "hash_code_list_img": "-2026290146",
-    "list_definition_mean": [
-      {
-        "mean_english": "bản câu hỏi điều tra",
-        "definition": "a written list of questions to be answered by a large number of people to provide information for a survey or report",
-        "ex_of_definition_list": [
-          "We were asked to complete a questionnaire."
-        ]
-      }
+    "hash_code_list_img": "2065332862",
+    "list_example": [
+      "This is a large professional group in primary care and was not adequately represented in the questionnaire survey.",
+      "This questionnaire had nine symptoms, each scored on a scale of 1-4.",
+      "The cases were sent a questionnaire enquiring about symptoms, usage of the pool, activities undertaken in the swimming pool and use of the inflatable."
     ],
-    "hash_code_list_definition_mean": "1476292428"
+    "hash_code_list_example": "1549508945"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/question_cb_dmean_5000_it.json",
@@ -881,59 +602,19 @@
         "id_image": "question_943641"
       }
     ],
-    "hash_code_list_img": "614812010",
-    "list_definition_mean": [
-      {
-        "mean_english": "câu hỏi",
-        "definition": "something which is said, written etc which asks for an answer from someone",
-        "ex_of_definition_list": [
-          "The question is, do we really need a computer?"
-        ]
-      },
-      {
-        "mean_english": "vấn đề",
-        "definition": "a problem or matter for discussion",
-        "ex_of_definition_list": [
-          "There is the question of how much to pay him."
-        ]
-      },
-      {
-        "mean_english": "câu hỏi kiểm tra",
-        "definition": "a single problem in a test or examination",
-        "ex_of_definition_list": [
-          "We had to answer four questions in three hours."
-        ]
-      },
-      {
-        "mean_english": "sự nghi ngờ",
-        "definition": "criticism; doubt; discussion",
-        "ex_of_definition_list": [
-          "He is, without question, the best man for the job."
-        ]
-      },
-      {
-        "mean_english": "khả năng",
-        "definition": "a suggestion or possibility",
-        "ex_of_definition_list": [
-          "There is no question of our dismissing him."
-        ]
-      },
-      {
-        "mean_english": "hỏi",
-        "definition": "to ask (a person) questions",
-        "ex_of_definition_list": [
-          "I’ll question him about what he was doing last night."
-        ]
-      },
-      {
-        "mean_english": "nghi ngờ",
-        "definition": "to regard as doubtful",
-        "ex_of_definition_list": [
-          "He questioned her right to use the money."
-        ]
-      }
+    "hash_code_list_img": "1548856300",
+    "list_example": [
+      "The question is, do we really need a computer?",
+      "There is the question of how much to pay him.",
+      "There is no question of our dismissing him.",
+      "I’ll question him about what he was doing last night.",
+      "But this raises precisely the question of what such appeals to nature are supposed to achieve.",
+      "The question here therefore remains an open one.",
+      "But the question regarding whether such a prayer can be impetratory still remains.",
+      "If we say that these values correspond to certain concepts, it must be understood that the concepts in question are purely differential.",
+      "Pathbreaking verbs in syntactic development and the question of prototypical transitivity."
     ],
-    "hash_code_list_definition_mean": "1169155354"
+    "hash_code_list_example": "-557590975"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/quest_cb_dmean_5000_it.json",
@@ -961,18 +642,18 @@
         "id_image": "quest_4176399"
       }
     ],
-    "hash_code_list_img": "-905258925",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự săn lùng",
-        "definition": "a search",
-        "ex_of_definition_list": [
-          "the quest for gold",
-          "the quest for truth."
-        ]
-      }
+    "hash_code_list_img": "-250619333",
+    "list_example": [
+      "the quest for gold",
+      "the quest for truth.",
+      "The problem went beyond the deficiencies of any particular ideology; it was inherent in the quest for ideological closure.",
+      "Because larvae that hatch from the same egg mass often quest in clusters, several of them may attach to the same individual host.",
+      "The genealogical quest in this otherwise well-researched and very interesting book induces a rather too teleological reading of the works studied.",
+      "This quest was motivated by a sociocultural inclination towards learning, which places instructive dialogue at the core of successful teaching and learning.",
+      "But they also remained thwarted in their quest for upward mobility.",
+      "This quest for newness of subject has led modern verse into strange paths."
     ],
-    "hash_code_list_definition_mean": "1479813547"
+    "hash_code_list_example": "1513584695"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/queue_cb_dmean_5000_it.json",
@@ -1011,25 +692,17 @@
         "id_image": "queue_659366"
       }
     ],
-    "hash_code_list_img": "1388730973",
-    "list_definition_mean": [
-      {
-        "mean_english": "hàng; lối",
-        "definition": "a line of people waiting for something or to do something",
-        "ex_of_definition_list": [
-          "a queue for the bus."
-        ]
-      },
-      {
-        "mean_english": "xếp hàng",
-        "definition": "to stand in a queue",
-        "ex_of_definition_list": [
-          "We had to queue to get into the cinema",
-          "We had to queue for the cinema."
-        ]
-      }
+    "hash_code_list_img": "-1550264215",
+    "list_example": [
+      "a queue for the bus.",
+      "We had to queue to get into the cinema",
+      "We had to queue for the cinema.",
+      "The study of such a model provides insights at the queue length (and thus the congestion of a junction) under a heavy load.",
+      "Such a queue can be easily implemented as a circular array of task pointers.",
+      "Since this is not a desirable behaviour, we will enhance our simple processor with a waiting queue for tasks.",
+      "Also, the presence of infection can very rapidly endanger the lives of those waiting faithfully in the queue for their treatment."
     ],
-    "hash_code_list_definition_mean": "924576766"
+    "hash_code_list_example": "-1840779148"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/quiche_cb_dmean_5000_it.json",
@@ -1062,17 +735,11 @@
         "id_image": "quiche_6159684"
       }
     ],
-    "hash_code_list_img": "-1453909364",
-    "list_definition_mean": [
-      {
-        "mean_english": "bánh Quiche",
-        "definition": "a pie without a top that has a base made of pastry and is filled with a mixture of cheese, eggs, vegetables etc",
-        "ex_of_definition_list": [
-          "a vegetarian quiche."
-        ]
-      }
+    "hash_code_list_img": "-1950837339",
+    "list_example": [
+      "Some recipes of quiche lorraine also include ham."
     ],
-    "hash_code_list_definition_mean": "973293935"
+    "hash_code_list_example": "-135176497"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/quick_cb_dmean_5000_it.json",
@@ -1102,41 +769,18 @@
         "id_image": "quick_5956407"
       }
     ],
-    "hash_code_list_img": "-1211050785",
-    "list_definition_mean": [
-      {
-        "mean_english": "mau chóng",
-        "definition": "done, said, finished etc in a short time",
-        "ex_of_definition_list": [
-          "a quick trip into town."
-        ]
-      },
-      {
-        "mean_english": "nhanh",
-        "definition": "moving, or able to move, with speed",
-        "ex_of_definition_list": [
-          "He’s a very quick walker",
-          "I made a grab at the dog, but it was too quick for me."
-        ]
-      },
-      {
-        "mean_english": "giỏi; nhanh nhẹn",
-        "definition": "doing something, able to do something, or done, without delay; prompt; lively",
-        "ex_of_definition_list": [
-          "He is always quick to help",
-          "a quick answer",
-          "He’s very quick at arithmetic."
-        ]
-      },
-      {
-        "mean_english": "nhanh",
-        "definition": "quickly",
-        "ex_of_definition_list": [
-          "quick-frozen peas."
-        ]
-      }
+    "hash_code_list_img": "-790938403",
+    "list_example": [
+      "a quick trip into town.",
+      "He’s a very quick walker",
+      "I made a grab at the dog, but it was too quick for me.",
+      "He is always quick to help",
+      "a quick answer",
+      "He’s very quick at arithmetic.",
+      "The participant gets a quick look at the pattern.",
+      "The intention of a quick perusal of such a table is to observe trends, not attempt to produce statistical evidence."
     ],
-    "hash_code_list_definition_mean": "891298531"
+    "hash_code_list_example": "-538682086"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/quiet_cb_dmean_5000_it.json",
@@ -1174,49 +818,23 @@
         "id_image": "quiet_6401142"
       }
     ],
-    "hash_code_list_img": "2079972438",
-    "list_definition_mean": [
-      {
-        "mean_english": "yên lặng",
-        "definition": "not making very much, or any, noise; without very much, or any, noise",
-        "ex_of_definition_list": [
-          "Tell the children to be quiet",
-          "It’s very quiet out in the country",
-          "a quiet person."
-        ]
-      },
-      {
-        "mean_english": "thanh thản",
-        "definition": "free from worry, excitement etc",
-        "ex_of_definition_list": [
-          "I live a very quiet life."
-        ]
-      },
-      {
-        "mean_english": "yên ả",
-        "definition": "without much movement or activity; not busy",
-        "ex_of_definition_list": [
-          "We’ll have a quiet afternoon watching television."
-        ]
-      },
-      {
-        "mean_english": "sự tĩnh lặng",
-        "definition": "a state, atmosphere, period of time etc which is quiet",
-        "ex_of_definition_list": [
-          "Nothing stirred In the quiet of the night",
-          "All I want is peace and quiet."
-        ]
-      },
-      {
-        "mean_english": "làm yên tĩnh",
-        "definition": "(especially American",
-        "ex_of_definition_list": [
-          "often with down) to quieten",
-          "He raised his hand to quiet the crowd."
-        ]
-      }
+    "hash_code_list_img": "1870200664",
+    "list_example": [
+      "It’s very quiet out in the country",
+      "a quiet person.",
+      "I live a very quiet life.",
+      "We’ll have a quiet afternoon watching television.",
+      "Nothing stirred In the quiet of the night",
+      "He raised his hand to quiet the crowd.",
+      "All testing was carried out in a quiet room in the children's school, except for the spelling test, which was conducted in their classrooms.",
+      "But this is not to say that 12k's focus - or that of microsound in general - is all academic, nor all preciously quiet and minimalist.",
+      "The neuropsychological test battery was administered in a single session in a quiet interview room on an individual basis.",
+      "There were occasional quiet areas where water birds could be clearly heard but an undertow of mechanical noise was always present.",
+      "The two boys were ultimately adopted and led quiet lives.",
+      "All subjects were seen individually in a quiet place at school.",
+      "The stimuli were played to the listeners through headphones as they sat alone in a quiet room."
     ],
-    "hash_code_list_definition_mean": "432001420"
+    "hash_code_list_example": "885515779"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/quilt_cb_dmean_5000_it.json",
@@ -1239,17 +857,19 @@
         "id_image": "quilt_3467770"
       }
     ],
-    "hash_code_list_img": "1912565030",
-    "list_definition_mean": [
-      {
-        "mean_english": "mền bông; chăn",
-        "definition": "a bedcover filled with down, feathers etc",
-        "ex_of_definition_list": [
-          "a patchwork quilt."
-        ]
-      }
+    "hash_code_list_img": "-1216590186",
+    "list_example": [
+      "a patchwork quilt.",
+      "Seminole strip piecing has uses in quilts, wall hangings, and traditional clothing.",
+      "Another project involved a woman producing quilts which we use for refugee projects.",
+      "Often charities will provide comfort objects such as blankets and quilts to survivors of disasters.",
+      "In the context of quilting, tessellation refers to regular and semiregular of tessellation of either patch shapes or the overall design.",
+      "Accordingly, width of the second-order quilts varies between different specimens.",
+      "At these large gatherings the boy sits on a chair draped with \"tvaevae\" (quilts).",
+      "Painted buffalo skins and local sewn quilts are offered.",
+      "The girls used to spend some time creating useful items to send to the forces fighting in the great war, such as quilts."
     ],
-    "hash_code_list_definition_mean": "1819912160"
+    "hash_code_list_example": "1030301994"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/quit_cb_dmean_5000_it.json",
@@ -1267,18 +887,16 @@
         "id_image": "quit_1686708"
       }
     ],
-    "hash_code_list_img": "916424165",
-    "list_definition_mean": [
-      {
-        "mean_english": "bỏ; ngừng",
-        "definition": "to leave, stop, or resign from etc",
-        "ex_of_definition_list": [
-          "I’m going to quit teaching",
-          "They have been ordered to quit the house by next week."
-        ]
-      }
+    "hash_code_list_img": "2121503239",
+    "list_example": [
+      "I’m going to quit teaching",
+      "They have been ordered to quit the house by next week.",
+      "As a result, the incentive to use advance notice would be countercyclical since the probability that workers quit falls during recession.",
+      "He quit in 1954 to take part in the creation of one of the first private laboratories dedicated to assisting metallurgical and mechanical domestic industries.",
+      "Accepting to quit the current game closes this game and cancels the remaining commitments of the game.",
+      "Individuals less than 40 years of age who have a family member diagnosed with heart disease are likely to have quit smoking."
     ],
-    "hash_code_list_definition_mean": "393834342"
+    "hash_code_list_example": "-2053755791"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/quiver_cb_dmean_5000_it.json",
@@ -1313,24 +931,12 @@
         "id_image": "quiver_3904197"
       }
     ],
-    "hash_code_list_img": "256276881",
-    "list_definition_mean": [
-      {
-        "mean_english": "rung",
-        "definition": "to tremble or shake",
-        "ex_of_definition_list": [
-          "The leaves quivered in the breeze."
-        ]
-      },
-      {
-        "mean_english": "sự rung; tiếng rung",
-        "definition": "a quivering sound, movement etc",
-        "ex_of_definition_list": [
-          "the gentle quiver of acoustic guitar."
-        ]
-      }
+    "hash_code_list_img": "-2104592975",
+    "list_example": [
+      "the gentle quiver of acoustic guitar.",
+      "Next, we fit the simulation data by scaling the quiver velocity and the collision frequency itself."
     ],
-    "hash_code_list_definition_mean": "1864557328"
+    "hash_code_list_example": "-1643939392"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/quiz_cb_dmean_5000_it.json",
@@ -1364,18 +970,19 @@
         "id_image": "quiz_5732146"
       }
     ],
-    "hash_code_list_img": "1825860586",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuộc thi đố",
-        "definition": "a game or competition in which knowledge is tested by asking questions",
-        "ex_of_definition_list": [
-          "a television quiz",
-          "a general-knowledge quiz."
-        ]
-      }
+    "hash_code_list_img": "1864826499",
+    "list_example": [
+      "a television quiz",
+      "a general-knowledge quiz.",
+      "In addition, the series has a website featuring games, promotional videos, quizzes, a message board, and news.",
+      "They want to share in the good and bad of television, the serious and the trivial, the sport, the quizzes, the news and the soaps.",
+      "Users spin the bottle to find other users (although they can also search); the site also has quizzes.",
+      "Pub quizzes may attract customers to a pub who are not found there on other days.",
+      "Additional activities include (outdoor) sports events, quizzes and other non-gaming competitions.",
+      "Similarly, in relation to crime-prevention quizzes between local schools, local firms donated small cups or prizes.",
+      "Because of the convenience of online deliver y, these quizzes were well suited to the needs of today's liberal arts students who often participate in many extracur r icular activities."
     ],
-    "hash_code_list_definition_mean": "122751043"
+    "hash_code_list_example": "-980842348"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/quotation_cb_dmean_5000_it.json",
@@ -1405,24 +1012,12 @@
         "id_image": "quotation_4861375"
       }
     ],
-    "hash_code_list_img": "1593119994",
-    "list_definition_mean": [
-      {
-        "mean_english": "đoạn trích dẫn",
-        "definition": "a person’s exact words, as repeated by someone else",
-        "ex_of_definition_list": [
-          "a quotation from Shakespeare."
-        ]
-      },
-      {
-        "mean_english": "bản báo giá",
-        "definition": "a price mentioned (for a job etc)",
-        "ex_of_definition_list": [
-          "His quotation for the work seemed reasonable to me."
-        ]
-      }
+    "hash_code_list_img": "-614796204",
+    "list_example": [
+      "a quotation from Shakespeare.",
+      "His quotation for the work seemed reasonable to me."
     ],
-    "hash_code_list_definition_mean": "-1875839064"
+    "hash_code_list_example": "2008893365"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/quote_cb_dmean_5000_it.json",
@@ -1452,31 +1047,12 @@
         "id_image": "quote_1624547"
       }
     ],
-    "hash_code_list_img": "86567984",
-    "list_definition_mean": [
-      {
-        "mean_english": "trích dẫn",
-        "definition": "to repeat the exact words of a person as they were said or written",
-        "ex_of_definition_list": [
-          "to quote Shakespeare / Shakespeare’s words / from Shakespeare, ‘Is this a dagger which I see before me?’"
-        ]
-      },
-      {
-        "mean_english": "định giá",
-        "definition": "to name (a price)",
-        "ex_of_definition_list": [
-          "The plumber quoted us a ridiculous price to fix the boiler."
-        ]
-      },
-      {
-        "mean_english": "nêu ra để hỗ trợ cho một câu hỏi",
-        "definition": "to mention or state in support of an argument",
-        "ex_of_definition_list": [
-          "to quote an example."
-        ]
-      }
+    "hash_code_list_img": "1460099694",
+    "list_example": [
+      "to quote Shakespeare / Shakespeare’s words / from Shakespeare, ‘Is this a dagger which I see before me?’",
+      "to quote an example."
     ],
-    "hash_code_list_definition_mean": "-1458811887"
+    "hash_code_list_example": "25262858"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/rabbit_cb_dmean_5000_it.json",
@@ -1504,17 +1080,15 @@
         "id_image": "rabbit_543170"
       }
     ],
-    "hash_code_list_img": "1570279127",
-    "list_definition_mean": [
-      {
-        "mean_english": "con thỏ",
-        "definition": "a type of small long-eared burrowing animal, found living wild in fields or sometimes kept as a pet",
-        "ex_of_definition_list": [
-          "a pet rabbit."
-        ]
-      }
+    "hash_code_list_img": "-1244853507",
+    "list_example": [
+      "In the laboratory, they were held individually in standard laboratory rabbit cages to which they adapted very quickly.",
+      "Tell me about that, about once when you went rabbit hunting with your dad.",
+      "A-type horizontal cells of the superior edge of the linear visual streak of the rabbit retina have oriented, elongated dendritic trees.",
+      "Even feathers and the hair of rabbit and humans may have been spun, along with other materials.",
+      "Quinoxalines block the mechanism of directional selectivity in ganglion cells of the rabbit retina."
     ],
-    "hash_code_list_definition_mean": "1608433298"
+    "hash_code_list_example": "950775972"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/rabbi_cb_dmean_5000_it.json",
@@ -1537,17 +1111,11 @@
         "id_image": "rabbi_5443098"
       }
     ],
-    "hash_code_list_img": "840686240",
-    "list_definition_mean": [
-      {
-        "mean_english": "giáo sĩ Do Thái",
-        "definition": "a Jewish priest or teacher of the law",
-        "ex_of_definition_list": [
-          "the chief rabbi."
-        ]
-      }
+    "hash_code_list_img": "1960818675",
+    "list_example": [
+      "the chief rabbi."
     ],
-    "hash_code_list_definition_mean": "1243827774"
+    "hash_code_list_example": "-1805352067"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/race_cb_dmean_5000_it.json",
@@ -1581,54 +1149,17 @@
         "id_image": "race_4539828"
       }
     ],
-    "hash_code_list_img": "-1280899642",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuộc đua",
-        "definition": "a competition to find who or which is the fastest",
-        "ex_of_definition_list": [
-          "a horse race."
-        ]
-      },
-      {
-        "mean_english": "tham gia cuộc đua, cuộc thi",
-        "definition": "to (cause to) run in a race",
-        "ex_of_definition_list": [
-          "I’m racing my horse on Saturday",
-          "The horse is racing against five others."
-        ]
-      },
-      {
-        "mean_english": "đua với ai",
-        "definition": "to have a competition with (someone) to find out who is the fastest",
-        "ex_of_definition_list": [
-          "I’ll race you to that tree."
-        ]
-      },
-      {
-        "mean_english": "vội vã",
-        "definition": "to go etc quickly",
-        "ex_of_definition_list": [
-          "He raced along the road on his bike."
-        ]
-      },
-      {
-        "mean_english": "chủng người",
-        "definition": "any one section of mankind, having a particular set of characteristics which make it different from other sections",
-        "ex_of_definition_list": [
-          "people of different races",
-          "(also adjective) race relations."
-        ]
-      },
-      {
-        "mean_english": "sắc tộc",
-        "definition": "the fact of belonging to any of these various sections",
-        "ex_of_definition_list": [
-          "It is illegal to discriminate against anyone because of race."
-        ]
-      }
+    "hash_code_list_img": "1618812812",
+    "list_example": [
+      "I’ll race you to that tree.",
+      "(also adjective) race relations.",
+      "It should also look into the issue whether regulatory competition is really a race and if so what do we mean by that.",
+      "The choice among all the actions that are simultaneously enabled at the same state is governed by the race policy.",
+      "But, unlike them, she recognizes race even as she seeks to transcend it.",
+      "In addition to these factors, we also examine race and insurance status.",
+      "Over time, party differences on race grew increasingly stark, and new voters began to sort themselves into the two parties according to their racial ideology."
     ],
-    "hash_code_list_definition_mean": "-539812991"
+    "hash_code_list_example": "681015958"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/racket_cb_dmean_5000_it.json",
@@ -1658,33 +1189,11 @@
         "id_image": "racket_4611021"
       }
     ],
-    "hash_code_list_img": "2000166246",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái vợt trong quần vợt và cầu lông",
-        "definition": "a wooden or metal frame strung with catgut or nylon, used in tennis and certain other games",
-        "ex_of_definition_list": [
-          "a tennis racket",
-          "a squash racket",
-          "a badminton racket."
-        ]
-      },
-      {
-        "mean_english": "sự huyên náo",
-        "definition": "a great deal of noise",
-        "ex_of_definition_list": [
-          "What a racket the children are making!"
-        ]
-      },
-      {
-        "mean_english": "thủ đoạn",
-        "definition": "a dishonest way of making money",
-        "ex_of_definition_list": [
-          "the drug racket."
-        ]
-      }
+    "hash_code_list_img": "-962503488",
+    "list_example": [
+      "What a racket the children are making!"
     ],
-    "hash_code_list_definition_mean": "1180336745"
+    "hash_code_list_example": "-1931277450"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/rack_cb_dmean_5000_it.json",
@@ -1714,32 +1223,11 @@
         "id_image": "rack_638207"
       }
     ],
-    "hash_code_list_img": "-294581368",
-    "list_definition_mean": [
-      {
-        "mean_english": "giá; gác",
-        "definition": "a frame or shelf in or on which objects (eg letters, plates, luggage etc) are put until they are wanted or needed",
-        "ex_of_definition_list": [
-          "Put these tools back in the rack",
-          "Put your bag in the luggage rack."
-        ]
-      },
-      {
-        "mean_english": "suy nghĩ mông lung",
-        "definition": "to think desperately hard",
-        "ex_of_definition_list": [
-          "I’ve been racking my brains to try and remember that actor’s name."
-        ]
-      },
-      {
-        "mean_english": "tiêu tan sự nghiệp",
-        "definition": "to get into a state of neglect and decay",
-        "ex_of_definition_list": [
-          "The whole neighbourhood has gone to rack and ruin."
-        ]
-      }
+    "hash_code_list_img": "-1579213149",
+    "list_example": [
+      "The whole neighbourhood has gone to rack and ruin."
     ],
-    "hash_code_list_definition_mean": "-909377834"
+    "hash_code_list_example": "1117449756"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/radar_cb_dmean_5000_it.json",
@@ -1767,17 +1255,11 @@
         "id_image": "radar_3413102"
       }
     ],
-    "hash_code_list_img": "1184239543",
-    "list_definition_mean": [
-      {
-        "mean_english": "hệ thống ra-đa",
-        "definition": "a method of showing the direction and distance of an object by means of radio waves which bounce off the object and return to their source",
-        "ex_of_definition_list": [
-          "(also adjective) a radar screen."
-        ]
-      }
+    "hash_code_list_img": "1151506267",
+    "list_example": [
+      "(also adjective) a radar screen."
     ],
-    "hash_code_list_definition_mean": "1906216894"
+    "hash_code_list_example": "1606047705"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/radiant_cb_dmean_5000_it.json",
@@ -1796,17 +1278,15 @@
         "id_image": "radiant_4968175"
       }
     ],
-    "hash_code_list_img": "13612161",
-    "list_definition_mean": [
-      {
-        "mean_english": "hớn hở",
-        "definition": "showing great joy",
-        "ex_of_definition_list": [
-          "a radiant smile."
-        ]
-      }
+    "hash_code_list_img": "1659209413",
+    "list_example": [
+      "a radiant smile.",
+      "The drip-feed radiant type is the latest and most popular kind of heater and there are several million of them in use; but it has proved to have unsuspected dangers.",
+      "Increasing knowledge of the nature of various disorders of the locotomor system has led to radiant heat and massage being replaced by more active forms of physiotherapy.",
+      "The original radiant vision with the sun shining through has gone.",
+      "The coda comes like a sunburst, with radiant singing lines over spinning f iguration."
     ],
-    "hash_code_list_definition_mean": "341156755"
+    "hash_code_list_example": "-722743134"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/radiation_cb_dmean_5000_it.json",
@@ -1834,17 +1314,12 @@
         "id_image": "radiation_706206"
       }
     ],
-    "hash_code_list_img": "-1029414257",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự tỏa chiếu",
-        "definition": "rays of light, heat etc or of any radioactive substance",
-        "ex_of_definition_list": [
-          "(also adjective) a radiation leak."
-        ]
-      }
+    "hash_code_list_img": "593765684",
+    "list_example": [
+      "(also adjective) a radiation leak.",
+      "Secondary radiation processes due to particle acceleration upon reflection will also be considered."
     ],
-    "hash_code_list_definition_mean": "1413580883"
+    "hash_code_list_example": "-1488529369"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/radioactive_cb_dmean_5000_it.json",
@@ -1873,24 +1348,20 @@
         "id_image": "radioactive_670858"
       }
     ],
-    "hash_code_list_img": "-304375498",
-    "list_definition_mean": [
-      {
-        "mean_english": "tia phóng xạ",
-        "definition": "(of some substances, eg uranium) giving off rays which can be dangerous, but which can also be used in eg medicine",
-        "ex_of_definition_list": [
-          "radioactive metals."
-        ]
-      },
-      {
-        "mean_english": "có chứa chất phóng xạ",
-        "definition": "containing radioactive substances",
-        "ex_of_definition_list": [
-          "radioactive waste/dust."
-        ]
-      }
+    "hash_code_list_img": "-365315486",
+    "list_example": [
+      "radioactive metals.",
+      "radioactive waste/dust.",
+      "Production of radioactive nuclides by energetic protons generated from intense laser-plasma interactions.",
+      "In radioactive beam generation experiments, resolution of the isotopes and transmission of the secondary beam through the fragment separator are very important problems.",
+      "This was used as the starting material for the selective radioactive amplification.",
+      "In either case the toxic or radioactive waste is trapped in the solid, preventing it from leaching into the local water table.",
+      "It is expected that the latter can regulate the crossfield plasma particle transport in tokamak discharges which are contaminated by radioactive dust.",
+      "Mutagenicity tests on bacterial cultures using exceptionally radioactive heavy mineral beach sands : irradiation or chemistry?",
+      "Antibodies labeled with a radioactive isotope can also be used for in vivo diagnosis to identify or locate the sites of tissues and cell populations.",
+      "By the technique of radioactive dating, it has been shown that the chondrites all crystallized 4.6r 109 years ago."
     ],
-    "hash_code_list_definition_mean": "-432733"
+    "hash_code_list_example": "1312089886"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/radio_cb_dmean_5000_it.json",
@@ -1919,28 +1390,12 @@
         "id_image": "radio_387416"
       }
     ],
-    "hash_code_list_img": "-1731761212",
-    "list_definition_mean": [
-      {
-        "mean_english": "máy thu thanh",
-        "definition": "(an apparatus for) the sending and receiving of human speech, music etc",
-        "ex_of_definition_list": [
-          "a pocket radio",
-          "The concert is being broadcast on the radio",
-          "I heard about it on the radio",
-          "(also adjective) a radio programme, radio waves."
-        ]
-      },
-      {
-        "mean_english": "gửi tin bằng ra-đi-ô",
-        "definition": "to send (a message) by radio",
-        "ex_of_definition_list": [
-          "When someone on the island is ill, we have to radio (to) the mainland for a doctor",
-          "An urgent message was radioed to us this evening."
-        ]
-      }
+    "hash_code_list_img": "-821580275",
+    "list_example": [
+      "(also adjective) a radio programme, radio waves.",
+      "When someone on the island is ill, we have to radio (to) the mainland for a doctor"
     ],
-    "hash_code_list_definition_mean": "566699936"
+    "hash_code_list_example": "360816449"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/radius_cb_dmean_5000_it.json",
@@ -1964,24 +1419,12 @@
         "id_image": "radius_2844419"
       }
     ],
-    "hash_code_list_img": "1172886485",
-    "list_definition_mean": [
-      {
-        "mean_english": "phạm vi",
-        "definition": "(plural radiuses) the area within a given distance from a central point",
-        "ex_of_definition_list": [
-          "They searched within a radius of one mile from the school."
-        ]
-      },
-      {
-        "mean_english": "bán kính",
-        "definition": "(plural radii-diai) mathematics a straight line from the centre/center of a circle to its circumference",
-        "ex_of_definition_list": [
-          "Measure the radius of the circle."
-        ]
-      }
+    "hash_code_list_img": "-1308507595",
+    "list_example": [
+      "They searched within a radius of one mile from the school.",
+      "Measure the radius of the circle."
     ],
-    "hash_code_list_definition_mean": "-2051320656"
+    "hash_code_list_example": "994886828"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/raffle_cb_dmean_5000_it.json",
@@ -2005,25 +1448,11 @@
         "id_image": "raffle_5256650"
       }
     ],
-    "hash_code_list_img": "2111759556",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuộc xổ số để bán hàng (nhất là vì từ thiện)",
-        "definition": "a way of raising money by selling numbered tickets, one or more of which win a prize",
-        "ex_of_definition_list": [
-          "I won this doll in a raffle",
-          "(also adjective) raffle tickets."
-        ]
-      },
-      {
-        "mean_english": "bán hàng bằng cách chơi xổ số",
-        "definition": "to give as the prize in a raffle",
-        "ex_of_definition_list": [
-          "They raffled a bottle of whisky to raise money for cancer research."
-        ]
-      }
+    "hash_code_list_img": "133011454",
+    "list_example": [
+      "(also adjective) raffle tickets."
     ],
-    "hash_code_list_definition_mean": "-1949912672"
+    "hash_code_list_example": "-1479389809"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/rage_cb_dmean_5000_it.json",
@@ -2046,53 +1475,11 @@
         "id_image": "rage_708630"
       }
     ],
-    "hash_code_list_img": "473886147",
-    "list_definition_mean": [
-      {
-        "mean_english": "cơn thịnh nộ",
-        "definition": "(a fit of) violent anger",
-        "ex_of_definition_list": [
-          "He flew into a rage",
-          "He shouted with rage."
-        ]
-      },
-      {
-        "mean_english": "cơn cuồng bạo",
-        "definition": "violence; great force",
-        "ex_of_definition_list": [
-          "the rage of the sea."
-        ]
-      },
-      {
-        "mean_english": "nổi khùng",
-        "definition": "to act or shout in great anger",
-        "ex_of_definition_list": [
-          "He raged at his secretary."
-        ]
-      },
-      {
-        "mean_english": "nổi cơn dữ dội",
-        "definition": "(of wind, storms etc) to be violent; to blow with great force",
-        "ex_of_definition_list": [
-          "The storm raged all night."
-        ]
-      },
-      {
-        "mean_english": "diễn ra ác liệt",
-        "definition": "(of battles, arguments etc) to be carried on with great violence",
-        "ex_of_definition_list": [
-          "The battle raged for two whole days."
-        ]
-      },
-      {
-        "mean_english": "hoành hành",
-        "definition": "(of diseases etc) to spread quickly and affect many people",
-        "ex_of_definition_list": [
-          "Fever was raging through the town."
-        ]
-      }
+    "hash_code_list_img": "1390222337",
+    "list_example": [
+      "the rage of the sea."
     ],
-    "hash_code_list_definition_mean": "1818448919"
+    "hash_code_list_example": "1064192978"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/raid_cb_dmean_5000_it.json",
@@ -2112,32 +1499,14 @@
         "id_image": "raid_750592"
       }
     ],
-    "hash_code_list_img": "1239962796",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuộc đột kích",
-        "definition": "a sudden, short and usually unexpected attack",
-        "ex_of_definition_list": [
-          "The enemy made a raid on the docks",
-          "The police carried out a raid on the gambling den."
-        ]
-      },
-      {
-        "mean_english": "đột kích",
-        "definition": "to make a raid on",
-        "ex_of_definition_list": [
-          "The police raided the drug dealer’s house."
-        ]
-      },
-      {
-        "mean_english": "lục lọi",
-        "definition": "to take things from",
-        "ex_of_definition_list": [
-          "I’m hungry – let’s raid the fridge."
-        ]
-      }
+    "hash_code_list_img": "914718033",
+    "list_example": [
+      "The enemy made a raid on the docks",
+      "The police carried out a raid on the gambling den.",
+      "I’m hungry – let’s raid the fridge.",
+      "As a result, unnoticed cinders smoldering from our previous week's raid at another munitions plant will burn that one to the ground."
     ],
-    "hash_code_list_definition_mean": "1292311885"
+    "hash_code_list_example": "1749094022"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/railway_cb_dmean_5000_it.json",
@@ -2166,26 +1535,11 @@
         "id_image": "railway_858289"
       }
     ],
-    "hash_code_list_img": "-401611319",
-    "list_definition_mean": [
-      {
-        "mean_english": "đường sắt",
-        "definition": "a track with (usually more than one set of) two (or sometimes three) parallel steel rails on which trains run; railroad American",
-        "ex_of_definition_list": [
-          "They’re building a new railway",
-          "(also adjective) a railway station."
-        ]
-      },
-      {
-        "mean_english": "ngành đường sắt",
-        "definition": "the whole organization which is concerned with the running of trains, the building of tracks etc; railroad American",
-        "ex_of_definition_list": [
-          "He has a job on the railway",
-          "The railways are very badly run in some countries."
-        ]
-      }
+    "hash_code_list_img": "-1703799484",
+    "list_example": [
+      "(also adjective) a railway station."
     ],
-    "hash_code_list_definition_mean": "346362503"
+    "hash_code_list_example": "-97348246"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/rail_cb_dmean_5000_it.json",
@@ -2210,33 +1564,11 @@
         "id_image": "rail_418309"
       }
     ],
-    "hash_code_list_img": "-1760952697",
-    "list_definition_mean": [
-      {
-        "mean_english": "tay vịn",
-        "definition": "a (usually horizontal) bar of metal, wood etc used in fences etc, or for hanging things on",
-        "ex_of_definition_list": [
-          "Don’t lean over the rail",
-          "a curtain rail",
-          "a towel rail."
-        ]
-      },
-      {
-        "mean_english": "thanh ray",
-        "definition": "a long bar of steel which forms the track on which trains etc run",
-        "ex_of_definition_list": [
-          "The accident occurred when the train came off the rails."
-        ]
-      },
-      {
-        "mean_english": "rào lại",
-        "definition": "(usually with inor off) to surround with a rail or rails",
-        "ex_of_definition_list": [
-          "We’ll rail that bit of ground off to stop people walking on it."
-        ]
-      }
+    "hash_code_list_img": "-543714110",
+    "list_example": [
+      "We’ll rail that bit of ground off to stop people walking on it."
     ],
-    "hash_code_list_definition_mean": "1789751474"
+    "hash_code_list_example": "-188781684"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/raindrop_cb_dmean_5000_it.json",
@@ -2259,17 +1591,13 @@
         "id_image": "raindrop_3104564"
       }
     ],
-    "hash_code_list_img": "-221408393",
-    "list_definition_mean": [
-      {
-        "mean_english": "hạt mưa",
-        "definition": "a single drop of rain",
-        "ex_of_definition_list": [
-          "Raindrops were streaming down the window."
-        ]
-      }
+    "hash_code_list_img": "-512686391",
+    "list_example": [
+      "They have predicted a new age in which we would know where every sunbeam would alight and where every raindrop would fall.",
+      "But what we contribute is rather like a raindrop in the desert.",
+      "A second example, which corresponds more closely to a typical raindrop at terminal velocity, is illustrated in figure 11."
     ],
-    "hash_code_list_definition_mean": "1402557390"
+    "hash_code_list_example": "-816274183"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/rainfall_cb_dmean_5000_it.json",
@@ -2287,18 +1615,16 @@
         "id_image": "rainfall_2402805"
       }
     ],
-    "hash_code_list_img": "2115055748",
-    "list_definition_mean": [
-      {
-        "mean_english": "lượng mưa",
-        "definition": "the amount of rain that falls in a certain place in a certain time",
-        "ex_of_definition_list": [
-          "We haven’t had much rainfall this year",
-          "the annual rainfall."
-        ]
-      }
+    "hash_code_list_img": "1188371837",
+    "list_example": [
+      "We haven’t had much rainfall this year",
+      "Sustained rainfall fell throughout the year even though the total amount during the long rainy season period was far below the usual average.",
+      "The weather variables of maximum and minimum temperature, rainfall and solar radiation were archived for every crop year.",
+      "According to the rainfall pattern and the needs of the growing crops, the villagers can use the water when needed.",
+      "No direct relationships were noted between rainfall recorded at the sites and species richness, frequency and intensity of attack on baits.",
+      "Simple linear regressions were also used to test for relationships between rainfall and mean species richness, percentage of baits attacked, intensities of attack."
     ],
-    "hash_code_list_definition_mean": "1737229103"
+    "hash_code_list_example": "70779919"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/rainy_cb_dmean_5000_it.json",
@@ -2326,19 +1652,21 @@
         "id_image": "rainy_5903651"
       }
     ],
-    "hash_code_list_img": "1328616334",
-    "list_definition_mean": [
-      {
-        "mean_english": "có mưa",
-        "definition": "having (many) showers of rain",
-        "ex_of_definition_list": [
-          "a rainy day",
-          "the rainy season",
-          "rainy weather."
-        ]
-      }
+    "hash_code_list_img": "1106302560",
+    "list_example": [
+      "a rainy day",
+      "the rainy season",
+      "rainy weather.",
+      "We analysed the relationship between predator and herbivore activity in the rainy and dry seasons using a regression.",
+      "Additionally, we divided the year into a dry season and a rainy season.",
+      "The time frames cover the warm and rainy season, when peaks of mosquito abundance are more likely to occur in the area.",
+      "Females construct underground nests, typically at the beginning of the rainy season before temporary ponds fill, in which they oviposit and attend eggs and tadpoles.",
+      "There are two rainy seasons and two dry seasons per year.",
+      "During the second year, enrichment ratios were consistently > 1.0, showing that this effect persisted for more than a single rainy season.",
+      "In fact, the understorey during the dry season was hotter and drier than the lab clearing in the rainy season.",
+      "Since both flower and fruit episodes are rainy season events, moisture may not be limiting in this species."
     ],
-    "hash_code_list_definition_mean": "1288781772"
+    "hash_code_list_example": "1414970364"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/rain_cb_dmean_5000_it.json",
@@ -2364,40 +1692,19 @@
         "id_image": "rain_826906"
       }
     ],
-    "hash_code_list_img": "1347617673",
-    "list_definition_mean": [
-      {
-        "mean_english": "cơn mưa",
-        "definition": "water falling from the clouds in liquid drops",
-        "ex_of_definition_list": [
-          "We’ve had a lot of rain today",
-          "They were caught in the rain without an umbrella",
-          "We had flooding because of last week’s heavy rains."
-        ]
-      },
-      {
-        "mean_english": "như cơn mưa",
-        "definition": "a great number of things falling like rain",
-        "ex_of_definition_list": [
-          "a rain of arrows."
-        ]
-      },
-      {
-        "mean_english": "đổ mưa",
-        "definition": "(only with itas subject) to cause rain to fall",
-        "ex_of_definition_list": [
-          "I think it will rain today."
-        ]
-      },
-      {
-        "mean_english": "nhiều như mưa",
-        "definition": "to (cause to) fall like rain",
-        "ex_of_definition_list": [
-          "Arrows rained down on the soldiers."
-        ]
-      }
+    "hash_code_list_img": "-1823444716",
+    "list_example": [
+      "We’ve had a lot of rain today",
+      "They were caught in the rain without an umbrella",
+      "a rain of arrows.",
+      "I think it will rain today.",
+      "The reserve includes 640 ha of lowland tropical rain forest surrounded by a mosaic of disturbed habitats and secondary forest.",
+      "The role of specialization in nutrient-use efficiency as a mechanism driving species diversity in a tropical rain forest.",
+      "Factors limiting tropical rain forest regeneration in abandoned pasture: seed rain, seed germination, m icroclimate, and soil.",
+      "Each drop of rain changes the form; even the wind and the air itself, invisible to our eyes, etches its presence.",
+      "Factors limiting tropical rain forest regeneration in abandoned pasture: seed rain, seed germination, microclimate, and soil."
     ],
-    "hash_code_list_definition_mean": "-970531351"
+    "hash_code_list_example": "-1359476315"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/raise_cb_dmean_5000_it.json",
@@ -2436,97 +1743,19 @@
         "id_image": "raise_2358359"
       }
     ],
-    "hash_code_list_img": "1013164224",
-    "list_definition_mean": [
-      {
-        "mean_english": "nâng lên; giơ lên",
-        "definition": "to move or lift to a high(er) position",
-        "ex_of_definition_list": [
-          "Raise your right hand",
-          "Raise the flag."
-        ]
-      },
-      {
-        "mean_english": "nâng lên",
-        "definition": "to make higher",
-        "ex_of_definition_list": [
-          "If you paint your flat, that will raise the value of it considerably",
-          "We’ll raise that wall about 20 centimetres."
-        ]
-      },
-      {
-        "mean_english": "chăn nuôi",
-        "definition": "to grow (crops) or breed (animals) for food",
-        "ex_of_definition_list": [
-          "We don’t raise pigs on this farm."
-        ]
-      },
-      {
-        "mean_english": "nuôi nấng",
-        "definition": "to rear, bring up (a child)",
-        "ex_of_definition_list": [
-          "She has raised a large family."
-        ]
-      },
-      {
-        "mean_english": "đặt câu hỏi",
-        "definition": "to state (a question, objection etc which one wishes to have discussed)",
-        "ex_of_definition_list": [
-          "Has anyone in the audience any points they would like to raise?"
-        ]
-      },
-      {
-        "mean_english": "sưu tầm; quyên góp",
-        "definition": "to collect; to gather",
-        "ex_of_definition_list": [
-          "We’ll try to raise money",
-          "The revolutionaries managed to raise a small army."
-        ]
-      },
-      {
-        "mean_english": "khiến",
-        "definition": "to cause",
-        "ex_of_definition_list": [
-          "His remarks raised a laugh."
-        ]
-      },
-      {
-        "mean_english": "tạo nên",
-        "definition": "to cause to rise or appear",
-        "ex_of_definition_list": [
-          "The car raised a cloud of dust."
-        ]
-      },
-      {
-        "mean_english": "xây dựng",
-        "definition": "to build (a monument etc)",
-        "ex_of_definition_list": [
-          "They’ve raised a statue of Robert Burns / in memory of Robert Burns."
-        ]
-      },
-      {
-        "mean_english": "cất cao giọng",
-        "definition": "to give (a shout etc)",
-        "ex_of_definition_list": [
-          "There’s no need to raise your voice."
-        ]
-      },
-      {
-        "mean_english": "liên lạc bằng ra-đi-ô",
-        "definition": "to make contact with by radio",
-        "ex_of_definition_list": [
-          "I can’t raise the mainland."
-        ]
-      },
-      {
-        "mean_english": "nâng lương",
-        "definition": "an increase in wages or salary",
-        "ex_of_definition_list": [
-          "I’m going to ask the boss for a raise."
-        ]
-      }
+    "hash_code_list_img": "138986438",
+    "list_example": [
+      "If you paint your flat, that will raise the value of it considerably",
+      "We’ll raise that wall about 20 centimetres.",
+      "We don’t raise pigs on this farm.",
+      "We’ll try to raise money",
+      "The revolutionaries managed to raise a small army.",
+      "There’s no need to raise your voice.",
+      "I can’t raise the mainland.",
+      "The data also raise questions about government stability in majoritarian and proportional systems.",
+      "In this commentary we raise two issues that we think are directly related to the theory's treatment of mental representations as emulations."
     ],
-    "hash_code_list_definition_mean": "1594549698"
+    "hash_code_list_example": "817779119"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/rake_cb_dmean_5000_it.json",
@@ -2554,44 +1783,11 @@
         "id_image": "rake_809016"
       }
     ],
-    "hash_code_list_img": "2111994653",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái cào",
-        "definition": "a tool which consists of a usually metal bar with teeth at the end of a long handle, used for smoothing earth, gathering eg leaves together etc",
-        "ex_of_definition_list": [
-          "a garden rake."
-        ]
-      },
-      {
-        "mean_english": "cái gạt tiền trong sòng bạc",
-        "definition": "any similar tool",
-        "ex_of_definition_list": [
-          "a croupier’s rake in a casino."
-        ]
-      },
-      {
-        "mean_english": "hành động cào, gạt",
-        "definition": "the act of raking",
-        "ex_of_definition_list": [
-          "He gave the soil a rake."
-        ]
-      },
-      {
-        "mean_english": "cào",
-        "definition": "to smooth or gather with a rake",
-        "ex_of_definition_list": [
-          "I’ll rake these grass-cuttings up later."
-        ]
-      },
-      {
-        "mean_english": "lia súng",
-        "definition": "to fire guns at (a target) from one end of it to the other",
-        "ex_of_definition_list": [
-          "The soldiers raked the entire village with machine-gun fire."
-        ]
-      }
+    "hash_code_list_img": "-744625438",
+    "list_example": [
+      "a croupier’s rake in a casino.",
+      "I’ll rake these grass-cuttings up later."
     ],
-    "hash_code_list_definition_mean": "-1774052926"
+    "hash_code_list_example": "312440988"
   }
 ]

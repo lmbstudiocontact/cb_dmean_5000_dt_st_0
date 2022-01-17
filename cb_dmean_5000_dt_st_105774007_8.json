@@ -16,17 +16,14 @@
         "id_image": "senate_6333053"
       }
     ],
-    "hash_code_list_img": "686592744",
-    "list_definition_mean": [
-      {
-        "mean_english": "thượng nghị viện",
-        "definition": "a lawmaking body, especially the upper house of the parliament in some countries",
-        "ex_of_definition_list": [
-          "(also adjective) a senate committee."
-        ]
-      }
+    "hash_code_list_img": "391554192",
+    "list_example": [
+      "(also adjective) a senate committee.",
+      "It came at a time when congress and the senate were not allowed to alter budget legislation.",
+      "Perhaps they could prevail on the governor or on their allies in the senate to exact harm on cities.",
+      "Other factors, such as partisanship, gender, occupational identification, and the timing of arrival in the senate should not be significant predictors."
     ],
-    "hash_code_list_definition_mean": "876841815"
+    "hash_code_list_example": "721267969"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/senator_cb_dmean_5000_it.json",
@@ -45,17 +42,12 @@
         "id_image": "senator_5608071"
       }
     ],
-    "hash_code_list_img": "2005496253",
-    "list_definition_mean": [
-      {
-        "mean_english": "thượng nghị sĩ",
-        "definition": "(sometimes abbreviated to Sen.in titles) a member of a lawmaking senate",
-        "ex_of_definition_list": [
-          "Senator Smith."
-        ]
-      }
+    "hash_code_list_img": "563105964",
+    "list_example": [
+      "We code this variable \"1\" if the individual senator appears in our data set in 1970 or af24.",
+      "The second, greater uncertainty for a senator seeking election and reelection came from potential opponents for the seat within their own party."
     ],
-    "hash_code_list_definition_mean": "655449444"
+    "hash_code_list_example": "-1808227290"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/send_cb_dmean_5000_it.json",
@@ -90,32 +82,12 @@
         "id_image": "send_928908"
       }
     ],
-    "hash_code_list_img": "1737380457",
-    "list_definition_mean": [
-      {
-        "mean_english": "gửi; phái",
-        "definition": "to cause or order to go or be taken",
-        "ex_of_definition_list": [
-          "The teacher sent the disobedient boy to the headmaster",
-          "She sent me this book."
-        ]
-      },
-      {
-        "mean_english": "bắn ra",
-        "definition": "to move rapidly or with force",
-        "ex_of_definition_list": [
-          "He sent the ball right into the goal."
-        ]
-      },
-      {
-        "mean_english": "đẩy tới",
-        "definition": "to cause to go into a certain, usually bad, state",
-        "ex_of_definition_list": [
-          "The news sent them into a panic."
-        ]
-      }
+    "hash_code_list_img": "843550602",
+    "list_example": [
+      "In recent years, neighbouring countries have begun to anticipate refugee flows and send troops to shore up border security.",
+      "The referring cardiologist may attend the meeting in person, have another cardiologist make the presentation, or send the information by telephone, facsimile, or letter."
     ],
-    "hash_code_list_definition_mean": "-89731524"
+    "hash_code_list_example": "-728473858"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/senior_cb_dmean_5000_it.json",
@@ -135,26 +107,17 @@
         "id_image": "senior_5256035"
       }
     ],
-    "hash_code_list_img": "458308871",
-    "list_definition_mean": [
-      {
-        "mean_english": "người lớn tuổi hơn, người chức cao hơn",
-        "definition": "(also adjective) (a person who is) older in years or higher in rank or authority",
-        "ex_of_definition_list": [
-          "John is senior to me by two years",
-          "He is two years my senior",
-          "senior army officers."
-        ]
-      },
-      {
-        "mean_english": "là bố của người có cùng tên",
-        "definition": "(often abbreviated to Snr, Sror Sen.when written) used to indicate the father of a person who is alive and who has the same name",
-        "ex_of_definition_list": [
-          "John Jones Senior."
-        ]
-      }
+    "hash_code_list_img": "802062946",
+    "list_example": [
+      "John is senior to me by two years",
+      "senior army officers.",
+      "High schools have adapted to the dramatic increase in the senior population by introducing vocational subjects.",
+      "Each of these villages was, in turn, located in a broader territory under the charismatic leadership of a senior woman or man.",
+      "On the other hand, such policies have provoked grassroot activism and stimulated senior organisations in quite a few countries.",
+      "Assessing beliefs about the needs of senior citizens using the focus group interview : a qualitative approach.",
+      "By interviewing only senior partners you inevitably arrive not only at those relatively senior in years but those not educated in a cad environment."
     ],
-    "hash_code_list_definition_mean": "-854177663"
+    "hash_code_list_example": "461983601"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sense_cb_dmean_5000_it.json",
@@ -178,60 +141,14 @@
         "id_image": "sense_2503758"
       }
     ],
-    "hash_code_list_img": "486904027",
-    "list_definition_mean": [
-      {
-        "mean_english": "giác quan",
-        "definition": "one of the five powers (hearing, taste, sight, smell, touch) by which a person or animal feels or notices",
-        "ex_of_definition_list": [
-          "Dogs have an acute sense of hearing."
-        ]
-      },
-      {
-        "mean_english": "cảm giác, tri giác",
-        "definition": "a feeling",
-        "ex_of_definition_list": [
-          "He has an exaggerated sense of his own importance."
-        ]
-      },
-      {
-        "mean_english": "ý thức",
-        "definition": "an awareness of (something)",
-        "ex_of_definition_list": [
-          "a well-developed musical sense",
-          "She has no sense of humour."
-        ]
-      },
-      {
-        "mean_english": "khả năng phán đoán",
-        "definition": "good judgement",
-        "ex_of_definition_list": [
-          "You can rely on him – he has plenty of sense."
-        ]
-      },
-      {
-        "mean_english": "nghĩa, ý nghĩa",
-        "definition": "a meaning (of a word)",
-        "ex_of_definition_list": [
-          "Some words have several senses."
-        ]
-      },
-      {
-        "mean_english": "ý nghĩa",
-        "definition": "something which is meaningful",
-        "ex_of_definition_list": [
-          "Can you make sense of her letter?"
-        ]
-      },
-      {
-        "mean_english": "cảm thấy",
-        "definition": "to feel, become aware of, or realize",
-        "ex_of_definition_list": [
-          "He sensed that she disapproved."
-        ]
-      }
+    "hash_code_list_img": "1392412671",
+    "list_example": [
+      "Dogs have an acute sense of hearing.",
+      "He has an exaggerated sense of his own importance.",
+      "She has no sense of humour.",
+      "Can you make sense of her letter?"
     ],
-    "hash_code_list_definition_mean": "301328357"
+    "hash_code_list_example": "-1310441492"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sensitive_cb_dmean_5000_it.json",
@@ -256,33 +173,23 @@
         "id_image": "sensitive_6003068"
       }
     ],
-    "hash_code_list_img": "954588978",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhạy cảm",
-        "definition": "(usually with to) strongly or easily affected (by something)",
-        "ex_of_definition_list": [
-          "sensitive skin",
-          "sensitive to light."
-        ]
-      },
-      {
-        "mean_english": "dễ bị ảnh hưởng bởi cái gì",
-        "definition": "(usually with aboutor to) easily hurt or offended",
-        "ex_of_definition_list": [
-          "She is very sensitive to criticism."
-        ]
-      },
-      {
-        "mean_english": "có sự thông cảm",
-        "definition": "having or showing artistic good taste",
-        "ex_of_definition_list": [
-          "a sensitive writer",
-          "a sensitive performance."
-        ]
-      }
+    "hash_code_list_img": "-128638261",
+    "list_example": [
+      "sensitive skin",
+      "sensitive to light.",
+      "She is very sensitive to criticism.",
+      "a sensitive writer",
+      "a sensitive performance.",
+      "Symbolic appeals, like the applications of rules, ought to be sensitive to special circumstances.",
+      "There is, in fact, research evidence that error detection, developmental sequences, and negotiation of meaning may all be sensitive to social context.",
+      "The spatial receptive-field structure of these selection units suggests that they may be sensitive to disparity contrast.",
+      "More acutely sensitive records of political discussion, financial transactions and decision-making remained enclosed in books in chests.",
+      "In the developing countries infant mortality still remains a sensitive indicator of socioeconomic standards.",
+      "Comparison with our earlier work reveals that these results are not sensitive to stellar properties as determined variously by stellar models and observations.",
+      "It seems therefore that the epidemiology of rubella is more sensitive to differences in mixing patterns than mumps and measles.",
+      "This observation means that smaller farms are more sensitive to changes in water prices, in that their relative change of surplus is larger."
     ],
-    "hash_code_list_definition_mean": "-661573288"
+    "hash_code_list_example": "-1438890522"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sensor_cb_dmean_5000_it.json",
@@ -315,17 +222,15 @@
         "id_image": "sensor_976005"
       }
     ],
-    "hash_code_list_img": "-1949866971",
-    "list_definition_mean": [
-      {
-        "mean_english": "cảm biến",
-        "definition": "a device that reacts to heat, light, or movement",
-        "ex_of_definition_list": [
-          "The infrared sensor detects intruders by sensing their heat and motion."
-        ]
-      }
+    "hash_code_list_img": "-43391151",
+    "list_example": [
+      "The infrared sensor detects intruders by sensing their heat and motion.",
+      "But pre-processed paths limit the integration of sensor information into machine tool control.",
+      "The third laser sensor was placed on the garden door.",
+      "The deformable mirror is placed before the final focusing optic (the experimental optic) and the wavefront sensor is placed after the focal spot.",
+      "Unfortunately, this makes the testing of sensor models less straightforward."
     ],
-    "hash_code_list_definition_mean": "1890596811"
+    "hash_code_list_example": "-1040282368"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/separation_cb_dmean_5000_it.json",
@@ -354,17 +259,15 @@
         "id_image": "separation_5526459"
       }
     ],
-    "hash_code_list_img": "-665194010",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự chia cắt",
-        "definition": "the act of separating or the state or period of being separated",
-        "ex_of_definition_list": [
-          "They were together again after a separation of three years."
-        ]
-      }
+    "hash_code_list_img": "-1602147138",
+    "list_example": [
+      "They were together again after a separation of three years.",
+      "Their appreciation of the separation of structural and behavioral information and the explicit rendering of model assumptions was illustrated by the positive response.",
+      "Physically, this is because, on average, the mean shear causes larger separation between particle pairs so that larger eddies disperse them.",
+      "Consequently, the fluctuating velocity histories felt by the two points are identical, except at the endpoints, and the separation between the two does not change.",
+      "Parental loss was defined as either death or separation from a parent prior to age 17."
     ],
-    "hash_code_list_definition_mean": "2048347754"
+    "hash_code_list_example": "881195349"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sequence_cb_dmean_5000_it.json",
@@ -384,33 +287,12 @@
         "id_image": "sequence_5485976"
       }
     ],
-    "hash_code_list_img": "222913244",
-    "list_definition_mean": [
-      {
-        "mean_english": "chuỗi nhiều sự kiện, con số…",
-        "definition": "a series of events etc following one another in a particular order",
-        "ex_of_definition_list": [
-          "He described the sequence of events leading to his dismissal from the firm",
-          "a sequence of numbers",
-          "a dance sequence."
-        ]
-      },
-      {
-        "mean_english": "sắp theo trình tự",
-        "definition": "to arrange things in a particular order",
-        "ex_of_definition_list": [
-          "The book titles are sequenced alphabetically."
-        ]
-      },
-      {
-        "mean_english": "giải trình tự",
-        "definition": "to determine the order in which a set of genes are arranged",
-        "ex_of_definition_list": [
-          "So far about 92.3% of the genome has been sequenced."
-        ]
-      }
+    "hash_code_list_img": "1565613643",
+    "list_example": [
+      "He described the sequence of events leading to his dismissal from the firm",
+      "a sequence of numbers"
     ],
-    "hash_code_list_definition_mean": "-869151391"
+    "hash_code_list_example": "-869196705"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/serious_cb_dmean_5000_it.json",
@@ -436,40 +318,20 @@
         "id_image": "serious_312243"
       }
     ],
-    "hash_code_list_img": "1522089296",
-    "list_definition_mean": [
-      {
-        "mean_english": "nghiêm trang",
-        "definition": "grave or solemn",
-        "ex_of_definition_list": [
-          "a quiet, serious boy",
-          "You’re looking very serious."
-        ]
-      },
-      {
-        "mean_english": "thành thật",
-        "definition": "(often with about) in earnest; sincere",
-        "ex_of_definition_list": [
-          "Is he serious about wanting to be a doctor?"
-        ]
-      },
-      {
-        "mean_english": "đứng đắn, nghiêm túc",
-        "definition": "intended to make people think",
-        "ex_of_definition_list": [
-          "He reads very serious books."
-        ]
-      },
-      {
-        "mean_english": "nghiêm trọng",
-        "definition": "causing worry; dangerous",
-        "ex_of_definition_list": [
-          "a serious head injury",
-          "The situation is becoming serious."
-        ]
-      }
+    "hash_code_list_img": "1888878893",
+    "list_example": [
+      "a quiet, serious boy",
+      "Is he serious about wanting to be a doctor?",
+      "He reads very serious books.",
+      "a serious head injury",
+      "A dual decline in vision and hearing acuity often produces serious communication and psychosocial consequences.",
+      "It seems unlikely that serious problems in parental functioning during childhood would suddenly be resolved as the child enters adolescence.",
+      "Ghosts may seem to elude serious scholars except as metaphor or atmosphere, but there is a surprising abundance of books about them.",
+      "The most serious threat to these peoples is represented by the commercial development of strategically important reserves of mineral resources.",
+      "Promoting psychological well-being in the face of serious illness : when theory, research and practice inform each other.",
+      "This issue deserves serious multidisciplinary38 investigation, which is beyond the scope of this article."
     ],
-    "hash_code_list_definition_mean": "1292016862"
+    "hash_code_list_example": "-607147777"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sermon_cb_dmean_5000_it.json",
@@ -487,17 +349,11 @@
         "id_image": "sermon_1699163"
       }
     ],
-    "hash_code_list_img": "1109150813",
-    "list_definition_mean": [
-      {
-        "mean_english": "bài thuyết giáo",
-        "definition": "a serious talk, especially one given in church based on or discussing a passage in the Bible",
-        "ex_of_definition_list": [
-          "The text for this morning’s sermon is taken from the fifth chapter of Exodus."
-        ]
-      }
+    "hash_code_list_img": "1050768061",
+    "list_example": [
+      "The text for this morning’s sermon is taken from the fifth chapter of Exodus."
     ],
-    "hash_code_list_definition_mean": "1532971252"
+    "hash_code_list_example": "-547093509"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/serum_cb_dmean_5000_it.json",
@@ -525,17 +381,11 @@
         "id_image": "serum_530370"
       }
     ],
-    "hash_code_list_img": "-341869363",
-    "list_definition_mean": [
-      {
-        "mean_english": "huyết thanh",
-        "definition": "a watery fluid which is given as an injection to fight, or give immunity from, a disease",
-        "ex_of_definition_list": [
-          "Diphtheria vaccine is a serum."
-        ]
-      }
+    "hash_code_list_img": "1348127552",
+    "list_example": [
+      "Diphtheria vaccine is a serum."
     ],
-    "hash_code_list_definition_mean": "1663265159"
+    "hash_code_list_example": "1936306869"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/servant_cb_dmean_5000_it.json",
@@ -564,25 +414,21 @@
         "id_image": "servant_376485"
       }
     ],
-    "hash_code_list_img": "-1028119670",
-    "list_definition_mean": [
-      {
-        "mean_english": "người hầu",
-        "definition": "a person who is hired to work for another, especially in helping to run a house",
-        "ex_of_definition_list": [
-          "a domestic servant."
-        ]
-      },
-      {
-        "mean_english": "bầy tôi trung thành",
-        "definition": "a person employed by the government, or in the administration of a country etc",
-        "ex_of_definition_list": [
-          "a public servant",
-          "civil servants."
-        ]
-      }
+    "hash_code_list_img": "1256354711",
+    "list_example": [
+      "a domestic servant.",
+      "a public servant",
+      "civil servants.",
+      "In response, they exaggerated and denounced the new styles visible among urban servants, apprentices and middling folk.",
+      "Such men remained the under-labourers, the privates, even the servants of the dominant, innovative, geological elite.",
+      "The costs in both cases were to be borne primarily by civil servants.",
+      "On her accession these ' faithful servants ' were appointed to positions of access and intimacy within the royal household.",
+      "In particular, we need to look at the complex ways in which imperial servants themselves actually negotiated these codes.",
+      "In a comparison of real administrative costs and real term expenditure, the data support the bureau-shaping thesis that public servants work to maximise their budgets.",
+      "After 1860 the demand for farm servants declined markedly, especially after the worldwide agricultural depression of the last two decades of the nineteenth century.",
+      "Residential domestic servants and girls who kept house, almost entirely overlooked in existing studies, had extremely low levels of spending money."
     ],
-    "hash_code_list_definition_mean": "-1883267196"
+    "hash_code_list_example": "1341262000"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/server_cb_dmean_5000_it.json",
@@ -606,17 +452,19 @@
         "id_image": "server_627437"
       }
     ],
-    "hash_code_list_img": "-869639605",
-    "list_definition_mean": [
-      {
-        "mean_english": "khay bưng thức ăn",
-        "definition": "a utensil used in serving food",
-        "ex_of_definition_list": [
-          "salad servers."
-        ]
-      }
+    "hash_code_list_img": "515561751",
+    "list_example": [
+      "salad servers.",
+      "Therefore, it is optimal to either idle or use all flexible servers.",
+      "Most of those are run from university servers and a large majority are student-run.",
+      "The template also calls servers to transmit data between the two language systems.",
+      "An interesting task could be the identification of a minimal set of servers that ensures the connectivity of a set of computers.",
+      "Observe that, under this strategy, the servers also visit the queues that are empty at the beginning of the cycle.",
+      "The toolkit also provides utility agents such as name servers and visualizers.",
+      "Thus, the optimal policy is of threshold type both when the servers are always available and also when they might fail.",
+      "Low bandwidth installations can be run on servers with very modest specifications."
     ],
-    "hash_code_list_definition_mean": "127427829"
+    "hash_code_list_example": "-1941587781"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/serve_cb_dmean_5000_it.json",
@@ -654,62 +502,15 @@
         "id_image": "serve_649236"
       }
     ],
-    "hash_code_list_img": "-903362493",
-    "list_definition_mean": [
-      {
-        "mean_english": "phục vụ",
-        "definition": "to work for a person etc, eg as a servant",
-        "ex_of_definition_list": [
-          "He served his master for forty years."
-        ]
-      },
-      {
-        "mean_english": "dọn ăn",
-        "definition": "to distribute food etc or supply goods",
-        "ex_of_definition_list": [
-          "She served the soup to the guests",
-          "Which shop assistant served you (with these goods)?"
-        ]
-      },
-      {
-        "mean_english": "hợp với",
-        "definition": "to be suitable for a purpose",
-        "ex_of_definition_list": [
-          "This upturned bucket will serve as a seat."
-        ]
-      },
-      {
-        "mean_english": "phục vụ",
-        "definition": "to perform duties, eg as a member of the armed forces",
-        "ex_of_definition_list": [
-          "He served (his country) as a soldier for twenty years",
-          "I served on the committee for five years."
-        ]
-      },
-      {
-        "mean_english": "tống, gạt",
-        "definition": "to undergo (a prison sentence)",
-        "ex_of_definition_list": [
-          "He served (a sentence of) six years for armed robbery."
-        ]
-      },
-      {
-        "mean_english": "giao bóng",
-        "definition": "in tennis and similar games, to start the play by throwing up the ball etc and hitting it",
-        "ex_of_definition_list": [
-          "He served the ball into the net",
-          "Is it your turn to serve?"
-        ]
-      },
-      {
-        "mean_english": "cú, lượt giao bóng",
-        "definition": "act of serving (a ball)",
-        "ex_of_definition_list": [
-          "His first serve was long."
-        ]
-      }
+    "hash_code_list_img": "-267328676",
+    "list_example": [
+      "This upturned bucket will serve as a seat.",
+      "His first serve was long.",
+      "It is not clear how dynamical systems serve as a psychological explanation as opposed to a complex description of behavior.",
+      "The notion of \"change over time\" in dream content (from ancestral themes to current themes) is problematic because such change would serve no obvious function.",
+      "Future work may serve to consolidate some of the findings from this useful review."
     ],
-    "hash_code_list_definition_mean": "-2020397562"
+    "hash_code_list_example": "-2133100989"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/service_cb_dmean_5000_it.json",
@@ -751,90 +552,17 @@
         "id_image": "service_5778362"
       }
     ],
-    "hash_code_list_img": "-1158251993",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự phục vụ",
-        "definition": "the process of serving customers in a hotel, shop etc",
-        "ex_of_definition_list": [
-          "You get very slow service in that shop",
-          "(also adjective) a service charge on a hotel bill."
-        ]
-      },
-      {
-        "mean_english": "sự giúp đỡ",
-        "definition": "the act of doing something to help",
-        "ex_of_definition_list": [
-          "He was rewarded for his service to refugees."
-        ]
-      },
-      {
-        "mean_english": "sự hầu hạ",
-        "definition": "the condition or work of a servant",
-        "ex_of_definition_list": [
-          "In the last century, many young women went into service",
-          "She had been in service as a kitchen maid",
-          "He has given faithful service to the church for many years."
-        ]
-      },
-      {
-        "mean_english": "sự bảo dưỡng",
-        "definition": "a check made of all parts of eg a car, machine etc to ensure that it is in a good condition",
-        "ex_of_definition_list": [
-          "Bring your car in for a service."
-        ]
-      },
-      {
-        "mean_english": "hệ thống dịch vụ, ngành dịch vụ",
-        "definition": "a regular public supply of something eg transport",
-        "ex_of_definition_list": [
-          "a good train service into the city."
-        ]
-      },
-      {
-        "mean_english": "sự tế lễ, buổi lễ",
-        "definition": "a regular meeting for worship, or a religious ceremony (in church)",
-        "ex_of_definition_list": [
-          "He attends a church service every Sunday."
-        ]
-      },
-      {
-        "mean_english": "cú giao bóng",
-        "definition": "in tennis and similar games, the act or manner of serving the ball",
-        "ex_of_definition_list": [
-          "He has a strong service."
-        ]
-      },
-      {
-        "mean_english": "cục, sở, khoa, ban ngành",
-        "definition": "a department of public or government work",
-        "ex_of_definition_list": [
-          "the Civil Service."
-        ]
-      },
-      {
-        "mean_english": "quân chủng",
-        "definition": "one of the three fighting forces, the army, navy or air force",
-        "ex_of_definition_list": [
-          "He’s in the services."
-        ]
-      },
-      {
-        "mean_english": "sự phục vụ",
-        "definition": "employment in one of these",
-        "ex_of_definition_list": [
-          "military service."
-        ]
-      },
-      {
-        "mean_english": "bảo dưỡng",
-        "definition": "to check (a car, machine etc) thoroughly to ensure that it works properly",
-        "ex_of_definition_list": [
-          "The car needs servicing."
-        ]
-      }
+    "hash_code_list_img": "680999120",
+    "list_example": [
+      "You get very slow service in that shop",
+      "(also adjective) a service charge on a hotel bill.",
+      "He was rewarded for his service to refugees.",
+      "She had been in service as a kitchen maid",
+      "He has given faithful service to the church for many years.",
+      "a good train service into the city.",
+      "He attends a church service every Sunday."
     ],
-    "hash_code_list_definition_mean": "1070017264"
+    "hash_code_list_example": "669842478"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/session_cb_dmean_5000_it.json",
@@ -864,31 +592,12 @@
         "id_image": "session_5458572"
       }
     ],
-    "hash_code_list_img": "421359453",
-    "list_definition_mean": [
-      {
-        "mean_english": "phiên họp",
-        "definition": "a meeting, or period for meetings, of a court, council, parliament etc",
-        "ex_of_definition_list": [
-          "The judge will give his summing up at tomorrow’s court session."
-        ]
-      },
-      {
-        "mean_english": "phiên",
-        "definition": "a period of time spent on a particular activity",
-        "ex_of_definition_list": [
-          "a filming session."
-        ]
-      },
-      {
-        "mean_english": "niên khóa",
-        "definition": "a university or school year or one part of this",
-        "ex_of_definition_list": [
-          "the summer session."
-        ]
-      }
+    "hash_code_list_img": "242182280",
+    "list_example": [
+      "Administrative staff in enhanced and usual care practices completed an 8-hour training session on recruiting eligible patients using a two-stage screening process.",
+      "However, both forms co-occur in the same session with variants showing the expected reduplicative onset : violin-bin and goldfish-poldfish."
     ],
-    "hash_code_list_definition_mean": "603860162"
+    "hash_code_list_example": "-1660834939"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/settee_cb_dmean_5000_it.json",
@@ -906,17 +615,14 @@
         "id_image": "settee_2242388"
       }
     ],
-    "hash_code_list_img": "1365343154",
-    "list_definition_mean": [
-      {
-        "mean_english": "ghế xô pha",
-        "definition": "a sofa",
-        "ex_of_definition_list": [
-          "a leather settee."
-        ]
-      }
+    "hash_code_list_img": "30912417",
+    "list_example": [
+      "A mahogany and horsehair settee is against the wall.",
+      "Then there was the £40 bed settee which crumpled and became unusable in a week.",
+      "Yet not everybody requires a settee and two chairs, nor a wardrobe, dressing-table and chest, nor a sideboard, table and four chairs.",
+      "When we look at the price of one settee at about £1,000 for that type of accommodation, we can see that those furnishings are not cheap."
     ],
-    "hash_code_list_definition_mean": "705735098"
+    "hash_code_list_example": "-1651864466"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/settlement_cb_dmean_5000_it.json",
@@ -935,24 +641,20 @@
         "id_image": "settlement_1411848"
       }
     ],
-    "hash_code_list_img": "132904414",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự dàn xếp",
-        "definition": "an agreement",
-        "ex_of_definition_list": [
-          "The two sides have at last reached a settlement."
-        ]
-      },
-      {
-        "mean_english": "khu định cư",
-        "definition": "a small community",
-        "ex_of_definition_list": [
-          "a farming settlement."
-        ]
-      }
+    "hash_code_list_img": "1524396550",
+    "list_example": [
+      "The two sides have at last reached a settlement.",
+      "a farming settlement.",
+      "The project causes submergence of about 2800 hectares of tropical forests, two tribal settlements and stretches of cultivated land of non-tribal settlers.",
+      "They are not, obviously, important centres, but they are inhabited settlements.",
+      "However, the postwar settlements also served the extreme right in certain 'sated' powers.",
+      "We have sketched the basis of a burgeoning rank society in the fairly simple context of small village settlements.",
+      "While fields were enclosed, settlements were dispersed, farm organisation made geometric, the inside of tenant farmhouses were not rationalised or subdivided into individual spaces.",
+      "They include elaborate reconstructions of landscape genesis, systematic regional surveys and large-scale excavations of settlements and cemeteries.",
+      "The latter is insignificant here, as it is away from human settlements.",
+      "The lumber camps that came into being were transient settlements and the laboring population was constantly on the move."
     ],
-    "hash_code_list_definition_mean": "1849006783"
+    "hash_code_list_example": "368721019"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/set_cb_dmean_5000_it.json",
@@ -1005,160 +707,35 @@
         "id_image": "set_6040435"
       }
     ],
-    "hash_code_list_img": "-814160742",
-    "list_definition_mean": [
-      {
-        "mean_english": "đặt , để",
-        "definition": "to put or place",
-        "ex_of_definition_list": [
-          "She set the tray down on the table."
-        ]
-      },
-      {
-        "mean_english": "sắp, dọn, bày",
-        "definition": "to put plates, knives, forks etc on (a table) for a meal",
-        "ex_of_definition_list": [
-          "Please would you set the table for me?"
-        ]
-      },
-      {
-        "mean_english": "giải quyết",
-        "definition": "to settle or arrange (a date, limit, price etc)",
-        "ex_of_definition_list": [
-          "Have you set a date for the wedding yet?"
-        ]
-      },
-      {
-        "mean_english": "ra, giao cho, đặt ra",
-        "definition": "to give a person (a task etc) to do",
-        "ex_of_definition_list": [
-          "The witch set the prince three tasks",
-          "The teacher set a test for her pupils",
-          "He should set the others a good example."
-        ]
-      },
-      {
-        "mean_english": "bắt ai làm gì",
-        "definition": "to cause to start doing something",
-        "ex_of_definition_list": [
-          "His behaviour set people talking."
-        ]
-      },
-      {
-        "mean_english": "lặn",
-        "definition": "(of the sun etc) to disappear below the horizon",
-        "ex_of_definition_list": [
-          "It gets cooler when the sun sets."
-        ]
-      },
-      {
-        "mean_english": "trở nên cứng",
-        "definition": "to become firm or solid",
-        "ex_of_definition_list": [
-          "Has the concrete set?"
-        ]
-      },
-      {
-        "mean_english": "đặt chuông",
-        "definition": "to adjust (eg a clock or its alarm) so that it is ready to perform its function",
-        "ex_of_definition_list": [
-          "He set the alarm for 7.00 a.m."
-        ]
-      },
-      {
-        "mean_english": "đặt lại cho đúng",
-        "definition": "to put (broken bones) into the correct position for healing",
-        "ex_of_definition_list": [
-          "They set his broken arm."
-        ]
-      },
-      {
-        "mean_english": "cố định",
-        "definition": "fixed or arranged previously",
-        "ex_of_definition_list": [
-          "There is a set procedure for doing this."
-        ]
-      },
-      {
-        "mean_english": "kiên quyết",
-        "definition": "(often with on) ready, intending or determined (to do something)",
-        "ex_of_definition_list": [
-          "He is set on going."
-        ]
-      },
-      {
-        "mean_english": "cố ý, có chủ tâm",
-        "definition": "deliberate",
-        "ex_of_definition_list": [
-          "He had the set intention of hurting her."
-        ]
-      },
-      {
-        "mean_english": "cố định",
-        "definition": "stiff; fixed",
-        "ex_of_definition_list": [
-          "He had a set smile on his face."
-        ]
-      },
-      {
-        "mean_english": "cố định",
-        "definition": "not changing or developing",
-        "ex_of_definition_list": [
-          "set ideas."
-        ]
-      },
-      {
-        "mean_english": "được đặt trong",
-        "definition": "(with with) having something set in it",
-        "ex_of_definition_list": [
-          "a gold ring set with diamonds."
-        ]
-      },
-      {
-        "mean_english": "bộ",
-        "definition": "a group of things used or belonging together",
-        "ex_of_definition_list": [
-          "a set of carving tools",
-          "a complete set of (the novels of) Jane Austen."
-        ]
-      },
-      {
-        "mean_english": "máy thu thanh",
-        "definition": "an apparatus for receiving radio or television signals",
-        "ex_of_definition_list": [
-          "a television/radio set."
-        ]
-      },
-      {
-        "mean_english": "giới",
-        "definition": "a group of people",
-        "ex_of_definition_list": [
-          "the musical set."
-        ]
-      },
-      {
-        "mean_english": "sự sửa, uốn tóc",
-        "definition": "the process of setting hair",
-        "ex_of_definition_list": [
-          "a shampoo and set."
-        ]
-      },
-      {
-        "mean_english": "cảnh dựng",
-        "definition": "scenery for a play or film",
-        "ex_of_definition_list": [
-          "There was a very impressive set in the final act."
-        ]
-      },
-      {
-        "mean_english": "ván, xéc",
-        "definition": "a group of six or more games in tennis",
-        "ex_of_definition_list": [
-          "She won the first set and lost the next two."
-        ]
-      }
+    "hash_code_list_img": "412172073",
+    "list_example": [
+      "She set the tray down on the table.",
+      "Please would you set the table for me?",
+      "Have you set a date for the wedding yet?",
+      "The witch set the prince three tasks",
+      "The teacher set a test for her pupils",
+      "He should set the others a good example.",
+      "His behaviour set people talking.",
+      "He set the alarm for 7.00 a.m.",
+      "They set his broken arm.",
+      "There is a set procedure for doing this.",
+      "He is set on going.",
+      "He had the set intention of hurting her.",
+      "He had a set smile on his face.",
+      "set ideas.",
+      "a gold ring set with diamonds.",
+      "a set of carving tools",
+      "a complete set of (the novels of) Jane Austen.",
+      "There was a very impressive set in the final act.",
+      "She won the first set and lost the next two.",
+      "But this is also to be kept secret, lest he should perhaps want to set himself against this as well.",
+      "A set of players, a constant fraction of which are dishonest, are trying to elect a common leader.",
+      "Intuitively, with the pollution charge set too high, good 2 is protected less than good, 3 initially.",
+      "The predicate consistent1/2 creates a set of more involved constraints.",
+      "Computing preferred answer sets by meta-interpretation in answer set programming.",
+      "The fifth (unactuated) equation in the set (23) is a second-order nonholonomic constraint."
     ],
-    "hash_code_list_definition_mean": "1766666713"
+    "hash_code_list_example": "-415470542"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sewage_cb_dmean_5000_it.json",
@@ -1186,17 +763,16 @@
         "id_image": "sewage_4364137"
       }
     ],
-    "hash_code_list_img": "-1642690675",
-    "list_definition_mean": [
-      {
-        "mean_english": "nước cống",
-        "definition": "waste matter (carried away in sewers)",
-        "ex_of_definition_list": [
-          "raw sewage."
-        ]
-      }
+    "hash_code_list_img": "-202304594",
+    "list_example": [
+      "Major cities and industries require sewage treatment before discharge into rivers or large water bodies.",
+      "They would also have the wherewithal to purchase bottled water, to dig private wells, and to install private sewage systems.",
+      "The income growth and rapid urbanization have outpaced the development of infrastructures, such as paved roads, public transportation equipment, and sewage treatment systems.",
+      "The risk for cross contamination is also increased, since water and sewage pipelines are often placed in close proximity to each other for practical reasons.",
+      "Removal of household offal was improved in 1899, with some incineration and a sewage farm ; inspection of milk and ice was gradually tightened.",
+      "In case of sewage contamination, a multitude of agents can be expected to be found in the faeces of exposed people."
     ],
-    "hash_code_list_definition_mean": "340791439"
+    "hash_code_list_example": "-2096921172"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sewer_cb_dmean_5000_it.json",
@@ -1220,17 +796,20 @@
         "id_image": "sewer_4633596"
       }
     ],
-    "hash_code_list_img": "-948400251",
-    "list_definition_mean": [
-      {
-        "mean_english": "cống rãnh",
-        "definition": "an underground pipe or channel for carrying away water etc from drains",
-        "ex_of_definition_list": [
-          "an open sewer."
-        ]
-      }
+    "hash_code_list_img": "629210425",
+    "list_example": [
+      "She’s a good sewer.",
+      "an open sewer.",
+      "There is no specific duty on water and sewerage companies in relation to the control of rats in sewers.",
+      "Though most commissions rated many property owners who were not directly connected to the sewers, they did omit selected groups of ratepayers deemed to derive no benefit.",
+      "The plot is a bit of an urban leftover, an eccentric combination of fragments of subdivided lots, traversed by both sanitary and open storm sewers [5].",
+      "Site preparation ordinarily includes the making of the roads and putting in sewers.",
+      "I am not clear whether the communications of sewers are in the same position as water pipes.",
+      "The company spent £155 million on new sewers and £275 million on new treatment works.",
+      "In fact, the vast majority of the capital's sewers had long possessed semi-circular bottoms.",
+      "There is no obligation for the companies to keep records of connections to water mains or of private sewers or drains."
     ],
-    "hash_code_list_definition_mean": "1355039428"
+    "hash_code_list_example": "-1199044348"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sew_cb_dmean_5000_it.json",
@@ -1248,18 +827,11 @@
         "id_image": "sew_532031"
       }
     ],
-    "hash_code_list_img": "293338839",
-    "list_definition_mean": [
-      {
-        "mean_english": "may, khâu",
-        "definition": "to make, stitch or attach with thread, using a needle",
-        "ex_of_definition_list": [
-          "She sewed the pieces together",
-          "Have you sewn my button on yet?"
-        ]
-      }
+    "hash_code_list_img": "803441554",
+    "list_example": [
+      "The women were even unable to sew hides together to make the tent-walls."
     ],
-    "hash_code_list_definition_mean": "1675122987"
+    "hash_code_list_example": "1272802642"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shackle_cb_dmean_5000_it.json",
@@ -1277,17 +849,18 @@
         "id_image": "shackle_1401419"
       }
     ],
-    "hash_code_list_img": "833536105",
-    "list_definition_mean": [
-      {
-        "mean_english": "cùm lại, xích lại",
-        "definition": "to put shackles on",
-        "ex_of_definition_list": [
-          "The prisoners were shackled."
-        ]
-      }
+    "hash_code_list_img": "1360670877",
+    "list_example": [
+      "The prisoners were shackled.",
+      "Experimental social games in which subjects are not allowed to speak to one another are a bit like sports competitions where subjects must compete with their legs shackled together.",
+      "We say this with some trepidation because academic researchers require the freedom to do research for its own sake-and they should not be shackled by real world concerns.",
+      "In addition, by liberating semantics from its syntactic shackles, the parallel architecture makes it possible to develop a fully psychological theory of meaning and its relation to perception.",
+      "How does one free a libratory ideology from the shackles of becoming itself another normative practice in schools?",
+      "As a consequence of this religious emancipation, only those individuals who have shed the shackles of religion can be permitted into its secularly hallowed halls.",
+      "The only one who is projecting feelings onto the idol is the iconoclast with a hammer, not those who should be freed, by his gesture, from their shackles.",
+      "Sometimes the shackles came undone from the ship which became unmoored."
     ],
-    "hash_code_list_definition_mean": "1199684384"
+    "hash_code_list_example": "-1247389037"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shack_cb_dmean_5000_it.json",
@@ -1310,17 +883,13 @@
         "id_image": "shack_5256919"
       }
     ],
-    "hash_code_list_img": "-2116481432",
-    "list_definition_mean": [
-      {
-        "mean_english": "lán, lều",
-        "definition": "a roughly-built hut",
-        "ex_of_definition_list": [
-          "a wooden shack."
-        ]
-      }
+    "hash_code_list_img": "-203817179",
+    "list_example": [
+      "I have seen a person very sick with tuberculosis sharing a shack with young children, without ventilation or any amenity.",
+      "If one wants a cup of tea one goes to an old shack covered with a tin roof and stands on cinders.",
+      "The company started from a tiny wooden shack 50 or 60 years ago."
     ],
-    "hash_code_list_definition_mean": "278921065"
+    "hash_code_list_example": "-1812183859"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shade_cb_dmean_5000_it.json",
@@ -1345,61 +914,18 @@
         "id_image": "shade_2130697"
       }
     ],
-    "hash_code_list_img": "1678409929",
-    "list_definition_mean": [
-      {
-        "mean_english": "bóng, bóng tối",
-        "definition": "slight darkness caused by the blocking of some light",
-        "ex_of_definition_list": [
-          "I prefer to sit in the shade rather than the sun."
-        ]
-      },
-      {
-        "mean_english": "bóng",
-        "definition": "the dark parts of a picture",
-        "ex_of_definition_list": [
-          "the clever use of light and shade in the portrait."
-        ]
-      },
-      {
-        "mean_english": "chỗ có bóng mát",
-        "definition": "something that screens or shelters from light or heat",
-        "ex_of_definition_list": [
-          "a large sunshade",
-          "a shade for a light."
-        ]
-      },
-      {
-        "mean_english": "sự chuyển dần màu",
-        "definition": "a variety of a colour/color; a slight difference",
-        "ex_of_definition_list": [
-          "a pretty shade of green",
-          "shades of meaning."
-        ]
-      },
-      {
-        "mean_english": "một chút",
-        "definition": "a slight amount",
-        "ex_of_definition_list": [
-          "The weather is a shade better today."
-        ]
-      },
-      {
-        "mean_english": "che bóng mát cho",
-        "definition": "(sometimes with from) to shelter from light or heat",
-        "ex_of_definition_list": [
-          "He put up his hand to shade his eyes."
-        ]
-      },
-      {
-        "mean_english": "làm tối sầm",
-        "definition": "to make darker",
-        "ex_of_definition_list": [
-          "You should shade the foreground of that drawing."
-        ]
-      }
+    "hash_code_list_img": "592626238",
+    "list_example": [
+      "I prefer to sit in the shade rather than the sun.",
+      "the clever use of light and shade in the portrait.",
+      "a shade for a light.",
+      "a pretty shade of green",
+      "The weather is a shade better today.",
+      "He put up his hand to shade his eyes.",
+      "You should shade the foreground of that drawing.",
+      "Also, the shade plants tended to have 1-2 cell layers in the palisade mesophyll compared with 2-3 layers in sun plants."
     ],
-    "hash_code_list_definition_mean": "-2101326878"
+    "hash_code_list_example": "368575300"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shadow_cb_dmean_5000_it.json",
@@ -1427,52 +953,18 @@
         "id_image": "shadow_4402889"
       }
     ],
-    "hash_code_list_img": "-2047692814",
-    "list_definition_mean": [
-      {
-        "mean_english": "bóng râm",
-        "definition": "(a patch of) shade on the ground etc caused by an object blocking the light",
-        "ex_of_definition_list": [
-          "We are in the shadow of that building."
-        ]
-      },
-      {
-        "mean_english": "bóng tối",
-        "definition": "(in plural with the) darkness or partial darkness caused by lack of (direct) light",
-        "ex_of_definition_list": [
-          "The child was afraid that wild animals were lurking in the shadows at the corner of his bedroom."
-        ]
-      },
-      {
-        "mean_english": "dấu vết, gợn",
-        "definition": "a dark patch or area",
-        "ex_of_definition_list": [
-          "You look tired – there are shadows under your eyes."
-        ]
-      },
-      {
-        "mean_english": "chút",
-        "definition": "a very slight amount",
-        "ex_of_definition_list": [
-          "There’s not a shadow of doubt that he stole the money."
-        ]
-      },
-      {
-        "mean_english": "che bóng",
-        "definition": "to hide or darken with shadow",
-        "ex_of_definition_list": [
-          "A broad hat shadowed her face."
-        ]
-      },
-      {
-        "mean_english": "theo dõi",
-        "definition": "to follow closely, especially as a detective, spy etc",
-        "ex_of_definition_list": [
-          "We shadowed him for a week."
-        ]
-      }
+    "hash_code_list_img": "2068406664",
+    "list_example": [
+      "We are in the shadow of that building.",
+      "There’s not a shadow of doubt that he stole the money.",
+      "The 'high credibility' of the play's subtitle is the great shadow in the central character's mind.",
+      "Further revolutions cast a shadow back over 1789 : a critical vision developed after the failure of 1848, and a pathological vision formed after 1871.",
+      "Here, first-best shadow prices are determined in order to accommodate the market's shortcomings.",
+      "Similar to recreation trips, fuelwood collection trips can be modeled as functions of travel costs (shadow prices) and resource quality (forest condition).",
+      "The city itself was not large by contemporary standards, but it cast a distinctly urban shadow over its surroundings.",
+      "Estimates will vary depending upon what shadow prices are used."
     ],
-    "hash_code_list_definition_mean": "-1236384480"
+    "hash_code_list_example": "1184169757"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shaft_cb_dmean_5000_it.json",
@@ -1494,46 +986,17 @@
         "id_image": "shaft_3903067"
       }
     ],
-    "hash_code_list_img": "1930765933",
-    "list_definition_mean": [
-      {
-        "mean_english": "cán, tay cầm",
-        "definition": "the long straight part or handle of a tool, weapon etc",
-        "ex_of_definition_list": [
-          "the shaft of a golf club."
-        ]
-      },
-      {
-        "mean_english": "càng xe",
-        "definition": "one of two poles on a cart etc to which a horse etc is harnessed",
-        "ex_of_definition_list": [
-          "The horse stood patiently between the shafts."
-        ]
-      },
-      {
-        "mean_english": "trục",
-        "definition": "a revolving bar transmitting motion in an engine",
-        "ex_of_definition_list": [
-          "the driving shaft."
-        ]
-      },
-      {
-        "mean_english": "ống thông, đường thông",
-        "definition": "a long, narrow space, made for eg a lift in a building",
-        "ex_of_definition_list": [
-          "a liftshaft",
-          "a mineshaft."
-        ]
-      },
-      {
-        "mean_english": "tia sáng, đường chớp",
-        "definition": "a ray of light",
-        "ex_of_definition_list": [
-          "a shaft of sunlight."
-        ]
-      }
+    "hash_code_list_img": "2130422232",
+    "list_example": [
+      "the shaft of a golf club.",
+      "a shaft of sunlight.",
+      "The longer spicule was 1719+1844 long, its shaft 546+570 long, forming 31+32% of the spicule length.",
+      "The entrance to the shaft descended from the eastern edge of the retaining wall of the enclosure.",
+      "Many contributors link the use of shaft tombs to lineages or similar social groups.",
+      "The motor shaft was connected to a rotating cylinder, which was connected to the top of the leg through a flexible rope.",
+      "The selection process has been mainly concerned with the size and pulses / revolution of the shaft encoder."
     ],
-    "hash_code_list_definition_mean": "546330630"
+    "hash_code_list_example": "-2068125081"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shake_cb_dmean_5000_it.json",
@@ -1564,41 +1027,14 @@
         "id_image": "shake_4403892"
       }
     ],
-    "hash_code_list_img": "-2099712889",
-    "list_definition_mean": [
-      {
-        "mean_english": "rung, lắc",
-        "definition": "to (cause to) tremble or move with jerks",
-        "ex_of_definition_list": [
-          "The explosion shook the building",
-          "We were shaking with laughter",
-          "Her voice shook as she told me the sad news."
-        ]
-      },
-      {
-        "mean_english": "làm sửng sốt",
-        "definition": "to shock, disturb or weaken",
-        "ex_of_definition_list": [
-          "He was shaken by the accident",
-          "My confidence in him has been shaken."
-        ]
-      },
-      {
-        "mean_english": "sự rung",
-        "definition": "an act of shaking",
-        "ex_of_definition_list": [
-          "He gave the bottle a shake."
-        ]
-      },
-      {
-        "mean_english": "cốc sữa trứng",
-        "definition": "drink made by shaking the ingredients together vigorously",
-        "ex_of_definition_list": [
-          "a chocolate milk-shake."
-        ]
-      }
+    "hash_code_list_img": "114721620",
+    "list_example": [
+      "He was shaken by the accident",
+      "My confidence in him has been shaken.",
+      "He gave the bottle a shake.",
+      "a chocolate milk-shake."
     ],
-    "hash_code_list_definition_mean": "-1444467973"
+    "hash_code_list_example": "-1549705962"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shaky_cb_dmean_5000_it.json",
@@ -1618,34 +1054,22 @@
         "id_image": "shaky_4126584"
       }
     ],
-    "hash_code_list_img": "518225049",
-    "list_definition_mean": [
-      {
-        "mean_english": "rung, run",
-        "definition": "weak or trembling with age, illness etc",
-        "ex_of_definition_list": [
-          "a shaky voice",
-          "shaky handwriting."
-        ]
-      },
-      {
-        "mean_english": "không vững chãi",
-        "definition": "unsteady or likely to collapse",
-        "ex_of_definition_list": [
-          "a shaky chair."
-        ]
-      },
-      {
-        "mean_english": "không tốt, không chính xác",
-        "definition": "(sometimes with at) not very good, accurate etc",
-        "ex_of_definition_list": [
-          "He’s a bit shaky at arithmetic",
-          "My arithmetic has always been very shaky",
-          "I’d be grateful if you would correct my rather shaky spelling."
-        ]
-      }
+    "hash_code_list_img": "635569157",
+    "list_example": [
+      "a shaky voice",
+      "shaky handwriting.",
+      "a shaky chair.",
+      "He’s a bit shaky at arithmetic",
+      "I’d be grateful if you would correct my rather shaky spelling.",
+      "Both the possibility of forgery and the shaky ground upon which this bank, like many, found itself speak to the extent of widespread economic vulnerability in the period.",
+      "Already shaky ministerial chairs now wobble precariously.",
+      "The altered body becomes an unknown terrain that must be relearned ; it becomes shaky ground on which a new order - if there is to be order - must be built.",
+      "The first has a rather shaky premise and is somewhat over-determined.",
+      "The legal basis for collecting tolls now seems to be on shaky ground.",
+      "He has not been watching the sails; we should not follow his shaky course.",
+      "The lump is damaging the quality of construction work and is undermining the industry's already shaky collective bargaining machinery."
     ],
-    "hash_code_list_definition_mean": "-1265020703"
+    "hash_code_list_example": "-106986274"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shallow_cb_dmean_5000_it.json",
@@ -1664,25 +1088,13 @@
         "id_image": "shallow_4745395"
       }
     ],
-    "hash_code_list_img": "755355713",
-    "list_definition_mean": [
-      {
-        "mean_english": "nông, cạn",
-        "definition": "not deep",
-        "ex_of_definition_list": [
-          "shallow water",
-          "a shallow pit."
-        ]
-      },
-      {
-        "mean_english": "nông cạn , hời hợt",
-        "definition": "not able to think seriously or feel deeply",
-        "ex_of_definition_list": [
-          "a rather shallow personality."
-        ]
-      }
+    "hash_code_list_img": "145866750",
+    "list_example": [
+      "shallow water",
+      "a shallow pit.",
+      "a rather shallow personality."
     ],
-    "hash_code_list_definition_mean": "1102819716"
+    "hash_code_list_example": "367541161"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shame_cb_dmean_5000_it.json",
@@ -1705,53 +1117,15 @@
         "id_image": "shame_708695"
       }
     ],
-    "hash_code_list_img": "881662589",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự xấu hổ, sự tủi thẹn",
-        "definition": "(often with at) an unpleasant feeling caused by awareness of guilt, fault, foolishness or failure",
-        "ex_of_definition_list": [
-          "I was full of shame at my rudeness",
-          "He felt no shame at his behaviour/behavior."
-        ]
-      },
-      {
-        "mean_english": "nỗi nhục",
-        "definition": "dishonour/dishonor or disgrace",
-        "ex_of_definition_list": [
-          "The news that he had accepted bribes brought shame on his whole family."
-        ]
-      },
-      {
-        "mean_english": "điều ân hận",
-        "definition": "(with a) a cause of disgrace or a matter for blame",
-        "ex_of_definition_list": [
-          "It’s a shame to treat a child so cruelly."
-        ]
-      },
-      {
-        "mean_english": "điều đáng tiếc",
-        "definition": "(with a) a pity",
-        "ex_of_definition_list": [
-          "What a shame that he didn’t get the job!"
-        ]
-      },
-      {
-        "mean_english": "làm cho ai hổ thẹn",
-        "definition": "(often with into) to force or persuade to do something by making ashamed",
-        "ex_of_definition_list": [
-          "He was shamed into paying his share."
-        ]
-      },
-      {
-        "mean_english": "làm ô nhục",
-        "definition": "to cause to have a feeling of shame",
-        "ex_of_definition_list": [
-          "His cowardice shamed his parents."
-        ]
-      }
+    "hash_code_list_img": "157226049",
+    "list_example": [
+      "I was full of shame at my rudeness",
+      "He felt no shame at his behaviour/behavior.",
+      "The news that he had accepted bribes brought shame on his whole family.",
+      "It’s a shame to treat a child so cruelly.",
+      "What a shame that he didn’t get the job!"
     ],
-    "hash_code_list_definition_mean": "-1288361950"
+    "hash_code_list_example": "-1453174465"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shampoo_cb_dmean_5000_it.json",
@@ -1781,33 +1155,12 @@
         "id_image": "shampoo_6075408"
       }
     ],
-    "hash_code_list_img": "-1192425245",
-    "list_definition_mean": [
-      {
-        "mean_english": "dầu gội đầu, dầu rửa thảm",
-        "definition": "a soapy liquid or other substance for washing the hair and scalp or for cleaning carpets, upholstery etc",
-        "ex_of_definition_list": [
-          "a special shampoo for greasy hair",
-          "carpet shampoo."
-        ]
-      },
-      {
-        "mean_english": "sự gội đầu, sự rửa thảm",
-        "definition": "an act of washing etc with shampoo",
-        "ex_of_definition_list": [
-          "I had a shampoo and set at the hairdresser’s."
-        ]
-      },
-      {
-        "mean_english": "gội đầu, rửa thảm",
-        "definition": "to wash or clean with shampoo",
-        "ex_of_definition_list": [
-          "She shampoos her hair every day",
-          "We shampooed the rugs yesterday."
-        ]
-      }
+    "hash_code_list_img": "761737239",
+    "list_example": [
+      "a special shampoo for greasy hair",
+      "I had a shampoo and set at the hairdresser’s."
     ],
-    "hash_code_list_definition_mean": "1986194583"
+    "hash_code_list_example": "-923567547"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shape_cb_dmean_5000_it.json",
@@ -1840,53 +1193,16 @@
         "id_image": "shape_802078"
       }
     ],
-    "hash_code_list_img": "1988210695",
-    "list_definition_mean": [
-      {
-        "mean_english": "hình thù",
-        "definition": "the external form or outline of anything",
-        "ex_of_definition_list": [
-          "People are all (of) different shapes and sizes",
-          "The house is built in the shape of a letter L."
-        ]
-      },
-      {
-        "mean_english": "hình bóng mờ ảo",
-        "definition": "an indistinct form",
-        "ex_of_definition_list": [
-          "I saw a large shape in front of me in the darkness."
-        ]
-      },
-      {
-        "mean_english": "tình trạng, trạng thái",
-        "definition": "condition or state",
-        "ex_of_definition_list": [
-          "You’re in better physical shape than I am."
-        ]
-      },
-      {
-        "mean_english": "nặn, đẽo, gọt",
-        "definition": "to make into a certain shape, to form or model",
-        "ex_of_definition_list": [
-          "She shaped the dough into three separate loaves."
-        ]
-      },
-      {
-        "mean_english": "định hướng",
-        "definition": "to influence the nature of strongly",
-        "ex_of_definition_list": [
-          "This event shaped his whole life."
-        ]
-      },
-      {
-        "mean_english": "tiến triển, phát triển",
-        "definition": "(sometimes with up) to develop",
-        "ex_of_definition_list": [
-          "The team is shaping (up) well."
-        ]
-      }
+    "hash_code_list_img": "-163272614",
+    "list_example": [
+      "The house is built in the shape of a letter L.",
+      "I saw a large shape in front of me in the darkness.",
+      "You’re in better physical shape than I am.",
+      "Indeed, people's social and psychological attributes shape their behaviour but, in many ways, behaviour is only partially predictable.",
+      "Integrated topology and shape optimization in structural design.",
+      "Furthermore, shape can be easily perceived and does not require experience with the object, unlike function or other non-perceptual attributes."
     ],
-    "hash_code_list_definition_mean": "605153699"
+    "hash_code_list_example": "3409620"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shareholder_cb_dmean_5000_it.json",
@@ -1914,17 +1230,11 @@
         "id_image": "shareholder_2590597"
       }
     ],
-    "hash_code_list_img": "-781626309",
-    "list_definition_mean": [
-      {
-        "mean_english": "cổ đông",
-        "definition": "a person who owns shares in a business company",
-        "ex_of_definition_list": [
-          "She’s a major shareholder in the company."
-        ]
-      }
+    "hash_code_list_img": "-130136115",
+    "list_example": [
+      "She’s a major shareholder in the company."
     ],
-    "hash_code_list_definition_mean": "527848397"
+    "hash_code_list_example": "463841929"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/share_cb_dmean_5000_it.json",
@@ -1952,54 +1262,15 @@
         "id_image": "share_1373155"
       }
     ],
-    "hash_code_list_img": "1472081575",
-    "list_definition_mean": [
-      {
-        "mean_english": "phần",
-        "definition": "one of the parts of something that is divided among several people etc",
-        "ex_of_definition_list": [
-          "We all had a share of the cake",
-          "We each paid our share of the bill."
-        ]
-      },
-      {
-        "mean_english": "dự phần, sự tham gia",
-        "definition": "the part played by a person in something done etc by several people etc",
-        "ex_of_definition_list": [
-          "I had no share in the decision."
-        ]
-      },
-      {
-        "mean_english": "cổ phần",
-        "definition": "a fixed sum of money invested in a business company by a shareholder",
-        "ex_of_definition_list": [
-          "stocks and shares."
-        ]
-      },
-      {
-        "mean_english": "chia đều",
-        "definition": "(usually with among, between, with) to divide among a number of people",
-        "ex_of_definition_list": [
-          "We shared the money between us."
-        ]
-      },
-      {
-        "mean_english": "có chung cái gì với ai",
-        "definition": "to have, use etc (something that another person has or uses); to allow someone to use (something one has or owns)",
-        "ex_of_definition_list": [
-          "The students share a sitting-room",
-          "The little boy hated sharing his toys."
-        ]
-      },
-      {
-        "mean_english": "chia sẻ, chia phần",
-        "definition": "(sometimes with in) to have a share of with someone else",
-        "ex_of_definition_list": [
-          "He wouldn’t let her share the cost of the taxi."
-        ]
-      }
+    "hash_code_list_img": "1315257196",
+    "list_example": [
+      "We all had a share of the cake",
+      "We each paid our share of the bill.",
+      "I had no share in the decision.",
+      "The students share a sitting-room",
+      "He wouldn’t let her share the cost of the taxi."
     ],
-    "hash_code_list_definition_mean": "748034772"
+    "hash_code_list_example": "-1208646201"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sharpener_cb_dmean_5000_it.json",
@@ -2032,17 +1303,12 @@
         "id_image": "sharpener_546661"
       }
     ],
-    "hash_code_list_img": "-507188194",
-    "list_definition_mean": [
-      {
-        "mean_english": "dụng cụ mài gọt",
-        "definition": "an instrument for sharpening",
-        "ex_of_definition_list": [
-          "a pencil sharpener."
-        ]
-      }
+    "hash_code_list_img": "596543634",
+    "list_example": [
+      "The casing of the sharpener is the repository for the pencil shavings, and needs to be emptied periodically.",
+      "What is the point of making a pencil sharpener look like a strawberry or a rubber shaped like a typewriter smell like bananas?"
     ],
-    "hash_code_list_definition_mean": "1697142243"
+    "hash_code_list_example": "-2053516815"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sharpen_cb_dmean_5000_it.json",
@@ -2070,17 +1336,19 @@
         "id_image": "sharpen_648411"
       }
     ],
-    "hash_code_list_img": "-1560213675",
-    "list_definition_mean": [
-      {
-        "mean_english": "làm cho sắc",
-        "definition": "to make or grow sharp",
-        "ex_of_definition_list": [
-          "He sharpened his pencil."
-        ]
-      }
+    "hash_code_list_img": "546617877",
+    "list_example": [
+      "He sharpened his pencil.",
+      "My inner eye, sharpened by the manifold appearances of a similar kind, now distinguished larger structures of various shapes.",
+      "Replying to the commentaries has sharpened and clarified many of the issues and helped me to view them from fresh angles.",
+      "No matter how much one sharpens the argument, updates references, and reduces some of the data, its original nature remains indelible.",
+      "In short, since the 1950s there has been a general trend towards sharpened competition between shepherds.",
+      "They contributed in sharpening my view of epistemological problems and promoted a more distanced view of the sciences.",
+      "Engineering employers, frequently stealing workers from each other, dealt with the matter collectively by sharpening their rules against poaching.",
+      "Of course, the assumption needs to be sharpened immediately, if it is to be useful.",
+      "Ethnic tensions, which in part underlay the original divisions between the three anti-colonial movements in the 1960s and 1970s, had been sharpened and entrenched."
     ],
-    "hash_code_list_definition_mean": "422060204"
+    "hash_code_list_example": "-1393013577"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sharp_cb_dmean_5000_it.json",
@@ -2115,96 +1383,19 @@
         "id_image": "sharp_215046"
       }
     ],
-    "hash_code_list_img": "116048081",
-    "list_definition_mean": [
-      {
-        "mean_english": "sắc, nhọn, bén",
-        "definition": "having a thin edge that can cut or a point that can pierce",
-        "ex_of_definition_list": [
-          "a sharp knife."
-        ]
-      },
-      {
-        "mean_english": "rõ ràng, rõ nét",
-        "definition": "(of pictures, outlines etc) clear and distinct",
-        "ex_of_definition_list": [
-          "the sharp outline of the mountain."
-        ]
-      },
-      {
-        "mean_english": "thình lình, đột ngột",
-        "definition": "(of changes in direction) sudden and quick",
-        "ex_of_definition_list": [
-          "a sharp left turn."
-        ]
-      },
-      {
-        "mean_english": "buốt, nhói",
-        "definition": "(of pain etc) keen, acute or intense",
-        "ex_of_definition_list": [
-          "He gets a sharp pain after eating."
-        ]
-      },
-      {
-        "mean_english": "chỉ trích gay gắt",
-        "definition": "(often with with) severe",
-        "ex_of_definition_list": [
-          "Don’t be so sharp with the child!",
-          "She got a sharp reproach from me."
-        ]
-      },
-      {
-        "mean_english": "thính, tinh ,nhạy",
-        "definition": "alert",
-        "ex_of_definition_list": [
-          "Dogs have sharp ears."
-        ]
-      },
-      {
-        "mean_english": "the thé",
-        "definition": "shrill and sudden",
-        "ex_of_definition_list": [
-          "a sharp cry."
-        ]
-      },
-      {
-        "mean_english": "thăng, cao nửa cung",
-        "definition": "(of a musical note) raised a semitone; too high in pitch",
-        "ex_of_definition_list": [
-          "F sharp",
-          "That last note was sharp."
-        ]
-      },
-      {
-        "mean_english": "đúng",
-        "definition": "punctually",
-        "ex_of_definition_list": [
-          "Come at six (o’clock) sharp."
-        ]
-      },
-      {
-        "mean_english": "đột ngột, bất thình lình",
-        "definition": "with an abrupt change of direction",
-        "ex_of_definition_list": [
-          "Turn sharp left here."
-        ]
-      },
-      {
-        "mean_english": "cao quá độ cao đúng",
-        "definition": "at too high a pitch",
-        "ex_of_definition_list": [
-          "You’re singing sharp."
-        ]
-      },
-      {
-        "mean_english": "nốt thăng",
-        "definition": "a sharp note",
-        "ex_of_definition_list": [
-          "sharps and flats."
-        ]
-      }
+    "hash_code_list_img": "907042330",
+    "list_example": [
+      "a sharp knife.",
+      "the sharp outline of the mountain.",
+      "a sharp left turn.",
+      "He gets a sharp pain after eating.",
+      "Don’t be so sharp with the child!",
+      "She got a sharp reproach from me.",
+      "Dogs have sharp ears.",
+      "a sharp cry.",
+      "Turn sharp left here."
     ],
-    "hash_code_list_definition_mean": "-2116012130"
+    "hash_code_list_example": "95056344"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shaver_cb_dmean_5000_it.json",
@@ -2227,17 +1418,12 @@
         "id_image": "shaver_3791209"
       }
     ],
-    "hash_code_list_img": "324317221",
-    "list_definition_mean": [
-      {
-        "mean_english": "máy cạo râu",
-        "definition": "a piece of electrical equipment used for shaving",
-        "ex_of_definition_list": [
-          "an electric shaver."
-        ]
-      }
+    "hash_code_list_img": "-511275011",
+    "list_example": [
+      "In a split thickness skin graft, a shaver is used to shave a layer of skin from the abdomen or thigh.",
+      "This was a mechanical version of the dry shaver that was operated by repeatedly squeezing a lever on the handle."
     ],
-    "hash_code_list_definition_mean": "828508560"
+    "hash_code_list_example": "-649060428"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shave_cb_dmean_5000_it.json",
@@ -2268,38 +1454,17 @@
         "id_image": "shave_538016"
       }
     ],
-    "hash_code_list_img": "1650758693",
-    "list_definition_mean": [
-      {
-        "mean_english": "cạo (râu, mặt, đầu)",
-        "definition": "to cut away (hair) from (usually oneself) with a razor",
-        "ex_of_definition_list": [
-          "He only shaves once a week."
-        ]
-      },
-      {
-        "mean_english": "bào",
-        "definition": "(sometimes with off) to scrape or cut away (the surface of wood etc)",
-        "ex_of_definition_list": [
-          "The joiner shaved a thin strip off the edge of the door."
-        ]
-      },
-      {
-        "mean_english": "sượt, chạm",
-        "definition": "to touch lightly in passing",
-        "ex_of_definition_list": [
-          "The car shaved the wall."
-        ]
-      },
-      {
-        "mean_english": "sự cạo",
-        "definition": "(the result of) an act of shaving",
-        "ex_of_definition_list": [
-          "Colin badly needs a shave."
-        ]
-      }
+    "hash_code_list_img": "-499612497",
+    "list_example": [
+      "He only shaves once a week.",
+      "The joiner shaved a thin strip off the edge of the door.",
+      "The car shaved the wall.",
+      "Colin badly needs a shave.",
+      "The people to prosecute are the people who tempt the barber, and come in with large fees to get shaved.",
+      "The skin was shaved and an incision measuring 1 cm long was made through the skin and body wall.",
+      "I thought he was going to say that the fourth was when he looked in the mirror in the morning when he shaves."
     ],
-    "hash_code_list_definition_mean": "-1606924487"
+    "hash_code_list_example": "-98761689"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shear_cb_dmean_5000_it.json",
@@ -2325,38 +1490,20 @@
         "id_image": "shear_2844480"
       }
     ],
-    "hash_code_list_img": "-219439975",
-    "list_definition_mean": [
-      {
-        "mean_english": "cắt lông cừu",
-        "definition": "to clip or cut wool from (a sheep)",
-        "ex_of_definition_list": [
-          "These sheep need shearing."
-        ]
-      },
-      {
-        "mean_english": "xén, cắt",
-        "definition": "(past tense shorn) (often with off) to cut (hair) off",
-        "ex_of_definition_list": [
-          "All her curls have been shorn off."
-        ]
-      },
-      {
-        "mean_english": "cắt, chặt",
-        "definition": "(past tense shorn) (especially with of) to cut hair from (someone)",
-        "ex_of_definition_list": [
-          "He has been shorn (of all his curls)."
-        ]
-      },
-      {
-        "mean_english": "làm méo mó, làm đứt gãy",
-        "definition": "to cut or (cause to) break",
-        "ex_of_definition_list": [
-          "A piece of the steel girder sheared off."
-        ]
-      }
+    "hash_code_list_img": "1798215211",
+    "list_example": [
+      "These sheep need shearing.",
+      "A piece of the steel girder sheared off.",
+      "While some of the gabbros are locally strongly sheared, the structural setting of this sequence is uncertain due to the scattered nature of the nunataks.",
+      "Lithologies include sheared, ser pentinized harzburgite, layered and isotropic gabbro and altered basalt.",
+      "The methods described here can also be applied to systems of parabolic equations involving strongly sheared advections such as those encountered in applications [5].",
+      "We opened the orchid pseudobulbs with pruning shears.",
+      "Relationship between horizontal displacement of the conical feeler and shearing force.",
+      "The electromagnetic coil is located beyond the outer edge of the shearing disk in the brake.",
+      "Cerebral atrophy increases the vulnerability of bridging veins to shearing forces and so the elderly are more susceptible.",
+      "The eclogite sheets and pods are generally sheared and retrogressed to amphibolites at the margins of such bodies."
     ],
-    "hash_code_list_definition_mean": "17532104"
+    "hash_code_list_example": "-686284147"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sheep_cb_dmean_5000_it.json",
@@ -2379,17 +1526,16 @@
         "id_image": "sheep_194983"
       }
     ],
-    "hash_code_list_img": "-1346044938",
-    "list_definition_mean": [
-      {
-        "mean_english": "con cừu",
-        "definition": "a kind of animal related to the goat, whose flesh is used as food and from whose wool clothing is made",
-        "ex_of_definition_list": [
-          "a flock of sheep."
-        ]
-      }
+    "hash_code_list_img": "84378391",
+    "list_example": [
+      "But since the late 1960s many sheep bones have surfaced in just such sites.",
+      "The value of circulating eosinophil count as a selection criterion for resistance of sheep to trichostrongyle parasites.",
+      "It will be interesting to find out whether this expression is evolutionarily conserved in other mammalian species (such as in sheep and mice).",
+      "Four groups of four sheep were formed, depending upon the average number of eggs deposited per gram of faeces after the prepatent period.",
+      "Quantitative trait loci for body weight in layers differ from quantitative trait loci specific for antibody responses to sheep red blood cells.",
+      "Molecular and cellular changes associated with maturation and early development of sheep eggs."
     ],
-    "hash_code_list_definition_mean": "1850813854"
+    "hash_code_list_example": "-709809273"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sheet_cb_dmean_5000_it.json",
@@ -2418,24 +1564,11 @@
         "id_image": "sheet_6396262"
       }
     ],
-    "hash_code_list_img": "2074365132",
-    "list_definition_mean": [
-      {
-        "mean_english": "khăn trải gường",
-        "definition": "a broad piece of cloth eg for a bed",
-        "ex_of_definition_list": [
-          "She put clean sheets on all the beds."
-        ]
-      },
-      {
-        "mean_english": "lá, tấm",
-        "definition": "a large, thin, usually flat, piece",
-        "ex_of_definition_list": [
-          "a sheet of paper/glass."
-        ]
-      }
+    "hash_code_list_img": "-80978665",
+    "list_example": [
+      "a sheet of paper/glass."
     ],
-    "hash_code_list_definition_mean": "1667129013"
+    "hash_code_list_example": "-1144767843"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shelf_cb_dmean_5000_it.json",
@@ -2469,18 +1602,20 @@
         "id_image": "shelf_5684090"
       }
     ],
-    "hash_code_list_img": "563351397",
-    "list_definition_mean": [
-      {
-        "mean_english": "giá",
-        "definition": "a board for laying things on",
-        "ex_of_definition_list": [
-          "There are shelves on the kitchen walls",
-          "I’m thinking of putting up a set of shelves in he study."
-        ]
-      }
+    "hash_code_list_img": "-559395279",
+    "list_example": [
+      "There are shelves on the kitchen walls",
+      "I’m thinking of putting up a set of shelves in he study.",
+      "The book 'the old lady' found has been lost, replaced upon the shelves.",
+      "In a flurry of activity, the woman and man behind the counter both grab at least twenty records from the shelves.",
+      "Close-up of steel shelves to support curtain of 27.",
+      "On the shelves are to be found the various components of the mechanism, incorporating the advantageous qualities of all systems.",
+      "Last night the books fell off the shelves.",
+      "A few men decorated their rooms and built shelves, book-cases and coffee-tables from discarded wood.",
+      "All nets were 12 x 2.5 m, with four shelves.",
+      "In the position of the future hard palate, two outgrowths occur from the maxillary swellings, known as the palatine shelves."
     ],
-    "hash_code_list_definition_mean": "1046286619"
+    "hash_code_list_example": "394075086"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shell_cb_dmean_5000_it.json",
@@ -2512,46 +1647,13 @@
         "id_image": "shell_874945"
       }
     ],
-    "hash_code_list_img": "1815667109",
-    "list_definition_mean": [
-      {
-        "mean_english": "vỏ, mai",
-        "definition": "the hard outer covering of a shellfish, egg, nut etc",
-        "ex_of_definition_list": [
-          "an eggshell",
-          "A tortoise can pull its head and legs under its shell."
-        ]
-      },
-      {
-        "mean_english": "cấu trúc tạo nên khung hoặc vỏ",
-        "definition": "an outer covering or framework",
-        "ex_of_definition_list": [
-          "After the fire, all that was left was the burned-out shell of the building."
-        ]
-      },
-      {
-        "mean_english": "quả đạn pháo, đạn súng cối",
-        "definition": "a metal case filled with explosives and fired from a gun etc",
-        "ex_of_definition_list": [
-          "A shell exploded right beside him."
-        ]
-      },
-      {
-        "mean_english": "bóc vỏ, lột vỏ",
-        "definition": "to remove from its shell or pod",
-        "ex_of_definition_list": [
-          "You have to shell peas before eating them."
-        ]
-      },
-      {
-        "mean_english": "bắn pháo, nã pháo",
-        "definition": "to fire explosive shells at",
-        "ex_of_definition_list": [
-          "The army shelled the enemy mercilessly."
-        ]
-      }
+    "hash_code_list_img": "815581269",
+    "list_example": [
+      "After the fire, all that was left was the burned-out shell of the building.",
+      "A shell exploded right beside him.",
+      "You have to shell peas before eating them."
     ],
-    "hash_code_list_definition_mean": "2046918049"
+    "hash_code_list_example": "182296515"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shelter_cb_dmean_5000_it.json",
@@ -2587,38 +1689,15 @@
         "id_image": "shelter_980782"
       }
     ],
-    "hash_code_list_img": "-847711838",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự che chở, sự ẩn náu",
-        "definition": "protection against wind, rain, enemies etc",
-        "ex_of_definition_list": [
-          "We gave the old man shelter for the night."
-        ]
-      },
-      {
-        "mean_english": "chỗ xây để che chắn",
-        "definition": "a building etc designed to give such protection",
-        "ex_of_definition_list": [
-          "a bus-shelter."
-        ]
-      },
-      {
-        "mean_english": "tìm chỗ ẩn náu",
-        "definition": "to be in, or go into, a place of shelter",
-        "ex_of_definition_list": [
-          "He sheltered from the storm."
-        ]
-      },
-      {
-        "mean_english": "che chở, bảo vệ",
-        "definition": "to give protection",
-        "ex_of_definition_list": [
-          "That line of trees shelters my garden."
-        ]
-      }
+    "hash_code_list_img": "1023310194",
+    "list_example": [
+      "We gave the old man shelter for the night.",
+      "He wrote therefore that he \"never knew the shelter of a roof between four or five o'clock in the morning till seven in the evening\".",
+      "This level of protection or shelter under diplomatic immunity did not exist for the majority of the individuals escaping from repression.",
+      "It provided a windbreak for crops, and shelter for animals, as well as protecting against the cattle of others.",
+      "The rain shelter did not alter the spectral composition of incoming radiation (data not presented)."
     ],
-    "hash_code_list_definition_mean": "-1274617962"
+    "hash_code_list_example": "324589098"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shepherd_cb_dmean_5000_it.json",
@@ -2642,24 +1721,11 @@
         "id_image": "shepherd_4033077"
       }
     ],
-    "hash_code_list_img": "-1369289010",
-    "list_definition_mean": [
-      {
-        "mean_english": "người chăn cừu",
-        "definition": "a person who looks after sheep",
-        "ex_of_definition_list": [
-          "The shepherd and his dog gathered in the sheep."
-        ]
-      },
-      {
-        "mean_english": "trông nom, hướng dẫn",
-        "definition": "(often with around, in, out etc) to guide or lead carefully",
-        "ex_of_definition_list": [
-          "He shepherded me through a maze of corridors."
-        ]
-      }
+    "hash_code_list_img": "-916338978",
+    "list_example": [
+      "The shepherd and his dog gathered in the sheep."
     ],
-    "hash_code_list_definition_mean": "-509696431"
+    "hash_code_list_example": "-2143707181"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sheriff_cb_dmean_5000_it.json",
@@ -2682,17 +1748,11 @@
         "id_image": "sheriff_3060315"
       }
     ],
-    "hash_code_list_img": "1918069488",
-    "list_definition_mean": [
-      {
-        "mean_english": "quận trưởng",
-        "definition": "in the United States, the chief law officer of a county, concerned with maintaining peace and order",
-        "ex_of_definition_list": [
-          "the sheriff of the county."
-        ]
-      }
+    "hash_code_list_img": "486068571",
+    "list_example": [
+      "the sheriff of the county."
     ],
-    "hash_code_list_definition_mean": "699017748"
+    "hash_code_list_example": "-131044685"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shield_cb_dmean_5000_it.json",
@@ -2719,44 +1779,14 @@
         "id_image": "shield_649082"
       }
     ],
-    "hash_code_list_img": "-2023263688",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái mộc, cái khiên",
-        "definition": "a broad piece of metal, wood etc carried as a protection against weapons",
-        "ex_of_definition_list": [
-          "The police were issued with riot shields."
-        ]
-      },
-      {
-        "mean_english": "người che chở, vật che chở",
-        "definition": "something or someone that protects",
-        "ex_of_definition_list": [
-          "A thick steel plate acted as a heat shield."
-        ]
-      },
-      {
-        "mean_english": "phần thưởng về chiến tích có hình cái khiên",
-        "definition": "a trophy shaped like a shield won in a sporting competition etc",
-        "ex_of_definition_list": [
-          "My son has won the archery shield."
-        ]
-      },
-      {
-        "mean_english": "bảo vệ, che chở",
-        "definition": "to protect",
-        "ex_of_definition_list": [
-          "The goggles shielded the motorcyclist’s eyes from dust."
-        ]
-      },
-      {
-        "mean_english": "chắn, che, che đậy",
-        "definition": "to prevent from being seen clearly",
-        "ex_of_definition_list": [
-          "That group of trees shields the house from the road."
-        ]
-      }
+    "hash_code_list_img": "1003578644",
+    "list_example": [
+      "The police were issued with riot shields.",
+      "A thick steel plate acted as a heat shield.",
+      "My son has won the archery shield.",
+      "The goggles shielded the motorcyclist’s eyes from dust.",
+      "That group of trees shields the house from the road."
     ],
-    "hash_code_list_definition_mean": "394328185"
+    "hash_code_list_example": "-1060034616"
   }
 ]

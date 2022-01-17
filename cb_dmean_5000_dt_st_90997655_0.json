@@ -22,31 +22,11 @@
         "id_image": "abandon_5906072"
       }
     ],
-    "hash_code_list_img": "1485279144",
-    "list_definition_mean": [
-      {
-        "mean_english": "từ bỏ",
-        "definition": "to leave, not intending to return to",
-        "ex_of_definition_list": [
-          "The bank robbers abandoned the stolen car."
-        ]
-      },
-      {
-        "mean_english": "hủy",
-        "definition": "to stop doing something because of a problem",
-        "ex_of_definition_list": [
-          "The match had to be abandoned because of the bad weather."
-        ]
-      },
-      {
-        "mean_english": "buông thả",
-        "definition": "to give (oneself) completely to something",
-        "ex_of_definition_list": [
-          "After his wife’s death, he abandoned himself to despair."
-        ]
-      }
+    "hash_code_list_img": "-2119560028",
+    "list_example": [
+      "However, they soon were forced to abandon these plans after running into a powerful barrage of criticism."
     ],
-    "hash_code_list_definition_mean": "1795803070"
+    "hash_code_list_example": "805902125"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/ability_cb_dmean_5000_it.json",
@@ -80,25 +60,17 @@
         "id_image": "ability_6078418"
       }
     ],
-    "hash_code_list_img": "-1555829000",
-    "list_definition_mean": [
-      {
-        "mean_english": "khả năng",
-        "definition": "the power, knowledge etc to do something",
-        "ex_of_definition_list": [
-          "She has the ability to win the race",
-          "I shall do the job to the best of my ability."
-        ]
-      },
-      {
-        "mean_english": "tài năng",
-        "definition": "a skill",
-        "ex_of_definition_list": [
-          "a man of many abilities."
-        ]
-      }
+    "hash_code_list_img": "1761042175",
+    "list_example": [
+      "She has the ability to win the race",
+      "The ability of this numerical method to consider non-isotropic initial data represents a decided advantage over other approaches.",
+      "The change trials tested the participants' ability to respond appropriately to relevant phonetic differences between tokens and distinguish stops drawn from two different categories.",
+      "Where communities are less well organized, the ability to use events to improve policy is reduced, even if policy making appears to be event-driven.",
+      "In conjunction, these properties of social-psychological research have impeded the development of theories with explanatory power and the ability to generate novel and nontrivial hypotheses.",
+      "The second part will consider evidence for teaching the ability and the impact of such instruction on reading comprehension development.",
+      "This is because their phonetic ability is low and their functional knowledge (in terms of the recoverability principle) is not yet developed."
     ],
-    "hash_code_list_definition_mean": "504705835"
+    "hash_code_list_example": "408839350"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/abroad_cb_dmean_5000_it.json",
@@ -117,24 +89,14 @@
         "id_image": "abroad_6213270"
       }
     ],
-    "hash_code_list_img": "51325140",
-    "list_definition_mean": [
-      {
-        "mean_english": "ở nước ngoài",
-        "definition": "in or to another country",
-        "ex_of_definition_list": [
-          "He lived abroad for many years."
-        ]
-      },
-      {
-        "mean_english": "lưu truyền rộng rãi",
-        "definition": "current; going around",
-        "ex_of_definition_list": [
-          "There’s a rumour/rumor abroad that she is leaving the company."
-        ]
-      }
+    "hash_code_list_img": "816440314",
+    "list_example": [
+      "He lived abroad for many years.",
+      "There’s a rumour/rumor abroad that she is leaving the company.",
+      "However, concerns about its microbiological safety still exist, with notable milkborne outbreaks of infectious intestinal disease occurring both at home and abroad in recent years.",
+      "As in the first cohort, the majority of the men raised abroad became unskilled workers."
     ],
-    "hash_code_list_definition_mean": "761645731"
+    "hash_code_list_example": "-1969111761"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/absent_cb_dmean_5000_it.json",
@@ -168,24 +130,11 @@
         "id_image": "absent_5110182"
       }
     ],
-    "hash_code_list_img": "481314467",
-    "list_definition_mean": [
-      {
-        "mean_english": "vắng mặt",
-        "definition": "not present",
-        "ex_of_definition_list": [
-          "Johnny was absent from school with a cold."
-        ]
-      },
-      {
-        "mean_english": "không có mặt",
-        "definition": "to keep (oneself) away",
-        "ex_of_definition_list": [
-          "He absented himself from the meeting."
-        ]
-      }
+    "hash_code_list_img": "113130184",
+    "list_example": [
+      "Johnny was absent from school with a cold."
     ],
-    "hash_code_list_definition_mean": "-1804098263"
+    "hash_code_list_example": "-1087380820"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/abstract_cb_dmean_5000_it.json",
@@ -225,38 +174,13 @@
         "id_image": "abstract_5360768"
       }
     ],
-    "hash_code_list_img": "602688877",
-    "list_definition_mean": [
-      {
-        "mean_english": "trừu tượng",
-        "definition": "(of a noun) referring to something which exists as an idea and which is not physically real",
-        "ex_of_definition_list": [
-          "Truth, poverty and bravery are abstract nouns."
-        ]
-      },
-      {
-        "mean_english": "tác phẩm trừu tượng",
-        "definition": "(of painting, sculpture etc) concerned with colour/color, shape, texture etc rather than showing things as they really appear",
-        "ex_of_definition_list": [
-          "an abstract painting."
-        ]
-      },
-      {
-        "mean_english": "trừu tượng",
-        "definition": "a painting, sculpture etc concerned with colour/color, shape, texture etc rather than showing things as they really appear",
-        "ex_of_definition_list": [
-          "She usually paints abstracts."
-        ]
-      },
-      {
-        "mean_english": "bản tóm tắt",
-        "definition": "a summary (of a book, article etc)",
-        "ex_of_definition_list": [
-          "All articles must be accompanied by an abstract of no more than 250 words."
-        ]
-      }
+    "hash_code_list_img": "321138180",
+    "list_example": [
+      "Truth, poverty and bravery are abstract nouns.",
+      "an abstract painting.",
+      "All articles must be accompanied by an abstract of no more than 250 words."
     ],
-    "hash_code_list_definition_mean": "808052765"
+    "hash_code_list_example": "2020535845"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/abundance_cb_dmean_5000_it.json",
@@ -274,18 +198,15 @@
         "id_image": "abundance_2191427"
       }
     ],
-    "hash_code_list_img": "678538416",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự nhiều",
-        "definition": "a large amount",
-        "ex_of_definition_list": [
-          "We were faced with an abundance of choice",
-          "There was food in abundance."
-        ]
-      }
+    "hash_code_list_img": "643570331",
+    "list_example": [
+      "We were faced with an abundance of choice",
+      "Quantitative trapping data are newly available that allow a study of abundance relations in tropical communities.",
+      "Ghosts may seem to elude serious scholars except as metaphor or atmosphere, but there is a surprising abundance of books about them.",
+      "Trophoblasts would seem ideal targets for fetal cell sorting efforts because of their abundance at the fetal-maternal interface.",
+      "The vertical line denotes the relative abundance of vertebrate remains in the various depositional environments."
     ],
-    "hash_code_list_definition_mean": "1727096673"
+    "hash_code_list_example": "-1847151387"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/abuse_cb_dmean_5000_it.json",
@@ -311,54 +232,12 @@
         "id_image": "abuse_6305790"
       }
     ],
-    "hash_code_list_img": "-923057061",
-    "list_definition_mean": [
-      {
-        "mean_english": "lạm dụng",
-        "definition": "to treat someone in a cruel or violent way",
-        "ex_of_definition_list": [
-          "He was accused of sexually abusing young boys."
-        ]
-      },
-      {
-        "mean_english": "lạm dụng",
-        "definition": "to use wrongly, usually with harmful results",
-        "ex_of_definition_list": [
-          "She abused her position by stealing public money."
-        ]
-      },
-      {
-        "mean_english": "sỉ nhục",
-        "definition": "to insult or speak roughly to",
-        "ex_of_definition_list": [
-          "She abused the servants."
-        ]
-      },
-      {
-        "mean_english": "sự sỉ vả",
-        "definition": "insulting language",
-        "ex_of_definition_list": [
-          "He shouted abuse at her."
-        ]
-      },
-      {
-        "mean_english": "lạm dụng",
-        "definition": "cruel or violent treatment of someone",
-        "ex_of_definition_list": [
-          "She filed a case of physical abuse against her husband",
-          "child abuse",
-          "sexual abuse."
-        ]
-      },
-      {
-        "mean_english": "sự lạm dụng",
-        "definition": "the wrong use of something",
-        "ex_of_definition_list": [
-          "This machine has been subjected to a lot of abuse."
-        ]
-      }
+    "hash_code_list_img": "-1976225221",
+    "list_example": [
+      "He shouted abuse at her.",
+      "She filed a case of physical abuse against her husband"
     ],
-    "hash_code_list_definition_mean": "958261092"
+    "hash_code_list_example": "-1989040978"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/academic_cb_dmean_5000_it.json",
@@ -394,38 +273,12 @@
         "id_image": "academic_5350999"
       }
     ],
-    "hash_code_list_img": "-1696665784",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc trường đại học",
-        "definition": "of or concerning study especially in schools, colleges etc",
-        "ex_of_definition_list": [
-          "an academic career."
-        ]
-      },
-      {
-        "mean_english": "lý thuyết suông",
-        "definition": "if something being discussed is academic, it cannot be changed and is therefore not important",
-        "ex_of_definition_list": [
-          "The issue is now academic because we do not have enough funding for the project."
-        ]
-      },
-      {
-        "mean_english": "hàn lâm",
-        "definition": "good at studying",
-        "ex_of_definition_list": [
-          "He wasn’t very academic, and preferred playing sports."
-        ]
-      },
-      {
-        "mean_english": "học viện",
-        "definition": "a university or college teacher",
-        "ex_of_definition_list": [
-          "Academics are concerned about rising tuition fees."
-        ]
-      }
+    "hash_code_list_img": "1951142051",
+    "list_example": [
+      "an academic career.",
+      "The issue is now academic because we do not have enough funding for the project."
     ],
-    "hash_code_list_definition_mean": "-1010656684"
+    "hash_code_list_example": "209501062"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/academy_cb_dmean_5000_it.json",
@@ -450,24 +303,20 @@
         "id_image": "academy_530000"
       }
     ],
-    "hash_code_list_img": "-959010367",
-    "list_definition_mean": [
-      {
-        "mean_english": "học viện",
-        "definition": "a higher school for special study",
-        "ex_of_definition_list": [
-          "She is studying at the Academy of Music."
-        ]
-      },
-      {
-        "mean_english": "hội các học giả",
-        "definition": "a society to encourage science, art etc",
-        "ex_of_definition_list": [
-          "The Royal Academy."
-        ]
-      }
+    "hash_code_list_img": "-1591136630",
+    "list_example": [
+      "She is studying at the Academy of Music.",
+      "The Royal Academy.",
+      "The sons of impoverished farmers poured into the military academies and increasingly turned against corrupt urban politicians.",
+      "Youth academies and youth development programmes will be threatened.",
+      "What is distinctive about the city academies when compared to city technology colleges and our specialist schools?",
+      "No provision for expenditure on technology academies was made in either 1987–88 or 1988–89.",
+      "We have not discussed the proposals on school organisation, which would allow the setting up of academies and other new schools.",
+      "The first relates to the need for proper consultation with local education authorities on the establishment of city academies.",
+      "Is it to sit in our academies and insist that we know the truth, we are the experts who can say that it was not so?",
+      "A casual look at the academies might give the impression that they were mostly social in nature, that they functioned as a pastime for bored aristocrats and ambitious letterati."
     ],
-    "hash_code_list_definition_mean": "1517414045"
+    "hash_code_list_example": "75428622"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/accelerator_cb_dmean_5000_it.json",
@@ -490,17 +339,19 @@
         "id_image": "accelerator_1924207"
       }
     ],
-    "hash_code_list_img": "24965438",
-    "list_definition_mean": [
-      {
-        "mean_english": "chân ga; máy gia tốc",
-        "definition": "a pedal, lever etc that controls the speed or acceleration of a machine; gas pedal American",
-        "ex_of_definition_list": [
-          "He put his foot down on the accelerator."
-        ]
-      }
+    "hash_code_list_img": "-2099463669",
+    "list_example": [
+      "He put his foot down on the accelerator.",
+      "Colleagues' sharp-edged comments that he just did not understand why accelerators were needed, however, did not entirely capture his attitude.",
+      "Quality assurance tests were carried out using an anthropomorphic phantom and found no systematic error between simulator and linear accelerators.",
+      "Progress on plasma accelerators: from the energy frontier to tabletops.",
+      "Plasma accelerators at the energy frontier and on table-tops.",
+      "The use of plasma waveguides as accelerating structures in linear accelerators.",
+      "We propose to use this effect as a plasma diagnostic tool, utilizing monoenergetic, well-collimated electron or proton beams produced either by femtosecond laser plasma interactions or by accelerators.",
+      "The ampoules, with pistons being mounted at the top of them, were set in motion by means of gas accelerators.",
+      "The on-axis density minimum features of these two channels make both of them suitable guiding channels for the laser wakefield accelerators."
     ],
-    "hash_code_list_definition_mean": "925829816"
+    "hash_code_list_example": "-1863416837"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/accept_cb_dmean_5000_it.json",
@@ -536,47 +387,12 @@
         "id_image": "accepted_6182807"
       }
     ],
-    "hash_code_list_img": "617914930",
-    "list_definition_mean": [
-      {
-        "mean_english": "chấp nhận",
-        "definition": "to take (something offered)",
-        "ex_of_definition_list": [
-          "She graciously accepted the gift."
-        ]
-      },
-      {
-        "mean_english": "thừa nhận",
-        "definition": "to believe in, agree to or acknowledge",
-        "ex_of_definition_list": [
-          "We accept your account of what happened",
-          "Their proposal was accepted",
-          "He accepted responsibility for the accident."
-        ]
-      },
-      {
-        "mean_english": "chấp thuận",
-        "definition": "to allow someone to join an organization, attend a university course etc",
-        "ex_of_definition_list": [
-          "She got accepted to her top-choice college."
-        ]
-      },
-      {
-        "mean_english": "nhận",
-        "definition": "to make someone new feel welcome and part of a group",
-        "ex_of_definition_list": [
-          "New residents are accepted gladly into the community."
-        ]
-      },
-      {
-        "mean_english": "chấp nhận",
-        "definition": "to allow customers to pay for goods or services in a particular way",
-        "ex_of_definition_list": [
-          "Do you accept credit cards?"
-        ]
-      }
+    "hash_code_list_img": "441984057",
+    "list_example": [
+      "We accept your account of what happened",
+      "Do you accept credit cards?"
     ],
-    "hash_code_list_definition_mean": "-103156170"
+    "hash_code_list_example": "2045969300"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/accessible_cb_dmean_5000_it.json",
@@ -610,24 +426,18 @@
         "id_image": "access_5967085"
       }
     ],
-    "hash_code_list_img": "-963249968",
-    "list_definition_mean": [
-      {
-        "mean_english": "có thể tới được",
-        "definition": "(opposite inaccessible) (of a person or place) able to be reached or approached easily",
-        "ex_of_definition_list": [
-          "His house is not accessible by car."
-        ]
-      },
-      {
-        "mean_english": "gần gũi",
-        "definition": "easy to understand",
-        "ex_of_definition_list": [
-          "Her novels are very accessible."
-        ]
-      }
+    "hash_code_list_img": "-662595103",
+    "list_example": [
+      "His house is not accessible by car.",
+      "An oral tradition can and will adapt from one generation to the next, repeating its content in a form more readily accessible to the hearers.",
+      "As we suggested earlier, one possibility is that working-class identifiers believe politics is less relevant or less accessible to members of their class.",
+      "The instrument should be readily accessible to trained string players, but is designed to fill a particular role in computer or amplified music.",
+      "It presents the results of scholarly work in an accessible form, while at the same time responding to current events.",
+      "First, comparable data does not appear to be easily accessible today.",
+      "It is extremely helpful to have these debates in an accessible modern edition.",
+      "In such uses, definite nominal gerunds draw on accessible knowledge on the part of the speaker for the identification of the event they refer to."
     ],
-    "hash_code_list_definition_mean": "-1024337037"
+    "hash_code_list_example": "955682305"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/accessory_cb_dmean_5000_it.json",
@@ -661,24 +471,11 @@
         "id_image": "accessory_5220024"
       }
     ],
-    "hash_code_list_img": "-501506319",
-    "list_definition_mean": [
-      {
-        "mean_english": "đồ phụ tùng",
-        "definition": "something additional (eg a handbag, scarf, shoes etc to the main part of a woman’s clothing, or a radio, seat-covers etc to a car)",
-        "ex_of_definition_list": [
-          "She wore matching accessories."
-        ]
-      },
-      {
-        "mean_english": "kẻ đồng loã",
-        "definition": "a person who helps somebody, especially a criminal",
-        "ex_of_definition_list": [
-          "He was charged with being an accessory to murder."
-        ]
-      }
+    "hash_code_list_img": "989204704",
+    "list_example": [
+      "He was charged with being an accessory to murder."
     ],
-    "hash_code_list_definition_mean": "-901917663"
+    "hash_code_list_example": "905855761"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/access_cb_dmean_5000_it.json",
@@ -708,31 +505,19 @@
         "id_image": "access_4198534"
       }
     ],
-    "hash_code_list_img": "-1312009882",
-    "list_definition_mean": [
-      {
-        "mean_english": "đường vào",
-        "definition": "way or right of approach or entry",
-        "ex_of_definition_list": [
-          "The thieves gained access to the house through a window."
-        ]
-      },
-      {
-        "mean_english": "sự tiếp cận",
-        "definition": "way or right to meet (someone) or use (something)",
-        "ex_of_definition_list": [
-          "Senior students have access to the library at weekends."
-        ]
-      },
-      {
-        "mean_english": "truy cập",
-        "definition": "to find and use information on a computer",
-        "ex_of_definition_list": [
-          "I’m having problems accessing the relevant files."
-        ]
-      }
+    "hash_code_list_img": "-1316762217",
+    "list_example": [
+      "The thieves gained access to the house through a window.",
+      "Senior students have access to the library at weekends.",
+      "Under this account, if children's lexical representations are stored as sub-units, they are then able to access more stable units with increased accuracy.",
+      "Distributed representations of structure : a theory of analogical access and mapping.",
+      "It also reports on how the students appreciated access to a large number of authentic, relevant examples.",
+      "Men, women and children in vulnerable livelihood systems negotiate different activity roles and access patterns to household capital.",
+      "There is also a witnesses' room with separate access to the court - a last-minute addition to the plans, primarily intended for women.",
+      "The working plans included construction of forest access roads at fairly high labour cost.",
+      "Possibly, this urban market absorbed part of the area's rural workforce, thereby lightening the pressure on those who sought access to arable land."
     ],
-    "hash_code_list_definition_mean": "2127780564"
+    "hash_code_list_example": "799738969"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/accident_cb_dmean_5000_it.json",
@@ -761,24 +546,14 @@
         "id_image": "accident_4350974"
       }
     ],
-    "hash_code_list_img": "724880231",
-    "list_definition_mean": [
-      {
-        "mean_english": "tai nạn",
-        "definition": "an unexpected happening, often harmful, causing injury etc",
-        "ex_of_definition_list": [
-          "a car/road/traffic accident."
-        ]
-      },
-      {
-        "mean_english": "sự tình cờ",
-        "definition": "chance",
-        "ex_of_definition_list": [
-          "I met her by accident in the supermarket."
-        ]
-      }
+    "hash_code_list_img": "1626141646",
+    "list_example": [
+      "I met her by accident in the supermarket.",
+      "It is surely no accident that this particular formulation, 'amor de lonh', has come to encapsulate the basic experience of 'courtly love'.",
+      "For example, a funny or embarrassing incident, a frightening story, accident or danger, or a time you got into trouble with your parents.",
+      "Drop-in centres for adolescents: planned to develop existing scheme to include accident prevention."
     ],
-    "hash_code_list_definition_mean": "-990874769"
+    "hash_code_list_example": "1610086045"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/accommodation_cb_dmean_5000_it.json",
@@ -806,17 +581,14 @@
         "id_image": "accommodation_6213279"
       }
     ],
-    "hash_code_list_img": "1543359399",
-    "list_definition_mean": [
-      {
-        "mean_english": "chỗ ở",
-        "definition": "room(s) in a house or hotel in which to live, especially for a short time",
-        "ex_of_definition_list": [
-          "It is difficult to find cheap accommodation in London in August."
-        ]
-      }
+    "hash_code_list_img": "72412117",
+    "list_example": [
+      "It is difficult to find cheap accommodation in London in August.",
+      "The implicit scoping modification induced by binding operations prevents them from accommodation into the usual apparatus within free algebras (abstract syntax).",
+      "He was frustrated by the time and accommodation for music and in the end only taught a few lessons.",
+      "This scheme showed that rehabilitation of historic buildings could provide accommodation at affordable prices for the less affluent."
     ],
-    "hash_code_list_definition_mean": "1178270349"
+    "hash_code_list_example": "-2119152748"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/accomplishment_cb_dmean_5000_it.json",
@@ -845,24 +617,11 @@
         "id_image": "accomplish_5520767"
       }
     ],
-    "hash_code_list_img": "-1001808338",
-    "list_definition_mean": [
-      {
-        "mean_english": "tài năng",
-        "definition": "a special skill",
-        "ex_of_definition_list": [
-          "Her accomplishments include being able to speak several foreign languages."
-        ]
-      },
-      {
-        "mean_english": "sự hoàn thành",
-        "definition": "the act of completing something",
-        "ex_of_definition_list": [
-          "Hard work resulted in the accomplishment of his aim to become a self-made businessman."
-        ]
-      }
+    "hash_code_list_img": "-849974790",
+    "list_example": [
+      "Hard work resulted in the accomplishment of his aim to become a self-made businessman."
     ],
-    "hash_code_list_definition_mean": "1023354389"
+    "hash_code_list_example": "-1853728669"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/accomplish_cb_dmean_5000_it.json",
@@ -890,17 +649,14 @@
         "id_image": "accomplish_5520767"
       }
     ],
-    "hash_code_list_img": "414163825",
-    "list_definition_mean": [
-      {
-        "mean_english": "hoàn thành",
-        "definition": "to complete (something) successfully",
-        "ex_of_definition_list": [
-          "He had accomplished everything he had intended to do."
-        ]
-      }
+    "hash_code_list_img": "15532114",
+    "list_example": [
+      "However, a single syntactic processor can accomplish self-monitoring by switching between encoding and decoding modes (\"timesharing\").",
+      "But this balancing act is quite difficult to accomplish given that the first problem for the cosmopolite is deciding whose values are selected as universal.",
+      "Our purpose here is to accomplish this result deterministically by means of a construction that is explicit in a sense to be described precisely below.",
+      "It would have been useful if the editors had been able to accomplish a similar thing regarding the topic of whether pensions are net saving."
     ],
-    "hash_code_list_definition_mean": "1361755972"
+    "hash_code_list_example": "-1377991777"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/accordion_cb_dmean_5000_it.json",
@@ -933,17 +689,15 @@
         "id_image": "accordion_848210"
       }
     ],
-    "hash_code_list_img": "-1448406248",
-    "list_definition_mean": [
-      {
-        "mean_english": "đàn ăc-cooc",
-        "definition": "a musical instrument with bellows and a keyboard",
-        "ex_of_definition_list": [
-          "Do you know how to play the accordion?"
-        ]
-      }
+    "hash_code_list_img": "-672263830",
+    "list_example": [
+      "Up to the 1970s the singers were usually, although with notable exceptions, the composers of vallenato as well as the accordion players.",
+      "Gramophone now also recorded an increasing number of comic singers and accordion players.",
+      "In version 3, the first section is marked piano and features a static dissonant accompaniment for two flutes, accordion and piano.",
+      "Although the size of the user group was small (five unpaid subjects), a relatively wide range of musical experience was represented, ranging from an accordion player to a music teacher.",
+      "Moreover, the accordion becomes the signifying sonority of a sung genre whose lyrical and narrative characteristics come to represent one of its highest aesthetic values."
     ],
-    "hash_code_list_definition_mean": "2057313272"
+    "hash_code_list_example": "-988525614"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/accountable_cb_dmean_5000_it.json",
@@ -966,17 +720,16 @@
         "id_image": "accountable_5906144"
       }
     ],
-    "hash_code_list_img": "-1932764968",
-    "list_definition_mean": [
-      {
-        "mean_english": "chịu trách nhiệm",
-        "definition": "responsible for your actions and willing to explain them",
-        "ex_of_definition_list": [
-          "He was held accountable for the disappearance of the money."
-        ]
-      }
+    "hash_code_list_img": "1236002984",
+    "list_example": [
+      "He was held accountable for the disappearance of the money.",
+      "The blood banks are legally accountable for blood safety.",
+      "Without such connection, we are not responsible, that is, we are not prima facie accountable for the outcome. 33.",
+      "Unlike legislative bodies, courts are not directly accountable to voters, and at least in theory, they are not influenced by public opinion.",
+      "The mean percentage of glucose uptake accountable for by lactate production in the presence of ouabain was 92%.",
+      "In settings where responsibility for policy making is most clear, incumbent politicians are held accountable for macroeconomic performances."
     ],
-    "hash_code_list_definition_mean": "778925785"
+    "hash_code_list_example": "984007200"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/accountant_cb_dmean_5000_it.json",
@@ -1004,17 +757,14 @@
         "id_image": "accountant_2644533"
       }
     ],
-    "hash_code_list_img": "2134836979",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhân viên kế toán",
-        "definition": "a keeper or inspector of (financial) accounts",
-        "ex_of_definition_list": [
-          "He employs an accountant to deal with his tax affairs."
-        ]
-      }
+    "hash_code_list_img": "2005936444",
+    "list_example": [
+      "He employs an accountant to deal with his tax affairs.",
+      "He was accountant to the overseers and highway surveyors, and clerk to the local friendly society.",
+      "Many people therefore have a social schema for accountant that includes links to personality traits or to groupmembership categories such as gender and class.",
+      "Consequently, the role of social accountant is detached from that of political agent."
     ],
-    "hash_code_list_definition_mean": "2100297884"
+    "hash_code_list_example": "1429411030"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/account_cb_dmean_5000_it.json",
@@ -1051,46 +801,20 @@
         "id_image": "account_2867567"
       }
     ],
-    "hash_code_list_img": "-1525527118",
-    "list_definition_mean": [
-      {
-        "mean_english": "tài khoản",
-        "definition": "an arrangement by which a person keeps his or her money in a bank",
-        "ex_of_definition_list": [
-          "I have (opened) an account with the local bank."
-        ]
-      },
-      {
-        "mean_english": "bản kê khai",
-        "definition": "a statement of money owing",
-        "ex_of_definition_list": [
-          "Send me an account of the money which I owe."
-        ]
-      },
-      {
-        "mean_english": "sự miêu tả",
-        "definition": "a description or explanation (of something that has happened)",
-        "ex_of_definition_list": [
-          "He gave us a full account of his visit to Vienna."
-        ]
-      },
-      {
-        "mean_english": "trả góp",
-        "definition": "an arrangement by which a person makes a regular (eg monthly) payment instead of paying at the time of buying",
-        "ex_of_definition_list": [
-          "I have an account at Smiths."
-        ]
-      },
-      {
-        "mean_english": "báo cáo thu chi",
-        "definition": "a record of money received and spent",
-        "ex_of_definition_list": [
-          "You must keep your accounts in order",
-          "(also adjective) an account book."
-        ]
-      }
+    "hash_code_list_img": "-1303392162",
+    "list_example": [
+      "I have (opened) an account with the local bank.",
+      "Send me an account of the money which I owe.",
+      "He gave us a full account of his visit to Vienna.",
+      "I have an account at Smiths.",
+      "(also adjective) an account book.",
+      "Instead, the person seeking self-insight must employ a priori causal theories to account for his or her own psychological operations.",
+      "His contribution contains the most detailed phonetic analysis, taking into account not only prosodic features but segmental characteristics as well.",
+      "The author is quick to point out, however, that the models reviewed do not account for all error data.",
+      "Yet the attempt to account for the value of happiness in purely hedonic terms seems to miss something.",
+      "The intercept was assumed to be random in order to take within-subject correlations of the dependent variables into account for statistical inference."
     ],
-    "hash_code_list_definition_mean": "-52459195"
+    "hash_code_list_example": "393484447"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/accumulator_cb_dmean_5000_it.json",
@@ -1123,17 +847,14 @@
         "id_image": "accumulator_3899012"
       }
     ],
-    "hash_code_list_img": "-92543673",
-    "list_definition_mean": [
-      {
-        "mean_english": "ắc quy",
-        "definition": "a type of electric battery",
-        "ex_of_definition_list": [
-          "An accumulator powers the motor."
-        ]
-      }
+    "hash_code_list_img": "956254370",
+    "list_example": [
+      "An accumulator powers the motor.",
+      "The contents of each accumulator must be stored in memory, so that the products of each can be compared with one another.",
+      "This could result in either total elimination of accumulators or the replacement of one accumulator by another (hopefully cheaper one).",
+      "Similar analysis applies to definitions of multiplication and other recursive functions where we use a variable as an accumulator to store the result."
     ],
-    "hash_code_list_definition_mean": "350099744"
+    "hash_code_list_example": "-1507623245"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/accurate_cb_dmean_5000_it.json",
@@ -1152,24 +873,19 @@
         "id_image": "accurate_4413658"
       }
     ],
-    "hash_code_list_img": "1784053658",
-    "list_definition_mean": [
-      {
-        "mean_english": "đúng đắn",
-        "definition": "exactly right",
-        "ex_of_definition_list": [
-          "a technically accurate drawing of the building."
-        ]
-      },
-      {
-        "mean_english": "chính xác",
-        "definition": "making no mistakes",
-        "ex_of_definition_list": [
-          "an accurate memory."
-        ]
-      }
+    "hash_code_list_img": "1226803280",
+    "list_example": [
+      "a technically accurate drawing of the building.",
+      "an accurate memory.",
+      "The approach towards accurate functionals has instead been to study model systems for which very accurate functionals can be derived.",
+      "In contrast, when comparing the maps for topic 5 it seems that the minutes give an accurate account of the discussions that took place.",
+      "Sensitivity and flexibility are needed for engaging with individual families, but accurate measurement is needed for systems control.",
+      "For example, a no boundary extension rule would result in more accurate representations but in less predictive coverage.",
+      "One or more of the religions may, in fact, offer descriptions of that order that are substantially more accurate than the others.",
+      "No single theory is able to provide an accurate theoretical estimate of the thermodynamic properties of matter in the entire phase plane.",
+      "This model of the physical problem appears to be reasonable for y1/y2 > 3 and becomes more accurate as y1/y2increases."
     ],
-    "hash_code_list_definition_mean": "-1620532428"
+    "hash_code_list_example": "-48042023"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/ache_cb_dmean_5000_it.json",
@@ -1204,31 +920,11 @@
         "id_image": "ache_5775353"
       }
     ],
-    "hash_code_list_img": "-368207148",
-    "list_definition_mean": [
-      {
-        "mean_english": "đau",
-        "definition": "a continuous pain",
-        "ex_of_definition_list": [
-          "I have an ache in my stomach."
-        ]
-      },
-      {
-        "mean_english": "bị đau",
-        "definition": "to be in continuous pain",
-        "ex_of_definition_list": [
-          "My tooth aches."
-        ]
-      },
-      {
-        "mean_english": "khát khao",
-        "definition": "to have a great desire",
-        "ex_of_definition_list": [
-          "She was aching to tell him the news."
-        ]
-      }
+    "hash_code_list_img": "-1818584105",
+    "list_example": [
+      "I have an ache in my stomach."
     ],
-    "hash_code_list_definition_mean": "1923300347"
+    "hash_code_list_example": "-1475802610"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/achieve_cb_dmean_5000_it.json",
@@ -1261,17 +957,11 @@
         "id_image": "achieve_5139999"
       }
     ],
-    "hash_code_list_img": "-2095328010",
-    "list_definition_mean": [
-      {
-        "mean_english": "đạt được",
-        "definition": "to gain or reach successfully",
-        "ex_of_definition_list": [
-          "Steve achieved his ambition of becoming a pilot."
-        ]
-      }
+    "hash_code_list_img": "428572088",
+    "list_example": [
+      "If there is a government policy that allows the decentralized economy to achieve the constrained planner's allocation, then it is the optimal policy choice."
     ],
-    "hash_code_list_definition_mean": "890085688"
+    "hash_code_list_example": "-1199742517"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/acidity_cb_dmean_5000_it.json",
@@ -1294,17 +984,18 @@
         "id_image": "acidity_4172834"
       }
     ],
-    "hash_code_list_img": "-1556486021",
-    "list_definition_mean": [
-      {
-        "mean_english": "tính a-xít",
-        "definition": "the quality of containing acid or too much acid",
-        "ex_of_definition_list": [
-          "the acidity of the soil."
-        ]
-      }
+    "hash_code_list_img": "1079848302",
+    "list_example": [
+      "the acidity of the soil.",
+      "Higher rates of liming caused greater reductions in exchangeable acidity (p 5 0.05).",
+      "The catalysis of phosphodiester bond formation is ascribed to the orientation of adsorbed monomers and the acidity of the surface.",
+      "Amelioration of subsurface acidity by leaching of surface applied amendments.",
+      "In his fourth paper (1930) he finds acidity fatal.",
+      "Solute gradients in oral biofilms also account for the local acidity that causes caries.",
+      "Liming reduces soil acidity and increases the availability of certain plant nutrients in the soil.",
+      "This is further compounded by soil acidity and associated aluminium toxicity."
     ],
-    "hash_code_list_definition_mean": "677007362"
+    "hash_code_list_example": "871423086"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/acid_cb_dmean_5000_it.json",
@@ -1325,38 +1016,19 @@
         "id_image": "acid_5671351"
       }
     ],
-    "hash_code_list_img": "1631143091",
-    "list_definition_mean": [
-      {
-        "mean_english": "chất chua",
-        "definition": "(of taste) sharp or sour",
-        "ex_of_definition_list": [
-          "Lemons and limes are acid fruits."
-        ]
-      },
-      {
-        "mean_english": "mỉa mai",
-        "definition": "sarcastic",
-        "ex_of_definition_list": [
-          "acid humour/humor."
-        ]
-      },
-      {
-        "mean_english": "có chứa axít",
-        "definition": "containing acid",
-        "ex_of_definition_list": [
-          "acid soil."
-        ]
-      },
-      {
-        "mean_english": "a-xít",
-        "definition": "a substance, containing hydrogen, which will dissolve metals etc",
-        "ex_of_definition_list": [
-          "She spilt/spilled some acid which burned a hole in her dress."
-        ]
-      }
+    "hash_code_list_img": "42007324",
+    "list_example": [
+      "Lemons and limes are acid fruits.",
+      "acid humour/humor.",
+      "acid soil.",
+      "She spilt/spilled some acid which burned a hole in her dress.",
+      "It must be borne in mind always that the efficacy of a vaccine depends on more than the primary amino acid sequence of the antigen.",
+      "The energy taken up by the sorbent is transferred to the adsorbed substances, both water and acid molecules.",
+      "How different amino acid sequences determine similar protein structures : the structure and evolutionary dynamics of the globins.",
+      "Moreover, the high proportion of isolates resistant to kanamycin and nalidixic acid is striking.",
+      "While some stearic acid was extracted from most of the batches, yields are less than those obtained by liquid-liquid extraction for all sample batches."
     ],
-    "hash_code_list_definition_mean": "1870869327"
+    "hash_code_list_example": "-2104595480"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/acne_cb_dmean_5000_it.json",
@@ -1389,17 +1061,14 @@
         "id_image": "acne_4110189"
       }
     ],
-    "hash_code_list_img": "-921284511",
-    "list_definition_mean": [
-      {
-        "mean_english": "trứng cá",
-        "definition": "a common skin disease that causes pimples",
-        "ex_of_definition_list": [
-          "Acne is common among teenagers."
-        ]
-      }
+    "hash_code_list_img": "-476654908",
+    "list_example": [
+      "Research is conducted on health promotion and injury prevention, disease prevention, growth and development, and on innovative treatments for diseases ranging from acne to childhood cancers.",
+      "Primary care nurses will be in the frontline of dermatology prescribing in the future and this article explores some of the issues, using acne as an example.",
+      "The article then discusses nurse prescribing for acne vulgaris.",
+      "He gave me a recipe for getting rid of acne spots."
     ],
-    "hash_code_list_definition_mean": "1468685575"
+    "hash_code_list_example": "1130634050"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/acoustic_cb_dmean_5000_it.json",
@@ -1418,24 +1087,12 @@
         "id_image": "acoustic_352256"
       }
     ],
-    "hash_code_list_img": "1905486513",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc âm thanh",
-        "definition": "having to do with hearing or with sound",
-        "ex_of_definition_list": [
-          "The acoustic qualities of the concert hall are remarkable."
-        ]
-      },
-      {
-        "mean_english": "đàn acoustic",
-        "definition": "an acoustic instrument or performance is natural and not produced using electronic equipment",
-        "ex_of_definition_list": [
-          "an acoustic guitar."
-        ]
-      }
+    "hash_code_list_img": "1529457536",
+    "list_example": [
+      "The acoustic qualities of the concert hall are remarkable.",
+      "an acoustic guitar."
     ],
-    "hash_code_list_definition_mean": "1984770117"
+    "hash_code_list_example": "1308354105"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/acquire_cb_dmean_5000_it.json",
@@ -1474,24 +1131,12 @@
         "id_image": "acquisition_5024694"
       }
     ],
-    "hash_code_list_img": "132722954",
-    "list_definition_mean": [
-      {
-        "mean_english": "thu được",
-        "definition": "to get",
-        "ex_of_definition_list": [
-          "He acquired a lot of interesting antiques over the course of his life."
-        ]
-      },
-      {
-        "mean_english": "học được",
-        "definition": "to learn",
-        "ex_of_definition_list": [
-          "She acquired a working knowledge of Chinese."
-        ]
-      }
+    "hash_code_list_img": "-1235906194",
+    "list_example": [
+      "Then, through the paths of the digraph representing the design problem decomposition, the dependent descriptor will eventually acquire its value.",
+      "Nevertheless, we consider them here for their insight into systems that acquire representations appropriate for a cognitive domain through a learning process."
     ],
-    "hash_code_list_definition_mean": "-213790355"
+    "hash_code_list_example": "336053766"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/acquisition_cb_dmean_5000_it.json",
@@ -1530,24 +1175,18 @@
         "id_image": "acquisition_5024694"
       }
     ],
-    "hash_code_list_img": "1484723174",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự giành được",
-        "definition": "the act of acquiring",
-        "ex_of_definition_list": [
-          "The public support the acquisition of more land to protect wildlife."
-        ]
-      },
-      {
-        "mean_english": "cái giành được",
-        "definition": "something acquired",
-        "ex_of_definition_list": [
-          "Her recent acquisitions included a piano."
-        ]
-      }
+    "hash_code_list_img": "-434957973",
+    "list_example": [
+      "The public support the acquisition of more land to protect wildlife.",
+      "The existence of discrete levels of critical water potential is suggestive of specific stresses that cells must accommodate during the acquisition of desiccation tolerance.",
+      "The long-term solution to the acquisition of adequate scientific manpower is training in the countries concerned.",
+      "Attempts to alter practice have generally focused on the acquisition of knowledge and skills, and although important, these are not sufficient.",
+      "Could it account for language acquisition and the ability to talk about things that are far removed in time and space?",
+      "At the same time, urban life-styles and the acquisition of new rights and opportunities radically changed women's expectations and collective self-image.",
+      "Just as important as the need for a sufficient income was the acquisition of the skills required to run a household.",
+      "One of the theoretical limitations of existing second-language acquisition theories is the dependence upon the notion of integrativeness to explain success in second-language acquisition."
     ],
-    "hash_code_list_definition_mean": "-471639649"
+    "hash_code_list_example": "-355942876"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/acrobatics_cb_dmean_5000_it.json",
@@ -1580,17 +1219,12 @@
         "id_image": "acrobatic_4576034"
       }
     ],
-    "hash_code_list_img": "2023717893",
-    "list_definition_mean": [
-      {
-        "mean_english": "các động tác nhào lộn",
-        "definition": "acrobatic performances",
-        "ex_of_definition_list": [
-          "The children danced and performed acrobatics."
-        ]
-      }
+    "hash_code_list_img": "-1691372772",
+    "list_example": [
+      "That feat of accounting acrobatics has rarely been paralleled since then.",
+      "No intellectual acrobatics can render plausible the inference of the \"laws of history\" from an analysis of differential dynamical systems."
     ],
-    "hash_code_list_definition_mean": "540315767"
+    "hash_code_list_example": "-1282045451"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/acrobat_cb_dmean_5000_it.json",
@@ -1623,17 +1257,12 @@
         "id_image": "acrobatic_4576034"
       }
     ],
-    "hash_code_list_img": "-1607142840",
-    "list_definition_mean": [
-      {
-        "mean_english": "diễn viên nhào lộn",
-        "definition": "a person in a circus etc who performs gymnastics",
-        "ex_of_definition_list": [
-          "Acrobats were swinging on a trapeze."
-        ]
-      }
+    "hash_code_list_img": "-1115719708",
+    "list_example": [
+      "I have had to be a bit of an acrobat at times.",
+      "He said he felt like an actor or an acrobat on a stage."
     ],
-    "hash_code_list_definition_mean": "76379070"
+    "hash_code_list_example": "877289457"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/action_cb_dmean_5000_it.json",
@@ -1671,55 +1300,15 @@
         "id_image": "action_1900154"
       }
     ],
-    "hash_code_list_img": "-23480769",
-    "list_definition_mean": [
-      {
-        "mean_english": "hành động",
-        "definition": "something done",
-        "ex_of_definition_list": [
-          "Action, not talking, is necessary if we are to defeat the enemy",
-          "You’ll have to take action immediately",
-          "The firemen are ready to go into action."
-        ]
-      },
-      {
-        "mean_english": "động tác",
-        "definition": "movement",
-        "ex_of_definition_list": [
-          "Tennis needs a good wrist action."
-        ]
-      },
-      {
-        "mean_english": "vụ kiện",
-        "definition": "a legal case",
-        "ex_of_definition_list": [
-          "He brought an action for divorce against his wife."
-        ]
-      },
-      {
-        "mean_english": "sự kiện",
-        "definition": "the events (of a play, film etc)",
-        "ex_of_definition_list": [
-          "The action of the play takes place on an island."
-        ]
-      },
-      {
-        "mean_english": "trận đánh",
-        "definition": "a battle; fighting",
-        "ex_of_definition_list": [
-          "He was killed in action",
-          "Our troops fought an action against the enemy."
-        ]
-      },
-      {
-        "mean_english": "cơ cấu",
-        "definition": "the mechanical parts of a machine or the way the parts move",
-        "ex_of_definition_list": [
-          "The action of the clock needs adjusting."
-        ]
-      }
+    "hash_code_list_img": "-1540266671",
+    "list_example": [
+      "You’ll have to take action immediately",
+      "He brought an action for divorce against his wife.",
+      "The action of the play takes place on an island.",
+      "Our troops fought an action against the enemy.",
+      "The action of the clock needs adjusting."
     ],
-    "hash_code_list_definition_mean": "-986578819"
+    "hash_code_list_example": "1240836710"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/activate_cb_dmean_5000_it.json",
@@ -1737,17 +1326,19 @@
         "id_image": "activate_4232074"
       }
     ],
-    "hash_code_list_img": "935818893",
-    "list_definition_mean": [
-      {
-        "mean_english": "làm hoạt động",
-        "definition": "to put into force or operation",
-        "ex_of_definition_list": [
-          "The smoke activated the fire alarms."
-        ]
-      }
+    "hash_code_list_img": "994267696",
+    "list_example": [
+      "The smoke activated the fire alarms.",
+      "Each event on a domain variable activates its corresponding list of propagators.",
+      "The situation activates the script for and this script generates expectations about appropriate behaviour and discourse routines.",
+      "They found between 5 and 13 sources activated in each participant between 150 and 600 ms after stimulus onset.",
+      "What we meant is that neural representations are automatically activated by perceptions associated with them.",
+      "Apparently, the far-red irradiation induced the secondary dormancy when the cell cycle had been already activated during the first hours of seed imbibition.",
+      "In a rivalry, a user holding a property right first activates this right, except if it does not permit excluding the rival.",
+      "In the psychoanalytic or psychodynamic idea tradition, these types of defense mechanisms, or \"ego controls,\" are considered to be activated to regulate emotional stress.",
+      "Over this extended period, many nodes in saccade-generation networks may become activated in rough proportion to total eye movement counts."
     ],
-    "hash_code_list_definition_mean": "140778396"
+    "hash_code_list_example": "-1360975714"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/active_cb_dmean_5000_it.json",
@@ -1781,45 +1372,21 @@
         "id_image": "active_3590640"
       }
     ],
-    "hash_code_list_img": "-147201686",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhanh nhẹn",
-        "definition": "energetic or lively; able to work etc",
-        "ex_of_definition_list": [
-          "At seventy, he’s no longer very active."
-        ]
-      },
-      {
-        "mean_english": "tích cực",
-        "definition": "(busily) involved",
-        "ex_of_definition_list": [
-          "She is an active supporter of women’s rights."
-        ]
-      },
-      {
-        "mean_english": "công hiệu",
-        "definition": "causing an effect or effects",
-        "ex_of_definition_list": [
-          "Yeast is an active ingredient in bread-making."
-        ]
-      },
-      {
-        "mean_english": "hiệu lực",
-        "definition": "in force",
-        "ex_of_definition_list": [
-          "The rule is still active."
-        ]
-      },
-      {
-        "mean_english": "thể chủ động",
-        "definition": "of the form of a verb in which the subject performs the action",
-        "ex_of_definition_list": [
-          "The verb ‘kicked’ is active in the sentence ‘The boy kicked the ball’."
-        ]
-      }
+    "hash_code_list_img": "685728504",
+    "list_example": [
+      "She is an active supporter of women’s rights.",
+      "Yeast is an active ingredient in bread-making.",
+      "The verb ‘kicked’ is active in the sentence ‘The boy kicked the ball’.",
+      "Unlike moderators (which, by definition, are baseline measures), mediators occur after random assignment, exerting their effects during the period of active intervention.",
+      "This led to active lobbying for patient choice of these hospitals.",
+      "Such elections require not only the active participation of political parties to ensure competition and form a government, but also to legitimise the government.",
+      "Such sentences with an active sentence construction but a reversal of thematic roles were absent from the data.",
+      "Responses determined to be scorable were utterances that had sufficient structure to be deemed full or partial passive sentences or full or partial active sentences.",
+      "In the patient groups receiving active drug therapy (velnacrine maleate), an improvement was observed in their cognitive functioning relative to the placebo group.",
+      "We have much less information about whether the patients in the trials also had evidence of active psychotic phenomena in addition to any depressive symptoms.",
+      "Where there is a neurological cause of dizziness the goal is also, as in multisensory dizziness, a non-sedated, physically active patient."
     ],
-    "hash_code_list_definition_mean": "1494059668"
+    "hash_code_list_example": "-586024453"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/activist_cb_dmean_5000_it.json",
@@ -1852,17 +1419,11 @@
         "id_image": "activist_4829744"
       }
     ],
-    "hash_code_list_img": "2035870224",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà hoạt động",
-        "definition": "a person who works to achieve social or political change",
-        "ex_of_definition_list": [
-          "a human rights activist."
-        ]
-      }
+    "hash_code_list_img": "673760990",
+    "list_example": [
+      "This would reduce the cohesion of the movement's activist core, with its heterogeneous patchwork of environmental, consumer and farmer associations."
     ],
-    "hash_code_list_definition_mean": "65465491"
+    "hash_code_list_example": "1994400401"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/activity_cb_dmean_5000_it.json",
@@ -1901,31 +1462,14 @@
         "id_image": "activity_392778"
       }
     ],
-    "hash_code_list_img": "-180246412",
-    "list_definition_mean": [
-      {
-        "mean_english": "hoạt động",
-        "definition": "the state of being active or lively",
-        "ex_of_definition_list": [
-          "The streets are full of activity this morning."
-        ]
-      },
-      {
-        "mean_english": "trò giải trí",
-        "definition": "something which one does as a pastime, as part of one’s job etc",
-        "ex_of_definition_list": [
-          "His free time activities include fishing and golf."
-        ]
-      },
-      {
-        "mean_english": "hoạt động",
-        "definition": "things which people do in order to achieve an aim",
-        "ex_of_definition_list": [
-          "business/criminal activities."
-        ]
-      }
+    "hash_code_list_img": "-1071779064",
+    "list_example": [
+      "The streets are full of activity this morning.",
+      "They are distinguished from mental activity that is purely verbal or abstract.",
+      "In the present work we wanted to verify whether oocytes recovered from preantral follicles were able to acquire calcium activity during follicle culture.",
+      "Men, women and children in vulnerable livelihood systems negotiate different activity roles and access patterns to household capital."
     ],
-    "hash_code_list_definition_mean": "154459684"
+    "hash_code_list_example": "1525866364"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/actor_cb_dmean_5000_it.json",
@@ -1958,17 +1502,13 @@
         "id_image": "actor_6347173"
       }
     ],
-    "hash_code_list_img": "135032711",
-    "list_definition_mean": [
-      {
-        "mean_english": "diễn viên",
-        "definition": "a performer in a play",
-        "ex_of_definition_list": [
-          "a film/movie actor."
-        ]
-      }
+    "hash_code_list_img": "-1969197511",
+    "list_example": [
+      "The actor was performing a 'holding back' or a 'keeping back' that was, paradoxically ('despite himself') propelling him forward.",
+      "In both cases the historical actor becomes a subject, his conceptual world derives from his position in a structural relationship only.",
+      "Most interestingly, the visual evidence for the third-person actor is coded by the first-person-actor marker added to the verb."
     ],
-    "hash_code_list_definition_mean": "1752223691"
+    "hash_code_list_example": "-394143459"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/acupuncture_cb_dmean_5000_it.json",
@@ -2006,17 +1546,16 @@
         "id_image": "acupuncture_2233590"
       }
     ],
-    "hash_code_list_img": "1373232646",
-    "list_definition_mean": [
-      {
-        "mean_english": "châm cứu",
-        "definition": "a method of treating illness etc by sticking needles into the patient’s skin at certain points",
-        "ex_of_definition_list": [
-          "The patient underwent a course of acupuncture."
-        ]
-      }
+    "hash_code_list_img": "-96600838",
+    "list_example": [
+      "Similarly, it is doubtful that acupuncture is particularly valuable.",
+      "I use chiropractic and massage for my back pain and acupuncture for my hand tremor.",
+      "Therapies offered are homeopathy, acupuncture and herbal, environmental and nutritional medicine.",
+      "To investigate the effectiveness of acupuncture compared with sham acupuncture and with no acupuncture in patients with migraine.",
+      "All the systematic reviews on the subject of acupuncture as a treatment for pain come to (more or less) the conclusion drawn above.",
+      "The sensitivity and precision results for the search of the specialized databases and trial registries for the acupuncture project were 14.2% and 17.6%, respectively."
     ],
-    "hash_code_list_definition_mean": "771359456"
+    "hash_code_list_example": "-566606012"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/adaptable_cb_dmean_5000_it.json",
@@ -2039,17 +1578,15 @@
         "id_image": "adapt_6159870"
       }
     ],
-    "hash_code_list_img": "-803380129",
-    "list_definition_mean": [
-      {
-        "mean_english": "có thể thích nghi",
-        "definition": "willing or able to change to fit in with different circumstances",
-        "ex_of_definition_list": [
-          "Children are usually very adaptable."
-        ]
-      }
+    "hash_code_list_img": "706041857",
+    "list_example": [
+      "That older people are resilient, adaptable and active agents in achieving a ' good life ' is clearly demonstrated.",
+      "Robustness - they are adaptable to external influences rather than being resistant or overwhelmed, often exchanging energy with their environment.",
+      "Its adaptable control tables are easy to customize for special applications or for turnkey operation.",
+      "Male worms were more adaptable to the in vitro conditions than female worms, since they could be maintained longer.",
+      "Societies are either infinitely adaptable or hopelessly at the mercy of an unpredictable environment."
     ],
-    "hash_code_list_definition_mean": "1354510904"
+    "hash_code_list_example": "-60934792"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/adaptor_cb_dmean_5000_it.json",
@@ -2082,17 +1619,11 @@
         "id_image": "adaptor_4612158"
       }
     ],
-    "hash_code_list_img": "-698127368",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái nắn dòng điện",
-        "definition": "a device which enables an electrical plug of one type to be used in a socket of another type, or several plugs to be used in the same socket at the same time",
-        "ex_of_definition_list": [
-          "a travel adapter."
-        ]
-      }
+    "hash_code_list_img": "1286642388",
+    "list_example": [
+      "a travel adapter."
     ],
-    "hash_code_list_definition_mean": "105860913"
+    "hash_code_list_example": "37511013"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/adapt_cb_dmean_5000_it.json",
@@ -2115,18 +1646,20 @@
         "id_image": "adapt_6159870"
       }
     ],
-    "hash_code_list_img": "1973357146",
-    "list_definition_mean": [
-      {
-        "mean_english": "sửa lại cho hợp",
-        "definition": "to change or alter (so as to fit a different situation etc)",
-        "ex_of_definition_list": [
-          "She always adapted easily to new circumstances",
-          "He has adapted the play for television."
-        ]
-      }
+    "hash_code_list_img": "364494117",
+    "list_example": [
+      "She always adapted easily to new circumstances",
+      "He has adapted the play for television.",
+      "However, as no universal elution protocol exists, it may be adapted depending on the biofilm composition and structure.",
+      "The activities were adapted to the group's level, with more support provided in weaker groups.",
+      "However, by no means does this rule out the need for theory qua theory, particularly when it is adapted from quite different and diverse disciplines.",
+      "However, for the sake of completeness, we include here a proof adapted to our context.",
+      "The left ventricle, perhaps best adapted to pump against a systemic afterload, is faced with the much lower hydraulic impedance of the pulmonary vascular bed.",
+      "The method is therefore well adapted for use as a basis for a spatial reasoning formalism.",
+      "Finally, radio was not adapted to transmission in public places.",
+      "Talk of recovery or doing better can understandably be perceived as mockery or ridicule by an elder who has not adapted to this new state."
     ],
-    "hash_code_list_definition_mean": "1211627933"
+    "hash_code_list_example": "620752357"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/additive_cb_dmean_5000_it.json",
@@ -2149,17 +1682,17 @@
         "id_image": "additive_2637909"
       }
     ],
-    "hash_code_list_img": "940290376",
-    "list_definition_mean": [
-      {
-        "mean_english": "phụ gia",
-        "definition": "a substance that is added to food to make it last longer or to make it taste better",
-        "ex_of_definition_list": [
-          "food additives."
-        ]
-      }
+    "hash_code_list_img": "1371978171",
+    "list_example": [
+      "In summary, our results suggest that exposure to combinations of environmental stresses may increase the expression of additive genetic variability for fecundity.",
+      "The choice between multiplicative or statistical interaction and additive or biological interaction, is controversial.",
+      "In figure 3 the dimensionless group 8+ is given as a function of shearing stress for two concentrations of the same polymeric additive in water.",
+      "An additive effect is when predation by two predators is equal to the sum of prey removed by each individual predator alone.",
+      "Four of the tests are based on an inappropriate additive conceptualization of competition.",
+      "The information variables have been considered first separately, then in an additive model.",
+      "Note that this is in contrast to most traditional fault modeling approaches where the fault is represented as an additive or a multiplicative time-dependent quantity."
     ],
-    "hash_code_list_definition_mean": "1887965506"
+    "hash_code_list_example": "-1019124591"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/address_cb_dmean_5000_it.json",
@@ -2197,60 +1730,17 @@
         "id_image": "address_5778919"
       }
     ],
-    "hash_code_list_img": "-1321201571",
-    "list_definition_mean": [
-      {
-        "mean_english": "đề địa chỉ",
-        "definition": "to put a name and address on (an envelope etc)",
-        "ex_of_definition_list": [
-          "Address the parcel clearly."
-        ]
-      },
-      {
-        "mean_english": "nói với hay viết cho ai",
-        "definition": "to speak or write to",
-        "ex_of_definition_list": [
-          "He addressed his remarks to the younger members of the audience."
-        ]
-      },
-      {
-        "mean_english": "chú tâm đến",
-        "definition": "to begin to deal with a problem",
-        "ex_of_definition_list": [
-          "The government needs to address the issue of unemployment."
-        ]
-      },
-      {
-        "mean_english": "xưng hô",
-        "definition": "to use a particular name or title when you speak or write to someone",
-        "ex_of_definition_list": [
-          "How should the students address the lecturers?"
-        ]
-      },
-      {
-        "mean_english": "địa chỉ",
-        "definition": "the name of the house, street, town etc where a person lives",
-        "ex_of_definition_list": [
-          "His address is 30 Main St, Springfield."
-        ]
-      },
-      {
-        "mean_english": "bài diễn văn",
-        "definition": "a speech",
-        "ex_of_definition_list": [
-          "He made a long and boring address."
-        ]
-      },
-      {
-        "mean_english": "địa chỉ",
-        "definition": "a series of letters and numbers that tells you where to send an email to someone or where to find a website on the internet",
-        "ex_of_definition_list": [
-          "an email address",
-          "a website address."
-        ]
-      }
+    "hash_code_list_img": "1449172886",
+    "list_example": [
+      "The government needs to address the issue of unemployment.",
+      "How should the students address the lecturers?",
+      "His address is 30 Main St, Springfield.",
+      "It will be important for future work to continue to address these issues by attempting to differentiate lexical from phonological representations.",
+      "Every centre was encouraged to strengthen its social science research, to address particular themes and overall staff numbers.",
+      "Longterm exclosure plots currently capturing and protecting seeds falling into the crab-zone will help address this uncertainty.",
+      "Philosophical arguments address one of the most fundamental yet elusive questions facing behavioral scientists, namely, what constitutes a disorder?"
     ],
-    "hash_code_list_definition_mean": "1376144199"
+    "hash_code_list_example": "189879457"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/add_cb_dmean_5000_it.json",
@@ -2286,40 +1776,13 @@
         "id_image": "add_4221898"
       }
     ],
-    "hash_code_list_img": "1691012787",
-    "list_definition_mean": [
-      {
-        "mean_english": "thêm vào",
-        "definition": "(often with to) to put (one thing) to or with (another)",
-        "ex_of_definition_list": [
-          "He added some water to his whisky."
-        ]
-      },
-      {
-        "mean_english": "cộng",
-        "definition": "(often with to, together, up) mathematics to find the total of (various numbers)",
-        "ex_of_definition_list": [
-          "Add these figures together",
-          "Add 124 to 356",
-          "He added up the figures."
-        ]
-      },
-      {
-        "mean_english": "bổ sung",
-        "definition": "to say something extra",
-        "ex_of_definition_list": [
-          "He admitted that he had made a mistake, and added that he was sorry."
-        ]
-      },
-      {
-        "mean_english": "làm tăng thêm",
-        "definition": "(with to) to increase",
-        "ex_of_definition_list": [
-          "His illness had added to their difficulties."
-        ]
-      }
+    "hash_code_list_img": "31215096",
+    "list_example": [
+      "This would mean acknowledging the things we don't know and systematising them in the sense of seeing how they relate, what they add up to.",
+      "We may add that this is also true for grey surfaces.",
+      "To this new model we then add the membership numbers in two ways."
     ],
-    "hash_code_list_definition_mean": "-1751774786"
+    "hash_code_list_example": "-1217795440"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/adjust_cb_dmean_5000_it.json",
@@ -2348,24 +1811,11 @@
         "id_image": "adjust_1522188"
       }
     ],
-    "hash_code_list_img": "-976839973",
-    "list_definition_mean": [
-      {
-        "mean_english": "điều chỉnh",
-        "definition": "(often with to) to change so as to make or be better suited",
-        "ex_of_definition_list": [
-          "He soon adjusted to his new way of life."
-        ]
-      },
-      {
-        "mean_english": "chỉnh",
-        "definition": "to change (the position of, setting of)",
-        "ex_of_definition_list": [
-          "You use this knob to adjust the volume level."
-        ]
-      }
+    "hash_code_list_img": "-2048342039",
+    "list_example": [
+      "You use this knob to adjust the volume level."
     ],
-    "hash_code_list_definition_mean": "-2076871"
+    "hash_code_list_example": "-1775923406"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/administration_cb_dmean_5000_it.json",
@@ -2399,24 +1849,16 @@
         "id_image": "administration_1734146"
       }
     ],
-    "hash_code_list_img": "2119240043",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự quản lý",
-        "definition": "management",
-        "ex_of_definition_list": [
-          "He’s in charge of administration at the hospital."
-        ]
-      },
-      {
-        "mean_english": "thể chế",
-        "definition": "(the people who carry on) the government of a country etc",
-        "ex_of_definition_list": [
-          "the Obama administration."
-        ]
-      }
+    "hash_code_list_img": "237375328",
+    "list_example": [
+      "He’s in charge of administration at the hospital.",
+      "Behavioral testing and drug administration were performed during the light cycle.",
+      "They took charge of day-to-day administration and defence planning.",
+      "Discussions took place at the upper echelons of the administration over how to ' provoke ' men to ' volunteer ' as porters.",
+      "We can easily see how this last is true in the sense in which all administration tends towards bureaucracy.",
+      "That in itself was sufficient to trigger a more lenient administration of the revenue."
     ],
-    "hash_code_list_definition_mean": "1308324623"
+    "hash_code_list_example": "-662228468"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/admission_cb_dmean_5000_it.json",
@@ -2436,30 +1878,10 @@
         "id_image": "admission_2387646"
       }
     ],
-    "hash_code_list_img": "319618150",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự cho phép vào",
-        "definition": "being allowed to enter; entry",
-        "ex_of_definition_list": [
-          "They charge a high price for admission."
-        ]
-      },
-      {
-        "mean_english": "sự thừa nhận",
-        "definition": "(an) act of accepting the truth of (something)",
-        "ex_of_definition_list": [
-          "an admission of guilt."
-        ]
-      },
-      {
-        "mean_english": "nhập viện",
-        "definition": "the process of taking someone to hospital for treatment",
-        "ex_of_definition_list": [
-          "Accident and Emergency admissions."
-        ]
-      }
+    "hash_code_list_img": "1842002424",
+    "list_example": [
+      "an admission of guilt."
     ],
-    "hash_code_list_definition_mean": "-611916997"
+    "hash_code_list_example": "1816998729"
   }
 ]

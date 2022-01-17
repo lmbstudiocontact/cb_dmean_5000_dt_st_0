@@ -25,17 +25,15 @@
         "id_image": "iceberg_6202202"
       }
     ],
-    "hash_code_list_img": "-378086333",
-    "list_definition_mean": [
-      {
-        "mean_english": "tảng băng",
-        "definition": "a huge mass of ice floating in the sea",
-        "ex_of_definition_list": [
-          "The ship hit an iceberg and sank."
-        ]
-      }
+    "hash_code_list_img": "-416620753",
+    "list_example": [
+      "The ship hit an iceberg and sank.",
+      "This means of transmission represents the tip of the iceberg as far as technology goes.",
+      "This is just the tip of the iceberg for cognitive archaeology, however, because such conceptualization is by no means sufficient for actual tool production.",
+      "We assume iceberg transport costs for both goods.",
+      "But this is only the tip of the iceberg when it comes to institutional complexity in the welfare field."
     ],
-    "hash_code_list_definition_mean": "313142505"
+    "hash_code_list_example": "-143038798"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/ice_cb_dmean_5000_it.json",
@@ -66,38 +64,14 @@
         "id_image": "ice_6347258"
       }
     ],
-    "hash_code_list_img": "1600792462",
-    "list_definition_mean": [
-      {
-        "mean_english": "băng",
-        "definition": "frozen water",
-        "ex_of_definition_list": [
-          "The pond is covered with ice."
-        ]
-      },
-      {
-        "mean_english": "kem",
-        "definition": "an ice cream",
-        "ex_of_definition_list": [
-          "Three chocolate ices, please."
-        ]
-      },
-      {
-        "mean_english": "món tráng miệng có vị hoa quả (Mỹ)",
-        "definition": "a fruit-flavoured/-flavored frozen dessert usually made without milk and cream",
-        "ex_of_definition_list": [
-          "a lemon ice."
-        ]
-      },
-      {
-        "mean_english": "phủ đường",
-        "definition": "to cover with icing",
-        "ex_of_definition_list": [
-          "She iced the cake."
-        ]
-      }
+    "hash_code_list_img": "636047736",
+    "list_example": [
+      "The pond is covered with ice.",
+      "Three chocolate ices, please.",
+      "a lemon ice.",
+      "She iced the cake."
     ],
-    "hash_code_list_definition_mean": "796998589"
+    "hash_code_list_example": "603829995"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/icicle_cb_dmean_5000_it.json",
@@ -125,17 +99,11 @@
         "id_image": "icicle_6252724"
       }
     ],
-    "hash_code_list_img": "1624047762",
-    "list_definition_mean": [
-      {
-        "mean_english": "trụ băng",
-        "definition": "a long hanging piece of ice formed by the freezing of dripping water",
-        "ex_of_definition_list": [
-          "Icicles were hanging from the roof."
-        ]
-      }
+    "hash_code_list_img": "1437413550",
+    "list_example": [
+      "Examination of vertical icicle plots indicated support for a three-cluster solution."
     ],
-    "hash_code_list_definition_mean": "711355565"
+    "hash_code_list_example": "-772346478"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/icy_cb_dmean_5000_it.json",
@@ -155,31 +123,21 @@
         "id_image": "icy_2358552"
       }
     ],
-    "hash_code_list_img": "547048276",
-    "list_definition_mean": [
-      {
-        "mean_english": "cóng",
-        "definition": "very cold",
-        "ex_of_definition_list": [
-          "icy winds."
-        ]
-      },
-      {
-        "mean_english": "đóng băng",
-        "definition": "covered with ice",
-        "ex_of_definition_list": [
-          "icy roads."
-        ]
-      },
-      {
-        "mean_english": "không thân thiện",
-        "definition": "unfriendly",
-        "ex_of_definition_list": [
-          "an icy tone of voice."
-        ]
-      }
+    "hash_code_list_img": "1587454879",
+    "list_example": [
+      "icy winds.",
+      "icy roads.",
+      "an icy tone of voice.",
+      "If they were preserved over geologic time, a record of past and present life may reside in the icy crust.",
+      "The fact that half the fleet sailed in icy waters for more than 40 years explains the numbers of barque rigged sealers at the turn of the century.",
+      "One minor omission in the book is that valley glaciers are a notable terrestrial icy environment where important findings were made during the infancy of biological research in ancient ice.",
+      "When the icy cold comes to the one who can endure being out?",
+      "A horse was 'rough shod' when the heads of the nails were left projecting from the shoe, to give a better grip in icy or muddy conditions.",
+      "The attraction of any icy beginning is obvious, even if heterodox.",
+      "The formation of polypeptides from single aminoacids was traced in simulation experiments representing the inner structure of icy dust grains.",
+      "At the same time, he had to monitor fashion changes, lest he become old-fashioned and dowdy instead of an unapproachable, icy ideal."
     ],
-    "hash_code_list_definition_mean": "-167610299"
+    "hash_code_list_example": "1872632363"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/idea_cb_dmean_5000_it.json",
@@ -209,31 +167,13 @@
         "id_image": "idea_554796"
       }
     ],
-    "hash_code_list_img": "-556650821",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự hình dung",
-        "definition": "mental picture",
-        "ex_of_definition_list": [
-          "This will give you an idea of what I mean."
-        ]
-      },
-      {
-        "mean_english": "quan niệm; ý tưởng",
-        "definition": "opinion; belief",
-        "ex_of_definition_list": [
-          "I have an idea that it won’t work."
-        ]
-      },
-      {
-        "mean_english": "ý định",
-        "definition": "a plan",
-        "ex_of_definition_list": [
-          "I’ve an idea for solving this problem."
-        ]
-      }
+    "hash_code_list_img": "1792179909",
+    "list_example": [
+      "This will give you an idea of what I mean.",
+      "I have an idea that it won’t work.",
+      "I’ve an idea for solving this problem."
     ],
-    "hash_code_list_definition_mean": "-1549355545"
+    "hash_code_list_example": "-1082891032"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/identical_cb_dmean_5000_it.json",
@@ -252,24 +192,18 @@
         "id_image": "identical_1799804"
       }
     ],
-    "hash_code_list_img": "1561386787",
-    "list_definition_mean": [
-      {
-        "mean_english": "giống hệt",
-        "definition": "the same in every detail",
-        "ex_of_definition_list": [
-          "They wore identical dresses."
-        ]
-      },
-      {
-        "mean_english": "đúng",
-        "definition": "the very same",
-        "ex_of_definition_list": [
-          "That is the identical car that I saw outside the bank just before the robbery."
-        ]
-      }
+    "hash_code_list_img": "2019388087",
+    "list_example": [
+      "They wore identical dresses.",
+      "That is the identical car that I saw outside the bank just before the robbery.",
+      "Results are also virtually identical when using a two-way random effects model (data not shown).",
+      "In principle, two tasks can show identical behavioral effects of different manipulations and yet be very different in underlying mechanisms.",
+      "This occurred even though the targets were in fact identical in size.",
+      "Equivalent realizations under the same experimental conditions are almost identical and individual trajectories compare well with theory.",
+      "This was because of our discovery that in normal development, identical behaviour at two different ages could be sustained by very different underlying representations.",
+      "The co-occurrence of identical consonants thus presents the limiting case of a more general stochastic constraint on perceived similarity."
     ],
-    "hash_code_list_definition_mean": "730387233"
+    "hash_code_list_example": "-1562041806"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/identify_cb_dmean_5000_it.json",
@@ -293,25 +227,11 @@
         "id_image": "identify_4633917"
       }
     ],
-    "hash_code_list_img": "872034309",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhận ra; nhận dạng",
-        "definition": "to recognize as being a certain person etc",
-        "ex_of_definition_list": [
-          "Would you be able to identify the man who robbed you?",
-          "He identified the coat as his brother’s."
-        ]
-      },
-      {
-        "mean_english": "coi như nhau",
-        "definition": "to think of as being the same",
-        "ex_of_definition_list": [
-          "He identifies beauty with goodness."
-        ]
-      }
+    "hash_code_list_img": "879308190",
+    "list_example": [
+      "Would you be able to identify the man who robbed you?"
     ],
-    "hash_code_list_definition_mean": "-950404242"
+    "hash_code_list_example": "-852983736"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/identity_cb_dmean_5000_it.json",
@@ -349,17 +269,14 @@
         "id_image": "identity_6000961"
       }
     ],
-    "hash_code_list_img": "-554516776",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhân dạng",
-        "definition": "who or what a person is",
-        "ex_of_definition_list": [
-          "The police are still uncertain of the victim’s identity."
-        ]
-      }
+    "hash_code_list_img": "-666011643",
+    "list_example": [
+      "The identity of these factors is unlikely to be discerned from demographic records and presumably reflects the influence of social changes.",
+      "Each of these (identity matching and supramodal representations) is based on the assumption that integration of vision and hearing occurs within the observer.",
+      "It fails to demonstrate how identity constrains paths to social reform.",
+      "If the identity of the nearest competitor is important, then the margin of victory over this competitor should be a significant constraint on expenditure decisions."
     ],
-    "hash_code_list_definition_mean": "665598860"
+    "hash_code_list_example": "-1555756946"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/ideology_cb_dmean_5000_it.json",
@@ -378,25 +295,17 @@
         "id_image": "ideology_2473091"
       }
     ],
-    "hash_code_list_img": "332065063",
-    "list_definition_mean": [
-      {
-        "mean_english": "hệ tư tưởng",
-        "definition": "a set of beliefs on which a political or economic system is based",
-        "ex_of_definition_list": [
-          "Marxist ideology."
-        ]
-      },
-      {
-        "mean_english": "ý thức hệ",
-        "definition": "a set of beliefs held by a social group or an individual person",
-        "ex_of_definition_list": [
-          "bourgeois ideology",
-          "the ideology of parenthood."
-        ]
-      }
+    "hash_code_list_img": "463985481",
+    "list_example": [
+      "the ideology of parenthood.",
+      "Language ideology both reflects and enacts racial inequalities.",
+      "Alongside the independent variables for party and ideology are the variables for social class, religious practice and economic evaluation.",
+      "Indeed, if the symbol of the hunter dominated the ideology of the state, the notion of the blacksmith was more visible in personal\\residential relations.",
+      "Yet this ruling class ideology was and remains one of cultural synthesis.",
+      "If this is true, good government performance does not persuade people that the ideology of the government is more valuable and effective than they thought.",
+      "An ideology was needed to explain why it was that some people were not caught up in the neutralist struggle to avoid civil war altogether."
     ],
-    "hash_code_list_definition_mean": "-1609908319"
+    "hash_code_list_example": "1733749354"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/idol_cb_dmean_5000_it.json",
@@ -425,24 +334,11 @@
         "id_image": "idol_4441519"
       }
     ],
-    "hash_code_list_img": "-1488624735",
-    "list_definition_mean": [
-      {
-        "mean_english": "tượng thần thánh",
-        "definition": "an image of a god, which is worshipped",
-        "ex_of_definition_list": [
-          "The tribesmen bowed down before their idol."
-        ]
-      },
-      {
-        "mean_english": "thần tượng",
-        "definition": "a greatly loved person, thing etc",
-        "ex_of_definition_list": [
-          "The singer was the idol of thousands of teenagers."
-        ]
-      }
+    "hash_code_list_img": "330435883",
+    "list_example": [
+      "The singer was the idol of thousands of teenagers."
     ],
-    "hash_code_list_definition_mean": "-1731417100"
+    "hash_code_list_example": "-2064320055"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/ignition_cb_dmean_5000_it.json",
@@ -471,24 +367,16 @@
         "id_image": "ignition_5823332"
       }
     ],
-    "hash_code_list_img": "-1036282096",
-    "list_definition_mean": [
-      {
-        "mean_english": "bộ phận đánh lửa",
-        "definition": "the instrument in a car etc which ignites the petrol in the engine",
-        "ex_of_definition_list": [
-          "He switched on the car’s ignition."
-        ]
-      },
-      {
-        "mean_english": "sự đốt cháy",
-        "definition": "the act of igniting",
-        "ex_of_definition_list": [
-          "ignition of the firework."
-        ]
-      }
+    "hash_code_list_img": "2108362688",
+    "list_example": [
+      "ignition of the firework.",
+      "The dynamics of ignition for the two schemes is investigated and a comparison is attempted.",
+      "When this one is above 10 27 cm 3, the low ignition temperature regime appears.",
+      "Two other ignition capsule designs are also being developed as contingencies to the point design.",
+      "From the point of view of pure science and of application, fast ignition is a research subject of pioneering significance.",
+      "The projectile penetrates about 50 mm into the compressed target, before the ignition process properly star ts."
     ],
-    "hash_code_list_definition_mean": "-1370068402"
+    "hash_code_list_example": "1878736472"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/ignore_cb_dmean_5000_it.json",
@@ -511,17 +399,11 @@
         "id_image": "ignore_5772623"
       }
     ],
-    "hash_code_list_img": "-1331046739",
-    "list_definition_mean": [
-      {
-        "mean_english": "không để ý",
-        "definition": "to take no notice of; to pay no attention to",
-        "ex_of_definition_list": [
-          "He ignored all my warnings."
-        ]
-      }
+    "hash_code_list_img": "-1811772482",
+    "list_example": [
+      "This is a situation that we really can't ignore at all, even if we would wish to."
     ],
-    "hash_code_list_definition_mean": "2088048305"
+    "hash_code_list_example": "328211437"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/illegal_cb_dmean_5000_it.json",
@@ -539,17 +421,19 @@
         "id_image": "illegal_4633952"
       }
     ],
-    "hash_code_list_img": "612009008",
-    "list_definition_mean": [
-      {
-        "mean_english": "bất hợp pháp",
-        "definition": "not allowed by the law; not legal",
-        "ex_of_definition_list": [
-          "It is illegal to park here."
-        ]
-      }
+    "hash_code_list_img": "1928075031",
+    "list_example": [
+      "It is illegal to park here.",
+      "Have stricter liability laws for candidates resulted in a decline in illegal campaign activities?",
+      "It argues that distinct categories such as global/local, legal/illegal and traditional/ modern have lost much of their explanatory power.",
+      "In the parallel illegal system, money was exchanged for public contracts.",
+      "The illegal transport of flocks is common along this borderline.",
+      "The federal government is empowered to act on several important health issues, to finance programs, and to authorize sanctions against illegal activities in several fields.",
+      "Throughout its existence it distributed illegal publications so as to keep the population abreast of developments and sustain morale.",
+      "And yet the risk for corruption or illegal decisions is higher in the new decentralized system than previously.",
+      "Headmen harboured them; village watchmen shared their illegal spoil."
     ],
-    "hash_code_list_definition_mean": "1894767927"
+    "hash_code_list_example": "1460205357"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/illumination_cb_dmean_5000_it.json",
@@ -588,24 +472,14 @@
         "id_image": "illumination_4370749"
       }
     ],
-    "hash_code_list_img": "1257682182",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự chiếu sáng",
-        "definition": "the act of illuminating",
-        "ex_of_definition_list": [
-          "Illumination of the room is provided by fluorescent tubes."
-        ]
-      },
-      {
-        "mean_english": "đèn hoa đăng",
-        "definition": "the decorative lights in a town etc",
-        "ex_of_definition_list": [
-          "Go to Blackpool and see the illuminations."
-        ]
-      }
+    "hash_code_list_img": "122664756",
+    "list_example": [
+      "Target length is set to prevent laser illumination into the target through its open ends.",
+      "On the other hand, we are known to misjudge reflectance properties when the illumination is unusual, or in the case of metamers.",
+      "Both crown illumination and tree size were related to liana abundance.",
+      "We have then a study of continuity and an illumination of its changing mechanisms and faces."
     ],
-    "hash_code_list_definition_mean": "1020906096"
+    "hash_code_list_example": "-807125683"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/illustration_cb_dmean_5000_it.json",
@@ -640,31 +514,11 @@
         "id_image": "illustration_538091"
       }
     ],
-    "hash_code_list_img": "1139704321",
-    "list_definition_mean": [
-      {
-        "mean_english": "bức tranh",
-        "definition": "a picture",
-        "ex_of_definition_list": [
-          "coloured illustrations."
-        ]
-      },
-      {
-        "mean_english": "ví dụ",
-        "definition": "an example",
-        "ex_of_definition_list": [
-          "This case provides a clear illustration of what I mean."
-        ]
-      },
-      {
-        "mean_english": "sự minh hoạ",
-        "definition": "the act of illustrating",
-        "ex_of_definition_list": [
-          "For the purposes of illustration, consider the following situation."
-        ]
-      }
+    "hash_code_list_img": "690070897",
+    "list_example": [
+      "This case provides a clear illustration of what I mean."
     ],
-    "hash_code_list_definition_mean": "-162190035"
+    "hash_code_list_example": "173335616"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/illustrator_cb_dmean_5000_it.json",
@@ -692,17 +546,16 @@
         "id_image": "illustrator_6101571"
       }
     ],
-    "hash_code_list_img": "1770476641",
-    "list_definition_mean": [
-      {
-        "mean_english": "người vẽ tranh minh hoạ",
-        "definition": "a person who draws pictures etc for books etc",
-        "ex_of_definition_list": [
-          "He works as an illustrator of children’s books."
-        ]
-      }
+    "hash_code_list_img": "-1059861820",
+    "list_example": [
+      "He works as an illustrator of children’s books.",
+      "The illustrator intended not only to explore the picturesque aspects of the poem, but also to present his work as a painting.",
+      "In addition to the increase in landscape elements, the illustrator apparently also adopted techniques from brush painting to render the images.",
+      "She argues that the illustrator comments on the text through the images, and thus plays a role similar to the textual commentator.",
+      "On the contrary, this page may help us to understand the effect our illustrator intended to create.",
+      "The publisher smiled at the illustrator of the writers who was dressed colorfully."
     ],
-    "hash_code_list_definition_mean": "1069810606"
+    "hash_code_list_example": "-26871932"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/ill_cb_dmean_5000_it.json",
@@ -726,61 +579,21 @@
         "id_image": "ill_2341906"
       }
     ],
-    "hash_code_list_img": "1207178991",
-    "list_definition_mean": [
-      {
-        "mean_english": "ốm",
-        "definition": "not in good health; not well",
-        "ex_of_definition_list": [
-          "She was ill for a long time."
-        ]
-      },
-      {
-        "mean_english": "xấu",
-        "definition": "bad",
-        "ex_of_definition_list": [
-          "He retired due to ill health",
-          "These pills have no ill effects."
-        ]
-      },
-      {
-        "mean_english": "không may",
-        "definition": "evil or unlucky",
-        "ex_of_definition_list": [
-          "ill luck."
-        ]
-      },
-      {
-        "mean_english": "khó",
-        "definition": "not easily",
-        "ex_of_definition_list": [
-          "We could ill afford to lose that money."
-        ]
-      },
-      {
-        "mean_english": "điều ác",
-        "definition": "evil",
-        "ex_of_definition_list": [
-          "I would never wish anyone ill."
-        ]
-      },
-      {
-        "mean_english": "điều rủi ro",
-        "definition": "trouble",
-        "ex_of_definition_list": [
-          "Who is responsible for the ills of this world?"
-        ]
-      },
-      {
-        "mean_english": "tồi; kém",
-        "definition": "badly",
-        "ex_of_definition_list": [
-          "ill-equipped",
-          "ill-used."
-        ]
-      }
+    "hash_code_list_img": "824711629",
+    "list_example": [
+      "She was ill for a long time.",
+      "He retired due to ill health",
+      "These pills have no ill effects.",
+      "ill luck.",
+      "We could ill afford to lose that money.",
+      "Assistance from family members, friends, paid care givers, and volunteers in the care of terminally ill patients.",
+      "Results indicated that when they are ill young people would like to be believed, and to have con dentiality and privacy respected.",
+      "In addition, 5 participants died, 5 participants reported being too ill to participate, and 3 were lost due to relocation or other reasons.",
+      "Synthesizers and quantifiers will always prove vulnerable on one count or another, yet it ill behoves fellow practitioners to protest too loudly.",
+      "First, hopelessness in medically ill patients has been found to have a direct impact on health status.",
+      "Those who were ill in the past 2 weeks or had an ill child in diapers were excluded from work for 1 day."
     ],
-    "hash_code_list_definition_mean": "-964334484"
+    "hash_code_list_example": "10560303"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/image_cb_dmean_5000_it.json",
@@ -812,45 +625,13 @@
         "id_image": "image_627535"
       }
     ],
-    "hash_code_list_img": "-1374756531",
-    "list_definition_mean": [
-      {
-        "mean_english": "tượng",
-        "definition": "a likeness or copy of a person etc made of wood, stone etc",
-        "ex_of_definition_list": [
-          "Images of the saints adorned the walls."
-        ]
-      },
-      {
-        "mean_english": "giống",
-        "definition": "a close likeness",
-        "ex_of_definition_list": [
-          "She’s the very image of her sister."
-        ]
-      },
-      {
-        "mean_english": "hình ảnh",
-        "definition": "reflection",
-        "ex_of_definition_list": [
-          "She looked at her image in the mirror."
-        ]
-      },
-      {
-        "mean_english": "hình tượng",
-        "definition": "mental picture",
-        "ex_of_definition_list": [
-          "I have an image of the place in my mind."
-        ]
-      },
-      {
-        "mean_english": "quan điểm",
-        "definition": "the general opinion that people have about a person, company etc",
-        "ex_of_definition_list": [
-          "A scandal like this is damaging to the company’s public image."
-        ]
-      }
+    "hash_code_list_img": "-26892901",
+    "list_example": [
+      "She’s the very image of her sister.",
+      "She looked at her image in the mirror.",
+      "I have an image of the place in my mind."
     ],
-    "hash_code_list_definition_mean": "-557562831"
+    "hash_code_list_example": "120567896"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/imagination_cb_dmean_5000_it.json",
@@ -885,31 +666,14 @@
         "id_image": "imagination_994647"
       }
     ],
-    "hash_code_list_img": "-942308391",
-    "list_definition_mean": [
-      {
-        "mean_english": "trí tưởng tượng",
-        "definition": "(the part of the mind which has) the ability to form mental pictures",
-        "ex_of_definition_list": [
-          "I can see it all in my imagination."
-        ]
-      },
-      {
-        "mean_english": "khả năng sáng tạo",
-        "definition": "the creative ability of a writer etc",
-        "ex_of_definition_list": [
-          "This story shows a lot of imagination."
-        ]
-      },
-      {
-        "mean_english": "điều tưởng tượng",
-        "definition": "the seeing etc of things which do not exist",
-        "ex_of_definition_list": [
-          "There was no-one there – it was just your imagination."
-        ]
-      }
+    "hash_code_list_img": "-2066860481",
+    "list_example": [
+      "Her imagination was sleeping, or she had no artistic imagination at all.",
+      "His research focuses on the architectural imagination in technical drawing.",
+      "What makes this episode resonate as a vernacular form of archaeological thinking buried deep in the literary imagination of the mid-19th century?",
+      "Like dragons, the machines threaten the human imagination by controlling the workers."
     ],
-    "hash_code_list_definition_mean": "501229479"
+    "hash_code_list_example": "656292658"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/imbalance_cb_dmean_5000_it.json",
@@ -932,17 +696,16 @@
         "id_image": "imbalance_6134418"
       }
     ],
-    "hash_code_list_img": "-626927822",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự mất cân bằng",
-        "definition": "a situation in which the balance between two or more things is not correct, fair, or equal",
-        "ex_of_definition_list": [
-          "a trade imbalance."
-        ]
-      }
+    "hash_code_list_img": "1342739046",
+    "list_example": [
+      "This study seeks to redress this imbalance in our knowledge of coalitions by focusing explicitly on pre-electoral coalitions.",
+      "It is necessary that there be a supernatural if the apparent moral imbalance is to be eliminated theoretically.",
+      "This antithesis between emotional plenitude and legal nullity rhetorically stages an imbalance that cries out for redress.",
+      "This imbalance only disappears if a sufficient number of new patients entered the trial.",
+      "Further analysis of parent-of-origin imbalance of chromosome 18 is being studied using mice with trisomy for chromosome 18.",
+      "Having the patient walk heel-to-toe narrows the base and can accentuate imbalance associated with central nervous system disorders, particularly cerebellar lesions."
     ],
-    "hash_code_list_definition_mean": "1544770409"
+    "hash_code_list_example": "-889479181"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/immediate_cb_dmean_5000_it.json",
@@ -962,31 +725,20 @@
         "id_image": "immediate_5361451"
       }
     ],
-    "hash_code_list_img": "531630732",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngay lập tức",
-        "definition": "happening at once and without delay",
-        "ex_of_definition_list": [
-          "an immediate response."
-        ]
-      },
-      {
-        "mean_english": "kế tiếp",
-        "definition": "without anyone etc coming between",
-        "ex_of_definition_list": [
-          "His immediate successor was Bill Jones."
-        ]
-      },
-      {
-        "mean_english": "gần",
-        "definition": "close",
-        "ex_of_definition_list": [
-          "our immediate surroundings."
-        ]
-      }
+    "hash_code_list_img": "326190962",
+    "list_example": [
+      "an immediate response.",
+      "His immediate successor was Bill Jones.",
+      "our immediate surroundings.",
+      "Such response-produced cues could come, for instance, from immediate proprioceptive byproducts of the response as well as its more remote effects.",
+      "The immediate economic effect of high turnover rates was to disrupt production.",
+      "The radical limits of immediate memory must be explained in terms of biocognitive brain architecture.",
+      "All this would have been outside the immediate scope of the article.",
+      "An immediate corollary, which will be useful below, is the following.",
+      "The presence of hydrops would suggest inadequate fetal cardiac output, which should prompt consideration of delivery and immediate surgery.",
+      "Their immediate reaction to the slump was to retrench and ride the crisis."
     ],
-    "hash_code_list_definition_mean": "694785362"
+    "hash_code_list_example": "2043244948"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/immigrant_cb_dmean_5000_it.json",
@@ -1014,18 +766,14 @@
         "id_image": "immigration_5965823"
       }
     ],
-    "hash_code_list_img": "-1589801687",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhập cư",
-        "definition": "(a person) who has come into a foreign country to live there permanently, not as a tourist or visitor",
-        "ex_of_definition_list": [
-          "The eastern part of the city is inhabited by immigrants",
-          "the immigrant population."
-        ]
-      }
+    "hash_code_list_img": "-1288960835",
+    "list_example": [
+      "the immigrant population.",
+      "The vibrant immigrant life amidst such poverty and difficulties is apparent.",
+      "This article focuses on one aspect of the immigrant older person's experience and situation, their perceptions about filial obligations.",
+      "Overall, immigrant policy programs have demonstrated remarkable stability."
     ],
-    "hash_code_list_definition_mean": "476441730"
+    "hash_code_list_example": "965792720"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/immigration_cb_dmean_5000_it.json",
@@ -1058,17 +806,14 @@
         "id_image": "immigration_5965823"
       }
     ],
-    "hash_code_list_img": "1696670853",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự nhập cư",
-        "definition": "the act of entering a country in order to settle there",
-        "ex_of_definition_list": [
-          "Immigration has increased significantly over the past few years."
-        ]
-      }
+    "hash_code_list_img": "1058433904",
+    "list_example": [
+      "Having established that immigration was problematic, because of men's ' political and racial' differences, he proceeded to explain in detail the nature of those differences.",
+      "With a shrinking immigration program, the chances for renewal by impor tation are also shrinking.",
+      "In the early 1970s, an uneasy interparty consensus on race and immigration began to break down and race began to move up the public agenda.",
+      "His claim of rationality, morality, and veracity guarantees his authority to make assertions about immigration and the behavior of immigrants."
     ],
-    "hash_code_list_definition_mean": "1010361054"
+    "hash_code_list_example": "-444031512"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/immortal_cb_dmean_5000_it.json",
@@ -1086,18 +831,12 @@
         "id_image": "immortal_2453716"
       }
     ],
-    "hash_code_list_img": "1696621182",
-    "list_definition_mean": [
-      {
-        "mean_english": "bất diệt",
-        "definition": "living for ever and never dying",
-        "ex_of_definition_list": [
-          "A person’s soul is said to be immortal",
-          "the immortal works of Shakespeare."
-        ]
-      }
+    "hash_code_list_img": "1981414406",
+    "list_example": [
+      "the immortal works of Shakespeare.",
+      "Making the image even more coherent, these immortal tendencies get reinforced by the deliberate presentation of his body on the iconographical level."
     ],
-    "hash_code_list_definition_mean": "1529627160"
+    "hash_code_list_example": "-2082964858"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/immune_cb_dmean_5000_it.json",
@@ -1120,18 +859,20 @@
         "id_image": "immune_6181888"
       }
     ],
-    "hash_code_list_img": "-769145080",
-    "list_definition_mean": [
-      {
-        "mean_english": "miễn khỏi",
-        "definition": "(with toor from) immune protected against, or naturally resistant to, eg a disease",
-        "ex_of_definition_list": [
-          "He is immune to measles",
-          "On the river you are never completely immune from danger."
-        ]
-      }
+    "hash_code_list_img": "727440781",
+    "list_example": [
+      "He is immune to measles",
+      "On the river you are never completely immune from danger.",
+      "Effects of solar radiation and feeding time on behavior, immune response and production of lactating ewes under high ambient temperature.",
+      "In addition, the joint effects of pollutants and parasitism on the immune system of the host has not been ascertained.",
+      "The major challenge in the development of antischistosome vaccines is to use defined antigens to stimulate an appropriate immune response that leads to resistance.",
+      "Moreover, the successful development and long-term survival of cysticerci in mice may also be related to the immune response.",
+      "This could have consequences for understanding the pathogenesis of the disease and for developing methods to manipulate immune responses to eliminate the parasite.",
+      "First, mouse immune pathways are not always the same as human pathways.",
+      "For this reason, parasites have developed sophisticated self-regulating mechanisms to evade the immune response and to avoid being destroyed by the host.",
+      "This dichotomy is reflected in the immune response of these mice."
     ],
-    "hash_code_list_definition_mean": "518334304"
+    "hash_code_list_example": "1639988119"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/impact_cb_dmean_5000_it.json",
@@ -1165,24 +906,18 @@
         "id_image": "impact_826561"
       }
     ],
-    "hash_code_list_img": "-863206418",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự va chạm",
-        "definition": "(the force of) one object etc hitting against another",
-        "ex_of_definition_list": [
-          "The bomb exploded on impact."
-        ]
-      },
-      {
-        "mean_english": "ảnh hưởng",
-        "definition": "a strong effect or impression",
-        "ex_of_definition_list": [
-          "The film had quite an impact on television viewers."
-        ]
-      }
+    "hash_code_list_img": "-645789862",
+    "list_example": [
+      "The film had quite an impact on television viewers.",
+      "However, some participants reported that cancer had no impact on their life priorities.",
+      "This strengthens the case for work factors having a greater impact on socioeconomic inequalities in psychological distress among men.",
+      "The following account, while telling something of their story, looks at how such a private 'language' can impact negatively on second-language acquisition.",
+      "Observation and interviews with the children and the classroom teachers were used as a means to gather data on the potentially psychological impact of singing.",
+      "Work factors had a greater impact on class differences in psychological distress in men.",
+      "On neither coast, however, do fisher training programs provide a positive and significant impact in terms of technical efficiency.",
+      "The impact that patenting has on research is enhanced and reinforced by an additional range of factors."
     ],
-    "hash_code_list_definition_mean": "-370511667"
+    "hash_code_list_example": "-1112397336"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/impatient_cb_dmean_5000_it.json",
@@ -1210,17 +945,19 @@
         "id_image": "impatient_708652"
       }
     ],
-    "hash_code_list_img": "325925553",
-    "list_definition_mean": [
-      {
-        "mean_english": "thiếu kiên nhẫn",
-        "definition": "not willing to wait or delay; not patient",
-        "ex_of_definition_list": [
-          "Don’t be so impatient – it will soon be your turn."
-        ]
-      }
+    "hash_code_list_img": "-992478147",
+    "list_example": [
+      "Don’t be so impatient – it will soon be your turn.",
+      "In the face of impatient patrons clamoring for his works, he sometimes crafted paintings whose subject matters were metaphors of the careful, painstaking process of painting itself.",
+      "We are impatient for change, and want to see evidence of faster, fairer, more convenient services, including modern diagnostic and treatment services.",
+      "Indeed, he was notable in being impatient with any apparently agreed conclusions in modern history.",
+      "However, because of the enormity of the refugee problem, it tends to give priority to averting humanitarian crises, and gets impatient with the red tape that permeates state bureaucracies.",
+      "He studied a partial equilibrium model of impatient agents trading a single asset with a constant, exogenous interest rate, and facing a nonnegativity constraint on wealth.",
+      "In addition, they were also impatient with the cultural and linguistic studies required for a serious analysis, while anthropologists were seldom interested in politics.",
+      "The nation was not impatient under all this.",
+      "To overcome this uncertainty, individuals require a way of ensuring that they can avoid being cheated by impatient outsiders."
     ],
-    "hash_code_list_definition_mean": "1739721579"
+    "hash_code_list_example": "747464860"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/impediment_cb_dmean_5000_it.json",
@@ -1239,24 +976,17 @@
         "id_image": "impediment_6309952"
       }
     ],
-    "hash_code_list_img": "451033140",
-    "list_definition_mean": [
-      {
-        "mean_english": "chướng ngại vật",
-        "definition": "something that delays or prevents",
-        "ex_of_definition_list": [
-          "His criminal record could be an impediment to his finding employment."
-        ]
-      },
-      {
-        "mean_english": "sự nói lắp",
-        "definition": "a small fault in a person’s speech",
-        "ex_of_definition_list": [
-          "A stammer is a speech impediment."
-        ]
-      }
+    "hash_code_list_img": "1271566030",
+    "list_example": [
+      "His criminal record could be an impediment to his finding employment.",
+      "As industrial conflict intensified, it was a short step for officials to conclude that the jobber was an impediment to more harmonious social relations.",
+      "Lack of interest and debate, not to mention transparency and access to information, is a serious impediment to current relations on environmental and security issues.",
+      "As obstructive undergrowth, the jungle represented an impediment to progress; as an environment for hostile predators it signified the dread characteristics of man's unenlightened state.",
+      "The respect given to a traditional vernacular is often cited as an impediment to contemporary interventions especially in rural environments.",
+      "From previous attempts to collect data, it was recognised that reference to long lists of diagnostic codes could be a marked impediment to success.",
+      "Naivety is important at an early stage - in life or in an undertaking - but a definite impediment later on."
     ],
-    "hash_code_list_definition_mean": "-1431582195"
+    "hash_code_list_example": "1540090501"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/imperial_cb_dmean_5000_it.json",
@@ -1274,17 +1004,19 @@
         "id_image": "imperial_2201848"
       }
     ],
-    "hash_code_list_img": "291875185",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc hoàng đế",
-        "definition": "of an empire or an emperor",
-        "ex_of_definition_list": [
-          "the imperial crown."
-        ]
-      }
+    "hash_code_list_img": "1441087868",
+    "list_example": [
+      "the imperial crown.",
+      "Indeed, racialism was far from a reliable bulwark of the imperial mission, or indeed of the exploitation of other races.",
+      "Adults too, particularly the working classes, were thought to need imperial education.",
+      "To implement their decisions they needed either voluntary cooperation on the part of other officials or an imperial edict to force the issue.",
+      "Schmidt at times loses himself in his meticulous detail and thus misses opportunities to consider weighty issues such as otherness and imperial dominance.",
+      "As international statesmen they lacked interest in social and economic policy, and seemed also to be caught in a time-warp of imperial illusions.",
+      "Although a ready supporter of empire, he was uncomfortable with the intrigues of imperial expansion.",
+      "Thus, rather than fixed rituals, the descriptions of imperial ceremonies make clear that they underwent significant changes.",
+      "The failure of ralliement among the local elites represents a more fundamental failure of acculturation for the imperial regime than even armed rebellion."
     ],
-    "hash_code_list_definition_mean": "1674359249"
+    "hash_code_list_example": "-374214938"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/implant_cb_dmean_5000_it.json",
@@ -1318,24 +1050,14 @@
         "id_image": "implant_6408821"
       }
     ],
-    "hash_code_list_img": "1478443793",
-    "list_definition_mean": [
-      {
-        "mean_english": "ghi khắc",
-        "definition": "to put (ideas etc) into a person’s mind",
-        "ex_of_definition_list": [
-          "These principles were implanted in his mind from a very early age."
-        ]
-      },
-      {
-        "mean_english": "cấy",
-        "definition": "to put (eg human tissue, a device etc) permanently into a part of the body",
-        "ex_of_definition_list": [
-          "The operation to implant a new kidney in her body had been a success."
-        ]
-      }
+    "hash_code_list_img": "1590264622",
+    "list_example": [
+      "The operation to implant a new kidney in her body had been a success.",
+      "Safety of the implant procedure appears to be good, with some potential risks capable of being minimized as further experience is gained (1;3;11).",
+      "However, delaying reconstruction with an implant until after radiation therapy is completed may be impossible, or at least more difficult.",
+      "Thus, a permanent implant is often placed beneath the flap to provide adequate volume."
     ],
-    "hash_code_list_definition_mean": "1702531542"
+    "hash_code_list_example": "1164472616"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/implement_cb_dmean_5000_it.json",
@@ -1364,24 +1086,14 @@
         "id_image": "implement_5361228"
       }
     ],
-    "hash_code_list_img": "-2101017016",
-    "list_definition_mean": [
-      {
-        "mean_english": "dụng cụ",
-        "definition": "a tool or instrument",
-        "ex_of_definition_list": [
-          "kitchen/garden implements."
-        ]
-      },
-      {
-        "mean_english": "thi hành",
-        "definition": "to make something start to happen that has been officially decided",
-        "ex_of_definition_list": [
-          "The government will implement this policy immediately."
-        ]
-      }
+    "hash_code_list_img": "-1577926113",
+    "list_example": [
+      "The government will implement this policy immediately.",
+      "Physical evidence of racial differentiation had to wait until the boom of the 1890s provided sufficient taxation to implement segregated public services.",
+      "Thus, the movement of the implement is limited to a planar motion.",
+      "This makes it difficult to implement the idea that associations apply to increasingly complex representations."
     ],
-    "hash_code_list_definition_mean": "430357620"
+    "hash_code_list_example": "972510834"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/important_cb_dmean_5000_it.json",
@@ -1409,18 +1121,18 @@
         "id_image": "important_5619196"
       }
     ],
-    "hash_code_list_img": "2109493253",
-    "list_definition_mean": [
-      {
-        "mean_english": "quan trọng",
-        "definition": "(opposite unimportant) having great value, influence or effect",
-        "ex_of_definition_list": [
-          "an important book/person/occasion",
-          "It is important that you arrive here on time."
-        ]
-      }
+    "hash_code_list_img": "2037708896",
+    "list_example": [
+      "an important book/person/occasion",
+      "It is important that you arrive here on time.",
+      "Further investigation is required, because the issues are too important for simply assuming that persistence and intractability necessarily imply an organic genesis.",
+      "Clarification requests play an important role in effective conversations, and children must learn the conversational rules for interpreting and responding to such requests.",
+      "Suppose two people disagree about an important issue, and the disagreement is not due to one party's epistemic negligence or obliviousness to relevant evidence.",
+      "The results of this paper can be important for the study of the behavior of laboratory and space plasmas, and also for diagnostic purposes.",
+      "Yet, soil fertility will be the most important constraint for organic rice production.",
+      "This phonetic aspect is the main important difference between the two cases for other reasons as well."
     ],
-    "hash_code_list_definition_mean": "833320388"
+    "hash_code_list_example": "1543814495"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/import_cb_dmean_5000_it.json",
@@ -1460,31 +1172,16 @@
         "id_image": "import_5496784"
       }
     ],
-    "hash_code_list_img": "482231209",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhập khẩu",
-        "definition": "to bring in (goods etc) from abroad usually for sale",
-        "ex_of_definition_list": [
-          "We import wine from France."
-        ]
-      },
-      {
-        "mean_english": "hàng nhập khẩu",
-        "definition": "something which is imported from abroad",
-        "ex_of_definition_list": [
-          "The country’s imports are greater than its exports."
-        ]
-      },
-      {
-        "mean_english": "sự nhập khẩu",
-        "definition": "the act of bringing in goods from abroad",
-        "ex_of_definition_list": [
-          "the import of wine."
-        ]
-      }
+    "hash_code_list_img": "-536492253",
+    "list_example": [
+      "We import wine from France.",
+      "the import of wine.",
+      "Those countries that stayed at this import industrialization substitution stage stagnated economically.",
+      "In other words, as the rate of import increases, the proportion of the obsidian assemblage that is green decreases.",
+      "The import of these activities was evident after l989.",
+      "Exports have been taxed and import substitute industries are protected."
     ],
-    "hash_code_list_definition_mean": "1963800919"
+    "hash_code_list_example": "702400187"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/impression_cb_dmean_5000_it.json",
@@ -1505,31 +1202,13 @@
         "id_image": "impression_3703284"
       }
     ],
-    "hash_code_list_img": "128403089",
-    "list_definition_mean": [
-      {
-        "mean_english": "ấn tượng",
-        "definition": "the idea or effect produced in someone’s mind by a person, experience etc",
-        "ex_of_definition_list": [
-          "The film made a great impression on me."
-        ]
-      },
-      {
-        "mean_english": "cảm giác",
-        "definition": "a vague idea",
-        "ex_of_definition_list": [
-          "I have the impression that he’s not pleased."
-        ]
-      },
-      {
-        "mean_english": "dấu",
-        "definition": "the mark left by an object on another object",
-        "ex_of_definition_list": [
-          "The dog left an impression of its paws in the wet cement."
-        ]
-      }
+    "hash_code_list_img": "1731894739",
+    "list_example": [
+      "The film made a great impression on me.",
+      "I have the impression that he’s not pleased.",
+      "The dog left an impression of its paws in the wet cement."
     ],
-    "hash_code_list_definition_mean": "265333542"
+    "hash_code_list_example": "2135907241"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/improvement_cb_dmean_5000_it.json",
@@ -1553,25 +1232,14 @@
         "id_image": "improvement_6040861"
       }
     ],
-    "hash_code_list_img": "1570763502",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự cải tiến",
-        "definition": "the state or act of improving or being improved",
-        "ex_of_definition_list": [
-          "There has been a great improvement in her work",
-          "The patient’s condition shows some improvement."
-        ]
-      },
-      {
-        "mean_english": "sự sửa sang",
-        "definition": "something which improves, or adds beauty, value etc",
-        "ex_of_definition_list": [
-          "I’ve made several improvements to the house."
-        ]
-      }
+    "hash_code_list_img": "-233223537",
+    "list_example": [
+      "There has been a great improvement in her work",
+      "The results showed significant improvement after training across age groups.",
+      "We incline to think that the latter change, in contrast to the former, represents a cognitive improvement in our condition.",
+      "Participants in both intervention and control groups showed significant improvement in mood symptoms over time."
     ],
-    "hash_code_list_definition_mean": "-411283336"
+    "hash_code_list_example": "-660421978"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/improve_cb_dmean_5000_it.json",
@@ -1599,18 +1267,18 @@
         "id_image": "improve_564839"
       }
     ],
-    "hash_code_list_img": "854877600",
-    "list_definition_mean": [
-      {
-        "mean_english": "cải thiện",
-        "definition": "to (cause to) become better, of higher quality etc",
-        "ex_of_definition_list": [
-          "His work has greatly improved",
-          "They recently improved the design of that car."
-        ]
-      }
+    "hash_code_list_img": "-74655116",
+    "list_example": [
+      "His work has greatly improved",
+      "They recently improved the design of that car.",
+      "As shown, the rule improves the quality by about 20%.",
+      "They have since improved their overall fine-grained score to 66.3%.",
+      "Each questionnaire was piloted twice, which improved the wording and relevance of the questions.",
+      "He rarely could wait weeks or even days until prices improved.",
+      "Over the years the relationship between the two improved.",
+      "Artificially \"controlling\" the sun's altitude and azimuth significantly improves discriminating bajo islands from the background areas."
     ],
-    "hash_code_list_definition_mean": "1858567370"
+    "hash_code_list_example": "1056815768"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/impulse_cb_dmean_5000_it.json",
@@ -1629,24 +1297,11 @@
         "id_image": "impulse_1533981"
       }
     ],
-    "hash_code_list_img": "1547826879",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự hấp tấp",
-        "definition": "a sudden desire to do something, without thinking about the consequences",
-        "ex_of_definition_list": [
-          "I bought the dress on impulse – I didn’t really need it"
-        ]
-      },
-      {
-        "mean_english": "sự thúc đẩy",
-        "definition": "a sudden force or stimulation",
-        "ex_of_definition_list": [
-          "an electrical impulse."
-        ]
-      }
+    "hash_code_list_img": "290991573",
+    "list_example": [
+      "I bought the dress on impulse – I didn’t really need it"
     ],
-    "hash_code_list_definition_mean": "139147385"
+    "hash_code_list_example": "-618797957"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/imp_cb_dmean_5000_it.json",
@@ -1665,17 +1320,13 @@
         "id_image": "imp_5243172"
       }
     ],
-    "hash_code_list_img": "823415754",
-    "list_definition_mean": [
-      {
-        "mean_english": "đứa trẻ tinh quái",
-        "definition": "a mischievous child",
-        "ex_of_definition_list": [
-          "Her son is a little imp."
-        ]
-      }
+    "hash_code_list_img": "1141927492",
+    "list_example": [
+      "She was an imp of mischief from commencement to conclusion.",
+      "That imp sits on his shoulders very often, but there must have been one on each shoulder when he designed this wretched, mean and despicable tax on the poor children.",
+      "While appearing as a diminutive imp monster, her actual form is human-shaped."
     ],
-    "hash_code_list_definition_mean": "2068052347"
+    "hash_code_list_example": "297295388"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/inability_cb_dmean_5000_it.json",
@@ -1693,17 +1344,18 @@
         "id_image": "inability_1401413"
       }
     ],
-    "hash_code_list_img": "768911304",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự bất tài",
-        "definition": "the lack of power, means, ability etc (to do something)",
-        "ex_of_definition_list": [
-          "I was surprised at his inability to read."
-        ]
-      }
+    "hash_code_list_img": "91904802",
+    "list_example": [
+      "I was surprised at his inability to read.",
+      "The story of his inability to keep silent after this abjuration has been told many times.",
+      "The inability of contemporary critics to address the book on its own terms is difficult to explain.",
+      "This mismatch is mainly related to the inability of primary producers to harvest the photons incident on the sea or the land surface.",
+      "This opening passage stages a most curious scene, indeed, foregrounding the physician's own curiosity and initial inability to explain the mysterious silence of his friend.",
+      "The recurring inability to efficiently collect pension contributions is a striking example of limited administrative capacity that undermines policy implementation.",
+      "Thus, many of the failures of econometrics are easily grasped as manifestations of structural changes combined with the inability to predict such changes.",
+      "The manufacturing sector grew rapidly but its long-term development was constrained by an inability to compete in international markets."
     ],
-    "hash_code_list_definition_mean": "2129898048"
+    "hash_code_list_example": "1968598077"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/inbox_cb_dmean_5000_it.json",
@@ -1742,17 +1394,15 @@
         "id_image": "inbox_5512567"
       }
     ],
-    "hash_code_list_img": "699158379",
-    "list_definition_mean": [
-      {
-        "mean_english": "hòm thư",
-        "definition": "the place in an email program where new messages arrive",
-        "ex_of_definition_list": [
-          "My inbox has over 30 emails in it."
-        ]
-      }
+    "hash_code_list_img": "-1453407605",
+    "list_example": [
+      "My inbox has over 30 emails in it.",
+      "A message sitting in the inbox demands immediate attention and cannot be postponed, as was possible in the old days of postal correspondence.",
+      "This has the additional task of loading the marked-up image onto a specific webpage before checking the mail inbox for newly saved mail.",
+      "Every day, my inbox contains e-mails carrying diallers, which are effectively viruses.",
+      "Thirdly, e-mail advertising will be easily recognisable as such in the inbox and will be able to be deleted simply and without cost."
     ],
-    "hash_code_list_definition_mean": "1228481141"
+    "hash_code_list_example": "-1495154556"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/incense_cb_dmean_5000_it.json",
@@ -1780,17 +1430,11 @@
         "id_image": "incense_3498298"
       }
     ],
-    "hash_code_list_img": "-890498539",
-    "list_definition_mean": [
-      {
-        "mean_english": "que hương",
-        "definition": "a substance which is burned especially in religious services, and which gives off a pleasant smell",
-        "ex_of_definition_list": [
-          "a stick of incense."
-        ]
-      }
+    "hash_code_list_img": "-967160938",
+    "list_example": [
+      "a stick of incense."
     ],
-    "hash_code_list_definition_mean": "1515989160"
+    "hash_code_list_example": "1055169646"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/incentive_cb_dmean_5000_it.json",
@@ -1828,17 +1472,15 @@
         "id_image": "incentive_992628"
       }
     ],
-    "hash_code_list_img": "271623774",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự khuyến khích",
-        "definition": "something that encourages etc",
-        "ex_of_definition_list": [
-          "Hope of promotion was an incentive to hard work."
-        ]
-      }
+    "hash_code_list_img": "470775086",
+    "list_example": [
+      "Hope of promotion was an incentive to hard work.",
+      "In political terms, it took an argument for boycotting the elections away from the opposition and provided it with an added incentive to participate.",
+      "Economic returns from these projects may provide a strong incentive for such countries to participate.",
+      "Leasing to small farmers can also be encouraged, but incentive problems will make these farms somewhat less efficient than small owner-operated farms.",
+      "The incentive to collect and return the item is effectively transferred to the agents with the lowest opportunity cost of time."
     ],
-    "hash_code_list_definition_mean": "1546001555"
+    "hash_code_list_example": "1933319088"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/inch_cb_dmean_5000_it.json",
@@ -1858,32 +1500,15 @@
         "id_image": "inch_4236613"
       }
     ],
-    "hash_code_list_img": "2126071215",
-    "list_definition_mean": [
-      {
-        "mean_english": "đơn vị đo chiều dài (2,54 cm)",
-        "definition": "(often abbreviated to inwhen written) a measure of length, the twelfth part of a foot (2.54 centimetres)",
-        "ex_of_definition_list": [
-          "a 12-inch ruler",
-          "The picture measures 8 inches by 5 inches."
-        ]
-      },
-      {
-        "mean_english": "một chút",
-        "definition": "a small amount",
-        "ex_of_definition_list": [
-          "There is not an inch of room to spare."
-        ]
-      },
-      {
-        "mean_english": "nhích dần",
-        "definition": "to move slowly and carefully",
-        "ex_of_definition_list": [
-          "He inched (his way) along the narrow ledge."
-        ]
-      }
+    "hash_code_list_img": "1918394018",
+    "list_example": [
+      "a 12-inch ruler",
+      "There is not an inch of room to spare.",
+      "In places, the text comes to within one-eight of an inch of the bottom of the page and the margins are uniformly narrow.",
+      "Inch by inch the disturbance rises as if the desert were rising in obedience to some upthrusting force beneath.",
+      "They were seated at a comfortable viewing distance from the monitor with the microphone approximately one inch in front of their lips."
     ],
-    "hash_code_list_definition_mean": "571197402"
+    "hash_code_list_example": "1821224175"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/incident_cb_dmean_5000_it.json",
@@ -1901,17 +1526,11 @@
         "id_image": "incident_6159885"
       }
     ],
-    "hash_code_list_img": "2034585005",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự kiện",
-        "definition": "an event or happening",
-        "ex_of_definition_list": [
-          "There was a strange incident in the supermarket today."
-        ]
-      }
+    "hash_code_list_img": "1801764736",
+    "list_example": [
+      "There was a strange incident in the supermarket today."
     ],
-    "hash_code_list_definition_mean": "930610275"
+    "hash_code_list_example": "-1353087993"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/incision_cb_dmean_5000_it.json",
@@ -1930,17 +1549,17 @@
         "id_image": "incision_2317712"
       }
     ],
-    "hash_code_list_img": "1309912890",
-    "list_definition_mean": [
-      {
-        "mean_english": "vết rạch",
-        "definition": "a cut, especially one made in a person’s body by a surgeon",
-        "ex_of_definition_list": [
-          "An incision was made in the patient’s chest."
-        ]
-      }
+    "hash_code_list_img": "30784379",
+    "list_example": [
+      "An incision was made in the patient’s chest.",
+      "Solitary lesion on nail fold at day 11 of infection and incision of the lesion are seen (acute stage).",
+      "The jade disks are only polished and bear no incision or other surface carving.",
+      "If inadequate, then a vertical incision is made in the pulmonary artery, a full valvotomy performed without peripheral release, and the \"annulus\" remeasured.",
+      "Every aspect bar the initial incision and post-operative stitching was performed by the robot.",
+      "The pivot center of the mechanism is located at the incision point.",
+      "We attempted to reduce this \"inferiority complex\" of the patients after surgery by limiting the extent of our skin incision in the upper chest."
     ],
-    "hash_code_list_definition_mean": "2058543159"
+    "hash_code_list_example": "369621523"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/inclusive_cb_dmean_5000_it.json",
@@ -1973,17 +1592,19 @@
         "id_image": "inclusive_5692692"
       }
     ],
-    "hash_code_list_img": "1362302639",
-    "list_definition_mean": [
-      {
-        "mean_english": "kể cả",
-        "definition": "counting both the first and last in a series",
-        "ex_of_definition_list": [
-          "May 7 to May 9 inclusive is three days."
-        ]
-      }
+    "hash_code_list_img": "-34939154",
+    "list_example": [
+      "May 7 to May 9 inclusive is three days.",
+      "Framed in inclusive terms, a health-gradient approach directs attention to the composition of the population: to the distribution of socioeconomic advantage and disadvantage.",
+      "Clearly, the inclusive expansion of sonic materials and their treatment is pervasive and becoming an integral part of our cultural musical values.",
+      "Without rediscovery of victims' voices, the idea of an inclusive process of truth recovery (essential to an effective legal and political transition) remains a chimera.",
+      "He makes a case for the interdisciplinarity of an organisation in order for it to be more responsive, inclusive and innovative.",
+      "A pantheist must reject this : a maximally inclusive unity is maximally complex.",
+      "I believe that there is, and that a strong political culture can provide a solid but inclusive basis for democratic legitimacy.",
+      "The lessons drawn from this case can certainly inspire policy-makers to elaborate inclusive solutions in other contexts.",
+      "The next more inclusive layer is the core, and it includes the predicate and the arguments of the predicate."
     ],
-    "hash_code_list_definition_mean": "1183776608"
+    "hash_code_list_example": "1806758527"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/incognito_cb_dmean_5000_it.json",
@@ -2011,17 +1632,16 @@
         "id_image": "incognito_4116611"
       }
     ],
-    "hash_code_list_img": "-640480387",
-    "list_definition_mean": [
-      {
-        "mean_english": "giấu tên",
-        "definition": "without letting people know who one is, eg by using a false name",
-        "ex_of_definition_list": [
-          "He travelled incognito to Paris."
-        ]
-      }
+    "hash_code_list_img": "-1205451294",
+    "list_example": [
+      "He travelled incognito to Paris.",
+      "They would prefer to be incognito than enfranchised.",
+      "In another interview we were told that he intends to travel incognito on the trains and tubes.",
+      "Who better than him to surpass the incognito signified in my girl of the cord?",
+      "They are to devote more of their time to work on passenger ships and carry out many more spot and incognito checks than before.",
+      "The vehicle inspectorate also makes incognito visits to testing stations; follows up complaints about stations; and checks vehicles at the roadside."
     ],
-    "hash_code_list_definition_mean": "671736745"
+    "hash_code_list_example": "-1780904031"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/income_cb_dmean_5000_it.json",
@@ -2054,17 +1674,19 @@
         "id_image": "income_950576"
       }
     ],
-    "hash_code_list_img": "1897372846",
-    "list_definition_mean": [
-      {
-        "mean_english": "thu nhập",
-        "definition": "money received by a person as wages etc",
-        "ex_of_definition_list": [
-          "He cannot support his family on his income."
-        ]
-      }
+    "hash_code_list_img": "1438136098",
+    "list_example": [
+      "He cannot support his family on his income.",
+      "Business users are a mix of commuters and city users, with speci®c consumption (and business) needs and often with high disposable incomes.",
+      "They were free to choose their occupation as well as the disposition of their incomes.",
+      "A 50 % fall in green cob maize price reduced net incomes by more than 63 % in all the treatments.",
+      "Instead, i they are lumped together with \"other incomes,\" including any capital and rental incomes that are reported in the survey.",
+      "Disposable incomes were still too small and the power of young people, particularly young girls, too weak to trigger a decisive confrontation between generations.",
+      "The paper then looks within the pensioner population at the incomes of different groups of older people.",
+      "The links that joined men to women, cash to care, incomes to carers have all been fractured.",
+      "With this in mind, the effect on incomes would need to be presented in a way that is easy to understand."
     ],
-    "hash_code_list_definition_mean": "1904241795"
+    "hash_code_list_example": "-1905426616"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/incomplete_cb_dmean_5000_it.json",
@@ -2082,18 +1704,19 @@
         "id_image": "incomplete_5387073"
       }
     ],
-    "hash_code_list_img": "1218846295",
-    "list_definition_mean": [
-      {
-        "mean_english": "chưa hoàn thành",
-        "definition": "not complete or finished; with some part missing",
-        "ex_of_definition_list": [
-          "His novel was incomplete when he died",
-          "an incomplete pack of cards."
-        ]
-      }
+    "hash_code_list_img": "1703272335",
+    "list_example": [
+      "His novel was incomplete when he died",
+      "an incomplete pack of cards.",
+      "The few letters are very incomplete and comprise just 30 pages of the text.",
+      "Externality can be introduced into our model by defining an incomplete set of markets.",
+      "Nevertheless, only an incomplete understanding of safety may be reached if consideration of this third mechanism is omitted.",
+      "Because of the incomplete representation of this solution by the boundary-layer theory, it is difficult to obtain more than a qualitative comparison.",
+      "They will accept a false but complete hierarchy of ends over an incomplete one.",
+      "Most cases lost to follow-up were due to inaccurate or incomplete addresses or to the patient's moving without leaving a new address.",
+      "The incomplete picture of the embryopathy may be easily missed."
     ],
-    "hash_code_list_definition_mean": "1710845303"
+    "hash_code_list_example": "-57099339"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/incorrect_cb_dmean_5000_it.json",
@@ -2117,24 +1740,14 @@
         "id_image": "incorrect_5387420"
       }
     ],
-    "hash_code_list_img": "1955806891",
-    "list_definition_mean": [
-      {
-        "mean_english": "sai",
-        "definition": "not accurate or correct; wrong",
-        "ex_of_definition_list": [
-          "an incorrect assumption",
-          "an incorrect translation of a word."
-        ]
-      },
-      {
-        "mean_english": "không chấp nhận được",
-        "definition": "(of behaviour/behavior etc) not acceptable; wrong",
-        "ex_of_definition_list": [
-          "an incorrect way of behaving in polite company."
-        ]
-      }
+    "hash_code_list_img": "-1494792026",
+    "list_example": [
+      "an incorrect assumption",
+      "an incorrect translation of a word.",
+      "an incorrect way of behaving in polite company.",
+      "If incorrect interpretations had required more time, one could argue that the children were considering the conflict between meanings.",
+      "In addition, it shows that infants actively direct others' attention, and even redirect others' attention when they are mistakenly referring to an incorrect referent."
     ],
-    "hash_code_list_definition_mean": "967985656"
+    "hash_code_list_example": "1071987548"
   }
 ]

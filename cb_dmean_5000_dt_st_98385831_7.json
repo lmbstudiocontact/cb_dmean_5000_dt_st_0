@@ -21,25 +21,11 @@
         "id_image": "listen_2643572"
       }
     ],
-    "hash_code_list_img": "-318762367",
-    "list_definition_mean": [
-      {
-        "mean_english": "lắng nghe",
-        "definition": "(often with to) to give attention so as to hear (what someone is saying etc)",
-        "ex_of_definition_list": [
-          "I told her three times, but she wasn’t listening",
-          "Do listen to the music!"
-        ]
-      },
-      {
-        "mean_english": "nghe theo",
-        "definition": "(with to) to follow the advice of",
-        "ex_of_definition_list": [
-          "If she’d listened to me, she wouldn’t have got into trouble."
-        ]
-      }
+    "hash_code_list_img": "-1133710674",
+    "list_example": [
+      "Do listen to the music!"
     ],
-    "hash_code_list_definition_mean": "281992249"
+    "hash_code_list_example": "-1395411509"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/list_cb_dmean_5000_it.json",
@@ -80,32 +66,11 @@
         "id_image": "list_4138632"
       }
     ],
-    "hash_code_list_img": "-107484564",
-    "list_definition_mean": [
-      {
-        "mean_english": "danh sách",
-        "definition": "a series eg of names, numbers, prices etc written down or said one after the other",
-        "ex_of_definition_list": [
-          "a shopping list",
-          "We have a long list of people who are willing to help."
-        ]
-      },
-      {
-        "mean_english": "liệt kê",
-        "definition": "to place in a list",
-        "ex_of_definition_list": [
-          "He listed the things he had to do."
-        ]
-      },
-      {
-        "mean_english": "nghiêng",
-        "definition": "to lean over to one side",
-        "ex_of_definition_list": [
-          "The ship is listing."
-        ]
-      }
+    "hash_code_list_img": "1824047487",
+    "list_example": [
+      "We have a long list of people who are willing to help."
     ],
-    "hash_code_list_definition_mean": "1512404582"
+    "hash_code_list_example": "1470009392"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/literary_cb_dmean_5000_it.json",
@@ -124,24 +89,20 @@
         "id_image": "literary_2178155"
       }
     ],
-    "hash_code_list_img": "1387253239",
-    "list_definition_mean": [
-      {
-        "mean_english": "văn học",
-        "definition": "concerning literature or the writing of books",
-        "ex_of_definition_list": [
-          "a literary magazine."
-        ]
-      },
-      {
-        "mean_english": "nhà văn",
-        "definition": "(of a person) knowledgeable about books",
-        "ex_of_definition_list": [
-          "a literary expert."
-        ]
-      }
+    "hash_code_list_img": "1953485242",
+    "list_example": [
+      "a literary magazine.",
+      "a literary expert.",
+      "With a reference list of literary works, munication networks, and new approaches to story resources to fight censorship, and three appendices telling.",
+      "The revaluation of songs did not result in a lasting elevated literary status of the genre.",
+      "Before proponents of the so-called literary turn in anthropology achieved dominance in the field, the anthropological monograph was an easily identified artefact.",
+      "Students are thus able to read short extracts from correspondence, legislation, theoretical and literary material, which substantiate the contexts they have been led to consider.",
+      "It deserves the welcome which students reserve for a really important contribution to literary criticism.",
+      "Some of the chapters even ignore literary conventions, such as an introduction and conclusion, leaving the reader to search for the argument alone.",
+      "That connotation is associated with the literary myth and symbol tendency of interpretation focusing on his lyrics.",
+      "His study of nineteenth-century ' ' higher law ' ' debates in relation to key literary and cultural material is provocative, original, and ambitious."
     ],
-    "hash_code_list_definition_mean": "398699528"
+    "hash_code_list_example": "-900409096"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/literature_cb_dmean_5000_it.json",
@@ -174,17 +135,19 @@
         "id_image": "literature_874694"
       }
     ],
-    "hash_code_list_img": "1525012080",
-    "list_definition_mean": [
-      {
-        "mean_english": "văn học",
-        "definition": "poems, novels, plays etc in verse or prose, especially if of fine quality",
-        "ex_of_definition_list": [
-          "modern literature."
-        ]
-      }
+    "hash_code_list_img": "960074291",
+    "list_example": [
+      "modern literature.",
+      "An exhaustive review of themes across the two literatures is beyond the scope of this article.",
+      "We begin with a brief review of the relevant literatures.",
+      "To what extent have any of these literatures focused on social policy or the welfare state?",
+      "The social network and social support literatures provide an excellent foundation from which to develop our knowledge of the caring capacity of the informal sector.",
+      "Unfortunately, a number of ineffective strategies for identifying taxa continue to appear in the psychology and psychiatry literatures.",
+      "I employ an evolutionary approach to these disparate literatures to form a coherent picture of the signal function of the early infant cry.",
+      "Operative metaphors in these literatures include \"agenda-setting\" in political science and \"problem definition\" in sociology.",
+      "Concerning theory, the results suggest that earlier literatures were in fact correct to see regime type as having important economic effects."
     ],
-    "hash_code_list_definition_mean": "964661885"
+    "hash_code_list_example": "1208863110"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/litigation_cb_dmean_5000_it.json",
@@ -202,18 +165,16 @@
         "id_image": "litigation_2419705"
       }
     ],
-    "hash_code_list_img": "158801040",
-    "list_definition_mean": [
-      {
-        "mean_english": "vụ kiện",
-        "definition": "a private law-suit",
-        "ex_of_definition_list": [
-          "costly litigation",
-          "He is keen to avoid litigation."
-        ]
-      }
+    "hash_code_list_img": "974028712",
+    "list_example": [
+      "First, private parties often lack the individual incentive to initiate litigation before national courts.",
+      "In other words, litigation has a very uneven reach and does not always address some of the most serious corporate wrongdoings in society.",
+      "As noted, it is impossible to take the disputes directly as administrative litigation because the village collective is not part of the administrative apparatus.",
+      "And even these payments were reduced through the efforts of unscrupulous insurance adjusters and the continued need for litigation to obtain recovery.",
+      "A feeble deterrent to prevent this leap was the outlawing of litigation mastery and a general sense of ethics.",
+      "To be more precise, in early pre-consumer societies where transactions were largely unwritten, litigation occurred as a way of establishing the terms of transactions."
     ],
-    "hash_code_list_definition_mean": "558400702"
+    "hash_code_list_example": "-1328589461"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/litter_cb_dmean_5000_it.json",
@@ -244,38 +205,17 @@
         "id_image": "litter_5793689"
       }
     ],
-    "hash_code_list_img": "241861507",
-    "list_definition_mean": [
-      {
-        "mean_english": "rác rưởi bừa bãi",
-        "definition": "an untidy mess of paper, rubbish etc",
-        "ex_of_definition_list": [
-          "Put your litter in that bin."
-        ]
-      },
-      {
-        "mean_english": "đống rơm",
-        "definition": "a heap of straw etc for animals to lie on etc",
-        "ex_of_definition_list": [
-          "cat litter."
-        ]
-      },
-      {
-        "mean_english": "lứa đẻ",
-        "definition": "a number of animals born to the same mother at the same time",
-        "ex_of_definition_list": [
-          "a litter of kittens."
-        ]
-      },
-      {
-        "mean_english": "bày bừa lên",
-        "definition": "to cover (the ground etc) with scattered objects",
-        "ex_of_definition_list": [
-          "Papers littered the table."
-        ]
-      }
+    "hash_code_list_img": "269493014",
+    "list_example": [
+      "Put your litter in that bin.",
+      "a litter of kittens.",
+      "The possible removal of fruits or seeds from litter traps by animals was carefully monitored and considered insignificant.",
+      "Females were caged by litter and a density of four mice per cage was maintained.",
+      "Amount of leaf litter was estimated as the number of leaves pierced by a metal stake thrust into the soil at the site.",
+      "Ponerinae have their main distribution in the litter, do also occur in litter vegetation, but nearly drop out in the canopy.",
+      "The single exponential model used to explain the temporal dynamics of litter decay fitted the data well, explaining 59-96% of the data variation."
     ],
-    "hash_code_list_definition_mean": "-1618049023"
+    "hash_code_list_example": "-289596578"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/little_cb_dmean_5000_it.json",
@@ -299,60 +239,23 @@
         "id_image": "little_4866835"
       }
     ],
-    "hash_code_list_img": "1297259487",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhỏ bé",
-        "definition": "small in size",
-        "ex_of_definition_list": [
-          "He is only a little boy",
-          "When she was little (= a child), she wanted to be a nurse."
-        ]
-      },
-      {
-        "mean_english": "một ít",
-        "definition": "small in amount; not much",
-        "ex_of_definition_list": [
-          "He has little knowledge of the difficulties involved."
-        ]
-      },
-      {
-        "mean_english": "không quan trọng",
-        "definition": "not important",
-        "ex_of_definition_list": [
-          "I did not expect her to make a fuss about such a little thing."
-        ]
-      },
-      {
-        "mean_english": "lượng nhỏ",
-        "definition": "(only) a small amount",
-        "ex_of_definition_list": [
-          "He knows little of the real world."
-        ]
-      },
-      {
-        "mean_english": "không nhiều",
-        "definition": "not much",
-        "ex_of_definition_list": [
-          "I go out little nowadays."
-        ]
-      },
-      {
-        "mean_english": "một chút",
-        "definition": "only to a small degree",
-        "ex_of_definition_list": [
-          "a little-known fact."
-        ]
-      },
-      {
-        "mean_english": "không biết tí nào",
-        "definition": "not at all",
-        "ex_of_definition_list": [
-          "He little knows how ill he is."
-        ]
-      }
+    "hash_code_list_img": "1789821675",
+    "list_example": [
+      "He is only a little boy",
+      "When she was little (= a child), she wanted to be a nurse.",
+      "He has little knowledge of the difficulties involved.",
+      "I did not expect her to make a fuss about such a little thing.",
+      "He knows little of the real world.",
+      "I go out little nowadays.",
+      "He little knows how ill he is.",
+      "However one of the most fundamental has been the subject of very little comment.",
+      "Advertising had little role because it mostly concerned new brands with no place in the system.",
+      "Given the inclusion of nation and year fixed effects in the model, the introduction of country dummies-covariate interactions results in little reduction of unexplained variance.",
+      "In both cases, making function composition left- or right-associative has little influence on the overall efficiency.",
+      "He did little to stop the spread of the prosperity gospel.",
+      "The entropy plateaus when the additional markers contribute little additional information."
     ],
-    "hash_code_list_definition_mean": "-1197486228"
+    "hash_code_list_example": "2022307108"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/liver_cb_dmean_5000_it.json",
@@ -381,17 +284,17 @@
         "id_image": "liver_6350266"
       }
     ],
-    "hash_code_list_img": "-653437813",
-    "list_definition_mean": [
-      {
-        "mean_english": "gan",
-        "definition": "a large organ in the body which purifies the blood",
-        "ex_of_definition_list": [
-          "a liver transplant."
-        ]
-      }
+    "hash_code_list_img": "-1800662007",
+    "list_example": [
+      "a liver transplant.",
+      "The accumulation of polymers within the secretory pathway leads to hepatocyte death and, ultimately, to liver cirrhosis.",
+      "Both pathways eventually lead to liver necrosis (fig003glt).",
+      "Selecting candidates for liver transplantation: a medical ethics perspective on the allocation of a scarce and rationed resource.",
+      "The diagnosis of cirrhosis was based on liver biopsy or conventional clinical, biological and endoscopic findings.",
+      "Each group of mice was assayed for early phase attrition by skin or skin and lung recovery; and for late phase attrition by liver perfusion.",
+      "Two targets were baited with fresh liver and two with liver that had been aged for 14 days, as described previously, prior to deployment."
     ],
-    "hash_code_list_definition_mean": "1117642348"
+    "hash_code_list_example": "1941347247"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/live_cb_dmean_5000_it.json",
@@ -427,84 +330,19 @@
         "id_image": "live_5853752"
       }
     ],
-    "hash_code_list_img": "-1277465050",
-    "list_definition_mean": [
-      {
-        "mean_english": "có sự sống",
-        "definition": "to have life; to be alive",
-        "ex_of_definition_list": [
-          "a threat to virtually everything that lives on the planet."
-        ]
-      },
-      {
-        "mean_english": "vẫn còn sống",
-        "definition": "to survive",
-        "ex_of_definition_list": [
-          "The doctors say he is very ill, but they think he will live.",
-          "It was difficult to believe that she had lived through such an experience."
-        ]
-      },
-      {
-        "mean_english": "sống ở",
-        "definition": "to have one’s home or dwelling (in a particular place)",
-        "ex_of_definition_list": [
-          "She lives next to the church.",
-          "They went to live in Bristol / in a huge house."
-        ]
-      },
-      {
-        "mean_english": "sống trong hoàn cảnh",
-        "definition": "to pass (one’s life)",
-        "ex_of_definition_list": [
-          "He lived a life of luxury.",
-          "She lives in fear of being attacked."
-        ]
-      },
-      {
-        "mean_english": "sống nhờ vào",
-        "definition": "(with by) to make enough money etc to feed and house oneself",
-        "ex_of_definition_list": [
-          "He lives by fishing."
-        ]
-      },
-      {
-        "mean_english": "sống",
-        "definition": "having life; not dead",
-        "ex_of_definition_list": [
-          "a live mouse."
-        ]
-      },
-      {
-        "mean_english": "trực tiếp",
-        "definition": "(of a radio or television broadcast etc) heard or seen as the event takes place; not recorded",
-        "ex_of_definition_list": [
-          "I watched a live performance of my favourite opera on television",
-          "Was the performance live or recorded?"
-        ]
-      },
-      {
-        "mean_english": "chưa nổ, chưa cháy",
-        "definition": "full of energy, and capable of becoming active",
-        "ex_of_definition_list": [
-          "a live bomb"
-        ]
-      },
-      {
-        "mean_english": "đang cháy",
-        "definition": "burning",
-        "ex_of_definition_list": [
-          "a live coal."
-        ]
-      },
-      {
-        "mean_english": "trực tiếp",
-        "definition": "(of a radio or television broadcast etc) as the event takes place",
-        "ex_of_definition_list": [
-          "The competition will be broadcast live."
-        ]
-      }
+    "hash_code_list_img": "293145246",
+    "list_example": [
+      "They went to live in Bristol / in a huge house.",
+      "a live mouse.",
+      "I watched a live performance of my favourite opera on television",
+      "Was the performance live or recorded?",
+      "a live bomb",
+      "a live coal.",
+      "The tasks were presented live by the first author.",
+      "The number of breathless people is increasing as patients with all types of cardio-respiratory disease live longer.",
+      "Percentages of live term fetuses were determined based on the number of 2-cell embryos transferred."
     ],
-    "hash_code_list_definition_mean": "-2093298679"
+    "hash_code_list_example": "-2132545641"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/load_cb_dmean_5000_it.json",
@@ -543,55 +381,14 @@
         "id_image": "load_554512"
       }
     ],
-    "hash_code_list_img": "-819129694",
-    "list_definition_mean": [
-      {
-        "mean_english": "vật chở",
-        "definition": "something which is being carried",
-        "ex_of_definition_list": [
-          "The lorry/truck had to stop because its load had fallen off",
-          "She was carrying a load of groceries."
-        ]
-      },
-      {
-        "mean_english": "trọng tải",
-        "definition": "as much as can be carried at one time",
-        "ex_of_definition_list": [
-          "two lorry-loads/truck-loads of earth."
-        ]
-      },
-      {
-        "mean_english": "rất nhiều",
-        "definition": "a large amount",
-        "ex_of_definition_list": [
-          "He talked a load of rubbish",
-          "We ate loads of ice-cream."
-        ]
-      },
-      {
-        "mean_english": "điện áp",
-        "definition": "the power carried by an electric circuit",
-        "ex_of_definition_list": [
-          "The wires were designed for a load of 15 amps."
-        ]
-      },
-      {
-        "mean_english": "chất",
-        "definition": "to take or put on what is to be carried (especially if heavy)",
-        "ex_of_definition_list": [
-          "They loaded the luggage into the car",
-          "The lorry/truck was loading when they arrived."
-        ]
-      },
-      {
-        "mean_english": "nạp đạn",
-        "definition": "to put ammunition into (a gun)",
-        "ex_of_definition_list": [
-          "He loaded the revolver and fired."
-        ]
-      }
+    "hash_code_list_img": "-309496017",
+    "list_example": [
+      "The lorry/truck had to stop because its load had fallen off",
+      "She was carrying a load of groceries.",
+      "He talked a load of rubbish",
+      "The wires were designed for a load of 15 amps."
     ],
-    "hash_code_list_definition_mean": "1421775997"
+    "hash_code_list_example": "411018621"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/loaf_cb_dmean_5000_it.json",
@@ -620,24 +417,11 @@
         "id_image": "loaf_3280310"
       }
     ],
-    "hash_code_list_img": "-2070574116",
-    "list_definition_mean": [
-      {
-        "mean_english": "ổ bánh",
-        "definition": "a shaped mass of bread",
-        "ex_of_definition_list": [
-          "a sliced loaf."
-        ]
-      },
-      {
-        "mean_english": "lười nhác",
-        "definition": "(with aboutor around) to pass time without doing anything in particular",
-        "ex_of_definition_list": [
-          "They were loafing about (the street)."
-        ]
-      }
+    "hash_code_list_img": "-1647905927",
+    "list_example": [
+      "The utilitarian may argue that everything is imperfect and that half a loaf is better than no bread."
     ],
-    "hash_code_list_definition_mean": "669409298"
+    "hash_code_list_example": "345786110"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/loan_cb_dmean_5000_it.json",
@@ -667,31 +451,12 @@
         "id_image": "loan_649001"
       }
     ],
-    "hash_code_list_img": "1196875935",
-    "list_definition_mean": [
-      {
-        "mean_english": "tiền cho vay",
-        "definition": "anything lent, especially money",
-        "ex_of_definition_list": [
-          "I shall ask the bank for a loan."
-        ]
-      },
-      {
-        "mean_english": "sự vay",
-        "definition": "the act of lending",
-        "ex_of_definition_list": [
-          "I gave him the loan of my bicycle."
-        ]
-      },
-      {
-        "mean_english": "cho vay; cho mượn",
-        "definition": "to lend",
-        "ex_of_definition_list": [
-          "Can you loan me a pen?"
-        ]
-      }
+    "hash_code_list_img": "-1986217487",
+    "list_example": [
+      "I gave him the loan of my bicycle.",
+      "Can you loan me a pen?"
     ],
-    "hash_code_list_definition_mean": "1896860717"
+    "hash_code_list_example": "-1362628312"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lobby_cb_dmean_5000_it.json",
@@ -716,24 +481,17 @@
         "id_image": "lobby_5569268"
       }
     ],
-    "hash_code_list_img": "1659911778",
-    "list_definition_mean": [
-      {
-        "mean_english": "hành lang",
-        "definition": "a (small) entrance-hall",
-        "ex_of_definition_list": [
-          "a hotel lobby."
-        ]
-      },
-      {
-        "mean_english": "vận động hành lang",
-        "definition": "to try to influence (the Government etc)",
-        "ex_of_definition_list": [
-          "The group will be lobbying the government for a change in the law."
-        ]
-      }
+    "hash_code_list_img": "1257363213",
+    "list_example": [
+      "a hotel lobby.",
+      "The group will be lobbying the government for a change in the law.",
+      "Devising a study with a starting point ten years ago would add to our understanding of lobbying influence.",
+      "Commercial beer producers lobbying for liquor reform talked the same language.",
+      "Today there is greater emphasis on activities that contribute to women's political participation : civic education, improving leadership skills, and lobbying on particular legislative proposals.",
+      "From more efficient constitutions would emerge more inclusive and hence more efficient lobbying systems.",
+      "I refer to this as lobbying success to be precise and draw a distinction between this measure and the broader concept of interest group influence."
     ],
-    "hash_code_list_definition_mean": "-1513916471"
+    "hash_code_list_example": "-716590185"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/local_cb_dmean_5000_it.json",
@@ -751,18 +509,12 @@
         "id_image": "local_997681"
       }
     ],
-    "hash_code_list_img": "1611349005",
-    "list_definition_mean": [
-      {
-        "mean_english": "địa phương",
-        "definition": "belonging to a certain place or district",
-        "ex_of_definition_list": [
-          "The local shops are very good",
-          "local residents."
-        ]
-      }
+    "hash_code_list_img": "541875710",
+    "list_example": [
+      "The local shops are very good",
+      "local residents."
     ],
-    "hash_code_list_definition_mean": "2051550041"
+    "hash_code_list_example": "-310151987"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/locate_cb_dmean_5000_it.json",
@@ -791,24 +543,12 @@
         "id_image": "locate_5744745"
       }
     ],
-    "hash_code_list_img": "1686044194",
-    "list_definition_mean": [
-      {
-        "mean_english": "nằm ở",
-        "definition": "to set in a particular place or position",
-        "ex_of_definition_list": [
-          "The kitchen is located in the basement."
-        ]
-      },
-      {
-        "mean_english": "xác định vị trí",
-        "definition": "to find the place or position of",
-        "ex_of_definition_list": [
-          "He located the street he was looking for on the map."
-        ]
-      }
+    "hash_code_list_img": "1280032854",
+    "list_example": [
+      "This analysis helped to locate the position of the translation start codon more precisely.",
+      "There is a need to locate specific learning difficulties in the broad context of inclusion if equality of opportunity is to become a reality."
     ],
-    "hash_code_list_definition_mean": "1105243685"
+    "hash_code_list_example": "1145807102"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/location_cb_dmean_5000_it.json",
@@ -842,24 +582,12 @@
         "id_image": "location_495480"
       }
     ],
-    "hash_code_list_img": "-975386668",
-    "list_definition_mean": [
-      {
-        "mean_english": "chỗ",
-        "definition": "position or situation",
-        "ex_of_definition_list": [
-          "This would be an ideal location for a picnic."
-        ]
-      },
-      {
-        "mean_english": "vị trí",
-        "definition": "the act of locating",
-        "ex_of_definition_list": [
-          "Who is arranging the company’s location to the new site?"
-        ]
-      }
+    "hash_code_list_img": "-1459685696",
+    "list_example": [
+      "This would be an ideal location for a picnic.",
+      "Who is arranging the company’s location to the new site?"
     ],
-    "hash_code_list_definition_mean": "-1749881304"
+    "hash_code_list_example": "1505098448"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/locket_cb_dmean_5000_it.json",
@@ -887,17 +615,16 @@
         "id_image": "locket_4065403"
       }
     ],
-    "hash_code_list_img": "1784871363",
-    "list_definition_mean": [
-      {
-        "mean_english": "trái tim có lồng ảnh đeo ở cổ",
-        "definition": "a little ornamental case hung round the neck",
-        "ex_of_definition_list": [
-          "a gold locket containing a piece of his hair."
-        ]
-      }
+    "hash_code_list_img": "157937748",
+    "list_example": [
+      "a gold locket containing a piece of his hair.",
+      "The only clue they have is that he has a locket around his neck.",
+      "He pulls out a locket and opens it, but the wind lifts the last of her hair inside and carries it over to the pyre.",
+      "The reverse comprises a locket of blue and white.",
+      "She's cheerful with her neighbors, but she misses her husband and prizes a locket she wears that contains his picture.",
+      "The young woman ensured his clothes were returned, and took a locket containing relics, which she hung about her neck, before departing."
     ],
-    "hash_code_list_definition_mean": "1168135023"
+    "hash_code_list_example": "-1987481371"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lock_cb_dmean_5000_it.json",
@@ -931,39 +658,12 @@
         "id_image": "lock_923793"
       }
     ],
-    "hash_code_list_img": "1519853013",
-    "list_definition_mean": [
-      {
-        "mean_english": "ổ khóa",
-        "definition": "a mechanism for fastening doors etc",
-        "ex_of_definition_list": [
-          "He put the key in the lock."
-        ]
-      },
-      {
-        "mean_english": "khóa",
-        "definition": "to fasten or become fastened with a lock",
-        "ex_of_definition_list": [
-          "She locked the drawer",
-          "This door doesn’t lock."
-        ]
-      },
-      {
-        "mean_english": "lọn tóc",
-        "definition": "a piece of hair",
-        "ex_of_definition_list": [
-          "She cut off a lock of his hair."
-        ]
-      },
-      {
-        "mean_english": "tóc trên đầu",
-        "definition": "hair",
-        "ex_of_definition_list": [
-          "curly brown locks."
-        ]
-      }
+    "hash_code_list_img": "-52661412",
+    "list_example": [
+      "She cut off a lock of his hair.",
+      "It is determined by the inflow headways from both directions and by lock characteristics."
     ],
-    "hash_code_list_definition_mean": "-1352087873"
+    "hash_code_list_example": "-1367079222"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/locomotive_cb_dmean_5000_it.json",
@@ -991,17 +691,11 @@
         "id_image": "locomotive_895536"
       }
     ],
-    "hash_code_list_img": "844545630",
-    "list_definition_mean": [
-      {
-        "mean_english": "đầu máy xe lửa",
-        "definition": "a railway engine",
-        "ex_of_definition_list": [
-          "a steam locomotive."
-        ]
-      }
+    "hash_code_list_img": "853033350",
+    "list_example": [
+      "a steam locomotive."
     ],
-    "hash_code_list_definition_mean": "1358847505"
+    "hash_code_list_example": "-432178263"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/locust_cb_dmean_5000_it.json",
@@ -1024,17 +718,11 @@
         "id_image": "locust_3805703"
       }
     ],
-    "hash_code_list_img": "1625382855",
-    "list_definition_mean": [
-      {
-        "mean_english": "châu chấu",
-        "definition": "a type of large insect of the grasshopper family, found in Africa and Asia, which moves in very large groups and destroys growing crops by eating them",
-        "ex_of_definition_list": [
-          "a plague of locusts."
-        ]
-      }
+    "hash_code_list_img": "-139851851",
+    "list_example": [
+      "Depressed agricultural prices, unemployment, drought and locust infestations produced scarcity."
     ],
-    "hash_code_list_definition_mean": "638582795"
+    "hash_code_list_example": "-808844325"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lodge_cb_dmean_5000_it.json",
@@ -1076,38 +764,15 @@
         "id_image": "lodge_895523"
       }
     ],
-    "hash_code_list_img": "640654722",
-    "list_definition_mean": [
-      {
-        "mean_english": "phòng bảo vệ",
-        "definition": "a room at a college gate etc for an attendant",
-        "ex_of_definition_list": [
-          "the porter’s lodge."
-        ]
-      },
-      {
-        "mean_english": "cho ở trọ",
-        "definition": "to live in rooms for which one pays, in someone else’s house",
-        "ex_of_definition_list": [
-          "He lodges with the Johnsons."
-        ]
-      },
-      {
-        "mean_english": "bắn vào",
-        "definition": "to make or become fixed",
-        "ex_of_definition_list": [
-          "The bullet was lodged in his spine."
-        ]
-      },
-      {
-        "mean_english": "gửi; trao",
-        "definition": "to make (an objection, an appeal etc) formally or officially",
-        "ex_of_definition_list": [
-          "She is lodging an official complaint."
-        ]
-      }
+    "hash_code_list_img": "1059614275",
+    "list_example": [
+      "the porter’s lodge.",
+      "He lodges with the Johnsons.",
+      "The bullet was lodged in his spine.",
+      "The cane-cutters preferred the twelve-month cane; the 24-month cane was reported to be harder to cut, had lodged and was infested with weeds.",
+      "A similar charge can be lodged against the analytical foundations of recuperative archaeological politics."
     ],
-    "hash_code_list_definition_mean": "20090358"
+    "hash_code_list_example": "-83882644"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/logarithm_cb_dmean_5000_it.json",
@@ -1130,17 +795,14 @@
         "id_image": "logarithm_2620556"
       }
     ],
-    "hash_code_list_img": "-1671319575",
-    "list_definition_mean": [
-      {
-        "mean_english": "hàm số loga",
-        "definition": "(abbreviated to loglog) mathematics the number of times eg 10 must be multiplied by itself to produce a particular number",
-        "ex_of_definition_list": [
-          "10  10  10 or 103 = 1,000, so 3 is here the logarithm of 1,000."
-        ]
-      }
+    "hash_code_list_img": "-1491047233",
+    "list_example": [
+      "10  10  10 or 103 = 1,000, so 3 is here the logarithm of 1,000.",
+      "The independent variable for this fit was the logarithm of the geometricmean radius in each ring (we used logarithm because the filter radius grows geometrically).",
+      "The dissociation rate will then increase linearly with the logarithm of the applied force.",
+      "Let g denote the logarithm of a main demand aggregate that is decomposed into two subaggregates."
     ],
-    "hash_code_list_definition_mean": "1100176060"
+    "hash_code_list_example": "1016639038"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/logical_cb_dmean_5000_it.json",
@@ -1158,18 +820,18 @@
         "id_image": "logical_5100475"
       }
     ],
-    "hash_code_list_img": "783488852",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc về lô gic",
-        "definition": "(thinking or acting) according to the rules of logic",
-        "ex_of_definition_list": [
-          "It is logical to assume that you will get a higher salary if you are promoted",
-          "She is always logical in her thinking."
-        ]
-      }
+    "hash_code_list_img": "447863132",
+    "list_example": [
+      "It is logical to assume that you will get a higher salary if you are promoted",
+      "She is always logical in her thinking.",
+      "We shall refer to this process of mapping the annotations to logical form as semantic interpretation, or simply as interpretation.",
+      "There are many aspects of mental function, such as verbal and logical thought, that are clearly experienced in this abstract manner.",
+      "There is no logical problem in statistics to estimate and test an effect with zero expectation.",
+      "In the second, two programs for logical conversion are presented: one that converts predicate logic to clausal logic, and one that performs predicate completion.",
+      "Theorem 4.1 can be proven using a standard logical relations argument, but the proof is beyond the scope of this article.",
+      "The opposite direction of this implication, that is, the completeness of the logical relations with respect to contextual equivalence remains future work."
     ],
-    "hash_code_list_definition_mean": "1966075102"
+    "hash_code_list_example": "-586073563"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/logic_cb_dmean_5000_it.json",
@@ -1197,17 +859,11 @@
         "id_image": "logic_5387386"
       }
     ],
-    "hash_code_list_img": "-2053551310",
-    "list_definition_mean": [
-      {
-        "mean_english": "lô gic học",
-        "definition": "(the study and art of) reasoning correctly",
-        "ex_of_definition_list": [
-          "I can see the logic in what he is saying."
-        ]
-      }
+    "hash_code_list_img": "46740127",
+    "list_example": [
+      "I can see the logic in what he is saying."
     ],
-    "hash_code_list_definition_mean": "1937060677"
+    "hash_code_list_example": "2069548093"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/logistics_cb_dmean_5000_it.json",
@@ -1247,31 +903,20 @@
         "id_image": "logistics_5351116"
       }
     ],
-    "hash_code_list_img": "-659512237",
-    "list_definition_mean": [
-      {
-        "mean_english": "khâu hậu cần",
-        "definition": "the practical arrangements which are needed in order to carry out a plan successfully, especially one involving a lot of people or equipment",
-        "ex_of_definition_list": [
-          "the logistics of organizing a music festival."
-        ]
-      },
-      {
-        "mean_english": "nghiệp vụ logistics",
-        "definition": "the commercial activity of transporting goods",
-        "ex_of_definition_list": [
-          "(also adjective) a logistics company."
-        ]
-      },
-      {
-        "mean_english": "ngành hậu cần",
-        "definition": "the activity of moving soldiers and their equipment",
-        "ex_of_definition_list": [
-          "military logistics."
-        ]
-      }
+    "hash_code_list_img": "-1580543783",
+    "list_example": [
+      "the logistics of organizing a music festival.",
+      "(also adjective) a logistics company.",
+      "It was the contribution to the logistics on site which made these ornaments acceptable where they otherwise would have been rejected as designers' superfluity.",
+      "Examples are logistics and transport planning, production planning systems, as well as work-ow management and business process enactment and monitoring systems.",
+      "External field supervision was carried out by three independent supervisors who monitored ongoing fieldwork logistics and data quality during the data collection period.",
+      "But happen it did, and the sheer logistics alone are mindboggling.",
+      "In this manner, transportation logistics can be taken into consideration in the decision-making framework.",
+      "The transportation logistics are depicted in two figures.",
+      "The reason was traced to a combination of transport logistics and capacity constraints.",
+      "They argued that the heavily overstretched logistics system would be an impediment to anything more than a limited military operation."
     ],
-    "hash_code_list_definition_mean": "1076045191"
+    "hash_code_list_example": "-1383917834"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/logo_cb_dmean_5000_it.json",
@@ -1304,17 +949,13 @@
         "id_image": "logo_5448415"
       }
     ],
-    "hash_code_list_img": "1772230590",
-    "list_definition_mean": [
-      {
-        "mean_english": "logo",
-        "definition": "a design or symbol that a company or organization uses as its official sign",
-        "ex_of_definition_list": [
-          "The company logo allows its products to be instantly recognizable."
-        ]
-      }
+    "hash_code_list_img": "-2010129745",
+    "list_example": [
+      "The company logo allows its products to be instantly recognizable.",
+      "As the interviewer shows them to you, look to see if the shoe has any logo or writing on it that you recognize.",
+      "Using the information analysis and sequence logo technique, the sequence pattern bound by the protein and the frequency of bases at each position were determined."
     ],
-    "hash_code_list_definition_mean": "573872882"
+    "hash_code_list_example": "-877898983"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/log_cb_dmean_5000_it.json",
@@ -1344,31 +985,14 @@
         "id_image": "log_721100"
       }
     ],
-    "hash_code_list_img": "-1810348169",
-    "list_definition_mean": [
-      {
-        "mean_english": "khúc củi",
-        "definition": "a thick piece of unshaped wood",
-        "ex_of_definition_list": [
-          "The trees were sawn into logs and taken to the sawmill."
-        ]
-      },
-      {
-        "mean_english": "sổ lộ trình",
-        "definition": "a logbook",
-        "ex_of_definition_list": [
-          "The captain of the ship entered the details in the log."
-        ]
-      },
-      {
-        "mean_english": "ghi vào sổ lộ trình",
-        "definition": "to write down or record in a logbook (especially the distance covered during a journey)",
-        "ex_of_definition_list": [
-          "The incident was logged by the ship’s captain."
-        ]
-      }
+    "hash_code_list_img": "-575229299",
+    "list_example": [
+      "The economic reform index, log of price level, corruption index, and the war dummy are the intermediate variables.",
+      "Additionally, there were six log files with totally different searches from questionnaire reports.",
+      "I have also estimated models using the log of the actual size of the agency's initial budget in 1992 dollars.",
+      "The counts were natural log transformed, after being augmented by 1 to avoid 1n(0)."
     ],
-    "hash_code_list_definition_mean": "-1356385704"
+    "hash_code_list_example": "-1806288464"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lonely_cb_dmean_5000_it.json",
@@ -1407,24 +1031,16 @@
         "id_image": "lonely_5778078"
       }
     ],
-    "hash_code_list_img": "-1088092137",
-    "list_definition_mean": [
-      {
-        "mean_english": "cô đơn",
-        "definition": "lacking or wanting companionship",
-        "ex_of_definition_list": [
-          "Aren’t you lonely, living by yourself?"
-        ]
-      },
-      {
-        "mean_english": "vắng vẻ",
-        "definition": "(of a place) far away from busy places, having few people",
-        "ex_of_definition_list": [
-          "a lonely island."
-        ]
-      }
+    "hash_code_list_img": "-602974249",
+    "list_example": [
+      "a lonely island.",
+      "Prevalence has been investigated in numerous epidemiological studies, with the proportion of lonely individuals ranging f rom a few per cent to 40 per cent.",
+      "A world without friends is a lonely world.",
+      "Many reported feeling bored, lonely and often trapped in their homes.",
+      "However, children exposed to marital violence reported feeling more lonely and having more conflict with a close friend.",
+      "They had little to occupy themselves during the days, weeks, or sometimes months they spent on these lonely outposts of the colonies."
     ],
-    "hash_code_list_definition_mean": "-543343887"
+    "hash_code_list_example": "-1712677090"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/longitude_cb_dmean_5000_it.json",
@@ -1442,17 +1058,17 @@
         "id_image": "longitude_992275"
       }
     ],
-    "hash_code_list_img": "1633989569",
-    "list_definition_mean": [
-      {
-        "mean_english": "kinh độ",
-        "definition": "the distance, measured in degrees on the map, that a place is east or west of a standard north-south line, usually that which passes through Greenwich",
-        "ex_of_definition_list": [
-          "What is the latitude and longitude of that town?"
-        ]
-      }
+    "hash_code_list_img": "87923472",
+    "list_example": [
+      "What is the latitude and longitude of that town?",
+      "What is more, the title page of the book does not contain the same promise of a longitude solution as found in the newspaper ad.",
+      "Indeed, it may be for this reason that the stronger correlation with longitude was observed with the genotype data than the allele frequency scores.",
+      "It would seem that the lure of longitude was here used as a literary device to pique interest in the publication.",
+      "Solutions that relied on the accuracy of instruments were common among the longitude ads.",
+      "The climate normals dataset consisted of 67,420 points spaced on a 0.5 latituder0.5 longitude regular grid for significant land areas worldwide.",
+      "We have seen that ads for longitude may be considered as both texts of marketing persuasion and as pieces of scientific rhetoric."
     ],
-    "hash_code_list_definition_mean": "1314113294"
+    "hash_code_list_example": "1050638925"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/long_cb_dmean_5000_it.json",
@@ -1480,72 +1096,18 @@
         "id_image": "long_5966419"
       }
     ],
-    "hash_code_list_img": "-918254887",
-    "list_definition_mean": [
-      {
-        "mean_english": "dài",
-        "definition": "measuring a great distance from one end to the other",
-        "ex_of_definition_list": [
-          "a long journey",
-          "a long road",
-          "She has long legs."
-        ]
-      },
-      {
-        "mean_english": "lâu dài",
-        "definition": "having a great period of time from the first moment to the last",
-        "ex_of_definition_list": [
-          "The book took a long time to read",
-          "a long conversation",
-          "a long delay."
-        ]
-      },
-      {
-        "mean_english": "dài",
-        "definition": "measuring a certain amount in distance or time",
-        "ex_of_definition_list": [
-          "The wire is two centimetres/centimeters long",
-          "The television programme was just over an hour long."
-        ]
-      },
-      {
-        "mean_english": "lâu",
-        "definition": "away, doing or using something etc for a great period of time",
-        "ex_of_definition_list": [
-          "Will you be long?"
-        ]
-      },
-      {
-        "mean_english": "nhớ dai",
-        "definition": "reaching to a great distance in space or time",
-        "ex_of_definition_list": [
-          "She has a long memory"
-        ]
-      },
-      {
-        "mean_english": "trong một thời gian lâu",
-        "definition": "a great period of time",
-        "ex_of_definition_list": [
-          "This happened long before you were born."
-        ]
-      },
-      {
-        "mean_english": "lâu",
-        "definition": "for a great period of time",
-        "ex_of_definition_list": [
-          "Have you been waiting long?"
-        ]
-      },
-      {
-        "mean_english": "khao khát",
-        "definition": "(often with for) to wish very much",
-        "ex_of_definition_list": [
-          "He longed to go home",
-          "I am longing for a drink."
-        ]
-      }
+    "hash_code_list_img": "-770632396",
+    "list_example": [
+      "a long journey",
+      "a long road",
+      "She has long legs.",
+      "The book took a long time to read",
+      "a long conversation",
+      "a long delay.",
+      "She has a long memory",
+      "This happened long before you were born."
     ],
-    "hash_code_list_definition_mean": "1466996250"
+    "hash_code_list_example": "433021077"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lookout_cb_dmean_5000_it.json",
@@ -1566,31 +1128,12 @@
         "id_image": "lookout_5261590"
       }
     ],
-    "hash_code_list_img": "535002438",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự giám sát",
-        "definition": "a careful watch",
-        "ex_of_definition_list": [
-          "Keep a sharp lookout for Jim."
-        ]
-      },
-      {
-        "mean_english": "người canh gác",
-        "definition": "a person who has been given the job of watching",
-        "ex_of_definition_list": [
-          "There was a shout from the lookout."
-        ]
-      },
-      {
-        "mean_english": "trách nhiện",
-        "definition": "concern, responsibility",
-        "ex_of_definition_list": [
-          "If he catches you leaving early, that’s your lookout!"
-        ]
-      }
+    "hash_code_list_img": "1567145582",
+    "list_example": [
+      "Keep a sharp lookout for Jim.",
+      "The technical research community should always be on the lookout for new technologies."
     ],
-    "hash_code_list_definition_mean": "573778311"
+    "hash_code_list_example": "1796727012"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/look_cb_dmean_5000_it.json",
@@ -1613,55 +1156,14 @@
         "id_image": "look_6401059"
       }
     ],
-    "hash_code_list_img": "1204785740",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhìn",
-        "definition": "to turn the eyes in a certain direction so as to see, to find, to express etc",
-        "ex_of_definition_list": [
-          "He looked out of the window",
-          "I’ve looked everywhere, but I can’t find him",
-          "He looked at me (angrily)."
-        ]
-      },
-      {
-        "mean_english": "dường như",
-        "definition": "to seem",
-        "ex_of_definition_list": [
-          "It looks as if it’s going to rain",
-          "She looks sad."
-        ]
-      },
-      {
-        "mean_english": "hướng về",
-        "definition": "to face",
-        "ex_of_definition_list": [
-          "The house looks west."
-        ]
-      },
-      {
-        "mean_english": "cách nhìn",
-        "definition": "the act of looking or seeing",
-        "ex_of_definition_list": [
-          "Let me have a look!"
-        ]
-      },
-      {
-        "mean_english": "liếc nhìn",
-        "definition": "a glance",
-        "ex_of_definition_list": [
-          "There was a look of surprise on her face."
-        ]
-      },
-      {
-        "mean_english": "vẻ bề ngoài",
-        "definition": "appearance",
-        "ex_of_definition_list": [
-          "The house had a look of neglect."
-        ]
-      }
+    "hash_code_list_img": "887840032",
+    "list_example": [
+      "There was a look of surprise on her face.",
+      "The house had a look of neglect.",
+      "If you look in the archives you will find that there have been other suggestions, but joey is the best documented.",
+      "In the current investigation, being of the second type, things look a bit different."
     ],
-    "hash_code_list_definition_mean": "-66709609"
+    "hash_code_list_example": "-228702624"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/loom_cb_dmean_5000_it.json",
@@ -1685,17 +1187,19 @@
         "id_image": "loom_5939193"
       }
     ],
-    "hash_code_list_img": "-1638495175",
-    "list_definition_mean": [
-      {
-        "mean_english": "hiện ra lờ mờ",
-        "definition": "(often with up) to appear indistinctly, often threateningly",
-        "ex_of_definition_list": [
-          "A huge ship loomed (up) in the fog."
-        ]
-      }
+    "hash_code_list_img": "-830304018",
+    "list_example": [
+      "A huge ship loomed (up) in the fog.",
+      "Textile production was the dominant manufacturing sector, whether measured by employment at spindles and wheels and at looms, or by value of output.",
+      "At the contest, both weavers set up their looms.",
+      "Because a significant portion of the labour force was becoming redundant, pauperization loomed large.",
+      "The number of looms assigned for the purpose in 1766 was 1,644 as against 1,761 in 1767.",
+      "In other words, uncertainty looms large when sunk costs cannot be recouped.",
+      "Computation of different optical variables of looming objects in pigeon nucleus rotundus neurons.",
+      "He felt compelled to visit weavers' homes regularly to make sure his work was being done on their looms.",
+      "In the 1930s the cloth manufacturers made some attempts to increase the number of power looms per weaver above the standard four."
     ],
-    "hash_code_list_definition_mean": "1801753150"
+    "hash_code_list_example": "-1034563464"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/loop_cb_dmean_5000_it.json",
@@ -1731,24 +1235,11 @@
         "id_image": "loop_6365997"
       }
     ],
-    "hash_code_list_img": "952630709",
-    "list_definition_mean": [
-      {
-        "mean_english": "vòng; nút",
-        "definition": "a doubled-over part of a piece of rope, chain etc",
-        "ex_of_definition_list": [
-          "She made a loop in the string."
-        ]
-      },
-      {
-        "mean_english": "thắt lại",
-        "definition": "to fasten with, or form into, a loop or loops",
-        "ex_of_definition_list": [
-          "He looped the rope round a post."
-        ]
-      }
+    "hash_code_list_img": "-311822850",
+    "list_example": [
+      "She made a loop in the string."
     ],
-    "hash_code_list_definition_mean": "2035587296"
+    "hash_code_list_example": "149455540"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/loot_cb_dmean_5000_it.json",
@@ -1782,24 +1273,12 @@
         "id_image": "loot_2742168"
       }
     ],
-    "hash_code_list_img": "1184747015",
-    "list_definition_mean": [
-      {
-        "mean_english": "của cướp được",
-        "definition": "something which is stolen",
-        "ex_of_definition_list": [
-          "The thieves got away with a lot of loot."
-        ]
-      },
-      {
-        "mean_english": "cướp bóc",
-        "definition": "to rob or steal from (a place)",
-        "ex_of_definition_list": [
-          "The rioters looted the local shops."
-        ]
-      }
+    "hash_code_list_img": "2128857205",
+    "list_example": [
+      "The thieves got away with a lot of loot.",
+      "The rioters looted the local shops."
     ],
-    "hash_code_list_definition_mean": "306948990"
+    "hash_code_list_example": "1281966792"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lord_cb_dmean_5000_it.json",
@@ -1819,31 +1298,12 @@
         "id_image": "lord_1618858"
       }
     ],
-    "hash_code_list_img": "1221676735",
-    "list_definition_mean": [
-      {
-        "mean_english": "chúa tể",
-        "definition": "a master; a man or animal that has power over others or over an area",
-        "ex_of_definition_list": [
-          "The lion is lord of the jungle."
-        ]
-      },
-      {
-        "mean_english": "quý tộc",
-        "definition": "in the United Kingdom etc a nobleman or man of rank",
-        "ex_of_definition_list": [
-          "Lord Snowdon."
-        ]
-      },
-      {
-        "mean_english": "tước hiệu của quan chức cấp cao",
-        "definition": "in the United Kingdom, used as part of several official titles",
-        "ex_of_definition_list": [
-          "the Lord Mayor."
-        ]
-      }
+    "hash_code_list_img": "1168883011",
+    "list_example": [
+      "The lion is lord of the jungle.",
+      "You can perhaps give the author the hot tip to actualize it, as we write the year of the lord 1989."
     ],
-    "hash_code_list_definition_mean": "-1092267667"
+    "hash_code_list_example": "2084794377"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lorry_cb_dmean_5000_it.json",
@@ -1871,18 +1331,13 @@
         "id_image": "lorry_605661"
       }
     ],
-    "hash_code_list_img": "-1371623144",
-    "list_definition_mean": [
-      {
-        "mean_english": "xe tải",
-        "definition": "a motor vehicle for carrying heavy loads; truck",
-        "ex_of_definition_list": [
-          "He has a licence to drive a lorry",
-          "a coal lorry."
-        ]
-      }
+    "hash_code_list_img": "1874087165",
+    "list_example": [
+      "A tout whose duty is to help load passenger vehicles at lorry stations.",
+      "Which lorry did the thief crash his car into late last night?",
+      "The now-cut meat was turned over to yet another two accomplices, a tiler and the second police officer, who used a second lorry to distribute it."
     ],
-    "hash_code_list_definition_mean": "556080738"
+    "hash_code_list_example": "-714032581"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/loser_cb_dmean_5000_it.json",
@@ -1905,17 +1360,19 @@
         "id_image": "loser_5605981"
       }
     ],
-    "hash_code_list_img": "1138204691",
-    "list_definition_mean": [
-      {
-        "mean_english": "kẻ thất bại",
-        "definition": "a person who loses",
-        "ex_of_definition_list": [
-          "The losers congratulated the winners."
-        ]
-      }
+    "hash_code_list_img": "1953948348",
+    "list_example": [
+      "The losers congratulated the winners.",
+      "The main losers in the growth of interdependent trans-national empires have been conventional states, which have seen the value of legal sovereignty decline.",
+      "Plan conversions produce potential winners and losers compared to expectations of benefits under the old plan.",
+      "Such polarization inevitably results in temporary solutions, as losers pursue advantage in the next round.",
+      "Since voting generates winners and losers, the losers are unhappy even when they had a chance to vote for their favorite option.",
+      "The difference between institutional stability and change may then depend upon how many people perceive themselves as losers.",
+      "Because people prefer winning over losing, the winners are less likely and the losers more likely to push for radical changes in the system.",
+      "Winners are thus risk aversive when evaluating electoral reform proposals, while losers may even be risk seeking.",
+      "The financial well-being of academic health centers and the continued generous compensation of medical school faculty have been the winners; education and research, the losers."
     ],
-    "hash_code_list_definition_mean": "528042491"
+    "hash_code_list_example": "149826658"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lose_cb_dmean_5000_it.json",
@@ -1941,50 +1398,12 @@
         "id_image": "lose_6329133"
       }
     ],
-    "hash_code_list_img": "-1249566604",
-    "list_definition_mean": [
-      {
-        "mean_english": "mất",
-        "definition": "to stop having; to have no longer",
-        "ex_of_definition_list": [
-          "She has lost interest in her work",
-          "I have lost my watch",
-          "He lost hold of the rope."
-        ]
-      },
-      {
-        "mean_english": "mất",
-        "definition": "to have taken away from one (by death, accident etc)",
-        "ex_of_definition_list": [
-          "She lost her father last year",
-          "The ship was lost in the storm",
-          "He has lost his job."
-        ]
-      },
-      {
-        "mean_english": "lạc mất",
-        "definition": "to put (something) where it cannot be found",
-        "ex_of_definition_list": [
-          "My secretary has lost your letter."
-        ]
-      },
-      {
-        "mean_english": "thua",
-        "definition": "not to win",
-        "ex_of_definition_list": [
-          "I always lose at cards",
-          "She lost the race."
-        ]
-      },
-      {
-        "mean_english": "lãng phí",
-        "definition": "to waste or use more (time) than is necessary",
-        "ex_of_definition_list": [
-          "He lost no time in informing the police of the robbery."
-        ]
-      }
+    "hash_code_list_img": "1283743682",
+    "list_example": [
+      "I always lose at cards",
+      "It was they who had made the reform act and who had most to lose from its amendment."
     ],
-    "hash_code_list_definition_mean": "690555891"
+    "hash_code_list_example": "-449305274"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/loss_cb_dmean_5000_it.json",
@@ -2019,32 +1438,14 @@
         "id_image": "loss_6299670"
       }
     ],
-    "hash_code_list_img": "-1908357112",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự mất mát",
-        "definition": "the act or fact of losing",
-        "ex_of_definition_list": [
-          "She was suffering from loss of memory",
-          "He was mourning the loss (= death) of his friend."
-        ]
-      },
-      {
-        "mean_english": "mất mát",
-        "definition": "something which is lost",
-        "ex_of_definition_list": [
-          "It was only after he was dead that we realized what a loss he was."
-        ]
-      },
-      {
-        "mean_english": "số tiền bị mất",
-        "definition": "the amount (especially of money) which is lost",
-        "ex_of_definition_list": [
-          "This month the company recorded a loss of £550, 000."
-        ]
-      }
+    "hash_code_list_img": "-841529510",
+    "list_example": [
+      "She was suffering from loss of memory",
+      "He was mourning the loss (= death) of his friend.",
+      "It was only after he was dead that we realized what a loss he was.",
+      "This month the company recorded a loss of £550, 000."
     ],
-    "hash_code_list_definition_mean": "325454813"
+    "hash_code_list_example": "738730257"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lost_cb_dmean_5000_it.json",
@@ -2075,38 +1476,13 @@
         "id_image": "lost_825953"
       }
     ],
-    "hash_code_list_img": "1986989875",
-    "list_definition_mean": [
-      {
-        "mean_english": "lạc mất",
-        "definition": "missing; no longer to be found",
-        "ex_of_definition_list": [
-          "a lost ticket."
-        ]
-      },
-      {
-        "mean_english": "thua",
-        "definition": "not won",
-        "ex_of_definition_list": [
-          "The game is not lost until the final whistle."
-        ]
-      },
-      {
-        "mean_english": "lãng phí",
-        "definition": "wasted; not used properly",
-        "ex_of_definition_list": [
-          "a lost opportunity."
-        ]
-      },
-      {
-        "mean_english": "lạc đường",
-        "definition": "no longer knowing where one is, or in which direction to go",
-        "ex_of_definition_list": [
-          "I don’t know whether to turn left or right – I’m lost."
-        ]
-      }
+    "hash_code_list_img": "559413129",
+    "list_example": [
+      "a lost ticket.",
+      "The game is not lost until the final whistle.",
+      "a lost opportunity."
     ],
-    "hash_code_list_definition_mean": "-1954356478"
+    "hash_code_list_example": "-245894835"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lotion_cb_dmean_5000_it.json",
@@ -2139,18 +1515,11 @@
         "id_image": "lotion_6075185"
       }
     ],
-    "hash_code_list_img": "391219885",
-    "list_definition_mean": [
-      {
-        "mean_english": "nước thơm",
-        "definition": "a liquid for soothing or cleaning the skin",
-        "ex_of_definition_list": [
-          "suntan lotion",
-          "hand lotion."
-        ]
-      }
+    "hash_code_list_img": "-1350311529",
+    "list_example": [
+      "The holidaymaker purchases sunglasses and lotion to protect her eyes and body from intense radiation."
     ],
-    "hash_code_list_definition_mean": "658645414"
+    "hash_code_list_example": "-435791727"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lottery_cb_dmean_5000_it.json",
@@ -2183,18 +1552,11 @@
         "id_image": "lottery_4658208"
       }
     ],
-    "hash_code_list_img": "-1420880314",
-    "list_definition_mean": [
-      {
-        "mean_english": "xổ số",
-        "definition": "the sharing out of money or prizes won by chance, through drawing lots",
-        "ex_of_definition_list": [
-          "Have you ever won anything on the lottery?",
-          "They held a public lottery in aid of charity."
-        ]
-      }
+    "hash_code_list_img": "1764168266",
+    "list_example": [
+      "They held a public lottery in aid of charity."
     ],
-    "hash_code_list_definition_mean": "1269555342"
+    "hash_code_list_example": "-1373150789"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/loudspeaker_cb_dmean_5000_it.json",
@@ -2223,17 +1585,14 @@
         "id_image": "loudspeaker_404677"
       }
     ],
-    "hash_code_list_img": "1307389034",
-    "list_definition_mean": [
-      {
-        "mean_english": "loa phóng thanh",
-        "definition": "an instrument for increasing the loudness of sounds so that they can be heard further away",
-        "ex_of_definition_list": [
-          "The politician addressed the crowds from his car through a loudspeaker."
-        ]
-      }
+    "hash_code_list_img": "-791122925",
+    "list_example": [
+      "The virtual source can now appear within a triangle formed by the loudspeaker triplet, which is called the active triangle.",
+      "The image can be raised in height (loudspeaker placement permitting), with the possibility of elevating only the higher regions of spectral space.",
+      "Auditory stimuli were presented through a loudspeaker concealed below the monitors.",
+      "In both these works, small speakers are mounted on walls in plant-like configurations with the loudspeaker wires resembling stalks."
     ],
-    "hash_code_list_definition_mean": "1072499747"
+    "hash_code_list_example": "-644066533"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lounge_cb_dmean_5000_it.json",
@@ -2273,31 +1632,19 @@
         "id_image": "lounge_4686181"
       }
     ],
-    "hash_code_list_img": "1083734938",
-    "list_definition_mean": [
-      {
-        "mean_english": "đi thơ thẩn",
-        "definition": "to lie back in a casual manner",
-        "ex_of_definition_list": [
-          "Paula was lounging on a sofa."
-        ]
-      },
-      {
-        "mean_english": "lang thang",
-        "definition": "to move about lazily; to be inactive",
-        "ex_of_definition_list": [
-          "I spent the day lounging about the house."
-        ]
-      },
-      {
-        "mean_english": "phòng đợi",
-        "definition": "a sitting-room, eg in a hotel",
-        "ex_of_definition_list": [
-          "They watched television in the hotel lounge."
-        ]
-      }
+    "hash_code_list_img": "-861245665",
+    "list_example": [
+      "They watched television in the hotel lounge.",
+      "Will it be available for things other than bedrooms, such as sun lounges, which are very popular in many parts of the country, or conference facilities?",
+      "There are lounges on both floors and the atmosphere is self-evidently happy.",
+      "I do not think that drink for young people in expensively decorated, curtained and well-furnished lounges is any less a danger than it is in a bar.",
+      "Many of the clubs and lounges have single narrow exits and entrances either upstairs or downstairs.",
+      "I am not necessarily advocating this, but longer intervals between films, enabling people to spend more time in bars and lounges, might be the answer.",
+      "There are lounges and study rooms on each floor, including a building game room.",
+      "Many establishments previously in other trades are being converted into unauthorised cinemas and video lounges.",
+      "Will there be an enlargement of the existing lounges, which are so small, where people have to wait when they want to board a plane or when they arrive?"
     ],
-    "hash_code_list_definition_mean": "-1454875309"
+    "hash_code_list_example": "1291887905"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/louse_cb_dmean_5000_it.json",
@@ -2326,19 +1673,12 @@
         "id_image": "louse_2849917"
       }
     ],
-    "hash_code_list_img": "1592790667",
-    "list_definition_mean": [
-      {
-        "mean_english": "làm hỏng",
-        "definition": "(with up) slang to spoil or waste something; to make a mess of thing",
-        "ex_of_definition_list": [
-          "It’s your last chance",
-          "don’t louse it up",
-          "He loused up again."
-        ]
-      }
+    "hash_code_list_img": "707552860",
+    "list_example": [
+      "don’t louse it up",
+      "The article suggested the strategy of living with the vine louse rather than wasting huge amounts in attempts to eradicate it."
     ],
-    "hash_code_list_definition_mean": "92350804"
+    "hash_code_list_example": "-503177705"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lover_cb_dmean_5000_it.json",
@@ -2357,25 +1697,13 @@
         "id_image": "lover_6385411"
       }
     ],
-    "hash_code_list_img": "1682431044",
-    "list_definition_mean": [
-      {
-        "mean_english": "người yêu",
-        "definition": "a person who enjoys or admires or has a special affection for something",
-        "ex_of_definition_list": [
-          "an art lover",
-          "an animal lover."
-        ]
-      },
-      {
-        "mean_english": "tình nhân",
-        "definition": "a person who is having a love affair with another",
-        "ex_of_definition_list": [
-          "The two lovers embraced each other passionately."
-        ]
-      }
+    "hash_code_list_img": "1676857411",
+    "list_example": [
+      "an art lover",
+      "an animal lover.",
+      "The two lovers embraced each other passionately."
     ],
-    "hash_code_list_definition_mean": "1468605265"
+    "hash_code_list_example": "-1673064348"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lovesick_cb_dmean_5000_it.json",
@@ -2393,18 +1721,14 @@
         "id_image": "lovesick_2651094"
       }
     ],
-    "hash_code_list_img": "1246101328",
-    "list_definition_mean": [
-      {
-        "mean_english": "thất tình",
-        "definition": "sad because of being in love",
-        "ex_of_definition_list": [
-          "a lovesick youth",
-          "lovesick glances."
-        ]
-      }
+    "hash_code_list_img": "2066600828",
+    "list_example": [
+      "a lovesick youth",
+      "lovesick glances.",
+      "Sure enough, the lovesick lump of loam cuts in on his rubbery rival for the fair damsel's affections.",
+      "Edwards might gain a lot more sympathy for his lovesick plight if his character didn't come off as such a thick-witted wimp."
     ],
-    "hash_code_list_definition_mean": "1885192645"
+    "hash_code_list_example": "-713444982"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/love_cb_dmean_5000_it.json",
@@ -2427,54 +1751,21 @@
         "id_image": "love_708692"
       }
     ],
-    "hash_code_list_img": "1961704451",
-    "list_definition_mean": [
-      {
-        "mean_english": "yêu thích",
-        "definition": "a feeling of great fondness or enthusiasm for a person or thing",
-        "ex_of_definition_list": [
-          "She has a great love of music",
-          "Her love for her children was clear for all to see."
-        ]
-      },
-      {
-        "mean_english": "tình yêu",
-        "definition": "strong attachment with sexual attraction",
-        "ex_of_definition_list": [
-          "They are in love with one another."
-        ]
-      },
-      {
-        "mean_english": "người, vật đáng yêu",
-        "definition": "a person or thing that is thought of with (great) fondness (used also as a term of affection)",
-        "ex_of_definition_list": [
-          "Ballet is the love of her life",
-          "Goodbye, love!"
-        ]
-      },
-      {
-        "mean_english": "điểm không trong tennis",
-        "definition": "a score of nothing in tennis",
-        "ex_of_definition_list": [
-          "The present score is fifteen love (written 15–0)."
-        ]
-      },
-      {
-        "mean_english": "thích",
-        "definition": "to be (very) fond of",
-        "ex_of_definition_list": [
-          "She loves her children dearly."
-        ]
-      },
-      {
-        "mean_english": "say mê",
-        "definition": "to take pleasure in",
-        "ex_of_definition_list": [
-          "They both love dancing."
-        ]
-      }
+    "hash_code_list_img": "1079124995",
+    "list_example": [
+      "She has a great love of music",
+      "Her love for her children was clear for all to see.",
+      "They are in love with one another.",
+      "Ballet is the love of her life",
+      "The present score is fifteen love (written 15–0).",
+      "They both love dancing.",
+      "Here the final overcoming of obstacles and declaration of equality takes the form of a rococo interchangeability of persons in the love relationships.",
+      "He makes it clear that post-lapsarian human beings love inordinately, and must, because of the disordered fundamental orientation called original sin.",
+      "If the work is successful, spiritual well-being of connection is manifest as appreciation for life, love of others, and feeling connected to deceased loved ones.",
+      "They also enhanced their beauty through facial tattooing, washing daily, plaiting and applying red ochre to their hair, wearing sweet-smelling leaves and using love medicines.",
+      "Analogously : we can pour out our love or attention on just any old object, but it won't necessarily stick, let alone mix with it."
     ],
-    "hash_code_list_definition_mean": "725297345"
+    "hash_code_list_example": "672193586"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lower_cb_dmean_5000_it.json",
@@ -2493,23 +1784,11 @@
         "id_image": "lower_1617773"
       }
     ],
-    "hash_code_list_img": "68358784",
-    "list_definition_mean": [
-      {
-        "mean_english": "hạ thấp",
-        "definition": "to make or become less high",
-        "ex_of_definition_list": [
-          "She lowered her voice."
-        ]
-      },
-      {
-        "mean_english": "hạ xuống",
-        "definition": "to let down",
-        "ex_of_definition_list": [
-          "He lowered the blinds."
-        ]
-      }
+    "hash_code_list_img": "757150748",
+    "list_example": [
+      "She lowered her voice.",
+      "He lowered the blinds."
     ],
-    "hash_code_list_definition_mean": "-32872219"
+    "hash_code_list_example": "346997480"
   }
 ]

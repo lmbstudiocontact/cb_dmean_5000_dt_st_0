@@ -15,17 +15,14 @@
         "id_image": "reorganize_3663515"
       }
     ],
-    "hash_code_list_img": "406752425",
-    "list_definition_mean": [
-      {
-        "mean_english": "tổ chức lại",
-        "definition": "to organize differently; to put in a different order",
-        "ex_of_definition_list": [
-          "We’ll have to reorganize our filing system."
-        ]
-      }
+    "hash_code_list_img": "1141374657",
+    "list_example": [
+      "We’ll have to reorganize our filing system.",
+      "Faced with such perturbations, the workstations and the containers have to reorganize their activities without an external centralized control.",
+      "Repetitious training of some intact residual automatisms can then be used to reorganize the disturbed function on a more primitive and automatic level of activity.",
+      "As the system evolves, the dynamics of the different variables may experience sudden changes that reorganize the system."
     ],
-    "hash_code_list_definition_mean": "83331838"
+    "hash_code_list_example": "-904064903"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/repair_cb_dmean_5000_it.json",
@@ -56,40 +53,16 @@
         "id_image": "repair_5060384"
       }
     ],
-    "hash_code_list_img": "-1651116157",
-    "list_definition_mean": [
-      {
-        "mean_english": "sửa",
-        "definition": "to mend; to make (something) that is damaged or has broken down work again; to restore to good condition",
-        "ex_of_definition_list": [
-          "She’s repairing a broken lock / torn jacket."
-        ]
-      },
-      {
-        "mean_english": "bù đắp",
-        "definition": "to put right or make up for",
-        "ex_of_definition_list": [
-          "Nothing can repair the harm done by your foolish remarks."
-        ]
-      },
-      {
-        "mean_english": "sự sửa chữa",
-        "definition": "the act of repairing something damaged or broken down",
-        "ex_of_definition_list": [
-          "I put my car into the garage for repairs",
-          "The bridge is under repair."
-        ]
-      },
-      {
-        "mean_english": "tình trạng",
-        "definition": "a condition or state",
-        "ex_of_definition_list": [
-          "The road is in bad repair",
-          "The house is in a good state of repair."
-        ]
-      }
+    "hash_code_list_img": "997927721",
+    "list_example": [
+      "Nothing can repair the harm done by your foolish remarks.",
+      "Earlier methods relied on sutures to repair the hernia under tension, whereas newer methods involved placing a synthetic mesh over the defect without tension.",
+      "The ascending aorta was bulbous, but narrowed at the transverse arch and at the site of repair of the aortic coarctation.",
+      "Rather than simply closing the septal defect, relieving the pulmonary stenosis, and performing an atrial switch, univentricular repair was preferred in these patients.",
+      "In four patients, it was placed through the brachiocephalic artery permitting selective perfusion of the brain during repair of the aortic arch.",
+      "Those with descending aortic aneurysm underwent conduit placement, and those with valve disease underwent repair or replacement."
     ],
-    "hash_code_list_definition_mean": "1368669984"
+    "hash_code_list_example": "1826341910"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/repeat_cb_dmean_5000_it.json",
@@ -120,39 +93,17 @@
         "id_image": "repeat_5072368"
       }
     ],
-    "hash_code_list_img": "679161417",
-    "list_definition_mean": [
-      {
-        "mean_english": "lặp lại",
-        "definition": "to say or do again",
-        "ex_of_definition_list": [
-          "Would you repeat those instructions, please?"
-        ]
-      },
-      {
-        "mean_english": "nhắc lại",
-        "definition": "to say (something one has heard) to someone else, sometimes when one ought not to",
-        "ex_of_definition_list": [
-          "Please do not repeat what I’ve just told you."
-        ]
-      },
-      {
-        "mean_english": "đọc thuộc lòng",
-        "definition": "to say (something) one has learned by heart",
-        "ex_of_definition_list": [
-          "The teacher asked her to repeat a poem."
-        ]
-      },
-      {
-        "mean_english": "sự lặp lại",
-        "definition": "something which is repeated",
-        "ex_of_definition_list": [
-          "I’m tired of seeing all these repeats on television",
-          "(also adjective) a repeat performance."
-        ]
-      }
+    "hash_code_list_img": "1187206036",
+    "list_example": [
+      "Would you repeat those instructions, please?",
+      "Please do not repeat what I’ve just told you.",
+      "The teacher asked her to repeat a poem.",
+      "(also adjective) a repeat performance.",
+      "For instance, the text should not repeat in detail what is evident from the tables or diagrams.",
+      "The structural repeat is transposed, varied and redistributed, and an agile coda has the soloist in cahoots with its orchestral counterparts.",
+      "The constraint means that the allowed phase differences between the oscillators within the unit cell (repeat unit) are limited."
     ],
-    "hash_code_list_definition_mean": "-388200191"
+    "hash_code_list_example": "1789115814"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/repellent_cb_dmean_5000_it.json",
@@ -175,17 +126,13 @@
         "id_image": "repellent_6364950"
       }
     ],
-    "hash_code_list_img": "1193296203",
-    "list_definition_mean": [
-      {
-        "mean_english": "kinh tởm",
-        "definition": "repulsive; causing dislike or disgust",
-        "ex_of_definition_list": [
-          "repellent smell/behaviour."
-        ]
-      }
+    "hash_code_list_img": "-105016869",
+    "list_example": [
+      "repellent smell/behaviour.",
+      "The above results suggest that the pyrethroids are mildly repellent at concentrations of about one tenth of that required to produce detectable mortalities.",
+      "Often thought to be repellent and threatening places, they also attract those who are drawn to hidden and neglected parts of the city."
     ],
-    "hash_code_list_definition_mean": "1789384639"
+    "hash_code_list_example": "983927009"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/repetition_cb_dmean_5000_it.json",
@@ -203,17 +150,11 @@
         "id_image": "repetition_3079252"
       }
     ],
-    "hash_code_list_img": "2137524921",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự nhắc lại; sự tái diễn",
-        "definition": "(an) act of repeating",
-        "ex_of_definition_list": [
-          "repetition of a musical phrase."
-        ]
-      }
+    "hash_code_list_img": "1544967737",
+    "list_example": [
+      "repetition of a musical phrase."
     ],
-    "hash_code_list_definition_mean": "723964584"
+    "hash_code_list_example": "1007030827"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/repetitive_cb_dmean_5000_it.json",
@@ -231,18 +172,16 @@
         "id_image": "repetitive_4243493"
       }
     ],
-    "hash_code_list_img": "1382685552",
-    "list_definition_mean": [
-      {
-        "mean_english": "mang tính lặp đi lặp lại",
-        "definition": "doing, saying, the same thing too often",
-        "ex_of_definition_list": [
-          "His speeches are very repetitive",
-          "My job is a bit repetitive."
-        ]
-      }
+    "hash_code_list_img": "1478094382",
+    "list_example": [
+      "Therapeutic efficacy of right prefrontal slow repetitive transcranial magnetic stimulation in major depression : a double-blind controlled study.",
+      "If an accident appears on the groove, it may loop and read the same closed groove again and again, thus producing a continuous repetitive sound.",
+      "The neural networks have the ability to learn the system's nonlinearities such as inverse dynamics and friction through repetitive training and self adjustments.",
+      "The order of each primary in this list has been defined by the repetitive rearrangements of the rows and columns.",
+      "The frames were varied to avoid special prosody that might be induced by a repetitive frame sentence.",
+      "This is repetitive and, as a result, somewhat overstated."
     ],
-    "hash_code_list_definition_mean": "976475764"
+    "hash_code_list_example": "49835744"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/replace_cb_dmean_5000_it.json",
@@ -266,26 +205,12 @@
         "id_image": "replace_536914"
       }
     ],
-    "hash_code_list_img": "-1907167865",
-    "list_definition_mean": [
-      {
-        "mean_english": "thay thế",
-        "definition": "to put, use etc (a person, thing etc), or to be put, used etc, in place of another",
-        "ex_of_definition_list": [
-          "I must replace that broken lock",
-          "He replaced the cup he broke with a new one",
-          "Cars have replaced horses as the normal means of transport."
-        ]
-      },
-      {
-        "mean_english": "đặt lại chỗ cũ",
-        "definition": "to put (something) back where it was",
-        "ex_of_definition_list": [
-          "Please replace the books on the shelves."
-        ]
-      }
+    "hash_code_list_img": "423531900",
+    "list_example": [
+      "I must replace that broken lock",
+      "Please replace the books on the shelves."
     ],
-    "hash_code_list_definition_mean": "170312505"
+    "hash_code_list_example": "582656519"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/replay_cb_dmean_5000_it.json",
@@ -309,17 +234,19 @@
         "id_image": "replay_679403"
       }
     ],
-    "hash_code_list_img": "-2022266765",
-    "list_definition_mean": [
-      {
-        "mean_english": "chơi lại",
-        "definition": "to play (a football match etc) again (eg because neither team won)",
-        "ex_of_definition_list": [
-          "The match ended in a draw – it will have to be replayed."
-        ]
-      }
+    "hash_code_list_img": "-1873979784",
+    "list_example": [
+      "The match ended in a draw – it will have to be replayed.",
+      "There could be no question of the local government reorganisation element standing; in such circumstances, the whole thing should be replayed.",
+      "Five matches were drawn, with replays taking place in the following midweek fixture.",
+      "Messages should not be duplicated, reordered or replayed.",
+      "Further, many words and conversations had to be replayed several times before any understanding was achieved.",
+      "Therefore, whether someone tells an event in the language in which the event originally occurred does not appear to affect how extensively the event is replayed in either language.",
+      "Having been so produced, this recorder enables records to be replayed by the use of the same device through an ordinary television set.",
+      "Material from long-term memory is revived into working memory, where it is replayed and reexperienced.",
+      "To summarize, the two basic questions (selectivity for threatening experiences, benefit of replaying these experiences in dreams) are in my view not supported by the presented evidence."
     ],
-    "hash_code_list_definition_mean": "809125997"
+    "hash_code_list_example": "233064362"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/reply_cb_dmean_5000_it.json",
@@ -349,35 +276,13 @@
         "id_image": "reply_5511724"
       }
     ],
-    "hash_code_list_img": "1855345658",
-    "list_definition_mean": [
-      {
-        "mean_english": "đáp lại",
-        "definition": "to answer",
-        "ex_of_definition_list": [
-          "‘I don’t know,’ he replied",
-          "Should I reply to his letter?",
-          "She replied that she had never seen the man before",
-          "She replied by shrugging her shoulders."
-        ]
-      },
-      {
-        "mean_english": "câu trả lời",
-        "definition": "an answer",
-        "ex_of_definition_list": [
-          "‘I don’t know,’ was his reply",
-          "I’ll write a reply to his letter."
-        ]
-      },
-      {
-        "mean_english": "sự đáp lại",
-        "definition": "the act of answering",
-        "ex_of_definition_list": [
-          "What did he say in reply (to your question)?"
-        ]
-      }
+    "hash_code_list_img": "685993604",
+    "list_example": [
+      "Should I reply to his letter?",
+      "I’ll write a reply to his letter.",
+      "What did he say in reply (to your question)?"
     ],
-    "hash_code_list_definition_mean": "1956029576"
+    "hash_code_list_example": "1958190586"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/reporter_cb_dmean_5000_it.json",
@@ -400,18 +305,13 @@
         "id_image": "reporter_560267"
       }
     ],
-    "hash_code_list_img": "-1754543364",
-    "list_definition_mean": [
-      {
-        "mean_english": "phóng viên",
-        "definition": "a person who writes articles and reports for a newspaper",
-        "ex_of_definition_list": [
-          "a newspaper reporter",
-          "Reporters and photographers rushed to the scene of the fire."
-        ]
-      }
+    "hash_code_list_img": "-513309783",
+    "list_example": [
+      "We also evaluate systematic tendencies for specific reporter pairs to agree with each other more than other pairs.",
+      "A reporter will not attempt to answer these questions explicitly as s/he writes a story.",
+      "Fold-induction is calculated relative to the activity of each reporter alone."
     ],
-    "hash_code_list_definition_mean": "1284650463"
+    "hash_code_list_example": "-1343085030"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/report_cb_dmean_5000_it.json",
@@ -445,58 +345,13 @@
         "id_image": "report_413669"
       }
     ],
-    "hash_code_list_img": "-923580910",
-    "list_definition_mean": [
-      {
-        "mean_english": "báo cáo",
-        "definition": "a statement or description of what has been said, seen, done etc",
-        "ex_of_definition_list": [
-          "a child’s school report",
-          "a police report on the accident."
-        ]
-      },
-      {
-        "mean_english": "tin đồn",
-        "definition": "rumour; general talk",
-        "ex_of_definition_list": [
-          "According to report, the manager is going to resign."
-        ]
-      },
-      {
-        "mean_english": "thông báo; đưa tin",
-        "definition": "to give a statement or description of what has been said, seen, done etc",
-        "ex_of_definition_list": [
-          "A serious accident has just been reported",
-          "He reported on the results of the conference",
-          "Our spies report that troops are being moved to the border",
-          "His speech was reported in the newspaper."
-        ]
-      },
-      {
-        "mean_english": "tố giác",
-        "definition": "to make a complaint about; to give information about the misbehaviour/misbehavior etc of",
-        "ex_of_definition_list": [
-          "The boy was reported to the headmaster for being rude to a teacher."
-        ]
-      },
-      {
-        "mean_english": "tố cáo",
-        "definition": "to tell someone in authority about",
-        "ex_of_definition_list": [
-          "He reported the theft to the police."
-        ]
-      },
-      {
-        "mean_english": "thông báo",
-        "definition": "to go (to a place or a person) and announce that one is there, ready for work etc",
-        "ex_of_definition_list": [
-          "The boys were ordered to report to the police station every Saturday afternoon",
-          "Report to me when you return",
-          "How many policemen reported for duty?"
-        ]
-      }
+    "hash_code_list_img": "-568379200",
+    "list_example": [
+      "a police report on the accident.",
+      "Our spies report that troops are being moved to the border",
+      "The boys were ordered to report to the police station every Saturday afternoon"
     ],
-    "hash_code_list_definition_mean": "197500086"
+    "hash_code_list_example": "-1731498644"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/representation_cb_dmean_5000_it.json",
@@ -516,24 +371,20 @@
         "id_image": "representation_3103134"
       }
     ],
-    "hash_code_list_img": "1629432084",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự đại diện",
-        "definition": "the act of representing or the state of being represented",
-        "ex_of_definition_list": [
-          "proportional representation."
-        ]
-      },
-      {
-        "mean_english": "người đại diện",
-        "definition": "a person or thing that represents",
-        "ex_of_definition_list": [
-          "These primitive statues are intended as representations of gods and goddesses."
-        ]
-      }
+    "hash_code_list_img": "363003388",
+    "list_example": [
+      "proportional representation.",
+      "These primitive statues are intended as representations of gods and goddesses.",
+      "Second, and more important, the forecasting of events is much easier in terms of distal than proximal representations.",
+      "In effect, they amount to introducing syntactic diacritics in the lexical semantic representations.",
+      "There is no theoretical account of the mental representations that are changing within their postulated dynamic processes, and how these changes are to be quantified.",
+      "As is too common among cognitive scientists, they equate mental representations with representations of external physical objects.",
+      "A related issue is the influence of other phonological variables on lexical representations.",
+      "In this way, the number of possible representations was constrained.",
+      "One might even say that if the brain does not use localist representations then evolution has missed an excellent trick.",
+      "Each of these (identity matching and supramodal representations) is based on the assumption that integration of vision and hearing occurs within the observer."
     ],
-    "hash_code_list_definition_mean": "144281424"
+    "hash_code_list_example": "-1915529995"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/representative_cb_dmean_5000_it.json",
@@ -564,39 +415,15 @@
         "id_image": "representative_3965805"
       }
     ],
-    "hash_code_list_img": "-1788263967",
-    "list_definition_mean": [
-      {
-        "mean_english": "tiêu biểu",
-        "definition": "being a good example (of something); typical",
-        "ex_of_definition_list": [
-          "We need opinions from a representative sample of people",
-          "Is this poem representative of his work?"
-        ]
-      },
-      {
-        "mean_english": "đại diện",
-        "definition": "carried on by elected people",
-        "ex_of_definition_list": [
-          "representative government."
-        ]
-      },
-      {
-        "mean_english": "người đại diện của doanh nghiệp",
-        "definition": "(also reprep) a person who represents a business; a travelling salesman",
-        "ex_of_definition_list": [
-          "Our representative will call on you this afternoon."
-        ]
-      },
-      {
-        "mean_english": "người đại diện cho một nhóm người",
-        "definition": "a person who represents a person or group of people",
-        "ex_of_definition_list": [
-          "A Member of Parliament is the representative of the people in his constituency."
-        ]
-      }
+    "hash_code_list_img": "433776134",
+    "list_example": [
+      "We need opinions from a representative sample of people",
+      "Is this poem representative of his work?",
+      "representative government.",
+      "Our representative will call on you this afternoon.",
+      "A Member of Parliament is the representative of the people in his constituency."
     ],
-    "hash_code_list_definition_mean": "-1507075167"
+    "hash_code_list_example": "-1388230959"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/reproduction_cb_dmean_5000_it.json",
@@ -620,24 +447,16 @@
         "id_image": "reproduction_2597692"
       }
     ],
-    "hash_code_list_img": "1399975910",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự tái tạot; sự sinh sản",
-        "definition": "the act or process of reproducing",
-        "ex_of_definition_list": [
-          "He is studying reproduction in rabbits."
-        ]
-      },
-      {
-        "mean_english": "bản sao",
-        "definition": "a copy (of a work of art etc)",
-        "ex_of_definition_list": [
-          "These paintings are all reproductions."
-        ]
-      }
+    "hash_code_list_img": "875691443",
+    "list_example": [
+      "He is studying reproduction in rabbits.",
+      "Is assisted reproduction a process ripe for regulation?",
+      "The first effect which all the media of mechanical reproduction have upon musical culture is that of a multiplier.",
+      "Species that depend on large, and/or permanent, aquatic sites for reproduction simply go extinct as is reflected in species composition and turnover patterns.",
+      "At the same time, deformation of the skeleton and unfavourable changes in host reproduction are unlikely to occur.",
+      "Resources allocated to reproduction will, therefore, be diminished."
     ],
-    "hash_code_list_definition_mean": "527939080"
+    "hash_code_list_example": "-2070026057"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/reputation_cb_dmean_5000_it.json",
@@ -665,20 +484,12 @@
         "id_image": "reputation_4675015"
       }
     ],
-    "hash_code_list_img": "-819160305",
-    "list_definition_mean": [
-      {
-        "mean_english": "danh tiếng",
-        "definition": "the opinion which people in general have about a person etc, a persons’s abilities etc",
-        "ex_of_definition_list": [
-          "That firm has a good/bad reputation",
-          "He has made a reputation for himself as an expert in computers",
-          "He has the reputation of being difficult to please",
-          "The scandal damaged his reputation."
-        ]
-      }
+    "hash_code_list_img": "1583808322",
+    "list_example": [
+      "He has made a reputation for himself as an expert in computers",
+      "He has the reputation of being difficult to please"
     ],
-    "hash_code_list_definition_mean": "2044592334"
+    "hash_code_list_example": "-621522774"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/request_cb_dmean_5000_it.json",
@@ -703,25 +514,21 @@
         "id_image": "request_1373258"
       }
     ],
-    "hash_code_list_img": "-913492193",
-    "list_definition_mean": [
-      {
-        "mean_english": "lời yêu cầu",
-        "definition": "the act of asking for something",
-        "ex_of_definition_list": [
-          "I did that at his request",
-          "After frequent requests, he eventually agreed to sing."
-        ]
-      },
-      {
-        "mean_english": "sự yêu cầu",
-        "definition": "something asked for",
-        "ex_of_definition_list": [
-          "The next song I will play is a request."
-        ]
-      }
+    "hash_code_list_img": "2052566306",
+    "list_example": [
+      "I did that at his request",
+      "After frequent requests, he eventually agreed to sing.",
+      "The next song I will play is a request.",
+      "When the server starts up, it parses the configuration file, and if there are no errors found, immediately starts serving requests.",
+      "From the application's point of view, the requirement was to deliver joint values whenever requested by the feeder.",
+      "Speakers demonstrate skill by tailoring their messages specifically enough, whereas listeners act on their awareness of ambiguous messages by requesting clarifying information.",
+      "Space is left above the stack for responses to requests for information such as types.",
+      "Her requests in these instances were somewhat more restrained than earlier ones.",
+      "Before each trip, letters requesting interviews were sent to about thirty individuals living within a two-hour radius of a base location.",
+      "The parent who requests a label does not ask to be enlightened, but to test and reinforce the child's lexicon.",
+      "In some instances, clients' requests were seen as extravagant or inappropriate."
     ],
-    "hash_code_list_definition_mean": "-278650234"
+    "hash_code_list_example": "381225617"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/requirement_cb_dmean_5000_it.json",
@@ -749,18 +556,15 @@
         "id_image": "requirement_5692220"
       }
     ],
-    "hash_code_list_img": "-1221541705",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự yêu cầu",
-        "definition": "something that is needed, asked for, ordered etc",
-        "ex_of_definition_list": [
-          "It is a legal requirement that all cars have brakes which work",
-          "Our firm will be able to supply all your requirements."
-        ]
-      }
+    "hash_code_list_img": "1270605617",
+    "list_example": [
+      "It is a legal requirement that all cars have brakes which work",
+      "The first requirement ensures that the programme has no free variables, and that all environments are minimal.",
+      "A basic requirement in studies of the benefits of a psychological treatment is information on the conduct of the therapy itself.",
+      "The precursor to having one's integrity protected (embodied by the requirement of one's consent) is the capacity to exercise will, make choices, and communicate desires.",
+      "The case for separability as a requirement of consequentialism is straightforward in my opinion."
     ],
-    "hash_code_list_definition_mean": "706753354"
+    "hash_code_list_example": "1757109234"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/rescue_cb_dmean_5000_it.json",
@@ -789,26 +593,11 @@
         "id_image": "rescue_228382"
       }
     ],
-    "hash_code_list_img": "2061380739",
-    "list_definition_mean": [
-      {
-        "mean_english": "cứu nguy",
-        "definition": "to get or take out of a dangerous situation, captivity etc",
-        "ex_of_definition_list": [
-          "The lifeboat was sent out to rescue the sailors from the sinking ship."
-        ]
-      },
-      {
-        "mean_english": "sự cứu ai",
-        "definition": "(an) act of rescuing or state of being rescued",
-        "ex_of_definition_list": [
-          "The lifeboat crew carried out four rescues last week",
-          "After his rescue, the climber was taken to hospital",
-          "They came quickly to our rescue."
-        ]
-      }
+    "hash_code_list_img": "1782660080",
+    "list_example": [
+      "The lifeboat was sent out to rescue the sailors from the sinking ship."
     ],
-    "hash_code_list_definition_mean": "-771807705"
+    "hash_code_list_example": "1980016737"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/research_cb_dmean_5000_it.json",
@@ -837,26 +626,17 @@
         "id_image": "research_901046"
       }
     ],
-    "hash_code_list_img": "1515695885",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuộc nghiên cứu",
-        "definition": "a close and careful study to find out (new) facts or information",
-        "ex_of_definition_list": [
-          "He is engaged in cancer research",
-          "His researches resulted in some amazing discoveries",
-          "(also adjective) a research student."
-        ]
-      },
-      {
-        "mean_english": "nghiên cứu",
-        "definition": "to carry out such a study",
-        "ex_of_definition_list": [
-          "He’s researching (into) Thai poetry."
-        ]
-      }
+    "hash_code_list_img": "-1602202459",
+    "list_example": [
+      "(also adjective) a research student.",
+      "Given the nature of our research questions, we needed to target organic shoppers.",
+      "Research into semantic skills focuses less on the qualitative aspects of linguistic competence than does research into phonological and morphosyntactic skills.",
+      "His research aims at understanding consciousness as a natural biological phenomenon and at fruitful interaction between philosophical and empirical research in the study of consciousness.",
+      "With a background in philosophical logic and metaphysics, his current research interests focus on the theoretical basis of bioethical inquiry.",
+      "Future research needs to consider the role of fathers or male caregivers in the emotional development of physically maltreated children.",
+      "It is theory tested by many individual research findings that permits the generation of predictions about program outcomes under different conditions."
     ],
-    "hash_code_list_definition_mean": "673032734"
+    "hash_code_list_example": "-2105311455"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/reservation_cb_dmean_5000_it.json",
@@ -886,38 +666,13 @@
         "id_image": "reservation_6213954"
       }
     ],
-    "hash_code_list_img": "233816881",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự đặt trước",
-        "definition": "the act of reserving",
-        "ex_of_definition_list": [
-          "the reservation of a room."
-        ]
-      },
-      {
-        "mean_english": "sự đặt trước",
-        "definition": "something (eg a table in a restaurant) which has been reserved",
-        "ex_of_definition_list": [
-          "Do you have a reservation, Sir?"
-        ]
-      },
-      {
-        "mean_english": "sự e dè",
-        "definition": "a doubt",
-        "ex_of_definition_list": [
-          "He has some reservations about the new legislation."
-        ]
-      },
-      {
-        "mean_english": "vùng đất dành cho một mục đích nhất định",
-        "definition": "a piece of land set aside for a particular purpose",
-        "ex_of_definition_list": [
-          "an Indian reservation in the United States."
-        ]
-      }
+    "hash_code_list_img": "-1302590037",
+    "list_example": [
+      "the reservation of a room.",
+      "an Indian reservation in the United States.",
+      "Education improves the child's labor efficiency, so that it will raise the caregiver's reservation wages in the next period."
     ],
-    "hash_code_list_definition_mean": "-1256073933"
+    "hash_code_list_example": "-41276855"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/reserve_cb_dmean_5000_it.json",
@@ -945,46 +700,15 @@
         "id_image": "reserve_1476897"
       }
     ],
-    "hash_code_list_img": "-1833959204",
-    "list_definition_mean": [
-      {
-        "mean_english": "đặt trước",
-        "definition": "to ask for or order to be kept for the use of a particular person, often oneself",
-        "ex_of_definition_list": [
-          "The restaurant is busy on Saturdays, so I’ll phone up today and reserve a table."
-        ]
-      },
-      {
-        "mean_english": "dành cho",
-        "definition": "to keep for the use of a particular person or group of people, or for a particular use",
-        "ex_of_definition_list": [
-          "These seats are reserved for the committee members."
-        ]
-      },
-      {
-        "mean_english": "đồ dự trữ",
-        "definition": "something which is kept for later use or for use when needed",
-        "ex_of_definition_list": [
-          "The farmer kept a reserve of food in case he was cut off by floods."
-        ]
-      },
-      {
-        "mean_english": "khu bảo tồn",
-        "definition": "a piece of land used for a special purpose eg for the protection of animals",
-        "ex_of_definition_list": [
-          "a wildlife reserve",
-          "a nature reserve."
-        ]
-      },
-      {
-        "mean_english": "tính kín đáo",
-        "definition": "the habit of not saying very much, not showing what one is feeling, thinking etc; shyness",
-        "ex_of_definition_list": [
-          "Brits are usually known for their reserve and politeness."
-        ]
-      }
+    "hash_code_list_img": "1677499772",
+    "list_example": [
+      "The restaurant is busy on Saturdays, so I’ll phone up today and reserve a table.",
+      "The farmer kept a reserve of food in case he was cut off by floods.",
+      "Brits are usually known for their reserve and politeness.",
+      "Here, and below, we reserve to range over ground types.",
+      "The following sections of the paper seek to specify the principal dimensions of reserve among older people and the groups that are most vulnerable."
     ],
-    "hash_code_list_definition_mean": "-1194961284"
+    "hash_code_list_example": "929851785"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/residence_cb_dmean_5000_it.json",
@@ -1013,17 +737,11 @@
         "id_image": "residential_4413249"
       }
     ],
-    "hash_code_list_img": "134888120",
-    "list_definition_mean": [
-      {
-        "mean_english": "quá trình cư trú",
-        "definition": "the act of living in a place, or the time of this",
-        "ex_of_definition_list": [
-          "during his residence in Spain."
-        ]
-      }
+    "hash_code_list_img": "536575909",
+    "list_example": [
+      "during his residence in Spain."
     ],
-    "hash_code_list_definition_mean": "373000939"
+    "hash_code_list_example": "-922588136"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/residential_cb_dmean_5000_it.json",
@@ -1063,25 +781,20 @@
         "id_image": "residential_6289587"
       }
     ],
-    "hash_code_list_img": "778678465",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà ở",
-        "definition": "(of an area of a town etc) containing houses rather than offices, shops etc",
-        "ex_of_definition_list": [
-          "This district is mainly residential",
-          "a residential neighbourhood/area."
-        ]
-      },
-      {
-        "mean_english": "thuộc dân cư",
-        "definition": "requiring a person to live in the place where he works",
-        "ex_of_definition_list": [
-          "a residential post."
-        ]
-      }
+    "hash_code_list_img": "1333011680",
+    "list_example": [
+      "a residential neighbourhood/area.",
+      "a residential post.",
+      "Constructing familiarity and managing the self: ways of adapting to life in nursing and residential homes for older people.",
+      "As once essentially residential communities matured, politicians sought to raise their tax revenues whilst retaining small-scale, almost village life, within an increasingly urbanized milieu.",
+      "A positive relationship was found between 20% of residential home patients who used a high proportion of primary care services.",
+      "Moves into residential settings become more common above 80-years-of-age, in consequence of the onset of disability and loss of independence (see previous section).",
+      "Unlike urban formations before the eighteenth century, these new towns absorbed nomadic and religious elements into their residential and secular spaces.",
+      "We began by engaging with academic debates about residential care.",
+      "Again for the residential sample, only literate households are chosen.",
+      "In the process, the book raises several important issues about the formation and maintenance of residential space in one capitalist society."
     ],
-    "hash_code_list_definition_mean": "-1723864229"
+    "hash_code_list_example": "-1010573865"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/resignation_cb_dmean_5000_it.json",
@@ -1101,24 +814,11 @@
         "id_image": "resignation_5115924"
       }
     ],
-    "hash_code_list_img": "657320138",
-    "list_definition_mean": [
-      {
-        "mean_english": "đơn xin thôi việc",
-        "definition": "a letter etc stating that one is resigning",
-        "ex_of_definition_list": [
-          "You will receive my resignation tomorrow."
-        ]
-      },
-      {
-        "mean_english": "sự cam chịu",
-        "definition": "(the state of having or showing) patient, calm acceptance (of a situation, fact etc)",
-        "ex_of_definition_list": [
-          "He accepted his fate with resignation."
-        ]
-      }
+    "hash_code_list_img": "1512323370",
+    "list_example": [
+      "You will receive my resignation tomorrow."
     ],
-    "hash_code_list_definition_mean": "1394106845"
+    "hash_code_list_example": "2018136163"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/resign_cb_dmean_5000_it.json",
@@ -1137,25 +837,21 @@
         "id_image": "resign_1886833"
       }
     ],
-    "hash_code_list_img": "1068859577",
-    "list_definition_mean": [
-      {
-        "mean_english": "từ chức",
-        "definition": "to leave a job etc",
-        "ex_of_definition_list": [
-          "If he criticizes my work again, I’ll resign",
-          "He resigned (from) his post."
-        ]
-      },
-      {
-        "mean_english": "cam chịu",
-        "definition": "(with to) to make (oneself) accept (a situation, fact etc) with patience and calmness",
-        "ex_of_definition_list": [
-          "He has resigned himself to the possibility that he may never walk again."
-        ]
-      }
+    "hash_code_list_img": "119880818",
+    "list_example": [
+      "If he criticizes my work again, I’ll resign",
+      "He resigned (from) his post.",
+      "He has resigned himself to the possibility that he may never walk again.",
+      "In any case, he resigned his office because he was unable properly to carry out his duties.",
+      "An incumbent resigns and his successor is appointed.",
+      "I resigned but remained as a consultant.",
+      "He, therefore, called for his followers to keep away from state institutions by resigning if they were civil servants or by leaving school or university if they were still students.",
+      "Around the mid-1960s, however, he resigned.",
+      "She resigned herself to adoption and also resigned from her university course.",
+      "They resigned their seats and fought an election.",
+      "He worked for a marketing research organisation until 1942, when he resigned after being passed over for a promotion."
     ],
-    "hash_code_list_definition_mean": "-1119960462"
+    "hash_code_list_example": "-1748913156"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/resistance_cb_dmean_5000_it.json",
@@ -1190,25 +886,13 @@
         "id_image": "resistance_6303517"
       }
     ],
-    "hash_code_list_img": "-988552639",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự kháng cự",
-        "definition": "the act of resisting",
-        "ex_of_definition_list": [
-          "The army offered strong resistance to the enemy",
-          "(also adjective) a resistance force."
-        ]
-      },
-      {
-        "mean_english": "có khả năng đề kháng",
-        "definition": "the ability or power to be unaffected or undamaged by something",
-        "ex_of_definition_list": [
-          "resistance to disease."
-        ]
-      }
+    "hash_code_list_img": "-590394293",
+    "list_example": [
+      "The army offered strong resistance to the enemy",
+      "(also adjective) a resistance force.",
+      "resistance to disease."
     ],
-    "hash_code_list_definition_mean": "-532786270"
+    "hash_code_list_example": "680297982"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/resistor_cb_dmean_5000_it.json",
@@ -1231,17 +915,12 @@
         "id_image": "resistor_675824"
       }
     ],
-    "hash_code_list_img": "-1740737882",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái điện trở",
-        "definition": "a device used to provide resistance in an electrical circuit",
-        "ex_of_definition_list": [
-          "The resistor controls the current flow through the LED."
-        ]
-      }
+    "hash_code_list_img": "-904729101",
+    "list_example": [
+      "The resistor controls the current flow through the LED.",
+      "The hardwired components of the test fixture often include a source resistor and a load resistor."
     ],
-    "hash_code_list_definition_mean": "1141140268"
+    "hash_code_list_example": "271118088"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/resist_cb_dmean_5000_it.json",
@@ -1271,34 +950,14 @@
         "id_image": "resist_3100321"
       }
     ],
-    "hash_code_list_img": "854107058",
-    "list_definition_mean": [
-      {
-        "mean_english": "chống lại",
-        "definition": "to fight against, usually successfully",
-        "ex_of_definition_list": [
-          "The soldiers resisted the enemy attack",
-          "He tried to resist arrest",
-          "It’s hard to resist temptation."
-        ]
-      },
-      {
-        "mean_english": "cưỡng lại",
-        "definition": "to be able to stop oneself doing, taking etc (something)",
-        "ex_of_definition_list": [
-          "I couldn’t resist kicking him when he bent down",
-          "I just can’t resist strawberries."
-        ]
-      },
-      {
-        "mean_english": "không bị tác động",
-        "definition": "to be unaffected or undamaged by",
-        "ex_of_definition_list": [
-          "a metal that resists rust/acids."
-        ]
-      }
+    "hash_code_list_img": "-1098966171",
+    "list_example": [
+      "He tried to resist arrest",
+      "It’s hard to resist temptation.",
+      "I couldn’t resist kicking him when he bent down",
+      "I just can’t resist strawberries."
     ],
-    "hash_code_list_definition_mean": "-1832013354"
+    "hash_code_list_example": "-1442648466"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/resolution_cb_dmean_5000_it.json",
@@ -1334,24 +993,12 @@
         "id_image": "resolution_6315672"
       }
     ],
-    "hash_code_list_img": "1877606505",
-    "list_definition_mean": [
-      {
-        "mean_english": "quyết tâm",
-        "definition": "a firm decision (to do something)",
-        "ex_of_definition_list": [
-          "He made a resolution to get up early."
-        ]
-      },
-      {
-        "mean_english": "nghị quyết",
-        "definition": "an opinion or decision formally expressed by a group of people, eg at a public meeting",
-        "ex_of_definition_list": [
-          "The meeting passed a resolution in favour/favor of allowing women to join the society."
-        ]
-      }
+    "hash_code_list_img": "71367186",
+    "list_example": [
+      "He made a resolution to get up early.",
+      "The meeting passed a resolution in favour/favor of allowing women to join the society."
     ],
-    "hash_code_list_definition_mean": "270193513"
+    "hash_code_list_example": "911620983"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/resort_cb_dmean_5000_it.json",
@@ -1390,24 +1037,20 @@
         "id_image": "resort_6213559"
       }
     ],
-    "hash_code_list_img": "2127525026",
-    "list_definition_mean": [
-      {
-        "mean_english": "phải sử dụng đến",
-        "definition": "(with to) to begin to use, do etc as a way of solving a problem etc when other methods have failed",
-        "ex_of_definition_list": [
-          "He couldn’t persuade people to do what he wanted, so he resorted to threats of violence."
-        ]
-      },
-      {
-        "mean_english": "nơi nghỉ ngơi",
-        "definition": "a place visited by many people (especially for holidays)",
-        "ex_of_definition_list": [
-          "Brighton is a popular (holiday) resort."
-        ]
-      }
+    "hash_code_list_img": "2138327531",
+    "list_example": [
+      "He couldn’t persuade people to do what he wanted, so he resorted to threats of violence.",
+      "Brighton is a popular (holiday) resort.",
+      "To avoid excessive backtracking, we resorted to an alternative strategy in which syntactic possibilities were ordered according to their frequency of use.",
+      "As this corps remained thinly spread, the government also resorted to other means, such as regular troops and irregular units.",
+      "Thus, to say that nurses have often resorted to industrial action because they were not professionalized is only trivially true.",
+      "The reason for this was the desire to emphasise the similarity of related operations without resorting to large numbers of almost identical function names.",
+      "A number of modifications have been proposed to avoid this defect, many of them resorting to steps in, or close to, the steepest-descent direction.",
+      "In 1617 the need for more urgent repairs became apparent and the vestry resorted to arm-twisting.",
+      "She had resorted to the courts seeking her freedom (açao de liberdade), but this had g been denied because of lack of evidence.",
+      "When new and more restricted poor relief was introduced in 1871, some of those in need resorted to crime for subsistence."
     ],
-    "hash_code_list_definition_mean": "1086387210"
+    "hash_code_list_example": "-822762890"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/resource_cb_dmean_5000_it.json",
@@ -1442,32 +1085,12 @@
         "id_image": "resource_5661470"
       }
     ],
-    "hash_code_list_img": "1686462014",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự giúp đỡ",
-        "definition": "something that gives help, support etc when needed; a supply; a means",
-        "ex_of_definition_list": [
-          "We have used up all our resources",
-          "We haven’t the resources at this school for teaching handicapped children."
-        ]
-      },
-      {
-        "mean_english": "tài nguyên",
-        "definition": "the wealth of a country, or the supply of materials etc which bring this wealth",
-        "ex_of_definition_list": [
-          "This country is rich in natural resources."
-        ]
-      },
-      {
-        "mean_english": "tài tháo vát",
-        "definition": "the ability to find ways of solving difficulties",
-        "ex_of_definition_list": [
-          "He is full of resource."
-        ]
-      }
+    "hash_code_list_img": "-903079659",
+    "list_example": [
+      "The manager resource relies on the fact that the subject of the control verb has been identified as the control target's antecedent.",
+      "In these analyses, we found that certain donor characteristics and patient diagnoses were associated with substantially greater resource use."
     ],
-    "hash_code_list_definition_mean": "-422108285"
+    "hash_code_list_example": "-793911757"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/respect_cb_dmean_5000_it.json",
@@ -1504,46 +1127,21 @@
         "id_image": "respect_4960764"
       }
     ],
-    "hash_code_list_img": "-862785498",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự kính trọng",
-        "definition": "admiration; good opinion",
-        "ex_of_definition_list": [
-          "He is held in great respect by everyone",
-          "He has no respect for politicians."
-        ]
-      },
-      {
-        "mean_english": "sự lưu tâm",
-        "definition": "consideration; thoughtfulness; willingness to obey etc",
-        "ex_of_definition_list": [
-          "He shows no respect for his parents."
-        ]
-      },
-      {
-        "mean_english": "khía cạnh",
-        "definition": "a particular detail, feature etc",
-        "ex_of_definition_list": [
-          "These two poems are similar in some respects."
-        ]
-      },
-      {
-        "mean_english": "kính trọng",
-        "definition": "to show or feel admiration for",
-        "ex_of_definition_list": [
-          "I respect you for what you did."
-        ]
-      },
-      {
-        "mean_english": "tôn trọng",
-        "definition": "to show consideration for, a willingness to obey etc",
-        "ex_of_definition_list": [
-          "One should respect other people’s feelings/property."
-        ]
-      }
+    "hash_code_list_img": "-1248324220",
+    "list_example": [
+      "He is held in great respect by everyone",
+      "He has no respect for politicians.",
+      "He shows no respect for his parents.",
+      "I respect you for what you did.",
+      "One should respect other people’s feelings/property.",
+      "The opposite direction of this implication, that is, the completeness of the logical relations with respect to contextual equivalence remains future work.",
+      "According to this view one tends to perceive selfmotion primarily with respect to a visual reference frame.",
+      "The stress of the developmental transition to young adulthood may, in par t, be defined with respect to new roles.",
+      "Note that (2.19)is trivially satisfied a t i = 1, and thus it must be replaced with its derivative with respect to arclength.",
+      "Patients assigned to the ' generalized eating disorder ' cluster were rated as having more severe symptoms in almost every respect except weight.",
+      "In this respect the building's technical failings have disappointed the client and many users."
     ],
-    "hash_code_list_definition_mean": "272506560"
+    "hash_code_list_example": "-1232106796"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/respiration_cb_dmean_5000_it.json",
@@ -1571,17 +1169,15 @@
         "id_image": "respiratory_4310582"
       }
     ],
-    "hash_code_list_img": "1267519426",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự thở; hơi thở",
-        "definition": "breathing",
-        "ex_of_definition_list": [
-          "artificial respiration."
-        ]
-      }
+    "hash_code_list_img": "-416725138",
+    "list_example": [
+      "Biogeophysical factors influencing soil respiration and mineral nitrogen content in an old field soil.",
+      "In respiration and photosynthesis processes, small redox-active metalloproteins facilitate electron-transfer reactions by alternately binding to specific integral membrane proteins that often contain several metal sites.",
+      "We found this effect in petite (aerobic respiration incompetent) strains but not grande (respiration competent) strains.",
+      "Movements that follow respiration reflect increases and decreases in venous pressure that accompany inflation and deflation of the chest.",
+      "As discussed earlier, these differences would likely have been 2-4 fold higher had a half-hour respiration incubation time been used."
     ],
-    "hash_code_list_definition_mean": "143948394"
+    "hash_code_list_example": "-948179554"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/respiratory_cb_dmean_5000_it.json",
@@ -1604,17 +1200,19 @@
         "id_image": "respiratory_4310582"
       }
     ],
-    "hash_code_list_img": "-1610636410",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc hô hấp",
-        "definition": "related to breathing",
-        "ex_of_definition_list": [
-          "respiratory diseases."
-        ]
-      }
+    "hash_code_list_img": "1796943562",
+    "list_example": [
+      "respiratory diseases.",
+      "This is of particular importance in recognizing respiratory cancers linked to inhaled dusts.",
+      "The respiratory burst is a crucial event in phagocytes aimed at the destruction of ingested particles.",
+      "Modulations of respiratory and laryngeal activity associated with changes in vocal intensity.",
+      "Characterizing social networks of importance for the propagation of diseases transmitted through respiratory droplets.",
+      "Early versus delayed selective surfactant treatment for neonatal respiratory distress syndrome.",
+      "There is very little research to inform practice in the use of antipyretics in upper respiratory tract infection.",
+      "The findings from this case study illustrate the value and potential for nurses to lead and co-ordinate the provision of a respiratory service to patients.",
+      "Spread of enteroviruses occurs via the faecal-oral and respiratory routes, and via hands and fomites, with the dominant mode of spread depending on the circumstances."
     ],
-    "hash_code_list_definition_mean": "1207644393"
+    "hash_code_list_example": "675609595"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/response_cb_dmean_5000_it.json",
@@ -1638,18 +1236,12 @@
         "id_image": "response_4694797"
       }
     ],
-    "hash_code_list_img": "-858460249",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự trả lời; sự phản ứng",
-        "definition": "a reply or reaction",
-        "ex_of_definition_list": [
-          "Our letters have never met with any response",
-          "My suggestions met with little response."
-        ]
-      }
+    "hash_code_list_img": "-1980358762",
+    "list_example": [
+      "Our letters have never met with any response",
+      "My suggestions met with little response."
     ],
-    "hash_code_list_definition_mean": "558947459"
+    "hash_code_list_example": "-904106545"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/responsibility_cb_dmean_5000_it.json",
@@ -1683,31 +1275,14 @@
         "id_image": "responsibility_4371066"
       }
     ],
-    "hash_code_list_img": "-1634397369",
-    "list_definition_mean": [
-      {
-        "mean_english": "trách nhiệm",
-        "definition": "something which a person has to look after, do etc",
-        "ex_of_definition_list": [
-          "He takes his responsibilities very seriously."
-        ]
-      },
-      {
-        "mean_english": "sự quan trọng",
-        "definition": "the state of having important duties",
-        "ex_of_definition_list": [
-          "a position of responsibility."
-        ]
-      },
-      {
-        "mean_english": "trách nhiệm",
-        "definition": "the state of being responsible",
-        "ex_of_definition_list": [
-          "his responsibility for the accident."
-        ]
-      }
+    "hash_code_list_img": "1226721220",
+    "list_example": [
+      "his responsibility for the accident.",
+      "Both strands are brought together in looking beyond individual responsibility or culpability to the structural and lifecourse causes of the problems.",
+      "While some felt strongly that it is an obligation, others referred to the difficulties the responsibility created.",
+      "My parents put a lot of responsibility on us children."
     ],
-    "hash_code_list_definition_mean": "165378466"
+    "hash_code_list_example": "-813850987"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/responsive_cb_dmean_5000_it.json",
@@ -1730,19 +1305,20 @@
         "id_image": "responsive_5746567"
       }
     ],
-    "hash_code_list_img": "157467605",
-    "list_definition_mean": [
-      {
-        "mean_english": "dễ dàng; thuận lợi",
-        "definition": "(opposite unresponsive)",
-        "ex_of_definition_list": [
-          "a responsive, kindly girl",
-          "a responsive smile",
-          "The disease is responsive to treatment."
-        ]
-      }
+    "hash_code_list_img": "-495088873",
+    "list_example": [
+      "a responsive smile",
+      "The disease is responsive to treatment.",
+      "Note, however, the sense in which the judge's decision is responsive to the par ticipation of the (losing) defendant as well.",
+      "Again, these policies had to be responsive to variations in customer demand and the changing constraints placed on the plants producing the products.",
+      "A justification responsive to the parochialism objection is nowhere to be found in the texts of the conventions that list putative human rights.",
+      "This form of behaviour requires that a subsystem participant is not responsive to the past policy preferences of other participants.",
+      "Visual neurons responsive to faces in monkey temporal cortex.",
+      "We find that within farms, land allocation is responsive to relative crop prices and yields.",
+      "The researcher-curiosity process is a standard research funding process in which the funding is responsive to research suggested by research teams.",
+      "Several critics have noted that the novel seems responsive to the climate in which psychic investigations are beginning to take place."
     ],
-    "hash_code_list_definition_mean": "791091969"
+    "hash_code_list_example": "1733111986"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/restaurant_cb_dmean_5000_it.json",
@@ -1770,17 +1346,11 @@
         "id_image": "restaurant_383663"
       }
     ],
-    "hash_code_list_img": "-702415404",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà hàng",
-        "definition": "a place where meals may be bought and eaten",
-        "ex_of_definition_list": [
-          "a Greek restaurant."
-        ]
-      }
+    "hash_code_list_img": "1500236873",
+    "list_example": [
+      "The restaurant seats approximately 200 dining customers with a bar0waiting area that seats an additional 100 customers."
     ],
-    "hash_code_list_definition_mean": "1959625488"
+    "hash_code_list_example": "-397241425"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/restore_cb_dmean_5000_it.json",
@@ -1811,39 +1381,11 @@
         "id_image": "restore_6224603"
       }
     ],
-    "hash_code_list_img": "-42745391",
-    "list_definition_mean": [
-      {
-        "mean_english": "khôi phục",
-        "definition": "to repair (a building, a painting, a piece of furniture etc) so that it looks as it used to or ought to",
-        "ex_of_definition_list": [
-          "The church is going to be restored."
-        ]
-      },
-      {
-        "mean_english": "hồi phục",
-        "definition": "to bring back to a normal or healthy state",
-        "ex_of_definition_list": [
-          "The patient was soon restored to health."
-        ]
-      },
-      {
-        "mean_english": "trả lại",
-        "definition": "to bring or give back",
-        "ex_of_definition_list": [
-          "The authorities are trying to restore law and order.",
-          "The police restored the stolen cars to their owners."
-        ]
-      },
-      {
-        "mean_english": "phục (chức)",
-        "definition": "to bring or put (a person) back to a position, rank etc he once had",
-        "ex_of_definition_list": [
-          "He was asked to resign, but was later restored to his former job as manager."
-        ]
-      }
+    "hash_code_list_img": "575124389",
+    "list_example": [
+      "The authorities are trying to restore law and order."
     ],
-    "hash_code_list_definition_mean": "-2026100297"
+    "hash_code_list_example": "-1955742530"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/restriction_cb_dmean_5000_it.json",
@@ -1872,24 +1414,14 @@
         "id_image": "restriction_6121436"
       }
     ],
-    "hash_code_list_img": "-1691263724",
-    "list_definition_mean": [
-      {
-        "mean_english": "quy tắc",
-        "definition": "a rule etc that limits or controls",
-        "ex_of_definition_list": [
-          "Even in a free democracy a person’s behaviour/behavior must be subject to certain restrictions."
-        ]
-      },
-      {
-        "mean_english": "sự giới hạn",
-        "definition": "the act of restricting",
-        "ex_of_definition_list": [
-          "restriction of freedom."
-        ]
-      }
+    "hash_code_list_img": "-2125838142",
+    "list_example": [
+      "restriction of freedom.",
+      "The restriction of fingerprint collection to people already suspected of a crime reinforced the tendency to rely upon punishment rather than effective state investigation.",
+      "Characteristics associated with fear of falling and activity restriction in community-living older persons.",
+      "A key property of such an objective function is that it keeps the method used for genetic evaluation and the restriction in inbreeding separated."
     ],
-    "hash_code_list_definition_mean": "616221392"
+    "hash_code_list_example": "-2098745798"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/rest_cb_dmean_5000_it.json",
@@ -1928,101 +1460,22 @@
         "id_image": "rest_5776062"
       }
     ],
-    "hash_code_list_img": "-960089930",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự nghỉ ngơi",
-        "definition": "a (usually short) period of not working etc after, or between periods of, effort; (a period of) freedom from worries etc",
-        "ex_of_definition_list": [
-          "Digging the garden is hard work – let’s stop for a rest",
-          "Let’s have/take a rest",
-          "I need a rest from all these problems – I’m going to take a week’s holiday."
-        ]
-      },
-      {
-        "mean_english": "giấc ngủ",
-        "definition": "sleep",
-        "ex_of_definition_list": [
-          "He needs a good night’s rest."
-        ]
-      },
-      {
-        "mean_english": "cái giá đỡ",
-        "definition": "something which holds or supports",
-        "ex_of_definition_list": [
-          "a book-rest",
-          "a headrest on a car seat."
-        ]
-      },
-      {
-        "mean_english": "không hoạt động",
-        "definition": "a state of not moving",
-        "ex_of_definition_list": [
-          "The machine is at rest."
-        ]
-      },
-      {
-        "mean_english": "nghỉ ngơi",
-        "definition": "to (allow to) stop working etc in order to get new strength or energy",
-        "ex_of_definition_list": [
-          "We’ve been walking for four hours – let’s stop and rest",
-          "Stop reading for a minute and rest your eyes",
-          "Let’s rest our legs."
-        ]
-      },
-      {
-        "mean_english": "ngủ",
-        "definition": "to sleep; to lie or sit quietly in order to get new strength or energy, or because one is tired",
-        "ex_of_definition_list": [
-          "Mother is resting at the moment."
-        ]
-      },
-      {
-        "mean_english": "tựa vào",
-        "definition": "to (make or allow to) lean, lie, sit, remain etc on or against something",
-        "ex_of_definition_list": [
-          "Her head rested on his shoulder",
-          "He rested his hand on her arm",
-          "Her gaze rested on the jewels."
-        ]
-      },
-      {
-        "mean_english": "an tâm",
-        "definition": "to relax, be calm etc",
-        "ex_of_definition_list": [
-          "I will never rest until I know the murderer has been caught."
-        ]
-      },
-      {
-        "mean_english": "trông đợi vào",
-        "definition": "to (allow to) depend on",
-        "ex_of_definition_list": [
-          "Our hopes now rest on him, since all else has failed."
-        ]
-      },
-      {
-        "mean_english": "thuộc về",
-        "definition": "(with with) (of a duty etc) to belong to",
-        "ex_of_definition_list": [
-          "The choice rests with you."
-        ]
-      },
-      {
-        "mean_english": "thứ còn lại",
-        "definition": "what is left when part of something is taken away, finished etc",
-        "ex_of_definition_list": [
-          "the rest of the meal."
-        ]
-      },
-      {
-        "mean_english": "những người/vật khác",
-        "definition": "all the other people, things etc",
-        "ex_of_definition_list": [
-          "Jack went home, but the rest of us went to the cinema."
-        ]
-      }
+    "hash_code_list_img": "-168131937",
+    "list_example": [
+      "I need a rest from all these problems – I’m going to take a week’s holiday.",
+      "a headrest on a car seat.",
+      "Stop reading for a minute and rest your eyes",
+      "Let’s rest our legs.",
+      "I will never rest until I know the murderer has been caught.",
+      "Our hopes now rest on him, since all else has failed.",
+      "the rest of the meal.",
+      "Jack went home, but the rest of us went to the cinema.",
+      "We say that this approach is effector-based because it makes effector knowledge explicit, and separates it from the rest of the planning knowledge.",
+      "The rest of this paper is organized as follows.",
+      "However, it also should serve as a useful reference book for the rest of us.",
+      "The rest (and they are many) are either discredited or dismissed."
     ],
-    "hash_code_list_definition_mean": "-183602691"
+    "hash_code_list_example": "-1348485249"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/result_cb_dmean_5000_it.json",
@@ -2054,56 +1507,17 @@
         "id_image": "result_3974900"
       }
     ],
-    "hash_code_list_img": "2041796400",
-    "list_definition_mean": [
-      {
-        "mean_english": "kết quả",
-        "definition": "anything which is due to something already done",
-        "ex_of_definition_list": [
-          "His deafness is the result of a car accident",
-          "He went deaf as a result of an accident",
-          "He tried a new method, with excellent results",
-          "He tried again, but without result."
-        ]
-      },
-      {
-        "mean_english": "đáp số",
-        "definition": "the answer to a sum etc",
-        "ex_of_definition_list": [
-          "Add all these figures and tell me the result."
-        ]
-      },
-      {
-        "mean_english": "tỷ số",
-        "definition": "the final score",
-        "ex_of_definition_list": [
-          "What was the result of Saturday’s match?"
-        ]
-      },
-      {
-        "mean_english": "kết quả",
-        "definition": "the list of people who have been successful in a competition, of subjects a person has passed or failed in an examination etc",
-        "ex_of_definition_list": [
-          "He had very good exam results",
-          "The results will be published next week."
-        ]
-      },
-      {
-        "mean_english": "do bởi",
-        "definition": "(often with from) to be caused (by something)",
-        "ex_of_definition_list": [
-          "We will pay for any damage which results (from our experiments)."
-        ]
-      },
-      {
-        "mean_english": "dẫn đến kết quả",
-        "definition": "(with in) to cause or have as a result",
-        "ex_of_definition_list": [
-          "The match resulted in a draw."
-        ]
-      }
+    "hash_code_list_img": "1484341668",
+    "list_example": [
+      "His deafness is the result of a car accident",
+      "He went deaf as a result of an accident",
+      "What was the result of Saturday’s match?",
+      "The result was a debilitating sense of impotence.",
+      "Our result can thus be written ___ 0 = 4-at.",
+      "Again, the result is unintuitive for this example.",
+      "To see this, the following result is useful."
     ],
-    "hash_code_list_definition_mean": "-1015074726"
+    "hash_code_list_example": "-1365245522"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/resume_cb_dmean_5000_it.json",
@@ -2133,18 +1547,15 @@
         "id_image": "resume_470202"
       }
     ],
-    "hash_code_list_img": "-1631971847",
-    "list_definition_mean": [
-      {
-        "mean_english": "nối lại",
-        "definition": "to begin again after stopping",
-        "ex_of_definition_list": [
-          "After tea, the meeting resumed",
-          "We’ll resume the meeting after tea."
-        ]
-      }
+    "hash_code_list_img": "-1690019771",
+    "list_example": [
+      "We’ll resume the meeting after tea.",
+      "Furthermore, tuple space migration allows mobile entities to suspend an ongoing interaction and resume it whenever both agents happen to be co-located again.",
+      "This may reflect the encouragement provided by the problem-solving therapist to resume usual activities.",
+      "Many fourth and fifth stage juveniles may be available to resume final development to maturity.",
+      "The need to resume political activity and stop behaving as quasi-diplomats probably led directly to their rash censure motion of 1976."
     ],
-    "hash_code_list_definition_mean": "1352056467"
+    "hash_code_list_example": "561343140"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/retail_cb_dmean_5000_it.json",
@@ -2174,31 +1585,11 @@
         "id_image": "retail_6206766"
       }
     ],
-    "hash_code_list_img": "-1068720642",
-    "list_definition_mean": [
-      {
-        "mean_english": "bán lẻ",
-        "definition": "to sell (goods) (usually in small quantities) to the person who is going to use them (rather than to someone who is going to sell them to someone else)",
-        "ex_of_definition_list": [
-          "That particular guitar retails at £750."
-        ]
-      },
-      {
-        "mean_english": "thuộc bán lẻ",
-        "definition": "relating to the sale of goods in this way",
-        "ex_of_definition_list": [
-          "a retail price."
-        ]
-      },
-      {
-        "mean_english": "ngành bán lẻ",
-        "definition": "the activity of selling goods to customers for their own use",
-        "ex_of_definition_list": [
-          "She works in retail."
-        ]
-      }
+    "hash_code_list_img": "1277270705",
+    "list_example": [
+      "a retail price."
     ],
-    "hash_code_list_definition_mean": "-2013608791"
+    "hash_code_list_example": "-1808872350"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/retention_cb_dmean_5000_it.json",
@@ -2221,17 +1612,15 @@
         "id_image": "retention_2654575"
       }
     ],
-    "hash_code_list_img": "-185634750",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự giữ lại",
-        "definition": "the act of retaining",
-        "ex_of_definition_list": [
-          "the retention of information."
-        ]
-      }
+    "hash_code_list_img": "1522459582",
+    "list_example": [
+      "the retention of information.",
+      "Moreover, retention rates in the eight chambers in states without the ballot reform are not statistically different from those that adopted the reform.",
+      "Problems in recruitment and retention are exacerbated by reports of low morale throughout the profession.",
+      "Studies on delayed dream recall and long-term retention of pre-sleep stimuli indicate that sleep may have a positive role in the consolidation of information.",
+      "These include: (1) interference with water uptake; (2) mechanical constraints; (3) interference with gas exchange; (4) retention of inhibitors; and (5) inhibitor production."
     ],
-    "hash_code_list_definition_mean": "476410921"
+    "hash_code_list_example": "-1750936235"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/retina_cb_dmean_5000_it.json",
@@ -2254,17 +1643,12 @@
         "id_image": "retina_4198505"
       }
     ],
-    "hash_code_list_img": "1389304110",
-    "list_definition_mean": [
-      {
-        "mean_english": "võng mạc",
-        "definition": "the part of the back of the eye that receives the image of what is seen",
-        "ex_of_definition_list": [
-          "a detached retina."
-        ]
-      }
+    "hash_code_list_img": "-1730450197",
+    "list_example": [
+      "The injection site in the peripheral retina can be seen at the lower left corner.",
+      "Of significance to this review are observations of local growth modulation that imply that the neural retina itself must be the source of growth-regulating signals."
     ],
-    "hash_code_list_definition_mean": "1413890895"
+    "hash_code_list_example": "783525444"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/retirement_cb_dmean_5000_it.json",
@@ -2293,24 +1677,20 @@
         "id_image": "retirement_4072872"
       }
     ],
-    "hash_code_list_img": "1471483966",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự nghỉ hưu",
-        "definition": "the act of retiring from work",
-        "ex_of_definition_list": [
-          "It is not long till his retirement."
-        ]
-      },
-      {
-        "mean_english": "thời gian nghỉ hưu",
-        "definition": "a person’s life after retiring from work",
-        "ex_of_definition_list": [
-          "He’s enjoying his retirement."
-        ]
-      }
+    "hash_code_list_img": "1608805013",
+    "list_example": [
+      "It is not long till his retirement.",
+      "He’s enjoying his retirement.",
+      "The numbers of these officers have since been reduced by retirements and other causes, and on 31st ultimo they stood at 141 and 1,091 respectively.",
+      "If transitional costs are higher, it will be because redundancies and early retirements are greater and, therefore, savings subsequently will be greater still.",
+      "I am worried about very remunerative early retirements.",
+      "There were no retirements on the grounds of ill-health.",
+      "Even after allowing for the normal retirements at elections, there will inevitably be redundancies.",
+      "I hope we shall be able to arrange retirements voluntarily; we are trying to work the plan in that way.",
+      "In addition to this, they have been harassed by a feeling of great insecurity and anxiety owing to compulsory retirements on the ground of economy.",
+      "Our records show retirements and discharges at all ages and do not specify those under 40 years of age."
     ],
-    "hash_code_list_definition_mean": "-723638523"
+    "hash_code_list_example": "57238695"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/retort_cb_dmean_5000_it.json",
@@ -2334,24 +1714,20 @@
         "id_image": "retort_5332582"
       }
     ],
-    "hash_code_list_img": "-2107777356",
-    "list_definition_mean": [
-      {
-        "mean_english": "trả miếng",
-        "definition": "to make a quick and clever or angry reply",
-        "ex_of_definition_list": [
-          "‘You’re too old’, she said. ‘You’re not so young yourself,’ he retorted."
-        ]
-      },
-      {
-        "mean_english": "sự trả miếng",
-        "definition": "such a reply",
-        "ex_of_definition_list": [
-          "an angry retort."
-        ]
-      }
+    "hash_code_list_img": "1448095000",
+    "list_example": [
+      "‘You’re too old’, she said. ‘You’re not so young yourself,’ he retorted.",
+      "an angry retort.",
+      "Reiko retorts that one can give a soul to a puppet by breathing into its mouth.",
+      "We know that retorting machinery can be produced quickly and would be a short-term business.",
+      "When contacted, the firework company that had made the delivery retorted that, as far as they were concerned, the purchaser could have had 20 tonnes had he so wanted.",
+      "The fumes from the present retorts and gas holders are very bad indeed and an overhead travelling grab rattles and whirrs with its load of glowing cinders all night.",
+      "His remarks about fatuity were wrong and unjust and could be retorted on his own comments on the matter.",
+      "I do not really understand why, in this game of slinging the same retorts all the time, you never believe the authorities of a partner state.",
+      "Limestone was baked in retorts as part of the process to make slaked lime.",
+      "As a general rule, vertical retorts process lumps using a gas heat carrier, while horizontal retorts process fines using solid heat carrier."
     ],
-    "hash_code_list_definition_mean": "1880832377"
+    "hash_code_list_example": "-1033611935"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/return_cb_dmean_5000_it.json",
@@ -2391,71 +1767,13 @@
         "id_image": "return_5612818"
       }
     ],
-    "hash_code_list_img": "100722995",
-    "list_definition_mean": [
-      {
-        "mean_english": "trở lại",
-        "definition": "to come or go back",
-        "ex_of_definition_list": [
-          "He returns home tomorrow",
-          "He returned to London from Paris yesterday",
-          "The pain has returned."
-        ]
-      },
-      {
-        "mean_english": "trả lại",
-        "definition": "to give, send, put etc (something) back where it came from",
-        "ex_of_definition_list": [
-          "He returned the book to its shelf",
-          "Don’t forget to return the books you borrowed."
-        ]
-      },
-      {
-        "mean_english": "trở lại",
-        "definition": "to go back to something you have been discussing earlier",
-        "ex_of_definition_list": [
-          "I’ll return to this topic in a minute"
-        ]
-      },
-      {
-        "mean_english": "đáp lại",
-        "definition": "to do (something) which has been done to oneself",
-        "ex_of_definition_list": [
-          "She hit him and he returned the blow",
-          "He said how nice it was to see her again, and she returned the compliment."
-        ]
-      },
-      {
-        "mean_english": "tuyên án",
-        "definition": "(of a jury) to give (a verdict)",
-        "ex_of_definition_list": [
-          "The jury returned a verdict of not guilty."
-        ]
-      },
-      {
-        "mean_english": "đánh trả",
-        "definition": "(in tennis etc) to hit (a ball) back to one’s opponent",
-        "ex_of_definition_list": [
-          "She returned his serve."
-        ]
-      },
-      {
-        "mean_english": "sự trở lại",
-        "definition": "the act of returning",
-        "ex_of_definition_list": [
-          "On our return, we found the house had been burgled",
-          "(also adjective) a return journey."
-        ]
-      },
-      {
-        "mean_english": "khứ hồi",
-        "definition": "especially in United Kingdom, a round-trip ticket, a return ticket",
-        "ex_of_definition_list": [
-          "Do you want a single or a return?"
-        ]
-      }
+    "hash_code_list_img": "-1952190689",
+    "list_example": [
+      "Don’t forget to return the books you borrowed.",
+      "I’ll return to this topic in a minute",
+      "(also adjective) a return journey."
     ],
-    "hash_code_list_definition_mean": "1853641216"
+    "hash_code_list_example": "1664680263"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/reunion_cb_dmean_5000_it.json",
@@ -2474,16 +1792,12 @@
         "id_image": "reunion_567509"
       }
     ],
-    "hash_code_list_img": "1021494387",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuộc hội ngộ",
-        "definition": "a meeting of people who have not met for some time",
-        "ex_of_definition_list": [
-          "We attended a reunion of former pupils of our school."
-        ]
-      }
+    "hash_code_list_img": "1919161906",
+    "list_example": [
+      "We attended a reunion of former pupils of our school.",
+      "The separation- reunion sequence took place at the beginning of the first clinic visit.",
+      "Since the mid-1990s, however, female emigration has increased, both absolutely and as a share of the total, reflecting a tendency towards long-term, family-reunion emigration."
     ],
-    "hash_code_list_definition_mean": "1736997905"
+    "hash_code_list_example": "-1919641044"
   }
 ]

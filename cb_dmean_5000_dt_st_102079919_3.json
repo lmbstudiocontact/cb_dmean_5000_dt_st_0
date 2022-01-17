@@ -16,26 +16,12 @@
         "id_image": "milk_373024"
       }
     ],
-    "hash_code_list_img": "1477200938",
-    "list_definition_mean": [
-      {
-        "mean_english": "sữa",
-        "definition": "a white liquid produced by female mammals as food for their young",
-        "ex_of_definition_list": [
-          "a glass of milk",
-          "The commonest source of milk is the cow",
-          "(also adjective) a milk bottle."
-        ]
-      },
-      {
-        "mean_english": "vắt sữa",
-        "definition": "to obtain milk from",
-        "ex_of_definition_list": [
-          "The farmer milks his cows each day."
-        ]
-      }
+    "hash_code_list_img": "755464431",
+    "list_example": [
+      "The commonest source of milk is the cow",
+      "(also adjective) a milk bottle."
     ],
-    "hash_code_list_definition_mean": "344418218"
+    "hash_code_list_example": "-63378049"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/millstone_cb_dmean_5000_it.json",
@@ -54,17 +40,11 @@
         "id_image": "millstone_3317637"
       }
     ],
-    "hash_code_list_img": "1539591575",
-    "list_definition_mean": [
-      {
-        "mean_english": "gánh nặng",
-        "definition": "(usually with round one’s/the neck) something that is a heavy burden or responsibility, and prevents easy progress",
-        "ex_of_definition_list": [
-          "He regarded his brother as a millstone round his neck."
-        ]
-      }
+    "hash_code_list_img": "870869354",
+    "list_example": [
+      "He regarded his brother as a millstone round his neck."
     ],
-    "hash_code_list_definition_mean": "100985029"
+    "hash_code_list_example": "-725346601"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mill_cb_dmean_5000_it.json",
@@ -101,46 +81,24 @@
         "id_image": "mill_6092381"
       }
     ],
-    "hash_code_list_img": "1201522611",
-    "list_definition_mean": [
-      {
-        "mean_english": "máy xay",
-        "definition": "a machine, sometimes now electrical, for grinding coffee, pepper etc by crushing it between rough, hard surfaces",
-        "ex_of_definition_list": [
-          "a coffee mill",
-          "a pepper mill."
-        ]
-      },
-      {
-        "mean_english": "nhà máy xay",
-        "definition": "a building where grain is ground",
-        "ex_of_definition_list": [
-          "The farmer took his corn to the mill."
-        ]
-      },
-      {
-        "mean_english": "nhà máy",
-        "definition": "a building where certain types of things are manufactured",
-        "ex_of_definition_list": [
-          "a steel mill."
-        ]
-      },
-      {
-        "mean_english": "nghiền",
-        "definition": "to grind or press",
-        "ex_of_definition_list": [
-          "This flour was milled locally."
-        ]
-      },
-      {
-        "mean_english": "hỗn loạn",
-        "definition": "(usually with aboutor around) (of crowds) to move about in a disorganized way",
-        "ex_of_definition_list": [
-          "There’s a huge crowd of people milling around outside."
-        ]
-      }
+    "hash_code_list_img": "-302220872",
+    "list_example": [
+      "a coffee mill",
+      "a pepper mill.",
+      "The farmer took his corn to the mill.",
+      "a steel mill.",
+      "This flour was milled locally.",
+      "There’s a huge crowd of people milling around outside.",
+      "Strikes had sometimes been co-ordinate across a group of mills when policies of the managing agent had affected them in the same way.",
+      "The equations were calibrated and validated with 116 and 45 samples, respectively, for flotation index and with 149 and 176 samples, respectively, for milling tests.",
+      "She is forced to acknowledge the hypocrisy of a father who concealed 'the hideous mystery' regarding the mills that generated all his wealth.",
+      "The notion that children might help their parents in the mills softened, in public discourse, the brutality and exploitation that child labour entailed.",
+      "Diagnosis of different faults in milling using drive signals and process models.",
+      "Even if life in the factory was not necessarily a worse alternative than life in the fields, in some mills work was unhealthy.",
+      "The mechanism of strikes in the jute mills often appeared unconventional to managers and the colonial state.",
+      "People and cars milled about us, while posters, caravans, tents, and stalls were crammed in everywhere."
     ],
-    "hash_code_list_definition_mean": "145528288"
+    "hash_code_list_example": "1065572380"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mime_cb_dmean_5000_it.json",
@@ -166,38 +124,11 @@
         "id_image": "mime_773391"
       }
     ],
-    "hash_code_list_img": "1811525340",
-    "list_definition_mean": [
-      {
-        "mean_english": "kịch câm",
-        "definition": "the art of using movement to perform the function of speech, especially in drama",
-        "ex_of_definition_list": [
-          "She is studying mime."
-        ]
-      },
-      {
-        "mean_english": "vở kịch câm",
-        "definition": "a play in which no words are spoken and the actions tell the story",
-        "ex_of_definition_list": [
-          "The children performed a mime."
-        ]
-      },
-      {
-        "mean_english": "nghệ sĩ kịch câm",
-        "definition": "an actor in such a play; someone who practises this art",
-        "ex_of_definition_list": [
-          "Marcel Marceau was a famous mime."
-        ]
-      },
-      {
-        "mean_english": "diễn kịch câm",
-        "definition": "to act, eg in such a play, using movements rather than words",
-        "ex_of_definition_list": [
-          "He mimed his love for her by holding his hands over his heart."
-        ]
-      }
+    "hash_code_list_img": "1357093986",
+    "list_example": [
+      "She was, therefore, encouraged to use mime and gestures, as when trying to describe an aspect of her son's life."
     ],
-    "hash_code_list_definition_mean": "760062680"
+    "hash_code_list_example": "1939562506"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mincer_cb_dmean_5000_it.json",
@@ -220,17 +151,11 @@
         "id_image": "mincer_447187"
       }
     ],
-    "hash_code_list_img": "788593014",
-    "list_definition_mean": [
-      {
-        "mean_english": "người õng ẹo",
-        "definition": "a machine for mincing meat etc",
-        "ex_of_definition_list": [
-          "Could you put the meat in the mincer?"
-        ]
-      }
+    "hash_code_list_img": "-1510291320",
+    "list_example": [
+      "The consultation period is now closed, and the report will now enter the ministerial mincer for consideration."
     ],
-    "hash_code_list_definition_mean": "1641289082"
+    "hash_code_list_example": "361310997"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mince_cb_dmean_5000_it.json",
@@ -250,31 +175,18 @@
         "id_image": "mince_3690250"
       }
     ],
-    "hash_code_list_img": "571309782",
-    "list_definition_mean": [
-      {
-        "mean_english": "cắt nhỏ",
-        "definition": "to cut into small pieces or chop finely",
-        "ex_of_definition_list": [
-          "Would you like me to mince the meat for you?"
-        ]
-      },
-      {
-        "mean_english": "đi đứng õng ẹo",
-        "definition": "to walk with short steps, in an unpleasantly dainty or delicate way",
-        "ex_of_definition_list": [
-          "He minced over to her."
-        ]
-      },
-      {
-        "mean_english": "thịt băm",
-        "definition": "meat (usually beef) chopped up into small pieces",
-        "ex_of_definition_list": [
-          "mince and potatoes."
-        ]
-      }
+    "hash_code_list_img": "842984727",
+    "list_example": [
+      "Would you like me to mince the meat for you?",
+      "mince and potatoes.",
+      "But many countries have strict controls on import of uncooked mince on animal and public health grounds.",
+      "They contend that the vices of monopoly in religious markets mirror the adverse results of monopoly in traditional commercial markets for vehicles, umbrellas and mince pies.",
+      "It was designed to address the problem of inadvertent and genuinely erroneous transfer, not transfer that is, not to mince words, fraudulent.",
+      "I do not think that we should mince words or deceive ourselves in this.",
+      "I do not know why one should mince words here.",
+      "We need not mince words whether we call these charges \"taxes\" or not."
     ],
-    "hash_code_list_definition_mean": "-1233408892"
+    "hash_code_list_example": "856210559"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mind_cb_dmean_5000_it.json",
@@ -307,52 +219,13 @@
         "id_image": "mind_1935494"
       }
     ],
-    "hash_code_list_img": "364091839",
-    "list_definition_mean": [
-      {
-        "mean_english": "trí tuệ",
-        "definition": "the power by which one thinks etc; the intelligence or understanding",
-        "ex_of_definition_list": [
-          "She has a very inquiring mind."
-        ]
-      },
-      {
-        "mean_english": "chăm nom",
-        "definition": "to look after or supervise (eg a child)",
-        "ex_of_definition_list": [
-          "Would you mind the baby for a few minutes?."
-        ]
-      },
-      {
-        "mean_english": "cảm thấy phiền lòng",
-        "definition": "to be upset by; to object to",
-        "ex_of_definition_list": [
-          "You must try not to mind when he criticizes your work."
-        ]
-      },
-      {
-        "mean_english": "cẩn thận",
-        "definition": "to be careful of",
-        "ex_of_definition_list": [
-          "Mind (= be careful not to trip over) the step!"
-        ]
-      },
-      {
-        "mean_english": "để ý",
-        "definition": "to pay attention to or obey",
-        "ex_of_definition_list": [
-          "You should mind your parents’ words/advice."
-        ]
-      },
-      {
-        "mean_english": "sự xen vào",
-        "definition": "be careful!",
-        "ex_of_definition_list": [
-          "Mind! There’s a car coming!"
-        ]
-      }
+    "hash_code_list_img": "1981816772",
+    "list_example": [
+      "Would you mind the baby for a few minutes?.",
+      "You must try not to mind when he criticizes your work.",
+      "You should mind your parents’ words/advice."
     ],
-    "hash_code_list_definition_mean": "965550608"
+    "hash_code_list_example": "875498962"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mineralogy_cb_dmean_5000_it.json",
@@ -370,17 +243,14 @@
         "id_image": "mineralogy_6348288"
       }
     ],
-    "hash_code_list_img": "531068815",
-    "list_definition_mean": [
-      {
-        "mean_english": "khoáng vật học",
-        "definition": "the scientific study of minerals",
-        "ex_of_definition_list": [
-          "the Department of Mineralogy at the University of Lausanne."
-        ]
-      }
+    "hash_code_list_img": "548828037",
+    "list_example": [
+      "There are also appendices containing determinative tables for handspecimen identification, determinative tables for optical mineralogy and a glossary.",
+      "Based on the martian mineralogy and geochemistry a suite of possible reactants and products was created.",
+      "However, the methodology needs adapting to the mineralogy of a planet, the surface of which is dominated by volcanogenic detritus.",
+      "While the cur rent volume is primarily aimed at materials sciences, the methods are equally applicable to problems in mineralogy and petrology."
     ],
-    "hash_code_list_definition_mean": "1877161265"
+    "hash_code_list_example": "-1621893998"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mineral_cb_dmean_5000_it.json",
@@ -403,18 +273,14 @@
         "id_image": "mineral_649076"
       }
     ],
-    "hash_code_list_img": "1885131046",
-    "list_definition_mean": [
-      {
-        "mean_english": "khoáng",
-        "definition": "a substance (metals, gems, coal, salt etc) found naturally in the earth and mined",
-        "ex_of_definition_list": [
-          "What minerals are mined in that country?",
-          "(also adjective) mineral ores."
-        ]
-      }
+    "hash_code_list_img": "1364031579",
+    "list_example": [
+      "(also adjective) mineral ores.",
+      "The most serious threat to these peoples is represented by the commercial development of strategically important reserves of mineral resources.",
+      "Magnetic fabrics show an evolution similar to the silicate mineral fabrics in general.",
+      "Considering the high grade of preservation, the mineral formation process was probably a relatively quick event."
     ],
-    "hash_code_list_definition_mean": "1660136879"
+    "hash_code_list_example": "-936366282"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mine_cb_dmean_5000_it.json",
@@ -447,52 +313,11 @@
         "id_image": "mine_942381"
       }
     ],
-    "hash_code_list_img": "-1949345978",
-    "list_definition_mean": [
-      {
-        "mean_english": "của tôi",
-        "definition": "something which belongs to me",
-        "ex_of_definition_list": [
-          "Are these pencils yours or mine? He is a friend of mine (= one of my friends)."
-        ]
-      },
-      {
-        "mean_english": "mỏ",
-        "definition": "a place (usually underground) from which metals, coal, salt etc are dug",
-        "ex_of_definition_list": [
-          "My father worked in the mines."
-        ]
-      },
-      {
-        "mean_english": "thủy lôi",
-        "definition": "a type of bomb used underwater or placed just beneath the surface of the ground",
-        "ex_of_definition_list": [
-          "The ship has been blown up by a mine."
-        ]
-      },
-      {
-        "mean_english": "khai thác",
-        "definition": "to dig (for metals etc) in a mine",
-        "ex_of_definition_list": [
-          "Coal is mined near here."
-        ]
-      },
-      {
-        "mean_english": "đặt mìn",
-        "definition": "to place explosive mines in",
-        "ex_of_definition_list": [
-          "They’ve mined the mouth of the river."
-        ]
-      },
-      {
-        "mean_english": "phá hủy bằng mìn",
-        "definition": "to blow up with mines",
-        "ex_of_definition_list": [
-          "His ship was mined."
-        ]
-      }
+    "hash_code_list_img": "229536100",
+    "list_example": [
+      "Are these pencils yours or mine? He is a friend of mine (= one of my friends)."
     ],
-    "hash_code_list_definition_mean": "153679057"
+    "hash_code_list_example": "40046607"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/minibus_cb_dmean_5000_it.json",
@@ -520,17 +345,11 @@
         "id_image": "minibus_2882152"
       }
     ],
-    "hash_code_list_img": "500426513",
-    "list_definition_mean": [
-      {
-        "mean_english": "xe buýt nhỏ",
-        "definition": "a small bus, usually with only a dozen seats or so",
-        "ex_of_definition_list": [
-          "The school choir hired a minibus."
-        ]
-      }
+    "hash_code_list_img": "6813873",
+    "list_example": [
+      "Meals on wheels were delivered to 8%, 8% used transportation services (minibus taxi service, available by subscription), and 6% were away for recuperation."
     ],
-    "hash_code_list_definition_mean": "722305452"
+    "hash_code_list_example": "-1921630030"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/minimal_cb_dmean_5000_it.json",
@@ -553,17 +372,17 @@
         "id_image": "minimal_4660895"
       }
     ],
-    "hash_code_list_img": "1862513837",
-    "list_definition_mean": [
-      {
-        "mean_english": "rất nhỏ",
-        "definition": "very small indeed",
-        "ex_of_definition_list": [
-          "minimal expense."
-        ]
-      }
+    "hash_code_list_img": "894954659",
+    "list_example": [
+      "minimal expense.",
+      "This operation takes a minimal tree as input and returns the mirror image of that tree as output, preserving hierarchical relations.",
+      "The mean radius was calculated as the average of the maximal and minimal radius values.",
+      "When representing data, we must ensure that all relevant features needed for prediction are encoded; each case will require some minimal representation.",
+      "For the standard method, half the value of the minimal screening dilution used was assumed to be an exact value.",
+      "First, non-finality simply cannot establish an iambic minimal word.",
+      "Also, an interface appears for the minimal solutions, whose asymptotic velocity is c*."
     ],
-    "hash_code_list_definition_mean": "1329271301"
+    "hash_code_list_example": "-1515356992"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/minimize_cb_dmean_5000_it.json",
@@ -592,24 +411,11 @@
         "id_image": "minimize_376873"
       }
     ],
-    "hash_code_list_img": "-1424032447",
-    "list_definition_mean": [
-      {
-        "mean_english": "giảm thiểu",
-        "definition": "to make as little as possible",
-        "ex_of_definition_list": [
-          "Our aim is to minimize the danger as far as possible."
-        ]
-      },
-      {
-        "mean_english": "đánh giá thấp",
-        "definition": "to cause to seem little or unimportant",
-        "ex_of_definition_list": [
-          "He minimized the help he had received."
-        ]
-      }
+    "hash_code_list_img": "1164211584",
+    "list_example": [
+      "Our aim is to minimize the danger as far as possible."
     ],
-    "hash_code_list_definition_mean": "1790387475"
+    "hash_code_list_example": "2093864187"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mini_cb_dmean_5000_it.json",
@@ -634,25 +440,11 @@
         "id_image": "mini_2364436"
       }
     ],
-    "hash_code_list_img": "1321601561",
-    "list_definition_mean": [
-      {
-        "mean_english": "xe buýt nhỏ",
-        "definition": "a type of small car",
-        "ex_of_definition_list": [
-          "She drives a mini."
-        ]
-      },
-      {
-        "mean_english": "thuộc xe buýt nhỏ",
-        "definition": "small",
-        "ex_of_definition_list": [
-          "a mini dictionary",
-          "a minibus."
-        ]
-      }
+    "hash_code_list_img": "103449966",
+    "list_example": [
+      "a mini dictionary"
     ],
-    "hash_code_list_definition_mean": "-1357820583"
+    "hash_code_list_example": "73544287"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mink_cb_dmean_5000_it.json",
@@ -677,25 +469,15 @@
         "id_image": "mink_2281108"
       }
     ],
-    "hash_code_list_img": "-379416487",
-    "list_definition_mean": [
-      {
-        "mean_english": "lông chồn",
-        "definition": "its fur",
-        "ex_of_definition_list": [
-          "a hat made of mink",
-          "(also adjective) a mink coat."
-        ]
-      },
-      {
-        "mean_english": "áo lông chồn",
-        "definition": "a mink coat",
-        "ex_of_definition_list": [
-          "She wore her new mink."
-        ]
-      }
+    "hash_code_list_img": "1140790149",
+    "list_example": [
+      "(also adjective) a mink coat.",
+      "Most of the escaped mink have been recaptured or accounted for, but eight are still missing.",
+      "He said that he had found mink that were \"relaxed, inquisitive, lively, even cheerful\".",
+      "The council found that the mink were getting out of control and called in the hounds.",
+      "The scientists might be criticised initially for having too simplistic a view of mink behaviour, taking no account of situations where local conditions might be especially favourable for feral breeding."
     ],
-    "hash_code_list_definition_mean": "2107655972"
+    "hash_code_list_example": "1577144989"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/minority_cb_dmean_5000_it.json",
@@ -713,18 +495,11 @@
         "id_image": "minority_6334000"
       }
     ],
-    "hash_code_list_img": "2031003054",
-    "list_definition_mean": [
-      {
-        "mean_english": "thiểu số",
-        "definition": "a small number; less than half",
-        "ex_of_definition_list": [
-          "Only a minority of people live in the countryside",
-          "a racial/political minority."
-        ]
-      }
+    "hash_code_list_img": "1474234822",
+    "list_example": [
+      "Only a minority of people live in the countryside"
     ],
-    "hash_code_list_definition_mean": "1214357300"
+    "hash_code_list_example": "-2112340006"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/minor_cb_dmean_5000_it.json",
@@ -745,39 +520,19 @@
         "id_image": "minor_2332289"
       }
     ],
-    "hash_code_list_img": "1316719061",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhỏ; thứ yếu",
-        "definition": "less, or little, in importance, size etc",
-        "ex_of_definition_list": [
-          "Always halt when driving from a minor road on to a major road",
-          "She has to go into hospital for a minor operation."
-        ]
-      },
-      {
-        "mean_english": "đề tài phụ",
-        "definition": "a secondary subject that a student chooses to study at university or college",
-        "ex_of_definition_list": [
-          "Her major is in physics, but she has a minor in computer science."
-        ]
-      },
-      {
-        "mean_english": "học như một đề tài phụ",
-        "definition": "to study something as a minor subject",
-        "ex_of_definition_list": [
-          "He is minoring in French."
-        ]
-      },
-      {
-        "mean_english": "trẻ vị thành niên",
-        "definition": "a person who is not yet legally an adult",
-        "ex_of_definition_list": [
-          "It is illegal to sell alcohol to minors."
-        ]
-      }
+    "hash_code_list_img": "1789503834",
+    "list_example": [
+      "Always halt when driving from a minor road on to a major road",
+      "She has to go into hospital for a minor operation.",
+      "Her major is in physics, but she has a minor in computer science.",
+      "He was told that he was being let off with this minor punishment because this was his first offence.",
+      "A certain degree of redundancy is inevitable in compilations such as this, due to overlap of technique with augmentations or minor adaptations for special populations.",
+      "Only one of the four options was identical to the target (the other three contained minor differences).",
+      "The area of minor and alternative crops is a neglected one and the book covers a wide range of alternative crops and their characteristics.",
+      "The first reason is the aforementioned cultural tendency to seek treatment frequently and from many sources, traditional and modern, even for minor symptoms.",
+      "In his prime a man is legally responsible for providing his minor children with food, shelter, and clothing."
     ],
-    "hash_code_list_definition_mean": "-651317337"
+    "hash_code_list_example": "1224959977"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mint_cb_dmean_5000_it.json",
@@ -813,32 +568,11 @@
         "id_image": "mint_5389307"
       }
     ],
-    "hash_code_list_img": "-142735475",
-    "list_definition_mean": [
-      {
-        "mean_english": "nơi đúc tiền",
-        "definition": "a place where money is made by the government",
-        "ex_of_definition_list": [
-          "the Royal Mint."
-        ]
-      },
-      {
-        "mean_english": "đúc tiền",
-        "definition": "to manufacture (money)",
-        "ex_of_definition_list": [
-          "When were these coins minted?"
-        ]
-      },
-      {
-        "mean_english": "kẹo bạc hà",
-        "definition": "(also peppermint) (a sweet with) the flavour/flavor of these leaves",
-        "ex_of_definition_list": [
-          "a box of mints",
-          "(also adjective) mint chocolate."
-        ]
-      }
+    "hash_code_list_img": "-1446245534",
+    "list_example": [
+      "(also adjective) mint chocolate."
     ],
-    "hash_code_list_definition_mean": "-1054461929"
+    "hash_code_list_example": "1003041568"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/minus_cb_dmean_5000_it.json",
@@ -873,25 +607,13 @@
         "id_image": "minus_5982743"
       }
     ],
-    "hash_code_list_img": "-739686919",
-    "list_definition_mean": [
-      {
-        "mean_english": "trừ",
-        "definition": "used to show subtraction",
-        "ex_of_definition_list": [
-          "Ten minus two equals eight (10 – 2 = 8)."
-        ]
-      },
-      {
-        "mean_english": "âm",
-        "definition": "negative or less than zero",
-        "ex_of_definition_list": [
-          "a minus number",
-          "Twelve from ten equals minus two (10 – 12 = –2)."
-        ]
-      }
+    "hash_code_list_img": "1009437143",
+    "list_example": [
+      "Ten minus two equals eight (10 – 2 = 8).",
+      "a minus number",
+      "Twelve from ten equals minus two (10 – 12 = –2)."
     ],
-    "hash_code_list_definition_mean": "-266292159"
+    "hash_code_list_example": "-1226148241"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/minute_cb_dmean_5000_it.json",
@@ -915,62 +637,13 @@
         "id_image": "minute_817285"
       }
     ],
-    "hash_code_list_img": "639313914",
-    "list_definition_mean": [
-      {
-        "mean_english": "phút (thời gian)",
-        "definition": "the sixtieth part of an hour; sixty seconds",
-        "ex_of_definition_list": [
-          "It is twenty minutes to eight",
-          "The journey takes thirty minutes",
-          "a ten-minute delay."
-        ]
-      },
-      {
-        "mean_english": "phút (góc độ)",
-        "definition": "in measuring an angle, the sixtieth part of a degree; sixty seconds",
-        "ex_of_definition_list": [
-          "an angle of 47 50′ (= forty-seven degrees, fifty minutes)."
-        ]
-      },
-      {
-        "mean_english": "rất ngắn",
-        "definition": "a very short time",
-        "ex_of_definition_list": [
-          "Wait a minute",
-          "It will be done in a minute."
-        ]
-      },
-      {
-        "mean_english": "thời điểm đó",
-        "definition": "a particular point in time",
-        "ex_of_definition_list": [
-          "At that minute, the telephone rang."
-        ]
-      },
-      {
-        "mean_english": "biên bản",
-        "definition": "the notes taken at a meeting recording what was said",
-        "ex_of_definition_list": [
-          "The chairman asked for this decision to be recorded in the minutes."
-        ]
-      },
-      {
-        "mean_english": "rất nhỏ",
-        "definition": "very small",
-        "ex_of_definition_list": [
-          "The diamonds in the brooch were minute."
-        ]
-      },
-      {
-        "mean_english": "tỉ mỉ",
-        "definition": "paying attention to the smallest details",
-        "ex_of_definition_list": [
-          "He took minute care over the preparation of the meal."
-        ]
-      }
+    "hash_code_list_img": "1973372432",
+    "list_example": [
+      "a ten-minute delay.",
+      "He took minute care over the preparation of the meal.",
+      "They say that there will be a 20 - 40 minute delay for the robot's signals to be transmitted to earth."
     ],
-    "hash_code_list_definition_mean": "-983654729"
+    "hash_code_list_example": "1824568004"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mirror_cb_dmean_5000_it.json",
@@ -999,25 +672,21 @@
         "id_image": "mirror_699316"
       }
     ],
-    "hash_code_list_img": "-1167501486",
-    "list_definition_mean": [
-      {
-        "mean_english": "gương",
-        "definition": "a piece of glass or metal having a surface that reflects an image",
-        "ex_of_definition_list": [
-          "a shaving mirror",
-          "She spends a lot of time looking in the mirror."
-        ]
-      },
-      {
-        "mean_english": "soi gương",
-        "definition": "to reflect as a mirror does",
-        "ex_of_definition_list": [
-          "The smooth surface of the lake mirrored the surrounding mountains."
-        ]
-      }
+    "hash_code_list_img": "1143112146",
+    "list_example": [
+      "a shaving mirror",
+      "She spends a lot of time looking in the mirror.",
+      "The smooth surface of the lake mirrored the surrounding mountains.",
+      "Second, at ultrasonic frequencies, most objects in ordinary environments are acoustically hard and reflect sound in the same way as mirrors reflect light.",
+      "The mechanism could be observed only imperfectly with the aid of mirrors and reflected sunlight ; much improvement came in 1957 with light-conducting fibrescopes.",
+      "The total experience is not alienating or frightening, as it may be in a hall of mirrors.",
+      "Nonetheless, trends found between high- and low-light growth rates in the shadehouse seedlings were mirrored in forest-grown seedlings.",
+      "The value creation is mirrored by the difference between the gross policy return and the minimum required return.",
+      "The saga of the family's rise and fall mirrors its success and failures in implementing the techniques of politica de familia.",
+      "The object-level relationship between content language expressions and the objects they denote is also mirrored at the model level.",
+      "The radiographers from the other departments mirrored these thoughts."
     ],
-    "hash_code_list_definition_mean": "-5534521"
+    "hash_code_list_example": "469912962"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/miscellaneous_cb_dmean_5000_it.json",
@@ -1036,24 +705,17 @@
         "id_image": "miscellaneous_1798666"
       }
     ],
-    "hash_code_list_img": "1739770074",
-    "list_definition_mean": [
-      {
-        "mean_english": "pha tạp",
-        "definition": "composed of several kinds; mixed",
-        "ex_of_definition_list": [
-          "a miscellaneous collection of pictures."
-        ]
-      },
-      {
-        "mean_english": "hàng hóa khác",
-        "definition": "short for miscellaneous items",
-        "ex_of_definition_list": [
-          "The last section of the catalogue is entitled ‘miscellaneous’."
-        ]
-      }
+    "hash_code_list_img": "1026471961",
+    "list_example": [
+      "a miscellaneous collection of pictures.",
+      "Parasitoids and miscellaneous factors acted as densitydependent regulatory agents during the pre-ovipositional and first instar stages respectively.",
+      "The proportion of infertile eggs was negligible but mortality of the egg-crawler stage due to miscellaneous factors was high.",
+      "The annual course of the miscellaneous litterfall was more irregular, although an increase in this fraction was detected at the end of the dry season.",
+      "He jotted down the miscellaneous things he saw; he also wrote about local customs, such as dining, fashion, opium smoking and gambling.",
+      "Other criticisms might be that the chapters are a bit miscellaneous and that the style suffers occasional lapses.",
+      "Since the number of male homemakers is very small, they have been classified under the miscellaneous category, while 'homemaker' remains an independent category for women."
     ],
-    "hash_code_list_definition_mean": "-1884647823"
+    "hash_code_list_example": "1418485805"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/missile_cb_dmean_5000_it.json",
@@ -1082,17 +744,11 @@
         "id_image": "missile_4469603"
       }
     ],
-    "hash_code_list_img": "1988151729",
-    "list_definition_mean": [
-      {
-        "mean_english": "tên lửa",
-        "definition": "a rocket-powered weapon carrying an explosive charge",
-        "ex_of_definition_list": [
-          "a ground-to-air missile."
-        ]
-      }
+    "hash_code_list_img": "834922642",
+    "list_example": [
+      "a ground-to-air missile."
     ],
-    "hash_code_list_definition_mean": "52439532"
+    "hash_code_list_example": "629000808"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mission_cb_dmean_5000_it.json",
@@ -1129,38 +785,12 @@
         "id_image": "mission_780578"
       }
     ],
-    "hash_code_list_img": "-94642922",
-    "list_definition_mean": [
-      {
-        "mean_english": "sứ mệnh",
-        "definition": "a purpose for which a person or group of people is sent",
-        "ex_of_definition_list": [
-          "His mission was to seek help."
-        ]
-      },
-      {
-        "mean_english": "mục đích",
-        "definition": "the purpose for which (one feels) one was born",
-        "ex_of_definition_list": [
-          "He regards it as his mission to help the cause of world peace."
-        ]
-      },
-      {
-        "mean_english": "phái đoàn",
-        "definition": "a group of people sent to have political and/or business discussions",
-        "ex_of_definition_list": [
-          "a Chinese trade mission."
-        ]
-      },
-      {
-        "mean_english": "hội truyền giáo",
-        "definition": "a group of missionaries",
-        "ex_of_definition_list": [
-          "a Catholic mission."
-        ]
-      }
+    "hash_code_list_img": "2143162577",
+    "list_example": [
+      "His mission was to seek help.",
+      "He regards it as his mission to help the cause of world peace."
     ],
-    "hash_code_list_definition_mean": "477709083"
+    "hash_code_list_example": "1332037533"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mist_cb_dmean_5000_it.json",
@@ -1183,17 +813,19 @@
         "id_image": "mist_5756826"
       }
     ],
-    "hash_code_list_img": "-1813574295",
-    "list_definition_mean": [
-      {
-        "mean_english": "sương mù",
-        "definition": "a cloud of moisture in the air but very close to the ground, which makes it difficult to see any distance",
-        "ex_of_definition_list": [
-          "The hills are covered in thick mist."
-        ]
-      }
+    "hash_code_list_img": "454851417",
+    "list_example": [
+      "The hills are covered in thick mist.",
+      "With that, any exact meaning in diplomatic recognition fades into the mists.",
+      "Powerful forces rise with the mists from our wooded hills and lakes.",
+      "The answer is shrouded in the mists of secrecy.",
+      "We have had, perhaps for the moment, enough of the stormy seas and the mists on the mountains.",
+      "I hope it is a happy augury that the sun has come through the mists.",
+      "I find it very difficult to look through the mists of all that and understand what will happen in the event.",
+      "In nor thern mists. 2 vols.",
+      "What about the obliteration of so many villages, some with history stretching back into the mists of the past?"
     ],
-    "hash_code_list_definition_mean": "430231049"
+    "hash_code_list_example": "1540772210"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mite_cb_dmean_5000_it.json",
@@ -1212,24 +844,11 @@
         "id_image": "mite_1357517"
       }
     ],
-    "hash_code_list_img": "1575043649",
-    "list_definition_mean": [
-      {
-        "mean_english": "em bé",
-        "definition": "a tiny person or child",
-        "ex_of_definition_list": [
-          "The poor little mite is crying."
-        ]
-      },
-      {
-        "mean_english": "ve",
-        "definition": "a type of very small insect",
-        "ex_of_definition_list": [
-          "House dust mites cause allergies."
-        ]
-      }
+    "hash_code_list_img": "1924981544",
+    "list_example": [
+      "The poor little mite is crying."
     ],
-    "hash_code_list_definition_mean": "-478101963"
+    "hash_code_list_example": "-451881257"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mitten_cb_dmean_5000_it.json",
@@ -1253,17 +872,13 @@
         "id_image": "mitten_823206"
       }
     ],
-    "hash_code_list_img": "1167737710",
-    "list_definition_mean": [
-      {
-        "mean_english": "găng đấu quyền anh",
-        "definition": "a kind of glove with two sections, one for the thumb and the other for the fingers",
-        "ex_of_definition_list": [
-          "a pair of mittens."
-        ]
-      }
+    "hash_code_list_img": "997275057",
+    "list_example": [
+      "Infants at the age of 6 months are recommended to have a prosthetic mitten fitted; enabling them to get used to the prosthesis.",
+      "And the power of her imagination turns her mitten into a knitted puppy, which keeps the mitten red color and black spots on the back.",
+      "In some, the tarpaulin is connected to the hammock's suspension line using a system of mitten hooks and plastic connectors."
     ],
-    "hash_code_list_definition_mean": "1874140726"
+    "hash_code_list_example": "1192679006"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mixer_cb_dmean_5000_it.json",
@@ -1291,17 +906,13 @@
         "id_image": "mixer_294629"
       }
     ],
-    "hash_code_list_img": "-435215302",
-    "list_definition_mean": [
-      {
-        "mean_english": "người trộn; máy trộn",
-        "definition": "a person or thing that mixes; a thing which is used for mixing",
-        "ex_of_definition_list": [
-          "an electric food-mixer."
-        ]
-      }
+    "hash_code_list_img": "-84405280",
+    "list_example": [
+      "Diffusion, as the performance mode for these sounds, refers to the distribution of the (usually stereo) sound in a space through the use of a mixer and multiple loudspeakers.",
+      "Finally, in extremely large halls, speakers placed immediately by the mixer can help overcome the sensation that the sound is predominantly at the periphery of the listening space.",
+      "Two or three technicians are also required in order to operate the tape, mixer and effects."
     ],
-    "hash_code_list_definition_mean": "632847930"
+    "hash_code_list_example": "1906235838"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mix_cb_dmean_5000_it.json",
@@ -1334,53 +945,12 @@
         "id_image": "mix_5376878"
       }
     ],
-    "hash_code_list_img": "1693224129",
-    "list_definition_mean": [
-      {
-        "mean_english": "pha lẫn",
-        "definition": "to put or blend together to form one mass",
-        "ex_of_definition_list": [
-          "She mixed the butter and sugar together",
-          "He mixed the blue with the yellow to make green paint."
-        ]
-      },
-      {
-        "mean_english": "trộn",
-        "definition": "to prepare or make by doing this",
-        "ex_of_definition_list": [
-          "She mixed the cement in a bucket."
-        ]
-      },
-      {
-        "mean_english": "hoà nhập",
-        "definition": "to go together or blend successfully to form one mass",
-        "ex_of_definition_list": [
-          "Oil and water don’t mix."
-        ]
-      },
-      {
-        "mean_english": "hòa hợp",
-        "definition": "to go together socially",
-        "ex_of_definition_list": [
-          "People of different races were mixing together happily."
-        ]
-      },
-      {
-        "mean_english": "sự hòa hợp",
-        "definition": "the result of mixing things or people together",
-        "ex_of_definition_list": [
-          "London has an interesting racial mix."
-        ]
-      },
-      {
-        "mean_english": "hỗn hợp",
-        "definition": "a collection of ingredients used to make something",
-        "ex_of_definition_list": [
-          "(a) cake mix."
-        ]
-      }
+    "hash_code_list_img": "1204044075",
+    "list_example": [
+      "We think that misunderstandings have arisen about our putative 'mix and match' or 'hybrid' approach.",
+      "However, we also construct maps which mix at various other slow speeds, with a more precise meaning of slow as given below."
     ],
-    "hash_code_list_definition_mean": "-1610139438"
+    "hash_code_list_example": "1143419683"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mobile_cb_dmean_5000_it.json",
@@ -1405,26 +975,13 @@
         "id_image": "mobile_1447580"
       }
     ],
-    "hash_code_list_img": "606148874",
-    "list_definition_mean": [
-      {
-        "mean_english": "di động",
-        "definition": "able to move",
-        "ex_of_definition_list": [
-          "A van supplying country districts with library books is called a mobile library",
-          "The old lady is no longer mobile – she has to stay in bed all day."
-        ]
-      },
-      {
-        "mean_english": "dễ di chuyển",
-        "definition": "able to move or be moved quickly or easily",
-        "ex_of_definition_list": [
-          "Considering his age, he’s very mobile on his feet",
-          "Most of the furniture is very light and mobile."
-        ]
-      }
+    "hash_code_list_img": "732341250",
+    "list_example": [
+      "A van supplying country districts with library books is called a mobile library",
+      "The old lady is no longer mobile – she has to stay in bed all day.",
+      "Considering his age, he’s very mobile on his feet"
     ],
-    "hash_code_list_definition_mean": "1835141046"
+    "hash_code_list_example": "-1926672811"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mob_cb_dmean_5000_it.json",
@@ -1443,24 +1000,12 @@
         "id_image": "mob_3292647"
       }
     ],
-    "hash_code_list_img": "2363008",
-    "list_definition_mean": [
-      {
-        "mean_english": "đám đông hỗn tạp",
-        "definition": "a noisy, violent or disorderly crowd of people",
-        "ex_of_definition_list": [
-          "He was attacked by an angry mob."
-        ]
-      },
-      {
-        "mean_english": "tấn công",
-        "definition": "(of a crowd) to surround and push about in a disorderly way",
-        "ex_of_definition_list": [
-          "The singer was mobbed by a huge crowd of his fans."
-        ]
-      }
+    "hash_code_list_img": "863395137",
+    "list_example": [
+      "He was attacked by an angry mob.",
+      "The singer was mobbed by a huge crowd of his fans."
     ],
-    "hash_code_list_definition_mean": "-504277462"
+    "hash_code_list_example": "39140949"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/moccasin_cb_dmean_5000_it.json",
@@ -1478,17 +1023,12 @@
         "id_image": "moccasin_2130502"
       }
     ],
-    "hash_code_list_img": "539481486",
-    "list_definition_mean": [
-      {
-        "mean_english": "giầy da đanh",
-        "definition": "a type of shoe, made of soft leather, worn by American Indians; an imitation of it",
-        "ex_of_definition_list": [
-          "a pair of moccasins."
-        ]
-      }
+    "hash_code_list_img": "1869081860",
+    "list_example": [
+      "On the industrial side a small start has been made with, surprisingly enough, a cottage industry producing leather moccasin shoes.",
+      "Loafers are slip-on shoes with a moccasin toe construction and slotted straps stitched across vamps."
     ],
-    "hash_code_list_definition_mean": "1995416278"
+    "hash_code_list_example": "1071365588"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/model_cb_dmean_5000_it.json",
@@ -1524,82 +1064,15 @@
         "id_image": "model_6036762"
       }
     ],
-    "hash_code_list_img": "717721682",
-    "list_definition_mean": [
-      {
-        "mean_english": "mô hình",
-        "definition": "a copy or representation of something usually on a much smaller scale",
-        "ex_of_definition_list": [
-          "a model of the Taj Mahal",
-          "(also adjective) a model aeroplane."
-        ]
-      },
-      {
-        "mean_english": "kiểu",
-        "definition": "a particular type or design of something, eg a car, that is manufactured in large numbers",
-        "ex_of_definition_list": [
-          "Our car is this year’s model."
-        ]
-      },
-      {
-        "mean_english": "người mẫu",
-        "definition": "a person who wears clothes etc so that possible buyers can see them being worn",
-        "ex_of_definition_list": [
-          "He has a job as a male fashion model."
-        ]
-      },
-      {
-        "mean_english": "người làm mẫu",
-        "definition": "a person who is painted, sculpted, photographed etc by an artist, photographer etc",
-        "ex_of_definition_list": [
-          "I work as an artist’s model."
-        ]
-      },
-      {
-        "mean_english": "vật mẫu",
-        "definition": "something that can be used to copy from",
-        "ex_of_definition_list": [
-          "Use the sentences in the coursebook as models for your own writing."
-        ]
-      },
-      {
-        "mean_english": "mẫu",
-        "definition": "a person or thing which is an excellent example",
-        "ex_of_definition_list": [
-          "She is a model of politeness",
-          "(also adjective) model behaviour."
-        ]
-      },
-      {
-        "mean_english": "làm mẫu",
-        "definition": "to wear (clothes etc) to show them to possible buyers",
-        "ex_of_definition_list": [
-          "They model (underwear) for a living."
-        ]
-      },
-      {
-        "mean_english": "làm mẫu",
-        "definition": "to work or pose as a model for an artist, photographer etc",
-        "ex_of_definition_list": [
-          "She models at the local art school."
-        ]
-      },
-      {
-        "mean_english": "đắp khuôn",
-        "definition": "to make models (of things or people)",
-        "ex_of_definition_list": [
-          "He models (the heads of famous people) in clay."
-        ]
-      },
-      {
-        "mean_english": "nặn kiểu",
-        "definition": "to form (something) into a (particular) shape",
-        "ex_of_definition_list": [
-          "She modelled the clay into the shape of a penguin"
-        ]
-      }
+    "hash_code_list_img": "-999819007",
+    "list_example": [
+      "a model of the Taj Mahal",
+      "(also adjective) a model aeroplane.",
+      "She is a model of politeness",
+      "(also adjective) model behaviour.",
+      "They model (underwear) for a living."
     ],
-    "hash_code_list_definition_mean": "-1587537735"
+    "hash_code_list_example": "1822375445"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/modern_cb_dmean_5000_it.json",
@@ -1637,17 +1110,18 @@
         "id_image": "modern_6377221"
       }
     ],
-    "hash_code_list_img": "316475116",
-    "list_definition_mean": [
-      {
-        "mean_english": "hiện đại",
-        "definition": "belonging to the present or to recent times; not old or ancient",
-        "ex_of_definition_list": [
-          "modern furniture/clothes."
-        ]
-      }
+    "hash_code_list_img": "1684406934",
+    "list_example": [
+      "modern furniture/clothes.",
+      "Some advocates of reform stressed the desirability of adding new subjects to the curriculum, including modern sciences.",
+      "But once human development reaches a higher level, people tend to discard modern values.",
+      "One of the major problems facing modern biologists is to find a plausible (or least unlikely) hypothesis that explains the origin of life.",
+      "To the modern scientific mind, these two prescriptive statements are of different types.",
+      "The main appeal of the correspondence to the modern reader is that it tells the story so well.",
+      "The growth of scientific knowledge raises new visions of a modern elixir of life, and the culture of science may give them misplaced concreteness.",
+      "All good protagonists require a formidable foe, and the foe of modern portfolio theory is behavioral finance."
     ],
-    "hash_code_list_definition_mean": "146644263"
+    "hash_code_list_example": "466440257"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mode_cb_dmean_5000_it.json",
@@ -1672,31 +1146,11 @@
         "id_image": "mode_3653321"
       }
     ],
-    "hash_code_list_img": "-629748932",
-    "list_definition_mean": [
-      {
-        "mean_english": "cách thức",
-        "definition": "a manner of doing something",
-        "ex_of_definition_list": [
-          "an unusual mode of expression."
-        ]
-      },
-      {
-        "mean_english": "kiểu",
-        "definition": "a kind or type",
-        "ex_of_definition_list": [
-          "modes of transport."
-        ]
-      },
-      {
-        "mean_english": "mốt",
-        "definition": "a fashion",
-        "ex_of_definition_list": [
-          "Large hats are the latest mode."
-        ]
-      }
+    "hash_code_list_img": "919343240",
+    "list_example": [
+      "an unusual mode of expression."
     ],
-    "hash_code_list_definition_mean": "228931142"
+    "hash_code_list_example": "1599841535"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/modify_cb_dmean_5000_it.json",
@@ -1714,17 +1168,11 @@
         "id_image": "modify_2196224"
       }
     ],
-    "hash_code_list_img": "892424379",
-    "list_definition_mean": [
-      {
-        "mean_english": "sửa đổi",
-        "definition": "to change the form or quality of, usually slightly",
-        "ex_of_definition_list": [
-          "We had to modify the original design."
-        ]
-      }
+    "hash_code_list_img": "94166612",
+    "list_example": [
+      "We had to modify the original design."
     ],
-    "hash_code_list_definition_mean": "242596614"
+    "hash_code_list_example": "566728951"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/module_cb_dmean_5000_it.json",
@@ -1757,17 +1205,19 @@
         "id_image": "module_5488350"
       }
     ],
-    "hash_code_list_img": "1224078272",
-    "list_definition_mean": [
-      {
-        "mean_english": "bộ phận tháo rời",
-        "definition": "a self-contained unit forming eg part of a building, spacecraft etc",
-        "ex_of_definition_list": [
-          "a lunar module."
-        ]
-      }
+    "hash_code_list_img": "-1777586279",
+    "list_example": [
+      "a lunar module.",
+      "A postgraduate diploma option can be obtained after completion of the core and optional modules or a master's degree after an additional research project dissertation.",
+      "A heuristic method for identifying modules for product architectures.",
+      "Two further modules have to be chosen from the following optional modules: advanced statistical methods, clinical trials, qualitative research methods, and advanced health economics.",
+      "Structures produced by learning are compared against those found by a standard gradient descent optimization, both as individual modules and then as a composite structure.",
+      "Therefore, these neurons appear to form multiple elongated neuronal modules that are closely packed along the mediolateral plane.",
+      "The advocates of this approach claim that it allows modules to be reused and makes it easier to compile modules separately.",
+      "The robot starts searching for the book on the shelves and modules of the predicted bookcase.",
+      "The cost of crossing all of the abstraction barriers has been eliminated by inlining across modules."
     ],
-    "hash_code_list_definition_mean": "588682131"
+    "hash_code_list_example": "-2093386867"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/moisture_cb_dmean_5000_it.json",
@@ -1790,17 +1240,17 @@
         "id_image": "moisture_5830611"
       }
     ],
-    "hash_code_list_img": "-1713848297",
-    "list_definition_mean": [
-      {
-        "mean_english": "độ ẩm",
-        "definition": "(the quality of) dampness",
-        "ex_of_definition_list": [
-          "This soil needs moisture."
-        ]
-      }
+    "hash_code_list_img": "-519665105",
+    "list_example": [
+      "They further suggest a modified relationship for the log of the mean viability period as a function of storage temperature and moisture content.",
+      "Seed stored in poor storage materials will absorb moisture from the storage environment and will reach equilibrium with the ambient environment.",
+      "The actual moisture content of samples of waste was measured using standard laborator y conditions.",
+      "These differences may render canopy moisture storage of the humid evergreen broad-leaved forest lower than that of montane rain forests.",
+      "A 'moisture audit' will help seed bank operators make informed decisions about packaging.",
+      "The dry nitrogen evaporating from the dewar is also used to flush the case, thus avoiding moisture condensation effects on the optics.",
+      "However, the temperature and moisture requirements for loss of viability during solarization are less clear."
     ],
-    "hash_code_list_definition_mean": "1398214686"
+    "hash_code_list_example": "1873874327"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/moisturize_cb_dmean_5000_it.json",
@@ -1828,17 +1278,11 @@
         "id_image": "moisturizing_3791155"
       }
     ],
-    "hash_code_list_img": "-364648344",
-    "list_definition_mean": [
-      {
-        "mean_english": "làm cho ẩm",
-        "definition": "to keep the moisture in (skin)",
-        "ex_of_definition_list": [
-          "This cream is used to moisturize the skin."
-        ]
-      }
+    "hash_code_list_img": "1696748313",
+    "list_example": [
+      "This cream is used to moisturize the skin."
     ],
-    "hash_code_list_definition_mean": "748971226"
+    "hash_code_list_example": "2071962344"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/monarchy_cb_dmean_5000_it.json",
@@ -1861,17 +1305,11 @@
         "id_image": "monarchy_353357"
       }
     ],
-    "hash_code_list_img": "-1348865910",
-    "list_definition_mean": [
-      {
-        "mean_english": "chế độ quân chủ",
-        "definition": "(a country etc that has) government by a monarch",
-        "ex_of_definition_list": [
-          "a constitutional monarchy."
-        ]
-      }
+    "hash_code_list_img": "1192810044",
+    "list_example": [
+      "a constitutional monarchy."
     ],
-    "hash_code_list_definition_mean": "1228179964"
+    "hash_code_list_example": "-489402757"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/monetary_cb_dmean_5000_it.json",
@@ -1894,17 +1332,18 @@
         "id_image": "monetary_4496615"
       }
     ],
-    "hash_code_list_img": "-1662916492",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc tiền tệ",
-        "definition": "of, or consisting of, money",
-        "ex_of_definition_list": [
-          "monetary problems."
-        ]
-      }
+    "hash_code_list_img": "-1249748519",
+    "list_example": [
+      "monetary problems.",
+      "Village had a strong significant effect on the number of monetary support sources.",
+      "The monetary authority creates new currency by injecting reserves into the banking system.",
+      "Because of propagation, households expect a high level of output in the periods following the monetary expansion.",
+      "Would any of these alternatives constitute a better means of conducting monetary policy?",
+      "We find that the author became fascinated with the determination of monetary values of the benefits of preserving the region's ecosystems.",
+      "The threats of war in the late 1930s were more potent in this respect than the collapse of the international monetary system in 1931.",
+      "The monetary fluctuations would have fed through to the long rate only if they led to expectations of inflation or disinflation."
     ],
-    "hash_code_list_definition_mean": "1680568821"
+    "hash_code_list_example": "256215980"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/money_cb_dmean_5000_it.json",
@@ -1932,18 +1371,12 @@
         "id_image": "money_171689"
       }
     ],
-    "hash_code_list_img": "-1491229238",
-    "list_definition_mean": [
-      {
-        "mean_english": "tiền",
-        "definition": "coins or banknotes used in trading",
-        "ex_of_definition_list": [
-          "Have you any money in your purse?",
-          "The desire for money is a cause of much unhappiness."
-        ]
-      }
+    "hash_code_list_img": "2035300156",
+    "list_example": [
+      "Have you any money in your purse?",
+      "The desire for money is a cause of much unhappiness."
     ],
-    "hash_code_list_definition_mean": "437839529"
+    "hash_code_list_example": "807709434"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/monitor_cb_dmean_5000_it.json",
@@ -1973,25 +1406,11 @@
         "id_image": "monitor_294630"
       }
     ],
-    "hash_code_list_img": "-1098081752",
-    "list_definition_mean": [
-      {
-        "mean_english": "bộ kiểm tra",
-        "definition": "any of several kinds of instrument etc by means of which something can be constantly checked, especially a small screen in a television studio showing the picture which is being transmitted at any given time",
-        "ex_of_definition_list": [
-          "a television monitor",
-          "a computer monitor."
-        ]
-      },
-      {
-        "mean_english": "giám sát",
-        "definition": "to act as, or to use, a monitor; to keep a careful check on",
-        "ex_of_definition_list": [
-          "These machines/technicians monitor the results constantly."
-        ]
-      }
+    "hash_code_list_img": "-1349676624",
+    "list_example": [
+      "These machines/technicians monitor the results constantly."
     ],
-    "hash_code_list_definition_mean": "-509724011"
+    "hash_code_list_example": "-815748442"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/monkey_cb_dmean_5000_it.json",
@@ -2021,24 +1440,12 @@
         "id_image": "monkey_375109"
       }
     ],
-    "hash_code_list_img": "-140902019",
-    "list_definition_mean": [
-      {
-        "mean_english": "thằng nhãi ranh",
-        "definition": "a mischievous child",
-        "ex_of_definition_list": [
-          "Their son is a little monkey."
-        ]
-      },
-      {
-        "mean_english": "làm trò khỉ",
-        "definition": "(especially with with) to meddle or interfere",
-        "ex_of_definition_list": [
-          "Who’s been monkeying (about) with the television set?"
-        ]
-      }
+    "hash_code_list_img": "1208117383",
+    "list_example": [
+      "Their son is a little monkey.",
+      "Who’s been monkeying (about) with the television set?"
     ],
-    "hash_code_list_definition_mean": "-1658285422"
+    "hash_code_list_example": "-213973142"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/monopoly_cb_dmean_5000_it.json",
@@ -2071,17 +1478,18 @@
         "id_image": "monopoly_3274250"
       }
     ],
-    "hash_code_list_img": "2040039586",
-    "list_definition_mean": [
-      {
-        "mean_english": "độc quyền",
-        "definition": "the sole right of making or selling something etc",
-        "ex_of_definition_list": [
-          "a state monopoly on oil production."
-        ]
-      }
+    "hash_code_list_img": "-242071193",
+    "list_example": [
+      "a state monopoly on oil production.",
+      "In the longer run the crown would find a radical solution of a kind, levying much higher taxes and establishing a monopoly of violence.",
+      "You may thus in essence end up with a monopoly or near monopoly situation.",
+      "For example, it stated that no family should be allowed to have the monopoly over media and industry.",
+      "In spite of archaeology's pretended monopoly on the past, there are even in today's society a variety of ways to interpret prehistoric monuments and landscapes.",
+      "The incumbent operator enjoyed monopoly rents and did not want to give up this special status.",
+      "For example, the government maintains a monopoly over the wheat trade and has systematically kept domestic wheat prices below those in international markets.",
+      "The state made itself a monopoly supplier of essential goods, such as grain, which were then sold on at controlled prices."
     ],
-    "hash_code_list_definition_mean": "869190021"
+    "hash_code_list_example": "-690960796"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/monster_cb_dmean_5000_it.json",
@@ -2106,31 +1514,12 @@
         "id_image": "monster_773372"
       }
     ],
-    "hash_code_list_img": "1184555215",
-    "list_definition_mean": [
-      {
-        "mean_english": "quái vật",
-        "definition": "(also adjective) (something) of unusual size, form or appearance",
-        "ex_of_definition_list": [
-          "a monster tomato."
-        ]
-      },
-      {
-        "mean_english": "con vật khổng lồ",
-        "definition": "a huge and/or horrible creature",
-        "ex_of_definition_list": [
-          "prehistoric monsters."
-        ]
-      },
-      {
-        "mean_english": "người quái ác",
-        "definition": "a very evil person",
-        "ex_of_definition_list": [
-          "The man must be a monster to treat his children so badly!"
-        ]
-      }
+    "hash_code_list_img": "-599760035",
+    "list_example": [
+      "a monster tomato.",
+      "The man must be a monster to treat his children so badly!"
     ],
-    "hash_code_list_definition_mean": "-1304666843"
+    "hash_code_list_example": "-2073000051"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/monthly_cb_dmean_5000_it.json",
@@ -2159,24 +1548,17 @@
         "id_image": "monthly_5571536"
       }
     ],
-    "hash_code_list_img": "1985297022",
-    "list_definition_mean": [
-      {
-        "mean_english": "hàng tháng",
-        "definition": "happening, being published etc once a month",
-        "ex_of_definition_list": [
-          "a monthly magazine."
-        ]
-      },
-      {
-        "mean_english": "một lần một tháng",
-        "definition": "once a month",
-        "ex_of_definition_list": [
-          "The magazine is published monthly."
-        ]
-      }
+    "hash_code_list_img": "1649589556",
+    "list_example": [
+      "a monthly magazine.",
+      "In the 1996 reform, employee contributions were set to 18 % of their monthly earnings, while employers' contributions were set at 17.5 % of their total payroll.",
+      "The monthly precipitation was 45-60 mm during the remaining months and was more evenly distributed.",
+      "The survival probabilities are computed for each female and male elderly separately on a monthly basis.",
+      "In our analysis, the monthly counts of raccoons testing positive were associated with the risk of a cat testing positive.",
+      "The top service costs an initial £999, with monthly fees of £40 to £750 depending on the number of products.",
+      "The organization committee presented monthly reports to the executive."
     ],
-    "hash_code_list_definition_mean": "1194605736"
+    "hash_code_list_example": "73692649"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/monumental_cb_dmean_5000_it.json",
@@ -2199,17 +1581,18 @@
         "id_image": "monumental_422038"
       }
     ],
-    "hash_code_list_img": "43726575",
-    "list_definition_mean": [
-      {
-        "mean_english": "đồ sộ",
-        "definition": "of great size or scale",
-        "ex_of_definition_list": [
-          "a monumental achievement."
-        ]
-      }
+    "hash_code_list_img": "1749478851",
+    "list_example": [
+      "a monumental achievement.",
+      "Yet these monumental pointers to the past required a narrative framework in order to be understood.",
+      "The hegemonic power of the official monumental past remained unquestioned.",
+      "It is important not to compound what we might cheekily call the monumental indifference of the elite.",
+      "In such a monumental undertaking it is inevitable that errors and inaccuracies occur.",
+      "We have also undertaken very intensive excavation in many of the monumental buildings and complexes that make up the site's epicenter.",
+      "The data collection for this book was monumental and the authors handle the analysis adroitly.",
+      "However, this monumental construction process needs to be more specifically determined."
     ],
-    "hash_code_list_definition_mean": "565433205"
+    "hash_code_list_example": "2054345366"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/monument_cb_dmean_5000_it.json",
@@ -2237,17 +1620,11 @@
         "id_image": "monument_5392244"
       }
     ],
-    "hash_code_list_img": "-1455608036",
-    "list_definition_mean": [
-      {
-        "mean_english": "tượng đài",
-        "definition": "something built in memory of a person or event, eg a building, tomb etc",
-        "ex_of_definition_list": [
-          "They erected a monument in his honour."
-        ]
-      }
+    "hash_code_list_img": "1348572847",
+    "list_example": [
+      "They erected a monument in his honour."
     ],
-    "hash_code_list_definition_mean": "485301555"
+    "hash_code_list_example": "-807615191"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mood_cb_dmean_5000_it.json",
@@ -2275,17 +1652,11 @@
         "id_image": "mood_6134059"
       }
     ],
-    "hash_code_list_img": "-1288580034",
-    "list_definition_mean": [
-      {
-        "mean_english": "tâm trạng",
-        "definition": "the state of a person’s feelings, temper, mind etc at a particular time",
-        "ex_of_definition_list": [
-          "What kind of mood is she in?",
-          "I’m in a bad mood today."
-        ]
-      }
+    "hash_code_list_img": "1651394188",
+    "list_example": [
+      "What kind of mood is she in?",
+      "I’m in a bad mood today."
     ],
-    "hash_code_list_definition_mean": "156850424"
+    "hash_code_list_example": "-917438687"
   }
 ]

@@ -32,38 +32,12 @@
         "id_image": "antique_3689574"
       }
     ],
-    "hash_code_list_img": "1552671806",
-    "list_definition_mean": [
-      {
-        "mean_english": "cổ xưa",
-        "definition": "old and usually valuable",
-        "ex_of_definition_list": [
-          "an antique chair."
-        ]
-      },
-      {
-        "mean_english": "cổ",
-        "definition": "old or old-fashioned",
-        "ex_of_definition_list": [
-          "That car is positively antique."
-        ]
-      },
-      {
-        "mean_english": "đồ cổ",
-        "definition": "(of a shop etc) dealing in antiques",
-        "ex_of_definition_list": [
-          "an antique business."
-        ]
-      },
-      {
-        "mean_english": "đồ cổ",
-        "definition": "something made long ago (usually more than a hundred years ago) which is valuable or interesting",
-        "ex_of_definition_list": [
-          "He collects antiques."
-        ]
-      }
+    "hash_code_list_img": "186313782",
+    "list_example": [
+      "an antique chair.",
+      "an antique business."
     ],
-    "hash_code_list_definition_mean": "399322203"
+    "hash_code_list_example": "192077406"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/antiseptic_cb_dmean_5000_it.json",
@@ -96,18 +70,12 @@
         "id_image": "antiseptic_843885"
       }
     ],
-    "hash_code_list_img": "-405762501",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuốc khử trùng",
-        "definition": "(of) a substance that destroys bacteria (eg in a wound)",
-        "ex_of_definition_list": [
-          "You ought to put some antiseptic on that cut",
-          "an antiseptic cream."
-        ]
-      }
+    "hash_code_list_img": "-103121199",
+    "list_example": [
+      "You ought to put some antiseptic on that cut",
+      "an antiseptic cream."
     ],
-    "hash_code_list_definition_mean": "162716789"
+    "hash_code_list_example": "-2030426942"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/ant_cb_dmean_5000_it.json",
@@ -140,17 +108,13 @@
         "id_image": "ant_809038"
       }
     ],
-    "hash_code_list_img": "-612783126",
-    "list_definition_mean": [
-      {
-        "mean_english": "con kiến",
-        "definition": "a type of small insect, related to bees, wasps etc, thought of as hard-working",
-        "ex_of_definition_list": [
-          "a nest of ants."
-        ]
-      }
+    "hash_code_list_img": "-1817886018",
+    "list_example": [
+      "Do leaf-cutting ant nests make 'bottom-up' gaps in neotropical rain forests?",
+      "However, tiny ant species that fed on the rice on the spot had to be sampled at the baits.",
+      "Extensive studies in the surrounding forest by the authors confirmed that epiphytes occur only occasionally on ant and termite substrate other than ant gardens."
     ],
-    "hash_code_list_definition_mean": "1428223636"
+    "hash_code_list_example": "1184167140"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/anvil_cb_dmean_5000_it.json",
@@ -173,17 +137,12 @@
         "id_image": "anvil_664119"
       }
     ],
-    "hash_code_list_img": "-549111407",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái đe",
-        "definition": "a block, usually of iron, on which metal objects (eg horse-shoes) are hammered into shape",
-        "ex_of_definition_list": [
-          "a blacksmith’s anvil."
-        ]
-      }
+    "hash_code_list_img": "1973412267",
+    "list_example": [
+      "They are trained on the anvil of experience.",
+      "Hammered on the anvil of this war, our nation has been shaped to a new unity of pride and purpose."
     ],
-    "hash_code_list_definition_mean": "793588446"
+    "hash_code_list_example": "1696963396"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/anxiety_cb_dmean_5000_it.json",
@@ -211,18 +170,18 @@
         "id_image": "anxiety_2689659"
       }
     ],
-    "hash_code_list_img": "763562073",
-    "list_definition_mean": [
-      {
-        "mean_english": "nỗi lo",
-        "definition": "being very worried about something",
-        "ex_of_definition_list": [
-          "His health is a great anxiety to me",
-          "She was filled with anxiety about her exams."
-        ]
-      }
+    "hash_code_list_img": "2134836979",
+    "list_example": [
+      "His health is a great anxiety to me",
+      "She was filled with anxiety about her exams.",
+      "There is considerable anxiety about education as they hold it responsible for women going astray even in the context of their own women.",
+      "The role of a doctor is to help the patient at all times and remove the anxiety surrounding the condition.",
+      "Among patients with social anxiety disorder, all correlations with measures of social anxiety were significantly stronger than correlations with measures of depression.",
+      "However, both constructs had an interesting characteristic in common: students with higher levels of anxiety tended to have low self-concepts as language learners.",
+      "Achieving remission with venlafaxine and fluoxetine in major depression : its relationship to anxiety symptoms.",
+      "It is unlikely that they will provoke the feelings of unsettledness and anxiety that were expressed by our participants."
     ],
-    "hash_code_list_definition_mean": "737335050"
+    "hash_code_list_example": "-90298810"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/anxious_cb_dmean_5000_it.json",
@@ -252,31 +211,17 @@
         "id_image": "anxious_708698"
       }
     ],
-    "hash_code_list_img": "-549177714",
-    "list_definition_mean": [
-      {
-        "mean_english": "lo lắng",
-        "definition": "worried about what may happen or have happened",
-        "ex_of_definition_list": [
-          "She is anxious about her father’s health."
-        ]
-      },
-      {
-        "mean_english": "gây ra nỗi lo âu",
-        "definition": "causing worry, fear or uncertainty",
-        "ex_of_definition_list": [
-          "There were a few anxious moments, but the plane landed safely."
-        ]
-      },
-      {
-        "mean_english": "rất mong muốn cái gì",
-        "definition": "wanting very much (to do etc something)",
-        "ex_of_definition_list": [
-          "He’s very anxious to please."
-        ]
-      }
+    "hash_code_list_img": "-411033379",
+    "list_example": [
+      "She is anxious about her father’s health.",
+      "There were a few anxious moments, but the plane landed safely.",
+      "He’s very anxious to please.",
+      "In their disturbing psychological complexities, glazed over but never concealed by rich aesthetic surfaces, they are anxious portraits of the tormented and divided modern subject.",
+      "Local authority contracts officers and purchasers, anxious not to (be seen to) waste money, therefore generally disliked such contracts.",
+      "Our study found that anxious depression had distinct clinical correlates after adjustment for severity of depression.",
+      "His father, anxious to see his son properly married, seconded the offer."
     ],
-    "hash_code_list_definition_mean": "-388980124"
+    "hash_code_list_example": "-1156973620"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/apartment_cb_dmean_5000_it.json",
@@ -310,24 +255,12 @@
         "id_image": "apartment_509808"
       }
     ],
-    "hash_code_list_img": "1228305977",
-    "list_definition_mean": [
-      {
-        "mean_english": "căn hộ",
-        "definition": "a set of rooms for living in, usually on one floor of a large building; flat British",
-        "ex_of_definition_list": [
-          "a luxury apartment."
-        ]
-      },
-      {
-        "mean_english": "phủ tổng thống",
-        "definition": "a set of rooms used by an important person such as a president or a member of a royal family",
-        "ex_of_definition_list": [
-          "the Tsar’s private apartments."
-        ]
-      }
+    "hash_code_list_img": "-631615037",
+    "list_example": [
+      "In utterances 1 and 3, the user homes in on the kind of apartment he wants to consider (the specification phase).",
+      "They will not be compensated, should they be evicted from their apartment building."
     ],
-    "hash_code_list_definition_mean": "-1890507106"
+    "hash_code_list_example": "-2028429748"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/apathy_cb_dmean_5000_it.json",
@@ -345,17 +278,15 @@
         "id_image": "apathy_4524960"
       }
     ],
-    "hash_code_list_img": "63583847",
-    "list_definition_mean": [
-      {
-        "mean_english": "tính thờ ơ",
-        "definition": "a lack of interest or enthusiasm",
-        "ex_of_definition_list": [
-          "his apathy towards his work."
-        ]
-      }
+    "hash_code_list_img": "990722690",
+    "list_example": [
+      "his apathy towards his work.",
+      "They were also reproached for an ' apathy ' which they shared with the parents.",
+      "It also finds that parochial political culture and political apathy still exist, and the emergent democratic consciousness falls short of an ideal democratic standard.",
+      "A greater affliction is ' the apathy that derives from the lack of commitment to the civic public realm ' (p. 96).",
+      "Whether it would in fact lead people to such passivity and apathy is another question, more psychological than purely rational or logical."
     ],
-    "hash_code_list_definition_mean": "345679825"
+    "hash_code_list_example": "-382737075"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/aperture_cb_dmean_5000_it.json",
@@ -384,24 +315,16 @@
         "id_image": "aperture_964000"
       }
     ],
-    "hash_code_list_img": "1194941723",
-    "list_definition_mean": [
-      {
-        "mean_english": "lỗ hổng",
-        "definition": "an opening or hole",
-        "ex_of_definition_list": [
-          "Cut a narrow aperture in a piece of card."
-        ]
-      },
-      {
-        "mean_english": "lỗ ống kính",
-        "definition": "(the size of) the opening (eg in a camera) through which light passes",
-        "ex_of_definition_list": [
-          "Open the camera aperture fully to get good focus."
-        ]
-      }
+    "hash_code_list_img": "1787018030",
+    "list_example": [
+      "Cut a narrow aperture in a piece of card.",
+      "Open the camera aperture fully to get good focus.",
+      "The black square is the 4r4 mm2 aperture through which the spectrum was acquired.",
+      "Likewise, an enlarged aperture will raise the first formant and feature greater energy losses which disperse the acoustic resonant energy over a greater frequency range.",
+      "In one experiment, swimming through one aperture produced a mirror image and swimming through the other produced food.",
+      "Each of the 1024 photodiode array elements had a sensitive detector aperture of 25 pm x 26 pm."
     ],
-    "hash_code_list_definition_mean": "1653624715"
+    "hash_code_list_example": "-451591015"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/aphid_cb_dmean_5000_it.json",
@@ -419,17 +342,15 @@
         "id_image": "aphid_4982564"
       }
     ],
-    "hash_code_list_img": "1002146869",
-    "list_definition_mean": [
-      {
-        "mean_english": "giống rệp vừng",
-        "definition": "a very small insect that lives on plants, especially a greenfly",
-        "ex_of_definition_list": [
-          "Aphids cause a lot of damage to plants."
-        ]
-      }
+    "hash_code_list_img": "301084759",
+    "list_example": [
+      "Unlike spotted alfalfa aphid, vein chlorosis was not observed after spotted clover aphid feeding in this experiment.",
+      "This aphid migrates to other parts, including below-ground stems, and so space is less likely to be a limiting factor.",
+      "What is responsible for the apparent specificity of aphid resistance genes?",
+      "Such dramatic responses to aphid feeding are unusual and probably indicate the involvement of toxic aphid saliva or hypersensitive reactions of the cypress trees.",
+      "The genetic structure of host plant adaptation in a spatial patchwork : demographic variability among reciprocally transplanted pea aphid clones."
     ],
-    "hash_code_list_definition_mean": "1908455265"
+    "hash_code_list_example": "809006742"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/apology_cb_dmean_5000_it.json",
@@ -452,18 +373,11 @@
         "id_image": "apology_5201437"
       }
     ],
-    "hash_code_list_img": "-1857462167",
-    "list_definition_mean": [
-      {
-        "mean_english": "lời xin lỗi",
-        "definition": "something that you say or write in order to show that you are sorry for doing something wrong",
-        "ex_of_definition_list": [
-          "Please accept my apology for not arriving on time",
-          "He made his apologies for not attending the meeting."
-        ]
-      }
+    "hash_code_list_img": "404497189",
+    "list_example": [
+      "Please accept my apology for not arriving on time"
     ],
-    "hash_code_list_definition_mean": "1944186095"
+    "hash_code_list_example": "-1972613246"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/apparatus_cb_dmean_5000_it.json",
@@ -481,17 +395,15 @@
         "id_image": "apparatus_3739691"
       }
     ],
-    "hash_code_list_img": "2124881889",
-    "list_definition_mean": [
-      {
-        "mean_english": "dụng cụ",
-        "definition": "machinery, tools or equipment",
-        "ex_of_definition_list": [
-          "chemical/gymnastic apparatus."
-        ]
-      }
+    "hash_code_list_img": "1560203481",
+    "list_example": [
+      "Also, the further restructuring of the spindle apparatus does not deviate from what is seen in other animal systems.",
+      "The apparatus is shown in figure 7(a).",
+      "The dotted and dashed line is the circulation in the old (smaller) apparatus for one flow rate.",
+      "The experimental apparatus will also be set up to verify the efficiency of the proposed methodology.",
+      "His suggested partial answer was that the requisite mathematical tools and the armory of apparatus employed differ radically."
     ],
-    "hash_code_list_definition_mean": "39642196"
+    "hash_code_list_example": "334200255"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/apparel_cb_dmean_5000_it.json",
@@ -529,17 +441,16 @@
         "id_image": "apparel_5928588"
       }
     ],
-    "hash_code_list_img": "-1829755797",
-    "list_definition_mean": [
-      {
-        "mean_english": "y phục",
-        "definition": "clothes",
-        "ex_of_definition_list": [
-          "He was dressed in his regal apparel."
-        ]
-      }
+    "hash_code_list_img": "1331807565",
+    "list_example": [
+      "As he will be aware, the apparel and textile industry has sales of about £15 billion a year and still employs nearly 500,000 people.",
+      "An increase in the subsidy under the heading of apparel for the community in general, however desirable, is dangerous and too expensive to-day.",
+      "There are two major groups in which raw wool is classified based on its final use, apparel wool and carpet wool.",
+      "Which is to say that it is not only her apparel that imperils the heterosexual system, but also her ability to change characters as well as costume.",
+      "Indeed, for a long time, we cannot have seen an aging emperor preening himself upon his apparel when he stands stark naked.",
+      "They cite the civil aircraft, chemical, securities, software, detergent, apparel and chocolate industries."
     ],
-    "hash_code_list_definition_mean": "430798340"
+    "hash_code_list_example": "1143841890"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/appearance_cb_dmean_5000_it.json",
@@ -564,31 +475,17 @@
         "id_image": "appearance_5906121"
       }
     ],
-    "hash_code_list_img": "-2036145802",
-    "list_definition_mean": [
-      {
-        "mean_english": "hình thức",
-        "definition": "what can be seen (of a person, thing etc)",
-        "ex_of_definition_list": [
-          "From his appearance, he seemed very wealthy."
-        ]
-      },
-      {
-        "mean_english": "sự xuất hiện",
-        "definition": "the act of coming into view or coming into a place",
-        "ex_of_definition_list": [
-          "The thieves ran off at the sudden appearance of two policemen."
-        ]
-      },
-      {
-        "mean_english": "sự xuất hiện trước công chúng",
-        "definition": "the act of coming before or presenting oneself/itself before the public or a judge etc",
-        "ex_of_definition_list": [
-          "This will be his first appearance on the stage as a professional actor."
-        ]
-      }
+    "hash_code_list_img": "-2054901038",
+    "list_example": [
+      "The thieves ran off at the sudden appearance of two policemen.",
+      "This will be his first appearance on the stage as a professional actor.",
+      "Those charged only with spectral appearance were not called to trial because they bore no corollary charge of non-spectral acts of witchcraft or confession.",
+      "The appearance of spontaneous errors depends on noise, but also on the relative confusability of the targets.",
+      "Personal appearance is the first area that must be mastered in order to establish the new hierarchy elevating work over sloth.",
+      "Trophic diversity is assessed by assigning taxa to trophic habits, thereby revealing the appearance of new components of ecosystem structure over time.",
+      "In these specimens, the thin stripes also displayed a more dotted appearance in the peripheral field representation."
     ],
-    "hash_code_list_definition_mean": "-468572104"
+    "hash_code_list_example": "-481207355"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/appendix_cb_dmean_5000_it.json",
@@ -607,24 +504,11 @@
         "id_image": "appendix_3411317"
       }
     ],
-    "hash_code_list_img": "797724621",
-    "list_definition_mean": [
-      {
-        "mean_english": "phụ lục",
-        "definition": "(plural sometimes appendices-siːz) a section, usually containing extra information, added at the end of a book, document etc",
-        "ex_of_definition_list": [
-          "A full list of sources can be found in the appendix."
-        ]
-      },
-      {
-        "mean_english": "ruột thừa",
-        "definition": "a narrow tube leading from the large intestine",
-        "ex_of_definition_list": [
-          "She’s had her appendix removed."
-        ]
-      }
+    "hash_code_list_img": "1289903718",
+    "list_example": [
+      "She’s had her appendix removed."
     ],
-    "hash_code_list_definition_mean": "1113726841"
+    "hash_code_list_example": "-938815570"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/appetite_cb_dmean_5000_it.json",
@@ -657,17 +541,14 @@
         "id_image": "appetite_4813794"
       }
     ],
-    "hash_code_list_img": "-1249080180",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự ngon miệng",
-        "definition": "a desire for food",
-        "ex_of_definition_list": [
-          "Exercise gives you a good appetite."
-        ]
-      }
+    "hash_code_list_img": "-1963779023",
+    "list_example": [
+      "She manages to deliver the key elements in a manner which whets the appetite without either over- or under-facing her readers.",
+      "A set of volumes like this whets the appetite for more information.",
+      "For what was modern capitalism itself but the disordered appetite of man written on the communal body?",
+      "There were many spectacles during the nineteenth century, feeding a public appetite for the latest thrilling news, whether polar or not."
     ],
-    "hash_code_list_definition_mean": "1191430583"
+    "hash_code_list_example": "-1168961763"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/appetizer_cb_dmean_5000_it.json",
@@ -705,17 +586,19 @@
         "id_image": "appetizer_659326"
       }
     ],
-    "hash_code_list_img": "-498039114",
-    "list_definition_mean": [
-      {
-        "mean_english": "món khai vị",
-        "definition": "something eaten or drunk before or at the beginning of a meal in order to increase the appetite",
-        "ex_of_definition_list": [
-          "They ate smoked salmon as an appetizer."
-        ]
-      }
+    "hash_code_list_img": "-749855929",
+    "list_example": [
+      "They ate smoked salmon as an appetizer.",
+      "The mezes, or appetizers, are particularly delicious and are plentiful enough to constitute meals.",
+      "The company operates as a casual dining restaurant, offering prepared-at-order chicken fingers, chicken wings, sandwiches, salads, and appetizers.",
+      "The bar offers 100 specialty rums, appetizers, and a raw bar menu.",
+      "The majority of locations have a bistro which serves breakfast (not free), appetizers, sandwiches, and more.",
+      "As part of this, 300,680 desserts, 234,000 appetizers, and 69,000 steaks are consumed per week.",
+      "Though not all ten criteria are necessarily used for every restaurant, the reviews rate the atmosphere, menu, appetizers, entrees, desserts, portion sizes, service, cleanliness, value, and location.",
+      "Eggplant appetizers are also made with onions and other vegetables.",
+      "Judging occurs in two rounds, with the first round being appetizers, and the second being the main courses."
     ],
-    "hash_code_list_definition_mean": "1004791691"
+    "hash_code_list_example": "762819949"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/applaud_cb_dmean_5000_it.json",
@@ -733,17 +616,19 @@
         "id_image": "applaud_2142300"
       }
     ],
-    "hash_code_list_img": "2141849247",
-    "list_definition_mean": [
-      {
-        "mean_english": "vỗ tay",
-        "definition": "to praise or show approval, by clapping the hands",
-        "ex_of_definition_list": [
-          "The crowd applauded Jack’s speech enthusiastically."
-        ]
-      }
+    "hash_code_list_img": "383005139",
+    "list_example": [
+      "The crowd applauded Jack’s speech enthusiastically.",
+      "In so far as the committee's report will help in that good work, it is doubly to be applauded.",
+      "Such an ambitious undertaking must be applauded.",
+      "However, although one always applauds zeal, this really is excessive.",
+      "The new freedom given on vesting day last month to many polytechnics and colleges hitherto under direct local authority control has been widely applauded.",
+      "The dog showed great 'sagacity' in retrieving both lots, which the judges and the crowd applauded.",
+      "In part this is to be applauded: it makes for ambitious books that vie for a claim to establish the intellectual center of the period.",
+      "Anything that can prevent vehicle crime is to be applauded, and anything that can use new technology is to be applauded.",
+      "Through play, children often transcend age and gender ; they are applauded for playing at ' being ' adults."
     ],
-    "hash_code_list_definition_mean": "178371379"
+    "hash_code_list_example": "-937447306"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/applause_cb_dmean_5000_it.json",
@@ -761,17 +646,15 @@
         "id_image": "applause_5485703"
       }
     ],
-    "hash_code_list_img": "1111867271",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự hoan nghênh",
-        "definition": "praise or approval, expressed by clapping",
-        "ex_of_definition_list": [
-          "The President received a round of applause at the end of his speech."
-        ]
-      }
+    "hash_code_list_img": "1812681209",
+    "list_example": [
+      "The President received a round of applause at the end of his speech.",
+      "Rare edits betray some analog sources, and a little applause and coughing some live performances.",
+      "Today applause comes back at us roaring in all its mythic force, yet disconnected from anything whole.",
+      "The response to this switch, as was expected, was long applause from the audience.",
+      "Recognition is somewhat humdrum, involving no special applause or medals."
     ],
-    "hash_code_list_definition_mean": "1281580795"
+    "hash_code_list_example": "1574686945"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/apple_cb_dmean_5000_it.json",
@@ -794,17 +677,19 @@
         "id_image": "apple_1449777"
       }
     ],
-    "hash_code_list_img": "596227472",
-    "list_definition_mean": [
-      {
-        "mean_english": "quả táo",
-        "definition": "a round fruit (usually with a green or red skin) which can be eaten",
-        "ex_of_definition_list": [
-          "a slice of apple."
-        ]
-      }
+    "hash_code_list_img": "968022633",
+    "list_example": [
+      "a slice of apple.",
+      "The result is conceptually anomalous because it is not theoretically meaningful to mix apples and oranges.",
+      "By making such blanket statements we are in danger of comparing apples to oranges.",
+      "Even though they can be, and sometimes are, used in other capacities, they are categorized as mainly eating apples.",
+      "An illustration of this is the phrase bag of apples.",
+      "As a first step, the growers were asked to name both current and old varieties of apples grown in the area.",
+      "The book is divided into six sections and begins with an introduction dealing with the botany of apples, along with production and consumption issues.",
+      "Languages no longer need to be viewed as countable entities, as though they were apples or nation states.",
+      "We had gathered apples, figs, and other fruit."
     ],
-    "hash_code_list_definition_mean": "1169933646"
+    "hash_code_list_example": "1634064126"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/appliance_cb_dmean_5000_it.json",
@@ -842,17 +727,12 @@
         "id_image": "appliance_2317096"
       }
     ],
-    "hash_code_list_img": "248030815",
-    "list_definition_mean": [
-      {
-        "mean_english": "thiết bị",
-        "definition": "an instrument or tool used for a particular job",
-        "ex_of_definition_list": [
-          "The company makes washing machines and other electrical appliances."
-        ]
-      }
+    "hash_code_list_img": "-1815132618",
+    "list_example": [
+      "The caller was assumed to be a non-speaking person, trying to interact with the appliance repair person at the maintenance company.",
+      "That evolution adapted itself to the circumstances of these three different cities, for the street light was a most versatile appliance and symbol."
     ],
-    "hash_code_list_definition_mean": "1402479938"
+    "hash_code_list_example": "1243283029"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/applicant_cb_dmean_5000_it.json",
@@ -885,17 +765,19 @@
         "id_image": "applicant_5571504"
       }
     ],
-    "hash_code_list_img": "256053057",
-    "list_definition_mean": [
-      {
-        "mean_english": "người xin việc",
-        "definition": "a person who applies (for a job etc)",
-        "ex_of_definition_list": [
-          "There were over two hundred applicants for the position."
-        ]
-      }
+    "hash_code_list_img": "571274692",
+    "list_example": [
+      "There were over two hundred applicants for the position.",
+      "The health and earnings of rejected disability insurance applicants.",
+      "Data on psychiatric illness in the parents of the applicants were obtained from the subjects and verified by their husbands.",
+      "Nevertheless, they suggest a general reduction in the ability of social housing applicants to choose their own house.",
+      "Moreover, the procedural changes led to an ever-greater focalizing on the innovative activity and discouraged those applicants who presented grandiose but totally unrealistic projects.",
+      "The types of external sources from which gap financing was secured by rejected applicants is dominated by institutions which provide grants or soft loans.",
+      "Conversely, requiring insurers to accept all applicants (so-called open enrolment) would encourage plans to develop ever more sophisticated discriminatory pricing mechanisms.",
+      "Section 10(3) provides that detailed terms of a commercial licence would then be set out in private-law agreements with applicants.",
+      "By 1931 these transitional benefits were cut back and a means test was applied to applicants for them."
     ],
-    "hash_code_list_definition_mean": "2039281393"
+    "hash_code_list_example": "526960307"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/application_cb_dmean_5000_it.json",
@@ -935,25 +817,11 @@
         "id_image": "application_2542466"
       }
     ],
-    "hash_code_list_img": "1615030854",
-    "list_definition_mean": [
-      {
-        "mean_english": "đơn xin",
-        "definition": "a formal request; an act of applying",
-        "ex_of_definition_list": [
-          "We have received several applications for the new job",
-          "The syllabus can be obtained on application to the headmaster."
-        ]
-      },
-      {
-        "mean_english": "sự chuyên cần",
-        "definition": "hard work",
-        "ex_of_definition_list": [
-          "He has got a good job through sheer application."
-        ]
-      }
+    "hash_code_list_img": "1126946053",
+    "list_example": [
+      "The syllabus can be obtained on application to the headmaster."
     ],
-    "hash_code_list_definition_mean": "-1066036032"
+    "hash_code_list_example": "867999981"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/apply_cb_dmean_5000_it.json",
@@ -975,45 +843,12 @@
         "id_image": "apply_5221109"
       }
     ],
-    "hash_code_list_img": "1403191826",
-    "list_definition_mean": [
-      {
-        "mean_english": "đặt cái gì vào cái gì",
-        "definition": "(with to) to put (something) on or against something else",
-        "ex_of_definition_list": [
-          "She applied ointment to the cut."
-        ]
-      },
-      {
-        "mean_english": "áp dụng",
-        "definition": "(with to) to use (something) for some purpose",
-        "ex_of_definition_list": [
-          "He applied his wits to planning their escape."
-        ]
-      },
-      {
-        "mean_english": "thỉnh cầu/ yêu cầu",
-        "definition": "(with for) to ask for (something) formally",
-        "ex_of_definition_list": [
-          "You could apply (to the manager) for a job."
-        ]
-      },
-      {
-        "mean_english": "có ảnh hưởng",
-        "definition": "(with to) to concern",
-        "ex_of_definition_list": [
-          "This rule applies to all students."
-        ]
-      },
-      {
-        "mean_english": "có hiệu lực",
-        "definition": "to be in force",
-        "ex_of_definition_list": [
-          "The rule doesn’t apply at weekends."
-        ]
-      }
+    "hash_code_list_img": "1401564973",
+    "list_example": [
+      "You could apply (to the manager) for a job.",
+      "The rule doesn’t apply at weekends."
     ],
-    "hash_code_list_definition_mean": "1853703149"
+    "hash_code_list_example": "-2000830592"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/appointment_cb_dmean_5000_it.json",
@@ -1052,17 +887,11 @@
         "id_image": "appointment_4624216"
       }
     ],
-    "hash_code_list_img": "-939330999",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự bổ nhiệm",
-        "definition": "the job or position to which a person is appointed",
-        "ex_of_definition_list": [
-          "His appointment was for one year only."
-        ]
-      }
+    "hash_code_list_img": "896377945",
+    "list_example": [
+      "His appointment was for one year only."
     ],
-    "hash_code_list_definition_mean": "2096690297"
+    "hash_code_list_example": "632576597"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/appraisal_cb_dmean_5000_it.json",
@@ -1085,17 +914,15 @@
         "id_image": "appraisal_5571601"
       }
     ],
-    "hash_code_list_img": "1704670010",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự đánh giá",
-        "definition": "an official description of how successful someone or something is",
-        "ex_of_definition_list": [
-          "Every employee has to have an annual performance appraisal."
-        ]
-      }
+    "hash_code_list_img": "1923601815",
+    "list_example": [
+      "All belief dimensions were associated with at least one of the outcome appraisal measures.",
+      "Whether this appraisal is justified or not, it can only drive home the above proposition that the history of archaeology matters.",
+      "The feeling is essentially an appraisal of the emotional and motivational relevance of the stimulus.",
+      "However, the regional medical unions will be responsible for implementing the practice appraisal procedure.",
+      "The concerns revolve around their audiences' appraisal of the amenities and proximity of the theatre."
     ],
-    "hash_code_list_definition_mean": "96388095"
+    "hash_code_list_example": "-508585013"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/appreciation_cb_dmean_5000_it.json",
@@ -1137,45 +964,19 @@
         "id_image": "appreciation_708673"
       }
     ],
-    "hash_code_list_img": "-437829468",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự cảm kích",
-        "definition": "gratefulness",
-        "ex_of_definition_list": [
-          "I wish to show my appreciation for everything which you have done."
-        ]
-      },
-      {
-        "mean_english": "sự đánh giá cao",
-        "definition": "the state of valuing or understanding something",
-        "ex_of_definition_list": [
-          "He has gained a deep appreciation of poetry."
-        ]
-      },
-      {
-        "mean_english": "sự hiểu biết",
-        "definition": "the state of being aware of something",
-        "ex_of_definition_list": [
-          "He has no appreciation of our difficulties."
-        ]
-      },
-      {
-        "mean_english": "sự tăng giá",
-        "definition": "an increase in value",
-        "ex_of_definition_list": [
-          "the appreciation in house prices."
-        ]
-      },
-      {
-        "mean_english": "sự phê phán",
-        "definition": "a written article etc which describes the qualities of something",
-        "ex_of_definition_list": [
-          "Sheila is writing an appreciation of the new book."
-        ]
-      }
+    "hash_code_list_img": "-1803876801",
+    "list_example": [
+      "I wish to show my appreciation for everything which you have done.",
+      "He has gained a deep appreciation of poetry.",
+      "He has no appreciation of our difficulties.",
+      "the appreciation in house prices.",
+      "Sheila is writing an appreciation of the new book.",
+      "They develop an appreciation for the beauty and elegance of the body.",
+      "Future progress depended crucially on a proper appreciation of the past.",
+      "To do this, consider an alternative which involves the most enjoyable form of appreciation one can think of for some finite duration of time.",
+      "We also increased our appreciation of the current state of theory development."
     ],
-    "hash_code_list_definition_mean": "1604379869"
+    "hash_code_list_example": "93390537"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/apprentice_cb_dmean_5000_it.json",
@@ -1199,24 +1000,20 @@
         "id_image": "apprentice_2720607"
       }
     ],
-    "hash_code_list_img": "448886411",
-    "list_definition_mean": [
-      {
-        "mean_english": "người học việc",
-        "definition": "a (usually young) person who is learning a trade",
-        "ex_of_definition_list": [
-          "He joined the company as an apprentice."
-        ]
-      },
-      {
-        "mean_english": "cho học việc",
-        "definition": "to make (someone) an apprentice",
-        "ex_of_definition_list": [
-          "He was apprenticed to an engineer."
-        ]
-      }
+    "hash_code_list_img": "1259129238",
+    "list_example": [
+      "He joined the company as an apprentice.",
+      "He was apprenticed to an engineer.",
+      "Fourthly, there is the very vexed question of the call-up of apprentices.",
+      "The wages of unskilled workers also increased along with their years of service since these workers were in fact apprentices.",
+      "Skilled workers had to have at least three months of employment experience, apprentices at least half a year, and common laborers at least a year.",
+      "The available statistics do not distinguish apprentices from other employees.",
+      "Contemporary custom had it that apprentices and journeymen resided in their master's household, where they worked, slept and took their meals together.",
+      "However, it is also possible that apprentices or attached specialists worked in and around the palaces of the king's family on valuable raw materials and in creating high-status goods.",
+      "Nearly 3 per cent of all apprentices (3,632) were set to mistresses.",
+      "I am anxious that apprentices as well as students should be able to benefit from such schemes."
     ],
-    "hash_code_list_definition_mean": "74735592"
+    "hash_code_list_example": "-571152139"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/approach_cb_dmean_5000_it.json",
@@ -1237,40 +1034,19 @@
         "id_image": "approach_2191189"
       }
     ],
-    "hash_code_list_img": "947982626",
-    "list_definition_mean": [
-      {
-        "mean_english": "đến gần",
-        "definition": "to come near (to)",
-        "ex_of_definition_list": [
-          "The car approached (the traffic lights) at top speed",
-          "Christmas is approaching."
-        ]
-      },
-      {
-        "mean_english": "sự đến gần",
-        "definition": "the act of coming near",
-        "ex_of_definition_list": [
-          "The boys ran off at the approach of a policeman."
-        ]
-      },
-      {
-        "mean_english": "lối vào",
-        "definition": "a road, path etc leading to a place",
-        "ex_of_definition_list": [
-          "All the approaches to the village were blocked by floods."
-        ]
-      },
-      {
-        "mean_english": "sự tiếp cận",
-        "definition": "an attempt to obtain or attract a person’s help, interest etc",
-        "ex_of_definition_list": [
-          "They have made an approach to the government for help",
-          "That fellow makes approaches to (= he tries to become friendly with) every woman he meets."
-        ]
-      }
+    "hash_code_list_img": "1374116030",
+    "list_example": [
+      "The boys ran off at the approach of a policeman.",
+      "They have made an approach to the government for help",
+      "This indicator aimed to validate teachers' approach to lesson planning while attempting to link teacher thinking and administrator thinking through a shared discourse.",
+      "At the outer edges of the plume, however, the production and destruction terms rapidly approach zero and advection and transport balance each other.",
+      "The nearer that this model is approached, the more successful a purely quantitative approach will be, as in drug trials.",
+      "Constructions: a construction grammar approach to argument structure.",
+      "This more holistic approach is supposedly reflected in the importance now accorded to social and psychological aspects of the disabling process.",
+      "His approach to psychopathology was sceptical and philosophical; and he never created his own school of psychiatric, let alone psychopathological, teaching.",
+      "The third approach uses planning effects on task performance to investigate how learners monitor their language."
     ],
-    "hash_code_list_definition_mean": "-2013966689"
+    "hash_code_list_example": "-1839343037"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/approval_cb_dmean_5000_it.json",
@@ -1303,17 +1079,19 @@
         "id_image": "approval_6304375"
       }
     ],
-    "hash_code_list_img": "2140404872",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự ủng hộ",
-        "definition": "the act or state of agreeing to or being pleased with (a person, thing etc)",
-        "ex_of_definition_list": [
-          "This proposal meets with my approval."
-        ]
-      }
+    "hash_code_list_img": "-998382475",
+    "list_example": [
+      "This proposal meets with my approval.",
+      "We propose to distribute the balance of the supplementary credit approvals in accordance with assessed housing need.",
+      "Only those utterances that were judged to be approvals or disapprovals of the child's preceding utterance were coded as explicit responses.",
+      "The system of capital approvals has altered over the last ten years.",
+      "Seventeen of these approvals were of capital expenditure amounting in total to £200,000; the other 26 approvals related to non-capital commitments amounting in total to £92,000 annually.",
+      "I am glad to say that the number of approvals has been steadily increasing since then.",
+      "The development areas' share of all approvals of industrial development certificates is running at over one-third of the total issued in the country.",
+      "The design and testing approvals of such seat belts and child restraints, and their fixings, are to approved standards.",
+      "Basic credit approvals for individual local authorities for 1991–92 will be announced in due course."
     ],
-    "hash_code_list_definition_mean": "2021466043"
+    "hash_code_list_example": "998963249"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/approve_cb_dmean_5000_it.json",
@@ -1347,24 +1125,11 @@
         "id_image": "approve_6383812"
       }
     ],
-    "hash_code_list_img": "188612781",
-    "list_definition_mean": [
-      {
-        "mean_english": "tán thành",
-        "definition": "(often with of) to be pleased with or think well of (a person, thing etc)",
-        "ex_of_definition_list": [
-          "I approve of your decision."
-        ]
-      },
-      {
-        "mean_english": "đồng ý",
-        "definition": "to agree to (something)",
-        "ex_of_definition_list": [
-          "The committee approved the plan."
-        ]
-      }
+    "hash_code_list_img": "-436877201",
+    "list_example": [
+      "I approve of your decision."
     ],
-    "hash_code_list_definition_mean": "1420259418"
+    "hash_code_list_example": "-348174717"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/app_cb_dmean_5000_it.json",
@@ -1387,17 +1152,11 @@
         "id_image": "app_287476"
       }
     ],
-    "hash_code_list_img": "-1547171025",
-    "list_definition_mean": [
-      {
-        "mean_english": "ứng dụng",
-        "definition": "a software program designed to do a particular job, especially one that can be downloaded to a mobile device",
-        "ex_of_definition_list": [
-          "This new app aims to teach children about animals."
-        ]
-      }
+    "hash_code_list_img": "-1606525734",
+    "list_example": [
+      "This new app aims to teach children about animals."
     ],
-    "hash_code_list_definition_mean": "742891634"
+    "hash_code_list_example": "-713776629"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/apron_cb_dmean_5000_it.json",
@@ -1427,17 +1186,11 @@
         "id_image": "apron_6419681"
       }
     ],
-    "hash_code_list_img": "1573404233",
-    "list_definition_mean": [
-      {
-        "mean_english": "tấm tạp dề",
-        "definition": "a piece of cloth, plastic etc worn over the front of the clothes for protection against dirt etc",
-        "ex_of_definition_list": [
-          "She tied on her apron before preparing the dinner."
-        ]
-      }
+    "hash_code_list_img": "-1237800710",
+    "list_example": [
+      "She tied on her apron before preparing the dinner."
     ],
-    "hash_code_list_definition_mean": "1706891742"
+    "hash_code_list_example": "-1254230499"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/aqueduct_cb_dmean_5000_it.json",
@@ -1455,17 +1208,16 @@
         "id_image": "aqueduct_4598964"
       }
     ],
-    "hash_code_list_img": "424832828",
-    "list_definition_mean": [
-      {
-        "mean_english": "cầu dẫn nước",
-        "definition": "a structure like a bridge that carries water across a valley",
-        "ex_of_definition_list": [
-          "The aqueduct was built across the Tern valley."
-        ]
-      }
+    "hash_code_list_img": "140778396",
+    "list_example": [
+      "The aqueduct was built across the Tern valley.",
+      "These powers could be of great practical importance if some disaster befell a waterway—for example, if an aqueduct or a tunnel collapsed.",
+      "He attributed this not only to pollution of the source of abstraction but also to contamination during transportation in uncovered aqueduct channels.",
+      "They cannot take too much; the aqueduct capacity will not be there.",
+      "And you say an aqueduct is going along within some three or four hundred feet of that well?",
+      "If the aqueduct should in any place cause the well to dry up, would yon be prepared to find some other supply for the farm?"
     ],
-    "hash_code_list_definition_mean": "650621413"
+    "hash_code_list_example": "2112676699"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/arcade_cb_dmean_5000_it.json",
@@ -1503,18 +1255,20 @@
         "id_image": "arcade_556394"
       }
     ],
-    "hash_code_list_img": "1233656386",
-    "list_definition_mean": [
-      {
-        "mean_english": "đường có mái vòm",
-        "definition": "a covered passage or area usually with shops, stalls etc",
-        "ex_of_definition_list": [
-          "a shopping arcade",
-          "an amusement arcade."
-        ]
-      }
+    "hash_code_list_img": "-1144013201",
+    "list_example": [
+      "a shopping arcade",
+      "an amusement arcade.",
+      "There were about 500 responses from operators of seaside arcades or family entertainment centres.",
+      "None, as it is not an offence to allow young people to gamble in amusement arcades.",
+      "Amusement arcades are another source of child exploitation.",
+      "The rooms - curious, quaint, old, barrack chambers - were well lighted, decorated with flags, flowers, and fire-arms; bowers and pleasant arcades were improvised in the open.",
+      "They did not want more \"palaces of culture\"—a euphemism for slot machine arcades.",
+      "I do not consider it acceptable for such machines to be in amusement arcades at this time.",
+      "We keep the law on amusement arcades under review.",
+      "Such a ban would also have a dramatic impact on the tangential businesses that support amusement arcades, such as electricians and plumbers."
     ],
-    "hash_code_list_definition_mean": "64080210"
+    "hash_code_list_example": "-1610750295"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/archaeology_cb_dmean_5000_it.json",
@@ -1552,17 +1306,15 @@
         "id_image": "archaeology_4127068"
       }
     ],
-    "hash_code_list_img": "-1274846896",
-    "list_definition_mean": [
-      {
-        "mean_english": "khảo cổ học",
-        "definition": "the study of objects belonging to ancient times (eg buildings, tools etc found in the earth)",
-        "ex_of_definition_list": [
-          "the university’s Department of Archaeology."
-        ]
-      }
+    "hash_code_list_img": "1737773567",
+    "list_example": [
+      "Current socio-political problems and a certain pressure for justification of its existence demand archaeology to contribute to present public debates.",
+      "A brief survey of continental traditions in archaeology convincingly demonstrates the constantly varying approach to international debate and shows the different aspects emphasized.",
+      "But archaeology should be engaged in examining exactly how subjects were constituted in the past in relation to specific sociopolitical apparatuses.",
+      "Not surprisingly, archaeology was soon drawn into this debate.",
+      "So time is not just the subject matter of archaeology: archaeology itself belongs to history, and culture is not just the opposite of nature."
     ],
-    "hash_code_list_definition_mean": "1757252806"
+    "hash_code_list_example": "-261364235"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/architecture_cb_dmean_5000_it.json",
@@ -1595,18 +1347,20 @@
         "id_image": "architecture_837200"
       }
     ],
-    "hash_code_list_img": "-264555610",
-    "list_definition_mean": [
-      {
-        "mean_english": "công trình kiến trúc",
-        "definition": "the art of designing buildings",
-        "ex_of_definition_list": [
-          "He’s studying architecture",
-          "modern architecture."
-        ]
-      }
+    "hash_code_list_img": "2035870224",
+    "list_example": [
+      "He’s studying architecture",
+      "modern architecture.",
+      "Several architectures of parallel robots which are solicited in macroscopic applications might be adapted for microassembly tasks.",
+      "Behaviour-based architectures were very much in evidence, in these and other papers.",
+      "The 'extended architectures', based on the core ideas for the settlement as a whole, can and should be implemented by other designers.",
+      "Addressing the role of epistasis in evolution will require understanding the mechanisms that underpin the genetic architectures discovered.",
+      "Therefore, in the last decade hybrid manipulators have given great attention to robotic manipulators that are a combination of serial and parallel chain architectures.",
+      "Design of modular product architectures in discrete design spaces subject to life cycle issues.",
+      "The configuration algorithms that we presented here does not rely on functional architectures.",
+      "In section 5, some important layered architectures are overviewed."
     ],
-    "hash_code_list_definition_mean": "1131577828"
+    "hash_code_list_example": "2080408101"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/architect_cb_dmean_5000_it.json",
@@ -1634,17 +1388,19 @@
         "id_image": "architect_2644536"
       }
     ],
-    "hash_code_list_img": "779171793",
-    "list_definition_mean": [
-      {
-        "mean_english": "kiến trúc sư",
-        "definition": "a person who designs buildings etc",
-        "ex_of_definition_list": [
-          "a landscape architect."
-        ]
-      }
+    "hash_code_list_img": "154459684",
+    "list_example": [
+      "a landscape architect.",
+      "Remarkably not one of the architects we interviewed seemed to operate any regular evaluation of the success of a project after completion.",
+      "Too often the history of each district is presented as a series of lists: of buildings, of clients, of projects, of architects.",
+      "Many of the architects we interviewed claimed to have a substantial amount of 'repeat business'.",
+      "The de-skilling of the architect's role is not new.",
+      "In par ticular, agent-based simulations are proving useful for architects and town planners wishing to analyze their designs.",
+      "The designers were given a program brief of an architect's office space design and asked to focus on four different concerns in conceptual, schematic design.",
+      "The panels of regular review sessions comprise a mix of discipline groups, including architects, planners, councillors, landscape designers and community representatives.",
+      "Both these traditions are still rich sources for contemporary architects."
     ],
-    "hash_code_list_definition_mean": "53871266"
+    "hash_code_list_example": "-1280207792"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/archive_cb_dmean_5000_it.json",
@@ -1677,17 +1433,13 @@
         "id_image": "archive_762216"
       }
     ],
-    "hash_code_list_img": "-2099317143",
-    "list_definition_mean": [
-      {
-        "mean_english": "lưu trữ",
-        "definition": "(a place for keeping) old documents, historical records etc",
-        "ex_of_definition_list": [
-          "an archive of historical materials."
-        ]
-      }
+    "hash_code_list_img": "-891432854",
+    "list_example": [
+      "an archive of historical materials.",
+      "In recent years, artists and composers have been increasingly drawn to historical archive material.",
+      "Then there are people in the archive who grew up in complete isolation."
     ],
-    "hash_code_list_definition_mean": "976782307"
+    "hash_code_list_example": "-1995598915"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/archivist_cb_dmean_5000_it.json",
@@ -1710,17 +1462,11 @@
         "id_image": "archivist_827063"
       }
     ],
-    "hash_code_list_img": "-1387459429",
-    "list_definition_mean": [
-      {
-        "mean_english": "chuyên viên lưu trữ",
-        "definition": "a person who looks after archives",
-        "ex_of_definition_list": [
-          "She is Chief Archivist at the John F. Kennedy Presidential Library and Museum."
-        ]
-      }
+    "hash_code_list_img": "-1866933361",
+    "list_example": [
+      "An archivist normally does not ask this major question."
     ],
-    "hash_code_list_definition_mean": "2003287405"
+    "hash_code_list_example": "-1722308647"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/arch_cb_dmean_5000_it.json",
@@ -1757,31 +1503,16 @@
         "id_image": "arch_5479876"
       }
     ],
-    "hash_code_list_img": "1717172391",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà vòm",
-        "definition": "a monument which is shaped like an arch",
-        "ex_of_definition_list": [
-          "the Marble Arch in London."
-        ]
-      },
-      {
-        "mean_english": "hình vòng cung",
-        "definition": "anything that is like an arch in shape",
-        "ex_of_definition_list": [
-          "The rainbow formed an arch in the sky."
-        ]
-      },
-      {
-        "mean_english": "vồng lên",
-        "definition": "to (cause to) be in the shape of an arch",
-        "ex_of_definition_list": [
-          "The cat arched its back."
-        ]
-      }
+    "hash_code_list_img": "135032711",
+    "list_example": [
+      "The rainbow formed an arch in the sky.",
+      "In three of these it was obligatory as the aortic arch was interrupted.",
+      "Recent investigations showed that cells from the cardiac neural crest contribute to the formation of the arch arteries and the media of the arch.",
+      "In this position, the aortic arch can be demonstrated by rotating the transducer through 90 degrees towards the feet or head of the fetus.",
+      "The proximal portions of the sixth arches contribute to the pulmonary arteries and the distal portions of the left sixth arch becomes the arterial duct.",
+      "The ascending aorta was bulbous, but narrowed at the transverse arch and at the site of repair of the aortic coarctation."
     ],
-    "hash_code_list_definition_mean": "1167253753"
+    "hash_code_list_example": "516683477"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/arc_cb_dmean_5000_it.json",
@@ -1814,17 +1545,15 @@
         "id_image": "arc_576753"
       }
     ],
-    "hash_code_list_img": "1611703544",
-    "list_definition_mean": [
-      {
-        "mean_english": "hình cung",
-        "definition": "a part of the line which forms a circle or other curve",
-        "ex_of_definition_list": [
-          "Many methods have been used to measure the arc of a circle."
-        ]
-      }
+    "hash_code_list_img": "-195140439",
+    "list_example": [
+      "Many methods have been used to measure the arc of a circle.",
+      "While domain reduction ensuring arc- or hyperarc consistency is relatively simple for indexing over discrete variables, the case of continuous variables is much less explored.",
+      "Derivation of some modern arc magmas by melting of young subducted lithosphere.",
+      "Each vignette is vividly contextualized, but a larger historical arc that would unify the profiles fails to emerge.",
+      "This intersection is an arc of a great circle whose endpoints lie on this meridian."
     ],
-    "hash_code_list_definition_mean": "374740244"
+    "hash_code_list_example": "-1806391038"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/area_cb_dmean_5000_it.json",
@@ -1854,31 +1583,11 @@
         "id_image": "area_1968899"
       }
     ],
-    "hash_code_list_img": "-2085405790",
-    "list_definition_mean": [
-      {
-        "mean_english": "vùng",
-        "definition": "a place; part (of a town etc)",
-        "ex_of_definition_list": [
-          "Do you live in this area?"
-        ]
-      },
-      {
-        "mean_english": "diện tích",
-        "definition": "the extent or size of a flat surface",
-        "ex_of_definition_list": [
-          "The garden is 30 square yards in area."
-        ]
-      },
-      {
-        "mean_english": "lĩnh vực",
-        "definition": "a particular subject or activity",
-        "ex_of_definition_list": [
-          "Her specialist area is corporate finance."
-        ]
-      }
+    "hash_code_list_img": "-252134886",
+    "list_example": [
+      "Her specialist area is corporate finance."
     ],
-    "hash_code_list_definition_mean": "41174818"
+    "hash_code_list_example": "-1977866283"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/arena_cb_dmean_5000_it.json",
@@ -1911,17 +1620,19 @@
         "id_image": "arena_5265516"
       }
     ],
-    "hash_code_list_img": "1183577245",
-    "list_definition_mean": [
-      {
-        "mean_english": "đấu trường",
-        "definition": "any place for a public show contest etc",
-        "ex_of_definition_list": [
-          "a sports arena."
-        ]
-      }
+    "hash_code_list_img": "969073925",
+    "list_example": [
+      "a sports arena.",
+      "They were dominant players in the federal and provincial political arenas, with lengthy, highly visible track records.",
+      "The importance of this commitment can be seen in a number of policy arenas.",
+      "While the least studied phenomena, this application of our skills into nonbuilding arenas, seems to be growing rapidly.",
+      "Cultural festivals are as such important cultural and aesthetic arenas for the exercise of political strategies.",
+      "While this is being done in several arenas already,78 there is always scope for more.",
+      "Other information, relating specifically to the composer's intentions, may appear in programme-notes or other public arenas and again will reach some listeners but not others.",
+      "Such open spaces, often placed outside the walls, were used as markets or arenas for tournaments and bull®ghts.",
+      "Based on the outcome of these experiments, selected nematodes were further tested in medium-volume arenas containing maize plants in order to simulate more natural conditions."
     ],
-    "hash_code_list_definition_mean": "2005492564"
+    "hash_code_list_example": "-1116305829"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/argue_cb_dmean_5000_it.json",
@@ -1947,40 +1658,11 @@
         "id_image": "argue_5906125"
       }
     ],
-    "hash_code_list_img": "-1035326095",
-    "list_definition_mean": [
-      {
-        "mean_english": "cãi nhau",
-        "definition": "(with with someone, about something) to quarrel with (a person) or discuss (something) with a person in a not very friendly way",
-        "ex_of_definition_list": [
-          "I’m not going to argue",
-          "Will you children stop arguing with each other about whose toy that is!"
-        ]
-      },
-      {
-        "mean_english": "phản đối",
-        "definition": "(with for, against) to suggest reasons for or for not doing something",
-        "ex_of_definition_list": [
-          "I argued for/against accepting the plan."
-        ]
-      },
-      {
-        "mean_english": "thuyết phục ai",
-        "definition": "(with into, out of) to persuade (a person) (not) to do something",
-        "ex_of_definition_list": [
-          "I’ll try to argue him into going",
-          "He argued her out of buying the dress."
-        ]
-      },
-      {
-        "mean_english": "tranh luận; biện luận",
-        "definition": "to discuss, giving one’s reasoning",
-        "ex_of_definition_list": [
-          "She argued the point very cleverly."
-        ]
-      }
+    "hash_code_list_img": "1012028768",
+    "list_example": [
+      "I’ll try to argue him into going"
     ],
-    "hash_code_list_definition_mean": "-750795389"
+    "hash_code_list_example": "1035965655"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/argument_cb_dmean_5000_it.json",
@@ -2014,25 +1696,11 @@
         "id_image": "argument_859975"
       }
     ],
-    "hash_code_list_img": "-330413523",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự cãi nhau",
-        "definition": "a quarrel or unfriendly discussion",
-        "ex_of_definition_list": [
-          "They are having an argument about/over whose turn it is."
-        ]
-      },
-      {
-        "mean_english": "lý lẽ",
-        "definition": "a set of reasons; a piece of reasoning",
-        "ex_of_definition_list": [
-          "There are several arguments for/against the proposal",
-          "a philosophical argument."
-        ]
-      }
+    "hash_code_list_img": "668322538",
+    "list_example": [
+      "They are having an argument about/over whose turn it is."
     ],
-    "hash_code_list_definition_mean": "-1690348677"
+    "hash_code_list_example": "-122761570"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/arid_cb_dmean_5000_it.json",
@@ -2050,17 +1718,18 @@
         "id_image": "arid_2191447"
       }
     ],
-    "hash_code_list_img": "162774587",
-    "list_definition_mean": [
-      {
-        "mean_english": "khô cằn",
-        "definition": "dry",
-        "ex_of_definition_list": [
-          "The soil is very arid, which makes it difficult for crops to grow."
-        ]
-      }
+    "hash_code_list_img": "1887965506",
+    "list_example": [
+      "In arid areas, drought is likely to be a major factor limiting seedling establishment.",
+      "Farther southward the terrain gradually changes to semiarid woodlands and grasslands as the annual precipitation increases.",
+      "The semiarid steppe landscape was drained by intermittent streams and was sometimes affected by dust and sandstorms, and moisture was seasonal.",
+      "Helodermatids (or beaded lizards) are large, stocky, slow-moving reptiles that prefer semiarid habitats.",
+      "The semiarid classification is due to the city's high evapotranspiration.",
+      "As an example, thin impure coal seams can form in places other than where a permanent water table allows peat accumulation, even in semi-arid conditions.",
+      "He also showed that nodulation increased from humid to arid areas, in relation with decreasing nitrogen and increasing phosphorus contents of the soil.",
+      "Lasting microbiological and biochemical effects of the addition of municipal solid waste to an arid soil."
     ],
-    "hash_code_list_definition_mean": "1040385164"
+    "hash_code_list_example": "-1433660869"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/arithmetic_cb_dmean_5000_it.json",
@@ -2078,17 +1747,16 @@
         "id_image": "arithmetic_5332541"
       }
     ],
-    "hash_code_list_img": "324101663",
-    "list_definition_mean": [
-      {
-        "mean_english": "số học",
-        "definition": "the art of counting by numbers",
-        "ex_of_definition_list": [
-          "mental arithmetic."
-        ]
-      }
+    "hash_code_list_img": "117701220",
+    "list_example": [
+      "Equality of terms (unification or matching) and arithmetic are also covered explicitly at this stage.",
+      "In this case the implementations of functions use interval arithmetic and approximations to transcendental functions that get more accurate as the input interval shrinks.",
+      "All known manifolds with engaging actions of higher rank lattices have an arithmetic fundamental group.",
+      "As before, b is highly oscillatory when is small, and converges weakly, as 0, to its arithmetic mean.",
+      "However, this contradicts our choice of the arithmetic progression.",
+      "The following elementary arithmetic observation will be used later."
     ],
-    "hash_code_list_definition_mean": "1961138125"
+    "hash_code_list_example": "736910057"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/armband_cb_dmean_5000_it.json",
@@ -2111,17 +1779,11 @@
         "id_image": "armband_1505366"
       }
     ],
-    "hash_code_list_img": "1888345224",
-    "list_definition_mean": [
-      {
-        "mean_english": "băng tay",
-        "definition": "a strip of cloth etc worn round the arm",
-        "ex_of_definition_list": [
-          "They all wore black armbands as a sign of mourning."
-        ]
-      }
+    "hash_code_list_img": "-2091294269",
+    "list_example": [
+      "If the picket takes his armband off and goes along to a fellow striker or fellow worker, is he or is he not a picket?"
     ],
-    "hash_code_list_definition_mean": "903297162"
+    "hash_code_list_example": "1339676364"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/armchair_cb_dmean_5000_it.json",
@@ -2149,16 +1811,18 @@
         "id_image": "armchair_603359"
       }
     ],
-    "hash_code_list_img": "-1678426498",
-    "list_definition_mean": [
-      {
-        "mean_english": "ghế bành",
-        "definition": "a chair with arms at each side",
-        "ex_of_definition_list": [
-          "a reclining armchair."
-        ]
-      }
+    "hash_code_list_img": "1352113835",
+    "list_example": [
+      "a reclining armchair.",
+      "When one raises capital to build a hotel one is, by implication, raising capital to buy television sets, armchairs, carpets, cutlery, and all the paraphernalia that go into hotels.",
+      "There were armchairs on which the legs became loose after a week or two.",
+      "There are 15 swivelling armchairs in the docks of the jury courts.",
+      "He had even placed two armchairs and a bottle of champagne in the cabin for the occasion.",
+      "Emphasis for furniture was on carved and turned members, which were elaborately placed on high-back armchairs and tables.",
+      "The nuclear submarine is not—as some defence commentators, from the depths of their armchairs, have assured us—just an improved submarine.",
+      "In the first-class carriage, two armchairs arranged in two rows in the standard cars two and three in the two series.",
+      "We hear of people sleeping in baths, on billiard tables or in armchairs, because there is no other accommodation available for them."
     ],
-    "hash_code_list_definition_mean": "1777369292"
+    "hash_code_list_example": "1328933160"
   }
 ]

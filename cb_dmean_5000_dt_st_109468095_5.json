@@ -30,17 +30,11 @@
         "id_image": "wooden_6006256"
       }
     ],
-    "hash_code_list_img": "-290479050",
-    "list_definition_mean": [
-      {
-        "mean_english": "bằng gỗ",
-        "definition": "made of wood",
-        "ex_of_definition_list": [
-          "three wooden chairs."
-        ]
-      }
+    "hash_code_list_img": "1302830729",
+    "list_example": [
+      "three wooden chairs."
     ],
-    "hash_code_list_definition_mean": "1626217032"
+    "hash_code_list_example": "1062681719"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/woodland_cb_dmean_5000_it.json",
@@ -73,17 +67,16 @@
         "id_image": "woodland_3075162"
       }
     ],
-    "hash_code_list_img": "802342855",
-    "list_definition_mean": [
-      {
-        "mean_english": "rừng",
-        "definition": "land covered with woods",
-        "ex_of_definition_list": [
-          "a stretch of woodland."
-        ]
-      }
+    "hash_code_list_img": "-636964339",
+    "list_example": [
+      "Little research has been carried out into the changing role of landed estates in forming and maintaining woodland landscapes in this period.",
+      "Rather than being a slowly changing woodland landscape it has undergone revolutionary changes.",
+      "As only one point in each site was sampled the effects of within woodland turnover, particularly in the larger sites, would have been missed.",
+      "There were several small woodland glades dominated by various grasses.",
+      "Using an illustrative model, we show that transitions between grassland and woodland may result from the interplay of facilitation and competition between herbivores.",
+      "This table shows that fly really became more numerous in the vlei than in the woodland bordering it."
     ],
-    "hash_code_list_definition_mean": "1001197340"
+    "hash_code_list_example": "1893682743"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/woodwork_cb_dmean_5000_it.json",
@@ -117,24 +110,17 @@
         "id_image": "woodwork_2472995"
       }
     ],
-    "hash_code_list_img": "-2084018210",
-    "list_definition_mean": [
-      {
-        "mean_english": "nghề mộc",
-        "definition": "the art of making things from wood; carpentry",
-        "ex_of_definition_list": [
-          "He did woodwork at school."
-        ]
-      },
-      {
-        "mean_english": "phần gỗ",
-        "definition": "the wooden part of any structure",
-        "ex_of_definition_list": [
-          "The woodwork in the house is rotting."
-        ]
-      }
+    "hash_code_list_img": "-1441785971",
+    "list_example": [
+      "He did woodwork at school.",
+      "The woodwork in the house is rotting.",
+      "We are paying particular attention to vocational training, as in woodwork and metal work.",
+      "How to get them out of the woodwork is the most difficult question.",
+      "I am assured by the engineer-in-charge that the system of concrete blocks employed is actually cheaper to-day than woodwork or corrugated iron huts.",
+      "It must be remembered that we have to have a woodwork room, a metalwork room, school kitchens, a gymnasium, school gardens and so on.",
+      "There is one practical room shared between woodwork and metalwork, which is not a satisfactory arrangement."
     ],
-    "hash_code_list_definition_mean": "-1511270871"
+    "hash_code_list_example": "2048973088"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wood_cb_dmean_5000_it.json",
@@ -159,26 +145,12 @@
         "id_image": "wood_878460"
       }
     ],
-    "hash_code_list_img": "-393652246",
-    "list_definition_mean": [
-      {
-        "mean_english": "gỗ",
-        "definition": "(also adjective) (of) the material of which the trunk and branches of trees are composed",
-        "ex_of_definition_list": [
-          "My desk is (made of) wood",
-          "She gathered some wood for the fire",
-          "I like the smell of a wood fire."
-        ]
-      },
-      {
-        "mean_english": "rừng",
-        "definition": "a group of growing trees",
-        "ex_of_definition_list": [
-          "They went for a walk in the woods."
-        ]
-      }
+    "hash_code_list_img": "1792817877",
+    "list_example": [
+      "She gathered some wood for the fire",
+      "I like the smell of a wood fire."
     ],
-    "hash_code_list_definition_mean": "786223249"
+    "hash_code_list_example": "101584959"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wool_cb_dmean_5000_it.json",
@@ -206,19 +178,16 @@
         "id_image": "wool_588416"
       }
     ],
-    "hash_code_list_img": "-10172263",
-    "list_definition_mean": [
-      {
-        "mean_english": "len",
-        "definition": "(of) the soft hair of sheep and some other animals, often made into yarn etc for knitting or into fabric for making clothes etc",
-        "ex_of_definition_list": [
-          "I wear wool in winter",
-          "knitting-wool",
-          "a wool blanket."
-        ]
-      }
+    "hash_code_list_img": "-1188081851",
+    "list_example": [
+      "I wear wool in winter",
+      "a wool blanket.",
+      "The wool study was unfinished at the time the book became ready, and was not included in it.",
+      "Effects of shearing interval on fleece weight and wool growth on a delineated midside patch.",
+      "Second, wool production and wool usage tended to separate.",
+      "The primary participants in wool weaving were the shepherds."
     ],
-    "hash_code_list_definition_mean": "636050723"
+    "hash_code_list_example": "-640426366"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/worker_cb_dmean_5000_it.json",
@@ -243,25 +212,21 @@
         "id_image": "worker_562536"
       }
     ],
-    "hash_code_list_img": "-1522325790",
-    "list_definition_mean": [
-      {
-        "mean_english": "công nhân",
-        "definition": "a person who works or who is employed in an office, a factory etc",
-        "ex_of_definition_list": [
-          "office workers",
-          "car workers."
-        ]
-      },
-      {
-        "mean_english": "người lao động",
-        "definition": "a person who works (hard etc)",
-        "ex_of_definition_list": [
-          "He’s a slow/hard worker."
-        ]
-      }
+    "hash_code_list_img": "1940045881",
+    "list_example": [
+      "office workers",
+      "car workers.",
+      "He’s a slow/hard worker.",
+      "In 1991 public workers balked at that plan and there was a two-day general strike.",
+      "Despite this, relatively few workers have exploited these approaches.",
+      "Ergatocracy to him meant the 'politics of workers', which was derived from the spirit of democracy.",
+      "Younger workers appeared to have higher jobrelated stress.",
+      "We can all cite distressing examples of the failures of systems and of workers to respond in a timely and appropriate way.",
+      "Along with protections against arbitrary discharge, workers sought union control of hiring.",
+      "As the low participation in training of workers aged in their forties shows, some of its effects manifest themselves remarkably early in the lifecourse.",
+      "The case is made for promoting and supporting communication as key skills and competencies for care workers."
     ],
-    "hash_code_list_definition_mean": "2077463988"
+    "hash_code_list_example": "-764376523"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/workforce_cb_dmean_5000_it.json",
@@ -289,17 +254,11 @@
         "id_image": "workforce_6214216"
       }
     ],
-    "hash_code_list_img": "-521856123",
-    "list_definition_mean": [
-      {
-        "mean_english": "lực lượng lao động",
-        "definition": "the number of workers (available for work) in a particular industry, factory etc",
-        "ex_of_definition_list": [
-          "The factory has a workforce of about 300 people."
-        ]
-      }
+    "hash_code_list_img": "2054265306",
+    "list_example": [
+      "The factory has a workforce of about 300 people."
     ],
-    "hash_code_list_definition_mean": "1326723477"
+    "hash_code_list_example": "-597655835"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/workman_cb_dmean_5000_it.json",
@@ -317,17 +276,11 @@
         "id_image": "workman_2419713"
       }
     ],
-    "hash_code_list_img": "554451088",
-    "list_definition_mean": [
-      {
-        "mean_english": "công nhân",
-        "definition": "a man who does manual work",
-        "ex_of_definition_list": [
-          "the workmen on a building site."
-        ]
-      }
+    "hash_code_list_img": "1910857319",
+    "list_example": [
+      "Interestingly, when indicating the location of the now desiccated lagunas, the workman gestured toward the area of the platform and causeway."
     ],
-    "hash_code_list_definition_mean": "119819686"
+    "hash_code_list_example": "1298917548"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/workout_cb_dmean_5000_it.json",
@@ -355,17 +308,13 @@
         "id_image": "workout_3476439"
       }
     ],
-    "hash_code_list_img": "708194180",
-    "list_definition_mean": [
-      {
-        "mean_english": "giai đoạn tập luyện cường độ cao",
-        "definition": "a period of hard physical exercise for the purpose of keeping fit etc",
-        "ex_of_definition_list": [
-          "Do these exercises as part of you daily workout."
-        ]
-      }
+    "hash_code_list_img": "963674460",
+    "list_example": [
+      "The player then completes a workout for college scouts and you are offered scholarships to three different schools.",
+      "Degreed and certified fitness instructors are available to work with members and can tailor a workout to any fitness level.",
+      "In the process of the workout on these proposals and others to come, that will be seen to be so."
     ],
-    "hash_code_list_definition_mean": "1652252282"
+    "hash_code_list_example": "-1675270238"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/workplace_cb_dmean_5000_it.json",
@@ -398,17 +347,13 @@
         "id_image": "workplace_562537"
       }
     ],
-    "hash_code_list_img": "756781504",
-    "list_definition_mean": [
-      {
-        "mean_english": "chỗ làm việc",
-        "definition": "the office, factory, or other place where people work",
-        "ex_of_definition_list": [
-          "sexual discrimination in the workplace."
-        ]
-      }
+    "hash_code_list_img": "1667388683",
+    "list_example": [
+      "It restricted the scope of his influence outside the workplace by limiting his patronage within it.",
+      "Unfortunately, neither study considered the implications of inflexibility at the workplace on domestic life.",
+      "Similarly, our results show that older workers were less likely than younger workers to acknowledge a need for a workplace accommodation."
     ],
-    "hash_code_list_definition_mean": "2140082731"
+    "hash_code_list_example": "-903331530"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/work_cb_dmean_5000_it.json",
@@ -449,121 +394,23 @@
         "id_image": "work_5966049"
       }
     ],
-    "hash_code_list_img": "-1734449388",
-    "list_definition_mean": [
-      {
-        "mean_english": "nỗ lực",
-        "definition": "effort made in order to achieve or make something",
-        "ex_of_definition_list": [
-          "He has done a lot of work on this project"
-        ]
-      },
-      {
-        "mean_english": "công việc",
-        "definition": "employment",
-        "ex_of_definition_list": [
-          "I cannot find work in this town."
-        ]
-      },
-      {
-        "mean_english": "nhiệm vụ",
-        "definition": "a task or tasks; the thing that one is working on",
-        "ex_of_definition_list": [
-          "Please clear your work off the table."
-        ]
-      },
-      {
-        "mean_english": "tác phẩm",
-        "definition": "a painting, book, piece of music etc",
-        "ex_of_definition_list": [
-          "the works of Van Gogh / Shakespeare/Mozart",
-          "This work was composed in 1816."
-        ]
-      },
-      {
-        "mean_english": "công trình",
-        "definition": "the product or result of a person’s labours/labors",
-        "ex_of_definition_list": [
-          "His work has shown a great improvement lately."
-        ]
-      },
-      {
-        "mean_english": "nơi làm việc",
-        "definition": "one’s place of employment",
-        "ex_of_definition_list": [
-          "He left (his) work at 5.30 p.m.",
-          "I don’t think I’ll go to work tomorrow."
-        ]
-      },
-      {
-        "mean_english": "làm việc",
-        "definition": "to (cause to) make efforts in order to achieve or make something",
-        "ex_of_definition_list": [
-          "She works at the factory three days a week",
-          "He works his employees very hard",
-          "I’ve been working on/at a new project."
-        ]
-      },
-      {
-        "mean_english": "có việc làm",
-        "definition": "to be employed",
-        "ex_of_definition_list": [
-          "Are you working just now?"
-        ]
-      },
-      {
-        "mean_english": "hoạt động",
-        "definition": "to (cause to) operate (in the correct way)",
-        "ex_of_definition_list": [
-          "He has no idea how that machine works / how to work that machine",
-          "That machine doesn’t/won’t work, but this one’s working."
-        ]
-      },
-      {
-        "mean_english": "thành công",
-        "definition": "to be practicable and/or successful",
-        "ex_of_definition_list": [
-          "If my scheme works, we’ll be rich!"
-        ]
-      },
-      {
-        "mean_english": "vượt qua được",
-        "definition": "to make (one’s way) slowly and carefully with effort or difficulty",
-        "ex_of_definition_list": [
-          "She worked her way up the rock face."
-        ]
-      },
-      {
-        "mean_english": "trở nên",
-        "definition": "to get into, or put into, a stated condition or position, slowly and gradually",
-        "ex_of_definition_list": [
-          "The wheel worked loose."
-        ]
-      },
-      {
-        "mean_english": "chế tác",
-        "definition": "to make by craftsmanship",
-        "ex_of_definition_list": [
-          "The ornaments had been worked in gold."
-        ]
-      },
-      {
-        "mean_english": "tác phẩm",
-        "definition": "(the art of making) goods of a particular material",
-        "ex_of_definition_list": [
-          "He learns woodwork at school",
-          "This shop sells basketwork."
-        ]
-      },
-      {
-        "mean_english": "phần",
-        "definition": "parts of something, eg a building, made of a particular material",
-        "ex_of_definition_list": [
-          "The stonework/woodwork/paintwork needs to be renewed."
-        ]
-      }
+    "hash_code_list_img": "-79584762",
+    "list_example": [
+      "He has done a lot of work on this project",
+      "I cannot find work in this town.",
+      "Please clear your work off the table.",
+      "This work was composed in 1816.",
+      "His work has shown a great improvement lately.",
+      "He left (his) work at 5.30 p.m.",
+      "I don’t think I’ll go to work tomorrow.",
+      "He has no idea how that machine works / how to work that machine",
+      "He learns woodwork at school",
+      "The stonework/woodwork/paintwork needs to be renewed.",
+      "The early excitement for this work has been replaced by considerably more caution.",
+      "Servants were gradually replaced by other types of labour with work duties as crofters or different types of paid workers.",
+      "The work represents the product of two workshops, held in 2004 and 2005."
     ],
-    "hash_code_list_definition_mean": "1598566830"
+    "hash_code_list_example": "1439877542"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/worldwide_cb_dmean_5000_it.json",
@@ -591,18 +438,16 @@
         "id_image": "worldwide_230604"
       }
     ],
-    "hash_code_list_img": "615209708",
-    "list_definition_mean": [
-      {
-        "mean_english": "toàn thế giới",
-        "definition": "(extending over or found) everywhere in the world",
-        "ex_of_definition_list": [
-          "a worldwide sales network",
-          "Their products are sold worldwide."
-        ]
-      }
+    "hash_code_list_img": "186088534",
+    "list_example": [
+      "a worldwide sales network",
+      "The estimates for actual losses due to pathogens, viruses, animal pests and weeds worldwide totalled 14, 7, 11 and 8 %, respectively.",
+      "There has been much discussion worldwide about the safest and most efficient ways of clearing landmines.",
+      "Probably, in species with a worldwide distribution, genetic changes may occur as populations adapt to new regions.",
+      "This was accompanied by a greater interaction worldwide between musicians from the 'free improv' and 'new music' scenes.",
+      "Organic farming worldwide 2007 overview and main statistics."
     ],
-    "hash_code_list_definition_mean": "6085530"
+    "hash_code_list_example": "-2104977670"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/world_cb_dmean_5000_it.json",
@@ -636,61 +481,18 @@
         "id_image": "world_439956"
       }
     ],
-    "hash_code_list_img": "-1465036544",
-    "list_definition_mean": [
-      {
-        "mean_english": "Thế giới",
-        "definition": "the planet Earth",
-        "ex_of_definition_list": [
-          "every country of the world."
-        ]
-      },
-      {
-        "mean_english": "nhân loại",
-        "definition": "the people who live on the planet Earth",
-        "ex_of_definition_list": [
-          "The whole world is waiting for a cure for cancer."
-        ]
-      },
-      {
-        "mean_english": "vũ trụ",
-        "definition": "any planet etc",
-        "ex_of_definition_list": [
-          "people from other worlds."
-        ]
-      },
-      {
-        "mean_english": "trần gian",
-        "definition": "a state of existence",
-        "ex_of_definition_list": [
-          "Many people believe that after death the soul enters the next world",
-          "Do concentrate! You seem to be living in another world."
-        ]
-      },
-      {
-        "mean_english": "việc đời",
-        "definition": "an area of life or activity",
-        "ex_of_definition_list": [
-          "the insect world",
-          "the world of the international businessman."
-        ]
-      },
-      {
-        "mean_english": "nhiều",
-        "definition": "a great deal",
-        "ex_of_definition_list": [
-          "The holiday did him a/the world of good."
-        ]
-      },
-      {
-        "mean_english": "thiên hạ",
-        "definition": "the lives and ways of ordinary people",
-        "ex_of_definition_list": [
-          "He’s been a monk for so long that he knows nothing of the (outside) world."
-        ]
-      }
+    "hash_code_list_img": "-1166307997",
+    "list_example": [
+      "The whole world is waiting for a cure for cancer.",
+      "the world of the international businessman.",
+      "The holiday did him a/the world of good.",
+      "For even if features of the world were literally represented in brains/ minds, these representations would not explain cognition.",
+      "The use of parody enables the external world to 'enter' and disrupt the otherwise 'purely musical' discourse.",
+      "The brain learns abstract representations of the world and then learns the optimal mappings between them.",
+      "Making buildings requires knowledge not only in the world of information exchange, but in the world of making things.",
+      "I think the ascetic world reinforced my feeling that they were important."
     ],
-    "hash_code_list_definition_mean": "-660415168"
+    "hash_code_list_example": "-953231438"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/worm_cb_dmean_5000_it.json",
@@ -715,24 +517,11 @@
         "id_image": "worm_350973"
       }
     ],
-    "hash_code_list_img": "-493712602",
-    "list_definition_mean": [
-      {
-        "mean_english": "luồn vào",
-        "definition": "to make (one’s way) slowly or secretly",
-        "ex_of_definition_list": [
-          "He wormed his way to the front of the crowd."
-        ]
-      },
-      {
-        "mean_english": "moi tin",
-        "definition": "to get (information etc) with difficulty (out of someone)",
-        "ex_of_definition_list": [
-          "It took me hours to worm the true story out of him."
-        ]
-      }
+    "hash_code_list_img": "1613477652",
+    "list_example": [
+      "It took me hours to worm the true story out of him."
     ],
-    "hash_code_list_definition_mean": "-754893511"
+    "hash_code_list_example": "-1452262185"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/worry_cb_dmean_5000_it.json",
@@ -753,34 +542,15 @@
         "id_image": "worry_2472934"
       }
     ],
-    "hash_code_list_img": "890563135",
-    "list_definition_mean": [
-      {
-        "mean_english": "khiến ai lo lắng",
-        "definition": "to (cause to) feel anxious",
-        "ex_of_definition_list": [
-          "His dangerous driving worries me",
-          "His mother is worried about his education",
-          "There’s no need to worry just because he’s late."
-        ]
-      },
-      {
-        "mean_english": "làm phiền",
-        "definition": "to annoy; to distract",
-        "ex_of_definition_list": [
-          "Don’t worry me just now – I’m busy!"
-        ]
-      },
-      {
-        "mean_english": "mối lo lắng",
-        "definition": "(a cause of) anxiety",
-        "ex_of_definition_list": [
-          "That boy is a constant (source of) worry to his mother!",
-          "Try to forget your worries."
-        ]
-      }
+    "hash_code_list_img": "231989762",
+    "list_example": [
+      "There’s no need to worry just because he’s late.",
+      "Don’t worry me just now – I’m busy!",
+      "That boy is a constant (source of) worry to his mother!",
+      "On the face of it, this worry also creates serious difficulties for deliberative democracy.",
+      "Yet the fact that we cannot draw any firm policy conclusions at this stage should not worry us unduly."
     ],
-    "hash_code_list_definition_mean": "-2055759513"
+    "hash_code_list_example": "-1607613318"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/worship_cb_dmean_5000_it.json",
@@ -810,32 +580,12 @@
         "id_image": "worship_594728"
       }
     ],
-    "hash_code_list_img": "411148572",
-    "list_definition_mean": [
-      {
-        "mean_english": "thờ",
-        "definition": "to pay great honour/honor to",
-        "ex_of_definition_list": [
-          "People go to church in order to worship God."
-        ]
-      },
-      {
-        "mean_english": "tôn sùng",
-        "definition": "to love or admire very greatly",
-        "ex_of_definition_list": [
-          "She worships her older brother."
-        ]
-      },
-      {
-        "mean_english": "sự thờ phụng",
-        "definition": "the act of worshipping",
-        "ex_of_definition_list": [
-          "A church is a place of worship",
-          "the worship of God / of money."
-        ]
-      }
+    "hash_code_list_img": "-2055738582",
+    "list_example": [
+      "People go to church in order to worship God.",
+      "the worship of God / of money."
     ],
-    "hash_code_list_definition_mean": "1204319767"
+    "hash_code_list_example": "1653376708"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/worth_cb_dmean_5000_it.json",
@@ -860,33 +610,22 @@
         "id_image": "worth_4834034"
       }
     ],
-    "hash_code_list_img": "1916468773",
-    "list_definition_mean": [
-      {
-        "mean_english": "giá trị",
-        "definition": "value",
-        "ex_of_definition_list": [
-          "These books are of little or no worth",
-          "She sold fifty dollars’ worth of tickets."
-        ]
-      },
-      {
-        "mean_english": "đáng giá",
-        "definition": "equal in value to",
-        "ex_of_definition_list": [
-          "Each of these stamps is worth a cent."
-        ]
-      },
-      {
-        "mean_english": "đáng",
-        "definition": "good enough for",
-        "ex_of_definition_list": [
-          "His suggestion is worth considering",
-          "The exhibition is well worth a visit."
-        ]
-      }
+    "hash_code_list_img": "-1772443522",
+    "list_example": [
+      "She sold fifty dollars’ worth of tickets.",
+      "Each of these stamps is worth a cent.",
+      "His suggestion is worth considering",
+      "The exhibition is well worth a visit.",
+      "It is also worth pointing out that it is not simply the number of features that is the key to successful classification.",
+      "The 'could' in the first sentence is worth noting but, passing quickly over this point, the 10 per cent figure seems arbitrary, at best.",
+      "For a quick overview, it may be worth skimming 2-4.",
+      "It is worth emphasising that without delayed instantiation, rebinding in these examples would not be possible.",
+      "Its implications are worth considering, particularly in the light of the post-processualist rush to embrace alternative, indigenous voices throughout the world.",
+      "This is not the only possible interpretation of these facts, but it is a possible one, and one worth considering.",
+      "To illustrate why transposition is the best explanation of this phenomenon, it is worth considering a range of possible solutions.",
+      "However, it is worth noting that this value remains zero for the simulations in which only 20% of the samples are corrupted by noise."
     ],
-    "hash_code_list_definition_mean": "1892289726"
+    "hash_code_list_example": "306702670"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wound_cb_dmean_5000_it.json",
@@ -911,33 +650,11 @@
         "id_image": "wound_4236974"
       }
     ],
-    "hash_code_list_img": "-538589841",
-    "list_definition_mean": [
-      {
-        "mean_english": "vết thương",
-        "definition": "a physical hurt or injury",
-        "ex_of_definition_list": [
-          "The wound that he had received in the war still gave him pain occasionally",
-          "He died from a bullet-wound."
-        ]
-      },
-      {
-        "mean_english": "làm bị thương",
-        "definition": "to hurt or injure physically",
-        "ex_of_definition_list": [
-          "He didn’t kill the animal – he just wounded it",
-          "He was wounded in the battle."
-        ]
-      },
-      {
-        "mean_english": "làm tổn thương",
-        "definition": "to hurt (someone’s feelings)",
-        "ex_of_definition_list": [
-          "Her pride was wounded when she fell off the horse."
-        ]
-      }
+    "hash_code_list_img": "-2006042013",
+    "list_example": [
+      "The wound that he had received in the war still gave him pain occasionally"
     ],
-    "hash_code_list_definition_mean": "-1054373222"
+    "hash_code_list_example": "-1155848621"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wrapper_cb_dmean_5000_it.json",
@@ -960,17 +677,19 @@
         "id_image": "wrapping_2403461"
       }
     ],
-    "hash_code_list_img": "1599230355",
-    "list_definition_mean": [
-      {
-        "mean_english": "giấy bọc",
-        "definition": "a paper cover for a sweet, packet of cigarettes etc",
-        "ex_of_definition_list": [
-          "a sweet wrapper."
-        ]
-      }
+    "hash_code_list_img": "618540925",
+    "list_example": [
+      "a sweet wrapper.",
+      "The higher denominations franked wrappers of bundles of newspapers and were frequently discarded.",
+      "Other examples were quoted, including what appeared to be bars of chocolate in a sweet-shop window but were in reality chocolate wrappers put around blocks of wood.",
+      "When she is not found reading a book, she can be found reading candy wrappers, coupons and old receipts.",
+      "The disposal of hay and straw used in packing imported goods, and of imported meat wrappers and containers, is also regulated.",
+      "Interoperability between agents is ensured by a wrapper.",
+      "Selective sieves or discarded wrappers ?",
+      "If we put the punnets into cellophane wrappers the strawberries deteriorate, and we are worse off than we were.",
+      "Following a few cases of delay in delivery the wrappers enclosing the mail are now being specially marked."
     ],
-    "hash_code_list_definition_mean": "949292394"
+    "hash_code_list_example": "1689468602"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wrap_cb_dmean_5000_it.json",
@@ -1005,25 +724,21 @@
         "id_image": "wrap_2923199"
       }
     ],
-    "hash_code_list_img": "-667892066",
-    "list_definition_mean": [
-      {
-        "mean_english": "gói lại",
-        "definition": "to roll or fold (round something or someone)",
-        "ex_of_definition_list": [
-          "He wrapped his handkerchief round his bleeding finger."
-        ]
-      },
-      {
-        "mean_english": "quấn",
-        "definition": "to cover by folding or winding something round",
-        "ex_of_definition_list": [
-          "She wrapped the book (up) in brown paper",
-          "She wrapped the baby up in a warm shawl."
-        ]
-      }
+    "hash_code_list_img": "-589451266",
+    "list_example": [
+      "He wrapped his handkerchief round his bleeding finger.",
+      "She wrapped the book (up) in brown paper",
+      "She wrapped the baby up in a warm shawl.",
+      "Dishes were wrapped with plastic film to reduce the rate of water loss.",
+      "The collecting tubes in the cercarial body are composed of cells that are wrapped around the lumen.",
+      "The cocoon was covered with shrink-wrapped plastic, and wrapped with masking tape to form the spool.",
+      "The shape and size of the central object suggest that it is a stela, and it appears to be wrapped with bands of tied cloth.",
+      "Like the proximal capillaries, they were composed of large flattened cells wrapped around the lumen.",
+      "We can explain the discipline in terms of solidity, and assume that human agency wraps itself around the real.",
+      "A wrapped operation also calls the old operation, and wraps the result into a node with a new identity tag.",
+      "Two layers of flannel were wrapped round the cylinder and the seam pulled tight."
     ],
-    "hash_code_list_definition_mean": "-255218013"
+    "hash_code_list_example": "1252658674"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wrath_cb_dmean_5000_it.json",
@@ -1041,17 +756,16 @@
         "id_image": "wrath_1805160"
       }
     ],
-    "hash_code_list_img": "1764032418",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự phẫn nộ",
-        "definition": "violent anger",
-        "ex_of_definition_list": [
-          "The show drew the wrath of many critics."
-        ]
-      }
+    "hash_code_list_img": "589058621",
+    "list_example": [
+      "The show drew the wrath of many critics.",
+      "Sentences like these seem entirely normal nowadays but were the targets of puristic wrath in the nineteenth century.",
+      "Having tried in vain to defuse the situation and avoid a confrontation, the officials withdrew and left the royal representatives to face the wrath of the people.",
+      "Consequently, the government is under considerable pressure to provide or face the wrath of this frustrated body of citizens.",
+      "Indeed, it drew upon the full wrath of the workers upon the jobber.",
+      "But ulema do not prohibit it as they fear the wrath of men."
     ],
-    "hash_code_list_definition_mean": "1954526416"
+    "hash_code_list_example": "-1757630910"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wreath_cb_dmean_5000_it.json",
@@ -1075,24 +789,14 @@
         "id_image": "wreath_6280076"
       }
     ],
-    "hash_code_list_img": "297993245",
-    "list_definition_mean": [
-      {
-        "mean_english": "vòng hoa",
-        "definition": "a circular garland of flowers or leaves, placed at a grave, or put on someone’s shoulders or head after his/her victory etc",
-        "ex_of_definition_list": [
-          "We put a wreath of flowers on her mother’s grave."
-        ]
-      },
-      {
-        "mean_english": "luồng khói",
-        "definition": "a drift or curl of smoke, mist etc",
-        "ex_of_definition_list": [
-          "wreaths of smoke."
-        ]
-      }
+    "hash_code_list_img": "530814349",
+    "list_example": [
+      "We put a wreath of flowers on her mother’s grave.",
+      "If a member can produce 12 silver medals, he will be entertained at the expense of the society, and a wreath will be placed around his neck.",
+      "I fear that it may prove to be a wreath of nettles.",
+      "We are the two survivors who may put that laurel wreath round our brows."
     ],
-    "hash_code_list_definition_mean": "137042175"
+    "hash_code_list_example": "1534694675"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wrench_cb_dmean_5000_it.json",
@@ -1118,24 +822,13 @@
         "id_image": "wrench_2137963"
       }
     ],
-    "hash_code_list_img": "1130226851",
-    "list_definition_mean": [
-      {
-        "mean_english": "giật mạnh",
-        "definition": "to pull with a violent movement",
-        "ex_of_definition_list": [
-          "He wrenched the gun out of her hand."
-        ]
-      },
-      {
-        "mean_english": "trật khớp",
-        "definition": "to sprain",
-        "ex_of_definition_list": [
-          "I wrenched my shoulder moving furniture about."
-        ]
-      }
+    "hash_code_list_img": "-1454208341",
+    "list_example": [
+      "This means that any external wrench can be compensated by positive tensions in the wires, and so the positioning point belongs to the workspace.",
+      "One notices that each wrench component has a corresponding maximum value within specific and proper configurations.",
+      "The analysis showed that no more coupling relations exist between effort wrench components of the realistic torso during several walking gaits."
     ],
-    "hash_code_list_definition_mean": "2096740072"
+    "hash_code_list_example": "1086116309"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wrestler_cb_dmean_5000_it.json",
@@ -1163,17 +856,14 @@
         "id_image": "wrestler_773365"
       }
     ],
-    "hash_code_list_img": "1640351261",
-    "list_definition_mean": [
-      {
-        "mean_english": "đô vật",
-        "definition": "a person who takes part in the sport of wrestling",
-        "ex_of_definition_list": [
-          "a professional wrestler."
-        ]
-      }
+    "hash_code_list_img": "314706738",
+    "list_example": [
+      "The wrestler who wins the most matches over the fifteen days wins the tournament championship (\"ysh\") for his division.",
+      "Married with four children, he makes his living by selling vegetables; he stopped his training as a wrestler for economic reasons.",
+      "For example a wrestler using an illegal technique (or \"kinjite\") automatically loses, as does one whose \"mawashi\" (or belt) becomes completely undone.",
+      "Which wrestler was it that the group of tourists photographed?"
     ],
-    "hash_code_list_definition_mean": "2041836005"
+    "hash_code_list_example": "-1307798805"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wrinkle_cb_dmean_5000_it.json",
@@ -1202,24 +892,20 @@
         "id_image": "wrinkle_5220715"
       }
     ],
-    "hash_code_list_img": "2121466316",
-    "list_definition_mean": [
-      {
-        "mean_english": "vết nhăn",
-        "definition": "a small crease on the skin (usually on one’s face)",
-        "ex_of_definition_list": [
-          "Her face is full of wrinkles."
-        ]
-      },
-      {
-        "mean_english": "xuất hiện vết nhăn",
-        "definition": "to (cause to) become full of wrinkles or creases",
-        "ex_of_definition_list": [
-          "The damp had wrinkled the pages."
-        ]
-      }
+    "hash_code_list_img": "1856418801",
+    "list_example": [
+      "Her face is full of wrinkles.",
+      "The damp had wrinkled the pages.",
+      "Poorly preserved but significant specimen with typical bundle-shaped wrinkles superimposing scratch mark patterns on the lobe surfaces.",
+      "The surface of thrombus was uneven and wrinkled in some portions.",
+      "She is described as having wrinkled skin, lifeless eyes, and white hair.",
+      "At that same moment, an extremely old woman, with wrinkles and warts on her crooked nose, enters the caf.",
+      "The lack of wrinkles though is not in accordance with reality, as video footage from the same era proves, but they are a creation of skilful digital image-editing.",
+      "The elongated grooves and wrinkles were presumably produced by dehydration.",
+      "They reveal interesting wrinkles on the surface of the orthodox piety which the priests sought to project through saints' lives and moral exempla.",
+      "Despite the increasing numbers of elderly subjects in society, the characteristic changes of old age such as the presence of wrinkles and grey hair still carry social stigma."
     ],
-    "hash_code_list_definition_mean": "322448584"
+    "hash_code_list_example": "1311378253"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wrist_cb_dmean_5000_it.json",
@@ -1247,17 +933,16 @@
         "id_image": "wrist_5726860"
       }
     ],
-    "hash_code_list_img": "1714915782",
-    "list_definition_mean": [
-      {
-        "mean_english": "cổ tay",
-        "definition": "the (part of the arm at the) joint between hand and forearm",
-        "ex_of_definition_list": [
-          "I can’t play tennis – I’ve hurt my wrist."
-        ]
-      }
+    "hash_code_list_img": "-1877128794",
+    "list_example": [
+      "Most prosthesis designs only allow longitudinal wrist rotation and a pinch grasp opposing \"thumb\" and \"fingers\", excluding co-ordinated multi-joint movements.",
+      "Figure 5 shows the estimated and measured shoulder, elbow and wrist joints angles for four different movement velocities.",
+      "The performances of an ideal wrist would be constant and independent of its configuration.",
+      "In the upper extremities, wrist and finger extensors and deltoids were the most affected muscles.",
+      "Patients sat y32 cm from the ionizer and wore a grounded wrist strap to maximize ion flow toward the body.",
+      "Lower limbs are affected more than upper limbs, but foot and wrist drop, distal muscle weakness and wasting may be noted."
     ],
-    "hash_code_list_definition_mean": "25999333"
+    "hash_code_list_example": "6676562"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/writer_cb_dmean_5000_it.json",
@@ -1280,18 +965,11 @@
         "id_image": "writer_2653927"
       }
     ],
-    "hash_code_list_img": "-1780892378",
-    "list_definition_mean": [
-      {
-        "mean_english": "tác giả",
-        "definition": "a person who writes, especially for a living",
-        "ex_of_definition_list": [
-          "Dickens was a famous English writer",
-          "the writer of this letter."
-        ]
-      }
+    "hash_code_list_img": "-1330291392",
+    "list_example": [
+      "the writer of this letter."
     ],
-    "hash_code_list_definition_mean": "406201004"
+    "hash_code_list_example": "-896231440"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/write_cb_dmean_5000_it.json",
@@ -1321,35 +999,12 @@
         "id_image": "write_878563"
       }
     ],
-    "hash_code_list_img": "-1574456222",
-    "list_definition_mean": [
-      {
-        "mean_english": "viết",
-        "definition": "to draw (letters or other forms of script) on a surface, especially with a pen or pencil on paper",
-        "ex_of_definition_list": [
-          "They wrote their names on a sheet of paper",
-          "The child has learned to read and write",
-          "Please write in ink."
-        ]
-      },
-      {
-        "mean_english": "viết sách",
-        "definition": "to compose the text of (a book, poem etc)",
-        "ex_of_definition_list": [
-          "She wrote a book about dinosaurs."
-        ]
-      },
-      {
-        "mean_english": "viết thư",
-        "definition": "to compose a letter (and send it)",
-        "ex_of_definition_list": [
-          "He has written a letter to me about this matter",
-          "I’ll write you a long letter about my holiday",
-          "I wrote to you last week."
-        ]
-      }
+    "hash_code_list_img": "-75300762",
+    "list_example": [
+      "Please write in ink.",
+      "I’ll write you a long letter about my holiday"
     ],
-    "hash_code_list_definition_mean": "-827920693"
+    "hash_code_list_example": "1700792691"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wrong_cb_dmean_5000_it.json",
@@ -1389,67 +1044,22 @@
         "id_image": "wrong_5705495"
       }
     ],
-    "hash_code_list_img": "2087022911",
-    "list_definition_mean": [
-      {
-        "mean_english": "sai",
-        "definition": "having an error or mistake(s); incorrect",
-        "ex_of_definition_list": [
-          "The child gave the wrong answer",
-          "We went in the wrong direction."
-        ]
-      },
-      {
-        "mean_english": "nhầm",
-        "definition": "incorrect in one’s answer(s), opinion(s) etc; mistaken",
-        "ex_of_definition_list": [
-          "I thought Singapore was south of the Equator, but I was quite wrong."
-        ]
-      },
-      {
-        "mean_english": "không đúng đắn về đạo lý",
-        "definition": "not good, not morally correct etc",
-        "ex_of_definition_list": [
-          "It is wrong to steal."
-        ]
-      },
-      {
-        "mean_english": "không phù hợp",
-        "definition": "not suitable",
-        "ex_of_definition_list": [
-          "He’s the wrong man for the job."
-        ]
-      },
-      {
-        "mean_english": "có vấn đề",
-        "definition": "not right; not normal",
-        "ex_of_definition_list": [
-          "There’s something wrong with this engine",
-          "What’s wrong with that child – why is she crying?"
-        ]
-      },
-      {
-        "mean_english": "không đúng",
-        "definition": "incorrectly",
-        "ex_of_definition_list": [
-          "I think I may have spelt her name wrong."
-        ]
-      },
-      {
-        "mean_english": "điều sai trái",
-        "definition": "that which is not morally correct",
-        "ex_of_definition_list": [
-          "He does not know right from wrong."
-        ]
-      },
-      {
-        "mean_english": "đổ tiếng xấu",
-        "definition": "to insult or hurt unjustly",
-        "ex_of_definition_list": [
-          "You wrong me by suggesting that I’m lying."
-        ]
-      }
+    "hash_code_list_img": "481200652",
+    "list_example": [
+      "The child gave the wrong answer",
+      "We went in the wrong direction.",
+      "It is wrong to steal.",
+      "He’s the wrong man for the job.",
+      "There’s something wrong with this engine",
+      "What’s wrong with that child – why is she crying?",
+      "You wrong me by suggesting that I’m lying.",
+      "I argued above that whether an eternal punishment is disproportionate to a finite wrong depends on the qualitative characteristics of the punishment.",
+      "However, even if widespread neolithic societies did share a common set of problems it would be wrong to assume a common symbolic discourse.",
+      "Population extinctions resulting in endemism (sole occurrence in a locality or nation) in the wrong country can be the forerunner of species extinctions.",
+      "Some pupils spotted wrong notes that had not been edited out.",
+      "According to this proposal, to be wrong is to be forbidden by a set of principles no one could reasonably reject (p. 153).",
+      "Perhaps they simply got the wrong biological antagonist."
     ],
-    "hash_code_list_definition_mean": "-565717908"
+    "hash_code_list_example": "1787688024"
   }
 ]

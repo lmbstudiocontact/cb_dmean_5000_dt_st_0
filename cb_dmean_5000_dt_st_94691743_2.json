@@ -15,17 +15,15 @@
         "id_image": "equator_992267"
       }
     ],
-    "hash_code_list_img": "887421784",
-    "list_definition_mean": [
-      {
-        "mean_english": "xích đạo",
-        "definition": "(with the) an imaginary line (or one drawn on a map etc) passing round the globe, at an equal distance from the North and South poles",
-        "ex_of_definition_list": [
-          "Singapore is almost on the equator."
-        ]
-      }
+    "hash_code_list_img": "1082538015",
+    "list_example": [
+      "Along the eye equator the sensitivity is slightly reduced towards the caudal response field.",
+      "This fluid flows around the sphere equator and is ejected as a jet, followed by a vortex jump, into the downstream slug.",
+      "The equator is an imaginary line which goes from east to west.",
+      "They may break at the equator during preparation.",
+      "Contrary to initial expectation, none of our simulated planets exhibited permanent ice sheets near the equator at high obliquity."
     ],
-    "hash_code_list_definition_mean": "1738750315"
+    "hash_code_list_example": "574626453"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/equestrian_cb_dmean_5000_it.json",
@@ -48,17 +46,19 @@
         "id_image": "equestrian_3965983"
       }
     ],
-    "hash_code_list_img": "1081763469",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc sự cưỡi ngựa",
-        "definition": "of the art of horse-riding",
-        "ex_of_definition_list": [
-          "equestrian sports."
-        ]
-      }
+    "hash_code_list_img": "-189647713",
+    "list_example": [
+      "equestrian sports.",
+      "Other equestrian sports demonstrate that riding is not an exclusive activity.",
+      "After all, there are many in the equestrian community who abhor fox-hunting but who love riding.",
+      "I want to talk about the second largest industry in the rural sector, which is the equestrian business.",
+      "I hope that, distinguished equestrian sportsman that he is, he will feel satisfied at having cleared his first fence with consummate ease.",
+      "Surely, it is iniquitous to create a division in the equestrian business.",
+      "The same is true of all other aspects of equestrian sports.",
+      "One could think of other circumstances where an equestrian right of way might be very important.",
+      "The equestrian societies are recommending to their members that they buy hats to the new standard."
     ],
-    "hash_code_list_definition_mean": "57665628"
+    "hash_code_list_example": "1371389915"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/equipment_cb_dmean_5000_it.json",
@@ -97,18 +97,16 @@
         "id_image": "equipment_4597340"
       }
     ],
-    "hash_code_list_img": "-1376172734",
-    "list_definition_mean": [
-      {
-        "mean_english": "trang thiết bị",
-        "definition": "the clothes, machines, tools etc necessary for a particular kind of work, activity etc",
-        "ex_of_definition_list": [
-          "The mechanic could not repair the car because he did not have the right equipment",
-          "The boy could not afford the equipment necessary for mountaineering."
-        ]
-      }
+    "hash_code_list_img": "-1161400332",
+    "list_example": [
+      "The boy could not afford the equipment necessary for mountaineering.",
+      "They reported that exchanging information and exchanging technical equipment were the main reasons for the contact.",
+      "Here despite the similar training, equipment and licensing that is present in all airlines, their safety records vary by a factor of 42.",
+      "As shown in the design decomposition, the drive equipment specialist is responsible for selection and (optionally) assembly of the drive train components.",
+      "Manufacturers must comply with standards intended to make the equipment safe: users must operate equipment in an appropriate and safe manner.",
+      "These cost differences reflect the different hospital equipment policies for reusable equipment (the results when disposable equipment were used were virtually identical)."
     ],
-    "hash_code_list_definition_mean": "1555475431"
+    "hash_code_list_example": "113321237"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/erase_cb_dmean_5000_it.json",
@@ -141,17 +139,11 @@
         "id_image": "erase_5433079"
       }
     ],
-    "hash_code_list_img": "-798243680",
-    "list_definition_mean": [
-      {
-        "mean_english": "tẩy xoá",
-        "definition": "to rub out (pencil marks etc)",
-        "ex_of_definition_list": [
-          "I tried to erase the error."
-        ]
-      }
+    "hash_code_list_img": "-1383598533",
+    "list_example": [
+      "I tried to erase the error."
     ],
-    "hash_code_list_definition_mean": "1409402567"
+    "hash_code_list_example": "788437990"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/error_cb_dmean_5000_it.json",
@@ -190,24 +182,20 @@
         "id_image": "error_2879254"
       }
     ],
-    "hash_code_list_img": "-1589341912",
-    "list_definition_mean": [
-      {
-        "mean_english": "lỗi",
-        "definition": "a mistake",
-        "ex_of_definition_list": [
-          "His written work is full of errors."
-        ]
-      },
-      {
-        "mean_english": "có sai số",
-        "definition": "the state of being mistaken",
-        "ex_of_definition_list": [
-          "I did it in error."
-        ]
-      }
+    "hash_code_list_img": "629310901",
+    "list_example": [
+      "His written work is full of errors.",
+      "I did it in error.",
+      "Looking at them another way, we see that there were 34 errors (41 %) in which the environment for feature spreading was present.",
+      "The editorial work of the book is weak, and a number of avoidable errors reached the printing stage.",
+      "In 5.5% of the errors the system has produced a spurious hyphen.",
+      "Also, tools from the quantum chaos community have allowed us to understand certain types of errors that appear with quantum computers.",
+      "The computed errors from the procedures differ in two key respects.",
+      "They sometimes cause errors while analyzing nominal compounds since two or more words often serve as a single unit of meaning in them.",
+      "To begin, a linear model with a lag structure such that the errors can be assumed to be free from autocorrelation is selected.",
+      "Moreover, while marking mechanical errors can be frustrating, the view that there is no direct connection between correction and learning is greatly overstated."
     ],
-    "hash_code_list_definition_mean": "-1073248273"
+    "hash_code_list_example": "1447384217"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/escape_cb_dmean_5000_it.json",
@@ -234,49 +222,19 @@
         "id_image": "escape_2456288"
       }
     ],
-    "hash_code_list_img": "-1076362288",
-    "list_definition_mean": [
-      {
-        "mean_english": "trốn thoát",
-        "definition": "to gain freedom",
-        "ex_of_definition_list": [
-          "He escaped from prison."
-        ]
-      },
-      {
-        "mean_english": "tránh được",
-        "definition": "to manage to avoid (punishment, disease etc)",
-        "ex_of_definition_list": [
-          "She was lucky to escape punishment."
-        ]
-      },
-      {
-        "mean_english": "bị bỏ sót",
-        "definition": "to avoid being noticed or remembered by; to avoid (the observation of)",
-        "ex_of_definition_list": [
-          "The fact escaped me / my notice",
-          "His name escapes me / my memory."
-        ]
-      },
-      {
-        "mean_english": "thoát ra",
-        "definition": "(of a gas, liquid etc) to leak; to find a way out",
-        "ex_of_definition_list": [
-          "Gas was escaping from a hole in the pipe."
-        ]
-      },
-      {
-        "mean_english": "sự trốn thoát",
-        "definition": "(act of) escaping; state of having escaped",
-        "ex_of_definition_list": [
-          "Make your escape while the guard is away",
-          "There have been several escapes from that prison",
-          "Escape was impossible",
-          "The explosion was caused by an escape of gas."
-        ]
-      }
+    "hash_code_list_img": "1045046245",
+    "list_example": [
+      "She was lucky to escape punishment.",
+      "Make your escape while the guard is away",
+      "The explosion was caused by an escape of gas.",
+      "I suspect that these escape routes will prove to be a useful addition to our toolkit.",
+      "Since we deal with exactly this kind of objects, we could not escape the inconsistency.",
+      "It protected it by excluding from its realm the cases that seemed to escape multiple concordant testimony.",
+      "The strength of the notion of the cultural biography, in my mind, is that it provides us with a way to escape from these preoccupations.",
+      "This enables them to include many cases that do not require it - such as the elicitation of escape by a conspecific's alarm call.",
+      "The power of critical thoughts was significantly related to wanting to escape from them, feeling trapped by them and wanting to fight them."
     ],
-    "hash_code_list_definition_mean": "1634978272"
+    "hash_code_list_example": "-749674580"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/escort_cb_dmean_5000_it.json",
@@ -295,26 +253,12 @@
         "id_image": "escort_4413363"
       }
     ],
-    "hash_code_list_img": "571663024",
-    "list_definition_mean": [
-      {
-        "mean_english": "đội hộ tống",
-        "definition": "person(s), ship(s) etc accompanying for protection, guidance, courtesy etc",
-        "ex_of_definition_list": [
-          "He offered to be my escort round the city",
-          "The transport supplies were under military/police escort."
-        ]
-      },
-      {
-        "mean_english": "hộ tống",
-        "definition": "to accompany or attend as escort",
-        "ex_of_definition_list": [
-          "He offered to escort her to the dance",
-          "Four police motorcyclists escorted the president’s car along the route."
-        ]
-      }
+    "hash_code_list_img": "1078328638",
+    "list_example": [
+      "He offered to be my escort round the city",
+      "He offered to escort her to the dance"
     ],
-    "hash_code_list_definition_mean": "1658810170"
+    "hash_code_list_example": "916226806"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/espionage_cb_dmean_5000_it.json",
@@ -337,17 +281,15 @@
         "id_image": "espionage_5411109"
       }
     ],
-    "hash_code_list_img": "-1855924612",
-    "list_definition_mean": [
-      {
-        "mean_english": "gián điệp",
-        "definition": "the activity of spying",
-        "ex_of_definition_list": [
-          "He has never been involved in espionage."
-        ]
-      }
+    "hash_code_list_img": "-775586356",
+    "list_example": [
+      "Today this fear has no substance, in that military satellites are better platforms of espionage than the decks of civilian vessels passing through these waters.",
+      "Although ever y state makes espionage against itself a crime, ever y state also practices it toward other, even friendly states.",
+      "This can be interpreted as a drastically reduced form of a more articulated microfoundation of the espionage activity.",
+      "These were an efficient external espionage service4 and the internal activities of the state security organs.",
+      "It is quite impossible to run a counterespionage organisation of this kind without performing acts which are to all intents and purposes espionage."
     ],
-    "hash_code_list_definition_mean": "1526030943"
+    "hash_code_list_example": "-1445171619"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/esplanade_cb_dmean_5000_it.json",
@@ -365,17 +307,17 @@
         "id_image": "esplanade_4430769"
       }
     ],
-    "hash_code_list_img": "368968236",
-    "list_definition_mean": [
-      {
-        "mean_english": "nơi dạo mát",
-        "definition": "a level space for walking or driving especially at the seaside",
-        "ex_of_definition_list": [
-          "Our hotel is on the esplanade and overlooks the sea."
-        ]
-      }
+    "hash_code_list_img": "874303472",
+    "list_example": [
+      "Our hotel is on the esplanade and overlooks the sea.",
+      "Around the monument, there is an esplanade and overlook with permits a panoramic view of nearly the entire city.",
+      "To the west is a little elevated esplanade which forms part of the main square.",
+      "The esplanade is the site of several cafes and restaurants.",
+      "The fountain and esplanade were installed in the early 1870s, becoming leading attractions of the city.",
+      "One is the agricultural land, another is the seaside holiday camp land, and the third will be the foreshore, esplanade and areas of that kind belonging to the local authority.",
+      "The architectural concept also includes an outdoor promenade around the stadium, called the esplanade with a total area of 52 753 m."
     ],
-    "hash_code_list_definition_mean": "1692965841"
+    "hash_code_list_example": "-1542335048"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/espresso_cb_dmean_5000_it.json",
@@ -409,17 +351,15 @@
         "id_image": "espresso_808784"
       }
     ],
-    "hash_code_list_img": "-646505270",
-    "list_definition_mean": [
-      {
-        "mean_english": "một ly cà phê espresso",
-        "definition": "a cup of this type of coffee",
-        "ex_of_definition_list": [
-          "He ordered a double espresso."
-        ]
-      }
+    "hash_code_list_img": "-1379108117",
+    "list_example": [
+      "Home espresso machines have increased in popularity with the general rise of interest in espresso.",
+      "Espresso bars are a type of coffeehouse that specialize in serving espresso and espresso-based drinks.",
+      "The qualification of the provision of a substantial meal would easily include espresso bars and cafés of that kind.",
+      "Peet's primarily retails beans for home brewing, features dark roasts, and did not serve espresso until 1984.",
+      "Some upscale espresso bars even offer alcoholic beverages such as grappa and sambuca."
     ],
-    "hash_code_list_definition_mean": "277024111"
+    "hash_code_list_example": "-1147577403"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/essay_cb_dmean_5000_it.json",
@@ -447,18 +387,11 @@
         "id_image": "essay_3253275"
       }
     ],
-    "hash_code_list_img": "952063914",
-    "list_definition_mean": [
-      {
-        "mean_english": "bài tiểu luận",
-        "definition": "a written composition; a piece of written prose",
-        "ex_of_definition_list": [
-          "The examination consists of four essays",
-          "Write an essay on/about your holiday."
-        ]
-      }
+    "hash_code_list_img": "239423135",
+    "list_example": [
+      "Write an essay on/about your holiday."
     ],
-    "hash_code_list_definition_mean": "597531862"
+    "hash_code_list_example": "928609908"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/essence_cb_dmean_5000_it.json",
@@ -497,24 +430,11 @@
         "id_image": "essence_5305526"
       }
     ],
-    "hash_code_list_img": "-321930578",
-    "list_definition_mean": [
-      {
-        "mean_english": "bản chất",
-        "definition": "the most important part or quality",
-        "ex_of_definition_list": [
-          "Tolerance is the essence of friendship."
-        ]
-      },
-      {
-        "mean_english": "tinh chất",
-        "definition": "a substance obtained from a plant, drug etc",
-        "ex_of_definition_list": [
-          "vanilla essence."
-        ]
-      }
+    "hash_code_list_img": "-1515419817",
+    "list_example": [
+      "Tolerance is the essence of friendship."
     ],
-    "hash_code_list_definition_mean": "506972060"
+    "hash_code_list_example": "-283876980"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/essential_cb_dmean_5000_it.json",
@@ -533,26 +453,12 @@
         "id_image": "essential_1499679"
       }
     ],
-    "hash_code_list_img": "644499484",
-    "list_definition_mean": [
-      {
-        "mean_english": "thiết yếu",
-        "definition": "absolutely necessary",
-        "ex_of_definition_list": [
-          "Strong boots are essential for mountaineering",
-          "It is essential that you arrive punctually."
-        ]
-      },
-      {
-        "mean_english": "yếu tố cần thiết",
-        "definition": "a thing that is fundamental or necessary",
-        "ex_of_definition_list": [
-          "Everyone should learn the essentials of first aid",
-          "Is a television set an essential?"
-        ]
-      }
+    "hash_code_list_img": "980458726",
+    "list_example": [
+      "Strong boots are essential for mountaineering",
+      "It is essential that you arrive punctually."
     ],
-    "hash_code_list_definition_mean": "1602228361"
+    "hash_code_list_example": "-2145528128"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/estate_cb_dmean_5000_it.json",
@@ -577,31 +483,12 @@
         "id_image": "estate_6000800"
       }
     ],
-    "hash_code_list_img": "-1211805163",
-    "list_definition_mean": [
-      {
-        "mean_english": "điền trang",
-        "definition": "a large piece of land owned by one person or a group of people etc",
-        "ex_of_definition_list": [
-          "They have an estate in Ireland."
-        ]
-      },
-      {
-        "mean_english": "khu xây dựng",
-        "definition": "a piece of land developed for building etc",
-        "ex_of_definition_list": [
-          "a housing/industrial estate."
-        ]
-      },
-      {
-        "mean_english": "tài sản",
-        "definition": "a person’s total possessions (property, money etc)",
-        "ex_of_definition_list": [
-          "After Arthur’s death, his estate was divided among his sons."
-        ]
-      }
+    "hash_code_list_img": "955269746",
+    "list_example": [
+      "They have an estate in Ireland.",
+      "After Arthur’s death, his estate was divided among his sons."
     ],
-    "hash_code_list_definition_mean": "-1018025459"
+    "hash_code_list_example": "-594489935"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/esteem_cb_dmean_5000_it.json",
@@ -620,25 +507,12 @@
         "id_image": "esteem_4060932"
       }
     ],
-    "hash_code_list_img": "1844034497",
-    "list_definition_mean": [
-      {
-        "mean_english": "quý trọng",
-        "definition": "to value or respect",
-        "ex_of_definition_list": [
-          "They esteemed him as a prophet."
-        ]
-      },
-      {
-        "mean_english": "sự quý trọng",
-        "definition": "favourable/favorable opinion; respect",
-        "ex_of_definition_list": [
-          "His foolish behaviour/behavior lowered him in my esteem",
-          "He was held in great esteem by his colleagues."
-        ]
-      }
+    "hash_code_list_img": "1045373727",
+    "list_example": [
+      "He was held in great esteem by his colleagues.",
+      "Research efforts to understand the role of mental disorder and stigmatization on the development of self-esteem and self-image continue to be a priority."
     ],
-    "hash_code_list_definition_mean": "925758271"
+    "hash_code_list_example": "484750203"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/estimate_cb_dmean_5000_it.json",
@@ -663,32 +537,11 @@
         "id_image": "estimate_4668446"
       }
     ],
-    "hash_code_list_img": "-1640320455",
-    "list_definition_mean": [
-      {
-        "mean_english": "ước tính",
-        "definition": "to judge size, amount, value etc, especially roughly or without measuring",
-        "ex_of_definition_list": [
-          "He estimated that the journey would take two hours."
-        ]
-      },
-      {
-        "mean_english": "đánh giá",
-        "definition": "to form an idea or judgement of how good etc something is",
-        "ex_of_definition_list": [
-          "I estimated my chances of escape as very good."
-        ]
-      },
-      {
-        "mean_english": "số lượng ước tính",
-        "definition": "a calculation (eg of the probable cost etc of something)",
-        "ex_of_definition_list": [
-          "He gave us an estimate of the cost of repairing the stonework",
-          "a rough estimate."
-        ]
-      }
+    "hash_code_list_img": "1105237121",
+    "list_example": [
+      "He gave us an estimate of the cost of repairing the stonework"
     ],
-    "hash_code_list_definition_mean": "-2113736380"
+    "hash_code_list_example": "-676293184"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/estimation_cb_dmean_5000_it.json",
@@ -711,17 +564,19 @@
         "id_image": "estimation_4098189"
       }
     ],
-    "hash_code_list_img": "956009311",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự đánh giá",
-        "definition": "judgement; opinion",
-        "ex_of_definition_list": [
-          "In my estimation, he is the more gifted artist of the two."
-        ]
-      }
+    "hash_code_list_img": "435851965",
+    "list_example": [
+      "In my estimation, he is the more gifted artist of the two.",
+      "The test strategy that is developed is demanding in terms of the number of estimations needed.",
+      "First, the model developed for the analysis allows for estimations of costs and effects from treatment over the longer term.",
+      "In all estimations, hauling costs are shown to have substantial impacts on coping water demand.",
+      "Temporal aggregation will improve the estimation's reliability by trading off responsiveness.",
+      "The findings of the micro estimations are impressive, though not really surprising given the result of the first volume.",
+      "Moreover, estimations are carried out at any time instant of the robot task accomplishment.",
+      "However, significant differences in key parameter estimations could produce different results and policy implications.",
+      "The detailed findings of our administrative costs estimations are discussed below."
     ],
-    "hash_code_list_definition_mean": "612223961"
+    "hash_code_list_example": "471398155"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/eternity_cb_dmean_5000_it.json",
@@ -741,24 +596,14 @@
         "id_image": "eternity_2196217"
       }
     ],
-    "hash_code_list_img": "415632800",
-    "list_definition_mean": [
-      {
-        "mean_english": "tính vĩnh viễn",
-        "definition": "time without end",
-        "ex_of_definition_list": [
-          "His work will be remembered for eternity."
-        ]
-      },
-      {
-        "mean_english": "vô tận",
-        "definition": "a seemingly endless time",
-        "ex_of_definition_list": [
-          "He waited for an eternity."
-        ]
-      }
+    "hash_code_list_img": "1762049582",
+    "list_example": [
+      "Underlying this motif, therefore, is a dialectical relationship between history and eternity whose interrelationship ultimately redeems time itself.",
+      "One cannot constrain eternity to either the past or the future.",
+      "From this text, one could gain the impression that it is possible for dialectic to prove the eternity or the non-eternity of the world.",
+      "At every moment for the rest of eternity there will be sin that has not been expiated, wrongs that have not been vindicated."
     ],
-    "hash_code_list_definition_mean": "-1828231467"
+    "hash_code_list_example": "-1598374309"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/ethical_cb_dmean_5000_it.json",
@@ -782,24 +627,18 @@
         "id_image": "ethical_3317662"
       }
     ],
-    "hash_code_list_img": "1125933792",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc đạo đức",
-        "definition": "of or concerning morals, justice or duty",
-        "ex_of_definition_list": [
-          "ethical considerations."
-        ]
-      },
-      {
-        "mean_english": "đúng luân thường đạo lý",
-        "definition": "(opposite unethical) morally right",
-        "ex_of_definition_list": [
-          "Would this course of action be ethical?"
-        ]
-      }
+    "hash_code_list_img": "-522992951",
+    "list_example": [
+      "ethical considerations.",
+      "The ethical resources of this society are only now being explored as the concept comes to be debated.",
+      "This is not a straightforward task, since ethical considerations and infrequency of actual shoulder dystocia deliveries limit prospective, comparative study of various manoeuvres.",
+      "Screening programs raise particular ethical issues, since screening involves testing persons who have no symptoms of the condition being searched for.",
+      "As was the case with scientific management, defenders of behavioral psychology made ethical claims, as well as truth claims, in its favor.",
+      "The case was referred to the ethical review committee of the medical faculty.",
+      "The truth-values of first-order ethical statements thus depend on biological facts about how people are constructed.",
+      "The philosophical concept of dependent moral status thus makes a crucial appeal to the ethical principle of beneficence."
     ],
-    "hash_code_list_definition_mean": "-412488760"
+    "hash_code_list_example": "1494418161"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/ethics_cb_dmean_5000_it.json",
@@ -833,17 +672,11 @@
         "id_image": "ethics_4635453"
       }
     ],
-    "hash_code_list_img": "-1494894603",
-    "list_definition_mean": [
-      {
-        "mean_english": "đạo lý",
-        "definition": "rules or principles of behaviour/behavior",
-        "ex_of_definition_list": [
-          "medical ethics."
-        ]
-      }
+    "hash_code_list_img": "891809315",
+    "list_example": [
+      "medical ethics."
     ],
-    "hash_code_list_definition_mean": "1679542727"
+    "hash_code_list_example": "166979422"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/ethnic_cb_dmean_5000_it.json",
@@ -866,17 +699,17 @@
         "id_image": "ethnic_3949433"
       }
     ],
-    "hash_code_list_img": "1836088607",
-    "list_definition_mean": [
-      {
-        "mean_english": "dân tộc",
-        "definition": "of nations or races of mankind or their customs, dress, food etc",
-        "ex_of_definition_list": [
-          "ethnic groups/dances."
-        ]
-      }
+    "hash_code_list_img": "1698615880",
+    "list_example": [
+      "ethnic groups/dances.",
+      "Separate analyses for the individual ethnic groups, however, did not find gender differences among the immigrant groups.",
+      "Coincident with this, however, has been the growth of new classes, organizations, and political alliances that operate within but also cross-cut the two ethnic groups.",
+      "The 1970s and 1980s witnessed revolts and ethnic conflicts drawing on the strength of rural loyalties and discontent.",
+      "Results showed a decline of open-earedness for unconventional music (classical, ethnic and avant-garde music) from grade 1 to 2 (age: 7-8 years).",
+      "There have been several attempts to identify the ethnic background of respondents on the basis of names.",
+      "Internationally and locally, race (and/or ethnic difference) and gender remain crucial aspects of conflicts engendered by, or engendering, migration."
     ],
-    "hash_code_list_definition_mean": "6477515"
+    "hash_code_list_example": "2052709714"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/etiquette_cb_dmean_5000_it.json",
@@ -909,17 +742,12 @@
         "id_image": "etiquette_5074095"
       }
     ],
-    "hash_code_list_img": "-955009418",
-    "list_definition_mean": [
-      {
-        "mean_english": "nghi thức",
-        "definition": "rules for correct or polite behaviour/behavior between people, or within certain professions",
-        "ex_of_definition_list": [
-          "medical/legal etiquette."
-        ]
-      }
+    "hash_code_list_img": "1771171551",
+    "list_example": [
+      "One may choose to ignore etiquette not merely 'for some reason ', but for some reason which one believes to be overriding.",
+      "Even if they have no preference, today's etiquette demands that they choose one so as not to leave the other party at a loss."
     ],
-    "hash_code_list_definition_mean": "1280809850"
+    "hash_code_list_example": "638422706"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/evacuate_cb_dmean_5000_it.json",
@@ -938,24 +766,13 @@
         "id_image": "evacuate_1973154"
       }
     ],
-    "hash_code_list_img": "267969420",
-    "list_definition_mean": [
-      {
-        "mean_english": "di tản",
-        "definition": "to leave or withdraw from (a place), especially because of danger",
-        "ex_of_definition_list": [
-          "The troops evacuated their position because of the enemy’s advance."
-        ]
-      },
-      {
-        "mean_english": "sơ tán",
-        "definition": "to cause (inhabitants etc) to leave a place, especially because of danger",
-        "ex_of_definition_list": [
-          "Children were evacuated from the city to the country during the war."
-        ]
-      }
+    "hash_code_list_img": "800026217",
+    "list_example": [
+      "Let us ignore this difficulty and suppose we can totally evacuate the chamber.",
+      "So to evacuate a closure one simply jumps to its evacuation code, regardless of whether the closure is now a forwarding pointer or not.",
+      "Instead, it was decided to evacuate the personnel by means of an airlift."
     ],
-    "hash_code_list_definition_mean": "796879550"
+    "hash_code_list_example": "1256671149"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/evaluate_cb_dmean_5000_it.json",
@@ -979,24 +796,14 @@
         "id_image": "evaluate_5252596"
       }
     ],
-    "hash_code_list_img": "573809869",
-    "list_definition_mean": [
-      {
-        "mean_english": "đánh giá",
-        "definition": "to form an idea of the worth of",
-        "ex_of_definition_list": [
-          "It is difficult to evaluate him as a writer."
-        ]
-      },
-      {
-        "mean_english": "định giá",
-        "definition": "to work out the numerical value of",
-        "ex_of_definition_list": [
-          "If x = 1 and y = 2 we can evaluate x2 + y2."
-        ]
-      }
+    "hash_code_list_img": "-1778446218",
+    "list_example": [
+      "It is difficult to evaluate him as a writer.",
+      "If x = 1 and y = 2 we can evaluate x2 + y2.",
+      "So we have to evaluate this assumption empirically.",
+      "The conceptual definitions and targeting criteria proposed by this working group should then be tested in large-scale prospective studies to evaluate their predictive value."
     ],
-    "hash_code_list_definition_mean": "1796824108"
+    "hash_code_list_example": "634837870"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/event_cb_dmean_5000_it.json",
@@ -1030,24 +837,12 @@
         "id_image": "event_6079964"
       }
     ],
-    "hash_code_list_img": "-57151163",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự kiện",
-        "definition": "something that happens; an incident or occurrence",
-        "ex_of_definition_list": [
-          "That night a terrible event occurred."
-        ]
-      },
-      {
-        "mean_english": "môn thi đấu",
-        "definition": "an item in a programme of sports etc",
-        "ex_of_definition_list": [
-          "The long jump was to be the third event of the competition."
-        ]
-      }
+    "hash_code_list_img": "1203992397",
+    "list_example": [
+      "That night a terrible event occurred.",
+      "The long jump was to be the third event of the competition."
     ],
-    "hash_code_list_definition_mean": "958496905"
+    "hash_code_list_example": "-2099708152"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/even_cb_dmean_5000_it.json",
@@ -1074,75 +869,24 @@
         "id_image": "even_4557989"
       }
     ],
-    "hash_code_list_img": "1060354958",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngang nhau",
-        "definition": "level; the same in height, amount etc",
-        "ex_of_definition_list": [
-          "Are the table-legs even?",
-          "an even temperature."
-        ]
-      },
-      {
-        "mean_english": "bằng phẳng",
-        "definition": "smooth",
-        "ex_of_definition_list": [
-          "We’ll have to make the path more even."
-        ]
-      },
-      {
-        "mean_english": "đều",
-        "definition": "regular",
-        "ex_of_definition_list": [
-          "He has a strong, even pulse."
-        ]
-      },
-      {
-        "mean_english": "chẵn",
-        "definition": "divisible by 2 with no remainder",
-        "ex_of_definition_list": [
-          "2, 4, 6, 8, 10 etc are even numbers."
-        ]
-      },
-      {
-        "mean_english": "bằng nhau",
-        "definition": "equal (in number, amount etc)",
-        "ex_of_definition_list": [
-          "The teams have scored one goal each and so they are even now."
-        ]
-      },
-      {
-        "mean_english": "điềm đạm",
-        "definition": "calm",
-        "ex_of_definition_list": [
-          "She has a very even temper."
-        ]
-      },
-      {
-        "mean_english": "san bằng",
-        "definition": "to make equal",
-        "ex_of_definition_list": [
-          "Johnson’s goal evened the score."
-        ]
-      },
-      {
-        "mean_english": "thậm chí",
-        "definition": "used to point out something unexpected in what one is saying",
-        "ex_of_definition_list": [
-          "‘Have you finished yet?’ ‘No, I haven’t even started.’",
-          "Even the winner didn’t get a prize."
-        ]
-      },
-      {
-        "mean_english": "mà còn",
-        "definition": "yet; still",
-        "ex_of_definition_list": [
-          "My boots were dirty, but his were even dirtier."
-        ]
-      }
+    "hash_code_list_img": "1898324031",
+    "list_example": [
+      "an even temperature.",
+      "He has a strong, even pulse.",
+      "2, 4, 6, 8, 10 etc are even numbers.",
+      "The teams have scored one goal each and so they are even now.",
+      "She has a very even temper.",
+      "‘Have you finished yet?’ ‘No, I haven’t even started.’",
+      "My boots were dirty, but his were even dirtier.",
+      "Note that even if we rely on purely structural tests, this is a problem.",
+      "But it is of the nature of both art and ghosts, even \"spurious\" ones, to refuse to solve the riddle.",
+      "Qualitative researchers have also recognized the problem of hierarchical, nested levels of context, even if they have not expressed the problem in those terms.",
+      "For even if features of the world were literally represented in brains/ minds, these representations would not explain cognition.",
+      "In organic farming there are even some years with complete crop failures, which must be included in the calculation.",
+      "They follow indigenous rice agronomy, ignoring the use of fertilizers, pesticides and even supplementary feed for the fish reared in the system.",
+      "Another is that competition, even if successful in reducing tariffs, will marginally affect the households bills."
     ],
-    "hash_code_list_definition_mean": "1035870509"
+    "hash_code_list_example": "137538212"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/evidence_cb_dmean_5000_it.json",
@@ -1176,24 +920,20 @@
         "id_image": "evidence_533968"
       }
     ],
-    "hash_code_list_img": "2035016676",
-    "list_definition_mean": [
-      {
-        "mean_english": "bằng chứng",
-        "definition": "information etc that gives reason for believing something; proof (eg in a law case)",
-        "ex_of_definition_list": [
-          "Have you enough evidence (of his guilt) to arrest him?"
-        ]
-      },
-      {
-        "mean_english": "dấu hiệu",
-        "definition": "(an) indication; a sign",
-        "ex_of_definition_list": [
-          "Her bag on the table was the only evidence of her presence."
-        ]
-      }
+    "hash_code_list_img": "-812604054",
+    "list_example": [
+      "Have you enough evidence (of his guilt) to arrest him?",
+      "Her bag on the table was the only evidence of her presence.",
+      "Many of the chapters are narrative-led because, one suspects, the evidence is just so hard to read in these terms.",
+      "There is evidence on both sides of the case.",
+      "One of the main limitations of the current design of this study is that it is impossible to give enough evidence for this relationship.",
+      "We did not find any positive evidence of children's understanding of this link.",
+      "Evaluation evidence is necessary to answer these questions well.",
+      "As a result, children are likely to receive different levels of negative evidence across the five-week testing period.",
+      "Some clinicians prefer to start hormone treatment as soon as there is evidence of local spread or metastatic disease.",
+      "Its evidence then rests on ground we do not enter upon here."
     ],
-    "hash_code_list_definition_mean": "2094924912"
+    "hash_code_list_example": "1589543012"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/evil_cb_dmean_5000_it.json",
@@ -1224,35 +964,19 @@
         "id_image": "evil_5252782"
       }
     ],
-    "hash_code_list_img": "-981161495",
-    "list_definition_mean": [
-      {
-        "mean_english": "xấu xa",
-        "definition": "very bad; wicked; sinful",
-        "ex_of_definition_list": [
-          "evil intentions",
-          "an evil man",
-          "He looks evil",
-          "evil deeds"
-        ]
-      },
-      {
-        "mean_english": "điều xấu",
-        "definition": "wrong-doing, harm or wickedness",
-        "ex_of_definition_list": [
-          "He tries to ignore all the evil in the world",
-          "Do not speak evil of anyone."
-        ]
-      },
-      {
-        "mean_english": "tệ nạn",
-        "definition": "anything evil, eg crime, misfortune etc",
-        "ex_of_definition_list": [
-          "London in the eighteenth century was a place of crime, filth, poverty and other evils."
-        ]
-      }
+    "hash_code_list_img": "1485562491",
+    "list_example": [
+      "evil intentions",
+      "an evil man",
+      "evil deeds",
+      "He tries to ignore all the evil in the world",
+      "Do not speak evil of anyone.",
+      "We may feel that there is just ' too much ' evil in the world, but that judgement is neither well-informed nor objective.",
+      "Of more moment is that there much more moral evil than is needed for the purpose of realizing the good of there being free persons.",
+      "There are many silly, corrupt, or evil practices that would \"cease to exist\" if the participants did not generally comply with certain putative norms.",
+      "That is to say, without evil and suffering many of us would not be who we are."
     ],
-    "hash_code_list_definition_mean": "701089596"
+    "hash_code_list_example": "1161287661"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/evolution_cb_dmean_5000_it.json",
@@ -1281,24 +1005,11 @@
         "id_image": "evolution_5660272"
       }
     ],
-    "hash_code_list_img": "-1532848091",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự tiến triển",
-        "definition": "gradual working out or development",
-        "ex_of_definition_list": [
-          "the evolution of our form of government."
-        ]
-      },
-      {
-        "mean_english": "sự tiến hoá",
-        "definition": "the development of the higher kinds of animals (eg man), plants etc, from the lower kinds",
-        "ex_of_definition_list": [
-          "Darwin’s theory of evolution."
-        ]
-      }
+    "hash_code_list_img": "1084217125",
+    "list_example": [
+      "the evolution of our form of government."
     ],
-    "hash_code_list_definition_mean": "2012977851"
+    "hash_code_list_example": "1498289798"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/ewe_cb_dmean_5000_it.json",
@@ -1316,17 +1027,12 @@
         "id_image": "ewe_616718"
       }
     ],
-    "hash_code_list_img": "1373272871",
-    "list_definition_mean": [
-      {
-        "mean_english": "cừu cái",
-        "definition": "a female sheep",
-        "ex_of_definition_list": [
-          "The ewe had two lambs."
-        ]
-      }
+    "hash_code_list_img": "1485944804",
+    "list_example": [
+      "The ewe had two lambs.",
+      "First luteal tissue in ewe lambs: influence on subsequent ovarian activities and response to hysterectomy."
     ],
-    "hash_code_list_definition_mean": "1230752262"
+    "hash_code_list_example": "-1429979763"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/examination_cb_dmean_5000_it.json",
@@ -1361,28 +1067,11 @@
         "id_image": "examination_883984"
       }
     ],
-    "hash_code_list_img": "-621002669",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự khảo sát",
-        "definition": "(a) close inspection",
-        "ex_of_definition_list": [
-          "The police made a thorough examination of the area where the crime took place",
-          "On examination, the patient was discovered to have appendicitis."
-        ]
-      },
-      {
-        "mean_english": "kỳ thi",
-        "definition": "(also exam) a test of knowledge or ability",
-        "ex_of_definition_list": [
-          "school examinations",
-          "She is going to take a French/dancing exam",
-          "(also adjective) examination/exam papers",
-          "He failed/passed the English exam."
-        ]
-      }
+    "hash_code_list_img": "213322762",
+    "list_example": [
+      "The police made a thorough examination of the area where the crime took place"
     ],
-    "hash_code_list_definition_mean": "572888071"
+    "hash_code_list_example": "1119998504"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/example_cb_dmean_5000_it.json",
@@ -1403,38 +1092,14 @@
         "id_image": "example_1622689"
       }
     ],
-    "hash_code_list_img": "262929560",
-    "list_definition_mean": [
-      {
-        "mean_english": "mẫu",
-        "definition": "something that represents other things of the same kind; a specimen",
-        "ex_of_definition_list": [
-          "an example of his handwriting."
-        ]
-      },
-      {
-        "mean_english": "ví dụ",
-        "definition": "something that shows clearly or illustrates a fact etc",
-        "ex_of_definition_list": [
-          "Can you give me an example of how this word is used?"
-        ]
-      },
-      {
-        "mean_english": "gương",
-        "definition": "a person or thing that is a pattern to be copied",
-        "ex_of_definition_list": [
-          "She was an example to the rest of the class."
-        ]
-      },
-      {
-        "mean_english": "sự làm gương",
-        "definition": "a warning to be heeded",
-        "ex_of_definition_list": [
-          "Let this be an example to you, and never do it again!"
-        ]
-      }
+    "hash_code_list_img": "694541735",
+    "list_example": [
+      "an example of his handwriting.",
+      "Can you give me an example of how this word is used?",
+      "She was an example to the rest of the class.",
+      "Let this be an example to you, and never do it again!"
     ],
-    "hash_code_list_definition_mean": "1669148784"
+    "hash_code_list_example": "1946205421"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/excavator_cb_dmean_5000_it.json",
@@ -1462,17 +1127,19 @@
         "id_image": "excavator_4985228"
       }
     ],
-    "hash_code_list_img": "1462509232",
-    "list_definition_mean": [
-      {
-        "mean_english": "người khai quật",
-        "definition": "a machine or person that excavates",
-        "ex_of_definition_list": [
-          "a mechanical excavator."
-        ]
-      }
+    "hash_code_list_img": "861842773",
+    "list_example": [
+      "a mechanical excavator.",
+      "Three excavators are working at the present time, with great expenditure on what men with any practical knowledge would say will be hopeless as a preventive of erosion and flooding.",
+      "I should have liked him to be much more specific about his figures for excavators.",
+      "Caterpillar's line of machines range from tracked tractors to hydraulic excavators, backhoe loaders, motor graders, off-highway trucks, wheel loaders, agricultural tractors and locomotives.",
+      "Why did the bulldozers and the excavators rush in to clear the ground for the school, but did not start on the houses?",
+      "We did not make the contract for the excavators.",
+      "Other excavators have successfully employed these data i n t heir research strategy.",
+      "The excavators suggest that this concentration of bones in the pit may represent the practice of burial by the inhabitants of the cave.",
+      "One of the excavators promptly broke down and was out of action for several months."
     ],
-    "hash_code_list_definition_mean": "1504325593"
+    "hash_code_list_example": "-361658745"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/excellence_cb_dmean_5000_it.json",
@@ -1500,17 +1167,11 @@
         "id_image": "excellence_6092245"
       }
     ],
-    "hash_code_list_img": "-1105911503",
-    "list_definition_mean": [
-      {
-        "mean_english": "sở trường",
-        "definition": "unusual goodness or worth",
-        "ex_of_definition_list": [
-          "Many of his former students have praised his excellence as a teacher."
-        ]
-      }
+    "hash_code_list_img": "262666025",
+    "list_example": [
+      "Many of his former students have praised his excellence as a teacher."
     ],
-    "hash_code_list_definition_mean": "800523040"
+    "hash_code_list_example": "-1808175193"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/excellent_cb_dmean_5000_it.json",
@@ -1528,17 +1189,18 @@
         "id_image": "excellent_6030483"
       }
     ],
-    "hash_code_list_img": "2100827670",
-    "list_definition_mean": [
-      {
-        "mean_english": "xuất sắc",
-        "definition": "unusually good",
-        "ex_of_definition_list": [
-          "an excellent plan."
-        ]
-      }
+    "hash_code_list_img": "1234059715",
+    "list_example": [
+      "an excellent plan.",
+      "Their broad knowledge and excellent judgement have been invaluable in evaluating and editing manuscripts for the journal over many, many years.",
+      "With this book, and their two earlier reports, they have provided an excellent base upon which future research can build.",
+      "Ultrasonography offers excellent spatial resolution, portability, and lack of ionizing radiation and the need for transport.",
+      "Now however an excellent account has appeared from an unlikely source.",
+      "In summary, counting pitted erythrocytes provides an excellent and quantitative method with which to evaluate splenic function.",
+      "The book provides an excellent introduction for readers new to the area while also providing an important research synthesis for the more expert.",
+      "This is an excellent design for structured precision manipulation, but has deficiencies."
     ],
-    "hash_code_list_definition_mean": "382329751"
+    "hash_code_list_example": "-1034189169"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/exchange_cb_dmean_5000_it.json",
@@ -1578,46 +1240,15 @@
         "id_image": "exchange_642469"
       }
     ],
-    "hash_code_list_img": "-1802291652",
-    "list_definition_mean": [
-      {
-        "mean_english": "đổi",
-        "definition": "to give, or give up, in return for something else",
-        "ex_of_definition_list": [
-          "Can you exchange a dollar note for two 50-cent pieces?"
-        ]
-      },
-      {
-        "mean_english": "trao đổi",
-        "definition": "to give and receive in return",
-        "ex_of_definition_list": [
-          "They exchanged amused glances."
-        ]
-      },
-      {
-        "mean_english": "sự trao đổi",
-        "definition": "the giving and taking of one thing for another",
-        "ex_of_definition_list": [
-          "He gave me a pencil in exchange for the marble",
-          "An exchange of opinions is helpful."
-        ]
-      },
-      {
-        "mean_english": "cuộc tranh cãi",
-        "definition": "a conversation or dispute",
-        "ex_of_definition_list": [
-          "An angry exchange took place between the two brothers when their father’s will was read."
-        ]
-      },
-      {
-        "mean_english": "hối đoái",
-        "definition": "the difference between the value of money in different countries",
-        "ex_of_definition_list": [
-          "What is the rate of exchange between the U.S. dollar and the yen?"
-        ]
-      }
+    "hash_code_list_img": "867942203",
+    "list_example": [
+      "Can you exchange a dollar note for two 50-cent pieces?",
+      "He gave me a pencil in exchange for the marble",
+      "An exchange of opinions is helpful.",
+      "An angry exchange took place between the two brothers when their father’s will was read.",
+      "What is the rate of exchange between the U.S. dollar and the yen?"
     ],
-    "hash_code_list_definition_mean": "1430870162"
+    "hash_code_list_example": "780432441"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/exclamation_cb_dmean_5000_it.json",
@@ -1645,17 +1276,15 @@
         "id_image": "exclamation_594646"
       }
     ],
-    "hash_code_list_img": "-1462467195",
-    "list_definition_mean": [
-      {
-        "mean_english": "thán từ",
-        "definition": "an expression of surprise or other sudden feeling",
-        "ex_of_definition_list": [
-          "He shook his fist in an exclamation of anger."
-        ]
-      }
+    "hash_code_list_img": "-2061890747",
+    "list_example": [
+      "He shook his fist in an exclamation of anger.",
+      "The assertion flag (exclamation mark beside the node) indicates that the system believes that this proposition is true.",
+      "Frequently she uses exclamation marks to emphasize her personal perspective.",
+      "These expressions are often in slogan forms accompanied by exclamation marks.",
+      "An exclamation mark means that the candidate has been eliminated."
     ],
-    "hash_code_list_definition_mean": "58683911"
+    "hash_code_list_example": "110089705"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/exclude_cb_dmean_5000_it.json",
@@ -1685,31 +1314,12 @@
         "id_image": "exclude_4576575"
       }
     ],
-    "hash_code_list_img": "-1986234839",
-    "list_definition_mean": [
-      {
-        "mean_english": "gạt ra",
-        "definition": "to prevent (someone) from sharing or taking part in something",
-        "ex_of_definition_list": [
-          "They excluded her from the meeting."
-        ]
-      },
-      {
-        "mean_english": "không cho vào",
-        "definition": "to shut out; to keep out",
-        "ex_of_definition_list": [
-          "Fill the bottle to the top so as to exclude all air."
-        ]
-      },
-      {
-        "mean_english": "loại trừ",
-        "definition": "to leave out of consideration",
-        "ex_of_definition_list": [
-          "We cannot exclude the possibility that he was lying."
-        ]
-      }
+    "hash_code_list_img": "-2132055349",
+    "list_example": [
+      "Fill the bottle to the top so as to exclude all air.",
+      "We cannot exclude the possibility that he was lying."
     ],
-    "hash_code_list_definition_mean": "2049231266"
+    "hash_code_list_example": "152095253"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/exclusive_cb_dmean_5000_it.json",
@@ -1740,31 +1350,21 @@
         "id_image": "exclusive_5619772"
       }
     ],
-    "hash_code_list_img": "1715733133",
-    "list_definition_mean": [
-      {
-        "mean_english": "dành riêng",
-        "definition": "given to only one individual or group etc",
-        "ex_of_definition_list": [
-          "The story is exclusive to this newspaper."
-        ]
-      },
-      {
-        "mean_english": "độc đáo",
-        "definition": "fashionable and expensive",
-        "ex_of_definition_list": [
-          "exclusive shops/restaurants."
-        ]
-      },
-      {
-        "mean_english": "riêng biệt",
-        "definition": "(of a group etc) not easily or readily mixing with others or allowing others in",
-        "ex_of_definition_list": [
-          "a very exclusive club."
-        ]
-      }
+    "hash_code_list_img": "-1554751905",
+    "list_example": [
+      "The story is exclusive to this newspaper.",
+      "exclusive shops/restaurants.",
+      "a very exclusive club.",
+      "The possible outcomes in the module are both exclusive and exhaustive.",
+      "Likewise, other factors may affect whether one can justifiably give exclusive propositions decisive assent.",
+      "The elements of our descriptive domains are neither mutually exclusive nor independent.",
+      "The national narrative is based on an attempt to maintain an exclusive monopoly over truth, pain, victimhood, justice.",
+      "I think it is clear, however, that these terms are inclusive rather than exclusive in their force.",
+      "In addition to the non-exclusive relationships found, there was also the nature of the discriminating factors to be taken into consideration.",
+      "Based on our findings, perceptual similarity may qualify as a sort of conclusive evidence for two-year-olds that labels do not denote mutually exclusive categories.",
+      "Furthermore, individual liberation and private morality are not mutually exclusive ideals."
     ],
-    "hash_code_list_definition_mean": "-804927311"
+    "hash_code_list_example": "1241618122"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/excrement_cb_dmean_5000_it.json",
@@ -1782,17 +1382,13 @@
         "id_image": "excrement_1111167"
       }
     ],
-    "hash_code_list_img": "1911222153",
-    "list_definition_mean": [
-      {
-        "mean_english": "phân",
-        "definition": "matter, especially solid, discharged from the body; faeces/feces; dung",
-        "ex_of_definition_list": [
-          "The streets are filthy with dogs’ excrement."
-        ]
-      }
+    "hash_code_list_img": "312175057",
+    "list_example": [
+      "Barles considers how growing urban centres in the eighteenth and early nineteenth centuries learned to cope with massive volumes of human and animal excrement and contaminated liquids.",
+      "Dog excrement is to be found on pavements everywhere, on the grass where children play, on the beaches and on the piers.",
+      "In pre-industrial societies urban waste had largely been recycled, with animal and human excrement employed as fertilizer in the surrounding countryside."
     ],
-    "hash_code_list_definition_mean": "5584392"
+    "hash_code_list_example": "-293800602"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/excursion_cb_dmean_5000_it.json",
@@ -1830,17 +1426,11 @@
         "id_image": "excursion_827055"
       }
     ],
-    "hash_code_list_img": "1833611680",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuộc đi chơi",
-        "definition": "a trip; an outing",
-        "ex_of_definition_list": [
-          "an excursion to the seaside."
-        ]
-      }
+    "hash_code_list_img": "350367363",
+    "list_example": [
+      "an excursion to the seaside."
     ],
-    "hash_code_list_definition_mean": "238457577"
+    "hash_code_list_example": "962922954"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/execute_cb_dmean_5000_it.json",
@@ -1860,31 +1450,13 @@
         "id_image": "execute_2654584"
       }
     ],
-    "hash_code_list_img": "54929139",
-    "list_definition_mean": [
-      {
-        "mean_english": "hành quyết",
-        "definition": "to put to death by order of the law",
-        "ex_of_definition_list": [
-          "After the war, many traitors were executed."
-        ]
-      },
-      {
-        "mean_english": "thực hiện",
-        "definition": "to carry out (instructions etc",
-        "ex_of_definition_list": [
-          "The computer’s processor executes the instructions in sequence."
-        ]
-      },
-      {
-        "mean_english": "biểu diễn",
-        "definition": "to perform (a movement etc, usually requiring skill)",
-        "ex_of_definition_list": [
-          "She stopped the car and then executed a three-point turn."
-        ]
-      }
+    "hash_code_list_img": "297785200",
+    "list_example": [
+      "After the war, many traitors were executed.",
+      "The computer’s processor executes the instructions in sequence.",
+      "She stopped the car and then executed a three-point turn."
     ],
-    "hash_code_list_definition_mean": "-892207189"
+    "hash_code_list_example": "-965652323"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/execution_cb_dmean_5000_it.json",
@@ -1913,17 +1485,11 @@
         "id_image": "execution_5661517"
       }
     ],
-    "hash_code_list_img": "524825256",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự hành hình",
-        "definition": "(an act of) killing by law",
-        "ex_of_definition_list": [
-          "The judge ordered the execution of the murderer."
-        ]
-      }
+    "hash_code_list_img": "-2120240910",
+    "list_example": [
+      "The judge ordered the execution of the murderer."
     ],
-    "hash_code_list_definition_mean": "367954048"
+    "hash_code_list_example": "1802774563"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/executive_cb_dmean_5000_it.json",
@@ -1964,31 +1530,20 @@
         "id_image": "executive_6078592"
       }
     ],
-    "hash_code_list_img": "-2109407901",
-    "list_definition_mean": [
-      {
-        "mean_english": "điều hành",
-        "definition": "(in a business organization etc) concerned with management",
-        "ex_of_definition_list": [
-          "executive skills."
-        ]
-      },
-      {
-        "mean_english": "hành pháp",
-        "definition": "concerned with the carrying out of laws etc",
-        "ex_of_definition_list": [
-          "executive powers."
-        ]
-      },
-      {
-        "mean_english": "uỷ viên ban quản trị",
-        "definition": "a person or body of people in an organization etc that has power to direct or manage",
-        "ex_of_definition_list": [
-          "He is an executive in an insurance company."
-        ]
-      }
+    "hash_code_list_img": "-50958467",
+    "list_example": [
+      "executive skills.",
+      "executive powers.",
+      "He is an executive in an insurance company.",
+      "However, medial frontal lesions were related to executive dysfunction, not empathic deficit.",
+      "Other contributing factors may include decline in sensory input (hearing and visual acuity), working memory and executive function.",
+      "Clearly, research efforts need to be directed towards assessing the development of more specific aspects of cognitive functioning, such as executive functions.",
+      "Presidential systems are coded 1 if the populace directly elects the chief executive and 0 otherwise.",
+      "Unlike criminal matters and the policing of trades and markets, religious courts had no executive powers in matters of family law.",
+      "These findings point to an association with wideranging aspects of executive function, including planning and strategy formation, plus evaluating, checking, and monitoring of errors.",
+      "Nor have these changes made the executive branch any more accountable to the popularly elected legislature than it was before."
     ],
-    "hash_code_list_definition_mean": "-1287758586"
+    "hash_code_list_example": "1806325547"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/exercise_cb_dmean_5000_it.json",
@@ -2025,48 +1580,13 @@
         "id_image": "exercise_755258"
       }
     ],
-    "hash_code_list_img": "1763951630",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự tập luyện",
-        "definition": "training or use (especially of the body) through action or effort",
-        "ex_of_definition_list": [
-          "Swimming is one of the healthiest forms of exercise",
-          "Take more exercise."
-        ]
-      },
-      {
-        "mean_english": "bài tập",
-        "definition": "an activity intended as training",
-        "ex_of_definition_list": [
-          "ballet exercises",
-          "spelling exercises."
-        ]
-      },
-      {
-        "mean_english": "huấn luyện",
-        "definition": "a series of tasks, movements etc for training troops etc",
-        "ex_of_definition_list": [
-          "His battalion is on an exercise in the mountains."
-        ]
-      },
-      {
-        "mean_english": "huấn luyện; tập thể dục",
-        "definition": "to train or give exercise to",
-        "ex_of_definition_list": [
-          "Dogs should be exercised frequently",
-          "I exercise every morning."
-        ]
-      },
-      {
-        "mean_english": "sử dụng",
-        "definition": "to use; to make use of",
-        "ex_of_definition_list": [
-          "She was given the opportunity to exercise her skill as a pianist."
-        ]
-      }
+    "hash_code_list_img": "-1185406566",
+    "list_example": [
+      "His battalion is on an exercise in the mountains.",
+      "I exercise every morning.",
+      "She was given the opportunity to exercise her skill as a pianist."
     ],
-    "hash_code_list_definition_mean": "1658428654"
+    "hash_code_list_example": "1035758485"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/exhaustion_cb_dmean_5000_it.json",
@@ -2084,17 +1604,17 @@
         "id_image": "exhaustion_3654834"
       }
     ],
-    "hash_code_list_img": "2143645056",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự kiệt sức",
-        "definition": "the state of being extremely tired",
-        "ex_of_definition_list": [
-          "He collapsed from exhaustion."
-        ]
-      }
+    "hash_code_list_img": "1010480785",
+    "list_example": [
+      "Some stocks may be physically exhausted, but physical exhaustion is not a necessary condition for significant inter-temporal user costs.",
+      "The 70-year old pensioner has to accept substantial probabilities of capital exhaustion within his lifetime relying on an insurance equivalent fund solution.",
+      "As expected, we thus found that the advantage of large seeds persisted in savannas even after exhaustion of the seed reserves.",
+      "The abundance and the eternal youth of nature, for example, both remind the speaker of his internal exhaustion and direct his thoughts to his creator.",
+      "In every case, it said finite reserves of these minerals were approaching exhaustion and prices would rise steeply.",
+      "The drop in milk yield from the seventh month onwards could possibly be explained by exhaustion of the breast tissue.",
+      "Eventually, it seems that sheer exhaustion contributed to the papacy's decision to back down, but even here the peace that was forged was not straightforward."
     ],
-    "hash_code_list_definition_mean": "1625817752"
+    "hash_code_list_example": "353119800"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/exhaust_cb_dmean_5000_it.json",
@@ -2135,32 +1655,22 @@
         "id_image": "exhaust_4694692"
       }
     ],
-    "hash_code_list_img": "-1701172196",
-    "list_definition_mean": [
-      {
-        "mean_english": "làm kiệt sức",
-        "definition": "to make very tired",
-        "ex_of_definition_list": [
-          "She was exhausted by her long walk."
-        ]
-      },
-      {
-        "mean_english": "dốc hết",
-        "definition": "to use all of; to use completely",
-        "ex_of_definition_list": [
-          "We have exhausted our supplies",
-          "You’re exhausting my patience."
-        ]
-      },
-      {
-        "mean_english": "bàn hết mọi mặt",
-        "definition": "to say all that can be said about (a subject etc)",
-        "ex_of_definition_list": [
-          "We’ve exhausted that topic."
-        ]
-      }
+    "hash_code_list_img": "316465820",
+    "list_example": [
+      "She was exhausted by her long walk.",
+      "We have exhausted our supplies",
+      "You’re exhausting my patience.",
+      "We’ve exhausted that topic.",
+      "The input from the live performance 'distracts' this process and forces it to act upon new material until all of the samples have been exhausted.",
+      "In most cases, single women came to mill towns when all means of support for them were exhausted in the rural areas.",
+      "If it fails, the next possible tree for n will be tested - and so until the list is exhausted.",
+      "Therefore, when reasonable means have been exhausted, collective actions by attending and staff physicians ethically may be considered.",
+      "Conventional wisdom-and many textbooks-suggest that diversification benefits are largely exhausted with a portfolio of 10-15 stocks.",
+      "During this stage, the mafic minerals grow faster than plagioclase, exhausting the local melt in mafic components.",
+      "Although you got quite a bit done today, you finished work early because you were feeling particularly exhausted.",
+      "If the match fails, succeeding branches are tried until either one of the patterns matches or all branches have been exhausted."
     ],
-    "hash_code_list_definition_mean": "734945924"
+    "hash_code_list_example": "-1070916935"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/exhibition_cb_dmean_5000_it.json",
@@ -2199,24 +1709,17 @@
         "id_image": "exhibition_827067"
       }
     ],
-    "hash_code_list_img": "875952618",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuộc triển lãm",
-        "definition": "a public display (eg of works of art, industrial goods etc)",
-        "ex_of_definition_list": [
-          "an exhibition of children’s books."
-        ]
-      },
-      {
-        "mean_english": "sự biểu lộ",
-        "definition": "an act of showing or revealing",
-        "ex_of_definition_list": [
-          "What an exhibition of bad temper!"
-        ]
-      }
+    "hash_code_list_img": "495857081",
+    "list_example": [
+      "an exhibition of children’s books.",
+      "What an exhibition of bad temper!",
+      "The unions' attacks on the exhibition's administrative structure and procedures began before the first post-war exhibition even opened its doors.",
+      "Elemental assembly (left), section (top right) and exhibition areas (centre right) as shown on competition entry panels. 4b.",
+      "This study also examines the curatorial interpretation of the collections and demonstrates that the building forms a coherent setting for objects and exhibition themes.",
+      "Second, the major exhibition items were until recently (see below) shown without much written comment, plans or other contextual information.",
+      "It can be used at amusement arcades, exhibition halls, parties, sports events, or even homes."
     ],
-    "hash_code_list_definition_mean": "1129096275"
+    "hash_code_list_example": "-545105916"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/exhibitor_cb_dmean_5000_it.json",
@@ -2234,17 +1737,19 @@
         "id_image": "exhibitor_3981078"
       }
     ],
-    "hash_code_list_img": "951007373",
-    "list_definition_mean": [
-      {
-        "mean_english": "người trưng bày",
-        "definition": "a person who provides an exhibit for a display etc",
-        "ex_of_definition_list": [
-          "He is one of the exhibitors at the flower show."
-        ]
-      }
+    "hash_code_list_img": "972632644",
+    "list_example": [
+      "He is one of the exhibitors at the flower show.",
+      "Through ownership of theaters or block-booking agreements, which required exhibitors to rent several movies from a studio to secure the rental of a desired film, they also controlled exhibitions.",
+      "He also found that clearance provisions stipulating when exhibitors could show movies stifled competition and restricted the exhibitors' ability to compete.",
+      "Under the voluntary arrangement renters have made certain concessions to exhibitors who have not been in a position to pay.",
+      "I am sure that great sighs of relief will be heaved by many ordinary exhibitors.",
+      "But the exhibitors, both the big circuits and the independents, are doing a great deal to put their houses in order.",
+      "Estimates of the minimum percentage of subjects infected in the group of highly exposed and less exposed exhibitors.",
+      "We assumed that the titre distribution in exhibitors at the outbreak site before being exposed was similar to that of the general population.",
+      "Those exhibitors have always pleaded poverty, with a certain amount of justification."
     ],
-    "hash_code_list_definition_mean": "1699491744"
+    "hash_code_list_example": "1415903792"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/exhibit_cb_dmean_5000_it.json",
@@ -2265,37 +1770,10 @@
         "id_image": "exhibit_223257"
       }
     ],
-    "hash_code_list_img": "272755673",
-    "list_definition_mean": [
-      {
-        "mean_english": "triển lãm",
-        "definition": "to show; to display to the public",
-        "ex_of_definition_list": [
-          "My picture is to be exhibited in the art gallery."
-        ]
-      },
-      {
-        "mean_english": "biểu lộ",
-        "definition": "to show (a quality etc)",
-        "ex_of_definition_list": [
-          "He exhibited a complete lack of concern for others."
-        ]
-      },
-      {
-        "mean_english": "vật triển lãm",
-        "definition": "an object displayed publicly (eg in a museum)",
-        "ex_of_definition_list": [
-          "One of the exhibits is missing."
-        ]
-      },
-      {
-        "mean_english": "tang vật",
-        "definition": "an object or document produced in court as part of the evidence",
-        "ex_of_definition_list": [
-          "The blood-stained scarf was exhibit number one in the murder trial."
-        ]
-      }
+    "hash_code_list_img": "615774103",
+    "list_example": [
+      "The blood-stained scarf was exhibit number one in the murder trial."
     ],
-    "hash_code_list_definition_mean": "-438633131"
+    "hash_code_list_example": "-1067456448"
   }
 ]

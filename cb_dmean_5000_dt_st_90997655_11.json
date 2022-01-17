@@ -21,17 +21,11 @@
         "id_image": "bouquet_332950"
       }
     ],
-    "hash_code_list_img": "-303430466",
-    "list_definition_mean": [
-      {
-        "mean_english": "bó hoa",
-        "definition": "a bunch of flowers",
-        "ex_of_definition_list": [
-          "The bride carried a bouquet of roses."
-        ]
-      }
+    "hash_code_list_img": "-696137552",
+    "list_example": [
+      "The bride carried a bouquet of roses."
     ],
-    "hash_code_list_definition_mean": "163631324"
+    "hash_code_list_example": "1525251299"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bourbon_cb_dmean_5000_it.json",
@@ -60,17 +54,16 @@
         "id_image": "bourbon_4829249"
       }
     ],
-    "hash_code_list_img": "969601994",
-    "list_definition_mean": [
-      {
-        "mean_english": "rượu whisky ngô",
-        "definition": "a type of whisky made in the US from corn/maize, malt, and rye",
-        "ex_of_definition_list": [
-          "a bottle of bourbon."
-        ]
-      }
+    "hash_code_list_img": "-1834610739",
+    "list_example": [
+      "The resolution calls for consumers who enjoy bourbon to do so responsibly and in moderation.",
+      "The filling can also be similar to a truffle or a cherry cordial, with bourbon added.",
+      "It is triple distilled using a combination of grains and aged in bourbon barrels.",
+      "This last enterprise led to his subsequent dubious reputation as the inventor of bourbon whiskey.",
+      "The whisky will primarily age in bourbon casks, though sherry casks will also be employed.",
+      "Burning bourbon spilled from the warehouse and set a nearby creek on fire."
     ],
-    "hash_code_list_definition_mean": "829239500"
+    "hash_code_list_example": "-1687157409"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/boutique_cb_dmean_5000_it.json",
@@ -98,18 +91,13 @@
         "id_image": "boutique_6306777"
       }
     ],
-    "hash_code_list_img": "1555439958",
-    "list_definition_mean": [
-      {
-        "mean_english": "tiệm bán quần áo",
-        "definition": "a fashionable, usually small shop, especially one selling clothes",
-        "ex_of_definition_list": [
-          "a fashion boutique",
-          "She prefers small boutiques to large stores."
-        ]
-      }
+    "hash_code_list_img": "-1323704716",
+    "list_example": [
+      "If that happens, it will have a considerable effect on the operational efficiency of financial institutions, particularly small boutique institutions serving private clients as investors.",
+      "It is an affluent neighbourhood populated mostly by young professionals and contains numerous chic restaurants, hotels, boutique shops and loft apartments.",
+      "With its unique boutique shops and restaurants, it has had an esoteric chic that maintains its trendy appeal."
     ],
-    "hash_code_list_definition_mean": "1167582978"
+    "hash_code_list_example": "1533691350"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bowl_cb_dmean_5000_it.json",
@@ -142,39 +130,11 @@
         "id_image": "bowl_5830303"
       }
     ],
-    "hash_code_list_img": "2095581384",
-    "list_definition_mean": [
-      {
-        "mean_english": "ném bóng qua đầu",
-        "definition": "to deliver or send (a ball) towards the batsman in cricket",
-        "ex_of_definition_list": [
-          "Occasionally he bowls a slow one to try and deceive the batsman."
-        ]
-      },
-      {
-        "mean_english": "đưa ra nghỉ",
-        "definition": "to put (a batsman) out by hitting the wicket with the ball",
-        "ex_of_definition_list": [
-          "Smith was bowled for eighty-five (= Smith was put out after making eighty-five runs)."
-        ]
-      },
-      {
-        "mean_english": "cái bát",
-        "definition": "a round, deep dish eg for mixing or serving food etc",
-        "ex_of_definition_list": [
-          "a baking bowl",
-          "a soup bowl."
-        ]
-      },
-      {
-        "mean_english": "nõ tẩu thuốc",
-        "definition": "a round hollow part, especially of a tobacco pipe, a spoon etc",
-        "ex_of_definition_list": [
-          "The bowl of this spoon is dirty."
-        ]
-      }
+    "hash_code_list_img": "675803104",
+    "list_example": [
+      "The bowl of this spoon is dirty."
     ],
-    "hash_code_list_definition_mean": "-1209455781"
+    "hash_code_list_example": "-358642566"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bow_cb_dmean_5000_it.json",
@@ -203,53 +163,14 @@
         "id_image": "bow_827173"
       }
     ],
-    "hash_code_list_img": "1129396584",
-    "list_definition_mean": [
-      {
-        "mean_english": "cúi chào",
-        "definition": "to bend (the head and often also the upper part of the body) forwards in greeting a person etc",
-        "ex_of_definition_list": [
-          "He bowed to the ladies.",
-          "They bowed their heads in prayer."
-        ]
-      },
-      {
-        "mean_english": "khâm phục",
-        "definition": "(with to) to accept",
-        "ex_of_definition_list": [
-          "I bow to your superior knowledge."
-        ]
-      },
-      {
-        "mean_english": "sự cúi chào",
-        "definition": "a bowing movement",
-        "ex_of_definition_list": [
-          "He made a bow to the ladies."
-        ]
-      },
-      {
-        "mean_english": "cái cung",
-        "definition": "a springy curved rod bent by a string, by which arrows are shot",
-        "ex_of_definition_list": [
-          "a bow and arrow."
-        ]
-      },
-      {
-        "mean_english": "nơ con bướm",
-        "definition": "a looped knot of material",
-        "ex_of_definition_list": [
-          "Her dress is decorated with bows."
-        ]
-      },
-      {
-        "mean_english": "mũi tàu",
-        "definition": "the front of a ship or boat",
-        "ex_of_definition_list": [
-          "The waves broke over the bows."
-        ]
-      }
+    "hash_code_list_img": "103450240",
+    "list_example": [
+      "I bow to your superior knowledge.",
+      "He made a bow to the ladies.",
+      "a bow and arrow.",
+      "There is no single control; rather a combination of inputs such as bow-speed, bow pressure, choice of string and even finger position."
     ],
-    "hash_code_list_definition_mean": "32862261"
+    "hash_code_list_example": "-1002505220"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/box_cb_dmean_5000_it.json",
@@ -281,46 +202,13 @@
         "id_image": "box_588424"
       }
     ],
-    "hash_code_list_img": "806477105",
-    "list_definition_mean": [
-      {
-        "mean_english": "hộp; thùng",
-        "definition": "a case for holding something",
-        "ex_of_definition_list": [
-          "a wooden box",
-          "a matchbox."
-        ]
-      },
-      {
-        "mean_english": "lô (rạp hát)",
-        "definition": "in a theatre/theater etc, a group of seats separated from the rest of the audience",
-        "ex_of_definition_list": [
-          "an executive box."
-        ]
-      },
-      {
-        "mean_english": "bỏ vào hộp",
-        "definition": "to put (something) into boxes",
-        "ex_of_definition_list": [
-          "Will you box these apples?"
-        ]
-      },
-      {
-        "mean_english": "đấm",
-        "definition": "to fight (someone) with the fists",
-        "ex_of_definition_list": [
-          "Years ago, fighters used to box without wearing padded gloves."
-        ]
-      },
-      {
-        "mean_english": "cái bạt tai",
-        "definition": "a blow on the ear with the hand",
-        "ex_of_definition_list": [
-          "He gave Ed a friendly box on the ear."
-        ]
-      }
+    "hash_code_list_img": "1399738661",
+    "list_example": [
+      "Will you box these apples?",
+      "Years ago, fighters used to box without wearing padded gloves.",
+      "He gave Ed a friendly box on the ear."
     ],
-    "hash_code_list_definition_mean": "1429483169"
+    "hash_code_list_example": "73715175"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/boyfriend_cb_dmean_5000_it.json",
@@ -348,17 +236,11 @@
         "id_image": "boyfriend_4412607"
       }
     ],
-    "hash_code_list_img": "-1347680575",
-    "list_definition_mean": [
-      {
-        "mean_english": "bạn trai",
-        "definition": "a man who you are having a romantic relationship with",
-        "ex_of_definition_list": [
-          "What do you think of Sophie’s new boyfriend?"
-        ]
-      }
+    "hash_code_list_img": "-707829523",
+    "list_example": [
+      "What do you think of Sophie’s new boyfriend?"
     ],
-    "hash_code_list_definition_mean": "3027569"
+    "hash_code_list_example": "-554728375"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/boy_cb_dmean_5000_it.json",
@@ -387,25 +269,14 @@
         "id_image": "boy_435043"
       }
     ],
-    "hash_code_list_img": "-1736209491",
-    "list_definition_mean": [
-      {
-        "mean_english": "con trai",
-        "definition": "a male child",
-        "ex_of_definition_list": [
-          "She has three girls and one boy."
-        ]
-      },
-      {
-        "mean_english": "cậu thanh niên",
-        "definition": "(as part of another word) a male (often adult) who does a certain job",
-        "ex_of_definition_list": [
-          "a cowboy",
-          "a paperboy."
-        ]
-      }
+    "hash_code_list_img": "825361449",
+    "list_example": [
+      "The boy wants so much to believe them, to know that it's true.",
+      "A working boy was elevated to heroic status.",
+      "For example, a boy who does not graduate from high school has limited employment and further education options.",
+      "A 22-month-old boy was referred for corrective cardiac surgery."
     ],
-    "hash_code_list_definition_mean": "-637942639"
+    "hash_code_list_example": "61570374"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bracelet_cb_dmean_5000_it.json",
@@ -438,17 +309,15 @@
         "id_image": "bracelet_499268"
       }
     ],
-    "hash_code_list_img": "801981371",
-    "list_definition_mean": [
-      {
-        "mean_english": "vòng tay",
-        "definition": "an ornament worn round the wrist or arm",
-        "ex_of_definition_list": [
-          "a gold bracelet."
-        ]
-      }
+    "hash_code_list_img": "-670246932",
+    "list_example": [
+      "There are different variations, but nearly all hospitals in this country have one or other variant of the bracelet method.",
+      "It is prudent for a patient to have an identification bracelet prior to getting out of the home unsupervised and becoming lost.",
+      "Objects inside the bucket were bounced by moving the bracelet up and down.",
+      "I am sorry but it is not possible to treat this identity bracelet differently from others for the purposes of the tax.",
+      "A complete circle was called a plate, and an incomplete circle was called a bracelet or earring."
     ],
-    "hash_code_list_definition_mean": "655550739"
+    "hash_code_list_example": "-1819294529"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brace_cb_dmean_5000_it.json",
@@ -478,31 +347,12 @@
         "id_image": "brace_2933552"
       }
     ],
-    "hash_code_list_img": "613361904",
-    "list_definition_mean": [
-      {
-        "mean_english": "vật nối",
-        "definition": "something that draws together and holds tightly",
-        "ex_of_definition_list": [
-          "The dentist fitted her with a brace to straighten her teeth."
-        ]
-      },
-      {
-        "mean_english": "đôi",
-        "definition": "a pair usually of game-birds",
-        "ex_of_definition_list": [
-          "a brace of pheasants."
-        ]
-      },
-      {
-        "mean_english": "gắng hết sức",
-        "definition": "to make (often oneself) firm or steady",
-        "ex_of_definition_list": [
-          "He braced himself for the struggle."
-        ]
-      }
+    "hash_code_list_img": "-1008310466",
+    "list_example": [
+      "The dentist fitted her with a brace to straighten her teeth.",
+      "a brace of pheasants."
     ],
-    "hash_code_list_definition_mean": "-1949833809"
+    "hash_code_list_example": "-1574017745"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bracket_cb_dmean_5000_it.json",
@@ -538,24 +388,21 @@
         "id_image": "bracket_605614"
       }
     ],
-    "hash_code_list_img": "356841124",
-    "list_definition_mean": [
-      {
-        "mean_english": "giá đỡ",
-        "definition": "a support for a shelf etc",
-        "ex_of_definition_list": [
-          "The shelf fell down because the brackets were not strong enough."
-        ]
-      },
-      {
-        "mean_english": "xếp loại",
-        "definition": "(sometimes with together) to group together (similar or equal people or things)",
-        "ex_of_definition_list": [
-          "This kind of financing is often bracketed together with higher interest rates."
-        ]
-      }
+    "hash_code_list_img": "-813962098",
+    "list_example": [
+      "round/square brackets.",
+      "The shelf fell down because the brackets were not strong enough.",
+      "This kind of financing is often bracketed together with higher interest rates.",
+      "We associate a weight to channels with finite sorts, namely the maximum number of nested brackets in the sort.",
+      "Many gerontologists, however, would be shocked to find themselves bracketed with feminists, and this is why conceptual frameworks are important.",
+      "The numbers in brackets represent the raw data expressed as a fraction, from which the percentages are calculated.",
+      "A location placed in brackets indicates the residence of a civilian during the war differed from the place of the interview. 19.",
+      "The numbers in parentheses indicate how many times each of the verbs occurred in an individual ®le; the child's meaning is indicated in square brackets.",
+      "Brackets and non-empty equation sets do not occur in user source-language programs, and brackets could be erased in a production implementation.",
+      "Until 1999, the allowances were inversely related to income, with four rates of benefit corresponding to an equal number of income brackets.",
+      "The '#' in (5) means that the information between the square brackets is denied, while the '!' denotes the corrected information."
     ],
-    "hash_code_list_definition_mean": "-1344557768"
+    "hash_code_list_example": "-284703165"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/braid_cb_dmean_5000_it.json",
@@ -589,24 +436,15 @@
         "id_image": "braid_3684510"
       }
     ],
-    "hash_code_list_img": "85537532",
-    "list_definition_mean": [
-      {
-        "mean_english": "bện",
-        "definition": "to wind together (especially strands of hair)",
-        "ex_of_definition_list": [
-          "She wants me to braid her hair with beads."
-        ]
-      },
-      {
-        "mean_english": "dải viền trang trí quần áo",
-        "definition": "threads twisted together and used as decoration on uniforms etc",
-        "ex_of_definition_list": [
-          "The admiral’s uniform was decorated with gold braid."
-        ]
-      }
+    "hash_code_list_img": "279995310",
+    "list_example": [
+      "She wants me to braid her hair with beads.",
+      "Their analysis thus supports the low braid vorticity measured by us.",
+      "It may be time to rethink them in the plural, as forming a braid of overlapping processes acting simultaneously on different categories at different levels.",
+      "The postulated quadrupole structure of the source term in the braid region can clearly be recognized.",
+      "There remains to make explicit and prove the last assertion of the proposition, which requires some concrete background and notation on braid groups."
     ],
-    "hash_code_list_definition_mean": "-1960017352"
+    "hash_code_list_example": "-1019017326"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/braille_cb_dmean_5000_it.json",
@@ -634,17 +472,11 @@
         "id_image": "braille_5318760"
       }
     ],
-    "hash_code_list_img": "934371023",
-    "list_definition_mean": [
-      {
-        "mean_english": "chữ Bray (chữ nổi cho người mù)",
-        "definition": "a system of printing for the blind, using raised dots",
-        "ex_of_definition_list": [
-          "Books written in Braille are available in all subject areas."
-        ]
-      }
+    "hash_code_list_img": "562812371",
+    "list_example": [
+      "Books written in Braille are available in all subject areas."
     ],
-    "hash_code_list_definition_mean": "293786110"
+    "hash_code_list_example": "-506910973"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brainstorm_cb_dmean_5000_it.json",
@@ -674,31 +506,14 @@
         "id_image": "brainstorm_562528"
       }
     ],
-    "hash_code_list_img": "483224538",
-    "list_definition_mean": [
-      {
-        "mean_english": "cơn động não",
-        "definition": "a sudden inability to think clearly or logically with the result that you do something silly",
-        "ex_of_definition_list": [
-          "I don’t know why I made such a stupid mistake – I must have had a brainstorm."
-        ]
-      },
-      {
-        "mean_english": "ý tưởng chợt lóe lên",
-        "definition": "a good idea that comes to someone suddenly; brainwave British",
-        "ex_of_definition_list": [
-          "She had a brainstorm: what about replacing the broken part with one from another machine?"
-        ]
-      },
-      {
-        "mean_english": "động não",
-        "definition": "to generate new ideas from a group of people by means of a discussion in which they make several suggestions and the best ones are adopted",
-        "ex_of_definition_list": [
-          "We brainstormed names for the new shampoo."
-        ]
-      }
+    "hash_code_list_img": "1376908742",
+    "list_example": [
+      "They work as a team to brainstorm a solution to a problem, using the blackboard as the workplace for cooperatively developing the solution.",
+      "After a function structure is created, a good design exercise is to independently brainstorm solutions for each function while temporarily suspending the limitations or constraints between functions.",
+      "It was only the autonomy of local authorities and local democracy that prevented one man's brainstorm from becoming the nation's disaster.",
+      "The emergency situation stimulated brainstorm activity on the part of agricultural chemists, who organized the production of fertilizers and searched for non-traditional substitutes."
     ],
-    "hash_code_list_definition_mean": "1911279879"
+    "hash_code_list_example": "1960535842"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brain_cb_dmean_5000_it.json",
@@ -728,34 +543,13 @@
         "id_image": "brain_286484"
       }
     ],
-    "hash_code_list_img": "-1317810131",
-    "list_definition_mean": [
-      {
-        "mean_english": "bộ não",
-        "definition": "the centre/center of the nervous system",
-        "ex_of_definition_list": [
-          "an injury to the brain",
-          "(also adjective) brain surgery",
-          "brain damage."
-        ]
-      },
-      {
-        "mean_english": "trí tuệ",
-        "definition": "cleverness",
-        "ex_of_definition_list": [
-          "She’s got a good brain for figures",
-          "You’ve plenty of brains."
-        ]
-      },
-      {
-        "mean_english": "người thông minh",
-        "definition": "a clever person",
-        "ex_of_definition_list": [
-          "He’s one of the best brains in the country."
-        ]
-      }
+    "hash_code_list_img": "-1069659622",
+    "list_example": [
+      "(also adjective) brain surgery",
+      "brain damage.",
+      "She’s got a good brain for figures"
     ],
-    "hash_code_list_definition_mean": "869290248"
+    "hash_code_list_example": "1193594266"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brake_cb_dmean_5000_it.json",
@@ -784,24 +578,16 @@
         "id_image": "brake_1870853"
       }
     ],
-    "hash_code_list_img": "127110453",
-    "list_definition_mean": [
-      {
-        "mean_english": "phanh lại",
-        "definition": "to slow down or stop",
-        "ex_of_definition_list": [
-          "He braked (the car) suddenly."
-        ]
-      },
-      {
-        "mean_english": "cái phanh",
-        "definition": "a device for doing this",
-        "ex_of_definition_list": [
-          "He put on the brake(s)."
-        ]
-      }
+    "hash_code_list_img": "-1615154082",
+    "list_example": [
+      "He braked (the car) suddenly.",
+      "He put on the brake(s).",
+      "Therefore, that solution consists of a periodic sequence of buoyancy pushes and buoyancy brakes.",
+      "In the choice system, which calls for extra road investment, there would be no brakes on the journey to work, even into the city centre.",
+      "When she espies the two bodies on the road and applies her brakes, she discovers that they are suddenly inoperative.",
+      "Track bikes have one gear and no brakes; braking occurs by pedalling backwards, or, for the truly adept, by sliding the rear wheel against the curb."
     ],
-    "hash_code_list_definition_mean": "1297074296"
+    "hash_code_list_example": "13004960"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/branch_cb_dmean_5000_it.json",
@@ -831,32 +617,14 @@
         "id_image": "branch_6357748"
       }
     ],
-    "hash_code_list_img": "-2144557192",
-    "list_definition_mean": [
-      {
-        "mean_english": "cành cây",
-        "definition": "an arm-like part of a tree",
-        "ex_of_definition_list": [
-          "He cut some branches off the oak tree."
-        ]
-      },
-      {
-        "mean_english": "nhánh",
-        "definition": "an offshoot from the main part (of a business, railway/railroad etc)",
-        "ex_of_definition_list": [
-          "There isn’t a branch of that store in this town",
-          "(also adjective) That train runs on the branch line."
-        ]
-      },
-      {
-        "mean_english": "phân nhánh; chia ngả",
-        "definition": "(usually with out/off) to spread out like, or into, a branch or branches",
-        "ex_of_definition_list": [
-          "The road to the coast branches off here."
-        ]
-      }
+    "hash_code_list_img": "1631691771",
+    "list_example": [
+      "There isn’t a branch of that store in this town",
+      "(also adjective) That train runs on the branch line.",
+      "The level of expression of the 6 isoform in the cells of the right bundle branch was always lower than that of the surrounding myocardium.",
+      "Each frontal strut gives off a short, broad branch directed inwards, at the posterior corner of which is another mandibular condyle."
     ],
-    "hash_code_list_definition_mean": "501359197"
+    "hash_code_list_example": "1540257783"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brandy_cb_dmean_5000_it.json",
@@ -874,18 +642,16 @@
         "id_image": "brandy_6411108"
       }
     ],
-    "hash_code_list_img": "6788156",
-    "list_definition_mean": [
-      {
-        "mean_english": "rượu mạnh",
-        "definition": "a type of strong alcoholic spirit made from wine",
-        "ex_of_definition_list": [
-          "Brandy is usually drunk after dinner",
-          "a glass of brandy."
-        ]
-      }
+    "hash_code_list_img": "2069545830",
+    "list_example": [
+      "By the same token, the mass noun brandy in (14a) necessarily has an existential reading.",
+      "But if the same half-bottle of medicinal brandy is put in the hands of a drunkard, who has already drunk three, it is excessive.",
+      "If we now made it a law that brandy must always be sold by quantity, we might do more harm than good.",
+      "Up until 1914, the paramount chief persisted in regarding brandy as the only cause of drunkenness in the country, contenting himself with appeals for the suppression of smuggling.",
+      "But 'judicious application of brandy both internally externally' assisted his recovery.",
+      "There has to be the brandy as well."
     ],
-    "hash_code_list_definition_mean": "1931327838"
+    "hash_code_list_example": "1564868474"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brand_cb_dmean_5000_it.json",
@@ -928,46 +694,13 @@
         "id_image": "brand_741882"
       }
     ],
-    "hash_code_list_img": "-1816847233",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhãn mác",
-        "definition": "a maker’s name or trademark",
-        "ex_of_definition_list": [
-          "a new brand of dog food",
-          "(also adjective) a brand name."
-        ]
-      },
-      {
-        "mean_english": "kiểu cách",
-        "definition": "a variety",
-        "ex_of_definition_list": [
-          "He has his own brand of humour/humor."
-        ]
-      },
-      {
-        "mean_english": "đóng dấu bằng sắt nung",
-        "definition": "to mark cattle etc with a hot iron",
-        "ex_of_definition_list": [
-          "The cows are branded for identification purposes."
-        ]
-      },
-      {
-        "mean_english": "khắc sâu",
-        "definition": "to make a permanent impression on",
-        "ex_of_definition_list": [
-          "His name is branded on my memory."
-        ]
-      },
-      {
-        "mean_english": "kết tội",
-        "definition": "to attach (permanent) disgrace to",
-        "ex_of_definition_list": [
-          "She was branded for life as a thief."
-        ]
-      }
+    "hash_code_list_img": "-1070778816",
+    "list_example": [
+      "a new brand of dog food",
+      "(also adjective) a brand name.",
+      "He has his own brand of humour/humor."
     ],
-    "hash_code_list_definition_mean": "-174207709"
+    "hash_code_list_example": "-908528699"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brass_cb_dmean_5000_it.json",
@@ -991,25 +724,13 @@
         "id_image": "brass_3460852"
       }
     ],
-    "hash_code_list_img": "630844967",
-    "list_definition_mean": [
-      {
-        "mean_english": "đồng thau",
-        "definition": "an alloy of copper and zinc",
-        "ex_of_definition_list": [
-          "This plate is made of brass",
-          "(also adjective) a brass doorknocker."
-        ]
-      },
-      {
-        "mean_english": "kèn đồng",
-        "definition": "wind musical instruments which are made of brass or other metal",
-        "ex_of_definition_list": [
-          "One of his earliest compositions was a march written for brass and strings."
-        ]
-      }
+    "hash_code_list_img": "356146811",
+    "list_example": [
+      "(also adjective) a brass doorknocker.",
+      "One of his earliest compositions was a march written for brass and strings.",
+      "A scherzo breaks in, which culminates in a brass fanfare leading to the slow movement."
     ],
-    "hash_code_list_definition_mean": "1873158180"
+    "hash_code_list_example": "2006066671"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/breach_cb_dmean_5000_it.json",
@@ -1034,32 +755,13 @@
         "id_image": "breach_2720551"
       }
     ],
-    "hash_code_list_img": "1228390471",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự thất hứa",
-        "definition": "a breaking (of a promise etc)",
-        "ex_of_definition_list": [
-          "a breach of contract."
-        ]
-      },
-      {
-        "mean_english": "lỗ thủng",
-        "definition": "a gap, break or hole",
-        "ex_of_definition_list": [
-          "a breach in the castle wall",
-          "a breach in security."
-        ]
-      },
-      {
-        "mean_english": "chọc thủng",
-        "definition": "to make an opening in or break (someone’s defence/defense)",
-        "ex_of_definition_list": [
-          "These assaults succeeded in breaching the city walls."
-        ]
-      }
+    "hash_code_list_img": "-397536980",
+    "list_example": [
+      "a breach of contract.",
+      "a breach in the castle wall",
+      "a breach in security."
     ],
-    "hash_code_list_definition_mean": "-2122966135"
+    "hash_code_list_example": "-1912253939"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bread_cb_dmean_5000_it.json",
@@ -1093,25 +795,13 @@
         "id_image": "bread_527774"
       }
     ],
-    "hash_code_list_img": "469663252",
-    "list_definition_mean": [
-      {
-        "mean_english": "bánh mỳ",
-        "definition": "a type of food made of flour or meal baked",
-        "ex_of_definition_list": [
-          "bread and butter",
-          "a loaf of bread."
-        ]
-      },
-      {
-        "mean_english": "kế sinh nhai",
-        "definition": "one’s living",
-        "ex_of_definition_list": [
-          "This is how I earn my daily bread."
-        ]
-      }
+    "hash_code_list_img": "-572153788",
+    "list_example": [
+      "bread and butter",
+      "Lists, higher order functions, user-defined data types, and tree structures fill out the remaining bread and butter chapters.",
+      "If the crop is feed barley, for example, quality considerations will be minimal in comparison to the requirements of bread wheat destined for export."
     ],
-    "hash_code_list_definition_mean": "344781837"
+    "hash_code_list_example": "515150162"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/breakable_cb_dmean_5000_it.json",
@@ -1130,24 +820,16 @@
         "id_image": "breakable_1259988"
       }
     ],
-    "hash_code_list_img": "2103748991",
-    "list_definition_mean": [
-      {
-        "mean_english": "dễ vỡ",
-        "definition": "(opposite unbreakable) likely to break",
-        "ex_of_definition_list": [
-          "breakable goods."
-        ]
-      },
-      {
-        "mean_english": "vật dễ vỡ",
-        "definition": "something likely to break",
-        "ex_of_definition_list": [
-          "Glassware and other breakables should be packed with care."
-        ]
-      }
+    "hash_code_list_img": "1111460498",
+    "list_example": [
+      "breakable goods.",
+      "There is a view that marriage is a contract which should be as breakable as any other.",
+      "Dimensions and weight remain the same, but unfortunately the design also maintained the easily breakable neck of the original cabinet.",
+      "Once all breakable bricks on the board have been cleared, the player advances to the next board.",
+      "The objective is to break all breakable blocks in the level by hitting these blocks with the ion sphere(s).",
+      "Some companies will only offer mechanical breakdown insurance, which only covers repairs necessary when breakable parts need to be fixed or replaced."
     ],
-    "hash_code_list_definition_mean": "982645300"
+    "hash_code_list_example": "-296453396"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/breakage_cb_dmean_5000_it.json",
@@ -1165,17 +847,14 @@
         "id_image": "breakage_2928720"
       }
     ],
-    "hash_code_list_img": "1569908993",
-    "list_definition_mean": [
-      {
-        "mean_english": "chỗ vỡ",
-        "definition": "the act of breaking, or its result(s)",
-        "ex_of_definition_list": [
-          "Guests also undertake to pay for breakages they may be responsible for during the period of their stay."
-        ]
-      }
+    "hash_code_list_img": "451801260",
+    "list_example": [
+      "After removing the leaves, stalks, etc., the grapes were crushed by hand to prevent the breakage of the seeds.",
+      "It is highly possible that there would be breakage of sprouts during transportation and planting.",
+      "Such dynamic bond breakage and reformation undoubtedly occurs in biology.",
+      "He clearly understood the notion of breakage and its consequences."
     ],
-    "hash_code_list_definition_mean": "376234598"
+    "hash_code_list_example": "1271218221"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/breakdown_cb_dmean_5000_it.json",
@@ -1209,24 +888,12 @@
         "id_image": "breakdown_950426"
       }
     ],
-    "hash_code_list_img": "-519181560",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự suy sụp tinh thần",
-        "definition": "(often nervous breakdown) a mental collapse",
-        "ex_of_definition_list": [
-          "The stress of the job caused him to suffer a nervous breakdown."
-        ]
-      },
-      {
-        "mean_english": "sự hỏng máy",
-        "definition": "a mechanical failure causing a stop",
-        "ex_of_definition_list": [
-          "The car has had another breakdown."
-        ]
-      }
+    "hash_code_list_img": "-1117240525",
+    "list_example": [
+      "The stress of the job caused him to suffer a nervous breakdown.",
+      "The car has had another breakdown."
     ],
-    "hash_code_list_definition_mean": "1044136605"
+    "hash_code_list_example": "-2028501376"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/breakfast_cb_dmean_5000_it.json",
@@ -1265,26 +932,22 @@
         "id_image": "breakfast_854293"
       }
     ],
-    "hash_code_list_img": "-754129343",
-    "list_definition_mean": [
-      {
-        "mean_english": "bữa sáng",
-        "definition": "the first meal of the day",
-        "ex_of_definition_list": [
-          "What time do you serve breakfast?",
-          "I have coffee and toast for breakfast",
-          "I never eat breakfast."
-        ]
-      },
-      {
-        "mean_english": "ăn sáng",
-        "definition": "to have breakfast",
-        "ex_of_definition_list": [
-          "They breakfasted on the train."
-        ]
-      }
+    "hash_code_list_img": "-73651652",
+    "list_example": [
+      "What time do you serve breakfast?",
+      "I have coffee and toast for breakfast",
+      "I never eat breakfast.",
+      "They breakfasted on the train.",
+      "A vast range of small rural businesses, pubs, shops, bed and breakfasts and hotels have been affected.",
+      "Bed and breakfasting for sheep was one of a number of ways in which dealers moved animals about—ways that do not make any sense.",
+      "I hope there will be more to this campaign than what we know is already planned: working breakfasts—in practice sometimes a contradiction in terms.",
+      "I do not mind having my leg pulled about breakfasts, but this morning's presentation to the leading business men of the city was very professional.",
+      "Bed and breakfasting is a tax dodge, whereby major share owners sell themselves their own shares at a loss, solely for tax purposes.",
+      "Secondly, local authorities should establish whether families wish to eat the breakfasts provided.",
+      "What is more, they will even get free breakfasts for doing that.",
+      "A great deal of money is spent on \"bed and breakfasts\" that are degrading and bad for children and families."
     ],
-    "hash_code_list_definition_mean": "-303230698"
+    "hash_code_list_example": "-850193700"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/break_cb_dmean_5000_it.json",
@@ -1331,108 +994,14 @@
         "id_image": "break_769662"
       }
     ],
-    "hash_code_list_img": "1092423811",
-    "list_definition_mean": [
-      {
-        "mean_english": "chia ra",
-        "definition": "to divide into two or more parts (by force)",
-        "ex_of_definition_list": [
-          "I accidentally broke the vase."
-        ]
-      },
-      {
-        "mean_english": "làm rời ra",
-        "definition": "(usually with off/away) to separate (a part) from the whole (by force)",
-        "ex_of_definition_list": [
-          "She broke a piece off the bar of chocolate."
-        ]
-      },
-      {
-        "mean_english": "đập vỡ",
-        "definition": "to make or become unusable",
-        "ex_of_definition_list": [
-          "Someone’s broken the photocopier."
-        ]
-      },
-      {
-        "mean_english": "thay đổi",
-        "definition": "to go against, or not act according to (the law etc)",
-        "ex_of_definition_list": [
-          "He broke the law by driving over the speed limit."
-        ]
-      },
-      {
-        "mean_english": "làm cho tốt hơn",
-        "definition": "to do better than (a sporting etc record)",
-        "ex_of_definition_list": [
-          "She broke the world high-jump record."
-        ]
-      },
-      {
-        "mean_english": "làm gián đoạn",
-        "definition": "to interrupt",
-        "ex_of_definition_list": [
-          "She broke her journey in London."
-        ]
-      },
-      {
-        "mean_english": "phá vỡ",
-        "definition": "to put an end to",
-        "ex_of_definition_list": [
-          "He broke the silence."
-        ]
-      },
-      {
-        "mean_english": "báo tin",
-        "definition": "to make or become known",
-        "ex_of_definition_list": [
-          "They gently broke the news of his death to his wife."
-        ]
-      },
-      {
-        "mean_english": "vỡ giọng",
-        "definition": "(of a boy’s voice) to fall in pitch",
-        "ex_of_definition_list": [
-          "His voice broke."
-        ]
-      },
-      {
-        "mean_english": "làm yếu đi",
-        "definition": "to soften the effect of (a fall, the force of the wind etc)",
-        "ex_of_definition_list": [
-          "Luckily, the thick grass broke his fall."
-        ]
-      },
-      {
-        "mean_english": "bắt đầu",
-        "definition": "to begin",
-        "ex_of_definition_list": [
-          "The storm broke before they reached shelter."
-        ]
-      },
-      {
-        "mean_english": "sự gián đoạn",
-        "definition": "a pause",
-        "ex_of_definition_list": [
-          "a break in the conversation."
-        ]
-      },
-      {
-        "mean_english": "sự thay đổi",
-        "definition": "a change",
-        "ex_of_definition_list": [
-          "A break in the bad weather allowed us to continue our journey."
-        ]
-      },
-      {
-        "mean_english": "cơ hội",
-        "definition": "a chance or piece of (good or bad) luck",
-        "ex_of_definition_list": [
-          "This is your big break."
-        ]
-      }
+    "hash_code_list_img": "-1078083442",
+    "list_example": [
+      "a break in the conversation.",
+      "A break in the bad weather allowed us to continue our journey.",
+      "Participants took a break between the two conditions and then completed the other modality, starting again with six new training items.",
+      "First, great incomprehension clouded the terms and definitions that would either make or break the case for intervention."
     ],
-    "hash_code_list_definition_mean": "-286518228"
+    "hash_code_list_example": "1829896553"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/breathalyzer_cb_dmean_5000_it.json",
@@ -1450,17 +1019,11 @@
         "id_image": "breathalyzer_1675093"
       }
     ],
-    "hash_code_list_img": "153115689",
-    "list_definition_mean": [
-      {
-        "mean_english": "máy đo độ cồn",
-        "definition": "a piece of equipment used by the police to check whether a car driver has drunk too much alcohol. The driver has to blow into a bag that measures the alcohol level in his/her breath",
-        "ex_of_definition_list": [
-          "The police officer asked her to blow into the breathalyzer."
-        ]
-      }
+    "hash_code_list_img": "1346672665",
+    "list_example": [
+      "The police officer asked her to blow into the breathalyzer."
     ],
-    "hash_code_list_definition_mean": "417167238"
+    "hash_code_list_example": "-1355368450"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/breath_cb_dmean_5000_it.json",
@@ -1499,24 +1062,13 @@
         "id_image": "breath_2688252"
       }
     ],
-    "hash_code_list_img": "1704936502",
-    "list_definition_mean": [
-      {
-        "mean_english": "hơi thở",
-        "definition": "the air drawn into, and then sent out from, the lungs",
-        "ex_of_definition_list": [
-          "My dog’s breath smells terrible."
-        ]
-      },
-      {
-        "mean_english": "sự thở",
-        "definition": "an act of breathing",
-        "ex_of_definition_list": [
-          "Take a deep breath."
-        ]
-      }
+    "hash_code_list_img": "316020889",
+    "list_example": [
+      "My dog’s breath smells terrible.",
+      "The change, confirmed by the many documents cited, was so swift as to take the breath away.",
+      "Theories can be harmful if used to misrepresent the extent of knowledge or to limit the breath of study."
     ],
-    "hash_code_list_definition_mean": "-1561704914"
+    "hash_code_list_example": "2980320"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/breeze_cb_dmean_5000_it.json",
@@ -1539,17 +1091,11 @@
         "id_image": "breeze_5132656"
       }
     ],
-    "hash_code_list_img": "1799326489",
-    "list_definition_mean": [
-      {
-        "mean_english": "gió nhẹ",
-        "definition": "a gentle wind",
-        "ex_of_definition_list": [
-          "There’s a lovely cool breeze today."
-        ]
-      }
+    "hash_code_list_img": "-806271388",
+    "list_example": [
+      "There’s a lovely cool breeze today."
     ],
-    "hash_code_list_definition_mean": "675100231"
+    "hash_code_list_example": "171474458"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/breezy_cb_dmean_5000_it.json",
@@ -1568,25 +1114,19 @@
         "id_image": "breezy_5492974"
       }
     ],
-    "hash_code_list_img": "138733196",
-    "list_definition_mean": [
-      {
-        "mean_english": "có gió hiu hiu",
-        "definition": "windy",
-        "ex_of_definition_list": [
-          "a breezy day."
-        ]
-      },
-      {
-        "mean_english": "hoạt bát",
-        "definition": "(of people etc) bright, lively",
-        "ex_of_definition_list": [
-          "She’s always so bright and breezy",
-          "a breezy young man."
-        ]
-      }
+    "hash_code_list_img": "886693822",
+    "list_example": [
+      "a breezy day.",
+      "a breezy young man.",
+      "The breezy and cool conditions in the wake of a heavy overnight hailstorm were seen to discourage many spectators from attending.",
+      "There's nothing light or breezy about it; it worked for him, but it could scarcely work for anyone else.",
+      "Obviously intended to be a bright and breezy romantic-comedy thriller, it ends up a mangy old mutt of a movie thanks to a charmless script and disastrous casting decisions.",
+      "I should think so, there's many a woodland nook and breezy field and quiet brookside that is consecrated ground to me.",
+      "He wanted a noisy, breezy curate to get at his rough teenagers.",
+      "The back tees measure a moderate, but the significant elevation changes, terraced fairways, and often breezy conditions contribute to make it a challenging track.",
+      "Beginning on a breezy note, it peters out into a languid tale in the latter half."
     ],
-    "hash_code_list_definition_mean": "-1847916518"
+    "hash_code_list_example": "-94779198"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brewery_cb_dmean_5000_it.json",
@@ -1614,17 +1154,13 @@
         "id_image": "brewery_382267"
       }
     ],
-    "hash_code_list_img": "-1320581598",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà máy bia, rượu",
-        "definition": "a place for brewing beer etc",
-        "ex_of_definition_list": [
-          "a traditional ale brewery."
-        ]
-      }
+    "hash_code_list_img": "32473195",
+    "list_example": [
+      "He focuses on four groups - steel workers, brewery workers, glass workers and smelters - although other workers, such as the railway workers, are also discussed.",
+      "Skruv was the first place the group visited in winter, a rural community of about 2,000 souls, a train station, a brewery and a glass factory.",
+      "Good examples of these are the brewery and cigarette companies."
     ],
-    "hash_code_list_definition_mean": "1533434447"
+    "hash_code_list_example": "-1790812621"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brew_cb_dmean_5000_it.json",
@@ -1649,31 +1185,11 @@
         "id_image": "brew_2597453"
       }
     ],
-    "hash_code_list_img": "-1118377755",
-    "list_definition_mean": [
-      {
-        "mean_english": "chế, ủ (rượu, bia)",
-        "definition": "to make (beer, ale etc)",
-        "ex_of_definition_list": [
-          "He brews beer at home."
-        ]
-      },
-      {
-        "mean_english": "pha (trà)",
-        "definition": "to make (tea etc)",
-        "ex_of_definition_list": [
-          "Shall I brew another pot of tea?"
-        ]
-      },
-      {
-        "mean_english": "chuẩn bị; sắp",
-        "definition": "to prepare",
-        "ex_of_definition_list": [
-          "There’s a storm brewing."
-        ]
-      }
+    "hash_code_list_img": "-2111720516",
+    "list_example": [
+      "Shall I brew another pot of tea?"
     ],
-    "hash_code_list_definition_mean": "-741948731"
+    "hash_code_list_example": "-1031134212"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bribe_cb_dmean_5000_it.json",
@@ -1707,24 +1223,19 @@
         "id_image": "bribe_5291764"
       }
     ],
-    "hash_code_list_img": "-19311851",
-    "list_definition_mean": [
-      {
-        "mean_english": "vật hối lộ",
-        "definition": "a gift offered to persuade a person to do something, usually dishonest",
-        "ex_of_definition_list": [
-          "Police officers are not allowed to accept bribes."
-        ]
-      },
-      {
-        "mean_english": "hối lộ",
-        "definition": "to give (someone) a bribe",
-        "ex_of_definition_list": [
-          "He bribed the guards to let him out of prison."
-        ]
-      }
+    "hash_code_list_img": "395767747",
+    "list_example": [
+      "Police officers are not allowed to accept bribes.",
+      "He bribed the guards to let him out of prison.",
+      "On the average, about a third of the respondents indicated that inspection officials were unfriendly or impolite, introduced artificial complications, explicitly or implicitly asked for bribes, or were incompetent.",
+      "They were corrupt, accumulated bribes and gifts, and opposed major reforms in the operation of the papacy.",
+      "Specifically, the costs associated with administrative corruption, namely paying bribes, impose a significant burden on firms.",
+      "As this involved bribes, naturally the state banned it as illegal.",
+      "Furthermore, did she know about the allegations that bungs or bribes were being paid?",
+      "I have never thought that men could be bribed into the forces, or that we should try to do so.",
+      "In exchange for bribes and campaign contributions, leaders made policies that benefited the few at the expense of the many."
     ],
-    "hash_code_list_definition_mean": "1275172633"
+    "hash_code_list_example": "2073962631"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bricklayer_cb_dmean_5000_it.json",
@@ -1742,17 +1253,11 @@
         "id_image": "bricklayer_2421989"
       }
     ],
-    "hash_code_list_img": "1889371841",
-    "list_definition_mean": [
-      {
-        "mean_english": "thợ nề",
-        "definition": "a person who builds (houses etc) with bricks",
-        "ex_of_definition_list": [
-          "He’s a qualified bricklayer."
-        ]
-      }
+    "hash_code_list_img": "232782475",
+    "list_example": [
+      "Also in the sample were two tavernkeepers, two construction workers, a bricklayer and a brick maker."
     ],
-    "hash_code_list_definition_mean": "327845362"
+    "hash_code_list_example": "1216154276"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brick_cb_dmean_5000_it.json",
@@ -1780,18 +1285,11 @@
         "id_image": "brick_605611"
       }
     ],
-    "hash_code_list_img": "-384706052",
-    "list_definition_mean": [
-      {
-        "mean_english": "gạch",
-        "definition": "(a block of) baked clay used for building",
-        "ex_of_definition_list": [
-          "a pile of bricks",
-          "(also adjective) a brick wall."
-        ]
-      }
+    "hash_code_list_img": "239599006",
+    "list_example": [
+      "(also adjective) a brick wall."
     ],
-    "hash_code_list_definition_mean": "1505424102"
+    "hash_code_list_example": "905260342"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bridesmaid_cb_dmean_5000_it.json",
@@ -1814,17 +1312,13 @@
         "id_image": "bridesmaid_6413567"
       }
     ],
-    "hash_code_list_img": "-1730200673",
-    "list_definition_mean": [
-      {
-        "mean_english": "phù dâu",
-        "definition": "an unmarried woman attending the bride at a wedding",
-        "ex_of_definition_list": [
-          "The bridesmaids were wearing matching turquoise dresses."
-        ]
-      }
+    "hash_code_list_img": "-529094854",
+    "list_example": [
+      "The activities of the principal bridesmaid may be as many or as varied as she allows the bride to impose upon her.",
+      "A bridesmaid is typically a young woman, and often a close friend or sister.",
+      "The chief bridesmaid may be called a maid of honor or matron of honor."
     ],
-    "hash_code_list_definition_mean": "1502819939"
+    "hash_code_list_example": "-1178843383"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bride_cb_dmean_5000_it.json",
@@ -1852,17 +1346,13 @@
         "id_image": "bride_4403073"
       }
     ],
-    "hash_code_list_img": "2060865860",
-    "list_definition_mean": [
-      {
-        "mean_english": "cô dâu",
-        "definition": "a woman about to be married, or newly married",
-        "ex_of_definition_list": [
-          "The bride wore a white dress."
-        ]
-      }
+    "hash_code_list_img": "-1673429740",
+    "list_example": [
+      "The bride wore a white dress.",
+      "But when he was eventually married, his bride turned out to have a lover.",
+      "In popular perception the younger the bride the more malleable she is considered to be to the wishes of her conjugal family."
     ],
-    "hash_code_list_definition_mean": "1523941039"
+    "hash_code_list_example": "478389201"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bridge_cb_dmean_5000_it.json",
@@ -1900,52 +1390,11 @@
         "id_image": "bridge_3722837"
       }
     ],
-    "hash_code_list_img": "-1446662504",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái cầu",
-        "definition": "a structure carrying a road or railway over a river etc",
-        "ex_of_definition_list": [
-          "We crossed the bridge."
-        ]
-      },
-      {
-        "mean_english": "đài chỉ huy của thuyền trưởng",
-        "definition": "the narrow raised platform for the captain of a ship",
-        "ex_of_definition_list": [
-          "The captain was standing on the bridge."
-        ]
-      },
-      {
-        "mean_english": "sống mũi",
-        "definition": "the bony part (of the nose)",
-        "ex_of_definition_list": [
-          "He had a bandage across the bridge of his nose."
-        ]
-      },
-      {
-        "mean_english": "cầu ngựa (mảnh gỗ di động trên đó căng dây đàn violon)",
-        "definition": "the support of the strings of a violin etc",
-        "ex_of_definition_list": [
-          "The strings are stretched over the bridge."
-        ]
-      },
-      {
-        "mean_english": "khắc phục",
-        "definition": "to close a gap, pause etc",
-        "ex_of_definition_list": [
-          "He bridged the awkward silence with a funny remark."
-        ]
-      },
-      {
-        "mean_english": "xây cầu",
-        "definition": "to build a bridge over",
-        "ex_of_definition_list": [
-          "They bridged the stream."
-        ]
-      }
+    "hash_code_list_img": "-1594973819",
+    "list_example": [
+      "He had a bandage across the bridge of his nose."
     ],
-    "hash_code_list_definition_mean": "-1898788194"
+    "hash_code_list_example": "-122186985"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/briefcase_cb_dmean_5000_it.json",
@@ -1973,17 +1422,15 @@
         "id_image": "briefcase_583604"
       }
     ],
-    "hash_code_list_img": "-2035319463",
-    "list_definition_mean": [
-      {
-        "mean_english": "cặp đựng giấy tờ, tài liệu",
-        "definition": "a light case for papers, made of leather etc",
-        "ex_of_definition_list": [
-          "a leather briefcase."
-        ]
-      }
+    "hash_code_list_img": "982946543",
+    "list_example": [
+      "I also see a briefcase or two and leather watch straps.",
+      "The red heart was trapped in a briefcase and the imagery became black and white.",
+      "There was a brown briefcase in the car.",
+      "Travellers would happily accept, for example, the supposed risk of men being allowed to carry on board the aircraft a small briefcase or document case.",
+      "You're all swine, ' ' and she throws her briefcase at him."
     ],
-    "hash_code_list_definition_mean": "1409864914"
+    "hash_code_list_example": "-648228977"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brief_cb_dmean_5000_it.json",
@@ -2018,32 +1465,19 @@
         "id_image": "briefing_4213340"
       }
     ],
-    "hash_code_list_img": "-1486773399",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngắn gọn",
-        "definition": "not long; short",
-        "ex_of_definition_list": [
-          "a brief visit",
-          "He gave us a brief account of what happened."
-        ]
-      },
-      {
-        "mean_english": "bản tóm tắt của luật sư bào chữa",
-        "definition": "a short statement of facts (especially in a lawsuit, of a client’s case)",
-        "ex_of_definition_list": [
-          "a lawyer’s brief."
-        ]
-      },
-      {
-        "mean_english": "chỉ dẫn chi tiết",
-        "definition": "to give detailed instructions to (especially a barrister, group of soldiers etc)",
-        "ex_of_definition_list": [
-          "The astronauts were briefed before the space mission."
-        ]
-      }
+    "hash_code_list_img": "-1566138705",
+    "list_example": [
+      "a brief visit",
+      "He gave us a brief account of what happened.",
+      "I chose it because it is recent, brief and relevant to ordinary people.",
+      "In every chapter the narrative is given colour by local case studies from urban and rural congregations, brief vignettes of church leaders and telling incidents.",
+      "Its antidepressant effect is usually brief ; indeed, full or partial relapse usually follows recovery sleep or even short naps.",
+      "Patients diagnosed with depression, or mixed anxiety and depression, for whom a brief psychological intervention was indicated.",
+      "The twelve physiotherapists trained in the brief intervention delivered both treatments offered in the trial, while the remaining physiotherapists provided only usual physiotherapy.",
+      "However, it is possible that use of relatively inexperienced staff with only brief training made the intervention less effective.",
+      "Having outlined our methodological wish list and defined our key independent variables, we turn to a brief discussion of our dependent variables."
     ],
-    "hash_code_list_definition_mean": "1560777765"
+    "hash_code_list_example": "405506995"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bright_cb_dmean_5000_it.json",
@@ -2069,38 +1503,15 @@
         "id_image": "bright_1576543"
       }
     ],
-    "hash_code_list_img": "-549225691",
-    "list_definition_mean": [
-      {
-        "mean_english": "sáng chói",
-        "definition": "shining with much light",
-        "ex_of_definition_list": [
-          "bright sunshine."
-        ]
-      },
-      {
-        "mean_english": "tươi sáng",
-        "definition": "(of a colour/color) strong and bold",
-        "ex_of_definition_list": [
-          "a bright red car."
-        ]
-      },
-      {
-        "mean_english": "rạng rỡ",
-        "definition": "cheerful",
-        "ex_of_definition_list": [
-          "a bright smile."
-        ]
-      },
-      {
-        "mean_english": "sáng dạ",
-        "definition": "clever",
-        "ex_of_definition_list": [
-          "Mike is one of the brightest students in the class."
-        ]
-      }
+    "hash_code_list_img": "-761541525",
+    "list_example": [
+      "bright sunshine.",
+      "a bright red car.",
+      "a bright smile.",
+      "In conventional wide-field microscopy one could see only a bright spot of confusion from the nucleus.",
+      "They require numerous, direct, legible well-paced routes offering choices of experience (quiet and green, crowded and bright and so on)."
     ],
-    "hash_code_list_definition_mean": "-235144650"
+    "hash_code_list_example": "-113976185"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/broadcast_cb_dmean_5000_it.json",
@@ -2140,32 +1551,19 @@
         "id_image": "broadcast_650949"
       }
     ],
-    "hash_code_list_img": "-16803274",
-    "list_definition_mean": [
-      {
-        "mean_english": "phát đi",
-        "definition": "to send out (radio and TV programmes/programs etc)",
-        "ex_of_definition_list": [
-          "He broadcasts regularly on national television."
-        ]
-      },
-      {
-        "mean_english": "truyền đi",
-        "definition": "to make (something) widely known",
-        "ex_of_definition_list": [
-          "He doesn’t like to broadcast the fact that he was once in prison."
-        ]
-      },
-      {
-        "mean_english": "chương trình truyền thanh, truyền hình",
-        "definition": "a television or radio programme/program",
-        "ex_of_definition_list": [
-          "I heard his radio broadcast last night",
-          "a live broadcast from the White House."
-        ]
-      }
+    "hash_code_list_img": "1221542247",
+    "list_example": [
+      "He doesn’t like to broadcast the fact that he was once in prison.",
+      "I heard his radio broadcast last night",
+      "a live broadcast from the White House.",
+      "Each pattern is broadcast through the brain by divergent-convergent axon projections.",
+      "In line with other findings, the current survey showed that the most accessible technologies to older adults were mass market broadcast and communications technologies.",
+      "Their frequency in print and broadcast media fell dramatically during the 1980s and since.",
+      "The temporal limitations of the broadcast interview are often cited - as in ex.",
+      "Additionally, if the radio broadcast were uncovered, that would suggest that normative coverage can be difficult to determine in a rather surprising way.",
+      "The views of these scholars have been discussed in newspapers and been broadcast on television."
     ],
-    "hash_code_list_definition_mean": "-1789169152"
+    "hash_code_list_example": "-1441039753"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/broccoli_cb_dmean_5000_it.json",
@@ -2193,18 +1591,14 @@
         "id_image": "broccoli_4796240"
       }
     ],
-    "hash_code_list_img": "-747631553",
-    "list_definition_mean": [
-      {
-        "mean_english": "súp lơ xanh",
-        "definition": "a vegetable that has short branch-like green stems with green or purple buds on the ends",
-        "ex_of_definition_list": [
-          "a head of broccoli",
-          "cream of broccoli soup."
-        ]
-      }
+    "hash_code_list_img": "-1598926671",
+    "list_example": [
+      "cream of broccoli soup.",
+      "They scarcely want to lose their own broccoli on the way.",
+      "I am informed that the yield is about 5 tons of broccoli per acre.",
+      "Indeed, they asked us what they should do with broccoli after they had grown it."
     ],
-    "hash_code_list_definition_mean": "1702180675"
+    "hash_code_list_example": "1186064633"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brochure_cb_dmean_5000_it.json",
@@ -2237,18 +1631,20 @@
         "id_image": "brochure_5978612"
       }
     ],
-    "hash_code_list_img": "1796402447",
-    "list_definition_mean": [
-      {
-        "mean_english": "sách nhỏ thông tin quảng cáo về cái gì",
-        "definition": "a short booklet giving information about holidays, products etc",
-        "ex_of_definition_list": [
-          "a glossy brochure",
-          "Get some brochures from the travel agent."
-        ]
-      }
+    "hash_code_list_img": "-2121728688",
+    "list_example": [
+      "a glossy brochure",
+      "Get some brochures from the travel agent.",
+      "Music reaches young people and can arouse initial interest better than an informational brochure.",
+      "She made sure that the candidate and his national staff did not see the brochure.49 46.",
+      "In order to receive detailed brochures giving full information about the facilities and hardware requirements of the above software, please return the coupon below.",
+      "Most schools of architecture use their web page to publicise their courses, adopting it as the electronic equivalent of the handbook or departmental brochure.",
+      "The very format and design of the brochure, and its relatively accessible price, were examples of place-promotion.",
+      "We did receive feedback that the \"green brochure\" was the topic of much discussion on various medical campuses around the nation.",
+      "Potential dangers are publicized through extensive dissemination of brochures, medical bulletins, posters, and related materials.",
+      "It will chiefly appear on leaflets, brochures, forms, instructions, standard letters and legal documents including consumer contracts."
     ],
-    "hash_code_list_definition_mean": "877959576"
+    "hash_code_list_example": "2050405452"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/broken_cb_dmean_5000_it.json",
@@ -2290,46 +1686,15 @@
         "id_image": "broken_977873"
       }
     ],
-    "hash_code_list_img": "-651569428",
-    "list_definition_mean": [
-      {
-        "mean_english": "bị vỡ",
-        "definition": "see break",
-        "ex_of_definition_list": [
-          "a broken window",
-          "My watch is broken."
-        ]
-      },
-      {
-        "mean_english": "đứt quãng",
-        "definition": "interrupted",
-        "ex_of_definition_list": [
-          "broken sleep."
-        ]
-      },
-      {
-        "mean_english": "nhấp nhô",
-        "definition": "uneven",
-        "ex_of_definition_list": [
-          "broken ground."
-        ]
-      },
-      {
-        "mean_english": "không lưu loát",
-        "definition": "(of language) not fluent",
-        "ex_of_definition_list": [
-          "He speaks broken English."
-        ]
-      },
-      {
-        "mean_english": "bị đổ vỡ",
-        "definition": "ruined",
-        "ex_of_definition_list": [
-          "The children come from a broken home (= their parents are no longer living together)."
-        ]
-      }
+    "hash_code_list_img": "1716787350",
+    "list_example": [
+      "a broken window",
+      "broken sleep.",
+      "broken ground.",
+      "He speaks broken English.",
+      "The children come from a broken home (= their parents are no longer living together)."
     ],
-    "hash_code_list_definition_mean": "1460589168"
+    "hash_code_list_example": "-466313837"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/broker_cb_dmean_5000_it.json",
@@ -2362,18 +1727,20 @@
         "id_image": "broker_6417455"
       }
     ],
-    "hash_code_list_img": "1549642741",
-    "list_definition_mean": [
-      {
-        "mean_english": "người môi giới",
-        "definition": "a person employed to buy and sell (especially shares etc) for others",
-        "ex_of_definition_list": [
-          "an insurance broker",
-          "a stockbroker."
-        ]
-      }
+    "hash_code_list_img": "-1135991305",
+    "list_example": [
+      "an insurance broker",
+      "a stockbroker.",
+      "Despite their limited range of powers, councils have been successful advocates in brokering the disjointed services of other public sector bodies for the benefit of their areas.",
+      "The existence of brokers who bought large complexes of plots and sold them individually may alleviate the problem, but this would still contribute to considerable transaction costs.",
+      "By giving a personalised transaction an institutional stamp of approval, brokers dissolved the already illusory border between of®cial and unof®cial.",
+      "The draft law was only approved in 2004, but the threat of these legal changes may have changed dramatically the behavior of annuity brokers and providers.",
+      "Local power brokers may equally be able to hold the government to ransom.",
+      "Before them, and profiting from their work, were the foremen, the campsite chiefs, the permisionarios (national contractors), the international contractors, and the chewing gum brokers working for transnational companies.",
+      "All this means that the actual work of administration, particularly in the 'second' bureaucracy, became a battlefield for brokers.",
+      "To sustain these strikes, workers had to persuade and cajole, manipulate and coerce to their side, the sundry patrons and power brokers of the neighbourhood."
     ],
-    "hash_code_list_definition_mean": "2112194364"
+    "hash_code_list_example": "-310576306"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bronchus_cb_dmean_5000_it.json",
@@ -2396,17 +1763,12 @@
         "id_image": "bronchus_655298"
       }
     ],
-    "hash_code_list_img": "-1086727627",
-    "list_definition_mean": [
-      {
-        "mean_english": "phế quản",
-        "definition": "either of the two main tubes of the trachea (= windpipe) that carry air into the lungs",
-        "ex_of_definition_list": [
-          "an inflammation of the bronchi."
-        ]
-      }
+    "hash_code_list_img": "-1015886111",
+    "list_example": [
+      "The relationship between the bronchus and the pulmonary artery was morphologically left bilaterally in all patients.",
+      "This large vessel compresses the right upper lobe bronchus resulting in emphysema."
     ],
-    "hash_code_list_definition_mean": "1767994610"
+    "hash_code_list_example": "360043320"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bronze_cb_dmean_5000_it.json",
@@ -2431,31 +1793,13 @@
         "id_image": "bronze_4033748"
       }
     ],
-    "hash_code_list_img": "-151140550",
-    "list_definition_mean": [
-      {
-        "mean_english": "đồng thiếc",
-        "definition": "(of) an alloy of copper and tin",
-        "ex_of_definition_list": [
-          "The medal is (made of) bronze."
-        ]
-      },
-      {
-        "mean_english": "màu đồng thiếc",
-        "definition": "(of) its reddish brown colour/color",
-        "ex_of_definition_list": [
-          "bronze eye shadow."
-        ]
-      },
-      {
-        "mean_english": "đồ bằng đồng thiếc",
-        "definition": "(a work of art) made of bronze",
-        "ex_of_definition_list": [
-          "an exhibition of bronzes."
-        ]
-      }
+    "hash_code_list_img": "1750666639",
+    "list_example": [
+      "bronze eye shadow.",
+      "Similarly, melon beads and bronze pendants found inside military forts are usually considered to be associated with cavalry horses.",
+      "The same is true of some of the early bronze age round barrows."
     ],
-    "hash_code_list_definition_mean": "995857510"
+    "hash_code_list_example": "1148170924"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/brooch_cb_dmean_5000_it.json",
@@ -2488,16 +1832,10 @@
         "id_image": "brooch_4612601"
       }
     ],
-    "hash_code_list_img": "1642640782",
-    "list_definition_mean": [
-      {
-        "mean_english": "ghim hoa (gài cổ áo)",
-        "definition": "a decoration, especially for a woman’s dress, fastened by a pin",
-        "ex_of_definition_list": [
-          "She wore a brooch on the collar of her dress."
-        ]
-      }
+    "hash_code_list_img": "-599881131",
+    "list_example": [
+      "She wore a brooch on the collar of her dress."
     ],
-    "hash_code_list_definition_mean": "1007264623"
+    "hash_code_list_example": "-966294416"
   }
 ]

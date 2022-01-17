@@ -25,17 +25,17 @@
         "id_image": "contagion_3734017"
       }
     ],
-    "hash_code_list_img": "-1315902722",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự lây bệnh",
-        "definition": "an infection",
-        "ex_of_definition_list": [
-          "How high are the risks of contagion?"
-        ]
-      }
+    "hash_code_list_img": "1127708698",
+    "list_example": [
+      "If one state sets foot upon such a path, there is every chance of the contagion process acting in reverse.",
+      "Mining activities have wreaked havoc on the environment, especially in relation to the diminution and contagion of water and wood used for burning fires.",
+      "Gubernatorial elections turn out to be a more promising environment in which to test for contagion effects.",
+      "The very pronounced contagion effect discernable in presidential years requires closer consideration.",
+      "The effects of political contagion were such that outcomes in early states could not wholly be left to chance.",
+      "There are solid reasons to suspect that congressional contagion constituted only one manifestation of a broader period pattern.",
+      "The contagion effect is modeled via the dependence of the transition probabilities on the fraction of traders in the alternative state."
     ],
-    "hash_code_list_definition_mean": "556677645"
+    "hash_code_list_example": "-1267916213"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/contagious_cb_dmean_5000_it.json",
@@ -73,17 +73,14 @@
         "id_image": "contagious_3182061"
       }
     ],
-    "hash_code_list_img": "-1404298230",
-    "list_definition_mean": [
-      {
-        "mean_english": "dễ lây",
-        "definition": "spreading from one person to another by physical contact",
-        "ex_of_definition_list": [
-          "Is that skin disease contagious?"
-        ]
-      }
+    "hash_code_list_img": "-260471519",
+    "list_example": [
+      "The contagious epidemic of risk management ideas, across sectors and across countries, is in itself an interesting phenomenon.",
+      "A further model [48] ignored long-distance movements and concentrated on contagious spread between neighbours.",
+      "The fight against infectious and contagious diseases had noticeable consequences for the population over 60, although the main cause of mortality among the elderly was degenerative diseases.",
+      "Individual identification is essential for the effective tracing of animals for veterinary purposes, which is of crucial importance for the control of contagious diseases."
     ],
-    "hash_code_list_definition_mean": "427645606"
+    "hash_code_list_example": "-1255818056"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/container_cb_dmean_5000_it.json",
@@ -122,25 +119,11 @@
         "id_image": "container_883694"
       }
     ],
-    "hash_code_list_img": "-187699914",
-    "list_definition_mean": [
-      {
-        "mean_english": "vật đựng (chai, lọ)",
-        "definition": "something made to contain things",
-        "ex_of_definition_list": [
-          "He brought his lunch in a plastic container."
-        ]
-      },
-      {
-        "mean_english": "công ten nơ",
-        "definition": "a very large sealed metal box for carrying goods on a lorry, ship etc",
-        "ex_of_definition_list": [
-          "The ship carried twenty containers",
-          "(also adjective) a container ship, a container lorry."
-        ]
-      }
+    "hash_code_list_img": "767150954",
+    "list_example": [
+      "(also adjective) a container ship, a container lorry."
     ],
-    "hash_code_list_definition_mean": "-1613460530"
+    "hash_code_list_example": "-723238734"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/contempt_cb_dmean_5000_it.json",
@@ -164,24 +147,17 @@
         "id_image": "contempt_4138777"
       }
     ],
-    "hash_code_list_img": "-1180582976",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự khinh miệt",
-        "definition": "very low opinion; scorn",
-        "ex_of_definition_list": [
-          "She spoke with utter contempt of her husband’s behaviour/behavior."
-        ]
-      },
-      {
-        "mean_english": "sự bất chấp các quy tắc",
-        "definition": "disregard for the law",
-        "ex_of_definition_list": [
-          "He is admitting to blatant contempt for the rules of the sport in which he competed."
-        ]
-      }
+    "hash_code_list_img": "807442476",
+    "list_example": [
+      "She spoke with utter contempt of her husband’s behaviour/behavior.",
+      "He is admitting to blatant contempt for the rules of the sport in which he competed.",
+      "In one extract he had shown his contempt for the political pragmatism espoused by the home rule party.",
+      "Two of the three judges who delivered dissenting verdicts in this contempt case have since been retired, for technically legitimate but involuntary reasons.",
+      "She has no use for him and his contempt for the needy and relationships of need.",
+      "Both were largely self-educated, both highly individualistic and charismatic, both possessed aristocratic tastes and contempt for groups and organizations.",
+      "Prevention programs should encourage the development of norms against these forms of contempt and their consequences."
     ],
-    "hash_code_list_definition_mean": "1311379575"
+    "hash_code_list_example": "-322691396"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/content_cb_dmean_5000_it.json",
@@ -217,45 +193,20 @@
         "id_image": "content_950572"
       }
     ],
-    "hash_code_list_img": "1475227011",
-    "list_definition_mean": [
-      {
-        "mean_english": "bằng lòng",
-        "definition": "satisfied; quietly happy",
-        "ex_of_definition_list": [
-          "He doesn’t want more money – he’s content with what he has."
-        ]
-      },
-      {
-        "mean_english": "sự bằng lòng",
-        "definition": "the state of being satisfied or quietly happy",
-        "ex_of_definition_list": [
-          "You’re on holiday – you can lie in the sun to your heart’s content."
-        ]
-      },
-      {
-        "mean_english": "bằng lòng",
-        "definition": "to satisfy",
-        "ex_of_definition_list": [
-          "As the TV’s broken, you’ll have to content yourself with listening to the radio."
-        ]
-      },
-      {
-        "mean_english": "nội dung",
-        "definition": "the subject matter (of a book, speech etc)",
-        "ex_of_definition_list": [
-          "The content of his speech proved to be somewhat controversial."
-        ]
-      },
-      {
-        "mean_english": "chứa đựng",
-        "definition": "the amount of something contained",
-        "ex_of_definition_list": [
-          "Oranges have a high vitamin C content."
-        ]
-      }
+    "hash_code_list_img": "160003709",
+    "list_example": [
+      "He doesn’t want more money – he’s content with what he has.",
+      "As the TV’s broken, you’ll have to content yourself with listening to the radio.",
+      "The content of his speech proved to be somewhat controversial.",
+      "Consequently, elderly participants were not recruited as the survey content would have been irrelevant.",
+      "His content analysis of interview data revealed three themes.",
+      "They could be full-time content developers, or they could work part-time alongside other teaching or research duties.",
+      "If the glucosinolate content of rapeseed seed meal remains low, it too can be used as a feed supplement.",
+      "Similarly, the model specifies no checkerboard contributions to content until that date, then requires them afterwards.",
+      "Metabolic stresses at a given water content can impair specific metabolic activities.",
+      "They accept that legal systems may exist and that, if they do, their content may be wholly determinate."
     ],
-    "hash_code_list_definition_mean": "-1816968416"
+    "hash_code_list_example": "1471178403"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/contestant_cb_dmean_5000_it.json",
@@ -283,17 +234,11 @@
         "id_image": "contestant_5824046"
       }
     ],
-    "hash_code_list_img": "471498892",
-    "list_definition_mean": [
-      {
-        "mean_english": "thí sinh",
-        "definition": "a person who takes part in a contest",
-        "ex_of_definition_list": [
-          "He is the youngest contestant in the swimming competition."
-        ]
-      }
+    "hash_code_list_img": "1638232008",
+    "list_example": [
+      "He is the youngest contestant in the swimming competition."
     ],
-    "hash_code_list_definition_mean": "751180634"
+    "hash_code_list_example": "-2102912220"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/contest_cb_dmean_5000_it.json",
@@ -333,31 +278,11 @@
         "id_image": "contest_4350623"
       }
     ],
-    "hash_code_list_img": "462035685",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuộc thi",
-        "definition": "a struggle, competition etc to gain an advantage or victory",
-        "ex_of_definition_list": [
-          "a sporting contest."
-        ]
-      },
-      {
-        "mean_english": "tham gia cuộc thi",
-        "definition": "to take part in a competition or election and attempt to win it",
-        "ex_of_definition_list": [
-          "Five candidates are contesting the by-election."
-        ]
-      },
-      {
-        "mean_english": "tranh luận",
-        "definition": "to state formally that you do not accept something because you disagree with it or think that it is wrong",
-        "ex_of_definition_list": [
-          "His wife is planning to contest the will."
-        ]
-      }
+    "hash_code_list_img": "-1012051702",
+    "list_example": [
+      "His wife is planning to contest the will."
     ],
-    "hash_code_list_definition_mean": "887982013"
+    "hash_code_list_example": "1523937609"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/context_cb_dmean_5000_it.json",
@@ -390,17 +315,14 @@
         "id_image": "context_6348622"
       }
     ],
-    "hash_code_list_img": "-1317170885",
-    "list_definition_mean": [
-      {
-        "mean_english": "văn cảnh",
-        "definition": "the parts directly before or after a word or phrase (written or spoken) which affect its meaning",
-        "ex_of_definition_list": [
-          "This statement, taken out of its context, gives a wrong impression of the speaker’s opinions."
-        ]
-      }
+    "hash_code_list_img": "-1346632365",
+    "list_example": [
+      "On not being led up the garden path : the use of context by the psychological parser.",
+      "This quotation within a mathematical context makes it possible to suggest an interpretation for a rather difficult philosophical statement.",
+      "Working within the principles of organic agriculture and thus acknowledging the values of the system is also an important context for research.",
+      "In the enriched representational context of events, situations, actions, and plans the operative representational unit is often a circuit of nodes rather than a node."
     ],
-    "hash_code_list_definition_mean": "1636003064"
+    "hash_code_list_example": "-2004723705"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/contingency_cb_dmean_5000_it.json",
@@ -423,17 +345,11 @@
         "id_image": "contingency_5267793"
       }
     ],
-    "hash_code_list_img": "1008000699",
-    "list_definition_mean": [
-      {
-        "mean_english": "việc bất ngờ",
-        "definition": "a chance happening",
-        "ex_of_definition_list": [
-          "We’re prepared for all contingencies."
-        ]
-      }
+    "hash_code_list_img": "-188235707",
+    "list_example": [
+      "Only the response-reinforcer contingency was varied, while the stimulus-reinforcer relations were unchanged."
     ],
-    "hash_code_list_definition_mean": "1470726936"
+    "hash_code_list_example": "-422102649"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/continue_cb_dmean_5000_it.json",
@@ -457,29 +373,11 @@
         "id_image": "continue_4727045"
       }
     ],
-    "hash_code_list_img": "-765128537",
-    "list_definition_mean": [
-      {
-        "mean_english": "tiếp tục",
-        "definition": "to go on being, doing etc; to last or keep on",
-        "ex_of_definition_list": [
-          "She continued to run",
-          "They continued running",
-          "He will continue in his present job",
-          "The noise continued for several hours",
-          "The road continues for 150 kilometres."
-        ]
-      },
-      {
-        "mean_english": "tiếp diễn",
-        "definition": "to go on (with) often after a break or pause",
-        "ex_of_definition_list": [
-          "He continued his talk after the interval",
-          "This story is continued on p.53."
-        ]
-      }
+    "hash_code_list_img": "932467574",
+    "list_example": [
+      "He will continue in his present job"
     ],
-    "hash_code_list_definition_mean": "627449575"
+    "hash_code_list_example": "-183312932"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/continuity_cb_dmean_5000_it.json",
@@ -503,24 +401,12 @@
         "id_image": "continuous_4098110"
       }
     ],
-    "hash_code_list_img": "1873182704",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự liên tục",
-        "definition": "the state of being continuous or logically related",
-        "ex_of_definition_list": [
-          "It is important to children to have some continuity in their education."
-        ]
-      },
-      {
-        "mean_english": "kịch bản điện ảnh",
-        "definition": "the detailed arrangement of the parts of a story etc for a film script etc",
-        "ex_of_definition_list": [
-          "(also adjective) a continuity girl."
-        ]
-      }
+    "hash_code_list_img": "-713871823",
+    "list_example": [
+      "It is important to children to have some continuity in their education.",
+      "(also adjective) a continuity girl."
     ],
-    "hash_code_list_definition_mean": "-1810766443"
+    "hash_code_list_example": "-227503396"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/continuous_cb_dmean_5000_it.json",
@@ -553,19 +439,19 @@
         "id_image": "continuous_3475493"
       }
     ],
-    "hash_code_list_img": "510414881",
-    "list_definition_mean": [
-      {
-        "mean_english": "liên tục",
-        "definition": "joined together, or going on, without interruption",
-        "ex_of_definition_list": [
-          "a continuous series",
-          "continuous rain",
-          "continuous movement."
-        ]
-      }
+    "hash_code_list_img": "-149401213",
+    "list_example": [
+      "a continuous series",
+      "continuous rain",
+      "continuous movement.",
+      "This ambivalence was reflected in the continuous violation of the cease-fire agreement by both parties.",
+      "Since the antiphoner was in continuous revision no absolute tally is practical for most chant-forms.",
+      "We do not use data prior to 1975 because tenure has been recorded as a continuous measure only since 1975.",
+      "Thereby, a continuous supply of urea and amino acids to an open reaction system would be expected to overcome this limitation.",
+      "Key examples are systems combining no-till seeding, crop-rotations including legumes, plus maintenance of continuous crop-residue cover to the soil.",
+      "The study area is surrounded by large expanses (>200 km) of mainly continuous forest to the west, north and east."
     ],
-    "hash_code_list_definition_mean": "861520917"
+    "hash_code_list_example": "1357393753"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/contraband_cb_dmean_5000_it.json",
@@ -583,18 +469,11 @@
         "id_image": "contraband_6310432"
       }
     ],
-    "hash_code_list_img": "1887389286",
-    "list_definition_mean": [
-      {
-        "mean_english": "hàng lậu",
-        "definition": "goods which are legally forbidden to be brought into a country",
-        "ex_of_definition_list": [
-          "He has been charged with smuggling contraband",
-          "(also adjective) contraband cigarettes."
-        ]
-      }
+    "hash_code_list_img": "341743022",
+    "list_example": [
+      "(also adjective) contraband cigarettes."
     ],
-    "hash_code_list_definition_mean": "651023566"
+    "hash_code_list_example": "48834065"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/contractor_cb_dmean_5000_it.json",
@@ -627,17 +506,11 @@
         "id_image": "contractor_6027085"
       }
     ],
-    "hash_code_list_img": "-156746822",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà thầu",
-        "definition": "a person or firm that promises to do work or supply goods at a fixed rate",
-        "ex_of_definition_list": [
-          "a building contractor."
-        ]
-      }
+    "hash_code_list_img": "729815023",
+    "list_example": [
+      "The paper does not include the other categories of independent contractor (dentists, optometrists and pharmacists) as no individuals from these groups were interviewed."
     ],
-    "hash_code_list_definition_mean": "1267338530"
+    "hash_code_list_example": "-1500071824"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/contract_cb_dmean_5000_it.json",
@@ -679,41 +552,13 @@
         "id_image": "contract_924534"
       }
     ],
-    "hash_code_list_img": "1546964872",
-    "list_definition_mean": [
-      {
-        "mean_english": "co lại",
-        "definition": "to make or become smaller, less, shorter, tighter etc",
-        "ex_of_definition_list": [
-          "Metals expand when heated and contract when cooled",
-          "‘I am’ is often contracted to ‘I’m’",
-          "Muscles contract."
-        ]
-      },
-      {
-        "mean_english": "hợp đồng",
-        "definition": "American ˈkontrakt to promise legally in writing",
-        "ex_of_definition_list": [
-          "They contracted to supply us with cable."
-        ]
-      },
-      {
-        "mean_english": "nhiễm phải",
-        "definition": "to become infected with (a disease)",
-        "ex_of_definition_list": [
-          "He contracted malaria."
-        ]
-      },
-      {
-        "mean_english": "bản hợp đồng",
-        "definition": "a legal written agreement",
-        "ex_of_definition_list": [
-          "He has a four-year contract (of employment) with us",
-          "The firm won a contract for three new aircraft."
-        ]
-      }
+    "hash_code_list_img": "-209225409",
+    "list_example": [
+      "Metals expand when heated and contract when cooled",
+      "He has a four-year contract (of employment) with us",
+      "The firm won a contract for three new aircraft."
     ],
-    "hash_code_list_definition_mean": "445493551"
+    "hash_code_list_example": "-597552696"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/contrast_cb_dmean_5000_it.json",
@@ -754,38 +599,16 @@
         "id_image": "contrast_6040140"
       }
     ],
-    "hash_code_list_img": "-1603436270",
-    "list_definition_mean": [
-      {
-        "mean_english": "làm tương phản",
-        "definition": "to show marked difference from",
-        "ex_of_definition_list": [
-          "His words contrast with his actions."
-        ]
-      },
-      {
-        "mean_english": "đối chiếu",
-        "definition": "to compare so as to show differences",
-        "ex_of_definition_list": [
-          "Contrast fresh and frozen vegetables and you’ll find the fresh ones taste better."
-        ]
-      },
-      {
-        "mean_english": "sự tương phản",
-        "definition": "difference(s) in things or people that are compared",
-        "ex_of_definition_list": [
-          "The contrast between their attitudes is very marked."
-        ]
-      },
-      {
-        "mean_english": "sự khác biệt",
-        "definition": "a thing or person that shows a marked difference (to another)",
-        "ex_of_definition_list": [
-          "She’s a complete contrast to her sister."
-        ]
-      }
+    "hash_code_list_img": "-2092038357",
+    "list_example": [
+      "His words contrast with his actions.",
+      "The contrast between their attitudes is very marked.",
+      "She’s a complete contrast to her sister.",
+      "This too was in marked contrast to the conduct of planning before the devaluation.",
+      "Note that this is in contrast to most traditional fault modeling approaches where the fault is represented as an additive or a multiplicative time-dependent quantity.",
+      "They contrast with syntactic representations, which are structured in terms of lexical heads and grammatical functions or relations."
     ],
-    "hash_code_list_definition_mean": "1216089901"
+    "hash_code_list_example": "-659582997"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/contribution_cb_dmean_5000_it.json",
@@ -819,24 +642,15 @@
         "id_image": "contribution_6313799"
       }
     ],
-    "hash_code_list_img": "-1603233393",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự đóng góp",
-        "definition": "the act of contributing",
-        "ex_of_definition_list": [
-          "We can only raise the cost of this activity by voluntary contribution."
-        ]
-      },
-      {
-        "mean_english": "vật đóng góp",
-        "definition": "something contributed, especially money",
-        "ex_of_definition_list": [
-          "Would you like to make a contribution to this charity?"
-        ]
-      }
+    "hash_code_list_img": "-1149742324",
+    "list_example": [
+      "Would you like to make a contribution to this charity?",
+      "Our contribution is thus an exploration of the language design space rather than a theoretical investigation of properties of these models.",
+      "This book is a punishing read but makes an outstanding contribution to its topic.",
+      "However, their roles and contribution to cell signalling events remain incompletely understood.",
+      "His contribution contains the most detailed phonetic analysis, taking into account not only prosodic features but segmental characteristics as well."
     ],
-    "hash_code_list_definition_mean": "1407003651"
+    "hash_code_list_example": "-913255724"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/controller_cb_dmean_5000_it.json",
@@ -859,17 +673,16 @@
         "id_image": "controller_1425575"
       }
     ],
-    "hash_code_list_img": "1766480845",
-    "list_definition_mean": [
-      {
-        "mean_english": "người kiểm soát",
-        "definition": "a person or thing that controls",
-        "ex_of_definition_list": [
-          "an air-traffic controller."
-        ]
-      }
+    "hash_code_list_img": "900683056",
+    "list_example": [
+      "We have tested the proposed controller by extensive computer simulations and the results appear to be promising.",
+      "Moreover, the handle consists of an active hand controller and a passive force feedback.",
+      "The sensors are assumed to respond to the controller within the time windows to confirm that the expected state transitions have occurred.",
+      "It will be possible to import product data into the robot controller and use it for programming.",
+      "The analytical results from the model are useful for robot design and utilization as well as design of an intelligent controller for robotic assembly.",
+      "Current feedback trips the controller to idle mode when an over current condition occurs for more than a few seconds."
     ],
-    "hash_code_list_definition_mean": "873447881"
+    "hash_code_list_example": "-940085681"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/control_cb_dmean_5000_it.json",
@@ -913,62 +726,21 @@
         "id_image": "control_5664428"
       }
     ],
-    "hash_code_list_img": "-1068460311",
-    "list_definition_mean": [
-      {
-        "mean_english": "kiểm soát",
-        "definition": "the right of directing or of giving orders; power or authority",
-        "ex_of_definition_list": [
-          "She has control over all the decisions in that department",
-          "She has no control over that dog."
-        ]
-      },
-      {
-        "mean_english": "sự quản lý",
-        "definition": "the act of holding back or restraining",
-        "ex_of_definition_list": [
-          "government control of prices",
-          "I know you’re angry but you must not lose control (of yourself)."
-        ]
-      },
-      {
-        "mean_english": "bộ điều khiển",
-        "definition": "a lever, button etc which operates (a machine etc)",
-        "ex_of_definition_list": [
-          "The clutch and accelerator are foot controls in a car."
-        ]
-      },
-      {
-        "mean_english": "nơi kiểm tra",
-        "definition": "a point or place at which an inspection takes place",
-        "ex_of_definition_list": [
-          "passport control."
-        ]
-      },
-      {
-        "mean_english": "có quyền lực đối với ai/cái gì",
-        "definition": "to direct or guide; to have power or authority over",
-        "ex_of_definition_list": [
-          "The captain controls the whole ship",
-          "Control your dog!"
-        ]
-      },
-      {
-        "mean_english": "kìm nén",
-        "definition": "to hold back; to restrain (oneself or one’s emotions etc)",
-        "ex_of_definition_list": [
-          "Control yourself!"
-        ]
-      },
-      {
-        "mean_english": "quản lý",
-        "definition": "to keep to a fixed standard",
-        "ex_of_definition_list": [
-          "The government is controlling prices."
-        ]
-      }
+    "hash_code_list_img": "1936885637",
+    "list_example": [
+      "She has control over all the decisions in that department",
+      "She has no control over that dog.",
+      "government control of prices",
+      "I know you’re angry but you must not lose control (of yourself).",
+      "The environment passes control to an ordinary text-editor of the user's choice, post-processing the resulting file.",
+      "It appears then that the planning - control model may require modification in order to accommodate these recent findings.",
+      "In this sense, then, control relies on planning to provide an adequate efference copy.",
+      "When the tracker is not sure that a sequence is being repeated, or when the tracked sequence finishes, it returns control to the neural network.",
+      "This evidence suggests that planning and control each serve a specialized purpose utilizing distinct visual representations.",
+      "Finally, planning will time the movement such that a sufficient period of time is available for the control system to operate.",
+      "Because we did not tell the control group participants the form that the comprehension questions would take, this reviewer's point remains a possibility."
     ],
-    "hash_code_list_definition_mean": "-1344222903"
+    "hash_code_list_example": "1499295369"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/controversial_cb_dmean_5000_it.json",
@@ -986,17 +758,16 @@
         "id_image": "controversial_4144488"
       }
     ],
-    "hash_code_list_img": "750996724",
-    "list_definition_mean": [
-      {
-        "mean_english": "gây tranh cãi",
-        "definition": "causing controversy",
-        "ex_of_definition_list": [
-          "His new book is very controversial."
-        ]
-      }
+    "hash_code_list_img": "1389056732",
+    "list_example": [
+      "Ignoring controversial matters of detail, we can easily offer a programmatic explanation of their deontic status.",
+      "In particular, we investigate the reliability of prosodic features in early multiword constructions, given that previous studies provided controversial and inconclusive evidence.",
+      "More controversial is the occurrence of inferences beyond these minimal ones.",
+      "To the extent it becomes enmeshed in controversial legal disputes, its support is certainly at risk.",
+      "The results of our analysis do not support several of the controversial claims in the literature.",
+      "The notion of scientific revolution, of a radical and comprehensive change, need not of course contain the controversial and pregnant notion of incommensurability."
     ],
-    "hash_code_list_definition_mean": "853264996"
+    "hash_code_list_example": "-151402389"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/convenient_cb_dmean_5000_it.json",
@@ -1021,31 +792,21 @@
         "id_image": "convenient_5906060"
       }
     ],
-    "hash_code_list_img": "-1047789572",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuận tiện",
-        "definition": "suitable; not causing trouble or difficulty",
-        "ex_of_definition_list": [
-          "When would it be convenient for me to come?"
-        ]
-      },
-      {
-        "mean_english": "thuận lợi",
-        "definition": "easy to use, run etc",
-        "ex_of_definition_list": [
-          "a convenient size of house."
-        ]
-      },
-      {
-        "mean_english": "dễ đi đến",
-        "definition": "easy to reach etc; accessible",
-        "ex_of_definition_list": [
-          "Keep this in a convenient place."
-        ]
-      }
+    "hash_code_list_img": "-373291733",
+    "list_example": [
+      "When would it be convenient for me to come?",
+      "a convenient size of house.",
+      "Keep this in a convenient place.",
+      "However, it will be convenient to give a terse summary of the notions of (bi)simulations, presented within our own framework.",
+      "For partial and complete adherers, making changes to the diet was preferable, easier, more affordable and more convenient than increasing physical activity.",
+      "The scheduling of the post-intervention questionnaire had to be arranged at a time which was convenient to the schools.",
+      "A convenient testing time with the child and a caregiver was arranged.",
+      "The concept of an argumentative structure, with the two notions of argument and acceptability, are a convenient framework for developing practical reasoning tools.",
+      "Art of government, on the other hand, is the right disposition of things, arranged so as to lead to a convenient end.",
+      "If the identified control was not at home at the time of the call, a mutually convenient time was arranged to conduct the interview.",
+      "Although this is a mathematically convenient assumption, the way humans look at the world does not always conform to it."
     ],
-    "hash_code_list_definition_mean": "1387311261"
+    "hash_code_list_example": "1029131479"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/convention_cb_dmean_5000_it.json",
@@ -1070,32 +831,12 @@
         "id_image": "convention_4079161"
       }
     ],
-    "hash_code_list_img": "-82035992",
-    "list_definition_mean": [
-      {
-        "mean_english": "quy ước",
-        "definition": "a way of behaving that has become usual; (an) established custom",
-        "ex_of_definition_list": [
-          "Shaking hands when meeting people is a normal convention in many countries",
-          "He does not care about convention."
-        ]
-      },
-      {
-        "mean_english": "hội nghị",
-        "definition": "in the United States a meeting of delegates from a political party for nominating a presidential candidate",
-        "ex_of_definition_list": [
-          "the Republican National Convention."
-        ]
-      },
-      {
-        "mean_english": "hội thảo",
-        "definition": "an assembly of people of a particular profession etc",
-        "ex_of_definition_list": [
-          "She gave the keynote speech at a national convention of ecologists."
-        ]
-      }
+    "hash_code_list_img": "965480075",
+    "list_example": [
+      "Shaking hands when meeting people is a normal convention in many countries",
+      "She gave the keynote speech at a national convention of ecologists."
     ],
-    "hash_code_list_definition_mean": "907710063"
+    "hash_code_list_example": "-208314852"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/conversation_cb_dmean_5000_it.json",
@@ -1128,17 +869,14 @@
         "id_image": "conversation_1147983"
       }
     ],
-    "hash_code_list_img": "2042905312",
-    "list_definition_mean": [
-      {
-        "mean_english": "hội thoại",
-        "definition": "talk between people",
-        "ex_of_definition_list": [
-          "The two men were carrying on an animated conversation."
-        ]
-      }
+    "hash_code_list_img": "-1123652843",
+    "list_example": [
+      "Without such specification, it remains unclear why some changes made in conversation lead to corrections, and others don't.",
+      "An initial warm-up conversation was followed by four narrative tasks in which the child was expected to produce at least one narrative.",
+      "In any conversation where information is conveyed, the interlocutors must have somewhat different models, at least before the end of the conversation.",
+      "In what follows, we ask whether and how political conversation influences efficacy."
     ],
-    "hash_code_list_definition_mean": "1061774609"
+    "hash_code_list_example": "-433125005"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/converse_cb_dmean_5000_it.json",
@@ -1157,24 +895,12 @@
         "id_image": "converse_1974761"
       }
     ],
-    "hash_code_list_img": "743901446",
-    "list_definition_mean": [
-      {
-        "mean_english": "chuyện trò",
-        "definition": "to talk",
-        "ex_of_definition_list": [
-          "It is difficult to converse with people who do not speak your language."
-        ]
-      },
-      {
-        "mean_english": "điều ngược lại",
-        "definition": "the opposite; the contrary",
-        "ex_of_definition_list": [
-          "The converse is also true."
-        ]
-      }
+    "hash_code_list_img": "1552127638",
+    "list_example": [
+      "It is difficult to converse with people who do not speak your language.",
+      "The converse is also true."
     ],
-    "hash_code_list_definition_mean": "-1156525442"
+    "hash_code_list_example": "1656716715"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/conversion_cb_dmean_5000_it.json",
@@ -1212,18 +938,12 @@
         "id_image": "conversion_4497109"
       }
     ],
-    "hash_code_list_img": "-1000891021",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự chuyển đổi",
-        "definition": "the act of converting",
-        "ex_of_definition_list": [
-          "his conversion to Christianity",
-          "the conversion of the house into a hotel."
-        ]
-      }
+    "hash_code_list_img": "-2022422512",
+    "list_example": [
+      "his conversion to Christianity",
+      "the conversion of the house into a hotel."
     ],
-    "hash_code_list_definition_mean": "1341786028"
+    "hash_code_list_example": "1978108863"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/convertible_cb_dmean_5000_it.json",
@@ -1242,24 +962,11 @@
         "id_image": "convertible_5731839"
       }
     ],
-    "hash_code_list_img": "964301054",
-    "list_definition_mean": [
-      {
-        "mean_english": "có thể chuyển đổi được",
-        "definition": "that may or can be converted",
-        "ex_of_definition_list": [
-          "a convertible sofa."
-        ]
-      },
-      {
-        "mean_english": "ô tô mui trần",
-        "definition": "a car with a folding or detachable top",
-        "ex_of_definition_list": [
-          "He drives a convertible."
-        ]
-      }
+    "hash_code_list_img": "2122408345",
+    "list_example": [
+      "a convertible sofa."
     ],
-    "hash_code_list_definition_mean": "303348851"
+    "hash_code_list_example": "435551676"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/convert_cb_dmean_5000_it.json",
@@ -1294,32 +1001,11 @@
         "id_image": "convert_4524041"
       }
     ],
-    "hash_code_list_img": "1308849585",
-    "list_definition_mean": [
-      {
-        "mean_english": "chuyển đổi",
-        "definition": "to change from one thing into another",
-        "ex_of_definition_list": [
-          "He has converted his house into four separate flats",
-          "This sofa converts into a bed."
-        ]
-      },
-      {
-        "mean_english": "cải đạo",
-        "definition": "to change from one religion etc to another",
-        "ex_of_definition_list": [
-          "He was converted to Christianity."
-        ]
-      },
-      {
-        "mean_english": "người cải đạo",
-        "definition": "a person who has been converted to a particular religion etc",
-        "ex_of_definition_list": [
-          "a convert to Buddhism."
-        ]
-      }
+    "hash_code_list_img": "928413077",
+    "list_example": [
+      "a convert to Buddhism."
     ],
-    "hash_code_list_definition_mean": "-347877949"
+    "hash_code_list_example": "-1086214010"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/conveyor_cb_dmean_5000_it.json",
@@ -1352,17 +1038,11 @@
         "id_image": "conveyor_802773"
       }
     ],
-    "hash_code_list_img": "1282155001",
-    "list_definition_mean": [
-      {
-        "mean_english": "người hoặc vật chuyên chở",
-        "definition": "a person or thing that conveys",
-        "ex_of_definition_list": [
-          "The gentle handling offered by the conveyor makes it suitable for food products that are prone to breakage."
-        ]
-      }
+    "hash_code_list_img": "-725166524",
+    "list_example": [
+      "The gentle handling offered by the conveyor makes it suitable for food products that are prone to breakage."
     ],
-    "hash_code_list_definition_mean": "602694606"
+    "hash_code_list_example": "1570362224"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/convict_cb_dmean_5000_it.json",
@@ -1391,24 +1071,20 @@
         "id_image": "convict_583608"
       }
     ],
-    "hash_code_list_img": "1490981699",
-    "list_definition_mean": [
-      {
-        "mean_english": "kết án",
-        "definition": "to prove or declare (someone) guilty",
-        "ex_of_definition_list": [
-          "She was convicted of theft."
-        ]
-      },
-      {
-        "mean_english": "người bị kết án tù",
-        "definition": "a person serving a sentence for a crime",
-        "ex_of_definition_list": [
-          "Two of the convicts have escaped from prison."
-        ]
-      }
+    "hash_code_list_img": "811324377",
+    "list_example": [
+      "She was convicted of theft.",
+      "Two of the convicts have escaped from prison.",
+      "When convicted, there was only so much they could do to prevent a sentence of exemplary harshness and a bitter gaol experience.",
+      "Two years later, an amnesty law was passed releasing those who were convicted.",
+      "Many of these prisoners were recidivist property offenders, as former convicts found it harder than most to find subsistence.",
+      "If one coerced others by command, menace, punishment, promise, or oath to defend error pertinaciously, one would be convicted of pertinacity.",
+      "The dangerous insect operated undercover and could be convicted only by the traces it left during its criminal actions.",
+      "Other people say the best way to reduce crime is to make sure that criminals are caught, convicted and punished.",
+      "Three senior medical officials were convicted of criminal negligence and fraud and were sentenced to prison.",
+      "Death for dangerousness is preventive, the ultimate enhancement beyond the punishment deser ved for the convict's past crime."
     ],
-    "hash_code_list_definition_mean": "-65006871"
+    "hash_code_list_example": "1639001920"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cooker_cb_dmean_5000_it.json",
@@ -1442,17 +1118,15 @@
         "id_image": "cooker_675834"
       }
     ],
-    "hash_code_list_img": "1685966946",
-    "list_definition_mean": [
-      {
-        "mean_english": "bếp nướng",
-        "definition": "an apparatus on which food is cooked; a stove",
-        "ex_of_definition_list": [
-          "She has an electric cooker."
-        ]
-      }
+    "hash_code_list_img": "-1254728000",
+    "list_example": [
+      "In most houses a cooker is ordinarily installed.",
+      "For example, sideboards should be placed close together, whereas a fridge and a cooker should be far away from each other.",
+      "The most useful combination has turned out to be a heat sensor above the cooker which when activated both switches off the cooker and alerts the staff.",
+      "Food was usually prepared on a wood-fired range although one family used a gas cooker and another a converted oil drum.",
+      "The solution is a pressure cooker which provides a tenderly cooked meal at low cost."
     ],
-    "hash_code_list_definition_mean": "993293400"
+    "hash_code_list_example": "121317338"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cook_cb_dmean_5000_it.json",
@@ -1491,25 +1165,13 @@
         "id_image": "cook_816550"
       }
     ],
-    "hash_code_list_img": "165151779",
-    "list_definition_mean": [
-      {
-        "mean_english": "nấu ăn",
-        "definition": "to prepare (food) or become ready by heating",
-        "ex_of_definition_list": [
-          "She cooked the chicken",
-          "The chicken is cooking in the oven."
-        ]
-      },
-      {
-        "mean_english": "đầu bếp",
-        "definition": "a person who cooks, especially for a living",
-        "ex_of_definition_list": [
-          "She was employed as a cook at the embassy."
-        ]
-      }
+    "hash_code_list_img": "1356697841",
+    "list_example": [
+      "She was employed as a cook at the embassy.",
+      "Both narratives then emphasize the time taken to cook the hog : ' 'all night ' ' in the former, the ' ' whole night' ' in the latter.",
+      "The centre has 3.5 permanent posts - the manager, a cook and two assistants."
     ],
-    "hash_code_list_definition_mean": "-307904307"
+    "hash_code_list_example": "1873457227"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/coolant_cb_dmean_5000_it.json",
@@ -1527,17 +1189,16 @@
         "id_image": "coolant_6227157"
       }
     ],
-    "hash_code_list_img": "844185097",
-    "list_definition_mean": [
-      {
-        "mean_english": "chất làm lạnh",
-        "definition": "a liquid or gas which is used to cool something such as an engine or a nuclear reactor",
-        "ex_of_definition_list": [
-          "Open the radiator cap and add the coolant."
-        ]
-      }
+    "hash_code_list_img": "612089817",
+    "list_example": [
+      "Heat is being generated by the engine and carried by the coolant to the radiator or the bypass.",
+      "In this example, the model is used to minimize radial coolant mass flow rate whilst maintaining three other outputs within acceptable per formance bounds.",
+      "This procedure ensured that the coolant gas reached the model at a fairly constant temperature.",
+      "This graphite blanket has many holes of small diameter and helium gas as a coolant passes through them.",
+      "The same physical parts for the coolant ejection were used in both the pressure and temperature models.",
+      "The coolant of the second loop is sodium."
     ],
-    "hash_code_list_definition_mean": "604405925"
+    "hash_code_list_example": "1391533898"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cool_cb_dmean_5000_it.json",
@@ -1571,62 +1232,19 @@
         "id_image": "cool_817775"
       }
     ],
-    "hash_code_list_img": "-934648422",
-    "list_definition_mean": [
-      {
-        "mean_english": "mát",
-        "definition": "slightly cold",
-        "ex_of_definition_list": [
-          "cool weather."
-        ]
-      },
-      {
-        "mean_english": "bình tĩnh",
-        "definition": "calm or not excitable",
-        "ex_of_definition_list": [
-          "He’s very cool in a crisis."
-        ]
-      },
-      {
-        "mean_english": "lãnh đạm",
-        "definition": "not very friendly",
-        "ex_of_definition_list": [
-          "He was very cool towards me."
-        ]
-      },
-      {
-        "mean_english": "tuyệt vời",
-        "definition": "great; terrific; fantastic",
-        "ex_of_definition_list": [
-          "Wow, that’s really cool!",
-          "You look cool in those jeans!"
-        ]
-      },
-      {
-        "mean_english": "làm nguội đi",
-        "definition": "to make or become less warm",
-        "ex_of_definition_list": [
-          "The jelly will cool better in the refrigerator",
-          "She cooled her hands in the stream."
-        ]
-      },
-      {
-        "mean_english": "bình tĩnh lại",
-        "definition": "to become less strong",
-        "ex_of_definition_list": [
-          "His affection for her has cooled",
-          "Her anger cooled."
-        ]
-      },
-      {
-        "mean_english": "khí mát mẻ",
-        "definition": "cool air or atmosphere",
-        "ex_of_definition_list": [
-          "the cool of the evening."
-        ]
-      }
+    "hash_code_list_img": "-472694408",
+    "list_example": [
+      "cool weather.",
+      "He’s very cool in a crisis.",
+      "He was very cool towards me.",
+      "You look cool in those jeans!",
+      "The jelly will cool better in the refrigerator",
+      "the cool of the evening.",
+      "The custard, having been made in the morning, was left unrefrigerated and uncovered to cool in the bowl for the rest of the day.",
+      "Suppose the stanza turned out to appeal to the choice that modern subjects make to safeguard choice, to remain cool customers in the faith market.",
+      "If the layer of cool air is thin, then the interaction of the aperture wakes with the hot mean flow may be important."
     ],
-    "hash_code_list_definition_mean": "1137410969"
+    "hash_code_list_example": "480356119"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cooperate_cb_dmean_5000_it.json",
@@ -1654,17 +1272,13 @@
         "id_image": "cooperate_6286762"
       }
     ],
-    "hash_code_list_img": "-64462695",
-    "list_definition_mean": [
-      {
-        "mean_english": "cộng tác",
-        "definition": "to work together",
-        "ex_of_definition_list": [
-          "They have promised to cooperate (with us) in the planning of the exhibition."
-        ]
-      }
+    "hash_code_list_img": "1704890852",
+    "list_example": [
+      "They have promised to cooperate (with us) in the planning of the exhibition.",
+      "In other words, this subpopulation will cooperate with the others that are having difficulties to match their outputs.",
+      "Questions and concerns about how conventional and organic producers can cooperate and coexist under marketing order programs need to be addressed."
     ],
-    "hash_code_list_definition_mean": "1957019407"
+    "hash_code_list_example": "1117238055"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cooperation_cb_dmean_5000_it.json",
@@ -1703,24 +1317,16 @@
         "id_image": "cooperation_567525"
       }
     ],
-    "hash_code_list_img": "972016510",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự cộng tác",
-        "definition": "the act of working together",
-        "ex_of_definition_list": [
-          "a cooperation between the governments of Japan and the United States."
-        ]
-      },
-      {
-        "mean_english": "sự hợp tác",
-        "definition": "willingness to act or work together",
-        "ex_of_definition_list": [
-          "I would be grateful for your co-operation."
-        ]
-      }
+    "hash_code_list_img": "1351966105",
+    "list_example": [
+      "a cooperation between the governments of Japan and the United States.",
+      "In order for cooperation to be rational, participants must have a certain degree of confidence in each other's competence to complete their assigned tasks.",
+      "We also acknowledge the generous cooperation extended by the staff of the study hospitals throughout the study. 14.",
+      "But it also meant that the state increasingly relied on the cooperation of the religious authorities and on the lesson content they supplied.",
+      "The authors show that, with a sufficiently high rewiring probability, full cooperation can be reached in all social dilemma games experimented on.",
+      "The commerce and theft of the two armies certainly suggests mercenary objectives rather than the close cooperation of allies."
     ],
-    "hash_code_list_definition_mean": "-732496557"
+    "hash_code_list_example": "-1542056003"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/coordinate_cb_dmean_5000_it.json",
@@ -1743,17 +1349,18 @@
         "id_image": "coordinate_4463762"
       }
     ],
-    "hash_code_list_img": "1734894199",
-    "list_definition_mean": [
-      {
-        "mean_english": "phối hợp",
-        "definition": "to adjust (a movement or action) so that it fits in or works smoothly (with other movements or actions)",
-        "ex_of_definition_list": [
-          "In swimming the movement of one’s arms and legs must be coordinated."
-        ]
-      }
+    "hash_code_list_img": "-1057600519",
+    "list_example": [
+      "In swimming the movement of one’s arms and legs must be coordinated.",
+      "We propose that the conceptual transition to coordinated spatial representations provides the necessary perspective for bi-referential spatial location.",
+      "The operator sent the path description giving the list of geographical coordinates (geographical altitude and attitude of each target point).",
+      "They may be considered as defining point coordinates within a two-dimensional orthogonal grid.",
+      "We believe that the pattern should be that the experimental plans for use of these facilities should be closely coupled and coordinated.",
+      "Here, it is the optimal eye movement directions associated with cell discharge that are mapped in respect to cortical coordinates.",
+      "We introduce generic conditions on the regular transitions which are always defined (domain and image) in the normalizing coordinates.",
+      "To maximize the overall benefits generated from the river, management must be coordinated between the different users along the river."
     ],
-    "hash_code_list_definition_mean": "181784601"
+    "hash_code_list_example": "-53204549"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cope_cb_dmean_5000_it.json",
@@ -1771,17 +1378,18 @@
         "id_image": "cope_6159126"
       }
     ],
-    "hash_code_list_img": "265202556",
-    "list_definition_mean": [
-      {
-        "mean_english": "đối phó",
-        "definition": "to manage; to deal with successfully",
-        "ex_of_definition_list": [
-          "I can’t cope with all this work."
-        ]
-      }
+    "hash_code_list_img": "2126592419",
+    "list_example": [
+      "I can’t cope with all this work.",
+      "Therefore, they must cope with the problem of representing very diverse lexical information at different levels of granularity, and store the information efficiently.",
+      "The story, as it has been told, offers them 'a usable past' that should help them to cope with future change.",
+      "This substitution not only allows people to cope with variations in animal numbers but also enables them to manage variations in biophysical conditions.",
+      "To cope with these uncertainties, official household projections tend to apply past trends, modified by anticipated demographic and social changes.",
+      "His image of himself was of a strong man, able to cope with difficulties.",
+      "In addition, society's response to falls as a sign of failure to cope means older people may not report such fears.",
+      "Actions taken to cope with depression at different levels of severity : a community survey."
     ],
-    "hash_code_list_definition_mean": "725617647"
+    "hash_code_list_example": "1568475632"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/copyright_cb_dmean_5000_it.json",
@@ -1814,17 +1422,11 @@
         "id_image": "copyright_4391568"
       }
     ],
-    "hash_code_list_img": "1209385502",
-    "list_definition_mean": [
-      {
-        "mean_english": "quyền tác giả",
-        "definition": "(usually abbreviated to ©) the sole right to reproduce a literary, dramatic, musical or artistic work, and also to perform, translate, film, or record such a work",
-        "ex_of_definition_list": [
-          "Under the law it is the person who takes the photo that usually owns the copyright."
-        ]
-      }
+    "hash_code_list_img": "2124125507",
+    "list_example": [
+      "Under the law it is the person who takes the photo that usually owns the copyright."
     ],
-    "hash_code_list_definition_mean": "2034523930"
+    "hash_code_list_example": "904126199"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/copy_cb_dmean_5000_it.json",
@@ -1855,40 +1457,15 @@
         "id_image": "copy_4371362"
       }
     ],
-    "hash_code_list_img": "-281334918",
-    "list_definition_mean": [
-      {
-        "mean_english": "bản sao",
-        "definition": "an imitation or reproduction",
-        "ex_of_definition_list": [
-          "That dress is a copy of one I saw at a Paris fashion show",
-          "He made eight copies of the pamphlet on the photocopier."
-        ]
-      },
-      {
-        "mean_english": "một bản của cuốn sách, tờ báo",
-        "definition": "a single book, newspaper etc",
-        "ex_of_definition_list": [
-          "Can I have six copies of this dictionary, please?"
-        ]
-      },
-      {
-        "mean_english": "bản thảo",
-        "definition": "written or typed material for publishing",
-        "ex_of_definition_list": [
-          "He writes copy for advertisements."
-        ]
-      },
-      {
-        "mean_english": "sao chép",
-        "definition": "to make an imitation or reproduction of (something)",
-        "ex_of_definition_list": [
-          "Copy the way I speak",
-          "Copy this passage into your notebook."
-        ]
-      }
+    "hash_code_list_img": "1730620251",
+    "list_example": [
+      "That dress is a copy of one I saw at a Paris fashion show",
+      "He writes copy for advertisements.",
+      "All artwork must be accompanied by three hard copy printouts, these must match the electronic files.",
+      "All copy will be reviewed by the editorial staff and is subject to editing.",
+      "These master actors teach their students the repertoire of their particular genres by having them copy what they do."
     ],
-    "hash_code_list_definition_mean": "1474601612"
+    "hash_code_list_example": "-755182775"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cop_cb_dmean_5000_it.json",
@@ -1906,17 +1483,11 @@
         "id_image": "cop_1865647"
       }
     ],
-    "hash_code_list_img": "658107615",
-    "list_definition_mean": [
-      {
-        "mean_english": "viết tắt của từ copper (đồng)",
-        "definition": "a slang abbreviation of copper2",
-        "ex_of_definition_list": [
-          "an undercover cop."
-        ]
-      }
+    "hash_code_list_img": "768857020",
+    "list_example": [
+      "an undercover cop."
     ],
-    "hash_code_list_definition_mean": "1535684495"
+    "hash_code_list_example": "1046309111"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/coral_cb_dmean_5000_it.json",
@@ -1950,25 +1521,12 @@
         "id_image": "coral_4751234"
       }
     ],
-    "hash_code_list_img": "472642895",
-    "list_definition_mean": [
-      {
-        "mean_english": "san hô",
-        "definition": "(of) a hard substance of various colours, made up of skeletons of a kind of tiny sea animal",
-        "ex_of_definition_list": [
-          "a necklace made of coral",
-          "a coral reef."
-        ]
-      },
-      {
-        "mean_english": "như màu san hô",
-        "definition": "(of) an orange-pink colour/color",
-        "ex_of_definition_list": [
-          "The walls were painted in coral."
-        ]
-      }
+    "hash_code_list_img": "-1644982686",
+    "list_example": [
+      "a coral reef.",
+      "Ocular media transmission of coral reef fish- can coral reef fish see ultraviolet light?"
     ],
-    "hash_code_list_definition_mean": "985776348"
+    "hash_code_list_example": "449302454"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cordless_cb_dmean_5000_it.json",
@@ -1986,18 +1544,18 @@
         "id_image": "cordless_2472713"
       }
     ],
-    "hash_code_list_img": "1592671688",
-    "list_definition_mean": [
-      {
-        "mean_english": "không dây",
-        "definition": "without a cord; not connected to a power supply by wires",
-        "ex_of_definition_list": [
-          "a cordless phone",
-          "a cordless iron."
-        ]
-      }
+    "hash_code_list_img": "1446081266",
+    "list_example": [
+      "a cordless phone",
+      "a cordless iron.",
+      "There is clear evidence that the use of unapproved cordless telephones causes interference to other radio services, including those used by the emergency services.",
+      "A successful prosecution was brought following interference to fire brigade radio communications as a result of the use of unapproved cordless telephone.",
+      "In some studies, the cordless screwdriver has been shown to be the most efficient and quickest.",
+      "Let us take one small example: the aspect of the cordless telephone.",
+      "There are clear signs that, in many cases, companies are resisting a move towards cordless headsets, simply because of finance.",
+      "There has been some debate about whether the cordless headset is viable or makes sense."
     ],
-    "hash_code_list_definition_mean": "84324514"
+    "hash_code_list_example": "1398726898"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cordon_cb_dmean_5000_it.json",
@@ -2020,17 +1578,11 @@
         "id_image": "cordon_3580817"
       }
     ],
-    "hash_code_list_img": "2127180508",
-    "list_definition_mean": [
-      {
-        "mean_english": "hàng rào cảnh sát",
-        "definition": "a line of sentries or policemen to prevent people from entering an area",
-        "ex_of_definition_list": [
-          "They’ve put a cordon round the house where the crime was committed."
-        ]
-      }
+    "hash_code_list_img": "-532126298",
+    "list_example": [
+      "They’ve put a cordon round the house where the crime was committed."
     ],
-    "hash_code_list_definition_mean": "181281831"
+    "hash_code_list_example": "1461147378"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cord_cb_dmean_5000_it.json",
@@ -2071,32 +1623,17 @@
         "id_image": "cord_675823"
       }
     ],
-    "hash_code_list_img": "-839292249",
-    "list_definition_mean": [
-      {
-        "mean_english": "(giải phẫu) dây",
-        "definition": "a string-like part of the body",
-        "ex_of_definition_list": [
-          "the spinal cord",
-          "the vocal cords."
-        ]
-      },
-      {
-        "mean_english": "dây nguồn điện",
-        "definition": "a length of electric cable or flex attached to an electrical appliance",
-        "ex_of_definition_list": [
-          "the cord of his electric razor."
-        ]
-      },
-      {
-        "mean_english": "nhung kẻ",
-        "definition": "a kind of velvet fabric with a ribbed appearance; in plural trousers made of this",
-        "ex_of_definition_list": [
-          "a pair of cords."
-        ]
-      }
+    "hash_code_list_img": "2090974926",
+    "list_example": [
+      "the cord of his electric razor.",
+      "Policies with respect to cord clamping and cutting the cord also varied widely, with most practitioners clamping and cutting immediately.",
+      "In the flexible-dosage study in patients with spinal cord injury pain, 22% of pregabalin and 8% of placebo-treated patients were responders.",
+      "Similarly, the nerve injury-induced proinflammatory gene expression in the spinal cord is also reduced in the toll-like receptor 2 knockout mice.",
+      "This paper describes a head-operated telerobot system (virtual headstick) suitable for individuals with high level spinal cord injuries.",
+      "As mentioned, one patient in this series underwent five surgical excisions of the primary and recurrent spinal cord tumours.",
+      "The nerve injury-induced spinal cord microglia and astrocyte activation is reduced in the toll-like receptor 2 knockout mice."
     ],
-    "hash_code_list_definition_mean": "-1633095420"
+    "hash_code_list_example": "901770078"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/core_cb_dmean_5000_it.json",
@@ -2130,25 +1667,16 @@
         "id_image": "core_5267333"
       }
     ],
-    "hash_code_list_img": "-1925772084",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhân; lõi",
-        "definition": "the innermost part of something, especially fruit",
-        "ex_of_definition_list": [
-          "an apple-core",
-          "the core of the earth."
-        ]
-      },
-      {
-        "mean_english": "lấy lõi ra",
-        "definition": "to take out the core of (fruit)",
-        "ex_of_definition_list": [
-          "Core the apples."
-        ]
-      }
+    "hash_code_list_img": "-173087868",
+    "list_example": [
+      "the core of the earth.",
+      "The core of the material is presented in sufficient detail that the survey may serve as a text for teaching constrained global optimization.",
+      "The high-density pellet core is surrounded by a hot, fully ionized low-density corona.",
+      "This represents the core of the application: the remaining work is 'overhead' that should be minimised by a good implementation.",
+      "The region outside the core is either visible or not visible throughout the whole sequence, including the sections in the wake.",
+      "We visited the core area 3 d per week and the peripheral regions 3 d per month."
     ],
-    "hash_code_list_definition_mean": "-597369628"
+    "hash_code_list_example": "-252546979"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/coriander_cb_dmean_5000_it.json",
@@ -2176,17 +1704,14 @@
         "id_image": "coriander_6108966"
       }
     ],
-    "hash_code_list_img": "369205582",
-    "list_definition_mean": [
-      {
-        "mean_english": "rau mùi",
-        "definition": "a plant whose leaves are used as a herb and whose seeds are used as a spice in cooking; cilantro American",
-        "ex_of_definition_list": [
-          "Garnish the curry with coriander."
-        ]
-      }
+    "hash_code_list_img": "-2009696070",
+    "list_example": [
+      "It is possible to grow coriander for industrial purposes as well as other oilseed plants on set-aside land under the area arable payment scheme.",
+      "Once reduced to powder or flakes, the peppers are often mixed with salt and roasted ground coriander seed.",
+      "These results suggest that additional enzymes from coriander are likely required for its efficient production and accumulation in transgenic seeds.",
+      "A combination of coriander and tamarind chutneys are often used as garnishments in addition to those mentioned above."
     ],
-    "hash_code_list_definition_mean": "1542975870"
+    "hash_code_list_example": "673763485"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cork_cb_dmean_5000_it.json",
@@ -2216,32 +1741,18 @@
         "id_image": "cork_804683"
       }
     ],
-    "hash_code_list_img": "-1211168720",
-    "list_definition_mean": [
-      {
-        "mean_english": "li e; bần",
-        "definition": "the outer bark of the cork tree (an oak of South Europe, North Africa etc)",
-        "ex_of_definition_list": [
-          "Cork floats well",
-          "(also adjective) cork floor tiles."
-        ]
-      },
-      {
-        "mean_english": "nút chai",
-        "definition": "a stopper for a bottle etc made of cork",
-        "ex_of_definition_list": [
-          "Put the cork back in the wine-bottle."
-        ]
-      },
-      {
-        "mean_english": "đóng nút bần",
-        "definition": "to put a cork or stopper in",
-        "ex_of_definition_list": [
-          "He corked the bottle."
-        ]
-      }
+    "hash_code_list_img": "1208301114",
+    "list_example": [
+      "(also adjective) cork floor tiles.",
+      "Put the cork back in the wine-bottle.",
+      "The cork (with hole) end rests in a groove immediately over an opening in a sheet of galvanised iron which forms the cover of a water tank below.",
+      "His simile of the champagne cork was delicious.",
+      "Within the manufacturing sector, the tendency was for the decline of the traditional sectors (textile, extractive industries, wood and cork manufacture), where input substitution had shown some progress.",
+      "The upper end of the cage is closed with a cork stopper.",
+      "As cork is only saleable when available in substantial quantities, no outlet has been found for the thin linings of crown corks.",
+      "A beetle refuge was provided in each miniplot consisting of a square of cork flooring tile (40 x 40 x 5 mm)."
     ],
-    "hash_code_list_definition_mean": "411642054"
+    "hash_code_list_example": "-653155021"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/corner_cb_dmean_5000_it.json",
@@ -2283,47 +1794,11 @@
         "id_image": "corner_939243"
       }
     ],
-    "hash_code_list_img": "1703862809",
-    "list_definition_mean": [
-      {
-        "mean_english": "góc",
-        "definition": "a point where two lines, walls, roads etc meet",
-        "ex_of_definition_list": [
-          "the corners of a cube",
-          "the corner of the street."
-        ]
-      },
-      {
-        "mean_english": "nơi kín đáo",
-        "definition": "a place, usually a small quiet place",
-        "ex_of_definition_list": [
-          "a secluded corner."
-        ]
-      },
-      {
-        "mean_english": "quả phạt góc",
-        "definition": "in football/soccer, a free kick from the corner of the field",
-        "ex_of_definition_list": [
-          "We’ve been awarded a corner."
-        ]
-      },
-      {
-        "mean_english": "dồn vào chân tường",
-        "definition": "to force (a person or animal) into a place from which it is difficult to escape",
-        "ex_of_definition_list": [
-          "The thief was cornered in an alley."
-        ]
-      },
-      {
-        "mean_english": "vào cua",
-        "definition": "to turn a corner",
-        "ex_of_definition_list": [
-          "He cornered on only three wheels",
-          "This car corners very well."
-        ]
-      }
+    "hash_code_list_img": "603140929",
+    "list_example": [
+      "the corner of the street."
     ],
-    "hash_code_list_definition_mean": "-1693150922"
+    "hash_code_list_example": "-417679890"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cornet_cb_dmean_5000_it.json",
@@ -2357,24 +1832,16 @@
         "id_image": "cornet_873445"
       }
     ],
-    "hash_code_list_img": "381190913",
-    "list_definition_mean": [
-      {
-        "mean_english": "kèn cóc nê",
-        "definition": "a brass musical instrument similar to the trumpet",
-        "ex_of_definition_list": [
-          "She plays the cornet in a youth orchestra."
-        ]
-      },
-      {
-        "mean_english": "ốc quế",
-        "definition": "a cone-shaped wafer biscuit for holding ice-cream",
-        "ex_of_definition_list": [
-          "an ice-cream cornet."
-        ]
-      }
+    "hash_code_list_img": "1945654864",
+    "list_example": [
+      "She plays the cornet in a youth orchestra.",
+      "He was given a cornet at five years of age, and started playing in a brass band at seven.",
+      "He was a truly unique artist, proving that cornet could be played as a modern jazz instrument.",
+      "The work has most often been played and recorded without the solo cornet part.",
+      "As a youngster, he learned to play piano, cornet and trombone.",
+      "The instruments he used most were the violin, the trumpet, the bassoon, the viola da gamba, the cornet and the sackbut."
     ],
-    "hash_code_list_definition_mean": "-1919698190"
+    "hash_code_list_example": "893730886"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/corn_cb_dmean_5000_it.json",
@@ -2409,23 +1876,10 @@
         "id_image": "corn_525038"
       }
     ],
-    "hash_code_list_img": "1100618186",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngô",
-        "definition": "the plants themselves; grain American",
-        "ex_of_definition_list": [
-          "a field of corn."
-        ]
-      },
-      {
-        "mean_english": "cục chai ở chân",
-        "definition": "a little bump of hard skin found on the foot",
-        "ex_of_definition_list": [
-          "I have a corn on my little toe."
-        ]
-      }
+    "hash_code_list_img": "637769933",
+    "list_example": [
+      "I have a corn on my little toe."
     ],
-    "hash_code_list_definition_mean": "-1747096615"
+    "hash_code_list_example": "1485352290"
   }
 ]

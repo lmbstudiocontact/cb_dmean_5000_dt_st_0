@@ -26,25 +26,12 @@
         "id_image": "path_781603"
       }
     ],
-    "hash_code_list_img": "-1129808398",
-    "list_definition_mean": [
-      {
-        "mean_english": "đường mòn",
-        "definition": "a way made across the ground by the passing of people or animals",
-        "ex_of_definition_list": [
-          "There is a path through the fields",
-          "a mountain path."
-        ]
-      },
-      {
-        "mean_english": "đường đi",
-        "definition": "(any place on) the line along which someone or something is moving",
-        "ex_of_definition_list": [
-          "She stood right in the path of the bus."
-        ]
-      }
+    "hash_code_list_img": "443596313",
+    "list_example": [
+      "There is a path through the fields",
+      "She stood right in the path of the bus."
     ],
-    "hash_code_list_definition_mean": "1612782765"
+    "hash_code_list_example": "1598348544"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/patience_cb_dmean_5000_it.json",
@@ -73,25 +60,12 @@
         "id_image": "patience_708653"
       }
     ],
-    "hash_code_list_img": "380353561",
-    "list_definition_mean": [
-      {
-        "mean_english": "tính kiên trì",
-        "definition": "the ability or willingness to be patient",
-        "ex_of_definition_list": [
-          "Patience is a virtue",
-          "The long wait was testing his patience."
-        ]
-      },
-      {
-        "mean_english": "lối đánh bài paxiên",
-        "definition": "a card game usually played by one person",
-        "ex_of_definition_list": [
-          "She often plays patience."
-        ]
-      }
+    "hash_code_list_img": "297118072",
+    "list_example": [
+      "So too would cheerfulness and patience in the face of absolute disaster.",
+      "This patience derives from understanding that the intervention will have little impact if it is forcibly imposed, an insight that develops during a speaker's life."
     ],
-    "hash_code_list_definition_mean": "1991490739"
+    "hash_code_list_example": "1074139525"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/patient_cb_dmean_5000_it.json",
@@ -120,24 +94,12 @@
         "id_image": "patient_706192"
       }
     ],
-    "hash_code_list_img": "-1218596061",
-    "list_definition_mean": [
-      {
-        "mean_english": "kiên nhẫn",
-        "definition": "suffering delay, pain, irritation etc quietly and without complaining",
-        "ex_of_definition_list": [
-          "It will be your turn soon – you must just be patient!"
-        ]
-      },
-      {
-        "mean_english": "bệnh nhân",
-        "definition": "a person who is being treated by a doctor, dentist etc",
-        "ex_of_definition_list": [
-          "The hospital had several hundred patients."
-        ]
-      }
+    "hash_code_list_img": "1912349270",
+    "list_example": [
+      "Only in a small proportion of cases were referrals made purely on grounds of existing illness in patient or family.",
+      "However, to have an authority figure require that a patient justify his or her plans comes perilously close to coercion."
     ],
-    "hash_code_list_definition_mean": "-575415930"
+    "hash_code_list_example": "790433828"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/patio_cb_dmean_5000_it.json",
@@ -160,17 +122,18 @@
         "id_image": "patio_5781955"
       }
     ],
-    "hash_code_list_img": "1096989141",
-    "list_definition_mean": [
-      {
-        "mean_english": "hiên",
-        "definition": "a hard flat area covered with concrete etc at the back of a house where people can sit outside",
-        "ex_of_definition_list": [
-          "He was sitting on the patio sunning himself."
-        ]
-      }
+    "hash_code_list_img": "-1600330629",
+    "list_example": [
+      "He was sitting on the patio sunning himself.",
+      "Written accounts of the planning views behind the extended patio house have not been found.",
+      "The horticultural field inhabited with several patio houses.",
+      "Rubble platform is indicated by shaded area, rubble patio is unshaded.",
+      "Sharing ritual structures would have created and reinforced an identity held in common among the multiple families living in each patio group.",
+      "Most houses formed par ts of patio groups consisting of two to four houses arranged around a patio.",
+      "A further sculpture was reportedly found in the patio of another house.",
+      "The early network linked architectural groups that included temples, altars, range structures, colonnaded halls, patios, and gallery- patio structures."
     ],
-    "hash_code_list_definition_mean": "1054753453"
+    "hash_code_list_example": "-1750395274"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/patriot_cb_dmean_5000_it.json",
@@ -198,17 +161,13 @@
         "id_image": "patriot_5291820"
       }
     ],
-    "hash_code_list_img": "1715233965",
-    "list_definition_mean": [
-      {
-        "mean_english": "người yêu nước",
-        "definition": "a person who loves (and serves) his country",
-        "ex_of_definition_list": [
-          "He was hailed as a great patriot who served his country well."
-        ]
-      }
+    "hash_code_list_img": "842318530",
+    "list_example": [
+      "He was hailed as a great patriot who served his country well.",
+      "The same work traced ' patriot ' to 1596, but found a source for ' patriotism ' only in 1726.",
+      "The patriot has to strive for the welfare of the state; and being a patriot was something that could be learned."
     ],
-    "hash_code_list_definition_mean": "2102490869"
+    "hash_code_list_example": "-1275749098"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/patrol_cb_dmean_5000_it.json",
@@ -237,32 +196,11 @@
         "id_image": "patrol_4413263"
       }
     ],
-    "hash_code_list_img": "395163888",
-    "list_definition_mean": [
-      {
-        "mean_english": "tuần tra",
-        "definition": "to watch or protect (an area) by moving continually around or through it",
-        "ex_of_definition_list": [
-          "Soldiers patrolled the streets."
-        ]
-      },
-      {
-        "mean_english": "đội tuần tra",
-        "definition": "a group of people etc who patrol an area",
-        "ex_of_definition_list": [
-          "They came across several army patrols in the hills."
-        ]
-      },
-      {
-        "mean_english": "tuần tra",
-        "definition": "the act of watching or guarding by patrolling",
-        "ex_of_definition_list": [
-          "The soldiers went out on patrol",
-          "(also adjective) patrol duty."
-        ]
-      }
+    "hash_code_list_img": "-1800191123",
+    "list_example": [
+      "(also adjective) patrol duty."
     ],
-    "hash_code_list_definition_mean": "-1784454906"
+    "hash_code_list_example": "-42834958"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pattern_cb_dmean_5000_it.json",
@@ -302,31 +240,14 @@
         "id_image": "pattern_5939563"
       }
     ],
-    "hash_code_list_img": "1322549769",
-    "list_definition_mean": [
-      {
-        "mean_english": "hoa văn",
-        "definition": "a repeated decoration or design on material etc",
-        "ex_of_definition_list": [
-          "The dress is nice, but I don’t like the pattern."
-        ]
-      },
-      {
-        "mean_english": "mẫu",
-        "definition": "a model or guide for making something",
-        "ex_of_definition_list": [
-          "a dress pattern."
-        ]
-      },
-      {
-        "mean_english": "kiểu mẫu",
-        "definition": "an example suitable to be copied",
-        "ex_of_definition_list": [
-          "the pattern of good behaviour/behavior."
-        ]
-      }
+    "hash_code_list_img": "1782165963",
+    "list_example": [
+      "the pattern of good behaviour/behavior.",
+      "Although no formal study of parasitoid behaviour was made, the search pattern of the parasitoids in this experiment appeared to be random.",
+      "This pattern was maintained at 4 years except that verb-alone responses were replaced with more pronoun-verb responses.",
+      "A clause protected with a guard matches only if both the pattern and the guard are satisfied."
     ],
-    "hash_code_list_definition_mean": "-2138762056"
+    "hash_code_list_example": "-1489048613"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pauper_cb_dmean_5000_it.json",
@@ -344,17 +265,13 @@
         "id_image": "pauper_1396219"
       }
     ],
-    "hash_code_list_img": "284145701",
-    "list_definition_mean": [
-      {
-        "mean_english": "người cùng khổ",
-        "definition": "a very poor person",
-        "ex_of_definition_list": [
-          "Her husband died a pauper."
-        ]
-      }
+    "hash_code_list_img": "1377024166",
+    "list_example": [
+      "Certainly some sixty-one per cent of all pauper letters written to these communities come from urban locations.",
+      "Did it matter if the pauper was from a proximate or distant parish?",
+      "It is likely that a single parish coffin was used to transport bodies, with the pauper simply dropped out of the end into the grave."
     ],
-    "hash_code_list_definition_mean": "873631756"
+    "hash_code_list_example": "-184331270"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pause_cb_dmean_5000_it.json",
@@ -379,24 +296,11 @@
         "id_image": "pause_5496834"
       }
     ],
-    "hash_code_list_img": "-1516079926",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự tạm nghỉ",
-        "definition": "a short stop, break or interval (while doing something)",
-        "ex_of_definition_list": [
-          "There was a pause in the conversation."
-        ]
-      },
-      {
-        "mean_english": "tạm nghỉ",
-        "definition": "to stop talking, working etc for a short time",
-        "ex_of_definition_list": [
-          "They paused for a cup of tea."
-        ]
-      }
+    "hash_code_list_img": "1196661147",
+    "list_example": [
+      "There was a pause in the conversation."
     ],
-    "hash_code_list_definition_mean": "-1673590565"
+    "hash_code_list_example": "-1090801732"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pavilion_cb_dmean_5000_it.json",
@@ -429,17 +333,19 @@
         "id_image": "pavilion_6289663"
       }
     ],
-    "hash_code_list_img": "-1525192800",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà rạp",
-        "definition": "a building on a sports ground in which players change their clothes, store equipment etc",
-        "ex_of_definition_list": [
-          "a cricket pavilion."
-        ]
-      }
+    "hash_code_list_img": "-154834344",
+    "list_example": [
+      "a cricket pavilion.",
+      "The park has a nature center, playgrounds pavilions, scenic loop road, stables, a campsite, and eight trails open to hiking, mountain biking, and horseback riding.",
+      "Each of the wooden pavilions will house five children aged between three and 16 years old, and an adult looking after them.",
+      "All the other pavilions had stickers and souvenirs and people rushed to get them.",
+      "As part of this work the pavilions were restored, the boulevard renovated, and the beach resanded.",
+      "If we could only have in these housing schemes football grounds, pavilions and baths for the children it would make all the difference in the world.",
+      "Although its size is concordant with the house it adjoins, the pavilion's scale is not.",
+      "The pavilions allow impressive double-height rooms with mezzanines on their top storey.",
+      "Much the same could be said of the exotic plants in the parks' inevitable conservatories as well as the statues, grottoes, fountains and pavilions."
     ],
-    "hash_code_list_definition_mean": "1477073805"
+    "hash_code_list_example": "1678213560"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pawn_cb_dmean_5000_it.json",
@@ -464,31 +370,16 @@
         "id_image": "pawn_3490275"
       }
     ],
-    "hash_code_list_img": "1783660371",
-    "list_definition_mean": [
-      {
-        "mean_english": "đem cầm đồ",
-        "definition": "to give (an article of value) to a pawnbroker in exchange for money (which may be repaid at a later time to get the article back)",
-        "ex_of_definition_list": [
-          "I had to pawn my watch to pay the bill."
-        ]
-      },
-      {
-        "mean_english": "con tốt",
-        "definition": "in chess, one of the small pieces of lowest rank",
-        "ex_of_definition_list": [
-          "She decided to move one of her pawns forward."
-        ]
-      },
-      {
-        "mean_english": "quân tốt",
-        "definition": "a person who is used by another person for his own gain, advantage etc",
-        "ex_of_definition_list": [
-          "She was a pawn in his ambitious plans."
-        ]
-      }
+    "hash_code_list_img": "236826437",
+    "list_example": [
+      "I had to pawn my watch to pay the bill.",
+      "She was a pawn in his ambitious plans.",
+      "Frequent transfers to excess culture medium in depression slides prevented the induction of autogamy in d4-662, and were effective in maintaining the pawn phenotype.",
+      "Cells which showed only whirling or backward swimming for less than 3 s, were judged to be exhibiting the pawn phenotype.",
+      "The pawn could not be redeemed except by a third party.",
+      "Clones with wild-type and pawn phenotypes are indicated by white and black ovals, respectively."
     ],
-    "hash_code_list_definition_mean": "1977794947"
+    "hash_code_list_example": "-1309650186"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/paw_cb_dmean_5000_it.json",
@@ -513,31 +404,13 @@
         "id_image": "paw_5584155"
       }
     ],
-    "hash_code_list_img": "539451013",
-    "list_definition_mean": [
-      {
-        "mean_english": "chân",
-        "definition": "the foot of an animal with claws or nails",
-        "ex_of_definition_list": [
-          "The dog had a thorn in its paw."
-        ]
-      },
-      {
-        "mean_english": "cào",
-        "definition": "(of an animal) to touch, hit etc (usually several times) with a paw or paws",
-        "ex_of_definition_list": [
-          "The cat was pawing (at) the dead mouse."
-        ]
-      },
-      {
-        "mean_english": "gõ chân xuống đất",
-        "definition": "(of an animal) to hit (the ground, usually several times) with a hoof, usually a front hoof",
-        "ex_of_definition_list": [
-          "The horse pawed (at) the ground."
-        ]
-      }
+    "hash_code_list_img": "-974951569",
+    "list_example": [
+      "The dog had a thorn in its paw.",
+      "The cat was pawing (at) the dead mouse.",
+      "The horse pawed (at) the ground."
     ],
-    "hash_code_list_definition_mean": "326417632"
+    "hash_code_list_example": "1911457509"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/payment_cb_dmean_5000_it.json",
@@ -576,24 +449,11 @@
         "id_image": "payment_997290"
       }
     ],
-    "hash_code_list_img": "-1875406546",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự thanh toán",
-        "definition": "money etc paid",
-        "ex_of_definition_list": [
-          "The TV can be paid for in ten weekly payments."
-        ]
-      },
-      {
-        "mean_english": "việc trả công",
-        "definition": "the act of paying",
-        "ex_of_definition_list": [
-          "He gave me a book in payment for my kindness."
-        ]
-      }
+    "hash_code_list_img": "-1729817149",
+    "list_example": [
+      "He gave me a book in payment for my kindness."
     ],
-    "hash_code_list_definition_mean": "1792611975"
+    "hash_code_list_example": "1037382518"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/payroll_cb_dmean_5000_it.json",
@@ -617,24 +477,11 @@
         "id_image": "payroll_2910488"
       }
     ],
-    "hash_code_list_img": "1891386543",
-    "list_definition_mean": [
-      {
-        "mean_english": "danh sách tiền lương",
-        "definition": "a list of all the workers in a factory etc",
-        "ex_of_definition_list": [
-          "We have 450 people on the payroll."
-        ]
-      },
-      {
-        "mean_english": "tổng số tiền lương",
-        "definition": "the total amount of money to be paid to all the workers",
-        "ex_of_definition_list": [
-          "The thieves stole the payroll."
-        ]
-      }
+    "hash_code_list_img": "1218354810",
+    "list_example": [
+      "Obviously it is a nuisance to have a man on the payroll who is repeatedly away from work."
     ],
-    "hash_code_list_definition_mean": "-1358742448"
+    "hash_code_list_example": "-1077633932"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pay_cb_dmean_5000_it.json",
@@ -672,53 +519,18 @@
         "id_image": "pay_6272570"
       }
     ],
-    "hash_code_list_img": "-792389210",
-    "list_definition_mean": [
-      {
-        "mean_english": "trả tiền",
-        "definition": "to give (money) to (someone) in exchange for goods, services etc",
-        "ex_of_definition_list": [
-          "He paid $5 for the book."
-        ]
-      },
-      {
-        "mean_english": "trả nợ",
-        "definition": "to return (money that is owed)",
-        "ex_of_definition_list": [
-          "It’s time you paid your debts."
-        ]
-      },
-      {
-        "mean_english": "trả giá",
-        "definition": "to suffer punishment (for)",
-        "ex_of_definition_list": [
-          "You’ll pay for that remark!"
-        ]
-      },
-      {
-        "mean_english": "có ích",
-        "definition": "to be useful or profitable (to)",
-        "ex_of_definition_list": [
-          "Crime doesn’t pay."
-        ]
-      },
-      {
-        "mean_english": "chú ý; kính trọng",
-        "definition": "to give (attention, homage, respect etc)",
-        "ex_of_definition_list": [
-          "Pay attention!",
-          "We came here to pay our respects to the people who died."
-        ]
-      },
-      {
-        "mean_english": "tiền lương",
-        "definition": "money given or received for work etc; wages",
-        "ex_of_definition_list": [
-          "How much pay do you get?"
-        ]
-      }
+    "hash_code_list_img": "-1424743406",
+    "list_example": [
+      "You’ll pay for that remark!",
+      "We came here to pay our respects to the people who died.",
+      "How much pay do you get?",
+      "This shows that data mining must pay close attention to computational efficiency and simple models are often preferred.",
+      "Have consumers pay the difference for costlier plans, if they think they provide better value.",
+      "Households with prior knowledge better understand the benefits and are thus willing to pay more.",
+      "It holds that it is never permitted to pay for an object x, if x could have been obtained for free.",
+      "The remaining parties agreed to pay their own costs."
     ],
-    "hash_code_list_definition_mean": "-67942622"
+    "hash_code_list_example": "1350187305"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/peaceful_cb_dmean_5000_it.json",
@@ -741,17 +553,18 @@
         "id_image": "peaceful_4601210"
       }
     ],
-    "hash_code_list_img": "-293029703",
-    "list_definition_mean": [
-      {
-        "mean_english": "thanh bình",
-        "definition": "quiet; calm; without worry or disturbance",
-        "ex_of_definition_list": [
-          "It’s very peaceful in the country."
-        ]
-      }
+    "hash_code_list_img": "782455709",
+    "list_example": [
+      "It’s very peaceful in the country.",
+      "The study was conducted between 1996 and 2000 during a relatively peaceful period in the region.",
+      "Rather, political change would be the work of elites who broke with the ruling party and negotiated a peaceful transition with their former colleagues.",
+      "Neither envy nor misfortune creeps into our peaceful valley; our cares are our work.",
+      "Landscapes are peaceful and unscarred, animals roam free, children never grow up and work is virtually non-existent.",
+      "The president later defended in public the right of civil society to peaceful protest.",
+      "Pluralism is a modern political concept of organising peaceful interaction between different groups, a very different process from the actual historical one.",
+      "Critically, it was a peaceful process, remarkable in light of the tensions surrounding ethnicity and language in the country."
     ],
-    "hash_code_list_definition_mean": "1469906147"
+    "hash_code_list_example": "1259741967"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/peace_cb_dmean_5000_it.json",
@@ -780,25 +593,13 @@
         "id_image": "peace_750482"
       }
     ],
-    "hash_code_list_img": "390428884",
-    "list_definition_mean": [
-      {
-        "mean_english": "hoà bình",
-        "definition": "(sometimes with a) (a time of) freedom from war; (a treaty or agreement which brings about) the end or stopping of a war",
-        "ex_of_definition_list": [
-          "Does our country want peace or war?",
-          "(also adjective) a peace treaty."
-        ]
-      },
-      {
-        "mean_english": "sự yên bình",
-        "definition": "freedom from disturbance; quietness",
-        "ex_of_definition_list": [
-          "I need some peace and quiet."
-        ]
-      }
+    "hash_code_list_img": "-2048804336",
+    "list_example": [
+      "Does our country want peace or war?",
+      "(also adjective) a peace treaty.",
+      "I need some peace and quiet."
     ],
-    "hash_code_list_definition_mean": "-1438502237"
+    "hash_code_list_example": "411380501"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/peach_cb_dmean_5000_it.json",
@@ -827,26 +628,11 @@
         "id_image": "peach_457794"
       }
     ],
-    "hash_code_list_img": "-446292713",
-    "list_definition_mean": [
-      {
-        "mean_english": "cây đào",
-        "definition": "a kind of juicy, soft-skinned fruit",
-        "ex_of_definition_list": [
-          "She doesn’t like peaches",
-          "(also adjective) a peach tree."
-        ]
-      },
-      {
-        "mean_english": "hồng đào",
-        "definition": "(also adjective) (of) the orange-pink colour/color of the fruit",
-        "ex_of_definition_list": [
-          "Would you call that colour peach?",
-          "The walls are painted peach."
-        ]
-      }
+    "hash_code_list_img": "-787457364",
+    "list_example": [
+      "(also adjective) a peach tree."
     ],
-    "hash_code_list_definition_mean": "-972393271"
+    "hash_code_list_example": "-1312594926"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/peak_cb_dmean_5000_it.json",
@@ -872,38 +658,11 @@
         "id_image": "peak_980766"
       }
     ],
-    "hash_code_list_img": "-1032807085",
-    "list_definition_mean": [
-      {
-        "mean_english": "đỉnh",
-        "definition": "the pointed top of a mountain or hill",
-        "ex_of_definition_list": [
-          "snow-covered peaks."
-        ]
-      },
-      {
-        "mean_english": "đỉnh cao",
-        "definition": "the highest, greatest, busiest etc point, time etc",
-        "ex_of_definition_list": [
-          "He was at the peak of his career."
-        ]
-      },
-      {
-        "mean_english": "lưỡi trai",
-        "definition": "the front part of a cap which shades the eyes",
-        "ex_of_definition_list": [
-          "The boy wore a cap with a peak."
-        ]
-      },
-      {
-        "mean_english": "đạt tới đỉnh cao nhất",
-        "definition": "to reach the highest, greatest, busiest etc point, time etc",
-        "ex_of_definition_list": [
-          "Prices peaked in July and then began to fall."
-        ]
-      }
+    "hash_code_list_img": "-557890639",
+    "list_example": [
+      "He was at the peak of his career."
     ],
-    "hash_code_list_definition_mean": "-720319692"
+    "hash_code_list_example": "1200503415"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/peanut_cb_dmean_5000_it.json",
@@ -926,17 +685,18 @@
         "id_image": "peanut_4391589"
       }
     ],
-    "hash_code_list_img": "838858746",
-    "list_definition_mean": [
-      {
-        "mean_english": "hạt lạc",
-        "definition": "(also groundnutor monkey nut) a type of nut that looks rather like a pea",
-        "ex_of_definition_list": [
-          "roast peanuts."
-        ]
-      }
+    "hash_code_list_img": "-523607294",
+    "list_example": [
+      "The overall goal of the present study was to gain a better understanding of the physiological basis for the differential environmental responses between peanut genotypes.",
+      "In peanutallergic individuals, subsequent exposure to peanut allergens induces inflammatory reactions largely governed by mast cells, basophils and eosinophils.",
+      "Twenty-four hour rainfall, a simple environmental variable for predicting peanut leaf spot epidemics.",
+      "There were no other sequences in the database from any other organisms that had high homology to the sequenced cultivated peanut microsatellite allele.",
+      "Expression of the mutated peanut allergen construct will result in the production of hypoallergenic variants that can be used for immunotherapy.",
+      "There is a clear need for a safe and effective specific therapy for patients with peanut allergy.",
+      "Thus, biomass was not a good indicator for pod yield, and biomass evaluation would not have helped in the selection of peanut breeding lines.",
+      "The identification and characterisation of peanut allergens allows for the development of vaccines that could potentially be used for the treatment of peanut allergy."
     ],
-    "hash_code_list_definition_mean": "673004806"
+    "hash_code_list_example": "1005419681"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pearl_cb_dmean_5000_it.json",
@@ -959,18 +719,11 @@
         "id_image": "pearl_443916"
       }
     ],
-    "hash_code_list_img": "-1265031552",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngọc trai",
-        "definition": "a valuable, hard, round object formed by oysters and several other shellfish",
-        "ex_of_definition_list": [
-          "The necklace consists of three strings of pearls",
-          "(also adjective) a pearl necklace."
-        ]
-      }
+    "hash_code_list_img": "-785248954",
+    "list_example": [
+      "(also adjective) a pearl necklace."
     ],
-    "hash_code_list_definition_mean": "120476197"
+    "hash_code_list_example": "1135850319"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pear_cb_dmean_5000_it.json",
@@ -993,18 +746,13 @@
         "id_image": "pear_622095"
       }
     ],
-    "hash_code_list_img": "-1625513925",
-    "list_definition_mean": [
-      {
-        "mean_english": "quả lê",
-        "definition": "a type of fruit of the apple family, round at the bottom and narrowing towards the stem or top",
-        "ex_of_definition_list": [
-          "a slice of pear",
-          "(also adjective) a pear tree."
-        ]
-      }
+    "hash_code_list_img": "-254129236",
+    "list_example": [
+      "(also adjective) a pear tree.",
+      "The primer sets produced in this study can provide a very useful tool for ecological studies of the pear psylla in the field.",
+      "The kiwifruit and winter pear administrative committees, for example, publish separate market statistics for organic production, grades, seasonal movement, packages and inventory."
     ],
-    "hash_code_list_definition_mean": "1453010984"
+    "hash_code_list_example": "-1851717912"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/peasant_cb_dmean_5000_it.json",
@@ -1027,18 +775,11 @@
         "id_image": "peasant_3154476"
       }
     ],
-    "hash_code_list_img": "2112766851",
-    "list_definition_mean": [
-      {
-        "mean_english": "nông dân",
-        "definition": "a person who lives and works on the land, especially in a poor, primitive or underdeveloped area",
-        "ex_of_definition_list": [
-          "Many peasants died during the drought",
-          "(also adjective) a peasant farmer."
-        ]
-      }
+    "hash_code_list_img": "360327433",
+    "list_example": [
+      "(also adjective) a peasant farmer."
     ],
-    "hash_code_list_definition_mean": "1170278039"
+    "hash_code_list_example": "1540876764"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pea_cb_dmean_5000_it.json",
@@ -1062,25 +803,15 @@
         "id_image": "pea_5520709"
       }
     ],
-    "hash_code_list_img": "-1397730358",
-    "list_definition_mean": [
-      {
-        "mean_english": "đậu Hà Lan",
-        "definition": "the round seed of a kind of climbing plant, eaten as a vegetable",
-        "ex_of_definition_list": [
-          "frozen peas",
-          "garden peas."
-        ]
-      },
-      {
-        "mean_english": "cây đậu Hà Lan",
-        "definition": "the plant which produces these seeds",
-        "ex_of_definition_list": [
-          "We planted peas and beans this year."
-        ]
-      }
+    "hash_code_list_img": "813783431",
+    "list_example": [
+      "Developmentally, this idea is supported by the early expression of pea lectin (together with vicilin) during cotyledon development.",
+      "The pea crop in 2001 died in mid-season due to excess water.",
+      "The overall results presented in this section summarize more than 70 purifications of mitochondria from pea seeds.",
+      "How pea aphids defend themselves against parasitoids and fungi is unknown.",
+      "The comparison of nitrogen use and leaching in sole cropped versus intercropped pea and barley."
     ],
-    "hash_code_list_definition_mean": "1112767434"
+    "hash_code_list_example": "1917796526"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pedal_cb_dmean_5000_it.json",
@@ -1109,24 +840,11 @@
         "id_image": "pedal_637954"
       }
     ],
-    "hash_code_list_img": "-868417542",
-    "list_definition_mean": [
-      {
-        "mean_english": "bàn đạp",
-        "definition": "a lever worked by the foot, as on a bicycle, piano, organ etc",
-        "ex_of_definition_list": [
-          "the brake pedal in a car."
-        ]
-      },
-      {
-        "mean_english": "đạp",
-        "definition": "to move (something) by means of pedals",
-        "ex_of_definition_list": [
-          "He pedalled (his bicycle) down the road."
-        ]
-      }
+    "hash_code_list_img": "1067271645",
+    "list_example": [
+      "the brake pedal in a car."
     ],
-    "hash_code_list_definition_mean": "905768298"
+    "hash_code_list_example": "65964585"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pedestal_cb_dmean_5000_it.json",
@@ -1154,17 +872,11 @@
         "id_image": "pedestal_5706607"
       }
     ],
-    "hash_code_list_img": "529198682",
-    "list_definition_mean": [
-      {
-        "mean_english": "bệ",
-        "definition": "the foot or base of a column, statue etc",
-        "ex_of_definition_list": [
-          "The statue fell off its pedestal."
-        ]
-      }
+    "hash_code_list_img": "-714075967",
+    "list_example": [
+      "The presence of pedestal bases is also a feature that argues for a rulership interpretation of potbelly sculptures."
     ],
-    "hash_code_list_definition_mean": "1618596408"
+    "hash_code_list_example": "-1183636964"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pedestrian_cb_dmean_5000_it.json",
@@ -1193,24 +905,11 @@
         "id_image": "pedestrian_631700"
       }
     ],
-    "hash_code_list_img": "2091359679",
-    "list_definition_mean": [
-      {
-        "mean_english": "khách bộ hành",
-        "definition": "a person who travels on foot",
-        "ex_of_definition_list": [
-          "Three pedestrians were hit by the car."
-        ]
-      },
-      {
-        "mean_english": "tẻ nhạt",
-        "definition": "ordinary; rather boring or unexciting",
-        "ex_of_definition_list": [
-          "a pedestrian account."
-        ]
-      }
+    "hash_code_list_img": "370716300",
+    "list_example": [
+      "a pedestrian account."
     ],
-    "hash_code_list_definition_mean": "1708488117"
+    "hash_code_list_example": "1121439942"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pedigree_cb_dmean_5000_it.json",
@@ -1235,31 +934,11 @@
         "id_image": "pedigree_3436143"
       }
     ],
-    "hash_code_list_img": "-168137380",
-    "list_definition_mean": [
-      {
-        "mean_english": "phả hệ",
-        "definition": "a list of the ancestors from whom a person or animal is descended",
-        "ex_of_definition_list": [
-          "a dog’s pedigree."
-        ]
-      },
-      {
-        "mean_english": "dòng giống",
-        "definition": "distinguished descent or ancestry",
-        "ex_of_definition_list": [
-          "a man of noble pedigree."
-        ]
-      },
-      {
-        "mean_english": "có nòi",
-        "definition": "(of an animal) pure-bred; from a long line of ancestors of the same breed",
-        "ex_of_definition_list": [
-          "a herd of pedigree cattle."
-        ]
-      }
+    "hash_code_list_img": "-1802984971",
+    "list_example": [
+      "a herd of pedigree cattle."
     ],
-    "hash_code_list_definition_mean": "-1100523567"
+    "hash_code_list_example": "-793493486"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/peek_cb_dmean_5000_it.json",
@@ -1282,25 +961,13 @@
         "id_image": "peek_5238587"
       }
     ],
-    "hash_code_list_img": "665172661",
-    "list_definition_mean": [
-      {
-        "mean_english": "liếc trộm",
-        "definition": "to look, especially quickly and in secret",
-        "ex_of_definition_list": [
-          "He opened the door slightly and peeked out",
-          "Cover your eyes and don’t peek."
-        ]
-      },
-      {
-        "mean_english": "liếc trộm",
-        "definition": "a quick look",
-        "ex_of_definition_list": [
-          "Take a peek through the window."
-        ]
-      }
+    "hash_code_list_img": "1501198751",
+    "list_example": [
+      "Take a peek through the window.",
+      "Similarly, the softness of the soundtrack levels forces the listener to get closer to the piece and peek in.",
+      "They peek into the tunnel."
     ],
-    "hash_code_list_definition_mean": "2065627904"
+    "hash_code_list_example": "-1496565132"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/peeler_cb_dmean_5000_it.json",
@@ -1323,17 +990,12 @@
         "id_image": "peeler_904636"
       }
     ],
-    "hash_code_list_img": "-809541003",
-    "list_definition_mean": [
-      {
-        "mean_english": "dụng cụ bóc vỏ",
-        "definition": "a tool etc that peels (something)",
-        "ex_of_definition_list": [
-          "a potato peeler."
-        ]
-      }
+    "hash_code_list_img": "124999184",
+    "list_example": [
+      "This centrifuge is suitable for treating suspension including very high content of solids(40-60%) which makes this process much more applicable in many applications than peeler centrifuge.",
+      "Bait fishing will be much the same as from the beach but the most common bait would now be peeler crab and hard back crab."
     ],
-    "hash_code_list_definition_mean": "1007094525"
+    "hash_code_list_example": "2005609662"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/peel_cb_dmean_5000_it.json",
@@ -1358,31 +1020,11 @@
         "id_image": "peel_5675485"
       }
     ],
-    "hash_code_list_img": "-1738789452",
-    "list_definition_mean": [
-      {
-        "mean_english": "gọt vỏ",
-        "definition": "to take off the skin or outer covering of (a fruit or vegetable)",
-        "ex_of_definition_list": [
-          "She peeled the potatoes."
-        ]
-      },
-      {
-        "mean_english": "bong ra",
-        "definition": "to take off or come off in small pieces",
-        "ex_of_definition_list": [
-          "The paint is beginning to peel (off)."
-        ]
-      },
-      {
-        "mean_english": "vỏ",
-        "definition": "the skin of certain fruits, especially oranges, lemons etc",
-        "ex_of_definition_list": [
-          "a banana peel."
-        ]
-      }
+    "hash_code_list_img": "1299383255",
+    "list_example": [
+      "The paint is beginning to peel (off)."
     ],
-    "hash_code_list_definition_mean": "1879489205"
+    "hash_code_list_example": "-954821646"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/peer_cb_dmean_5000_it.json",
@@ -1402,32 +1044,18 @@
         "id_image": "peer_4922543"
       }
     ],
-    "hash_code_list_img": "334648844",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà quí tộc",
-        "definition": "a nobleman (in Britain, one from the rank of baron upwards)",
-        "ex_of_definition_list": [
-          "a peer of the realm."
-        ]
-      },
-      {
-        "mean_english": "người ngang hàng",
-        "definition": "a person’s equal in rank, merit or age",
-        "ex_of_definition_list": [
-          "The child was disliked by his peers",
-          "(also adjective) He is more advanced than the rest of his peer group."
-        ]
-      },
-      {
-        "mean_english": "nhìn kỹ",
-        "definition": "to look with difficulty",
-        "ex_of_definition_list": [
-          "He peered at the small writing."
-        ]
-      }
+    "hash_code_list_img": "17921246",
+    "list_example": [
+      "a peer of the realm.",
+      "(also adjective) He is more advanced than the rest of his peer group.",
+      "A revised class play method of peer assessment.",
+      "These findings are robust but the developmental processes underlying the connections between peer victimization and psychopathology remain unclear.",
+      "The term \"vertical\" refers, of course, to factors transmitted from one generation to the next (in distinction from peer and sibling influences, for example).",
+      "We also thank our peer reviewers for their insightful comments and suggestions.",
+      "We thank the anonymous peer reviewers for their valuable insights and constructive comments.",
+      "We thank our peer reviewers for their critical evaluation of the article."
     ],
-    "hash_code_list_definition_mean": "498425748"
+    "hash_code_list_example": "-142497811"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pee_cb_dmean_5000_it.json",
@@ -1450,25 +1078,13 @@
         "id_image": "pee_6314517"
       }
     ],
-    "hash_code_list_img": "391550555",
-    "list_definition_mean": [
-      {
-        "mean_english": "đi giải",
-        "definition": "to urinate",
-        "ex_of_definition_list": [
-          "I need to pee",
-          "He peed (in) his pants."
-        ]
-      },
-      {
-        "mean_english": "đi giải",
-        "definition": "urine",
-        "ex_of_definition_list": [
-          "She went to have a pee."
-        ]
-      }
+    "hash_code_list_img": "-1425974870",
+    "list_example": [
+      "I need to pee",
+      "He peed (in) his pants.",
+      "She went to have a pee."
     ],
-    "hash_code_list_definition_mean": "-525761249"
+    "hash_code_list_example": "-641422066"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/peg_cb_dmean_5000_it.json",
@@ -1489,31 +1105,16 @@
         "id_image": "peg_4636779"
       }
     ],
-    "hash_code_list_img": "861554119",
-    "list_definition_mean": [
-      {
-        "mean_english": "miếng gỗ/ thép",
-        "definition": "a usually short, not very thick, piece of wood, metal etc used to fasten or mark something",
-        "ex_of_definition_list": [
-          "There were four pegs stuck in the ground."
-        ]
-      },
-      {
-        "mean_english": "cái mắc",
-        "definition": "a hook on a wall or door for hanging clothes etc on",
-        "ex_of_definition_list": [
-          "Hang your clothes on the pegs in the cupboard."
-        ]
-      },
-      {
-        "mean_english": "kẹp",
-        "definition": "to fasten with a peg",
-        "ex_of_definition_list": [
-          "She pegged the clothes on the washing-line."
-        ]
-      }
+    "hash_code_list_img": "2052202870",
+    "list_example": [
+      "To overcome this problem the authors suggested the application of small motions of the peg around the contact point.",
+      "Knees are shown but no depiction of feet; the legs end in a ring below which is a round peg base 8 cm long.",
+      "The feet have four toes each, and below the feet extends a 2.5 cm-long peg base.",
+      "It is assumed that the peg is infinitely rigid, and thus, deformation appears on the cart side only.",
+      "Finally, the prefix serves as a ' peg element ', inserted if there is no other syllable preceding the stem.",
+      "The peg is then inserted into a pre-specified hole at reduced speed and released."
     ],
-    "hash_code_list_definition_mean": "1073909762"
+    "hash_code_list_example": "-1540565325"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pelvis_cb_dmean_5000_it.json",
@@ -1536,17 +1137,14 @@
         "id_image": "pelvis_655306"
       }
     ],
-    "hash_code_list_img": "975885957",
-    "list_definition_mean": [
-      {
-        "mean_english": "xương chậu",
-        "definition": "the framework of bone around the body below the waist",
-        "ex_of_definition_list": [
-          "a fractured pelvis."
-        ]
-      }
+    "hash_code_list_img": "-50021431",
+    "list_example": [
+      "The trial includes the four most common sites treated at the hospital: head and neck (76), thorax (39), pelvis (55) and breast (46).",
+      "The study has shown that technique development is necessary for the chest, abdomen and pelvis prior to the introduction of conformal radiotherapy.",
+      "The human true pelvis is adapted to our bipedal posture.",
+      "The fossil record also reveals that anatomical changes that broadened and shortened the pelvis and reshaped the birth canal began occurring well before this exodus."
     ],
-    "hash_code_list_definition_mean": "692860632"
+    "hash_code_list_example": "1799943018"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/penalty_cb_dmean_5000_it.json",
@@ -1575,26 +1173,12 @@
         "id_image": "penalty_5308253"
       }
     ],
-    "hash_code_list_img": "254557737",
-    "list_definition_mean": [
-      {
-        "mean_english": "hình phạt/ tiền phạt",
-        "definition": "a punishment for doing wrong, breaking a contract etc",
-        "ex_of_definition_list": [
-          "They did wrong and they will have to pay the penalty",
-          "The death penalty has been abolished in this country."
-        ]
-      },
-      {
-        "mean_english": "cú phạt đền",
-        "definition": "in sport etc, a disadvantage etc that must be suffered for breaking the rules etc",
-        "ex_of_definition_list": [
-          "The referee awarded the team a penalty",
-          "(also adjective) a penalty kick"
-        ]
-      }
+    "hash_code_list_img": "-224583329",
+    "list_example": [
+      "The death penalty has been abolished in this country.",
+      "(also adjective) a penalty kick"
     ],
-    "hash_code_list_definition_mean": "-2120627281"
+    "hash_code_list_example": "1427348368"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pencil_cb_dmean_5000_it.json",
@@ -1618,25 +1202,11 @@
         "id_image": "pencil_124839"
       }
     ],
-    "hash_code_list_img": "-2022788142",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái bút chì",
-        "definition": "a long, thin instrument (usually of wood) containing a thin stick of graphite or some similar solid substance for writing or drawing",
-        "ex_of_definition_list": [
-          "This pencil needs sharpening / to be sharpened",
-          "He wrote in pencil."
-        ]
-      },
-      {
-        "mean_english": "viết bằng bút chì",
-        "definition": "to write or draw with a pencil",
-        "ex_of_definition_list": [
-          "He pencilled an outline of the house."
-        ]
-      }
+    "hash_code_list_img": "1643493444",
+    "list_example": [
+      "This pencil needs sharpening / to be sharpened"
     ],
-    "hash_code_list_definition_mean": "-1107017103"
+    "hash_code_list_example": "1598551243"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pendant_cb_dmean_5000_it.json",
@@ -1665,24 +1235,14 @@
         "id_image": "pendant_4637471"
       }
     ],
-    "hash_code_list_img": "-1435573638",
-    "list_definition_mean": [
-      {
-        "mean_english": "mặt dây chuyền",
-        "definition": "an ornament hung from a necklace",
-        "ex_of_definition_list": [
-          "a pendant hanging from a silver chain."
-        ]
-      },
-      {
-        "mean_english": "vòng trang sức",
-        "definition": "the ornament and the necklace together",
-        "ex_of_definition_list": [
-          "She fastened a gold pendant round her neck."
-        ]
-      }
+    "hash_code_list_img": "-395449143",
+    "list_example": [
+      "a pendant hanging from a silver chain.",
+      "She fastened a gold pendant round her neck.",
+      "In all tooth categories except the medial incisors, the mean dimensions for the pendant teeth are significantly above those for the identified females.",
+      "We use this to successively find and remove pendant or twin vertices."
     ],
-    "hash_code_list_definition_mean": "-1687109514"
+    "hash_code_list_example": "607674155"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pendulum_cb_dmean_5000_it.json",
@@ -1720,18 +1280,14 @@
         "id_image": "pendulum_352225"
       }
     ],
-    "hash_code_list_img": "-814884545",
-    "list_definition_mean": [
-      {
-        "mean_english": "quả lắc",
-        "definition": "a swinging weight, eg that which operates the mechanism of a clock",
-        "ex_of_definition_list": [
-          "The little girl watched the pendulum swing back and forwards",
-          "(also adjective) a pendulum clock."
-        ]
-      }
+    "hash_code_list_img": "700282824",
+    "list_example": [
+      "The little girl watched the pendulum swing back and forwards",
+      "(also adjective) a pendulum clock.",
+      "Here 0 is the damping, 0 is the characteristic frequency of the pendulum !",
+      "Similar effects could not be replicated in using the pendulum technique."
     ],
-    "hash_code_list_definition_mean": "1816933150"
+    "hash_code_list_example": "-109265730"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pennant_cb_dmean_5000_it.json",
@@ -1759,17 +1315,11 @@
         "id_image": "pennant_2014204"
       }
     ],
-    "hash_code_list_img": "-1790102306",
-    "list_definition_mean": [
-      {
-        "mean_english": "cờ hiệu",
-        "definition": "a small flag, usually in the shape of a long narrow triangle",
-        "ex_of_definition_list": [
-          "The boy had fastened a brightly-coloured pennant to the front of his bike."
-        ]
-      }
+    "hash_code_list_img": "-109612514",
+    "list_example": [
+      "The boy had fastened a brightly-coloured pennant to the front of his bike."
     ],
-    "hash_code_list_definition_mean": "1053991723"
+    "hash_code_list_example": "-442058272"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pension_cb_dmean_5000_it.json",
@@ -1797,18 +1347,16 @@
         "id_image": "pension_5798600"
       }
     ],
-    "hash_code_list_img": "-1612756761",
-    "list_definition_mean": [
-      {
-        "mean_english": "lương hưu",
-        "definition": "a sum of money paid regularly to a widow, a person who has retired from work, a soldier who has been seriously injured in a war etc",
-        "ex_of_definition_list": [
-          "He lives on his pension",
-          "a retirement pension."
-        ]
-      }
+    "hash_code_list_img": "-559639695",
+    "list_example": [
+      "Apparently, these types of pension funds are able to manage their investment more efficiently than the other categories : industry funds have lower costs.",
+      "The article suggests a way in which a more transparent system could guarantee a total state pension at a fixed percentage of average earnings.",
+      "Another point that receives substantial attention is the low rates of pension system coverage.",
+      "The private sector scheme is managed by private pension institutions : insurance companies, corporate pension funds, industry-wide pension funds, and other statutory pension providers.",
+      "Its generous pension programme contrasts with a virtual absence of state interest in health or care provision for elders.",
+      "Thus, the pension associated with the employee's 10 years of service will be $12,000 annually payable at 65, not $6,000."
     ],
-    "hash_code_list_definition_mean": "1985895028"
+    "hash_code_list_example": "940750613"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pensive_cb_dmean_5000_it.json",
@@ -1831,17 +1379,17 @@
         "id_image": "pensive_708681"
       }
     ],
-    "hash_code_list_img": "2112006359",
-    "list_definition_mean": [
-      {
-        "mean_english": "trầm ngâm",
-        "definition": "thinking deeply (about something)",
-        "ex_of_definition_list": [
-          "She was in a pensive mood."
-        ]
-      }
+    "hash_code_list_img": "26118616",
+    "list_example": [
+      "She was in a pensive mood.",
+      "The more ex- pensive that a school makes it for people to hire a room, the more people will be against that establishment.",
+      "The girls have a pensive dignity as though they are pondering the burdens and joylessness of a future to be spent as caryatids.",
+      "Those flats are going to be far more ext pensive than the houses, and the cubic space is going to be lower, and they are not what the people want.",
+      "His only chance of restoration to health and activity is a prolonged and pensive system of medical treatment.",
+      "The same argument would apply in that case, because the nearer the barracks were the more ex, pensive they would prove.",
+      "There were also several songs with a softer and more pensive theme."
     ],
-    "hash_code_list_definition_mean": "888391999"
+    "hash_code_list_example": "-2062499281"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/penthouse_cb_dmean_5000_it.json",
@@ -1869,18 +1417,16 @@
         "id_image": "penthouse_509822"
       }
     ],
-    "hash_code_list_img": "1893795394",
-    "list_definition_mean": [
-      {
-        "mean_english": "tầng mái",
-        "definition": "a (usually luxurious) flat at the top of a building",
-        "ex_of_definition_list": [
-          "That apartment building has a beautiful penthouse",
-          "(also adjective) a penthouse flat."
-        ]
-      }
+    "hash_code_list_img": "2079256985",
+    "list_example": [
+      "(also adjective) a penthouse flat.",
+      "Use of the drug has spread from the penthouse to the street.",
+      "If that is to be the case for private housing, only a minority of people on the edge of the river will be able to afford penthouse flats.",
+      "It would mean that compensation would continue to be payable for penthouse extensions which create new units rather than extend existing units.",
+      "The company has already built 35 flats in the boilerhouse, and all except the £1 million penthouse have been sold at prices ranging from £170,000 to £295,000.",
+      "A report prepared by a group of residents associations suggests that before 1983 there were on average three or four penthouse flat applications each year."
     ],
-    "hash_code_list_definition_mean": "514296977"
+    "hash_code_list_example": "-1884184437"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pen_cb_dmean_5000_it.json",
@@ -1904,24 +1450,11 @@
         "id_image": "pen_4172613"
       }
     ],
-    "hash_code_list_img": "-927732850",
-    "list_definition_mean": [
-      {
-        "mean_english": "chỗ quây kín",
-        "definition": "a small enclosure, usually for animals",
-        "ex_of_definition_list": [
-          "a sheep pen."
-        ]
-      },
-      {
-        "mean_english": "cái bút",
-        "definition": "an instrument for writing in ink",
-        "ex_of_definition_list": [
-          "My pen needs a new nib."
-        ]
-      }
+    "hash_code_list_img": "-1094300315",
+    "list_example": [
+      "My pen needs a new nib."
     ],
-    "hash_code_list_definition_mean": "1830907054"
+    "hash_code_list_example": "-1602168349"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/people_cb_dmean_5000_it.json",
@@ -1951,31 +1484,17 @@
         "id_image": "people_875318"
       }
     ],
-    "hash_code_list_img": "478324251",
-    "list_definition_mean": [
-      {
-        "mean_english": "người",
-        "definition": "persons",
-        "ex_of_definition_list": [
-          "There were three people in the room."
-        ]
-      },
-      {
-        "mean_english": "người dân",
-        "definition": "men and women in general",
-        "ex_of_definition_list": [
-          "People often say such things."
-        ]
-      },
-      {
-        "mean_english": "dân tộc",
-        "definition": "(noun singular) a nation or race",
-        "ex_of_definition_list": [
-          "all the peoples of this world."
-        ]
-      }
+    "hash_code_list_img": "-827493378",
+    "list_example": [
+      "There were three people in the room.",
+      "Many people with symptoms of psychological distress do not seek professional help.",
+      "This is surprising, given that questions of revenue generation affect ordinary people in basic and sometimes very serious ways.",
+      "Others are reputed physically to capture people and to lock them up in secret places until they can hand them over to their white masters.",
+      "Activities that have large starting capital requirements are pursued by relatively few people but yield lucrative returns.",
+      "The reasonable person standard enjoys a certain sort of objectivity, insofar as it protects people from each other.",
+      "Sounds, visual images, and faces remind the players of people or events of the past."
     ],
-    "hash_code_list_definition_mean": "954971410"
+    "hash_code_list_example": "-1276255497"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/peppermint_cb_dmean_5000_it.json",
@@ -1999,24 +1518,15 @@
         "id_image": "peppermint_5304689"
       }
     ],
-    "hash_code_list_img": "-1011806883",
-    "list_definition_mean": [
-      {
-        "mean_english": "dầu bạc hà",
-        "definition": "a flavouring/flavoring taken from a type of plant and used in sweets etc",
-        "ex_of_definition_list": [
-          "(also adjective) peppermint tea."
-        ]
-      },
-      {
-        "mean_english": "kẹo bạc hà",
-        "definition": "(sometimes abbreviated to mint) a sweet flavoured/flavored with peppermint",
-        "ex_of_definition_list": [
-          "The little boy had a bag of peppermints."
-        ]
-      }
+    "hash_code_list_img": "-123384029",
+    "list_example": [
+      "(also adjective) peppermint tea.",
+      "They contain only three ingredients: sugar, glucose, and peppermint oil.",
+      "Could we not change the taste to peppermint or something more pleasant?",
+      "A 2002 systemic review of herbal products found that several herbs, including peppermint and caraway, have anti-dyspeptic effects for non-ulcer dyspepsia with encouraging safety profiles.",
+      "Pulegone is a clear colorless oily liquid and has a pleasant odor similar to pennyroyal, peppermint and camphor."
     ],
-    "hash_code_list_definition_mean": "425003303"
+    "hash_code_list_example": "-150568631"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pepper_cb_dmean_5000_it.json",
@@ -2049,39 +1559,12 @@
         "id_image": "pepper_877713"
       }
     ],
-    "hash_code_list_img": "-1485810386",
-    "list_definition_mean": [
-      {
-        "mean_english": "hạt tiêu",
-        "definition": "the dried, powdered berries of a certain plant, used for seasoning food",
-        "ex_of_definition_list": [
-          "white/black pepper",
-          "This soup has too much pepper in it."
-        ]
-      },
-      {
-        "mean_english": "quả ớt",
-        "definition": "any of several red, yellow, or green, hollow seed-containing fruits used as food",
-        "ex_of_definition_list": [
-          "red peppers stuffed with rice."
-        ]
-      },
-      {
-        "mean_english": "rắc tiêu; cho ớt vào",
-        "definition": "to put pepper in or on (some food)",
-        "ex_of_definition_list": [
-          "You don’t have to pepper the soup."
-        ]
-      },
-      {
-        "mean_english": "bắn/ném tới tấp",
-        "definition": "(with with) to throw, fire etc many, usually small, objects at (someone)",
-        "ex_of_definition_list": [
-          "The enemy soldiers peppered the building with bullets."
-        ]
-      }
+    "hash_code_list_img": "-165794548",
+    "list_example": [
+      "This soup has too much pepper in it.",
+      "You don’t have to pepper the soup."
     ],
-    "hash_code_list_definition_mean": "1011002127"
+    "hash_code_list_example": "-1102792945"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/percentage_cb_dmean_5000_it.json",
@@ -2105,24 +1588,11 @@
         "id_image": "percentage_563190"
       }
     ],
-    "hash_code_list_img": "-1250905640",
-    "list_definition_mean": [
-      {
-        "mean_english": "tỷ lệ phần trăm",
-        "definition": "an amount, number or rate given as a fraction of one hundred",
-        "ex_of_definition_list": [
-          "We’ve expressed all these figures as percentages."
-        ]
-      },
-      {
-        "mean_english": "tỷ lệ",
-        "definition": "a part or proportion of something",
-        "ex_of_definition_list": [
-          "A large percentage of the population can’t read or write."
-        ]
-      }
+    "hash_code_list_img": "-55073690",
+    "list_example": [
+      "A large percentage of the population can’t read or write."
     ],
-    "hash_code_list_definition_mean": "-1169267611"
+    "hash_code_list_example": "408512979"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/percent_cb_dmean_5000_it.json",
@@ -2150,18 +1620,12 @@
         "id_image": "percent_4685472"
       }
     ],
-    "hash_code_list_img": "-1916489251",
-    "list_definition_mean": [
-      {
-        "mean_english": "phần trăm",
-        "definition": ", often written % with figures (of numbers, amounts etc) stated as a fraction of one hundred",
-        "ex_of_definition_list": [
-          "Twenty-five per cent of one hundred and twenty is thirty",
-          "25% of the people did not reply to our letters."
-        ]
-      }
+    "hash_code_list_img": "761211678",
+    "list_example": [
+      "Twenty-five per cent of one hundred and twenty is thirty",
+      "25% of the people did not reply to our letters."
     ],
-    "hash_code_list_definition_mean": "2023156105"
+    "hash_code_list_example": "-960716356"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/perception_cb_dmean_5000_it.json",
@@ -2194,16 +1658,15 @@
         "id_image": "perception_5305157"
       }
     ],
-    "hash_code_list_img": "-607830503",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự nhận thức",
-        "definition": "the ability to see, understand etc clearly",
-        "ex_of_definition_list": [
-          "a man of great perception."
-        ]
-      }
+    "hash_code_list_img": "-719474489",
+    "list_example": [
+      "If the mirroring is too accurate, the perception itself can become a source of fear, and it loses its symbolic potential.",
+      "It may be perceived as an area of concern if this is the perception of students accessing the course.",
+      "In fact, he has always suffered this condition; what is new is his perception of it, and its internalization.",
+      "In this framework, conceptual representations are contiguous with the representational forms of perception and action.",
+      "Problems, then, are raised about the ecological validity of this constraint and the role it might play in the perception of ordinary, everyday motion.",
+      "This process tends to be relevant to functions that are universal to all members of a species such as visual depth perception or language development."
     ],
-    "hash_code_list_definition_mean": "1623964278"
+    "hash_code_list_example": "-435529496"
   }
 ]

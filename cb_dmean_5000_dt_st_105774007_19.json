@@ -25,18 +25,17 @@
         "id_image": "textile_5231955"
       }
     ],
-    "hash_code_list_img": "463508746",
-    "list_definition_mean": [
-      {
-        "mean_english": "hàng dệt may",
-        "definition": "a cloth or fabric made by weaving",
-        "ex_of_definition_list": [
-          "woollen textiles",
-          "(also adjective) the textile industry."
-        ]
-      }
+    "hash_code_list_img": "603137907",
+    "list_example": [
+      "(also adjective) the textile industry.",
+      "Furthermore, he argues that many women found employment in the textile industry and in other trades, which gave them considerable economic independence.",
+      "With the second national textile contract in 1927, unions thus got the exclusive right to hire.",
+      "The eastern belt, the predominant industrial labour area, is the city of chimneys of the textile mills.",
+      "By the end of the century there were four large textile mills running in the city.",
+      "Not all proletarian textile families had a similarly comfortable life.",
+      "In textile and jute industries, sardars were labour contractors and their status depended on how many labour hands they brought to the industry."
     ],
-    "hash_code_list_definition_mean": "1656376449"
+    "hash_code_list_example": "-396066435"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/texture_cb_dmean_5000_it.json",
@@ -59,24 +58,12 @@
         "id_image": "texture_5003145"
       }
     ],
-    "hash_code_list_img": "1486905700",
-    "list_definition_mean": [
-      {
-        "mean_english": "kết cấu",
-        "definition": "the way something feels when touched, eaten etc",
-        "ex_of_definition_list": [
-          "the texture of wood/stone/skin."
-        ]
-      },
-      {
-        "mean_english": "kết cấu",
-        "definition": "the way that a piece of cloth looks or feels, caused by the way in which it is woven",
-        "ex_of_definition_list": [
-          "the loose texture of this material."
-        ]
-      }
+    "hash_code_list_img": "-2052682647",
+    "list_example": [
+      "the texture of wood/stone/skin.",
+      "the loose texture of this material."
     ],
-    "hash_code_list_definition_mean": "940511521"
+    "hash_code_list_example": "674861471"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/text_cb_dmean_5000_it.json",
@@ -101,31 +88,14 @@
         "id_image": "text_551095"
       }
     ],
-    "hash_code_list_img": "-617222685",
-    "list_definition_mean": [
-      {
-        "mean_english": "nguyên văn",
-        "definition": "in a book, the written or printed words, as opposed to the illustrations, notes etc",
-        "ex_of_definition_list": [
-          "First the text was printed, then the drawings added."
-        ]
-      },
-      {
-        "mean_english": "đoạn trích từ kinh thánh",
-        "definition": "a passage from the Bible about which a sermon is preached",
-        "ex_of_definition_list": [
-          "He preached on a text from St John’s gospel."
-        ]
-      },
-      {
-        "mean_english": "đánh máy",
-        "definition": "to send a written message to someone using a mobile phone/cell phone",
-        "ex_of_definition_list": [
-          "Could you text me his address?"
-        ]
-      }
+    "hash_code_list_img": "-47148102",
+    "list_example": [
+      "First the text was printed, then the drawings added.",
+      "He preached on a text from St John’s gospel.",
+      "Could you text me his address?",
+      "One reason that learning to parse text may present a challenge is because, unlike speech, printed text conveys few direct prosodic cues."
     ],
-    "hash_code_list_definition_mean": "1250998495"
+    "hash_code_list_example": "325886093"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/thaw_cb_dmean_5000_it.json",
@@ -155,31 +125,11 @@
         "id_image": "thaw_3937391"
       }
     ],
-    "hash_code_list_img": "156463836",
-    "list_definition_mean": [
-      {
-        "mean_english": "tan, chảy",
-        "definition": "(of ice, snow etc) to melt, or make or become liquid",
-        "ex_of_definition_list": [
-          "The snow thawed quickly."
-        ]
-      },
-      {
-        "mean_english": "làm tan, làm chảy",
-        "definition": "(of frozen food etc) to make or become unfrozen",
-        "ex_of_definition_list": [
-          "Frozen food must be thawed before cooking."
-        ]
-      },
-      {
-        "mean_english": "sự tan của tuyết",
-        "definition": "(the time of) the melting of ice and snow at the end of winter, or the change of weather that causes this",
-        "ex_of_definition_list": [
-          "The thaw has come early this year."
-        ]
-      }
+    "hash_code_list_img": "-2131934437",
+    "list_example": [
+      "The thaw has come early this year."
     ],
-    "hash_code_list_definition_mean": "9302157"
+    "hash_code_list_example": "-1687658534"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/theatre_cb_dmean_5000_it.json",
@@ -209,25 +159,12 @@
         "id_image": "theatre_647651"
       }
     ],
-    "hash_code_list_img": "-1975696933",
-    "list_definition_mean": [
-      {
-        "mean_english": "sân khấu, vở kịch",
-        "definition": "plays in general; any theatre/theater",
-        "ex_of_definition_list": [
-          "Are you going to the theatre tonight?"
-        ]
-      },
-      {
-        "mean_english": "phòng mổ",
-        "definition": "(also operating-theatre) ( British) a room in a hospital where surgical operations are performed",
-        "ex_of_definition_list": [
-          "Take the patient to the theatre",
-          "(also adjective) a theatre nurse."
-        ]
-      }
+    "hash_code_list_img": "53823473",
+    "list_example": [
+      "Are you going to the theatre tonight?",
+      "(also adjective) a theatre nurse."
     ],
-    "hash_code_list_definition_mean": "-586847419"
+    "hash_code_list_example": "2079597181"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/theft_cb_dmean_5000_it.json",
@@ -255,17 +192,11 @@
         "id_image": "theft_5434263"
       }
     ],
-    "hash_code_list_img": "-1872812320",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự ăn trộm",
-        "definition": "(an act of) stealing",
-        "ex_of_definition_list": [
-          "He was jailed for theft."
-        ]
-      }
+    "hash_code_list_img": "1672615113",
+    "list_example": [
+      "Through right reason, the pagan knows that adultery and theft are wrong and is able to follow the dictates of right reason."
     ],
-    "hash_code_list_definition_mean": "1657866323"
+    "hash_code_list_example": "1315939994"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/theme_cb_dmean_5000_it.json",
@@ -288,17 +219,11 @@
         "id_image": "theme_2236194"
       }
     ],
-    "hash_code_list_img": "864346357",
-    "list_definition_mean": [
-      {
-        "mean_english": "chủ đề",
-        "definition": "the subject of a discussion, essay etc",
-        "ex_of_definition_list": [
-          "The theme for tonight’s talk is education."
-        ]
-      }
+    "hash_code_list_img": "-770712832",
+    "list_example": [
+      "The theme for tonight’s talk is education."
     ],
-    "hash_code_list_definition_mean": "339779973"
+    "hash_code_list_example": "1710701581"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/theology_cb_dmean_5000_it.json",
@@ -316,17 +241,11 @@
         "id_image": "theology_2161353"
       }
     ],
-    "hash_code_list_img": "1797047066",
-    "list_definition_mean": [
-      {
-        "mean_english": "thần học",
-        "definition": "the study of God and religious belief",
-        "ex_of_definition_list": [
-          "She studied theology at university."
-        ]
-      }
+    "hash_code_list_img": "1418986758",
+    "list_example": [
+      "She studied theology at university."
     ],
-    "hash_code_list_definition_mean": "2051413859"
+    "hash_code_list_example": "-721952153"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/theory_cb_dmean_5000_it.json",
@@ -350,25 +269,15 @@
         "id_image": "theory_647856"
       }
     ],
-    "hash_code_list_img": "1442961642",
-    "list_definition_mean": [
-      {
-        "mean_english": "lý thuyết",
-        "definition": "an idea or explanation which has not yet been proved to be correct",
-        "ex_of_definition_list": [
-          "There are many theories about the origin of life",
-          "In theory, I agree with you, but it would not work in practice."
-        ]
-      },
-      {
-        "mean_english": "lý luận, nguyên lý",
-        "definition": "the main principles and ideas in an art, science etc as opposed to the practice of actually doing it",
-        "ex_of_definition_list": [
-          "A musician has to study both the theory and practice of music."
-        ]
-      }
+    "hash_code_list_img": "1133538437",
+    "list_example": [
+      "A musician has to study both the theory and practice of music.",
+      "But it would prove impossible to deduce a physical theory from such purely formal theorems.",
+      "Particular importance is attached to the gap between the theory and practice of law, and how the divergence could be reduced.",
+      "Distributed representations of structure : a theory of analogical access and mapping.",
+      "The psychological theory is based on the philosophical premises."
     ],
-    "hash_code_list_definition_mean": "1232990629"
+    "hash_code_list_example": "1869865693"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/therapy_cb_dmean_5000_it.json",
@@ -401,18 +310,14 @@
         "id_image": "therapy_5984067"
       }
     ],
-    "hash_code_list_img": "638005594",
-    "list_definition_mean": [
-      {
-        "mean_english": "phép chữa bệnh",
-        "definition": "the (methods of) treatment of disease, disorders of the body etc",
-        "ex_of_definition_list": [
-          "speech therapy",
-          "physiotherapy."
-        ]
-      }
+    "hash_code_list_img": "494177275",
+    "list_example": [
+      "In the patient groups receiving active drug therapy (velnacrine maleate), an improvement was observed in their cognitive functioning relative to the placebo group.",
+      "The ability to direct therapy to specific molecular targets on cancer cells provides several advantages over standard chemotherapy, including higher specificity and reduced systemic toxicity.",
+      "However, neuroleptic therapy is frequently accompanied by serious, sometimes permanent, side effects.",
+      "A basic requirement in studies of the benefits of a psychological treatment is information on the conduct of the therapy itself."
     ],
-    "hash_code_list_definition_mean": "1514313778"
+    "hash_code_list_example": "413737617"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/thermal_cb_dmean_5000_it.json",
@@ -435,18 +340,12 @@
         "id_image": "thermal_2332894"
       }
     ],
-    "hash_code_list_img": "-1858775805",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhiệt, nóng",
-        "definition": "of heat",
-        "ex_of_definition_list": [
-          "thermal springs (= natural springs of warm or hot water)",
-          "thermal units."
-        ]
-      }
+    "hash_code_list_img": "1606906842",
+    "list_example": [
+      "thermal springs (= natural springs of warm or hot water)",
+      "thermal units."
     ],
-    "hash_code_list_definition_mean": "714129789"
+    "hash_code_list_example": "-875246414"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/thermometer_cb_dmean_5000_it.json",
@@ -474,17 +373,12 @@
         "id_image": "thermometer_421850"
       }
     ],
-    "hash_code_list_img": "950614509",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhiệt kế",
-        "definition": "an instrument (usually a thin, glass tube with eg mercury in it) used for measuring temperature, especially body temperature",
-        "ex_of_definition_list": [
-          "The nurse took his temperature with a thermometer."
-        ]
-      }
+    "hash_code_list_img": "-774755462",
+    "list_example": [
+      "Since quartz is absent in the assemblage, the edenite-richterite thermometer was used on the formula.",
+      "For example, consider again the thermometer example in figures 12 and 13."
     ],
-    "hash_code_list_definition_mean": "2136711646"
+    "hash_code_list_example": "-371815387"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/thesis_cb_dmean_5000_it.json",
@@ -507,18 +401,11 @@
         "id_image": "thesis_4135828"
       }
     ],
-    "hash_code_list_img": "-876391776",
-    "list_definition_mean": [
-      {
-        "mean_english": "luận văn, luận án",
-        "definition": "a long written essay, report etc, often done for a university degree",
-        "ex_of_definition_list": [
-          "a doctoral thesis",
-          "He is writing a thesis on the works of John Milton."
-        ]
-      }
+    "hash_code_list_img": "-376347384",
+    "list_example": [
+      "He is writing a thesis on the works of John Milton."
     ],
-    "hash_code_list_definition_mean": "1417494189"
+    "hash_code_list_example": "-1441874002"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/thick_cb_dmean_5000_it.json",
@@ -543,72 +430,28 @@
         "id_image": "thick_4637345"
       }
     ],
-    "hash_code_list_img": "608718362",
-    "list_definition_mean": [
-      {
-        "mean_english": "dày",
-        "definition": "having a relatively large distance between opposite sides; not thin",
-        "ex_of_definition_list": [
-          "a thick book",
-          "thick walls",
-          "thick glass."
-        ]
-      },
-      {
-        "mean_english": "có bề dày là",
-        "definition": "having a certain distance between opposite sides",
-        "ex_of_definition_list": [
-          "It’s two inches thick",
-          "a two-inch-thick pane of glass."
-        ]
-      },
-      {
-        "mean_english": "đặc",
-        "definition": "(of liquids, mixtures etc) containing solid matter; not flowing (easily) when poured",
-        "ex_of_definition_list": [
-          "thick soup."
-        ]
-      },
-      {
-        "mean_english": "rậm, rậm rạp",
-        "definition": "made of many single units placed very close together; dense",
-        "ex_of_definition_list": [
-          "a thick forest",
-          "thick hair."
-        ]
-      },
-      {
-        "mean_english": "dày đặc",
-        "definition": "difficult to see through",
-        "ex_of_definition_list": [
-          "thick fog."
-        ]
-      },
-      {
-        "mean_english": "đầy, phủ đầy",
-        "definition": "full of, covered with etc",
-        "ex_of_definition_list": [
-          "The room was thick with dust",
-          "The air was thick with smoke."
-        ]
-      },
-      {
-        "mean_english": "ngu ngốc, dại dột",
-        "definition": "stupid",
-        "ex_of_definition_list": [
-          "Don’t be so thick!"
-        ]
-      },
-      {
-        "mean_english": "chỗ dày nhất",
-        "definition": "the thickest, most crowded or active part",
-        "ex_of_definition_list": [
-          "in the thick of the forest",
-          "in the thick of the fight."
-        ]
-      }
+    "hash_code_list_img": "692720340",
+    "list_example": [
+      "a thick book",
+      "thick walls",
+      "thick glass.",
+      "a two-inch-thick pane of glass.",
+      "thick soup.",
+      "a thick forest",
+      "thick hair.",
+      "thick fog.",
+      "The room was thick with dust",
+      "The air was thick with smoke.",
+      "in the thick of the forest",
+      "in the thick of the fight.",
+      "The target was a flat thick foil placed perpendicularly to the beam, which could be moved along the x and y direction by external motions.",
+      "In the post-1870 era serious medical books emphasizing these themes came thick and fast.",
+      "The internal and external elastic laminae are thick concentric elastic-fibre layers that separate the intima and media, and the media and adventitia, respectively.",
+      "After opening the pleura, large tortuous venous vessels as thick as a finger were seen.",
+      "If a thick sense of welfare is used, then it is unlikely that competition will maximize it.",
+      "The thick diagonal line separates the traditional orientations ofprocessual archaeology (left) from those of post-processual archaeology (right)."
     ],
-    "hash_code_list_definition_mean": "-1160249610"
+    "hash_code_list_example": "1531148111"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/thief_cb_dmean_5000_it.json",
@@ -626,17 +469,11 @@
         "id_image": "thief_2267675"
       }
     ],
-    "hash_code_list_img": "629085480",
-    "list_definition_mean": [
-      {
-        "mean_english": "kẻ trộm, kẻ cắp",
-        "definition": "a person who steals",
-        "ex_of_definition_list": [
-          "The thief got away with all my money."
-        ]
-      }
+    "hash_code_list_img": "1653271168",
+    "list_example": [
+      "The thief got away with all my money."
     ],
-    "hash_code_list_definition_mean": "903389285"
+    "hash_code_list_example": "2082736237"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/thigh_cb_dmean_5000_it.json",
@@ -659,17 +496,14 @@
         "id_image": "thigh_6233397"
       }
     ],
-    "hash_code_list_img": "-1901264440",
-    "list_definition_mean": [
-      {
-        "mean_english": "đùi",
-        "definition": "the part of the leg between the knee and hip",
-        "ex_of_definition_list": [
-          "muscular thighs."
-        ]
-      }
+    "hash_code_list_img": "-1458866681",
+    "list_example": [
+      "The shank link was connected to the thigh link with a compliant elastic element.",
+      "The center of mass of the shank and thigh are located on the central vertical axis through the hip, knee and ankle joint.",
+      "Three-dimensional ultrasound-assessed fetal thigh volumetry in predicting birth weight.",
+      "These manoeuvres include squatting, isometric thigh contraction, leg crossing, raised toe walking and abdominal muscle contraction carried out before or immediately after posture change."
     ],
-    "hash_code_list_definition_mean": "1564151721"
+    "hash_code_list_example": "1619210765"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/think_cb_dmean_5000_it.json",
@@ -706,51 +540,20 @@
         "id_image": "think_4576351"
       }
     ],
-    "hash_code_list_img": "1471545012",
-    "list_definition_mean": [
-      {
-        "mean_english": "nghĩ về",
-        "definition": "(often with about) to have or form ideas in one’s mind",
-        "ex_of_definition_list": [
-          "Can babies think?",
-          "I was thinking about my mother."
-        ]
-      },
-      {
-        "mean_english": "nghĩ rằng, tin rằng",
-        "definition": "to have or form opinions in one’s mind; to believe",
-        "ex_of_definition_list": [
-          "He thinks (that) the world is flat",
-          "What do you think of his poem?",
-          "What do you think about his suggestion?",
-          "He thought me very stupid."
-        ]
-      },
-      {
-        "mean_english": "dự định làm gì",
-        "definition": "to intend or plan (to do something), usually without making a final decision",
-        "ex_of_definition_list": [
-          "I must think what to do",
-          "I was thinking of/about going to London next week."
-        ]
-      },
-      {
-        "mean_english": "hình dung, mong đợi",
-        "definition": "to imagine or expect",
-        "ex_of_definition_list": [
-          "I never thought to see you again",
-          "Little did he think that I would be there as well."
-        ]
-      },
-      {
-        "mean_english": "sự nghĩ, ý nghĩ",
-        "definition": "the act of thinking",
-        "ex_of_definition_list": [
-          "Go and have a think about it."
-        ]
-      }
+    "hash_code_list_img": "202125664",
+    "list_example": [
+      "What do you think of his poem?",
+      "What do you think about his suggestion?",
+      "I must think what to do",
+      "Little did he think that I would be there as well.",
+      "Go and have a think about it.",
+      "I think there is evidence, and this is more difficult to measure, that research benefits teaching.",
+      "I think he is too pessimistic about what the surviving sermons themselves tell us.",
+      "In this commentary we raise two issues that we think are directly related to the theory's treatment of mental representations as emulations.",
+      "It helps me to think things through systematically and adopt resolve to take action, and it reminds me of my own past thinking.",
+      "However, philosophers do think that our notion of wellbeing permits the rich account of the priority view that they offer."
     ],
-    "hash_code_list_definition_mean": "-556781108"
+    "hash_code_list_example": "753961077"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/thin_cb_dmean_5000_it.json",
@@ -777,53 +580,14 @@
         "id_image": "thin_4637252"
       }
     ],
-    "hash_code_list_img": "399612875",
-    "list_definition_mean": [
-      {
-        "mean_english": "mỏng",
-        "definition": "having a short distance between opposite sides",
-        "ex_of_definition_list": [
-          "thin paper",
-          "The walls of these houses are too thin."
-        ]
-      },
-      {
-        "mean_english": "gầy",
-        "definition": "(of people or animals) not fat",
-        "ex_of_definition_list": [
-          "She looks thin since her illness."
-        ]
-      },
-      {
-        "mean_english": "loãng",
-        "definition": "(of liquids, mixtures etc) not containing any solid matter; rather lacking in taste; (tasting as if) containing a lot of water or too much water",
-        "ex_of_definition_list": [
-          "thin soup."
-        ]
-      },
-      {
-        "mean_english": "mỏng",
-        "definition": "not set closely together; not dense or crowded",
-        "ex_of_definition_list": [
-          "His hair is getting rather thin."
-        ]
-      },
-      {
-        "mean_english": "không thuyết phục",
-        "definition": "not convincing or believable",
-        "ex_of_definition_list": [
-          "a thin excuse."
-        ]
-      },
-      {
-        "mean_english": "làm cho mỏng hơn",
-        "definition": "to make or become thin or thinner",
-        "ex_of_definition_list": [
-          "The crowd thinned after the parade was over."
-        ]
-      }
+    "hash_code_list_img": "1322455601",
+    "list_example": [
+      "thin paper",
+      "She looks thin since her illness.",
+      "thin soup.",
+      "a thin excuse."
     ],
-    "hash_code_list_definition_mean": "-178896917"
+    "hash_code_list_example": "1395772581"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/thirst_cb_dmean_5000_it.json",
@@ -843,31 +607,12 @@
         "id_image": "thirst_5935626"
       }
     ],
-    "hash_code_list_img": "839941081",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự khát",
-        "definition": "a feeling of dryness (in the mouth) caused by a lack of water or moisture",
-        "ex_of_definition_list": [
-          "I have a terrible thirst."
-        ]
-      },
-      {
-        "mean_english": "niềm khao khát",
-        "definition": "a strong and eager desire for something",
-        "ex_of_definition_list": [
-          "thirst for knowledge."
-        ]
-      },
-      {
-        "mean_english": "khao khát",
-        "definition": "to have a great desire for",
-        "ex_of_definition_list": [
-          "He’s thirsting for revenge."
-        ]
-      }
+    "hash_code_list_img": "508260581",
+    "list_example": [
+      "thirst for knowledge.",
+      "The working men for whom this institution was created had a thirst for education in a way we can scarcely any longer imagine today."
     ],
-    "hash_code_list_definition_mean": "1062978156"
+    "hash_code_list_example": "-1110521745"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/thorn_cb_dmean_5000_it.json",
@@ -885,17 +630,12 @@
         "id_image": "thorn_3426190"
       }
     ],
-    "hash_code_list_img": "928639596",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái gai",
-        "definition": "a hard, sharp point sticking out from the stem of certain plants",
-        "ex_of_definition_list": [
-          "She pricked her finger on a thorn."
-        ]
-      }
+    "hash_code_list_img": "1884602503",
+    "list_example": [
+      "A co-wife in feminine vocabulary was a thorn in one's side (satin kanta).",
+      "At the end of the arm is what looks like a tiny lollipop with a pointy thorn at the centre."
     ],
-    "hash_code_list_definition_mean": "271306421"
+    "hash_code_list_example": "-504889138"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/thought_cb_dmean_5000_it.json",
@@ -925,31 +665,17 @@
         "id_image": "thought_6000798"
       }
     ],
-    "hash_code_list_img": "1217969448",
-    "list_definition_mean": [
-      {
-        "mean_english": "ý nghĩ",
-        "definition": "something that one thinks; an idea",
-        "ex_of_definition_list": [
-          "I had a sudden thought."
-        ]
-      },
-      {
-        "mean_english": "sự suy nghĩ, cân nhắc",
-        "definition": "the act of thinking; consideration",
-        "ex_of_definition_list": [
-          "After a great deal of thought, we decided to emigrate to America."
-        ]
-      },
-      {
-        "mean_english": "ý tưởng",
-        "definition": "general opinion",
-        "ex_of_definition_list": [
-          "scientific thought."
-        ]
-      }
+    "hash_code_list_img": "1910460361",
+    "list_example": [
+      "Shouldn't all players who play on a team sport be thought of as team players?",
+      "If they thought both meanings were synonymous, then they were told to choose the meaning that would be the most likely used for the sentence.",
+      "What if past thought were not always surpassed thought?",
+      "However, there is a sharp distinction between the mechanisms posited by repression and the processes thought to underlie ordinary forgetting.",
+      "Indeed, representations in the brain are not thought by visual neuroscientists to be point-by-point picture-like representations.",
+      "Luminance gradients are usually thought to provide cues about the interactions of light and surfaces that model the volume of the resulting object.",
+      "Traditionally, lexical contexts and sentential contexts were thought to play very different roles in word recognition, each applying at a separate stage."
     ],
-    "hash_code_list_definition_mean": "-1903530706"
+    "hash_code_list_example": "1711501509"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/thread_cb_dmean_5000_it.json",
@@ -976,46 +702,12 @@
         "id_image": "thread_6306789"
       }
     ],
-    "hash_code_list_img": "-299702792",
-    "list_definition_mean": [
-      {
-        "mean_english": "sợi chỉ",
-        "definition": "a thin strand of cotton, wool, silk etc, especially when used for sewing",
-        "ex_of_definition_list": [
-          "a needle and some thread."
-        ]
-      },
-      {
-        "mean_english": "đường ren xoáy ốc",
-        "definition": "the spiral ridge around a screw",
-        "ex_of_definition_list": [
-          "This screw has a worn thread."
-        ]
-      },
-      {
-        "mean_english": "dòng, mạch",
-        "definition": "the connection between the various events or details (in a story, account etc)",
-        "ex_of_definition_list": [
-          "I’ve lost the thread of what he’s saying."
-        ]
-      },
-      {
-        "mean_english": "xuôn chỉ",
-        "definition": "to pass a thread through",
-        "ex_of_definition_list": [
-          "I cannot thread this needle",
-          "The child was threading beads."
-        ]
-      },
-      {
-        "mean_english": "lách, luồn lách",
-        "definition": "to make (one’s way) through",
-        "ex_of_definition_list": [
-          "She threaded her way through the crowd."
-        ]
-      }
+    "hash_code_list_img": "-2093142861",
+    "list_example": [
+      "I’ve lost the thread of what he’s saying.",
+      "I cannot thread this needle"
     ],
-    "hash_code_list_definition_mean": "-1236001385"
+    "hash_code_list_example": "16981717"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/threat_cb_dmean_5000_it.json",
@@ -1045,31 +737,18 @@
         "id_image": "threat_6339322"
       }
     ],
-    "hash_code_list_img": "147225663",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự đe dọa",
-        "definition": "a warning that one is going to hurt or punish someone",
-        "ex_of_definition_list": [
-          "He will certainly carry out his threat to harm you."
-        ]
-      },
-      {
-        "mean_english": "nguy cơ",
-        "definition": "a sign of something dangerous or unpleasant which may be, or is, about to happen",
-        "ex_of_definition_list": [
-          "There’s a threat of rain this afternoon."
-        ]
-      },
-      {
-        "mean_english": "mối đe dọa",
-        "definition": "a source of danger",
-        "ex_of_definition_list": [
-          "His presence is a threat to our plan/success."
-        ]
-      }
+    "hash_code_list_img": "1750921291",
+    "list_example": [
+      "He will certainly carry out his threat to harm you.",
+      "There’s a threat of rain this afternoon.",
+      "His presence is a threat to our plan/success.",
+      "In approaching their prospects, network marketers enjoy the privilege of exploiting the element of intimacy by reducing the potential threat to their prospects' negative face.",
+      "Could one overcome the threat to the interest theory by arguing that interests are ranked only by their contribution to further interests?",
+      "These findings strongly suggest that future research efforts may be profitably directed toward this heretofore underappreciated threat to children's adjustment.",
+      "And certainly there are persons to whom no further threat can be made.",
+      "But mere possession without a credible threat of releasing the agents will not provide the feelings of power or security."
     ],
-    "hash_code_list_definition_mean": "541691715"
+    "hash_code_list_example": "-1580652484"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/thriller_cb_dmean_5000_it.json",
@@ -1092,17 +771,16 @@
         "id_image": "thriller_6348453"
       }
     ],
-    "hash_code_list_img": "-1556169427",
-    "list_definition_mean": [
-      {
-        "mean_english": "truyện kinh dị, truyện trinh thám",
-        "definition": "an exciting novel or play, usually about crime, detectives etc",
-        "ex_of_definition_list": [
-          "I always take a thriller to read on the train."
-        ]
-      }
+    "hash_code_list_img": "636742669",
+    "list_example": [
+      "I always take a thriller to read on the train.",
+      "I believe that that is a fiction, from the imagination of thriller writers.",
+      "He would find it difficult to write a thriller more amazing than the events of the last few months.",
+      "A careful examination of the record makes revealing and fascinating reading and would be great source material for a good thriller or perhaps, more accurately, a whodunnit.",
+      "Why not get some of the spacemen thriller writers to recruit some of the children for science?",
+      "Does anybody here want to read a thriller this week-end?"
     ],
-    "hash_code_list_definition_mean": "1325626046"
+    "hash_code_list_example": "1296446333"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/throat_cb_dmean_5000_it.json",
@@ -1126,24 +804,20 @@
         "id_image": "throat_5570677"
       }
     ],
-    "hash_code_list_img": "-947997941",
-    "list_definition_mean": [
-      {
-        "mean_english": "cổ họng, hầu",
-        "definition": "the back part of the mouth connecting the openings of the stomach, lungs and nose",
-        "ex_of_definition_list": [
-          "She has a sore throat."
-        ]
-      },
-      {
-        "mean_english": "cổ",
-        "definition": "the front part of the neck",
-        "ex_of_definition_list": [
-          "She wore a silver brooch at her throat."
-        ]
-      }
+    "hash_code_list_img": "-2128568841",
+    "list_example": [
+      "She has a sore throat.",
+      "She wore a silver brooch at her throat.",
+      "He was humble minded and never forced his opinions down other people's throats.",
+      "He said that you must avoid the impression of thrusting religion down the throats of the pupils.",
+      "Surely, if we do that, we are saying we prefer to cut our throats rather than survive.",
+      "Depending on populations surveyed, the climate and the season, the germ can be recovered from 5% to 50% of the throats of schoolchildren examined.",
+      "If we do not, we shall cut each other's throats.",
+      "Instead, it has added instability and set people at each other's throats.",
+      "We did not vote for national health service trusts, but they were forced down our throats.",
+      "Politicians love grabbing each other's throats!"
     ],
-    "hash_code_list_definition_mean": "-1011039201"
+    "hash_code_list_example": "-1558482134"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/throne_cb_dmean_5000_it.json",
@@ -1167,24 +841,12 @@
         "id_image": "throne_1835104"
       }
     ],
-    "hash_code_list_img": "1896919895",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngai vàng",
-        "definition": "the ceremonial chair of a king, queen etc, pope or bishop",
-        "ex_of_definition_list": [
-          "The chairs were designed to be used as thrones for the Spanish King or Queen."
-        ]
-      },
-      {
-        "mean_english": "ngôi vua",
-        "definition": "the king or queen",
-        "ex_of_definition_list": [
-          "He swore allegiance to the throne."
-        ]
-      }
+    "hash_code_list_img": "1782702874",
+    "list_example": [
+      "Faced with political marginalization he acted against the clique who controlled the capital and seized the throne in 1290.",
+      "Yet, the composite throne had not ended accordingly."
     ],
-    "hash_code_list_definition_mean": "35228121"
+    "hash_code_list_example": "-404169394"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/throw_cb_dmean_5000_it.json",
@@ -1216,38 +878,15 @@
         "id_image": "throw_843900"
       }
     ],
-    "hash_code_list_img": "-1141329047",
-    "list_definition_mean": [
-      {
-        "mean_english": "ném",
-        "definition": "to send through the air with force; to hurl or fling",
-        "ex_of_definition_list": [
-          "He threw the ball to her / threw her the ball."
-        ]
-      },
-      {
-        "mean_english": "hất ngã, làm ngã",
-        "definition": "(of a horse) to make its rider fall off",
-        "ex_of_definition_list": [
-          "My horse threw me."
-        ]
-      },
-      {
-        "mean_english": "lúng túng",
-        "definition": "to puzzle or confuse",
-        "ex_of_definition_list": [
-          "He was completely thrown by her question."
-        ]
-      },
-      {
-        "mean_english": "sự ném",
-        "definition": "an act of throwing",
-        "ex_of_definition_list": [
-          "That was a good throw!"
-        ]
-      }
+    "hash_code_list_img": "1312110784",
+    "list_example": [
+      "The following two experiments were designed to throw light on these options.",
+      "Although it would be time-consuming to undertake, an analysis of such cases might throw light upon the circumstances in which he preferred the reiterated note.",
+      "These throw new light on her musical activities and help us to understand the context and significance of her public concerts in 1760 and 1761.",
+      "Issues of governance, patronage and regional bias within the country, which could throw interesting light on the assessment of democracy, are not considered.",
+      "But they do not throw a direct light on particular economic problems of our age."
     ],
-    "hash_code_list_definition_mean": "-1523184336"
+    "hash_code_list_example": "2022751120"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/thumb_cb_dmean_5000_it.json",
@@ -1272,24 +911,20 @@
         "id_image": "thumb_5613267"
       }
     ],
-    "hash_code_list_img": "695292003",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngón tay cái",
-        "definition": "the short thick finger of the hand, set at a different angle from the other four",
-        "ex_of_definition_list": [
-          "The baby is sucking its thumb."
-        ]
-      },
-      {
-        "mean_english": "lật, giở",
-        "definition": "(often with through) to turn over (the pages of a book) with the thumb or fingers",
-        "ex_of_definition_list": [
-          "She was thumbing through the dictionary."
-        ]
-      }
+    "hash_code_list_img": "353276711",
+    "list_example": [
+      "The baby is sucking its thumb.",
+      "She was thumbing through the dictionary.",
+      "My copy is already well thumbed.",
+      "Because he is zealous and energetic he does not sit twiddling his thumbs.",
+      "Officials should not, therefore, give a development the thumbs down in the face of a council's unanimous agreement.",
+      "The dictionary owned by a dyslexic person is always, like mine, very well thumbed.",
+      "From an evolutionary standpoint, upright bipedal ambulation, opposable thumbs and divided attention each are high order.",
+      "Finally, while publishing their desires for industrial peace and public welfare, they gouged prices and thumbed their noses at both proposed congressional and presidential strike settlement commissions.",
+      "Recollect that if children do not learn by fourteen to use their fingers, their fingers become thumbs.",
+      "What good is it to win an appeal if the education board just thumbs its nose?"
     ],
-    "hash_code_list_definition_mean": "-713471445"
+    "hash_code_list_example": "-1798671226"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/thunderbolt_cb_dmean_5000_it.json",
@@ -1323,24 +958,13 @@
         "id_image": "thunderbolt_689323"
       }
     ],
-    "hash_code_list_img": "1033042718",
-    "list_definition_mean": [
-      {
-        "mean_english": "tiếng sét",
-        "definition": "a flash of lightning immediately followed by thunder",
-        "ex_of_definition_list": [
-          "He was struck by a thunderbolt."
-        ]
-      },
-      {
-        "mean_english": "sự ngạc nhiên",
-        "definition": "a sudden great surprise",
-        "ex_of_definition_list": [
-          "Her arrival was a complete thunderbolt."
-        ]
-      }
+    "hash_code_list_img": "274798675",
+    "list_example": [
+      "There are now more than 100 such ministers and not a single thunderbolt has hit any kirk in those 25 years.",
+      "In the figure shown here, the four wings carry the symbols of the four seasons and a thunderbolt is engraved on the breast.",
+      "The meaning of thokcha can thus be given as first or original iron or thunderbolt iron."
     ],
-    "hash_code_list_definition_mean": "-2115347688"
+    "hash_code_list_example": "1696067200"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/thunder_cb_dmean_5000_it.json",
@@ -1366,39 +990,12 @@
         "id_image": "thunder_391523"
       }
     ],
-    "hash_code_list_img": "-1858225705",
-    "list_definition_mean": [
-      {
-        "mean_english": "sấm, tiếng sấm, tiếng sét",
-        "definition": "the deep rumbling sound heard in the sky after a flash of lightning",
-        "ex_of_definition_list": [
-          "a clap/peal of thunder",
-          "a thunderstorm."
-        ]
-      },
-      {
-        "mean_english": "tiếng vó ngựa",
-        "definition": "a loud rumbling",
-        "ex_of_definition_list": [
-          "the thunder of horses’ hooves."
-        ]
-      },
-      {
-        "mean_english": "nổi sấm",
-        "definition": "to sound, rumble etc",
-        "ex_of_definition_list": [
-          "It thundered all night."
-        ]
-      },
-      {
-        "mean_english": "gây ra tiếng động vang to",
-        "definition": "to make a noise like thunder",
-        "ex_of_definition_list": [
-          "The tanks thundered over the bridge."
-        ]
-      }
+    "hash_code_list_img": "261588196",
+    "list_example": [
+      "the thunder of horses’ hooves.",
+      "The thunder and lightning storm is a real one coming across from the mainland."
     ],
-    "hash_code_list_definition_mean": "-2014777046"
+    "hash_code_list_example": "460020569"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tiara_cb_dmean_5000_it.json",
@@ -1421,18 +1018,12 @@
         "id_image": "tiara_4713766"
       }
     ],
-    "hash_code_list_img": "1303801160",
-    "list_definition_mean": [
-      {
-        "mean_english": "đồ có hình lưỡi liềm",
-        "definition": "a jewelled/jeweled ornament for the head, similar to a crown",
-        "ex_of_definition_list": [
-          "a bridal tiara",
-          "the Queen’s tiara."
-        ]
-      }
+    "hash_code_list_img": "962240712",
+    "list_example": [
+      "The door leads to an ancient tomb, within which they encounter a mysterious, ghostly woman wearing a golden tiara with a pearl set in it.",
+      "The tiara and keys are typical symbols used in the coats of arms of pontiffs, which symbolize their authority."
     ],
-    "hash_code_list_definition_mean": "2003494303"
+    "hash_code_list_example": "-2115193245"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/ticket_cb_dmean_5000_it.json",
@@ -1462,32 +1053,14 @@
         "id_image": "ticket_884097"
       }
     ],
-    "hash_code_list_img": "115075826",
-    "list_definition_mean": [
-      {
-        "mean_english": "vé",
-        "definition": "a piece of card or paper which gives the holder a certain right, eg of travel, entering a theatre/theater etc",
-        "ex_of_definition_list": [
-          "a bus ticket",
-          "a cinema ticket."
-        ]
-      },
-      {
-        "mean_english": "thẻ",
-        "definition": "a notice advising of a minor motoring offence/offense",
-        "ex_of_definition_list": [
-          "a parking ticket."
-        ]
-      },
-      {
-        "mean_english": "nhãn ghi giá",
-        "definition": "a card or label stating the price etc of something",
-        "ex_of_definition_list": [
-          "What does it say on the ticket?"
-        ]
-      }
+    "hash_code_list_img": "1023435521",
+    "list_example": [
+      "a bus ticket",
+      "a cinema ticket.",
+      "a parking ticket.",
+      "What does it say on the ticket?"
     ],
-    "hash_code_list_definition_mean": "-813329784"
+    "hash_code_list_example": "1017761231"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tick_cb_dmean_5000_it.json",
@@ -1520,52 +1093,12 @@
         "id_image": "tick_5387661"
       }
     ],
-    "hash_code_list_img": "-1295327076",
-    "list_definition_mean": [
-      {
-        "mean_english": "tiếng tích tắc",
-        "definition": "a regular sound, especially that of a watch, clock etc",
-        "ex_of_definition_list": [
-          "the steady tick of the clock."
-        ]
-      },
-      {
-        "mean_english": "một lát",
-        "definition": "a moment",
-        "ex_of_definition_list": [
-          "Wait a tick!"
-        ]
-      },
-      {
-        "mean_english": "kêu tích tắc",
-        "definition": "to make a sound like this",
-        "ex_of_definition_list": [
-          "Your watch ticks very loudly!"
-        ]
-      },
-      {
-        "mean_english": "dấu kiểm",
-        "definition": "a mark ( ) used to show that something is correct, has been noted etc",
-        "ex_of_definition_list": [
-          "If the answer is ‘yes’, put a tick in the box."
-        ]
-      },
-      {
-        "mean_english": "đánh dấu",
-        "definition": "(often with off) to put this mark beside an item or name on a list etc",
-        "ex_of_definition_list": [
-          "She ticked everything off on the list."
-        ]
-      },
-      {
-        "mean_english": "con bét, con ve",
-        "definition": "a type of small, blood-sucking insect",
-        "ex_of_definition_list": [
-          "Our dog has ticks."
-        ]
-      }
+    "hash_code_list_img": "337667757",
+    "list_example": [
+      "the steady tick of the clock.",
+      "If the answer is ‘yes’, put a tick in the box."
     ],
-    "hash_code_list_definition_mean": "-1393309956"
+    "hash_code_list_example": "150112191"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tide_cb_dmean_5000_it.json",
@@ -1593,18 +1126,11 @@
         "id_image": "tide_5903488"
       }
     ],
-    "hash_code_list_img": "1082421789",
-    "list_definition_mean": [
-      {
-        "mean_english": "thủy triều",
-        "definition": "the regular, twice-a-day ebbing and flowing movement of the sea",
-        "ex_of_definition_list": [
-          "It’s high/low tide",
-          "The tide is coming in / going out."
-        ]
-      }
+    "hash_code_list_img": "2107857922",
+    "list_example": [
+      "The tide is coming in / going out."
     ],
-    "hash_code_list_definition_mean": "1676792723"
+    "hash_code_list_example": "1357579501"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tier_cb_dmean_5000_it.json",
@@ -1622,17 +1148,19 @@
         "id_image": "tier_5966028"
       }
     ],
-    "hash_code_list_img": "2078011534",
-    "list_definition_mean": [
-      {
-        "mean_english": "hàng ghế",
-        "definition": "a row of seats",
-        "ex_of_definition_list": [
-          "They sat in the front/first tier."
-        ]
-      }
+    "hash_code_list_img": "1473758512",
+    "list_example": [
+      "They sat in the front/first tier.",
+      "We favour that model of accountability rather than the lower tiers of the detailed structure.",
+      "Chapter 3 examines further issues that come out of a constraint-conjunction approach to dissimilatory type phenomena that does not reference autosegmental tiers.",
+      "Here he develops the argument that a 'historically sensitive' economics must combine elements from each of five tiers of abstraction, something he calls the principle of five analytical levels.",
+      "Slow tiers controlled lower pitch instruments.",
+      "First, on the word, syllable, onset-rime, skeletal, and segmental tiers, matches between the child's attempts and the target phonemes were calculated.",
+      "The procedure did not lead to a rank order of priorities but rather a list of suggested topics in three tiers (strong, moderate, and weak support).",
+      "Similarly, we know that the segmental tiers and the syllabic tiers are intimately related.",
+      "Although national-level upper tiers necessarily reduce malapportionment, provincial, state or regional upper tiers can actually increase overall malapportionment if the seats in the tiers are themselves malapportioned."
     ],
-    "hash_code_list_definition_mean": "1135738326"
+    "hash_code_list_example": "-574108269"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tie_cb_dmean_5000_it.json",
@@ -1657,68 +1185,12 @@
         "id_image": "tie_343341"
       }
     ],
-    "hash_code_list_img": "749772575",
-    "list_definition_mean": [
-      {
-        "mean_english": "buộc, cột",
-        "definition": "(often with to, on etc) to fasten with a string, rope etc",
-        "ex_of_definition_list": [
-          "He tied the horse to a tree",
-          "The parcel was tied with string",
-          "I don’t like this job – I hate being tied to a desk."
-        ]
-      },
-      {
-        "mean_english": "thắt",
-        "definition": "to fasten by knotting; to make a knot in",
-        "ex_of_definition_list": [
-          "He tied his shoelaces."
-        ]
-      },
-      {
-        "mean_english": "cài",
-        "definition": "to be joined by a knot etc",
-        "ex_of_definition_list": [
-          "The belt of this dress ties at the front."
-        ]
-      },
-      {
-        "mean_english": "tỷ số hòa",
-        "definition": "to score the same number of points etc (in a game, competition etc)",
-        "ex_of_definition_list": [
-          "Three people tied for first place."
-        ]
-      },
-      {
-        "mean_english": "cà vạt",
-        "definition": "a strip of material worn tied round the neck under the collar of a shirt",
-        "ex_of_definition_list": [
-          "He wore a shirt and tie."
-        ]
-      },
-      {
-        "mean_english": "sự liên kết",
-        "definition": "something that joins",
-        "ex_of_definition_list": [
-          "the ties of friendship."
-        ]
-      },
-      {
-        "mean_english": "kết quả hòa",
-        "definition": "an equal score or result (in a game, competition etc); a draw",
-        "ex_of_definition_list": [
-          "The game ended in a tie."
-        ]
-      },
-      {
-        "mean_english": "trận đấu",
-        "definition": "a game or match to be played",
-        "ex_of_definition_list": [
-          "Their fourth round tie is due to be played next Wednesday."
-        ]
-      }
+    "hash_code_list_img": "135387381",
+    "list_example": [
+      "Their fourth round tie is due to be played next Wednesday.",
+      "In this rubric, the political is released from a necessary tie to centralized governance and simply represents itself as a social production."
     ],
-    "hash_code_list_definition_mean": "1473345692"
+    "hash_code_list_example": "277836520"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tight_cb_dmean_5000_it.json",
@@ -1751,46 +1223,19 @@
         "id_image": "tights_4321447"
       }
     ],
-    "hash_code_list_img": "-2038529462",
-    "list_definition_mean": [
-      {
-        "mean_english": "chật",
-        "definition": "fitting very or too closely",
-        "ex_of_definition_list": [
-          "I couldn’t open the box because the lid was too tight",
-          "My trousers are too tight."
-        ]
-      },
-      {
-        "mean_english": "chặt",
-        "definition": "stretched to a great extent; not loose",
-        "ex_of_definition_list": [
-          "He made sure that the ropes were tight."
-        ]
-      },
-      {
-        "mean_english": "nghiêm khắc",
-        "definition": "(of control etc) strict and very careful",
-        "ex_of_definition_list": [
-          "She keeps (a) tight control over her emotions."
-        ]
-      },
-      {
-        "mean_english": "có ít thời gian",
-        "definition": "not allowing much time",
-        "ex_of_definition_list": [
-          "We hope to finish this next week but the schedule’s a bit tight."
-        ]
-      },
-      {
-        "mean_english": "chặt chẽ",
-        "definition": "(also tightly) closely; with no extra room or space",
-        "ex_of_definition_list": [
-          "The bags were packed tight / tightly packed."
-        ]
-      }
+    "hash_code_list_img": "1479141536",
+    "list_example": [
+      "She keeps (a) tight control over her emotions.",
+      "The bags were packed tight / tightly packed.",
+      "Here, the issue is why popular protests rose so frequently despite tight political control by the government.",
+      "Observed cross-sectional distribution and its second-order approximation (tight borrowing constraint).",
+      "To ensure that benefits do not exceed contributions a tight limit has been set on eligibility and total payments.",
+      "For those who maintain an illusion of tight control, the book will be an eye-opener.",
+      "All wear the same below-the-knee dresses made out of the same fabric, with gathered tops and uncomfortably tight (and not terribly flattering) fitted waists.",
+      "This tight link between concessions and mills is the reason for the inclusion of the harvest constraint in the model.",
+      "First, regularity of strophic constructions and tight rhyme schemes are especially cultivated by the troubadours to impose structure on an unruly vernacular language."
     ],
-    "hash_code_list_definition_mean": "1584338102"
+    "hash_code_list_example": "189105565"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tile_cb_dmean_5000_it.json",
@@ -1810,31 +1255,18 @@
         "id_image": "tile_5480446"
       }
     ],
-    "hash_code_list_img": "118253695",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngói",
-        "definition": "a piece of baked clay used in covering roofs, walls, floors etc",
-        "ex_of_definition_list": [
-          "Some of the tiles were blown off the roof during the storm."
-        ]
-      },
-      {
-        "mean_english": "đá lát",
-        "definition": "a similar piece of plastic material used for covering floors etc",
-        "ex_of_definition_list": [
-          "kitchen tiles."
-        ]
-      },
-      {
-        "mean_english": "lợp ngói",
-        "definition": "to cover with tiles",
-        "ex_of_definition_list": [
-          "We had to have the roof tiled."
-        ]
-      }
+    "hash_code_list_img": "42694245",
+    "list_example": [
+      "Some of the tiles were blown off the roof during the storm.",
+      "kitchen tiles.",
+      "We had to have the roof tiled.",
+      "Any two tiles of the same type must be translations of each other.",
+      "A cyclic permutation of the tiles in w typically yields a word that works as well.",
+      "Then, three stacks of three roof tiles each were placed by both the entry and exit ways, with the stacks one pace apart.",
+      "The external plaster is the protection of the facade, just as the roof tiles are the protection of the upper part of the building.",
+      "Extraordinary nonperiodic tiling that enriches the theory of tiles."
     ],
-    "hash_code_list_definition_mean": "871993814"
+    "hash_code_list_example": "1380006422"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tilt_cb_dmean_5000_it.json",
@@ -1858,25 +1290,11 @@
         "id_image": "tilt_4335020"
       }
     ],
-    "hash_code_list_img": "-1298780053",
-    "list_definition_mean": [
-      {
-        "mean_english": "tròng trành",
-        "definition": "to go or put (something) into a sloping or slanting position",
-        "ex_of_definition_list": [
-          "He tilted his chair backwards",
-          "The lamp tilted and fell."
-        ]
-      },
-      {
-        "mean_english": "sự nghiêng",
-        "definition": "a slant; a slanting position",
-        "ex_of_definition_list": [
-          "The table is at a slight tilt."
-        ]
-      }
+    "hash_code_list_img": "312806509",
+    "list_example": [
+      "Though test-retest reliability was typically considered pre-requisite, any of the other criteria could tilt the ranking either upward or downward."
     ],
-    "hash_code_list_definition_mean": "2092248100"
+    "hash_code_list_example": "-1238809488"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/timber_cb_dmean_5000_it.json",
@@ -1901,31 +1319,21 @@
         "id_image": "timber_3555826"
       }
     ],
-    "hash_code_list_img": "-80873850",
-    "list_definition_mean": [
-      {
-        "mean_english": "gỗ",
-        "definition": "wood, especially for building",
-        "ex_of_definition_list": [
-          "This house is built of timber."
-        ]
-      },
-      {
-        "mean_english": "cây lấy gỗ",
-        "definition": "trees suitable for this",
-        "ex_of_definition_list": [
-          "a hundred acres of good timber."
-        ]
-      },
-      {
-        "mean_english": "thanh gỗ",
-        "definition": "a wooden beam used in the building of a house, ship etc",
-        "ex_of_definition_list": [
-          "The original timbers in the building are suffering from decay."
-        ]
-      }
+    "hash_code_list_img": "-1137948589",
+    "list_example": [
+      "This house is built of timber.",
+      "a hundred acres of good timber.",
+      "The original timbers in the building are suffering from decay.",
+      "We had to fight the manufacturers to prove that the timbers they were importing, while cheap, could be dangerous.",
+      "However, in the course of carrying out repairs to the roof he found that the timbers were rotten.",
+      "In the dying twilight, the inside of the musty warehouse, largely unused since 1941, has a pale blue cast, making the people, timbers and pillars appear as half-ghosts.",
+      "In the international context, world trade in hardwood timbers until the 1960s was still dominated by the production of temperate regions.",
+      "The short oak timbers and naval treated planks were well suited to the short walls required by the octagonal design.",
+      "There may be, therefore, hundreds of yards of strata balanced on a few supporting timbers.",
+      "In short the new world is to be built out of the timbers of the old.",
+      "Naturally, the main timbers, the roofs and walls are included, but what of historic fireplaces, panellings and stair- cases?"
     ],
-    "hash_code_list_definition_mean": "-442829491"
+    "hash_code_list_example": "562892049"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/timer_cb_dmean_5000_it.json",
@@ -1949,24 +1357,11 @@
         "id_image": "timer_601661"
       }
     ],
-    "hash_code_list_img": "1680846474",
-    "list_definition_mean": [
-      {
-        "mean_english": "người, vật tính, đo thời gian",
-        "definition": "a person who, or a device which, measures the time taken by anything",
-        "ex_of_definition_list": [
-          "a three-minute egg-timer."
-        ]
-      },
-      {
-        "mean_english": "thiết bị hẹn giờ",
-        "definition": "a clock-like device which sets something off or switches something on or off at a given time",
-        "ex_of_definition_list": [
-          "A timer automatically switches off the computer after a certain amount of time."
-        ]
-      }
+    "hash_code_list_img": "-1638749886",
+    "list_example": [
+      "A timer automatically switches off the computer after a certain amount of time."
     ],
-    "hash_code_list_definition_mean": "-1292767443"
+    "hash_code_list_example": "575985536"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/timetable_cb_dmean_5000_it.json",
@@ -1999,17 +1394,11 @@
         "id_image": "timetable_2855847"
       }
     ],
-    "hash_code_list_img": "-2046633609",
-    "list_definition_mean": [
-      {
-        "mean_english": "thời gian biểu",
-        "definition": "a list of the times of trains, school classes etc",
-        "ex_of_definition_list": [
-          "a bus/train timetable."
-        ]
-      }
+    "hash_code_list_img": "334977278",
+    "list_example": [
+      "a bus/train timetable."
     ],
-    "hash_code_list_definition_mean": "1515604608"
+    "hash_code_list_example": "1197166194"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/time_cb_dmean_5000_it.json",
@@ -2041,86 +1430,23 @@
         "id_image": "time_868194"
       }
     ],
-    "hash_code_list_img": "1514820953",
-    "list_definition_mean": [
-      {
-        "mean_english": "thời gian trong ngày",
-        "definition": "the hour of the day",
-        "ex_of_definition_list": [
-          "What time is it?",
-          "Can your child tell the time yet?"
-        ]
-      },
-      {
-        "mean_english": "thời gian được tính bằng đơn vị năm, tháng, ngày",
-        "definition": "the passage of days, years, events etc",
-        "ex_of_definition_list": [
-          "time and space",
-          "Time will tell."
-        ]
-      },
-      {
-        "mean_english": "thời điểm",
-        "definition": "a point at which, or period during which, something happens",
-        "ex_of_definition_list": [
-          "at the time of his wedding",
-          "breakfast time."
-        ]
-      },
-      {
-        "mean_english": "khoảng thời gian nào đó",
-        "definition": "the quantity of minutes, hours, days etc, eg spent in, or available for, a particular activity etc",
-        "ex_of_definition_list": [
-          "This won’t take much time to do",
-          "I enjoyed the time I spent in Paris",
-          "At the end of the exam, the supervisor called ‘Your time is up!’"
-        ]
-      },
-      {
-        "mean_english": "thời điểm thích hợp",
-        "definition": "a suitable moment or period",
-        "ex_of_definition_list": [
-          "Now is the time to ask him."
-        ]
-      },
-      {
-        "mean_english": "lần",
-        "definition": "one of a number occasions",
-        "ex_of_definition_list": [
-          "He’s been to France four times."
-        ]
-      },
-      {
-        "mean_english": "giai đoạn, thời kỳ",
-        "definition": "a period characterized by a particular quality in a person’s life, experience etc",
-        "ex_of_definition_list": [
-          "He went through an unhappy time when she died",
-          "We had some good times together."
-        ]
-      },
-      {
-        "mean_english": "nhịp",
-        "definition": "the speed at which a piece of music should be played; tempo",
-        "ex_of_definition_list": [
-          "in slow time."
-        ]
-      },
-      {
-        "mean_english": "tính thời gian",
-        "definition": "to measure the time taken by (a happening, event etc) or by (a person, in doing something)",
-        "ex_of_definition_list": [
-          "He timed the journey."
-        ]
-      },
-      {
-        "mean_english": "chọn thời điểm",
-        "definition": "to choose a particular time for",
-        "ex_of_definition_list": [
-          "You timed your arrival beautifully!"
-        ]
-      }
+    "hash_code_list_img": "-46913740",
+    "list_example": [
+      "What time is it?",
+      "Can your child tell the time yet?",
+      "time and space",
+      "at the time of his wedding",
+      "This won’t take much time to do",
+      "I enjoyed the time I spent in Paris",
+      "At the end of the exam, the supervisor called ‘Your time is up!’",
+      "Now is the time to ask him.",
+      "He went through an unhappy time when she died",
+      "Mortality rates were more variable over time on edges than interiors, and there was no evidence of time lags in mortality.",
+      "The comparative study is based on the accuracy, robustness, processing time and easiness of the implementation.",
+      "He then says nothing for some time about any employment.",
+      "We fixed a maximum running time of 12,000 s (about 3 h) for each test."
     ],
-    "hash_code_list_definition_mean": "877416436"
+    "hash_code_list_example": "1931364882"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tinfoil_cb_dmean_5000_it.json",
@@ -2138,17 +1464,18 @@
         "id_image": "tinfoil_5228481"
       }
     ],
-    "hash_code_list_img": "1011914238",
-    "list_definition_mean": [
-      {
-        "mean_english": "giấy thiếc",
-        "definition": "tin or other metal in the form of very thin sheets, used for wrapping etc",
-        "ex_of_definition_list": [
-          "I’m going to bake the ham in tinfoil."
-        ]
-      }
+    "hash_code_list_img": "1909332493",
+    "list_example": [
+      "It may have been a little extreme for the average person, but it was wearable clothing rather than the tinfoil effect of some of the current designers.",
+      "The tinfoil was wrapped around a grooved metal cylinder and a sound-vibrated stylus indented the tinfoil while the cylinder was rotated.",
+      "The transmitting condenser consisted of about 100 clear glass photographic plates interlaced with tinfoil from damaged paper condensers from the laboratory.",
+      "In 1925, the tinfoil was replaced with aluminum foil.",
+      "Wax was put in the grooves of the heavy iron cylinder, and no tinfoil was used.",
+      "The tinfoil barb is commercially important in the aquarium hobby trade, as well as commercial aquaculture, subsistence farming, and occasionally as bait.",
+      "It has not so far been found necessary to restrict the use of tinfoil for wrapping purposes.",
+      "His first phonograph recorded on tinfoil around a grooved cylinder."
     ],
-    "hash_code_list_definition_mean": "1287593039"
+    "hash_code_list_example": "1667042791"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tinge_cb_dmean_5000_it.json",
@@ -2166,17 +1493,11 @@
         "id_image": "tinge_340012"
       }
     ],
-    "hash_code_list_img": "1908565252",
-    "list_definition_mean": [
-      {
-        "mean_english": "màu nhẹ, nét thoảng",
-        "definition": "a trace, or slight amount, of a colour/color",
-        "ex_of_definition_list": [
-          "Her hair had a tinge of red."
-        ]
-      }
+    "hash_code_list_img": "1220163579",
+    "list_example": [
+      "Her hair had a tinge of red."
     ],
-    "hash_code_list_definition_mean": "1565696410"
+    "hash_code_list_example": "-1976356075"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tinsel_cb_dmean_5000_it.json",
@@ -2194,17 +1515,11 @@
         "id_image": "tinsel_616076"
       }
     ],
-    "hash_code_list_img": "2104370053",
-    "list_definition_mean": [
-      {
-        "mean_english": "kim tuyến",
-        "definition": "a sparkling, glittering substance used for decoration",
-        "ex_of_definition_list": [
-          "The Christmas tree was decorated with tinsel."
-        ]
-      }
+    "hash_code_list_img": "841975068",
+    "list_example": [
+      "The Christmas tree was decorated with tinsel."
     ],
-    "hash_code_list_definition_mean": "1160292496"
+    "hash_code_list_example": "-300385401"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tint_cb_dmean_5000_it.json",
@@ -2238,24 +1553,11 @@
         "id_image": "tint_438673"
       }
     ],
-    "hash_code_list_img": "1143527797",
-    "list_definition_mean": [
-      {
-        "mean_english": "trạng thái, màu sắc khác nhau",
-        "definition": "a variety, or shade, of a colour/color",
-        "ex_of_definition_list": [
-          "A tint of red crept up on her cheeks."
-        ]
-      },
-      {
-        "mean_english": "có màu nhẹ",
-        "definition": "to colour/color slightly",
-        "ex_of_definition_list": [
-          "She had her hair tinted red."
-        ]
-      }
+    "hash_code_list_img": "874589764",
+    "list_example": [
+      "A tint of red crept up on her cheeks."
     ],
-    "hash_code_list_definition_mean": "-765774873"
+    "hash_code_list_example": "-1194937567"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tip_cb_dmean_5000_it.json",
@@ -2291,73 +1593,15 @@
         "id_image": "tip_705108"
       }
     ],
-    "hash_code_list_img": "-2111622956",
-    "list_definition_mean": [
-      {
-        "mean_english": "đầu, đỉnh",
-        "definition": "the small or thin end, point or top of something",
-        "ex_of_definition_list": [
-          "the tips of my fingers."
-        ]
-      },
-      {
-        "mean_english": "bịt đầu",
-        "definition": "to put, or form, a tip on",
-        "ex_of_definition_list": [
-          "The spear was tipped with an iron point."
-        ]
-      },
-      {
-        "mean_english": "làm nghiêng",
-        "definition": "to (make something) slant",
-        "ex_of_definition_list": [
-          "The boat tipped to one side."
-        ]
-      },
-      {
-        "mean_english": "chuyển ra khỏi",
-        "definition": "to empty (something) from a container, or remove (something) from a surface, with this kind of motion",
-        "ex_of_definition_list": [
-          "He tipped the water out of the bucket."
-        ]
-      },
-      {
-        "mean_english": "đổ",
-        "definition": "to dump (rubbish)",
-        "ex_of_definition_list": [
-          "People have been tipping their rubbish in this field."
-        ]
-      },
-      {
-        "mean_english": "nơi đổ rác",
-        "definition": "a place where rubbish is thrown",
-        "ex_of_definition_list": [
-          "a refuse/rubbish tip."
-        ]
-      },
-      {
-        "mean_english": "tiền cho ai",
-        "definition": "a gift of money given to a waiter etc, for personal service",
-        "ex_of_definition_list": [
-          "I gave him a generous tip."
-        ]
-      },
-      {
-        "mean_english": "cho tiền",
-        "definition": "to give such a gift to",
-        "ex_of_definition_list": [
-          "Did you tip the waiter?"
-        ]
-      },
-      {
-        "mean_english": "thông tin có giá trị",
-        "definition": "a piece of useful information; a hint",
-        "ex_of_definition_list": [
-          "He gave me some good tips on/about gardening."
-        ]
-      }
+    "hash_code_list_img": "1241246424",
+    "list_example": [
+      "Did you tip the waiter?",
+      "We find greater tip raising before both types of schwa, indicating light \\l\\ before schwa and dark \\l\\ in coda position.",
+      "As is increasingly common in ambitious projects of this nature, the published book is merely the tip of the iceberg.",
+      "However, all the trajectories are finally convected to the finger side except that issuing from the finger tip itself.",
+      "The sheath was advanced across the previous area of obstruction and positioned with the tip in the new right atrium."
     ],
-    "hash_code_list_definition_mean": "248831135"
+    "hash_code_list_example": "-474705156"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tire_cb_dmean_5000_it.json",
@@ -2375,18 +1619,11 @@
         "id_image": "tire_4606879"
       }
     ],
-    "hash_code_list_img": "1014154407",
-    "list_definition_mean": [
-      {
-        "mean_english": "làm cho mệt",
-        "definition": "to make, or become, physically or mentally in want of rest, because of lack of strength, patience, interest etc; to weary",
-        "ex_of_definition_list": [
-          "Walking tired her",
-          "She tires easily."
-        ]
-      }
+    "hash_code_list_img": "942016751",
+    "list_example": [
+      "Inclusion of the flexibility, which is due to the suspension and the tires, results in a more realistic model of the entire system."
     ],
-    "hash_code_list_definition_mean": "1825117811"
+    "hash_code_list_example": "1030760585"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tissue_cb_dmean_5000_it.json",
@@ -2405,24 +1642,10 @@
         "id_image": "tissue_843871"
       }
     ],
-    "hash_code_list_img": "1589458727",
-    "list_definition_mean": [
-      {
-        "mean_english": "mô",
-        "definition": "(one of the kinds of) substance of which the organs of the body are made",
-        "ex_of_definition_list": [
-          "nervous tissue",
-          "the tissues of the body."
-        ]
-      },
-      {
-        "mean_english": "giấy lau",
-        "definition": "(a piece of) thin soft paper used for wiping the nose etc",
-        "ex_of_definition_list": [
-          "He bought a box of tissues for his cold."
-        ]
-      }
+    "hash_code_list_img": "1011254143",
+    "list_example": [
+      "By understanding how chemicals work, appropriate cell and tissue systems can be selected to specifically address questions."
     ],
-    "hash_code_list_definition_mean": "1940632953"
+    "hash_code_list_example": "-851775979"
   }
 ]

@@ -33,79 +33,21 @@
         "id_image": "present_4383917"
       }
     ],
-    "hash_code_list_img": "-1896983943",
-    "list_definition_mean": [
-      {
-        "mean_english": "có mặt",
-        "definition": "being here, or at the place, occasion etc mentioned",
-        "ex_of_definition_list": [
-          "My father was present on that occasion",
-          "Who else was present at the wedding?",
-          "Now that the whole class is present, we can begin the lesson."
-        ]
-      },
-      {
-        "mean_english": "hiện tại",
-        "definition": "existing now",
-        "ex_of_definition_list": [
-          "the present moment",
-          "the present prime minister."
-        ]
-      },
-      {
-        "mean_english": "thời hiện tại",
-        "definition": "(of the tense of a verb) indicating action now",
-        "ex_of_definition_list": [
-          "In the sentence ‘She wants a chocolate’, the verb is in the present tense."
-        ]
-      },
-      {
-        "mean_english": "tặng",
-        "definition": "to give, especially formally or ceremonially",
-        "ex_of_definition_list": [
-          "The child presented a bunch of flowers to the Queen",
-          "He was presented with a gold watch when he retired."
-        ]
-      },
-      {
-        "mean_english": "giới thiệu",
-        "definition": "to introduce",
-        "ex_of_definition_list": [
-          "May I present my wife (to you)?"
-        ]
-      },
-      {
-        "mean_english": "trình diễn; trình chiếu",
-        "definition": "to arrange the production of (a play, film etc)",
-        "ex_of_definition_list": [
-          "The Elizabethan Theatre Company presents ‘Hamlet’, by William Shakespeare."
-        ]
-      },
-      {
-        "mean_english": "trình bày",
-        "definition": "to offer (ideas etc) for consideration, or (a problem etc) for solving",
-        "ex_of_definition_list": [
-          "She presents (=expresses) her ideas very clearly",
-          "The situation presents a problem."
-        ]
-      },
-      {
-        "mean_english": "xuất hiện",
-        "definition": "to bring (oneself); to appear",
-        "ex_of_definition_list": [
-          "He presented himself at the dinner table half an hour late."
-        ]
-      },
-      {
-        "mean_english": "món quà",
-        "definition": "a gift",
-        "ex_of_definition_list": [
-          "a wedding present",
-          "birthday presents."
-        ]
-      }
+    "hash_code_list_img": "-747898131",
+    "list_example": [
+      "My father was present on that occasion",
+      "Who else was present at the wedding?",
+      "the present moment",
+      "the present prime minister.",
+      "In the sentence ‘She wants a chocolate’, the verb is in the present tense.",
+      "May I present my wife (to you)?",
+      "The judicial and psychiatric heterogeneity might also have concealed possible deviations in working memory and\\or planning present in certain subgroups.",
+      "The present study aimed to assess, in a community sample, actions taken to cope with depression at different levels of psychological distress.",
+      "The present problem appears, however, more difficult to grasp physically than the problem of the shelving beach.",
+      "The present study requires no prescribed entrance conditions, and permits solution for completely arbitrary shape.",
+      "On neither of these ways of construing the existence question does it present a substantial philosophical issue."
     ],
-    "hash_code_list_definition_mean": "1726485266"
+    "hash_code_list_example": "-130185565"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/preservation_cb_dmean_5000_it.json",
@@ -123,17 +65,16 @@
         "id_image": "preservation_3906472"
       }
     ],
-    "hash_code_list_img": "850012102",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự giữ gìn",
-        "definition": "the action of preserving or the state or process of being preserved",
-        "ex_of_definition_list": [
-          "the preservation of the nation’s heritage."
-        ]
-      }
+    "hash_code_list_img": "489940813",
+    "list_example": [
+      "the preservation of the nation’s heritage.",
+      "The new plant remains discovered by us are in a better, but somewhat unusual, state of preservation (as described above).",
+      "These include the fossilization process, preservation and cladistics, in addition to (arguably) more prosaic topics such as fieldwork, collecting, preparation and curation.",
+      "His study demonstrates that this constitutes a politeness and face preservation strategy that builds social action and maintains social order.",
+      "This approach has resulted in a quantumleap improvement in specimen preservation compared to the earlier negative-stain preparation of dry specimens.",
+      "Patients in \"minimally conscious states\" are awake but have only partial preservation of awareness and responsiveness."
     ],
-    "hash_code_list_definition_mean": "1840619077"
+    "hash_code_list_example": "468792666"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/preservative_cb_dmean_5000_it.json",
@@ -156,17 +97,19 @@
         "id_image": "preservative_3637224"
       }
     ],
-    "hash_code_list_img": "819425656",
-    "list_definition_mean": [
-      {
-        "mean_english": "chất bảo quản",
-        "definition": "something that preserves, especially that prevents food etc from going bad",
-        "ex_of_definition_list": [
-          "a chemical preservative."
-        ]
-      }
+    "hash_code_list_img": "-195290063",
+    "list_example": [
+      "a chemical preservative.",
+      "The question of preservatives in other articles, notably in milk, had been mentioned.",
+      "With regard to preservatives and synthetic additives, the human body has excellent mechanisms for disposing of substances for which it can find no use.",
+      "I know that it has been suggested that the condition might have been caused by the treatment of his house with wood preservatives.",
+      "They must either prohibit these chemicals whether under the name of preservatives or substitutes, or else admit them freely without any restriction whatever.",
+      "We must see to it that none of these processes or preservatives is such as is likely to cause illness.",
+      "I express no view here on the safety or otherwise of food additives, colourings and preservatives.",
+      "The toxicity can come from the food we eat, nine-tenths of which contains colouring, flavouring, preservatives and other additives.",
+      "We are talking here about insecticides, disinfectants, preservatives and products used to protect materials, to mention but a few."
     ],
-    "hash_code_list_definition_mean": "1551639277"
+    "hash_code_list_example": "-1815640654"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/preserve_cb_dmean_5000_it.json",
@@ -189,52 +132,13 @@
         "id_image": "preserve_4276021"
       }
     ],
-    "hash_code_list_img": "1135188137",
-    "list_definition_mean": [
-      {
-        "mean_english": "bảo vệ",
-        "definition": "to keep safe from harm",
-        "ex_of_definition_list": [
-          "(May) Heaven preserve us from danger!"
-        ]
-      },
-      {
-        "mean_english": "lưu giữ",
-        "definition": "to keep in existence",
-        "ex_of_definition_list": [
-          "They have managed to preserve many old documents."
-        ]
-      },
-      {
-        "mean_english": "bảo quản",
-        "definition": "to treat (food), eg by cooking it with sugar, so that it will not go bad",
-        "ex_of_definition_list": [
-          "What is the best method of preserving raspberries?"
-        ]
-      },
-      {
-        "mean_english": "lĩnh vực hoạt động riêng biệt",
-        "definition": "an activity, kind of work etc in which only certain people are allowed to take part",
-        "ex_of_definition_list": [
-          "Polo is the preserve of the wealthy."
-        ]
-      },
-      {
-        "mean_english": "khu vực bảo tồn",
-        "definition": "a place where game animals, birds etc are protected",
-        "ex_of_definition_list": [
-          "a game preserve."
-        ]
-      },
-      {
-        "mean_english": "mứt",
-        "definition": "jam",
-        "ex_of_definition_list": [
-          "blackberry jam and other preserves."
-        ]
-      }
+    "hash_code_list_img": "1846735787",
+    "list_example": [
+      "(May) Heaven preserve us from danger!",
+      "They have managed to preserve many old documents.",
+      "Polo is the preserve of the wealthy."
     ],
-    "hash_code_list_definition_mean": "-724540360"
+    "hash_code_list_example": "1740857651"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/president_cb_dmean_5000_it.json",
@@ -263,24 +167,11 @@
         "id_image": "president_5291861"
       }
     ],
-    "hash_code_list_img": "-273395167",
-    "list_definition_mean": [
-      {
-        "mean_english": "chủ tịch",
-        "definition": "the leading member of a club, association etc",
-        "ex_of_definition_list": [
-          "She was elected president of the Music Society."
-        ]
-      },
-      {
-        "mean_english": "tổng thống",
-        "definition": "the leader of a republic",
-        "ex_of_definition_list": [
-          "the President of the United States."
-        ]
-      }
+    "hash_code_list_img": "974094974",
+    "list_example": [
+      "She was elected president of the Music Society."
     ],
-    "hash_code_list_definition_mean": "148014566"
+    "hash_code_list_example": "-1999206113"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pressure_cb_dmean_5000_it.json",
@@ -315,32 +206,17 @@
         "id_image": "pressure_560666"
       }
     ],
-    "hash_code_list_img": "-939300783",
-    "list_definition_mean": [
-      {
-        "mean_english": "lực; áp suất",
-        "definition": "(the amount of force exerted by) the action of pressing",
-        "ex_of_definition_list": [
-          "Apply pressure to the cut in order to stop it bleeding",
-          "A barometer measures atmospheric pressure."
-        ]
-      },
-      {
-        "mean_english": "áp lực",
-        "definition": "(a) strain or stress",
-        "ex_of_definition_list": [
-          "The pressures of her work are sometimes too much for her."
-        ]
-      },
-      {
-        "mean_english": "sức ép",
-        "definition": "strong persuasion; compulsion or force",
-        "ex_of_definition_list": [
-          "He agreed under pressure."
-        ]
-      }
+    "hash_code_list_img": "488514404",
+    "list_example": [
+      "Apply pressure to the cut in order to stop it bleeding",
+      "For instance, over-blowing on a wind instrument can cause an octave rise, which holds as the pressure is reduced.",
+      "The duct was then replaced and the oscillating pressure measured in similar conditions.",
+      "Since the key issue is the psychological pressure that law can exert on every individual mind, the law must be clear, well diffused, and foreseeable.",
+      "The turbulence energy balance is examined, including the separate effects of vertical diffusion of pressure and local kinetic energy.",
+      "The right ventricular systolic pressure tends to decrease with age.",
+      "The tendency to bring particles back to equilibrium is therefore much smaller a t the lower pressure and the fluctuations will be less damped."
     ],
-    "hash_code_list_definition_mean": "-743604856"
+    "hash_code_list_example": "1350146116"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/press_cb_dmean_5000_it.json",
@@ -382,77 +258,12 @@
         "id_image": "press_4542471"
       }
     ],
-    "hash_code_list_img": "827970659",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhấn",
-        "definition": "to use a pushing motion (against)",
-        "ex_of_definition_list": [
-          "Press the bell twice!",
-          "The children pressed close to their mother."
-        ]
-      },
-      {
-        "mean_english": "ép",
-        "definition": "to squeeze; to flatten",
-        "ex_of_definition_list": [
-          "The grapes are pressed to extract the juice."
-        ]
-      },
-      {
-        "mean_english": "thúc giục",
-        "definition": "to urge or hurry",
-        "ex_of_definition_list": [
-          "He pressed her to enter the competition."
-        ]
-      },
-      {
-        "mean_english": "nén chặt",
-        "definition": "to insist on",
-        "ex_of_definition_list": [
-          "The printers are pressing their claim for higher pay."
-        ]
-      },
-      {
-        "mean_english": "là phẳng",
-        "definition": "to iron",
-        "ex_of_definition_list": [
-          "Your trousers need to be pressed."
-        ]
-      },
-      {
-        "mean_english": "sự là",
-        "definition": "an act of pressing",
-        "ex_of_definition_list": [
-          "He gave her hand a press",
-          "You had better give your shirt a press."
-        ]
-      },
-      {
-        "mean_english": "báo chí",
-        "definition": "newspapers in general",
-        "ex_of_definition_list": [
-          "It was reported in the press",
-          "(also adjective) a press photographer."
-        ]
-      },
-      {
-        "mean_english": "giới báo chí",
-        "definition": "the people who work on newspapers and magazines; journalists",
-        "ex_of_definition_list": [
-          "The press is/are always interested in the private lives of famous people."
-        ]
-      },
-      {
-        "mean_english": "máy ép",
-        "definition": "a device or machine for pressing",
-        "ex_of_definition_list": [
-          "a wine press",
-          "a flower press."
-        ]
-      }
+    "hash_code_list_img": "1696503057",
+    "list_example": [
+      "(also adjective) a press photographer.",
+      "The press is/are always interested in the private lives of famous people."
     ],
-    "hash_code_list_definition_mean": "-101563039"
+    "hash_code_list_example": "1224169845"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/prestige_cb_dmean_5000_it.json",
@@ -475,17 +286,16 @@
         "id_image": "prestige_4062145"
       }
     ],
-    "hash_code_list_img": "883166502",
-    "list_definition_mean": [
-      {
-        "mean_english": "uy tín",
-        "definition": "reputation or influence due to success, rank etc",
-        "ex_of_definition_list": [
-          "Students are attracted to Harvard by its prestige."
-        ]
-      }
+    "hash_code_list_img": "1555047122",
+    "list_example": [
+      "Again, bricks are divided in price and prestige between locally-made country bricks and industrially manufactured ones.",
+      "Elites obtain symbolic capital or social prestige through the associations.",
+      "In this century, however, such criticisms have been quelled by the enormous prestige of standard modern logic, which is considered inviolate.",
+      "The colonel's prestige and influence within the military ascended accordingly.",
+      "To summarise, songwriters generally have more prestige than interpreters, but prestige is above all a function of where artists are located in the field.",
+      "As a result, the regression equation may underestimate the relationship between success and prestige among older artists."
     ],
-    "hash_code_list_definition_mean": "381400507"
+    "hash_code_list_example": "-1637921577"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pretty_cb_dmean_5000_it.json",
@@ -505,32 +315,21 @@
         "id_image": "pretty_1439704"
       }
     ],
-    "hash_code_list_img": "144744944",
-    "list_definition_mean": [
-      {
-        "mean_english": "xinh xắn; đẹp",
-        "definition": "(not usually of boys and men) pleasing or attractive",
-        "ex_of_definition_list": [
-          "a pretty girl/tune/picture/dress."
-        ]
-      },
-      {
-        "mean_english": "hay ho gớm",
-        "definition": "used jokingly",
-        "ex_of_definition_list": [
-          "This is a pretty mess!"
-        ]
-      },
-      {
-        "mean_english": "khá",
-        "definition": "rather",
-        "ex_of_definition_list": [
-          "That’s pretty good",
-          "He’s pretty old now."
-        ]
-      }
+    "hash_code_list_img": "1547248924",
+    "list_example": [
+      "a pretty girl/tune/picture/dress.",
+      "This is a pretty mess!",
+      "That’s pretty good",
+      "He’s pretty old now.",
+      "The state, it may be thought, is pretty much just us, and its decisions represent us and our decisions.",
+      "A fancy procedure and pretty pictures are not needed, critics will add, to know that brain activity differs between the two groups.",
+      "And, pretty obviously, not all of these facets can be brightened by analysis here.",
+      "However, this asymmetrical distribution means that the only context that permits comparison among really, very, so and pretty as intensifiers is the predicative adjective context.",
+      "If circularities of that sort are conceded, pretty much anything can be legitimated with anything.",
+      "The materials overall are pretty demanding and aim at a high level of understanding.",
+      "He gave her some flowers and told her how pretty she looked."
     ],
-    "hash_code_list_definition_mean": "37562241"
+    "hash_code_list_example": "-1656417937"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/prevention_cb_dmean_5000_it.json",
@@ -558,18 +357,17 @@
         "id_image": "prevention_5714929"
       }
     ],
-    "hash_code_list_img": "815966604",
-    "list_definition_mean": [
-      {
-        "mean_english": "hành động ngăn chặn",
-        "definition": "the act of preventing",
-        "ex_of_definition_list": [
-          "crime prevention",
-          "Prevention is better than cure."
-        ]
-      }
+    "hash_code_list_img": "-1330940307",
+    "list_example": [
+      "Disabling chronic illness, depressive mood, functional decline, and sedentary lifestyles are among the most important prevention targets.",
+      "Physical progress may not be impressive, but there may be prevention of further deterioration and psychological benefits.",
+      "Estimating the extent of clustering might assist in the formulation of disease-prevention strategies in the face of a confirmed case.",
+      "At these regional levels, no systematic overall prevention and screening policy has been developed.",
+      "In these cases, the prevention of a case of cancer will result in a noncancer case.",
+      "The second is that there is controversy concerning what existing prevention and intervention studies can tell us about the significance of early experience.",
+      "The application of these assays to the current prevention strategies will simplify the prevention practice and rationalise the use of antibiotics."
     ],
-    "hash_code_list_definition_mean": "1842676639"
+    "hash_code_list_example": "-120764615"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/prevent_cb_dmean_5000_it.json",
@@ -597,17 +395,13 @@
         "id_image": "prevent_6281537"
       }
     ],
-    "hash_code_list_img": "-534062727",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngăn chặn",
-        "definition": "to stop (someone doing something or something happening)",
-        "ex_of_definition_list": [
-          "He prevented me from going."
-        ]
-      }
+    "hash_code_list_img": "1212211915",
+    "list_example": [
+      "Here we just recall the basic definitions to prevent confusion.",
+      "However, as local tumour control improves, approaches that prevent secondary or delayed metastasis may play a significant role in cancer therapy.",
+      "Note that this phenomenon has a purely inertial character; viscous forces cannot prevent it, although these forces guarantee the space regularity of the solution."
     ],
-    "hash_code_list_definition_mean": "1603462666"
+    "hash_code_list_example": "-1021889349"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/preview_cb_dmean_5000_it.json",
@@ -630,17 +424,12 @@
         "id_image": "preview_5982726"
       }
     ],
-    "hash_code_list_img": "578874572",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuộc duyệt trước",
-        "definition": "a viewing of a performance, exhibition etc before it is open to the public",
-        "ex_of_definition_list": [
-          "a sneak preview of the film."
-        ]
-      }
+    "hash_code_list_img": "750522742",
+    "list_example": [
+      "a sneak preview of the film.",
+      "To preview the paper's results, the growth model with a broadened quality-of-life measure exhibits a number of non-trivial departures from the standard case."
     ],
-    "hash_code_list_definition_mean": "1345177945"
+    "hash_code_list_example": "520295287"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/previous_cb_dmean_5000_it.json",
@@ -663,18 +452,12 @@
         "id_image": "previous_5376901"
       }
     ],
-    "hash_code_list_img": "-1740467175",
-    "list_definition_mean": [
-      {
-        "mean_english": "trước",
-        "definition": "earlier in time or order",
-        "ex_of_definition_list": [
-          "We had met on a previous occasion",
-          "the previous owner of the house."
-        ]
-      }
+    "hash_code_list_img": "1671352105",
+    "list_example": [
+      "We had met on a previous occasion",
+      "the previous owner of the house."
     ],
-    "hash_code_list_definition_mean": "52401902"
+    "hash_code_list_example": "2127669125"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/prey_cb_dmean_5000_it.json",
@@ -692,17 +475,16 @@
         "id_image": "prey_2911130"
       }
     ],
-    "hash_code_list_img": "1761528196",
-    "list_definition_mean": [
-      {
-        "mean_english": "con mồi",
-        "definition": "a bird or animal, birds or animals, that is/are hunted by other birds or animals for food",
-        "ex_of_definition_list": [
-          "The lion tore at its prey."
-        ]
-      }
+    "hash_code_list_img": "726226115",
+    "list_example": [
+      "Permanent lakes contain fish, which preferentially prey upon large individuals.",
+      "At the end of the experiment, the fish and the vegetation were removed and left over prey items of the 2 classes were scored.",
+      "A cat captures and manipulates its prey using its mouth.",
+      "It also produces a matrix with consumers (lizard species) as rows and proportional utilizations (pi) of prey by volume for each prey type as columns.",
+      "Both species are highly suitable hosts for the parasite, and form the preferred prey for red foxes.",
+      "The taxonomic breadth of both predators and prey for which half-lives have been determined is rather narrow (table 4)."
     ],
-    "hash_code_list_definition_mean": "396926160"
+    "hash_code_list_example": "-1841821798"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/price_cb_dmean_5000_it.json",
@@ -733,38 +515,13 @@
         "id_image": "price_6203339"
       }
     ],
-    "hash_code_list_img": "1589875150",
-    "list_definition_mean": [
-      {
-        "mean_english": "giá cả",
-        "definition": "the amount of money for which a thing is or can be bought or sold; the cost",
-        "ex_of_definition_list": [
-          "The price of the book was $10."
-        ]
-      },
-      {
-        "mean_english": "cái giá",
-        "definition": "what one must give up or suffer in order to gain something",
-        "ex_of_definition_list": [
-          "Loss of freedom is often the price of success."
-        ]
-      },
-      {
-        "mean_english": "ghi giá cho hàng hoá",
-        "definition": "to mark a price on",
-        "ex_of_definition_list": [
-          "I haven’t priced these articles yet."
-        ]
-      },
-      {
-        "mean_english": "tìm hiểu giá cả",
-        "definition": "to find out the price of",
-        "ex_of_definition_list": [
-          "He went into the furniture shop to price the beds."
-        ]
-      }
+    "hash_code_list_img": "-928454202",
+    "list_example": [
+      "The price of the book was $10.",
+      "Loss of freedom is often the price of success.",
+      "He went into the furniture shop to price the beds."
     ],
-    "hash_code_list_definition_mean": "-1015536934"
+    "hash_code_list_example": "-75967623"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/prick_cb_dmean_5000_it.json",
@@ -786,39 +543,11 @@
         "id_image": "prick_5154883"
       }
     ],
-    "hash_code_list_img": "861715676",
-    "list_definition_mean": [
-      {
-        "mean_english": "chọc",
-        "definition": "to pierce slightly or stick a sharp point into",
-        "ex_of_definition_list": [
-          "She pricked her finger on a pin",
-          "He pricked a hole in the paper."
-        ]
-      },
-      {
-        "mean_english": "sự chọc",
-        "definition": "(a pain caused by) an act of pricking",
-        "ex_of_definition_list": [
-          "You’ll just feel a slight prick in your arm."
-        ]
-      },
-      {
-        "mean_english": "cái lỗ",
-        "definition": "a tiny hole made by a sharp point",
-        "ex_of_definition_list": [
-          "a pin prick."
-        ]
-      },
-      {
-        "mean_english": "người ngu ngốc",
-        "definition": "a nasty or contemptible person",
-        "ex_of_definition_list": [
-          "He is such a prick!"
-        ]
-      }
+    "hash_code_list_img": "1158614440",
+    "list_example": [
+      "You’ll just feel a slight prick in your arm."
     ],
-    "hash_code_list_definition_mean": "1260409857"
+    "hash_code_list_example": "1504949126"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pride_cb_dmean_5000_it.json",
@@ -843,31 +572,13 @@
         "id_image": "pride_2292411"
       }
     ],
-    "hash_code_list_img": "-1476885897",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự tự hào",
-        "definition": "a feeling of pleasure and satisfaction at one’s achievements, possessions, family etc",
-        "ex_of_definition_list": [
-          "She looked with pride at her handsome sons."
-        ]
-      },
-      {
-        "mean_english": "lòng tự trọng",
-        "definition": "personal dignity",
-        "ex_of_definition_list": [
-          "His pride was hurt by her criticism."
-        ]
-      },
-      {
-        "mean_english": "đàn, bầy",
-        "definition": "a group (of lions or of peacocks)",
-        "ex_of_definition_list": [
-          "a pride of lions."
-        ]
-      }
+    "hash_code_list_img": "26701016",
+    "list_example": [
+      "She looked with pride at her handsome sons.",
+      "His pride was hurt by her criticism.",
+      "a pride of lions."
     ],
-    "hash_code_list_definition_mean": "-297701564"
+    "hash_code_list_example": "-2110231535"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/priest_cb_dmean_5000_it.json",
@@ -896,17 +607,11 @@
         "id_image": "priest_807694"
       }
     ],
-    "hash_code_list_img": "1812686110",
-    "list_definition_mean": [
-      {
-        "mean_english": "linh mục",
-        "definition": "(in the Christian Church, especially the Roman Catholic, Orthodox and Anglican churches) a clergyman",
-        "ex_of_definition_list": [
-          "a Catholic priest."
-        ]
-      }
+    "hash_code_list_img": "106134505",
+    "list_example": [
+      "a Catholic priest."
     ],
-    "hash_code_list_definition_mean": "1983542009"
+    "hash_code_list_example": "2080669078"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/primary_cb_dmean_5000_it.json",
@@ -930,24 +635,12 @@
         "id_image": "primary_2758741"
       }
     ],
-    "hash_code_list_img": "-564888052",
-    "list_definition_mean": [
-      {
-        "mean_english": "chủ yếu; hàng đầu",
-        "definition": "first or most important",
-        "ex_of_definition_list": [
-          "His primary concern is his family."
-        ]
-      },
-      {
-        "mean_english": "tiểu học",
-        "definition": "of the first level or stage",
-        "ex_of_definition_list": [
-          "a primary school."
-        ]
-      }
+    "hash_code_list_img": "764100774",
+    "list_example": [
+      "His primary concern is his family.",
+      "a primary school."
     ],
-    "hash_code_list_definition_mean": "-1391775395"
+    "hash_code_list_example": "-886373684"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/primer_cb_dmean_5000_it.json",
@@ -971,17 +664,11 @@
         "id_image": "primer_6075366"
       }
     ],
-    "hash_code_list_img": "788132850",
-    "list_definition_mean": [
-      {
-        "mean_english": "sách giới thiệu",
-        "definition": "a book that gives basic information about a subject",
-        "ex_of_definition_list": [
-          "She wrote a useful primer on French history."
-        ]
-      }
+    "hash_code_list_img": "205662238",
+    "list_example": [
+      "She wrote a useful primer on French history."
     ],
-    "hash_code_list_definition_mean": "1274740546"
+    "hash_code_list_example": "-1450147573"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/primitive_cb_dmean_5000_it.json",
@@ -1015,24 +702,12 @@
         "id_image": "primitive_4744284"
       }
     ],
-    "hash_code_list_img": "-1761444607",
-    "list_definition_mean": [
-      {
-        "mean_english": "nguyên thuỷ",
-        "definition": "belonging to the earliest times",
-        "ex_of_definition_list": [
-          "primitive stone tools."
-        ]
-      },
-      {
-        "mean_english": "thô sơ",
-        "definition": "simple or rough",
-        "ex_of_definition_list": [
-          "He made a primitive boat out of some pieces of wood."
-        ]
-      }
+    "hash_code_list_img": "1257152027",
+    "list_example": [
+      "primitive stone tools.",
+      "He made a primitive boat out of some pieces of wood."
     ],
-    "hash_code_list_definition_mean": "-1725755022"
+    "hash_code_list_example": "191928888"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/primrose_cb_dmean_5000_it.json",
@@ -1051,17 +726,18 @@
         "id_image": "primrose_6080656"
       }
     ],
-    "hash_code_list_img": "1072154779",
-    "list_definition_mean": [
-      {
-        "mean_english": "màu vàng nhạt",
-        "definition": "(also adjective) (of) its colour/color",
-        "ex_of_definition_list": [
-          "primrose walls."
-        ]
-      }
+    "hash_code_list_img": "465213569",
+    "list_example": [
+      "primrose walls.",
+      "There are no preparations containing evening primrose oil which hold a product license for the treatment of arthritis.",
+      "The pink primrose has glaborous (smooth) to pubescent stems that grow to 50 cm in height.",
+      "We did not take the primrose path of irresponsible criticism and abstention.",
+      "There is not a single primrose in there to-day, but every single village garden has primroses.",
+      "In that statement, he went as far as he reasonably could down the road towards open government, without being sidetracked into the primrose path of ungovernability.",
+      "No evening primrose oil product is licensed for the treatment of arthritis.",
+      "Neither evening primrose oil nor borage seed oil taken orally have been shown to be effective."
     ],
-    "hash_code_list_definition_mean": "1025979167"
+    "hash_code_list_example": "-675080474"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/princess_cb_dmean_5000_it.json",
@@ -1085,17 +761,14 @@
         "id_image": "princess_4681715"
       }
     ],
-    "hash_code_list_img": "2066490557",
-    "list_definition_mean": [
-      {
-        "mean_english": "công chúa",
-        "definition": "a woman of the same rank as a prince in her own right",
-        "ex_of_definition_list": [
-          "Princess Anne."
-        ]
-      }
+    "hash_code_list_img": "-1265992808",
+    "list_example": [
+      "The book was a story about a princess and pea.",
+      "The little girl envied the princess with the maid who was eating chocolates.",
+      "The little girl envied the maid of the princess who was eating chocolate.",
+      "The little girl envied the maids of the princess who were eating chocolate."
     ],
-    "hash_code_list_definition_mean": "96487076"
+    "hash_code_list_example": "182086511"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/prince_cb_dmean_5000_it.json",
@@ -1119,24 +792,18 @@
         "id_image": "prince_4133571"
       }
     ],
-    "hash_code_list_img": "255120113",
-    "list_definition_mean": [
-      {
-        "mean_english": "hoàng tử",
-        "definition": "a male member of a royal family, especially the son of a king or queen",
-        "ex_of_definition_list": [
-          "Prince Charles."
-        ]
-      },
-      {
-        "mean_english": "ông hoàng",
-        "definition": "the ruler of some states or countries",
-        "ex_of_definition_list": [
-          "Prince Rainier of Monaco."
-        ]
-      }
+    "hash_code_list_img": "992027115",
+    "list_example": [
+      "A semblance of conformity with the imperial constitution also eased the task of rallying princes to his project.",
+      "Democratic princes can energetically pursue public policies-whether in security, trade, technology, or welfare-because they feel, and to a degree are, mandated so to do.",
+      "As the manuscripts were formerly part of the crown prince's collection, they must have been assembled before his tragically early death in 1731.",
+      "There is some evidence that this movement was manipulated by the princes of the royal house, who were disgruntled at their loss of privileges after 1891.",
+      "The violent death of princes was not now an unfamiliar occurrence.",
+      "The banished princes left as traders on a ship laden with rich merchandise.",
+      "Most men of rank at court enjoyed varying degrees of automony by virtue of their service to higher lords as princes, generals, retainers, or ministers.",
+      "However, \"put not your trust in princes, \" or in any authority of that sort."
     ],
-    "hash_code_list_definition_mean": "-1068088748"
+    "hash_code_list_example": "721562722"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/principal_cb_dmean_5000_it.json",
@@ -1167,17 +834,18 @@
         "id_image": "principal_6032224"
       }
     ],
-    "hash_code_list_img": "-257274326",
-    "list_definition_mean": [
-      {
-        "mean_english": "chính",
-        "definition": "most important",
-        "ex_of_definition_list": [
-          "Shipbuilding was one of Britain’s principal industries."
-        ]
-      }
+    "hash_code_list_img": "1269112914",
+    "list_example": [
+      "Shipbuilding was one of Britain’s principal industries.",
+      "In spite of its historical framework the work is dominated by the fates of its three principal characters.",
+      "This fact enables us to also use another name for the principal sheet and call it the physical sheet.",
+      "These and the reduction of crop yields caused by the trees were considered as the principal costs.",
+      "We used principal-factor analysis (starting with squared multiple correlations as the prior communality estimates) to extract the principal factors from the 17 premenstrual symptoms.",
+      "Presence of females among the principal group in a multiple inhumation causes us to believe that women had a preponderant role within the society.",
+      "The principal result of this paper is the following.",
+      "The following sections of the paper seek to specify the principal dimensions of reserve among older people and the groups that are most vulnerable."
     ],
-    "hash_code_list_definition_mean": "1987239321"
+    "hash_code_list_example": "-614484208"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/principle_cb_dmean_5000_it.json",
@@ -1201,24 +869,17 @@
         "id_image": "principle_5307681"
       }
     ],
-    "hash_code_list_img": "1826297428",
-    "list_definition_mean": [
-      {
-        "mean_english": "nguyên lý",
-        "definition": "a general truth, rule or law",
-        "ex_of_definition_list": [
-          "the principle of gravity."
-        ]
-      },
-      {
-        "mean_english": "nguyên tắc cấu tạo",
-        "definition": "the theory by which a machine etc works",
-        "ex_of_definition_list": [
-          "the principle of the jet engine."
-        ]
-      }
+    "hash_code_list_img": "-213835274",
+    "list_example": [
+      "the principle of gravity.",
+      "the principle of the jet engine.",
+      "It reinforces a basic principle of historical research.",
+      "Alternatively, one can propose a general licensing principle that permits such violations at that level.",
+      "The philosophical concept of dependent moral status thus makes a crucial appeal to the ethical principle of beneficence.",
+      "Words stressing this yang principle are best avoided in an international community.",
+      "But was this exclusion based on philosophical principle or on the contingent state of science?"
     ],
-    "hash_code_list_definition_mean": "173286630"
+    "hash_code_list_example": "1289572790"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/printer_cb_dmean_5000_it.json",
@@ -1242,17 +903,19 @@
         "id_image": "printer_269098"
       }
     ],
-    "hash_code_list_img": "-2086088937",
-    "list_definition_mean": [
-      {
-        "mean_english": "máy in",
-        "definition": "a machine that prints texts from a computer",
-        "ex_of_definition_list": [
-          "a laser printer."
-        ]
-      }
+    "hash_code_list_img": "-619839188",
+    "list_example": [
+      "a laser printer.",
+      "My experience of printers and publishers is that they go to a solicitor whom they regard as skilled in dealing with these matters.",
+      "I am told that it would take at least 48 hours for the printers to make the block necessary for a graph.",
+      "Examples of such libraries include those for building parsers, pretty printers and graphical user interfaces.",
+      "How interesting it would have been to learn something of the sign painters and printers who pro®ted as texts proliferated.",
+      "Printers tried to dump inferior bills of exchange on millers, just as millers withheld their best rags from the stuff destined for printers.",
+      "In the end, such denunciations may go some way towards explaining the lengths to which booksellers and printers went to propagandize their own social worth in the age of print.",
+      "None of these tools, however, provides language levels, full-fledged algebraic printers, steppers, -renaming or static debuggers, which we have found to be extremely useful for teaching and development.",
+      "Lettering on plates will be inserted b y the printers and should be indicated on a tracing-paper overlay."
     ],
-    "hash_code_list_definition_mean": "1479867742"
+    "hash_code_list_example": "-887257420"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/print_cb_dmean_5000_it.json",
@@ -1288,74 +951,13 @@
         "id_image": "print_5305185"
       }
     ],
-    "hash_code_list_img": "1641737134",
-    "list_definition_mean": [
-      {
-        "mean_english": "dấu vết",
-        "definition": "a mark made by pressure",
-        "ex_of_definition_list": [
-          "a footprint",
-          "a fingerprint."
-        ]
-      },
-      {
-        "mean_english": "chữ in",
-        "definition": "printed lettering",
-        "ex_of_definition_list": [
-          "I can’t read the print in this book."
-        ]
-      },
-      {
-        "mean_english": "ảnh dương bản",
-        "definition": "a photograph made from a negative",
-        "ex_of_definition_list": [
-          "I entered three prints for the photographic competition."
-        ]
-      },
-      {
-        "mean_english": "bản in",
-        "definition": "a printed reproduction of a painting or drawing",
-        "ex_of_definition_list": [
-          "a print of Van Gogh’s ‘Sunflowers’."
-        ]
-      },
-      {
-        "mean_english": "in",
-        "definition": "to mark (letters etc) on paper (by using a printing press etc)",
-        "ex_of_definition_list": [
-          "The invitations will be printed on white paper."
-        ]
-      },
-      {
-        "mean_english": "xuất bản",
-        "definition": "to publish (a book, article etc) in printed form",
-        "ex_of_definition_list": [
-          "His new novel will be printed next month."
-        ]
-      },
-      {
-        "mean_english": "rửa ảnh",
-        "definition": "to produce (a photographic image) on paper",
-        "ex_of_definition_list": [
-          "He develops and prints his own photographs."
-        ]
-      },
-      {
-        "mean_english": "in hoa",
-        "definition": "to mark designs on (cloth etc)",
-        "ex_of_definition_list": [
-          "When the cloth has been woven, it is dyed and printed."
-        ]
-      },
-      {
-        "mean_english": "viết hoa",
-        "definition": "to write, using capital letters",
-        "ex_of_definition_list": [
-          "Please print your name and address."
-        ]
-      }
+    "hash_code_list_img": "1268427589",
+    "list_example": [
+      "I can’t read the print in this book.",
+      "a print of Van Gogh’s ‘Sunflowers’.",
+      "Please print your name and address."
     ],
-    "hash_code_list_definition_mean": "1035244417"
+    "hash_code_list_example": "-1746962207"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/priority_cb_dmean_5000_it.json",
@@ -1384,24 +986,14 @@
         "id_image": "priority_5361629"
       }
     ],
-    "hash_code_list_img": "836881590",
-    "list_definition_mean": [
-      {
-        "mean_english": "quyền ưu tiên",
-        "definition": "the right to be or go first",
-        "ex_of_definition_list": [
-          "An ambulance must have priority over other traffic."
-        ]
-      },
-      {
-        "mean_english": "trường hợp ưu tiên",
-        "definition": "(plural priorities) something that must be considered or done first",
-        "ex_of_definition_list": [
-          "Our (first) priority is to feed the hungry."
-        ]
-      }
+    "hash_code_list_img": "-229605577",
+    "list_example": [
+      "An ambulance must have priority over other traffic.",
+      "Our (first) priority is to feed the hungry.",
+      "This order directly induces a priority order among the nodes: to choose between two nodes, prefer the one which would be visited first.",
+      "High priority is given to maternal and child health care, and there are several programs for prevention of disease during pregnancy, childbirth, and early childhood."
     ],
-    "hash_code_list_definition_mean": "-42208194"
+    "hash_code_list_example": "-1479713564"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/prisoner_cb_dmean_5000_it.json",
@@ -1424,17 +1016,19 @@
         "id_image": "prisoner_372300"
       }
     ],
-    "hash_code_list_img": "1520493260",
-    "list_definition_mean": [
-      {
-        "mean_english": "tù nhân",
-        "definition": "anyone who has been captured and is held against his will as a criminal, in a war etc",
-        "ex_of_definition_list": [
-          "The prisoners escaped from jail."
-        ]
-      }
+    "hash_code_list_img": "1989191353",
+    "list_example": [
+      "The prisoners escaped from jail.",
+      "The mortality rate among prisoners was at times very high.",
+      "Even though other encounters brought more prisoners, only four men were condemned to death, one to the galleys, and one to banishment.",
+      "Our results show prisoners who injected drugs outside of prison continue to inject in prison but in a less safe manner.",
+      "The centre asked the provinces to take back their prisoners, starting with the ill, infirm and incorrigible.",
+      "Often, when we are waiting in traffic, we are prisoners, immobilized, forced to stop and wait.",
+      "They include propensities to cooperate in individual or multiparty prisoner's dilemmas when the strictly dominant strategy is to defect.",
+      "The church provided spiritual welfare and offered postal services to prisoners of war.",
+      "The 'super-max ' model is based on physical containment of prisoners in isolation cells and remote management of the environment."
     ],
-    "hash_code_list_definition_mean": "909644334"
+    "hash_code_list_example": "570568727"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/prison_cb_dmean_5000_it.json",
@@ -1457,18 +1051,15 @@
         "id_image": "prison_382273"
       }
     ],
-    "hash_code_list_img": "-481982211",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà tù",
-        "definition": "a building in which criminals are kept; jail",
-        "ex_of_definition_list": [
-          "He was sent to prison",
-          "He is in prison."
-        ]
-      }
+    "hash_code_list_img": "-681903429",
+    "list_example": [
+      "They produced two performances for fellow inmates and prison officers.",
+      "But such policies were not fully implemented in other prisons, not least because of resistance by local prison officials.",
+      "Most commentators believed that many ' incorrigibles ' had to be interned in security confinement after their prison or penitentiary sentence, in order to protect society.",
+      "Many prison officials agreed that, as long as security confinement had not become law, ' incorrigible ' inmates should at least be excluded from most benefits.",
+      "That study found the risk associated with receipt of tattoos in prison elevated, but not statistically significant."
     ],
-    "hash_code_list_definition_mean": "1786221915"
+    "hash_code_list_example": "-167023091"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/privacy_cb_dmean_5000_it.json",
@@ -1501,17 +1092,17 @@
         "id_image": "privacy_916012"
       }
     ],
-    "hash_code_list_img": "20478145",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự riêng tư; đời tư",
-        "definition": "the state of being away from other people’s sight or interest",
-        "ex_of_definition_list": [
-          "in the privacy of your own home."
-        ]
-      }
+    "hash_code_list_img": "-524600304",
+    "list_example": [
+      "in the privacy of your own home.",
+      "Balancing legitimate national security needs with strong privacy protections is likely to be a central challenge in coming years.",
+      "Reproductive privacy can be protected while having a generally effective policy that prohibits cloning except in cases of infertility.",
+      "Residents who bathed or showered without assistance were therefore able to safeguard their dignity and their privacy when performing these intimate personal care activities.",
+      "The authors suggest that an ideal environment would provide opportunities for both privacy and interaction.",
+      "Psychological needs such as privacy and dignity are dealt with as care issues, rather than as building features which promote or facilitate them.",
+      "The manipulation of privacy and publicity defined and protected concepts of secrecy."
     ],
-    "hash_code_list_definition_mean": "1202138193"
+    "hash_code_list_example": "575255579"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/private_cb_dmean_5000_it.json",
@@ -1546,27 +1137,22 @@
         "id_image": "private_5352157"
       }
     ],
-    "hash_code_list_img": "193213539",
-    "list_definition_mean": [
-      {
-        "mean_english": "riêng tư",
-        "definition": "of, for, or belonging to, one person or group, not to the general public",
-        "ex_of_definition_list": [
-          "The headmaster lives in a private apartment in the school",
-          "in my private (=personal) opinion",
-          "This information is to be kept strictly private",
-          "You shouldn’t listen to private conversations."
-        ]
-      },
-      {
-        "mean_english": "cá nhân",
-        "definition": "having no public or official position or rank",
-        "ex_of_definition_list": [
-          "It is your duty as a private citizen to report this matter to the police."
-        ]
-      }
+    "hash_code_list_img": "206599505",
+    "list_example": [
+      "The headmaster lives in a private apartment in the school",
+      "in my private (=personal) opinion",
+      "You shouldn’t listen to private conversations.",
+      "It is your duty as a private citizen to report this matter to the police.",
+      "The full utilization of existing private production facilities, with some renovation, was assumed to be sufficient at this stage.",
+      "First, private parties often lack the individual incentive to initiate litigation before national courts.",
+      "Insurance for non-occupational disabilities, by contrast, had no established network of interests; such insurance was virtually non-existent in the private sector.",
+      "The remaining fourteen had moved into private enterprise, mostly with firms specializing in the field of their former ministries.",
+      "For example, when control took place, the private sector could not use its trading capacity fully.",
+      "First, how do the opportunities for private gain differ in different electoral systems?",
+      "Thus, we compare the cost of the protection of trees between private and community plantations.",
+      "The data were collected at home parties, lunchtime breaks, and other private venues."
     ],
-    "hash_code_list_definition_mean": "-1586858882"
+    "hash_code_list_example": "1142809817"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/privilege_cb_dmean_5000_it.json",
@@ -1589,17 +1175,12 @@
         "id_image": "privilege_3956768"
       }
     ],
-    "hash_code_list_img": "667784959",
-    "list_definition_mean": [
-      {
-        "mean_english": "đặc quyền",
-        "definition": "(a) favour/favor or right available, or granted, to only one person, or to a small number of people",
-        "ex_of_definition_list": [
-          "Senior students are usually allowed certain privileges."
-        ]
-      }
+    "hash_code_list_img": "-1762075620",
+    "list_example": [
+      "There is a danger that reflexivity could be used to privilege a theoretical or methodological standpoint by contrasting it to an unreflexive counterpart.",
+      "In approaching their prospects, network marketers enjoy the privilege of exploiting the element of intimacy by reducing the potential threat to their prospects' negative face."
     ],
-    "hash_code_list_definition_mean": "1792953061"
+    "hash_code_list_example": "308013770"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/prize_cb_dmean_5000_it.json",
@@ -1629,32 +1210,11 @@
         "id_image": "prize_5578252"
       }
     ],
-    "hash_code_list_img": "-149873339",
-    "list_definition_mean": [
-      {
-        "mean_english": "giải thưởng",
-        "definition": "a reward for good work etc",
-        "ex_of_definition_list": [
-          "He was awarded a lot of prizes at school."
-        ]
-      },
-      {
-        "mean_english": "phần thưởng",
-        "definition": "something won in a competition etc",
-        "ex_of_definition_list": [
-          "I’ve won first prize!",
-          "(also adjective) a prize (= having won, or worthy of, a prize) bull."
-        ]
-      },
-      {
-        "mean_english": "đánh giá cao",
-        "definition": "to value highly",
-        "ex_of_definition_list": [
-          "He prized my friendship above everything else."
-        ]
-      }
+    "hash_code_list_img": "1800205126",
+    "list_example": [
+      "(also adjective) a prize (= having won, or worthy of, a prize) bull."
     ],
-    "hash_code_list_definition_mean": "1374130296"
+    "hash_code_list_example": "1524476753"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/probability_cb_dmean_5000_it.json",
@@ -1678,24 +1238,11 @@
         "id_image": "probability_5052209"
       }
     ],
-    "hash_code_list_img": "1520010251",
-    "list_definition_mean": [
-      {
-        "mean_english": "khả năng có thể xảy ra",
-        "definition": "the state or fact of being probable; likelihood",
-        "ex_of_definition_list": [
-          "There isn’t much probability of that happening."
-        ]
-      },
-      {
-        "mean_english": "kết quả có thể xảy ra",
-        "definition": "an event, result etc that is probable",
-        "ex_of_definition_list": [
-          "Let’s consider the probabilities."
-        ]
-      }
+    "hash_code_list_img": "532015644",
+    "list_example": [
+      "There isn’t much probability of that happening."
     ],
-    "hash_code_list_definition_mean": "-112788587"
+    "hash_code_list_example": "722517854"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/probe_cb_dmean_5000_it.json",
@@ -1721,32 +1268,16 @@
         "id_image": "probe_3739688"
       }
     ],
-    "hash_code_list_img": "461176790",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự điều tra",
-        "definition": "an investigation",
-        "ex_of_definition_list": [
-          "a police probe into illegal activities."
-        ]
-      },
-      {
-        "mean_english": "điều tra",
-        "definition": "to investigate",
-        "ex_of_definition_list": [
-          "He probed into her private life."
-        ]
-      },
-      {
-        "mean_english": "dò vết thương",
-        "definition": "to examine (as if) with a probe",
-        "ex_of_definition_list": [
-          "The doctor probed the wound",
-          "He probed about in the hole with a stick."
-        ]
-      }
+    "hash_code_list_img": "-835528888",
+    "list_example": [
+      "a police probe into illegal activities.",
+      "In the second part, the measured densities are under estimated because of the deflection of the probe light.",
+      "The data quality filters yielded 9075 satisfactory 'transcripts' out of the original 15923 probe sets.",
+      "The appearance of several points in the third quadrant means that some of the toroidal vortex cores passed entirely outboard of the probe station.",
+      "The vertical displacement of this probe was detected by a linear displacement transducer.",
+      "This task is believed to probe the subjects' ability to assign -roles to positions where the manipulated variable is syntactic structure."
     ],
-    "hash_code_list_definition_mean": "-802974304"
+    "hash_code_list_example": "1420133536"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/problem_cb_dmean_5000_it.json",
@@ -1780,25 +1311,14 @@
         "id_image": "problem_860478"
       }
     ],
-    "hash_code_list_img": "-762338573",
-    "list_definition_mean": [
-      {
-        "mean_english": "vấn đề khó khăn",
-        "definition": "a difficulty; a matter about which it is difficult to decide what to do",
-        "ex_of_definition_list": [
-          "Life is full of problems",
-          "(also adjective) a problem child."
-        ]
-      },
-      {
-        "mean_english": "bài toán",
-        "definition": "a question to be answered or solved",
-        "ex_of_definition_list": [
-          "mathematical problems."
-        ]
-      }
+    "hash_code_list_img": "-1652242759",
+    "list_example": [
+      "(also adjective) a problem child.",
+      "The problem is that each player's use indirectly interferes with the other's use and that some arrangement is necessary to reconcile both uses.",
+      "I come now to what is perhaps a more serious problem from a philosophical perspective.",
+      "The zero plural avoids the problem of having two sibilants in quick succession at the end of the words, and coincidentally maintains the classical tradition."
     ],
-    "hash_code_list_definition_mean": "-2147332597"
+    "hash_code_list_example": "207917659"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/procedure_cb_dmean_5000_it.json",
@@ -1826,17 +1346,13 @@
         "id_image": "procedure_4252302"
       }
     ],
-    "hash_code_list_img": "-919711313",
-    "list_definition_mean": [
-      {
-        "mean_english": "thủ tục",
-        "definition": "the order or method of doing something",
-        "ex_of_definition_list": [
-          "They followed the usual procedure(s)."
-        ]
-      }
+    "hash_code_list_img": "-158986461",
+    "list_example": [
+      "The same procedure took place another twice more, using the same 15 words.",
+      "They were told that the purpose of the procedure was to observe the child trying to wait.",
+      "Considering the time-consuming procedure used in adaptive control,13 this paper presents an efficient way for multi-input system's hysteresis decision to avoid any singularity."
     ],
-    "hash_code_list_definition_mean": "965988074"
+    "hash_code_list_example": "640277778"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/procession_cb_dmean_5000_it.json",
@@ -1854,17 +1370,11 @@
         "id_image": "procession_6000883"
       }
     ],
-    "hash_code_list_img": "709531107",
-    "list_definition_mean": [
-      {
-        "mean_english": "đám diễu hành",
-        "definition": "a line of people, vehicles etc moving forward in order, especially for a ceremonial purpose",
-        "ex_of_definition_list": [
-          "The procession moved slowly through the streets."
-        ]
-      }
+    "hash_code_list_img": "1027310925",
+    "list_example": [
+      "The procession moved slowly through the streets."
     ],
-    "hash_code_list_definition_mean": "1363130514"
+    "hash_code_list_example": "827294644"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/processor_cb_dmean_5000_it.json",
@@ -1894,31 +1404,16 @@
         "id_image": "processor_6343570"
       }
     ],
-    "hash_code_list_img": "78811498",
-    "list_definition_mean": [
-      {
-        "mean_english": "máy chế biến",
-        "definition": "a machine or person that processes things",
-        "ex_of_definition_list": [
-          "a food processor."
-        ]
-      },
-      {
-        "mean_english": "xưởng gia công",
-        "definition": "a company that treats something in order to make it ready to use",
-        "ex_of_definition_list": [
-          "a meat processor."
-        ]
-      },
-      {
-        "mean_english": "bộ xử lý",
-        "definition": "a part of a computer that controls all the other parts; central processing unit",
-        "ex_of_definition_list": [
-          "The processor receives commands and handles them."
-        ]
-      }
+    "hash_code_list_img": "-1076815727",
+    "list_example": [
+      "The processor receives commands and handles them.",
+      "However, a single syntactic processor can accomplish self-monitoring by switching between encoding and decoding modes (\"timesharing\").",
+      "As one can see, a processor 'specialises' in one evolutionary operation only.",
+      "This processor coordinates the behaviour of the complete system.",
+      "Therefore, to plan the elementary motions it is possible to use a multi processor system.",
+      "Do not allow your word processor to introduce word splits and do not use justification."
     ],
-    "hash_code_list_definition_mean": "-1439100253"
+    "hash_code_list_example": "-2088121358"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/process_cb_dmean_5000_it.json",
@@ -1958,40 +1453,16 @@
         "id_image": "process_860483"
       }
     ],
-    "hash_code_list_img": "247329307",
-    "list_definition_mean": [
-      {
-        "mean_english": "quá trình",
-        "definition": "a method or way of manufacturing things",
-        "ex_of_definition_list": [
-          "We are using a new process to make glass."
-        ]
-      },
-      {
-        "mean_english": "quy trình",
-        "definition": "a series of events that produce change or development",
-        "ex_of_definition_list": [
-          "The process of growing up can be difficult for a child",
-          "the digestive processes."
-        ]
-      },
-      {
-        "mean_english": "quá trình",
-        "definition": "a course of action undertaken",
-        "ex_of_definition_list": [
-          "Carrying him down the mountain was a slow process."
-        ]
-      },
-      {
-        "mean_english": "xử lý",
-        "definition": "to deal with (something) by the appropriate process",
-        "ex_of_definition_list": [
-          "Have your photographs been processed?",
-          "The information is being processed by computer."
-        ]
-      }
+    "hash_code_list_img": "-1611404804",
+    "list_example": [
+      "We are using a new process to make glass.",
+      "The process of growing up can be difficult for a child",
+      "These solutions provide qualitative insight for the process of secondary oil recovery if the polymer concentration of liquid injected into the reservoir varies with time.",
+      "It is a multi-faceted process in that records will be linked by person, by place and by ordinary (or bishop).",
+      "Repeating this process with a sample group permits the efficient collection of a substantial data set concerning underlying preferences.",
+      "The process converges to a unique absorbing state in which all players cooperate."
     ],
-    "hash_code_list_definition_mean": "-656637612"
+    "hash_code_list_example": "809655360"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/producer_cb_dmean_5000_it.json",
@@ -2019,17 +1490,19 @@
         "id_image": "producer_6348171"
       }
     ],
-    "hash_code_list_img": "868990441",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà sản xuất",
-        "definition": "a person who produces a play, film, etc, but is usually not responsible for instructing the actors",
-        "ex_of_definition_list": [
-          "a film producer."
-        ]
-      }
+    "hash_code_list_img": "-212936849",
+    "list_example": [
+      "a film producer.",
+      "In addition, livestock producers are becoming more geographically concentrated, located in clusters near processing and infrastructure services20.",
+      "We examined how external economic drivers shape the type of agricultural systems that producers adopt.",
+      "In the past, the norms ascribed to members of the community depended on their capacity as producers.",
+      "However, the interaction between users and producers in the manufacturing sector, including medical device manufacturing processes, may not be always as expected (12).",
+      "First, because the producers are few in number, coordination and marketing need not fall upon the state.",
+      "At the same time, corporatist arrangements offered producers access and influence in the creation of policies that affected them directly.",
+      "As expected, both groups of producers earned most of their income from agriculture.",
+      "They are governed by their roles as food producers for the home and often also for the market."
     ],
-    "hash_code_list_definition_mean": "1371550860"
+    "hash_code_list_example": "1991197577"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/produce_cb_dmean_5000_it.json",
@@ -2058,59 +1531,24 @@
         "id_image": "produce_3967358"
       }
     ],
-    "hash_code_list_img": "2043697833",
-    "list_definition_mean": [
-      {
-        "mean_english": "đưa ra",
-        "definition": "to bring out",
-        "ex_of_definition_list": [
-          "She produced a letter from her pocket."
-        ]
-      },
-      {
-        "mean_english": "sinh đẻ",
-        "definition": "to give birth to",
-        "ex_of_definition_list": [
-          "A cow produces one or two calves a year."
-        ]
-      },
-      {
-        "mean_english": "gây ra",
-        "definition": "to cause",
-        "ex_of_definition_list": [
-          "His joke produced a shriek of laughter from the children."
-        ]
-      },
-      {
-        "mean_english": "sản xuất",
-        "definition": "to make or manufacture",
-        "ex_of_definition_list": [
-          "The factory produces furniture."
-        ]
-      },
-      {
-        "mean_english": "cung cấp",
-        "definition": "to give or yield",
-        "ex_of_definition_list": [
-          "The country produces enough food for the population."
-        ]
-      },
-      {
-        "mean_english": "dàn dựng",
-        "definition": "to arrange and prepare (a theatre/theater performance, film, television programme/program etc)",
-        "ex_of_definition_list": [
-          "The play was produced by Henry Dobson."
-        ]
-      },
-      {
-        "mean_english": "sản phẩm",
-        "definition": "something that is produced, especially crops, eggs, milk etc from farms",
-        "ex_of_definition_list": [
-          "agricultural/farm produce."
-        ]
-      }
+    "hash_code_list_img": "1672096132",
+    "list_example": [
+      "She produced a letter from her pocket.",
+      "A cow produces one or two calves a year.",
+      "His joke produced a shriek of laughter from the children.",
+      "The factory produces furniture.",
+      "The country produces enough food for the population.",
+      "The play was produced by Henry Dobson.",
+      "agricultural/farm produce.",
+      "The utilized social support subscales produced a single factor with an eigenvalue of 4.48 accounting for 49.8 % of the variance.",
+      "Other expedition members fulfilled their journalistic duties more diligently, but no issue was produced in 1912.",
+      "Autoradiography of the gel for 8 h produced the pattern shown.",
+      "Application of laser produced plasma for controlled thermonuclear fusion.",
+      "The first analysis produced eight factors with an eigenvalue greater than 1, accounting for 61 % of the variance.",
+      "A minimum in the curve of electrical conductivity is found and some physical evidence for its appearance is produced.",
+      "The next section will show that the opposite ranking produces a different repair - stress-driven tone."
     ],
-    "hash_code_list_definition_mean": "426540726"
+    "hash_code_list_example": "-692218439"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/production_cb_dmean_5000_it.json",
@@ -2150,32 +1588,19 @@
         "id_image": "production_875313"
       }
     ],
-    "hash_code_list_img": "300220109",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự sản xuất",
-        "definition": "the act or process of producing something",
-        "ex_of_definition_list": [
-          "car production",
-          "The production of the film cost a million dollars."
-        ]
-      },
-      {
-        "mean_english": "sản lượng",
-        "definition": "the amount produced, especially of manufactured goods",
-        "ex_of_definition_list": [
-          "The new methods increased production."
-        ]
-      },
-      {
-        "mean_english": "tác phẩm",
-        "definition": "a particular performance, or set of repeated performances, of a play etc",
-        "ex_of_definition_list": [
-          "I prefer this production of ‘Hamlet’ to the one I saw two years ago."
-        ]
-      }
+    "hash_code_list_img": "-327940973",
+    "list_example": [
+      "The production of the film cost a million dollars.",
+      "I prefer this production of ‘Hamlet’ to the one I saw two years ago.",
+      "The second part of the book contains only two chapters, each dealing with more technical aspects of the production process.",
+      "As industrial production has fallen so have associated negative externalities, leading to reductions in air, water, soil, and noise pollution.",
+      "On-farm evaluation of the contribution of sole and mixed applications of organic matter and urea to maize grain production in the savanna.",
+      "A cost of production analysis of conventional versus integrated versus organic apple productions systems.",
+      "Their restriction to shallow marine environments suggests that photosynthesis was the primary means of organic matter production for these benthic communities.",
+      "Violation of this assumption will also affect the production frontier if the counties that define the frontier do not have sufficient standing timber.",
+      "Topical areas such as integrated fruit production and organic growing are also included."
     ],
-    "hash_code_list_definition_mean": "-924394534"
+    "hash_code_list_example": "1654226030"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/productive_cb_dmean_5000_it.json",
@@ -2198,18 +1623,19 @@
         "id_image": "productive_5230564"
       }
     ],
-    "hash_code_list_img": "1541895710",
-    "list_definition_mean": [
-      {
-        "mean_english": "năng suất",
-        "definition": "(opposite unproductive) producing a lot; fruitful",
-        "ex_of_definition_list": [
-          "productive land",
-          "Our discussion was not very productive."
-        ]
-      }
+    "hash_code_list_img": "-533378779",
+    "list_example": [
+      "productive land",
+      "A comparison of the frequency of the words with productive and those with unproductive prefixes reveals a clear difference.",
+      "Thus, for this child, productive and conceptual knowledge appeared to overlap.",
+      "The same was not true for children who did not have productive knowledge of the distributed contrast.",
+      "Nonetheless, productive and conceptual knowledge appear to emerge hand in hand.",
+      "To explore further the relationship between productive vocabulary and verb generalizations, the following correlations were performed.",
+      "Redundancy statements serve to illustrate how features that were originally noncontrastive in a child's productive system may have gained distinctive status following treatment.",
+      "One possible result is the reallocation of labor time from other productive activities such as own-farm agricultural work to collection activities.",
+      "We now proceed to an account of the general preference for right-branching in the main data set - the words with productive prefixes."
     ],
-    "hash_code_list_definition_mean": "31324700"
+    "hash_code_list_example": "-1068951266"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/productivity_cb_dmean_5000_it.json",
@@ -2242,17 +1668,16 @@
         "id_image": "productivity_5965756"
       }
     ],
-    "hash_code_list_img": "798817871",
-    "list_definition_mean": [
-      {
-        "mean_english": "hiệu suất",
-        "definition": "the rate or efficiency of work especially in industrial production",
-        "ex_of_definition_list": [
-          "ways of increasing productivity."
-        ]
-      }
+    "hash_code_list_img": "-1081286611",
+    "list_example": [
+      "Daily productivity is actually low due to low radiation levels and a cool growing season.",
+      "Due to technical difficulties in randomizing which factors receive a boost, simulations were run for a subset of possible combinations of productivity improvements.",
+      "Correlations of market productivity are often positive, but they are relatively low, and in most cases lower than those of output.",
+      "First, the accumulation of past idiosyncratic exogenous total factor productivity shocks enhances the labor-augmenting technology and has a positive permanent impact on labor efficiency.",
+      "In the dryer regions, no-till and crop rotations significantly improve yield and protect the productivity of the soil.",
+      "These factors include prices and production costs, crop yields, fish productivity and the suitability of land for agriculture or fish production."
     ],
-    "hash_code_list_definition_mean": "1473375759"
+    "hash_code_list_example": "659237192"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/product_cb_dmean_5000_it.json",
@@ -2287,31 +1712,12 @@
         "id_image": "product_6192530"
       }
     ],
-    "hash_code_list_img": "2059940811",
-    "list_definition_mean": [
-      {
-        "mean_english": "kết quả",
-        "definition": "a result",
-        "ex_of_definition_list": [
-          "The plan was the product of hours of thought."
-        ]
-      },
-      {
-        "mean_english": "sản phẩm",
-        "definition": "something manufactured",
-        "ex_of_definition_list": [
-          "The firm manufactures metal products."
-        ]
-      },
-      {
-        "mean_english": "đáp án",
-        "definition": "the result of multiplying one number by another",
-        "ex_of_definition_list": [
-          "The product of 9 and 2 is 18."
-        ]
-      }
+    "hash_code_list_img": "-1649983309",
+    "list_example": [
+      "The plan was the product of hours of thought.",
+      "The product of 9 and 2 is 18."
     ],
-    "hash_code_list_definition_mean": "-970457742"
+    "hash_code_list_example": "6744406"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/professional_cb_dmean_5000_it.json",
@@ -2350,38 +1756,14 @@
         "id_image": "professional_4832775"
       }
     ],
-    "hash_code_list_img": "-509178447",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc về nghề",
-        "definition": "of a profession",
-        "ex_of_definition_list": [
-          "professional skill."
-        ]
-      },
-      {
-        "mean_english": "chuyên nghiệp",
-        "definition": "of a very high standard",
-        "ex_of_definition_list": [
-          "a very professional performance."
-        ]
-      },
-      {
-        "mean_english": "chuyên nghiệp",
-        "definition": "earning money by performing, or giving instruction, in a sport or other activity that is a pastime for other people; not amateur",
-        "ex_of_definition_list": [
-          "a professional musician/golfer."
-        ]
-      },
-      {
-        "mean_english": "chuyên nghiệp",
-        "definition": "(abbreviation proprou) a person who is professional",
-        "ex_of_definition_list": [
-          "a golf professional/pro."
-        ]
-      }
+    "hash_code_list_img": "-1492536365",
+    "list_example": [
+      "professional skill.",
+      "a very professional performance.",
+      "a professional musician/golfer.",
+      "Several topics in technology assessment are addressed, such as the effectiveness of communication styles of health professionals and different types of interprofessional cooperation."
     ],
-    "hash_code_list_definition_mean": "1069542519"
+    "hash_code_list_example": "38272016"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/profession_cb_dmean_5000_it.json",
@@ -2406,23 +1788,19 @@
         "id_image": "professional_4832775"
       }
     ],
-    "hash_code_list_img": "1323069159",
-    "list_definition_mean": [
-      {
-        "mean_english": "nghề nghiệp",
-        "definition": "an occupation or job that needs special knowledge, eg medicine, law, teaching, engineering etc",
-        "ex_of_definition_list": [
-          "‘What is your profession?’ ‘I’m a lawyer.’"
-        ]
-      },
-      {
-        "mean_english": "những người trong nghề",
-        "definition": "the people who have such an occupation",
-        "ex_of_definition_list": [
-          "the legal profession."
-        ]
-      }
+    "hash_code_list_img": "1475308759",
+    "list_example": [
+      "‘What is your profession?’ ‘I’m a lawyer.’",
+      "the legal profession.",
+      "Concurrently, the terms 'design' and 'build' were seen and practised as separate entities, the connections between them as negotiable, and supervised by independent professions.",
+      "As it happens, most professions enjoy a great deal of autonomy in this regard.",
+      "Research enables the architectural and environmental design professions to build upon prior experience through critical evaluation, innovation, and the creation of new knowledge.",
+      "Female professions had to be denied in order to secure the division of female domestic space and male public space.",
+      "The fourth issue is that of community care and the health care professions.",
+      "The professions alone did not create the new urban world; nor vice versa.",
+      "The rehabilitation of older people is complicated by the many different professions and agencies that are involved.",
+      "In addition, the ar ticles are accessible to students, so teachers can use them in courses that include a consideration of language and the professions."
     ],
-    "hash_code_list_definition_mean": "-1518554249"
+    "hash_code_list_example": "-1657052087"
   }
 ]

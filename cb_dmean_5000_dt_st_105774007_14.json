@@ -17,17 +17,13 @@
         "id_image": "starch_3274068"
       }
     ],
-    "hash_code_list_img": "1891352962",
-    "list_definition_mean": [
-      {
-        "mean_english": "tinh bột",
-        "definition": "a white food substance found especially in flour, potatoes etc",
-        "ex_of_definition_list": [
-          "Bread contains starch."
-        ]
-      }
+    "hash_code_list_img": "9089616",
+    "list_example": [
+      "In pea, there are no known mutants available for starch synthase which would help to resolve this matter.",
+      "In both maize and barley, a correlation exists between the starch content of the endosperm and the level of prolamins in some of the mutants.",
+      "The size of the endosperm that contains essential protein, starch and other nutrients is an important criterion for crop breeding programmes."
     ],
-    "hash_code_list_definition_mean": "89272250"
+    "hash_code_list_example": "-1242176443"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/stare_cb_dmean_5000_it.json",
@@ -46,25 +42,12 @@
         "id_image": "stare_2166030"
       }
     ],
-    "hash_code_list_img": "1040439165",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhìn chằm chằm",
-        "definition": "(often with at) to look at with a fixed gaze",
-        "ex_of_definition_list": [
-          "They stared at her clothes in amazement",
-          "Don’t stare – it’s rude!"
-        ]
-      },
-      {
-        "mean_english": "sự , cái nhìn chằm chằm",
-        "definition": "a staring look",
-        "ex_of_definition_list": [
-          "a bold stare."
-        ]
-      }
+    "hash_code_list_img": "1530563593",
+    "list_example": [
+      "Don’t stare – it’s rude!",
+      "Participants were instructed to stare at the letter strings and the square during the rest periods."
     ],
-    "hash_code_list_definition_mean": "1416128234"
+    "hash_code_list_example": "231002242"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/starlight_cb_dmean_5000_it.json",
@@ -82,17 +65,14 @@
         "id_image": "starlight_1403830"
       }
     ],
-    "hash_code_list_img": "516468707",
-    "list_definition_mean": [
-      {
-        "mean_english": "được chiếu sáng bằng các ngôi sao",
-        "definition": "the light from the stars",
-        "ex_of_definition_list": [
-          "a romantic dinner under starlight."
-        ]
-      }
+    "hash_code_list_img": "1805704409",
+    "list_example": [
+      "Snoopy's starlight spectacular utilizes light, sound, and motion to create a full sensory experience.",
+      "The other project, major lancer and the starlight squadron was a holdover from a proposed comic strip he created during high school.",
+      "It was visible only by starlight or moonlight.",
+      "Hatchlings enter the ocean by navigating toward the brighter horizon created by the reflection of the moon and starlight off the water's surface."
     ],
-    "hash_code_list_definition_mean": "278772035"
+    "hash_code_list_example": "859629286"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/start_cb_dmean_5000_it.json",
@@ -128,83 +108,23 @@
         "id_image": "start_5200702"
       }
     ],
-    "hash_code_list_img": "1459038867",
-    "list_definition_mean": [
-      {
-        "mean_english": "khởi hành",
-        "definition": "to leave or begin a journey",
-        "ex_of_definition_list": [
-          "We shall have to start at 5.30 a.m. in order to get to the boat in time."
-        ]
-      },
-      {
-        "mean_english": "bắt đầu công việc",
-        "definition": "to begin",
-        "ex_of_definition_list": [
-          "He starts working at six o’clock every morning",
-          "She started to cry",
-          "She starts her new job next week",
-          "Haven’t you started (on) your meal yet?",
-          "What time does the play start?"
-        ]
-      },
-      {
-        "mean_english": "khởi động",
-        "definition": "to (cause an engine etc to) begin to work",
-        "ex_of_definition_list": [
-          "I can’t start the car",
-          "The car won’t start",
-          "The clock stopped but I started it again."
-        ]
-      },
-      {
-        "mean_english": "bắt đầu làm",
-        "definition": "to cause something to begin or begin happening etc",
-        "ex_of_definition_list": [
-          "One of the students decided to start a college magazine."
-        ]
-      },
-      {
-        "mean_english": "lúc bắt đầu",
-        "definition": "the beginning of an activity, journey, race etc",
-        "ex_of_definition_list": [
-          "I told him at the start that his idea would not succeed",
-          "The runners lined up at the start",
-          "He stayed in the lead after a good start",
-          "I shall have to make a start on that work."
-        ]
-      },
-      {
-        "mean_english": "lợi thế xuất phát trước trong một cuộc đua",
-        "definition": "in a race etc, the advantage of beginning before or further forward than others, or the amount of time, distance etc gained through this",
-        "ex_of_definition_list": [
-          "The youngest child in the race got a start of five metres",
-          "The driver of the stolen car already had twenty minutes’ start before the police began the pursuit."
-        ]
-      },
-      {
-        "mean_english": "giật mình, nhảy lên đột ngột",
-        "definition": "to jump or jerk suddenly because of fright, surprise etc",
-        "ex_of_definition_list": [
-          "The sudden noise made me start."
-        ]
-      },
-      {
-        "mean_english": "sự giật nảy người",
-        "definition": "a sudden movement of the body",
-        "ex_of_definition_list": [
-          "He gave a start of surprise."
-        ]
-      },
-      {
-        "mean_english": "sự giật mình",
-        "definition": "a shock",
-        "ex_of_definition_list": [
-          "What a start the news gave me!"
-        ]
-      }
+    "hash_code_list_img": "-198515204",
+    "list_example": [
+      "We shall have to start at 5.30 a.m. in order to get to the boat in time.",
+      "I can’t start the car",
+      "One of the students decided to start a college magazine.",
+      "I told him at the start that his idea would not succeed",
+      "I shall have to make a start on that work.",
+      "The youngest child in the race got a start of five metres",
+      "The driver of the stolen car already had twenty minutes’ start before the police began the pursuit.",
+      "He gave a start of surprise.",
+      "What a start the news gave me!",
+      "I intend my remarks as suggestions for expanding the argument - and perhaps the research - beyond the promising start made here.",
+      "Unlike pharmaceutical products, new interventional procedures may start to disseminate with little published evidence (1).",
+      "The model suggests that rebels start off as ordinary robbers.",
+      "Only then need the lawyer start to think about the nature of any kind of defence strategy."
     ],
-    "hash_code_list_definition_mean": "-1438312994"
+    "hash_code_list_example": "805052862"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/starvation_cb_dmean_5000_it.json",
@@ -232,17 +152,15 @@
         "id_image": "starvation_5256709"
       }
     ],
-    "hash_code_list_img": "1871998597",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự đói, chết đói",
-        "definition": "a starving state",
-        "ex_of_definition_list": [
-          "They died of starvation."
-        ]
-      }
+    "hash_code_list_img": "-2039559252",
+    "list_example": [
+      "These findings indicate that starvation may temporarily decrease an individual's relative openness to new experiences.",
+      "Deaths from famine, starvation and malnutrition are fewer than ever before.",
+      "On this continent it appears that there are consistent increases in starvation resistance towards the tropics but opposing patterns for desiccation resistance.",
+      "That would lead to massive deaths from starvation and cold (the severity of both depending slightly on timing).",
+      "Parental nutrition might influence offspring energy reserves and aptitude to undergo periods of starvation at the end of diapause."
     ],
-    "hash_code_list_definition_mean": "971046466"
+    "hash_code_list_example": "2122489868"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/star_cb_dmean_5000_it.json",
@@ -271,55 +189,13 @@
         "id_image": "star_560896"
       }
     ],
-    "hash_code_list_img": "-708219018",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngôi sao",
-        "definition": "the fixed bodies in the sky, which are really distant suns",
-        "ex_of_definition_list": [
-          "The Sun is a star, and the Earth is one of its planets."
-        ]
-      },
-      {
-        "mean_english": "tinh tú",
-        "definition": "any of the bodies in the sky appearing as points of light",
-        "ex_of_definition_list": [
-          "The sky was full of stars."
-        ]
-      },
-      {
-        "mean_english": "vật hình sao, trang trí ngôi sao",
-        "definition": "an object, shape or figure with a number of pointed rays, usually five or six, often used as a means of marking quality etc",
-        "ex_of_definition_list": [
-          "The teacher stuck a gold star on the child’s neat exercise book",
-          "a four-star hotel."
-        ]
-      },
-      {
-        "mean_english": "ngôi sao điện ảnh",
-        "definition": "a leading actor or actress or other well-known performer eg in sport etc",
-        "ex_of_definition_list": [
-          "a film/television star",
-          "a football star",
-          "(also adjective) She has had many star roles in films."
-        ]
-      },
-      {
-        "mean_english": "đóng vai chính",
-        "definition": "to play a leading role in a play, film etc",
-        "ex_of_definition_list": [
-          "She has starred in two recent films."
-        ]
-      },
-      {
-        "mean_english": "có đóng vai chính",
-        "definition": "(of a film etc) to have (a certain actor etc) as its leading performer",
-        "ex_of_definition_list": [
-          "The film starred Elvis Presley."
-        ]
-      }
+    "hash_code_list_img": "-1049109249",
+    "list_example": [
+      "The teacher stuck a gold star on the child’s neat exercise book",
+      "a four-star hotel.",
+      "(also adjective) She has had many star roles in films."
     ],
-    "hash_code_list_definition_mean": "-1079457060"
+    "hash_code_list_example": "-384431226"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/statement_cb_dmean_5000_it.json",
@@ -349,24 +225,12 @@
         "id_image": "statement_6330711"
       }
     ],
-    "hash_code_list_img": "-1262099361",
-    "list_definition_mean": [
-      {
-        "mean_english": "lời phát biểu",
-        "definition": "something that is stated",
-        "ex_of_definition_list": [
-          "The prime minister will make a statement tomorrow on the crisis."
-        ]
-      },
-      {
-        "mean_english": "bản kê in sẵn",
-        "definition": "a written statement of how much money a person has, owes etc",
-        "ex_of_definition_list": [
-          "I’ll look at my bank statement to see how much money is in my account."
-        ]
-      }
+    "hash_code_list_img": "1389529373",
+    "list_example": [
+      "The prime minister will make a statement tomorrow on the crisis.",
+      "I’ll look at my bank statement to see how much money is in my account."
     ],
-    "hash_code_list_definition_mean": "1231920067"
+    "hash_code_list_example": "70469356"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/state_cb_dmean_5000_it.json",
@@ -392,46 +256,18 @@
         "id_image": "state_1605303"
       }
     ],
-    "hash_code_list_img": "-1614805525",
-    "list_definition_mean": [
-      {
-        "mean_english": "tình trạng, trạng thái",
-        "definition": "the condition in which a thing or person is",
-        "ex_of_definition_list": [
-          "the bad state of the roads",
-          "The room was in an untidy state",
-          "He inquired about her state of health",
-          "What a state you’re in!",
-          "He was not in a fit state to take the class."
-        ]
-      },
-      {
-        "mean_english": "nhà nước, quốc gia",
-        "definition": "a country considered as a political community, or, as in the United States, one division of a federation",
-        "ex_of_definition_list": [
-          "The Prime Minister visits the Queen once a week to discuss affairs of state",
-          "The care of the sick and elderly is considered partly the responsibility of the state",
-          "(also adjective) The railways are under state control",
-          "state-controlled / owned industries."
-        ]
-      },
-      {
-        "mean_english": "nghi lễ trọng thể",
-        "definition": "ceremonial dignity and splendour/splendor",
-        "ex_of_definition_list": [
-          "The Queen, wearing her robes of state, drove in a horse-drawn coach to Westminster",
-          "(also adjective) state occasions/banquets."
-        ]
-      },
-      {
-        "mean_english": "phát biểu, tuyên bố",
-        "definition": "to say or announce clearly, carefully and definitely",
-        "ex_of_definition_list": [
-          "You have not yet stated your intentions."
-        ]
-      }
+    "hash_code_list_img": "-1948446179",
+    "list_example": [
+      "the bad state of the roads",
+      "He inquired about her state of health",
+      "What a state you’re in!",
+      "He was not in a fit state to take the class.",
+      "(also adjective) The railways are under state control",
+      "(also adjective) state occasions/banquets.",
+      "The restriction of fingerprint collection to people already suspected of a crime reinforced the tendency to rely upon punishment rather than effective state investigation.",
+      "The process converges to a unique absorbing state in which all players cooperate."
     ],
-    "hash_code_list_definition_mean": "1731736462"
+    "hash_code_list_example": "1899284693"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/static_cb_dmean_5000_it.json",
@@ -450,17 +286,11 @@
         "id_image": "static_3978994"
       }
     ],
-    "hash_code_list_img": "617135165",
-    "list_definition_mean": [
-      {
-        "mean_english": "tĩnh tại, không chuyển động",
-        "definition": "still; not moving",
-        "ex_of_definition_list": [
-          "The defence were too static and that’s why they conceded that early goal."
-        ]
-      }
+    "hash_code_list_img": "1380332148",
+    "list_example": [
+      "The defence were too static and that’s why they conceded that early goal."
     ],
-    "hash_code_list_definition_mean": "909515120"
+    "hash_code_list_example": "55684469"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/station_cb_dmean_5000_it.json",
@@ -491,43 +321,12 @@
         "id_image": "station_4426573"
       }
     ],
-    "hash_code_list_img": "-1674665785",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà ga",
-        "definition": "a place with a ticket office, waiting rooms etc, where trains, buses or coaches stop to allow passengers to get on or off",
-        "ex_of_definition_list": [
-          "a bus station",
-          "She arrived at the station in good time for her train."
-        ]
-      },
-      {
-        "mean_english": "trạm, điểm, đồn, đài",
-        "definition": "a local headquarters or centre of work of some kind",
-        "ex_of_definition_list": [
-          "How many fire-engines are kept at the fire station?",
-          "a radio station",
-          "Where is the police station?",
-          "military/naval stations."
-        ]
-      },
-      {
-        "mean_english": "địa vị, chức",
-        "definition": "a post or position (eg of a guard or other person on duty)",
-        "ex_of_definition_list": [
-          "The watchman remained at his station all night."
-        ]
-      },
-      {
-        "mean_english": "đặt vào vị trí",
-        "definition": "to put (a person, oneself, troops etc in a place or position to perform some duty)",
-        "ex_of_definition_list": [
-          "He stationed himself at the corner of the road to keep watch",
-          "The regiment is stationed abroad."
-        ]
-      }
+    "hash_code_list_img": "2108999874",
+    "list_example": [
+      "She arrived at the station in good time for her train.",
+      "The watchman remained at his station all night."
     ],
-    "hash_code_list_definition_mean": "1651575938"
+    "hash_code_list_example": "-1530498208"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/statistics_cb_dmean_5000_it.json",
@@ -556,17 +355,11 @@
         "id_image": "statistics_326923"
       }
     ],
-    "hash_code_list_img": "-597527565",
-    "list_definition_mean": [
-      {
-        "mean_english": "số liệu thống kê",
-        "definition": "figures giving information about something",
-        "ex_of_definition_list": [
-          "There were 900 deaths and 20,000 injuries on the roads last year, but the statistics for the previous year were worse."
-        ]
-      }
+    "hash_code_list_img": "-78887604",
+    "list_example": [
+      "There were 900 deaths and 20,000 injuries on the roads last year, but the statistics for the previous year were worse."
     ],
-    "hash_code_list_definition_mean": "213031828"
+    "hash_code_list_example": "599782556"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/statue_cb_dmean_5000_it.json",
@@ -589,18 +382,13 @@
         "id_image": "statue_1354633"
       }
     ],
-    "hash_code_list_img": "57137481",
-    "list_definition_mean": [
-      {
-        "mean_english": "bức tượng",
-        "definition": "a sculptured figure of a person, animal etc in bronze, stone, wood etc",
-        "ex_of_definition_list": [
-          "A statue of Nelson stands at the top of Nelson’s Column",
-          "The children stood as still as statues."
-        ]
-      }
+    "hash_code_list_img": "-992451259",
+    "list_example": [
+      "A statue of Nelson stands at the top of Nelson’s Column",
+      "The town erected a statue of him and named a street and their new basketball gym after him.",
+      "Furthermore, when you examine the statue up close, you immediately recognise i the robust poet immortalised in bronze."
     ],
-    "hash_code_list_definition_mean": "1139741282"
+    "hash_code_list_example": "-297954949"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/status_cb_dmean_5000_it.json",
@@ -629,17 +417,11 @@
         "id_image": "status_3053796"
       }
     ],
-    "hash_code_list_img": "2073788351",
-    "list_definition_mean": [
-      {
-        "mean_english": "địa vị, thân phận",
-        "definition": "the position of a person with regard to his legal rights etc",
-        "ex_of_definition_list": [
-          "If she marries a foreigner, will her status as a British citizen be affected?"
-        ]
-      }
+    "hash_code_list_img": "399806697",
+    "list_example": [
+      "If she marries a foreigner, will her status as a British citizen be affected?"
     ],
-    "hash_code_list_definition_mean": "126926125"
+    "hash_code_list_example": "-777572652"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/steak_cb_dmean_5000_it.json",
@@ -667,18 +449,13 @@
         "id_image": "steak_3005152"
       }
     ],
-    "hash_code_list_img": "199334920",
-    "list_definition_mean": [
-      {
-        "mean_english": "miếng cá, thịt để nướng",
-        "definition": "a slice of meat (usually beef) or fish (often cod) for eg frying or stewing",
-        "ex_of_definition_list": [
-          "a piece of steak",
-          "two cod steaks."
-        ]
-      }
+    "hash_code_list_img": "-1326796644",
+    "list_example": [
+      "The meat had been consumed as ground meat (11 cases), consumed raw by at least six cases, or steak (three cases).",
+      "She said that she had cooked some steak for her husband, who suffers from dementia.",
+      "For example, eating a steak dinner at a restaurant and drinking a \"malted\" at a lunch counter might be counted as repetitions of the same brief activity - eating high-calorie food."
     ],
-    "hash_code_list_definition_mean": "748033754"
+    "hash_code_list_example": "1306970325"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/steal_cb_dmean_5000_it.json",
@@ -703,32 +480,13 @@
         "id_image": "steal_4633945"
       }
     ],
-    "hash_code_list_img": "901582376",
-    "list_definition_mean": [
-      {
-        "mean_english": "ăn cắp, ăn trộm",
-        "definition": "to take (another person’s property), especially secretly, without permission or legal right",
-        "ex_of_definition_list": [
-          "Thieves broke into the house and stole money and jewellery",
-          "He was expelled from the school because he had been stealing (money)."
-        ]
-      },
-      {
-        "mean_english": "dành được, lấy được cái gì vụng trộm, lén lút",
-        "definition": "to obtain or take (eg a look, a nap etc) quickly or secretly",
-        "ex_of_definition_list": [
-          "He stole a glance at her."
-        ]
-      },
-      {
-        "mean_english": "chuồn, đi lén",
-        "definition": "to move quietly",
-        "ex_of_definition_list": [
-          "He stole quietly into the room."
-        ]
-      }
+    "hash_code_list_img": "1331162600",
+    "list_example": [
+      "He was expelled from the school because he had been stealing (money).",
+      "Five bicycle thieves were arrested, and two men stealing from cars.",
+      "Very serious cases of violating moral rules, such as stealing, bullying, and hitting, were seldom discussed."
     ],
-    "hash_code_list_definition_mean": "1854941914"
+    "hash_code_list_example": "-381771981"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/steam_cb_dmean_5000_it.json",
@@ -770,49 +528,13 @@
         "id_image": "steam_532373"
       }
     ],
-    "hash_code_list_img": "320744255",
-    "list_definition_mean": [
-      {
-        "mean_english": "hơi nước",
-        "definition": "a gas or vapour/vapor that rises from hot or boiling water or other liquid",
-        "ex_of_definition_list": [
-          "Steam rose from the plate of soup / the wet earth in the hot sun",
-          "a cloud of steam",
-          "(also adjective) A sauna is a type of steam bath."
-        ]
-      },
-      {
-        "mean_english": "năng lượng hơi nước",
-        "definition": "power or energy obtained from this",
-        "ex_of_definition_list": [
-          "The machinery is driven by steam",
-          "Diesel fuel replaced steam on the railways",
-          "(also adjective) steam power, steam engines."
-        ]
-      },
-      {
-        "mean_english": "bốc hơi",
-        "definition": "to give out steam",
-        "ex_of_definition_list": [
-          "A kettle was steaming on the stove."
-        ]
-      },
-      {
-        "mean_english": "chạy bằng hơi nước",
-        "definition": "(of a ship, train etc) to move by means of steam",
-        "ex_of_definition_list": [
-          "The ship steamed across the bay."
-        ]
-      },
-      {
-        "mean_english": "đồ, hấp",
-        "definition": "to cook by steam",
-        "ex_of_definition_list": [
-          "The pudding should be steamed for four hours."
-        ]
-      }
+    "hash_code_list_img": "936139867",
+    "list_example": [
+      "(also adjective) A sauna is a type of steam bath.",
+      "Diesel fuel replaced steam on the railways",
+      "(also adjective) steam power, steam engines."
     ],
-    "hash_code_list_definition_mean": "91194139"
+    "hash_code_list_example": "696893155"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/steel_cb_dmean_5000_it.json",
@@ -841,26 +563,12 @@
         "id_image": "steel_5672175"
       }
     ],
-    "hash_code_list_img": "1195433344",
-    "list_definition_mean": [
-      {
-        "mean_english": "thép",
-        "definition": "(of) a very hard alloy of iron and carbon, used for making tools etc",
-        "ex_of_definition_list": [
-          "tools of the finest steel",
-          "steel knives/chisels",
-          "He had a grip of steel (= a very strong grip)."
-        ]
-      },
-      {
-        "mean_english": "tôi luyện",
-        "definition": "to harden and strengthen (oneself, one’s nerves etc) in preparation for doing, or resisting, something",
-        "ex_of_definition_list": [
-          "He steeled himself to meet the attack / to tell his wife the truth."
-        ]
-      }
+    "hash_code_list_img": "2005535976",
+    "list_example": [
+      "steel knives/chisels",
+      "He had a grip of steel (= a very strong grip)."
     ],
-    "hash_code_list_definition_mean": "635095433"
+    "hash_code_list_example": "1201587609"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/steep_cb_dmean_5000_it.json",
@@ -880,34 +588,16 @@
         "id_image": "steep_5265595"
       }
     ],
-    "hash_code_list_img": "1947065184",
-    "list_definition_mean": [
-      {
-        "mean_english": "dốc, dốc đứng",
-        "definition": "(of eg a hill, stairs etc) rising with a sudden rather than a gradual slope",
-        "ex_of_definition_list": [
-          "The hill was too steep for me to cycle up",
-          "a steep path",
-          "a steep climb."
-        ]
-      },
-      {
-        "mean_english": "quá mức, không hợp lý",
-        "definition": "(of a price asked or demand made) unreasonable or too great",
-        "ex_of_definition_list": [
-          "He wants rather a steep price for his house, doesn’t he?",
-          "That’s a bit steep!"
-        ]
-      },
-      {
-        "mean_english": "ngâm vào nước",
-        "definition": "to soak thoroughly",
-        "ex_of_definition_list": [
-          "Steep the raisins in rum, preferably overnight."
-        ]
-      }
+    "hash_code_list_img": "973087644",
+    "list_example": [
+      "The hill was too steep for me to cycle up",
+      "a steep path",
+      "a steep climb.",
+      "He wants rather a steep price for his house, doesn’t he?",
+      "The gentle ramp case displays a higher fast-particle yield than the steep ramp case.",
+      "The steep part of the plotted lines reflects the within-cluster production time and the horizontal part the time between-clusters."
     ],
-    "hash_code_list_definition_mean": "691047373"
+    "hash_code_list_example": "106326058"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/stem_cb_dmean_5000_it.json",
@@ -934,45 +624,15 @@
         "id_image": "stem_4797127"
       }
     ],
-    "hash_code_list_img": "1801990391",
-    "list_definition_mean": [
-      {
-        "mean_english": "thân cây, cuống",
-        "definition": "the part of a plant that grows upward from the root, or the part from which a leaf, flower or fruit grows; a stalk",
-        "ex_of_definition_list": [
-          "Poppies have long, hairy, twisting stems."
-        ]
-      },
-      {
-        "mean_english": "chân",
-        "definition": "the narrow part of various objects, eg of a wine-glass between the bowl and the base",
-        "ex_of_definition_list": [
-          "the stem of a wine-glass / of a tobacco-pipe."
-        ]
-      },
-      {
-        "mean_english": "mũi tàu",
-        "definition": "the upright piece of wood or metal at the bow of a ship",
-        "ex_of_definition_list": [
-          "As the ship struck the rock, she shook from stem to stern."
-        ]
-      },
-      {
-        "mean_english": "xuất phát từ",
-        "definition": "(with from) to be caused by",
-        "ex_of_definition_list": [
-          "Hate sometimes stems from envy."
-        ]
-      },
-      {
-        "mean_english": "ngăn chặn",
-        "definition": "to stop (a flow, eg of blood)",
-        "ex_of_definition_list": [
-          "She used a bandage to stem the flow of blood from the wound."
-        ]
-      }
+    "hash_code_list_img": "-1587165377",
+    "list_example": [
+      "the stem of a wine-glass / of a tobacco-pipe.",
+      "As the ship struck the rock, she shook from stem to stern.",
+      "She used a bandage to stem the flow of blood from the wound.",
+      "Examples of cell signalling pathways implicated in adult stem cell ageing.",
+      "They can show many different symptoms, and stem from many different causes."
     ],
-    "hash_code_list_definition_mean": "283989468"
+    "hash_code_list_example": "839477224"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/step_cb_dmean_5000_it.json",
@@ -1008,73 +668,19 @@
         "id_image": "step_4158050"
       }
     ],
-    "hash_code_list_img": "-1203938791",
-    "list_definition_mean": [
-      {
-        "mean_english": "bước chân, bước",
-        "definition": "one movement of the foot in walking, running, dancing etc",
-        "ex_of_definition_list": [
-          "He took a step forward",
-          "walking with hurried steps."
-        ]
-      },
-      {
-        "mean_english": "bước",
-        "definition": "the distance covered by this",
-        "ex_of_definition_list": [
-          "He moved a step or two nearer",
-          "The restaurant is only a step (= a short distance) away."
-        ]
-      },
-      {
-        "mean_english": "tiếng bước chân, dáng đi",
-        "definition": "the sound made by someone walking etc",
-        "ex_of_definition_list": [
-          "I heard (foot) steps."
-        ]
-      },
-      {
-        "mean_english": "bước nhảy, điệu nhảy",
-        "definition": "a particular movement with the feet, eg in dancing",
-        "ex_of_definition_list": [
-          "The dance has some complicated steps."
-        ]
-      },
-      {
-        "mean_english": "bậc, nấc",
-        "definition": "a flat surface, or one flat surface in a series, eg on a stair or stepladder, on which to place the feet or foot in moving up or down",
-        "ex_of_definition_list": [
-          "A flight of steps led down to the cellar",
-          "Mind the step!",
-          "She was sitting on the doorstep."
-        ]
-      },
-      {
-        "mean_english": "bước tiến",
-        "definition": "a stage in progress, development etc",
-        "ex_of_definition_list": [
-          "Mankind made a big step forward with the invention of the wheel",
-          "His present job is a step up from his previous one."
-        ]
-      },
-      {
-        "mean_english": "biện pháp",
-        "definition": "an action or move (towards accomplishing an aim etc)",
-        "ex_of_definition_list": [
-          "That would be a foolish/sensible step to take",
-          "I shall take steps to prevent this happening again."
-        ]
-      },
-      {
-        "mean_english": "bước, bước đi",
-        "definition": "to make a step, or to walk",
-        "ex_of_definition_list": [
-          "He opened the door and stepped out",
-          "She stepped briskly along the road."
-        ]
-      }
+    "hash_code_list_img": "-1083126106",
+    "list_example": [
+      "He took a step forward",
+      "He moved a step or two nearer",
+      "The restaurant is only a step (= a short distance) away.",
+      "Mankind made a big step forward with the invention of the wheel",
+      "His present job is a step up from his previous one.",
+      "That would be a foolish/sensible step to take",
+      "If the landmark contains symbolic information, the next step is reading its contents.",
+      "It achieves this by describing the step-by-step construction of the various models which ultimately lead to a full description of the soil-plant-atmosphere system.",
+      "The value of is reduced by 1% at each step after the sample is allowed to reach equilibrium."
     ],
-    "hash_code_list_definition_mean": "2120129175"
+    "hash_code_list_example": "-1526938200"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/stereo_cb_dmean_5000_it.json",
@@ -1098,31 +704,13 @@
         "id_image": "stereo_529463"
       }
     ],
-    "hash_code_list_img": "-513287213",
-    "list_definition_mean": [
-      {
-        "mean_english": "âm thanh nổi",
-        "definition": "short for stereophonic or stereoscopic",
-        "ex_of_definition_list": [
-          "a stereo recording."
-        ]
-      },
-      {
-        "mean_english": "máy nhạc âm thanh nổi",
-        "definition": "stereophonic equipment, especially a record-player",
-        "ex_of_definition_list": [
-          "Have you got (a) stereo?"
-        ]
-      },
-      {
-        "mean_english": "âm thanh nổi",
-        "definition": "stereophonic sound or stereoscopic vision",
-        "ex_of_definition_list": [
-          "The song was recorded in stereo."
-        ]
-      }
+    "hash_code_list_img": "1171341012",
+    "list_example": [
+      "a stereo recording.",
+      "Mastmounted stereo navigation cameras provide external reference position measurements to overcome this and to support navigation.",
+      "Volume shaping, pan (stereo position) and effects were all introduced as possible techniques."
     ],
-    "hash_code_list_definition_mean": "651972644"
+    "hash_code_list_example": "-447827110"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sterile_cb_dmean_5000_it.json",
@@ -1141,17 +729,15 @@
         "id_image": "sterile_5903994"
       }
     ],
-    "hash_code_list_img": "426744724",
-    "list_definition_mean": [
-      {
-        "mean_english": "vô trùng",
-        "definition": "free from germs",
-        "ex_of_definition_list": [
-          "A surgeon’s equipment must be absolutely sterile."
-        ]
-      }
+    "hash_code_list_img": "1821783178",
+    "list_example": [
+      "Specimens are extracted under clean and sterile conditions.",
+      "Reproductive status was dichotomized for the analyses presented here; sterile trees lacked any reproductive structures while fertile trees had one or more reproductive structures.",
+      "This requirement causes controversy, since it does not recognize various sterile organisms as being alive.",
+      "The piece of jejunum was flushed with sterile saline, then further divided into 2 cm lengths.",
+      "Rather than attempting uniform area-wide, inundative releases of sterile males, it may be more cost-effective to preferentially target aggregated populations associated with livestock."
     ],
-    "hash_code_list_definition_mean": "1993452824"
+    "hash_code_list_example": "615225708"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/steward_cb_dmean_5000_it.json",
@@ -1177,24 +763,20 @@
         "id_image": "steward_4695774"
       }
     ],
-    "hash_code_list_img": "-942259801",
-    "list_definition_mean": [
-      {
-        "mean_english": "người phục vụ, chiêu đãi viên",
-        "definition": "a passenger’s attendant on ship or aeroplane",
-        "ex_of_definition_list": [
-          "an air stewardess."
-        ]
-      },
-      {
-        "mean_english": "người quản gia",
-        "definition": "a person who helps to arrange, and is an official at, races, entertainments etc",
-        "ex_of_definition_list": [
-          "a matchday steward."
-        ]
-      }
+    "hash_code_list_img": "2106839025",
+    "list_example": [
+      "an air stewardess.",
+      "a matchday steward.",
+      "Another very important question, to which reference has not been made this evening, is the training of shop stewards.",
+      "She said that almost nothing could be done in her hospital without the shop stewards' approval.",
+      "We have, therefore, inserted the limitation, first of all, that the number of stewards must be reasonable.",
+      "Without a well-financed farming industry, farmers' ability to be the stewards of our countryside—to look after our landscape and environment—is much diminished.",
+      "The management said that it was not prepared to meet the shop stewards to discuss a productivity agreement.",
+      "I do not think there is any question of having special stewards.",
+      "I have received strong representations, not only from shop stewards in factories, but from people working in universities.",
+      "The organisers, stewards, the police and everybody else intended that the march should be in two halves."
     ],
-    "hash_code_list_definition_mean": "-1931720029"
+    "hash_code_list_example": "-466493812"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/stew_cb_dmean_5000_it.json",
@@ -1223,25 +805,21 @@
         "id_image": "stew_661308"
       }
     ],
-    "hash_code_list_img": "1841045180",
-    "list_definition_mean": [
-      {
-        "mean_english": "hầm, ninh",
-        "definition": "to cook (meat, fruit etc) by slowly boiling and simmering",
-        "ex_of_definition_list": [
-          "She stewed apples",
-          "The meat was stewing in the pan."
-        ]
-      },
-      {
-        "mean_english": "món hầm",
-        "definition": "(a dish of) stewed meat etc",
-        "ex_of_definition_list": [
-          "I’ve made some beef stew."
-        ]
-      }
+    "hash_code_list_img": "102624415",
+    "list_example": [
+      "She stewed apples",
+      "The meat was stewing in the pan.",
+      "I’ve made some beef stew.",
+      "Flavourful soups and stews include shchi, borsch, ukha, solyanka and okroshka.",
+      "The laxing of the vowel, together with vocalization of the 0 l 0, elicited such incorrect forms as still, stew, stub, and even stuck.",
+      "The casserole is then stewed at a low temperature.",
+      "Consider a clay pot to be fully seasoned only after using it a couple of times cooking wet dishes like soups and stews etc.",
+      "Diners then break into the section of injera in front of them, tearing off pieces and dipping them into the stews.",
+      "Meat is prepared in many ways, as steaks, in stews, fondue, or as dried meat like beef jerky.",
+      "Heavy stews spiced with habanero and scotch bonnet chillies are popular and eaten with fufu.",
+      "They are mainly used in stews and sauces, as well as marinades for meats and chicken."
     ],
-    "hash_code_list_definition_mean": "780613092"
+    "hash_code_list_example": "730039849"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sticker_cb_dmean_5000_it.json",
@@ -1269,17 +847,11 @@
         "id_image": "sticker_518635"
       }
     ],
-    "hash_code_list_img": "-785974214",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhãn dính có hình",
-        "definition": "an adhesive label or sign bearing eg a design, political message etc, for sticking eg on a car’s window etc",
-        "ex_of_definition_list": [
-          "The car sticker read ‘Blood donors needed’."
-        ]
-      }
+    "hash_code_list_img": "2143313027",
+    "list_example": [
+      "The car sticker read ‘Blood donors needed’."
     ],
-    "hash_code_list_definition_mean": "231154516"
+    "hash_code_list_example": "1163314346"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sticky_cb_dmean_5000_it.json",
@@ -1303,25 +875,19 @@
         "id_image": "sticky_2519446"
       }
     ],
-    "hash_code_list_img": "797524722",
-    "list_definition_mean": [
-      {
-        "mean_english": "dính, nhớp nháp",
-        "definition": "able, or likely, to stick or adhere to other surfaces",
-        "ex_of_definition_list": [
-          "He mended the torn book with sticky tape",
-          "sticky sweets."
-        ]
-      },
-      {
-        "mean_english": "khó khăn, vụng về",
-        "definition": "(of a situation or person) difficult; awkward",
-        "ex_of_definition_list": [
-          "She managed to talk her way out of a sticky situation."
-        ]
-      }
+    "hash_code_list_img": "-1701860967",
+    "list_example": [
+      "He mended the torn book with sticky tape",
+      "sticky sweets.",
+      "She managed to talk her way out of a sticky situation.",
+      "Consequently, excessive demand is a phenomenon on the domestic goods market, driving the sticky domestic price level p.",
+      "Even sticky slides placed less than 1 m from fresh inflorescences exhibited no sign of trapped pollen.",
+      "Also, the dates on which wild flies were first caught on sticky targets in each of the two years.",
+      "I tell students about the difference between notional and effective demand, and about sticky prices.",
+      "Under sticky prices, there exist equilibrium paths in which an asset-price bubble temporarily develops and eventually bursts.",
+      "Anemophily was tested by placing 72 sticky slides in the vicinity of fresh male inflorescences."
     ],
-    "hash_code_list_definition_mean": "2059002082"
+    "hash_code_list_example": "-1095986129"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/stick_cb_dmean_5000_it.json",
@@ -1350,67 +916,16 @@
         "id_image": "stick_939445"
       }
     ],
-    "hash_code_list_img": "1100223014",
-    "list_definition_mean": [
-      {
-        "mean_english": "đâm, thọc, chọc",
-        "definition": "to push (something sharp or pointed) into or through something",
-        "ex_of_definition_list": [
-          "She stuck a pin through the papers to hold them together",
-          "Stop sticking your elbow into me!"
-        ]
-      },
-      {
-        "mean_english": "cắm",
-        "definition": "(of something pointed) to be pushed into or through something",
-        "ex_of_definition_list": [
-          "Two arrows were sticking in his back."
-        ]
-      },
-      {
-        "mean_english": "dán, dính",
-        "definition": "to fasten or be fastened (by glue, gum etc)",
-        "ex_of_definition_list": [
-          "He licked the flap of the envelope and stuck it down",
-          "These labels don’t stick very well",
-          "He stuck (the broken pieces of) the vase together again",
-          "His brothers used to call him Bonzo and the name has stuck."
-        ]
-      },
-      {
-        "mean_english": "làm sa lầy, làm vướng mắc",
-        "definition": "to (cause to) become fixed and unable to move or progress",
-        "ex_of_definition_list": [
-          "The car stuck in the mud",
-          "The cupboard door has stuck",
-          "I’ll help you with your arithmetic if you’re stuck."
-        ]
-      },
-      {
-        "mean_english": "que củi",
-        "definition": "a branch or twig from a tree",
-        "ex_of_definition_list": [
-          "They were sent to find sticks for firewood."
-        ]
-      },
-      {
-        "mean_english": "cái gậy",
-        "definition": "a long thin piece of wood etc shaped for a special purpose",
-        "ex_of_definition_list": [
-          "She always walks with a stick nowadays",
-          "a walking-stick / hockey-stick",
-          "a drumstick."
-        ]
-      },
-      {
-        "mean_english": "cán",
-        "definition": "a long piece",
-        "ex_of_definition_list": [
-          "a stick of rhubarb."
-        ]
-      }
+    "hash_code_list_img": "199916671",
+    "list_example": [
+      "These labels don’t stick very well",
+      "She always walks with a stick nowadays",
+      "a walking-stick / hockey-stick",
+      "a stick of rhubarb.",
+      "The aggregates are formed by the release of the adhesive post-acetabular gland secretion which causes the cercariae to stick together.",
+      "For simplicity, we stick with this particular application."
     ],
-    "hash_code_list_definition_mean": "474131512"
+    "hash_code_list_example": "28762837"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/stigma_cb_dmean_5000_it.json",
@@ -1429,24 +944,13 @@
         "id_image": "stigma_4207391"
       }
     ],
-    "hash_code_list_img": "246059065",
-    "list_definition_mean": [
-      {
-        "mean_english": "điều sỉ nhục",
-        "definition": "a feeling within society that a particular illness, situation, or way of behaving is something to be ashamed of",
-        "ex_of_definition_list": [
-          "the stigma of mental illness/divorce."
-        ]
-      },
-      {
-        "mean_english": "đầu nhụy",
-        "definition": "the part in the middle of a flower that receives pollen",
-        "ex_of_definition_list": [
-          "The stigma receives the pollen from visiting insects."
-        ]
-      }
+    "hash_code_list_img": "1189814911",
+    "list_example": [
+      "the stigma of mental illness/divorce.",
+      "The stigma receives the pollen from visiting insects.",
+      "Such a family remained independent of charity, relief, and the stigma of dependence that went with it."
     ],
-    "hash_code_list_definition_mean": "-2074860781"
+    "hash_code_list_example": "411026295"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/still_cb_dmean_5000_it.json",
@@ -1469,56 +973,25 @@
         "id_image": "still_1484373"
       }
     ],
-    "hash_code_list_img": "2032864460",
-    "list_definition_mean": [
-      {
-        "mean_english": "đứng yên, phẳng lặng",
-        "definition": "without movement or noise",
-        "ex_of_definition_list": [
-          "The city seems very still in the early morning",
-          "Please stand/sit/keep/hold still while I brush your hair!",
-          "still (= calm) water/weather."
-        ]
-      },
-      {
-        "mean_english": "không có ga, không sủi bọt",
-        "definition": "(of drinks) not fizzy",
-        "ex_of_definition_list": [
-          "still orange juice."
-        ]
-      },
-      {
-        "mean_english": "bức ảnh về một cảnh của bộ phim",
-        "definition": "a photograph selected from a cinema film",
-        "ex_of_definition_list": [
-          "The magazine contained some stills from the new film."
-        ]
-      },
-      {
-        "mean_english": "vẫn còn",
-        "definition": "up to and including the present time, or the time mentioned previously",
-        "ex_of_definition_list": [
-          "Are you still working for the same firm?",
-          "By Saturday he had still not / still hadn’t replied to my letter."
-        ]
-      },
-      {
-        "mean_english": "mặc dù vậy, tuy nhiên",
-        "definition": "nevertheless; in spite of that",
-        "ex_of_definition_list": [
-          "Although the doctor told him to rest, he still went on working",
-          "This picture is not valuable – still, I like it."
-        ]
-      },
-      {
-        "mean_english": "thậm chí",
-        "definition": "even",
-        "ex_of_definition_list": [
-          "He seemed very ill in the afternoon and in the evening looked still worse."
-        ]
-      }
+    "hash_code_list_img": "1432962284",
+    "list_example": [
+      "The city seems very still in the early morning",
+      "Please stand/sit/keep/hold still while I brush your hair!",
+      "still (= calm) water/weather.",
+      "still orange juice.",
+      "Are you still working for the same firm?",
+      "By Saturday he had still not / still hadn’t replied to my letter.",
+      "Although the doctor told him to rest, he still went on working",
+      "He seemed very ill in the afternoon and in the evening looked still worse.",
+      "Consumption was part of the ordinary life, still represented, albeit often precariously, by the home front.",
+      "The purpose is to record things which have been important in the past, those still possible, as well as current activities.",
+      "But when planning housing in new regions, the cultural community from where the settlers will come is still unknown.",
+      "If the hammer were still threatening it into destruction, it would bounce back on this plastic and resilient network.",
+      "Most of the fundamental changes of which agriculture is but a symptom took place while people were still basically foragers.",
+      "Because my research started out by locating sufficient conditions for stability in heterogeneous capital goods models, and that problem still fascinates me to this day.",
+      "So speakers may merge in minimal pair lists but still maintain a phonetic distinction in conversational style."
     ],
-    "hash_code_list_definition_mean": "-1116240506"
+    "hash_code_list_example": "408986034"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/stink_cb_dmean_5000_it.json",
@@ -1537,25 +1010,21 @@
         "id_image": "stink_4694798"
       }
     ],
-    "hash_code_list_img": "183385485",
-    "list_definition_mean": [
-      {
-        "mean_english": "có mùi khó chịu, hôi thối",
-        "definition": "to have a very bad smell",
-        "ex_of_definition_list": [
-          "That fish stinks",
-          "The house stinks of cats."
-        ]
-      },
-      {
-        "mean_english": "mùi khó chịu, hôi thối",
-        "definition": "a very bad smell",
-        "ex_of_definition_list": [
-          "What a stink!"
-        ]
-      }
+    "hash_code_list_img": "923439998",
+    "list_example": [
+      "That fish stinks",
+      "The house stinks of cats.",
+      "What a stink!",
+      "Does he not agree that this rising cry of stinking fish is somewhat discreditable?",
+      "I see no mention of the problem of stinking.",
+      "The risk-reward of methodology stinks.",
+      "I know that many farmers go on to silage, but silage stinks and it is mucky.",
+      "I would hate to see our estuary become a stinking drain.",
+      "They are leaving that stinking and sinking ship so fast it is unbelievable.",
+      "I know the stinking miserable feeling in one's belly when one cannot provide the wherewithal for one's children.",
+      "If we were to hear it at all, we might have heard it, as it were, fresh instead of stinking."
     ],
-    "hash_code_list_definition_mean": "745544963"
+    "hash_code_list_example": "-1039349907"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/stir_cb_dmean_5000_it.json",
@@ -1581,41 +1050,11 @@
         "id_image": "stir_5158727"
       }
     ],
-    "hash_code_list_img": "-233782171",
-    "list_definition_mean": [
-      {
-        "mean_english": "khuấy, quấy",
-        "definition": "to cause (a liquid stir) to be mixed especially by the constant circular movement of a spoon etc, in order to mix it",
-        "ex_of_definition_list": [
-          "He put sugar and milk into his tea and stirred it",
-          "She stirred the sugar into the mixture."
-        ]
-      },
-      {
-        "mean_english": "làm lay động, chuyển động",
-        "definition": "to move, either slightly or vigorously",
-        "ex_of_definition_list": [
-          "The breeze stirred her hair",
-          "He stirred in his sleep",
-          "Come on – stir yourselves!"
-        ]
-      },
-      {
-        "mean_english": "kích thích, kích động",
-        "definition": "to arouse or touch (a person or his feelings)",
-        "ex_of_definition_list": [
-          "He was stirred by her story."
-        ]
-      },
-      {
-        "mean_english": "sự xôn xao",
-        "definition": "a fuss or disturbance",
-        "ex_of_definition_list": [
-          "The news caused a stir."
-        ]
-      }
+    "hash_code_list_img": "-1550510049",
+    "list_example": [
+      "Come on – stir yourselves!"
     ],
-    "hash_code_list_definition_mean": "-371322645"
+    "hash_code_list_example": "1864725855"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/stitch_cb_dmean_5000_it.json",
@@ -1641,41 +1080,14 @@
         "id_image": "stitch_2927914"
       }
     ],
-    "hash_code_list_img": "1552961374",
-    "list_definition_mean": [
-      {
-        "mean_english": "mũi khâu, mũi đan",
-        "definition": "a loop made in thread, wool etc by a needle in sewing or knitting",
-        "ex_of_definition_list": [
-          "She sewed the hem with small, neat stitches",
-          "Bother! I’ve dropped a stitch."
-        ]
-      },
-      {
-        "mean_english": "vết chỉ, đường may",
-        "definition": "a type of stitch forming a particular pattern in sewing, knitting etc",
-        "ex_of_definition_list": [
-          "The cloth was edged in blanket stitch",
-          "The jersey was knitted in stocking stitch."
-        ]
-      },
-      {
-        "mean_english": "sự đau xóc hông",
-        "definition": "a sharp pain in a person’s side caused by eg running",
-        "ex_of_definition_list": [
-          "I’ve got a stitch."
-        ]
-      },
-      {
-        "mean_english": "khâu, may, đính, đơm",
-        "definition": "to sew or put stitches into",
-        "ex_of_definition_list": [
-          "She stitched the two pieces together",
-          "I stitched the button on."
-        ]
-      }
+    "hash_code_list_img": "1709769139",
+    "list_example": [
+      "A scan at this time showing funnelling down to the stitch or a reduced cervical length was predictive of preterm delivery.",
+      "How to stitch these modalities into a durable fabric?",
+      "Good anchoring of the stitch on all aspects of the cervix is therefore important.",
+      "A suction curette was used to extract the placenta leaving the stitch in place."
     ],
-    "hash_code_list_definition_mean": "-578136091"
+    "hash_code_list_example": "-1118692078"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/stock_cb_dmean_5000_it.json",
@@ -1711,68 +1123,15 @@
         "id_image": "stock_819483"
       }
     ],
-    "hash_code_list_img": "-1034007552",
-    "list_definition_mean": [
-      {
-        "mean_english": "kho dự trữ",
-        "definition": "a store of goods in a shop, warehouse etc",
-        "ex_of_definition_list": [
-          "Buy while stocks last!",
-          "The tools you require are in / out of stock (= available / not available)."
-        ]
-      },
-      {
-        "mean_english": "hàng dự trữ",
-        "definition": "a supply of something",
-        "ex_of_definition_list": [
-          "We bought a large stock of food for the camping trip."
-        ]
-      },
-      {
-        "mean_english": "vật nuôi",
-        "definition": "farm animals",
-        "ex_of_definition_list": [
-          "He would like to purchase more (live) stock."
-        ]
-      },
-      {
-        "mean_english": "công trái",
-        "definition": "money lent to the government or to a business company at a fixed interest",
-        "ex_of_definition_list": [
-          "government stock",
-          "He has $20,000 in stocks and shares."
-        ]
-      },
-      {
-        "mean_english": "nước hầm xương",
-        "definition": "liquid obtained by boiling meat, bones etc and used for making soup etc",
-        "ex_of_definition_list": [
-          "beef/vegetable stock."
-        ]
-      },
-      {
-        "mean_english": "thường dùng, thông thường",
-        "definition": "common; usual",
-        "ex_of_definition_list": [
-          "stock sizes of shoes."
-        ]
-      },
-      {
-        "mean_english": "cung cấp",
-        "definition": "to keep a supply of for sale",
-        "ex_of_definition_list": [
-          "Does this shop stock writing-paper?"
-        ]
-      },
-      {
-        "mean_english": "tích trữ vào kho",
-        "definition": "to supply (a shop, farm etc) with goods, animals etc",
-        "ex_of_definition_list": [
-          "He cannot afford to stock his farm."
-        ]
-      }
+    "hash_code_list_img": "584176569",
+    "list_example": [
+      "The tools you require are in / out of stock (= available / not available).",
+      "We bought a large stock of food for the camping trip.",
+      "stock sizes of shoes.",
+      "Does this shop stock writing-paper?",
+      "He cannot afford to stock his farm."
     ],
-    "hash_code_list_definition_mean": "-286469515"
+    "hash_code_list_example": "1319100447"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/stomachache_cb_dmean_5000_it.json",
@@ -1795,17 +1154,11 @@
         "id_image": "stomachache_5730153"
       }
     ],
-    "hash_code_list_img": "-1552559459",
-    "list_definition_mean": [
-      {
-        "mean_english": "đau bụng, dạ dày",
-        "definition": "a pain in the belly",
-        "ex_of_definition_list": [
-          "She’s been suffering from a severe stomachache."
-        ]
-      }
+    "hash_code_list_img": "895919373",
+    "list_example": [
+      "For example, a stomachache caused by overeating is not evidence of a disease."
     ],
-    "hash_code_list_definition_mean": "1735145316"
+    "hash_code_list_example": "-3668235"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/stomach_cb_dmean_5000_it.json",
@@ -1829,17 +1182,19 @@
         "id_image": "stomach_5180552"
       }
     ],
-    "hash_code_list_img": "-1391610776",
-    "list_definition_mean": [
-      {
-        "mean_english": "dạ dày",
-        "definition": "the bag-like organ in the body into which food passes when swallowed, and where most of it is digested",
-        "ex_of_definition_list": [
-          "a pain in the stomach."
-        ]
-      }
+    "hash_code_list_img": "392555621",
+    "list_example": [
+      "a pain in the stomach.",
+      "In any case we should be pouring the milk into the stomachs of the people instead of into the factories.",
+      "In some abattoirs, inspectors will examine \"green offal\"—stomachs and intestines—and in others they will not.",
+      "Only a short time later our stomachs have heaved again with a fresh sense of outrage.",
+      "In poor areas where very little can be spent on medical treatment, questions of intravenous feeding and operations putting tubes into people's stomachs never arise.",
+      "We ought to be addressing these questions and stop thinking we can help these people fill their stomachs simply by opening the borders.",
+      "They were not fit for youthful stomachs, so no steps were taken to distribute them to the children in the vicinity of the dockyard.",
+      "Frequency of arthropods in stomachs of tropical hummingbirds.",
+      "The majority of stomachs examined are empty, while remains from scats permit identification of prey only in broad taxonomic terms and do not include more digestible prey items."
     ],
-    "hash_code_list_definition_mean": "310737349"
+    "hash_code_list_example": "-977278591"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/stone_cb_dmean_5000_it.json",
@@ -1875,80 +1230,14 @@
         "id_image": "stone_826917"
       }
     ],
-    "hash_code_list_img": "-1876500531",
-    "list_definition_mean": [
-      {
-        "mean_english": "đá",
-        "definition": "(also adjective) (of) the material of which rocks are composed",
-        "ex_of_definition_list": [
-          "limestone",
-          "sandstone",
-          "a stone house",
-          "stone walls",
-          "In early times, men made tools out of stone."
-        ]
-      },
-      {
-        "mean_english": "cục đá có bất kì hình dáng nào",
-        "definition": "a piece of this, of any shape or size",
-        "ex_of_definition_list": [
-          "He threw a stone at the dog."
-        ]
-      },
-      {
-        "mean_english": "hòn đá được đục, đẽo để dùng vào một mục đích riêng",
-        "definition": "a piece of this shaped for a special purpose",
-        "ex_of_definition_list": [
-          "a tombstone",
-          "paving-stones",
-          "a grindstone."
-        ]
-      },
-      {
-        "mean_english": "đá quý, ngọc",
-        "definition": "a gem or jewel",
-        "ex_of_definition_list": [
-          "She lost the stone out of her ring",
-          "diamonds, rubies and other stones."
-        ]
-      },
-      {
-        "mean_english": "hạt",
-        "definition": "the hard shell containing the nut or seed in some fruits eg peaches and cherries",
-        "ex_of_definition_list": [
-          "a cherry-stone."
-        ]
-      },
-      {
-        "mean_english": "xtôn",
-        "definition": "a measure of weight still used in Britain, equal to 6.35 kilogrammes",
-        "ex_of_definition_list": [
-          "She weighs 9.5 stone."
-        ]
-      },
-      {
-        "mean_english": "sỏi",
-        "definition": "a piece of hard material that forms in the kidney, bladder etc and causes pain",
-        "ex_of_definition_list": [
-          "a kidney stone"
-        ]
-      },
-      {
-        "mean_english": "ném đá vào ai, nói xấu, vu cáo",
-        "definition": "to throw stones at, especially as a ritual punishment",
-        "ex_of_definition_list": [
-          "Saint Stephen was stoned to death."
-        ]
-      },
-      {
-        "mean_english": "lấy hạt ra",
-        "definition": "to remove the stones from (fruit)",
-        "ex_of_definition_list": [
-          "She washed and stoned the cherries."
-        ]
-      }
+    "hash_code_list_img": "-814506043",
+    "list_example": [
+      "a stone house",
+      "stone walls",
+      "He threw a stone at the dog.",
+      "She lost the stone out of her ring"
     ],
-    "hash_code_list_definition_mean": "-549329064"
+    "hash_code_list_example": "1356286308"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/stool_cb_dmean_5000_it.json",
@@ -1971,18 +1260,15 @@
         "id_image": "stool_1930598"
       }
     ],
-    "hash_code_list_img": "2012391162",
-    "list_definition_mean": [
-      {
-        "mean_english": "ghế đẩu",
-        "definition": "a seat without a back",
-        "ex_of_definition_list": [
-          "a piano-stool",
-          "a kitchen stool."
-        ]
-      }
+    "hash_code_list_img": "97211279",
+    "list_example": [
+      "In addition, 22 potassium-dichromate-preserved stool specimens from symptomatic patients were examined.",
+      "The nucleotide sequence of the amplicon from the water was identical to those determined from the three stool specimens for which sequencing was performed.",
+      "We describe changes in stool specimen sensitivity for poliovirus isolation during a time when wild poliovirus transmission has been rapidly declining.",
+      "Questionnaires and stool samples from cases and controls were collected on the day of consultation.",
+      "Four weeks after praziquantel treatment, the stool collection and examination procedure was repeated."
     ],
-    "hash_code_list_definition_mean": "1277760425"
+    "hash_code_list_example": "-958016218"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/stop_cb_dmean_5000_it.json",
@@ -2015,80 +1301,16 @@
         "id_image": "stop_2767760"
       }
     ],
-    "hash_code_list_img": "687815144",
-    "list_definition_mean": [
-      {
-        "mean_english": "dừng , ngừng lại",
-        "definition": "to (make something) cease moving, or come to rest, a halt etc",
-        "ex_of_definition_list": [
-          "He stopped the car and got out",
-          "This train does not stop at Birmingham",
-          "He stopped to look at the map",
-          "He signalled with his hand to stop the bus."
-        ]
-      },
-      {
-        "mean_english": "chặn, ngăn chặn",
-        "definition": "to prevent from doing something",
-        "ex_of_definition_list": [
-          "We must stop him (from) going",
-          "I was going to say something rude but stopped myself just in time."
-        ]
-      },
-      {
-        "mean_english": "ngừng, thôi",
-        "definition": "to discontinue or cease eg doing something",
-        "ex_of_definition_list": [
-          "That woman just can’t stop talking",
-          "The rain has stopped",
-          "It has stopped raining."
-        ]
-      },
-      {
-        "mean_english": "bịt lại, nút lại",
-        "definition": "to block or close",
-        "ex_of_definition_list": [
-          "He stopped his ears with his hands when she started to shout at him."
-        ]
-      },
-      {
-        "mean_english": "lưu lại ở lại",
-        "definition": "to stay",
-        "ex_of_definition_list": [
-          "Will you be stopping long at the hotel?"
-        ]
-      },
-      {
-        "mean_english": "sự ở lại, sự lưu lại",
-        "definition": "an act of stopping or state of being stopped",
-        "ex_of_definition_list": [
-          "We made only two stops on our journey",
-          "Work came to a stop for the day."
-        ]
-      },
-      {
-        "mean_english": "bến xe",
-        "definition": "a place for eg a bus to stop",
-        "ex_of_definition_list": [
-          "a bus stop."
-        ]
-      },
-      {
-        "mean_english": "dấu chấm câu",
-        "definition": "in punctuation, a full stop",
-        "ex_of_definition_list": [
-          "Put a stop at the end of the sentence."
-        ]
-      },
-      {
-        "mean_english": "cái nêm",
-        "definition": "a device, eg a wedge etc, for stopping the movement of something, or for keeping it in a fixed position",
-        "ex_of_definition_list": [
-          "a door-stop."
-        ]
-      }
+    "hash_code_list_img": "786150287",
+    "list_example": [
+      "This train does not stop at Birmingham",
+      "He signalled with his hand to stop the bus.",
+      "We must stop him (from) going",
+      "That woman just can’t stop talking",
+      "Work came to a stop for the day.",
+      "Put a stop at the end of the sentence."
     ],
-    "hash_code_list_definition_mean": "-1478366079"
+    "hash_code_list_example": "722739368"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/storage_cb_dmean_5000_it.json",
@@ -2116,18 +1338,18 @@
         "id_image": "storage_4944329"
       }
     ],
-    "hash_code_list_img": "-607486852",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự xếp vào kho",
-        "definition": "the act of storing or state of being stored",
-        "ex_of_definition_list": [
-          "We’ve put our furniture into storage at a warehouse",
-          "The meat will have to be kept in cold storage (= stored under refrigeration)."
-        ]
-      }
+    "hash_code_list_img": "1586051774",
+    "list_example": [
+      "We’ve put our furniture into storage at a warehouse",
+      "The meat will have to be kept in cold storage (= stored under refrigeration).",
+      "The assumptions which are required because of the two scale effects become less crucial as computer speed and storage capacity increase.",
+      "Farmers were asked to rate (as good, fair or bad) storage behaviour in terms of keeping quality and tolerance to insect pests.",
+      "Can the phonological storage framework handle these data?",
+      "The store is not structured as a stack because storage can be allocated at any time during action performance.",
+      "The examination of rehearsal as a recall strategy - in particular, a storage strategy - has produced a large literature.",
+      "The first rule avoids cluttering up the key with identifiers that account for only a small fraction of the total storage allocated."
     ],
-    "hash_code_list_definition_mean": "1171931340"
+    "hash_code_list_example": "-321655994"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/storehouse_cb_dmean_5000_it.json",
@@ -2155,17 +1377,18 @@
         "id_image": "storehouse_5439106"
       }
     ],
-    "hash_code_list_img": "-912247962",
-    "list_definition_mean": [
-      {
-        "mean_english": "buồng kho",
-        "definition": "a place or room where goods etc are stored",
-        "ex_of_definition_list": [
-          "There is a storeroom behind the shop."
-        ]
-      }
+    "hash_code_list_img": "-377967269",
+    "list_example": [
+      "On the other hand, they have some positive features, they are environmental storehouses, repositories of historical and cultural traditions, and all of that must be conserved.",
+      "They could have increased their supply enormously if they could only set up the machinery which they have now lying idle in their storehouses—machinery which takes months to turn out.",
+      "The detached military post included a variety of barracks, quarters, storehouses etc.",
+      "We want to build up collections outside these vast storehouses in the middle of towns, which are incredibly difficult to house.",
+      "They are rich storehouses of memories and reveries.",
+      "Other sorts of storehouses such as outbuildings (\"naya\") and sheds (\"koya\") were used to store more mundane items.",
+      "Within the stockade were wood framed one story buildings including the barracks, storehouses, officers quarters, mess hall, kitchen and bakery.",
+      "Positional warfare played a wide variety of roles: fortresses controlled bridgeheads and passes, guarded supply routes, and served as storehouses and magazines."
     ],
-    "hash_code_list_definition_mean": "661775648"
+    "hash_code_list_example": "-43212983"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/store_cb_dmean_5000_it.json",
@@ -2198,54 +1421,14 @@
         "id_image": "store_407810"
       }
     ],
-    "hash_code_list_img": "1007488126",
-    "list_definition_mean": [
-      {
-        "mean_english": "khối lượng dự trữ",
-        "definition": "a supply of eg goods from which things are taken when required",
-        "ex_of_definition_list": [
-          "They took a store of dried and canned food on the expedition",
-          "The quartermaster is the officer in charge of stores."
-        ]
-      },
-      {
-        "mean_english": "sự có nhiều, dồi dào",
-        "definition": "a (large) collected amount or quantity",
-        "ex_of_definition_list": [
-          "He has a store of interesting facts in his head."
-        ]
-      },
-      {
-        "mean_english": "nhà kho",
-        "definition": "a place where a supply of goods etc is kept; a storehouse or storeroom",
-        "ex_of_definition_list": [
-          "It’s in the store(s)."
-        ]
-      },
-      {
-        "mean_english": "cửa hàng, cửa hiệu",
-        "definition": "a shop",
-        "ex_of_definition_list": [
-          "The post office here is also the village store",
-          "a department store."
-        ]
-      },
-      {
-        "mean_english": "cất giữ",
-        "definition": "to put into a place for keeping",
-        "ex_of_definition_list": [
-          "We stored our furniture in the attic while the tenants used our house."
-        ]
-      },
-      {
-        "mean_english": "tích trữ, để dành",
-        "definition": "to stock (a place etc) with goods etc",
-        "ex_of_definition_list": [
-          "The museum is stored with interesting exhibits."
-        ]
-      }
+    "hash_code_list_img": "-112460304",
+    "list_example": [
+      "They took a store of dried and canned food on the expedition",
+      "He has a store of interesting facts in his head.",
+      "The thermal mass in superinsulated housing is not able to store all this solar energy, so the useful solar gains are greatly reduced.",
+      "Sufficient practice may enable the poor readers to gradually store the orthographic form into memory and rely on direct recognition at the time of posttesting."
     ],
-    "hash_code_list_definition_mean": "845350476"
+    "hash_code_list_example": "967578968"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/stormy_cb_dmean_5000_it.json",
@@ -2269,27 +1452,23 @@
         "id_image": "stormy_3217141"
       }
     ],
-    "hash_code_list_img": "223903004",
-    "list_definition_mean": [
-      {
-        "mean_english": "có bão",
-        "definition": "having a lot of strong wind, heavy rain etc",
-        "ex_of_definition_list": [
-          "a stormy day",
-          "stormy weather",
-          "a stormy voyage."
-        ]
-      },
-      {
-        "mean_english": "ào ạt , sôi nổi",
-        "definition": "full of anger or uncontrolled feeling",
-        "ex_of_definition_list": [
-          "in a stormy mood",
-          "a stormy discussion."
-        ]
-      }
+    "hash_code_list_img": "-2042119706",
+    "list_example": [
+      "a stormy day",
+      "stormy weather",
+      "a stormy voyage.",
+      "in a stormy mood",
+      "a stormy discussion.",
+      "We have had a quiet debate after a rather stormy start.",
+      "We are now moving from the stormy waters of reform into the relative calm of consolidation.",
+      "We have the same problem in this country, and the position of the denominational schools has a very long and stormy history.",
+      "If you face unknown dangers, stormy turbulent seas which may toss you one way or another—and you are not sure which—you do two things.",
+      "The men finally involved in the fighting had been at sea for many weeks in stormy seas living in cramped conditions.",
+      "I have attended many meetings of miners at election times which have been much more stormy than this gathering.",
+      "Flax canvas is much nicer to handle in wet stormy weather than is cotton, which is horrible, or man-made polyester, which deteriorates in bright sunlight.",
+      "The captain came to the conclusion that he had taken a wrong turn and walked into the sea on a particularly stormy night."
     ],
-    "hash_code_list_definition_mean": "1243179837"
+    "hash_code_list_example": "2063554513"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/storm_cb_dmean_5000_it.json",
@@ -2326,49 +1505,13 @@
         "id_image": "storm_4968471"
       }
     ],
-    "hash_code_list_img": "601281813",
-    "list_definition_mean": [
-      {
-        "mean_english": "cơn giông tố, bão",
-        "definition": "a violent disturbance in the air causing wind, rain, thunder etc",
-        "ex_of_definition_list": [
-          "a rainstorm",
-          "a thunderstorm",
-          "a storm at sea",
-          "The roof was damaged by the storm."
-        ]
-      },
-      {
-        "mean_english": "cơn, trận",
-        "definition": "a violent outbreak of feeling etc",
-        "ex_of_definition_list": [
-          "A storm of anger greeted his speech",
-          "a storm of applause."
-        ]
-      },
-      {
-        "mean_english": "quát tháo",
-        "definition": "to shout very loudly and angrily",
-        "ex_of_definition_list": [
-          "He stormed at her."
-        ]
-      },
-      {
-        "mean_english": "xông vào, lao ra",
-        "definition": "to move or stride in an angry manner",
-        "ex_of_definition_list": [
-          "He stormed out of the room."
-        ]
-      },
-      {
-        "mean_english": "đột chiếm",
-        "definition": "(of soldiers etc) to attack with great force, and capture (a building etc)",
-        "ex_of_definition_list": [
-          "They stormed the castle."
-        ]
-      }
+    "hash_code_list_img": "-1906566646",
+    "list_example": [
+      "a storm at sea",
+      "A storm of anger greeted his speech",
+      "a storm of applause."
     ],
-    "hash_code_list_definition_mean": "1633209725"
+    "hash_code_list_example": "-1235018227"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/story_cb_dmean_5000_it.json",
@@ -2397,30 +1540,16 @@
         "id_image": "story_306127"
       }
     ],
-    "hash_code_list_img": "-229245971",
-    "list_definition_mean": [
-      {
-        "mean_english": "câu chuyện",
-        "definition": "an account of an event, or series of events, real or imaginary",
-        "ex_of_definition_list": [
-          "the story of the disaster",
-          "the story of his life",
-          "He went to the police with his story",
-          "What sort of stories do boys aged 10 like?",
-          "adventure/murder/love stories",
-          "a story-book",
-          "He’s a good story-teller."
-        ]
-      },
-      {
-        "mean_english": "lời nói dối",
-        "definition": "(used especially to children) a lie",
-        "ex_of_definition_list": [
-          "Don’t tell stories!"
-        ]
-      }
+    "hash_code_list_img": "2107241292",
+    "list_example": [
+      "the story of the disaster",
+      "the story of his life",
+      "The story of his inability to keep silent after this abjuration has been told many times.",
+      "There is, however, another story to be told.",
+      "However, they propose that ultimately the story schema becomes an amalgam of these two sources which either condenses or ignores many aspects of experiential knowledge.",
+      "The main appeal of the correspondence to the modern reader is that it tells the story so well."
     ],
-    "hash_code_list_definition_mean": "1595853104"
+    "hash_code_list_example": "1416745449"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/stout_cb_dmean_5000_it.json",
@@ -2446,39 +1575,14 @@
         "id_image": "stout_2534088"
       }
     ],
-    "hash_code_list_img": "-1950839792",
-    "list_definition_mean": [
-      {
-        "mean_english": "khỏe, bền",
-        "definition": "strong or thick",
-        "ex_of_definition_list": [
-          "a stout stick."
-        ]
-      },
-      {
-        "mean_english": "dũng cảm",
-        "definition": "brave and resolute",
-        "ex_of_definition_list": [
-          "stout resistance",
-          "stout opposition."
-        ]
-      },
-      {
-        "mean_english": "mập mạp",
-        "definition": "fat",
-        "ex_of_definition_list": [
-          "He’s getting stout."
-        ]
-      },
-      {
-        "mean_english": "loại bia đen, nặng",
-        "definition": "a dark, strong type of beer",
-        "ex_of_definition_list": [
-          "a bottle of stout."
-        ]
-      }
+    "hash_code_list_img": "-545368533",
+    "list_example": [
+      "a stout stick.",
+      "stout resistance",
+      "stout opposition.",
+      "The body is densely covered with stout spines or hooks, which are directed posteriorly."
     ],
-    "hash_code_list_definition_mean": "-678547211"
+    "hash_code_list_example": "1887103528"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/stove_cb_dmean_5000_it.json",
@@ -2506,18 +1610,12 @@
         "id_image": "stove_904613"
       }
     ],
-    "hash_code_list_img": "974224129",
-    "list_definition_mean": [
-      {
-        "mean_english": "bếp lò, lò sưởi",
-        "definition": "an apparatus using coal, gas, electricity or other fuel, used for cooking, or for heating a room",
-        "ex_of_definition_list": [
-          "a gas/electric (cooking) stove",
-          "Put the saucepan on the stove."
-        ]
-      }
+    "hash_code_list_img": "1814553982",
+    "list_example": [
+      "a gas/electric (cooking) stove",
+      "Put the saucepan on the stove."
     ],
-    "hash_code_list_definition_mean": "1042244407"
+    "hash_code_list_example": "1515218000"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/straighten_cb_dmean_5000_it.json",
@@ -2545,18 +1643,20 @@
         "id_image": "straighten_4215440"
       }
     ],
-    "hash_code_list_img": "-1079869427",
-    "list_definition_mean": [
-      {
-        "mean_english": "làm cho thẳng",
-        "definition": "to make or become straight",
-        "ex_of_definition_list": [
-          "He straightened his tie",
-          "The road curved and then straightened."
-        ]
-      }
+    "hash_code_list_img": "-1908999611",
+    "list_example": [
+      "He straightened his tie",
+      "The road curved and then straightened.",
+      "The matter needs straightening out, and it is about time that something was done to put them on a par.",
+      "They are playing about straightening a corner, but this is a shocking road from the point of view of alignment and narrowness.",
+      "Is he further aware that there is occasionally a delay in the straightening out of the needs between the two granting authorities.",
+      "I should like to know how effectively these things have been straightened out.",
+      "I know of no policy of widening and straightening all by-roads.",
+      "I think we had better get it straightened out; it is to our mutual advantage to do so.",
+      "Are we to assume that the whole world has got to be straightened out before we abolish conscription in this country?",
+      "Meanwhile, he spared no effeort in straightening up the administrative and militiary affairs in the area."
     ],
-    "hash_code_list_definition_mean": "9429107"
+    "hash_code_list_example": "-1765204770"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/straight_cb_dmean_5000_it.json",
@@ -2594,85 +1694,18 @@
         "id_image": "straight_214258"
       }
     ],
-    "hash_code_list_img": "649179713",
-    "list_definition_mean": [
-      {
-        "mean_english": "thẳng",
-        "definition": "not bent or curved",
-        "ex_of_definition_list": [
-          "a straight line",
-          "straight (= not curly) hair",
-          "That line is not straight."
-        ]
-      },
-      {
-        "mean_english": "trung thực, thật thà",
-        "definition": "(of a person, his behaviour/behavior etc) honest, frank and direct",
-        "ex_of_definition_list": [
-          "Give me a straight answer!"
-        ]
-      },
-      {
-        "mean_english": "ngay ngắn, phẳng",
-        "definition": "properly or levelly positioned",
-        "ex_of_definition_list": [
-          "Your tie isn’t straight."
-        ]
-      },
-      {
-        "mean_english": "gọn gàng, ngăn nắp",
-        "definition": "correct and tidy",
-        "ex_of_definition_list": [
-          "I’ll never get this house straight!",
-          "Now let’s get the facts straight!"
-        ]
-      },
-      {
-        "mean_english": "không phức tạp",
-        "definition": "(of drinks) not mixed",
-        "ex_of_definition_list": [
-          "a straight gin."
-        ]
-      },
-      {
-        "mean_english": "nghiêm nghị, không cười",
-        "definition": "(of a face, expression etc) not smiling or laughing",
-        "ex_of_definition_list": [
-          "You should keep a straight face while you tell a joke."
-        ]
-      },
-      {
-        "mean_english": "trực tiếp, thẳng",
-        "definition": "in a straight, not curved, line; directly",
-        "ex_of_definition_list": [
-          "His route went straight across the desert",
-          "She can’t steer straight",
-          "Keep straight on."
-        ]
-      },
-      {
-        "mean_english": "thẳng, một mạch",
-        "definition": "immediately, without any delay",
-        "ex_of_definition_list": [
-          "He went straight home after the meeting."
-        ]
-      },
-      {
-        "mean_english": "trung thực và thành thật",
-        "definition": "honestly or fairly",
-        "ex_of_definition_list": [
-          "You’re not playing (= behaving) straight."
-        ]
-      },
-      {
-        "mean_english": "chỗ thẳng",
-        "definition": "the straight part of something, eg of a racecourse",
-        "ex_of_definition_list": [
-          "He’s in the final straight."
-        ]
-      }
+    "hash_code_list_img": "-40787165",
+    "list_example": [
+      "a straight line",
+      "straight (= not curly) hair",
+      "Give me a straight answer!",
+      "a straight gin.",
+      "You should keep a straight face while you tell a joke.",
+      "His route went straight across the desert",
+      "Keep straight on.",
+      "He went straight home after the meeting."
     ],
-    "hash_code_list_definition_mean": "1981891967"
+    "hash_code_list_example": "-1427324738"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/strainer_cb_dmean_5000_it.json",
@@ -2695,17 +1728,16 @@
         "id_image": "strainer_5304821"
       }
     ],
-    "hash_code_list_img": "1901555068",
-    "list_definition_mean": [
-      {
-        "mean_english": "thiết bị lọc",
-        "definition": "a sieve or other utensil for separating solids from liquids",
-        "ex_of_definition_list": [
-          "a coffee-/tea-strainer."
-        ]
-      }
+    "hash_code_list_img": "-964176704",
+    "list_example": [
+      "Is it meant to be a strainer through which the pupils have to pass in order to go from one step in education to a higher step?",
+      "Now, take an old spaghetti strainer and put all the wet lift powder into it and squeeze it out onto a paper plate.",
+      "Simple basket strainer is used to protect valuable or sensitive equipment in systems that is meant to be shut down temporarily.",
+      "The mould is usually a wire mesh that acts as a strainer such that the \"furnish\" is separated out of the water.",
+      "The only abnormality found in all four engines was the vapour vent float in the fuel strainer chamber of the carburettors.",
+      "As they hold a cup over the forward edge of a bowl, the mixer squeezes the kava from the restored \"fau\" strainer into it."
     ],
-    "hash_code_list_definition_mean": "1176081720"
+    "hash_code_list_example": "-1542138803"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/stranger_cb_dmean_5000_it.json",
@@ -2729,23 +1761,11 @@
         "id_image": "stranger_5783745"
       }
     ],
-    "hash_code_list_img": "531406067",
-    "list_definition_mean": [
-      {
-        "mean_english": "người lạ",
-        "definition": "a person who is unknown to oneself",
-        "ex_of_definition_list": [
-          "I’ve met her once before, so she’s not a complete stranger (to me)."
-        ]
-      },
-      {
-        "mean_english": "người xa lạ",
-        "definition": "a visitor",
-        "ex_of_definition_list": [
-          "I can’t tell you where the post office is – I’m a stranger here myself."
-        ]
-      }
+    "hash_code_list_img": "811791499",
+    "list_example": [
+      "I’ve met her once before, so she’s not a complete stranger (to me).",
+      "I can’t tell you where the post office is – I’m a stranger here myself."
     ],
-    "hash_code_list_definition_mean": "192152878"
+    "hash_code_list_example": "-1128246469"
   }
 ]

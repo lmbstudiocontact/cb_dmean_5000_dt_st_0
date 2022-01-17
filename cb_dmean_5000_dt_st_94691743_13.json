@@ -30,17 +30,11 @@
         "id_image": "hinge_1678224"
       }
     ],
-    "hash_code_list_img": "-1814512875",
-    "list_definition_mean": [
-      {
-        "mean_english": "bản lề",
-        "definition": "the joint by means of which a door is fastened to a door-frame, a lid is fastened to a box etc and on which the door, lid etc turns when it opens or closes",
-        "ex_of_definition_list": [
-          "I must oil the hinges."
-        ]
-      }
+    "hash_code_list_img": "-1131512023",
+    "list_example": [
+      "So, it looks as if popularity butters the parsnips of management theory, and that popularity does not hinge on a robust evidence base."
     ],
-    "hash_code_list_definition_mean": "1492909850"
+    "hash_code_list_example": "-1783256620"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hire_cb_dmean_5000_it.json",
@@ -70,41 +64,13 @@
         "id_image": "hire_4091272"
       }
     ],
-    "hash_code_list_img": "1834648817",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuê",
-        "definition": "(often with from) to get the use of by paying money",
-        "ex_of_definition_list": [
-          "He’s hiring a car (from us) for the week."
-        ]
-      },
-      {
-        "mean_english": "cho thuê",
-        "definition": "(often with out) to give (someone) the use of in exchange for money",
-        "ex_of_definition_list": [
-          "Will you hire me your boat for the week-end?",
-          "Does this firm hire out cars?"
-        ]
-      },
-      {
-        "mean_english": "thuê",
-        "definition": "to employ (a workman etc)",
-        "ex_of_definition_list": [
-          "They have hired a team of labourers/laborers to dig the road."
-        ]
-      },
-      {
-        "mean_english": "tiền thuê",
-        "definition": "(money paid for) hiring",
-        "ex_of_definition_list": [
-          "Is this hall for hire?",
-          "How much is the hire of the hall?",
-          "We don’t own this crane – it’s on hire."
-        ]
-      }
+    "hash_code_list_img": "2063369042",
+    "list_example": [
+      "Will you hire me your boat for the week-end?",
+      "Does this firm hire out cars?",
+      "How much is the hire of the hall?"
     ],
-    "hash_code_list_definition_mean": "971044691"
+    "hash_code_list_example": "720864071"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/historical_cb_dmean_5000_it.json",
@@ -138,25 +104,20 @@
         "id_image": "historical_5234418"
       }
     ],
-    "hash_code_list_img": "367705200",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc lịch sử",
-        "definition": "of or about history; of or about people or events from history",
-        "ex_of_definition_list": [
-          "historical research",
-          "historical novels."
-        ]
-      },
-      {
-        "mean_english": "có thật trong lịch sử",
-        "definition": "that actually happened or existed, not legendary or mythical",
-        "ex_of_definition_list": [
-          "Was Shakespeare’s character Macbeth a historical person?"
-        ]
-      }
+    "hash_code_list_img": "687525476",
+    "list_example": [
+      "historical research",
+      "historical novels.",
+      "Was Shakespeare’s character Macbeth a historical person?",
+      "According to historical records, their per formance involved a concer ted action by members of the community.",
+      "To answer this question, it is first necessary to examine the historical development of not and the constraints on its contracted form.",
+      "Given the historical data record, our agents' beliefs can always be made consistent with the data.",
+      "The paper is at its best when searching for a definition of the villa as a type, and placing it within a historical context.",
+      "We have reported the findings because the data are likely to be more similar than evidence from historical comparison groups.",
+      "They do, however, provide an excellent overview of the historical and theoretical basis of many interventions with older adults.",
+      "Here we combine historical and geographical research methods to investigate a neglected source of contention-that of property held by the church."
     ],
-    "hash_code_list_definition_mean": "-1804355369"
+    "hash_code_list_example": "-263295601"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/historic_cb_dmean_5000_it.json",
@@ -174,17 +135,19 @@
         "id_image": "historic_5234385"
       }
     ],
-    "hash_code_list_img": "1402712658",
-    "list_definition_mean": [
-      {
-        "mean_english": "nổi tiếng trong lịch sử",
-        "definition": "famous or important in history",
-        "ex_of_definition_list": [
-          "a historic battle."
-        ]
-      }
+    "hash_code_list_img": "1383947879",
+    "list_example": [
+      "a historic battle.",
+      "The choice has been problematic and those familiar with the historic issues of the journal may search in vain for their favourites.",
+      "Because street vendors were required to form associations, the author argues that this established a historic base for political organising.",
+      "Remarkable for its natural beauty, its past fertility, its historic landmarks, and its potential for investment, the small collection of villages stood in virtual ruin.",
+      "The chemicals caused a slow degradation of wood, and the process was allowed to continue unchecked because the laboratory is a protected historic building.",
+      "All buildings and relics from that time are now commonly viewed as historic items to be preserved in situ so that their context is maintained.",
+      "Indeed, these incongruities were sufficiently extensive to obscure even a pandemic of historic proportion.",
+      "Farmers received direct payments based on their historic production (acreage and yields) rather than their current production10.",
+      "These are the outcome of historic patterns of immigration and colonial rule that both pull apar t and push together the island's various ethnic groups."
     ],
-    "hash_code_list_definition_mean": "585785456"
+    "hash_code_list_example": "1484807971"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/history_cb_dmean_5000_it.json",
@@ -219,32 +182,12 @@
         "id_image": "history_6258994"
       }
     ],
-    "hash_code_list_img": "905246471",
-    "list_definition_mean": [
-      {
-        "mean_english": "môn lịch sử",
-        "definition": "the study of events etc that happened in the past",
-        "ex_of_definition_list": [
-          "She is studying British history",
-          "(also adjective) a history lesson/book."
-        ]
-      },
-      {
-        "mean_english": "lịch sử",
-        "definition": "a description usually in writing of past events, ways of life etc",
-        "ex_of_definition_list": [
-          "I’m writing a history of Scotland."
-        ]
-      },
-      {
-        "mean_english": "quá trình lịch sử",
-        "definition": "(the description of) the usually interesting events etc associated with (something)",
-        "ex_of_definition_list": [
-          "This desk/word has a very interesting history."
-        ]
-      }
+    "hash_code_list_img": "613997940",
+    "list_example": [
+      "(also adjective) a history lesson/book.",
+      "I’m writing a history of Scotland."
     ],
-    "hash_code_list_definition_mean": "-12281198"
+    "hash_code_list_example": "311759440"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hit_cb_dmean_5000_it.json",
@@ -268,68 +211,23 @@
         "id_image": "hit_1477178"
       }
     ],
-    "hash_code_list_img": "666363522",
-    "list_definition_mean": [
-      {
-        "mean_english": "đánh, đấm, nện",
-        "definition": "to (cause or allow to) come into hard contact with",
-        "ex_of_definition_list": [
-          "The ball hit him on the head",
-          "He hit his head on/against a low branch",
-          "The car hit a lamp-post",
-          "He hit me on the head with a bottle",
-          "He was hit by a bullet",
-          "That boxer can certainly hit hard!"
-        ]
-      },
-      {
-        "mean_english": "đâm, đụng",
-        "definition": "to make hard contact with (something), and force or cause it to move in some direction",
-        "ex_of_definition_list": [
-          "The batsman hit the ball (over the wall)."
-        ]
-      },
-      {
-        "mean_english": "làm tổn thương, làm đau khổ",
-        "definition": "to cause to suffer",
-        "ex_of_definition_list": [
-          "The farmers were badly hit by the lack of rain",
-          "Her husband’s death hit her hard."
-        ]
-      },
-      {
-        "mean_english": "tìm ra, vớ được",
-        "definition": "to find; to succeed in reaching",
-        "ex_of_definition_list": [
-          "His second arrow hit the bull’s-eye",
-          "Take the path across the fields and you’ll hit the road",
-          "She used to be a famous soprano but she cannot hit the high notes now."
-        ]
-      },
-      {
-        "mean_english": "cú đánh; đòn",
-        "definition": "the act of hitting",
-        "ex_of_definition_list": [
-          "That was a good hit."
-        ]
-      },
-      {
-        "mean_english": "điểm ghi được",
-        "definition": "a point scored by hitting a target etc",
-        "ex_of_definition_list": [
-          "He scored five hits."
-        ]
-      },
-      {
-        "mean_english": "việc thành công",
-        "definition": "something which is popular or successful",
-        "ex_of_definition_list": [
-          "The play/record is a hit",
-          "(also adjective) a hit song."
-        ]
-      }
+    "hash_code_list_img": "1319406413",
+    "list_example": [
+      "The ball hit him on the head",
+      "He hit his head on/against a low branch",
+      "The car hit a lamp-post",
+      "He hit me on the head with a bottle",
+      "He was hit by a bullet",
+      "That boxer can certainly hit hard!",
+      "The batsman hit the ball (over the wall).",
+      "The farmers were badly hit by the lack of rain",
+      "Her husband’s death hit her hard.",
+      "His second arrow hit the bull’s-eye",
+      "Take the path across the fields and you’ll hit the road",
+      "She used to be a famous soprano but she cannot hit the high notes now.",
+      "(also adjective) a hit song."
     ],
-    "hash_code_list_definition_mean": "-1896558863"
+    "hash_code_list_example": "-1485598876"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hive_cb_dmean_5000_it.json",
@@ -358,24 +256,12 @@
         "id_image": "hive_622090"
       }
     ],
-    "hash_code_list_img": "-1262425684",
-    "list_definition_mean": [
-      {
-        "mean_english": "tổ ong",
-        "definition": "a box etc where bees live and store up honey",
-        "ex_of_definition_list": [
-          "He’s building a hive so that he can keep bees."
-        ]
-      },
-      {
-        "mean_english": "đàn ong",
-        "definition": "the bees that live in such a place",
-        "ex_of_definition_list": [
-          "The whole hive flew after the queen bee."
-        ]
-      }
+    "hash_code_list_img": "-1150406021",
+    "list_example": [
+      "He’s building a hive so that he can keep bees.",
+      "The whole hive flew after the queen bee."
     ],
-    "hash_code_list_definition_mean": "-160524964"
+    "hash_code_list_example": "2146260596"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hobby_cb_dmean_5000_it.json",
@@ -413,17 +299,12 @@
         "id_image": "hobby_6133516"
       }
     ],
-    "hash_code_list_img": "232117093",
-    "list_definition_mean": [
-      {
-        "mean_english": "sở thích",
-        "definition": "something a person enjoys doing (usually frequently) in his/her spare time and not for pay",
-        "ex_of_definition_list": [
-          "Stamp-collecting is a popular hobby."
-        ]
-      }
+    "hash_code_list_img": "1183269471",
+    "list_example": [
+      "The decrease in hobby activities was only seen among women.",
+      "How long have you had this hobby for?"
     ],
-    "hash_code_list_definition_mean": "1904312197"
+    "hash_code_list_example": "-1642936972"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hob_cb_dmean_5000_it.json",
@@ -446,17 +327,13 @@
         "id_image": "hob_1678948"
       }
     ],
-    "hash_code_list_img": "-1828694247",
-    "list_definition_mean": [
-      {
-        "mean_english": "thớt bếp",
-        "definition": "the flat framework on top of a cooker, on which pots are placed to be heated",
-        "ex_of_definition_list": [
-          "A pan of stew was simmering on the hob."
-        ]
-      }
+    "hash_code_list_img": "-12868521",
+    "list_example": [
+      "There is one kitchen in the hotel shared by 25 families, containing one cooker, with an oven which does not work and a hob with only three rings working.",
+      "It is possible that the hob in their name comes from the hob, a part of the hearth meant for holding food or utensils.",
+      "Its function is similar to that of a potato ricer or hob type of sptzle maker."
     ],
-    "hash_code_list_definition_mean": "1296804981"
+    "hash_code_list_example": "970642574"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hockey_cb_dmean_5000_it.json",
@@ -484,18 +361,17 @@
         "id_image": "hockey_4645884"
       }
     ],
-    "hash_code_list_img": "-579443418",
-    "list_definition_mean": [
-      {
-        "mean_english": "môn khúc côn cầu",
-        "definition": "a game for two teams of eleven players, played with clubs which are bent at one end (ˈhockey-sticks) and a ball, or in ice hockey, a round flat disc called a puck",
-        "ex_of_definition_list": [
-          "a game of hockey",
-          "(also adjective) a hockey stick/ball."
-        ]
-      }
+    "hash_code_list_img": "-1867826777",
+    "list_example": [
+      "(also adjective) a hockey stick/ball.",
+      "We cannot legislate for football one year, for ice hockey the next, for cricket the next, and for rugby league the next.",
+      "Thus, concern should be expressed when asked for advice concerning participation in sports (hang gliding, downhill skiing, hockey and horseback riding for example) where abdominal trauma is frequent.",
+      "It is not only moving them but like turning rugger goalposts into hockey goalposts in the process.",
+      "Indeed, many experts believe that the notorious hockey stick-shaped exponential global warming curve is, in reality, a graphic fabrication.",
+      "A competitive hockey player, who was diagnosed at age 24, described his coping strategy as a hockey game.",
+      "In addition to the required four training sessions each week, he played for the city's hockey club: altogether he trained or competed eight times a week."
     ],
-    "hash_code_list_definition_mean": "1701212954"
+    "hash_code_list_example": "-926612506"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hoe_cb_dmean_5000_it.json",
@@ -524,24 +400,14 @@
         "id_image": "hoe_3762925"
       }
     ],
-    "hash_code_list_img": "1665004226",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái cuốc",
-        "definition": "a long-handled tool with a metal blade used for removing or destroying weeds etc",
-        "ex_of_definition_list": [
-          "a garden hoe."
-        ]
-      },
-      {
-        "mean_english": "cuốc; xới",
-        "definition": "to use a hoe eg to remove or destroy weeds",
-        "ex_of_definition_list": [
-          "This morning I hoed the garden/weeds."
-        ]
-      }
+    "hash_code_list_img": "1394932643",
+    "list_example": [
+      "Then we come to a description of hoe telescopes see into space.",
+      "Farmers mostly used a digging hoe for land preparation.",
+      "The second unsatisfactory feature is the ad hoe introduction of kinetic effects by a mean free path approach.",
+      "The digging hoe (toyle) is a common traditional tool and most commonly used."
     ],
-    "hash_code_list_definition_mean": "-1177107478"
+    "hash_code_list_example": "1451311827"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hoist_cb_dmean_5000_it.json",
@@ -567,40 +433,11 @@
         "id_image": "hoist_4852165"
       }
     ],
-    "hash_code_list_img": "2117389858",
-    "list_definition_mean": [
-      {
-        "mean_english": "kéo lên",
-        "definition": "to lift (something heavy)",
-        "ex_of_definition_list": [
-          "She hoisted the sack onto her back",
-          "He hoisted the child up on to his shoulders."
-        ]
-      },
-      {
-        "mean_english": "nhấc bổng lên",
-        "definition": "to raise or lift by means of some apparatus, a rope etc",
-        "ex_of_definition_list": [
-          "The cargo was hoisted on to the ship",
-          "They hoisted the flag."
-        ]
-      },
-      {
-        "mean_english": "cần trục; tời",
-        "definition": "an apparatus for lifting usually heavy objects",
-        "ex_of_definition_list": [
-          "a luggage hoist."
-        ]
-      },
-      {
-        "mean_english": "sự kéo lên; sự nhấc bổng lên",
-        "definition": "a lift or push up",
-        "ex_of_definition_list": [
-          "Give me a hoist over this wall, will you!"
-        ]
-      }
+    "hash_code_list_img": "645668437",
+    "list_example": [
+      "Give me a hoist over this wall, will you!"
     ],
-    "hash_code_list_definition_mean": "-2030667582"
+    "hash_code_list_example": "2064241254"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hold_cb_dmean_5000_it.json",
@@ -645,211 +482,29 @@
         "id_image": "hold_3102614"
       }
     ],
-    "hash_code_list_img": "-937870578",
-    "list_definition_mean": [
-      {
-        "mean_english": "cầm, nắm, giữ",
-        "definition": "to have in one’s hand(s) or between one’s hands",
-        "ex_of_definition_list": [
-          "He was holding a knife",
-          "Hold that dish with both hands",
-          "He held the little boy’s hand",
-          "He held the mouse by its tail."
-        ]
-      },
-      {
-        "mean_english": "nắm; giữ",
-        "definition": "to have in a part, or between parts, of the body, or between parts of a tool etc",
-        "ex_of_definition_list": [
-          "He held the pencil in his teeth",
-          "She was holding a pile of books in her arms",
-          "Hold the stamp with tweezers."
-        ]
-      },
-      {
-        "mean_english": "giữ chắc",
-        "definition": "to support or keep from moving, running away, falling etc",
-        "ex_of_definition_list": [
-          "What holds that shelf up?",
-          "He held the door closed by leaning against it",
-          "Hold your hands above your head",
-          "Hold his arms so that he can’t struggle."
-        ]
-      },
-      {
-        "mean_english": "giữ vững",
-        "definition": "to remain in position, fixed etc when under strain",
-        "ex_of_definition_list": [
-          "I’ve tied the two pieces of string together, but I’m not sure the knot will hold",
-          "Will the anchor hold in a storm?"
-        ]
-      },
-      {
-        "mean_english": "bắt giữ",
-        "definition": "to keep (a person) in some place or in one’s power",
-        "ex_of_definition_list": [
-          "The police are holding a man for questioning in connection with the murder",
-          "He was held captive."
-        ]
-      },
-      {
-        "mean_english": "chứa; chứa đựng",
-        "definition": "to (be able to) contain",
-        "ex_of_definition_list": [
-          "This jug holds two pints",
-          "You can’t hold water in a handkerchief",
-          "This drawer holds all my shirts."
-        ]
-      },
-      {
-        "mean_english": "diễn ra",
-        "definition": "to cause to take place",
-        "ex_of_definition_list": [
-          "The meeting will be held next week",
-          "We’ll hold the meeting in the hall."
-        ]
-      },
-      {
-        "mean_english": "giữ yên",
-        "definition": "to keep (oneself), or to be, in a particular state or condition",
-        "ex_of_definition_list": [
-          "We’ll hold ourselves in readiness in case you send for us",
-          "She holds herself very erect."
-        ]
-      },
-      {
-        "mean_english": "giữ vị trí",
-        "definition": "to have or be in (a job etc)",
-        "ex_of_definition_list": [
-          "He held the position of company secretary for five years."
-        ]
-      },
-      {
-        "mean_english": "tin rằng, cho là",
-        "definition": "to think strongly; to believe; to consider or regard",
-        "ex_of_definition_list": [
-          "I hold that this was the right decision",
-          "He holds me (to be) responsible for everyone’s mistakes",
-          "He is held in great respect",
-          "He holds certain very odd beliefs."
-        ]
-      },
-      {
-        "mean_english": "có hiệu lực",
-        "definition": "to continue to be valid or apply",
-        "ex_of_definition_list": [
-          "Our offer will hold until next week",
-          "These rules hold under all circumstances."
-        ]
-      },
-      {
-        "mean_english": "giữ chắc",
-        "definition": "(with to) to force (a person) to do something he has promised to do",
-        "ex_of_definition_list": [
-          "I intend to hold him to his promises."
-        ]
-      },
-      {
-        "mean_english": "giữ vững",
-        "definition": "to defend",
-        "ex_of_definition_list": [
-          "They held the castle against the enemy."
-        ]
-      },
-      {
-        "mean_english": "giữ chắc",
-        "definition": "not to be beaten by",
-        "ex_of_definition_list": [
-          "The general realized that the soldiers could not hold the enemy for long."
-        ]
-      },
-      {
-        "mean_english": "thu hút",
-        "definition": "to keep (a person’s attention)",
-        "ex_of_definition_list": [
-          "If you can’t hold your pupils’ attention, you can’t be a good teacher."
-        ]
-      },
-      {
-        "mean_english": "giữ yên",
-        "definition": "to keep someone in a certain state",
-        "ex_of_definition_list": [
-          "Don’t hold us in suspense, what was the final decision?"
-        ]
-      },
-      {
-        "mean_english": "tổ chức",
-        "definition": "to celebrate",
-        "ex_of_definition_list": [
-          "The festival is held on 24 June."
-        ]
-      },
-      {
-        "mean_english": "nắm giữ",
-        "definition": "to be the owner of",
-        "ex_of_definition_list": [
-          "He holds shares in this company."
-        ]
-      },
-      {
-        "mean_english": "tiếp tục",
-        "definition": "(of good weather) to continue",
-        "ex_of_definition_list": [
-          "I hope the weather holds until after the school sports."
-        ]
-      },
-      {
-        "mean_english": "giữ máy điện thoại chờ người cần gặp",
-        "definition": "(also hold the line) (of a person who is making a telephone call) to wait",
-        "ex_of_definition_list": [
-          "Mr Brown is busy at the moment – will you hold or would you like him to call you back?"
-        ]
-      },
-      {
-        "mean_english": "tiếp tục hát",
-        "definition": "to continue to sing",
-        "ex_of_definition_list": [
-          "Please hold that note for four whole beats."
-        ]
-      },
-      {
-        "mean_english": "giữ",
-        "definition": "to keep (something)",
-        "ex_of_definition_list": [
-          "They’ll hold your luggage at the station until you collect it."
-        ]
-      },
-      {
-        "mean_english": "sẽ thế nào",
-        "definition": "(of the future) to be going to produce",
-        "ex_of_definition_list": [
-          "I wonder what the future holds for me?"
-        ]
-      },
-      {
-        "mean_english": "sự cầm nắm; sự giữ chặt",
-        "definition": "the act of holding",
-        "ex_of_definition_list": [
-          "He caught/got/laid/took hold of the rope and pulled",
-          "Keep hold of that rope."
-        ]
-      },
-      {
-        "mean_english": "ảnh hưởng",
-        "definition": "power; influence",
-        "ex_of_definition_list": [
-          "He has a strange hold over that girl."
-        ]
-      },
-      {
-        "mean_english": "cách nắm giữ đối thủ",
-        "definition": "(in wrestling etc) a manner of holding one’s opponent",
-        "ex_of_definition_list": [
-          "The wrestler invented a new hold."
-        ]
-      }
+    "hash_code_list_img": "-1067566211",
+    "list_example": [
+      "Will the anchor hold in a storm?",
+      "You can’t hold water in a handkerchief",
+      "We’ll hold the meeting in the hall.",
+      "We’ll hold ourselves in readiness in case you send for us",
+      "I hold that this was the right decision",
+      "Our offer will hold until next week",
+      "These rules hold under all circumstances.",
+      "I intend to hold him to his promises.",
+      "The general realized that the soldiers could not hold the enemy for long.",
+      "If you can’t hold your pupils’ attention, you can’t be a good teacher.",
+      "Don’t hold us in suspense, what was the final decision?",
+      "Mr Brown is busy at the moment – will you hold or would you like him to call you back?",
+      "Please hold that note for four whole beats.",
+      "They’ll hold your luggage at the station until you collect it.",
+      "He caught/got/laid/took hold of the rope and pulled",
+      "Keep hold of that rope.",
+      "He has a strange hold over that girl.",
+      "Archives hold numerous complaints from provincial governors about the insufficiency of security forces under their authority and requests for additional mounted recruits.",
+      "The multiple roles that people hold within their family, community, work, and society as a whole work to define their sense of self."
     ],
-    "hash_code_list_definition_mean": "1449668857"
+    "hash_code_list_example": "-1165002188"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hole_cb_dmean_5000_it.json",
@@ -881,48 +536,12 @@
         "id_image": "hole_595781"
       }
     ],
-    "hash_code_list_img": "-2141246368",
-    "list_definition_mean": [
-      {
-        "mean_english": "lỗ thủng; lỗ hổng",
-        "definition": "an opening or gap in or through something",
-        "ex_of_definition_list": [
-          "a hole in the fence",
-          "There are holes in my socks."
-        ]
-      },
-      {
-        "mean_english": "hang; lỗ",
-        "definition": "a hollow in something solid",
-        "ex_of_definition_list": [
-          "a hole in my tooth",
-          "Many animals live in holes in the ground."
-        ]
-      },
-      {
-        "mean_english": "lỗ đặt bóng",
-        "definition": "(in golf) (the point scored by the player who takes the fewest strokes to hit his ball over) any one of the usually eighteen sections of the golf course between the tees and the holes in the middle of the greens",
-        "ex_of_definition_list": [
-          "He won by two holes",
-          "We played nine holes."
-        ]
-      },
-      {
-        "mean_english": "thủng",
-        "definition": "to make a hole in",
-        "ex_of_definition_list": [
-          "The ship was badly holed when it hit the rock."
-        ]
-      },
-      {
-        "mean_english": "đánh bóng vào lỗ",
-        "definition": "to hit (a ball etc) into a hole",
-        "ex_of_definition_list": [
-          "The golfer holed his ball from twelve feet away."
-        ]
-      }
+    "hash_code_list_img": "-2061386356",
+    "list_example": [
+      "a hole in the fence",
+      "a hole in my tooth"
     ],
-    "hash_code_list_definition_mean": "-1763680949"
+    "hash_code_list_example": "-1380539577"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/holiday_cb_dmean_5000_it.json",
@@ -961,27 +580,12 @@
         "id_image": "holiday_5775604"
       }
     ],
-    "hash_code_list_img": "1884606004",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngày nghỉ",
-        "definition": "a day when one does not have to work",
-        "ex_of_definition_list": [
-          "Next Monday is a holiday."
-        ]
-      },
-      {
-        "mean_english": "thời gian nghỉ",
-        "definition": "a period of time when one does not have to work",
-        "ex_of_definition_list": [
-          "The summer holidays will soon be here",
-          "We’re going to Sweden for our holiday(s)",
-          "I’m taking two weeks’ holiday in June",
-          "(also adjective) holiday clothes."
-        ]
-      }
+    "hash_code_list_img": "-83482847",
+    "list_example": [
+      "I’m taking two weeks’ holiday in June",
+      "(also adjective) holiday clothes."
     ],
-    "hash_code_list_definition_mean": "2041592260"
+    "hash_code_list_example": "733544930"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/holy_cb_dmean_5000_it.json",
@@ -1005,25 +609,12 @@
         "id_image": "holy_4977212"
       }
     ],
-    "hash_code_list_img": "2015490188",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc thần thánh; linh thiêng",
-        "definition": "(worthy of worship or respect because) associated with God, Jesus, a saint etc; sacred",
-        "ex_of_definition_list": [
-          "the Holy Bible",
-          "holy ground."
-        ]
-      },
-      {
-        "mean_english": "trong sạch",
-        "definition": "good; pure; following the rules of religion",
-        "ex_of_definition_list": [
-          "a holy life."
-        ]
-      }
+    "hash_code_list_img": "130824405",
+    "list_example": [
+      "holy ground.",
+      "a holy life."
     ],
-    "hash_code_list_definition_mean": "143964020"
+    "hash_code_list_example": "1210450539"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/homeless_cb_dmean_5000_it.json",
@@ -1056,18 +647,18 @@
         "id_image": "homeless_6418258"
       }
     ],
-    "hash_code_list_img": "-130925961",
-    "list_definition_mean": [
-      {
-        "mean_english": "vô gia cư",
-        "definition": "(people) without a place to live in",
-        "ex_of_definition_list": [
-          "This charity was set up to help the homeless",
-          "homeless people."
-        ]
-      }
+    "hash_code_list_img": "-498411870",
+    "list_example": [
+      "homeless people.",
+      "While walking along, the boy sees a welldressed man stop by a homeless woman, falling on his knees before her, weeping.",
+      "Six were of dual diagnosis patients (with substance misuse), ten of homeless mentally ill patients and one of jail recidivists.",
+      "She was horrified to see thousands, who doubtless had once sat and cheered her, homeless and hungry.",
+      "Furthermore, homeless people often encountered negative attitudes from health and social care staff and therefore were often reluctant to access mainstream health services.",
+      "Most authorities were, though, active in resisting the retrenchment of the institutionalised rights of homeless people to social housing which was enacted in 1996.",
+      "Moreover, newcomers showed the same results as all homeless boys in having higher exposure to pathogens, higher cortisol, and better nutritional status than squatter boys.",
+      "During the first six months after being resettled, 10 renewed family contacts, including a few who had been homeless for years."
     ],
-    "hash_code_list_definition_mean": "37640029"
+    "hash_code_list_example": "571838843"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/homesick_cb_dmean_5000_it.json",
@@ -1085,17 +676,15 @@
         "id_image": "homesick_708672"
       }
     ],
-    "hash_code_list_img": "810425965",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhớ nhà",
-        "definition": "missing one’s home",
-        "ex_of_definition_list": [
-          "When the boy first went to boarding school, he was very homesick."
-        ]
-      }
+    "hash_code_list_img": "1016138476",
+    "list_example": [
+      "He became homesick for wife and family, and his health declined.",
+      "I think that it is true that a number of them feel homesick and want to go back.",
+      "Other women reported that they were not mature enough to maintain the commitment to their marriage, or they became homesick and ran away from their husband to return home.",
+      "Nonah is not only homesick for her coastal homeland, she is also a very shy girl.",
+      "The great advantage of having a family unit is that the young migrant does not get homesick after he or she has gone abroad."
     ],
-    "hash_code_list_definition_mean": "1408846621"
+    "hash_code_list_example": "-80655184"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/homework_cb_dmean_5000_it.json",
@@ -1128,17 +717,15 @@
         "id_image": "homework_859981"
       }
     ],
-    "hash_code_list_img": "1308851768",
-    "list_definition_mean": [
-      {
-        "mean_english": "bài tập về nhà",
-        "definition": "work or study done at home, especially by a school pupil",
-        "ex_of_definition_list": [
-          "Finish your homework!"
-        ]
-      }
+    "hash_code_list_img": "-1365688839",
+    "list_example": [
+      "They were then given the course's slides and 11 homework tasks to perform with the tool.",
+      "He pointed out three main ideas on different levels: first, the rationalization of homework through collective houses6 with restaurant and day nursery; second, prefabricated construction; and, third, centralized heating systems.",
+      "All homework assignments were completed as a group effort during breaks with speed of completion as the goal.",
+      "Always come to class having prepared your homework assignments.",
+      "Now you do not have to do all that homework beforehand in order to be able to follow the plot."
     ],
-    "hash_code_list_definition_mean": "2102280813"
+    "hash_code_list_example": "-1627770651"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/home_cb_dmean_5000_it.json",
@@ -1175,88 +762,28 @@
         "id_image": "home_538235"
       }
     ],
-    "hash_code_list_img": "1804515708",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà; chỗ ở",
-        "definition": "the house, town, country etc where a person etc, usually lives",
-        "ex_of_definition_list": [
-          "I work in London but my home is in Bournemouth",
-          "When I retire, I’ll make my home in Bournemouth",
-          "Africa is the home of the lion",
-          "We’ll have to find a home for the kitten."
-        ]
-      },
-      {
-        "mean_english": "quê hương",
-        "definition": "the place from which a person, thing etc comes originally",
-        "ex_of_definition_list": [
-          "America is the home of jazz."
-        ]
-      },
-      {
-        "mean_english": "trại mồ côi; trại dưỡng lão",
-        "definition": "a place where children without parents, old people, people who are ill etc live and are looked after",
-        "ex_of_definition_list": [
-          "an old folk’s home",
-          "a nursing home."
-        ]
-      },
-      {
-        "mean_english": "nhà hộ sinh",
-        "definition": "a place where people stay while they are working",
-        "ex_of_definition_list": [
-          "a nurses’ home."
-        ]
-      },
-      {
-        "mean_english": "nhà",
-        "definition": "a house",
-        "ex_of_definition_list": [
-          "He invited me round to his home."
-        ]
-      },
-      {
-        "mean_english": "thuộc nhà mình",
-        "definition": "of a person’s home or family",
-        "ex_of_definition_list": [
-          "home comforts."
-        ]
-      },
-      {
-        "mean_english": "nội địa",
-        "definition": "of the country etc where a person lives",
-        "ex_of_definition_list": [
-          "home produce."
-        ]
-      },
-      {
-        "mean_english": "(thể thao) chơi trên sân nhà",
-        "definition": "(in football/soccer) playing or played on a team’s own ground",
-        "ex_of_definition_list": [
-          "the home team",
-          "a home game."
-        ]
-      },
-      {
-        "mean_english": "ở tại nhà mình",
-        "definition": "to a person’s home",
-        "ex_of_definition_list": [
-          "I’m going home now",
-          "Honey – I’m home!"
-        ]
-      },
-      {
-        "mean_english": "tới địa điểm đã định",
-        "definition": "completely; to the place, position etc a thing is intended to be",
-        "ex_of_definition_list": [
-          "He drove the nail home",
-          "Few of his punches went home",
-          "These photographs of the war brought home to me the suffering of the soldiers."
-        ]
-      }
+    "hash_code_list_img": "1589602287",
+    "list_example": [
+      "I work in London but my home is in Bournemouth",
+      "When I retire, I’ll make my home in Bournemouth",
+      "Africa is the home of the lion",
+      "We’ll have to find a home for the kitten.",
+      "America is the home of jazz.",
+      "home comforts.",
+      "home produce.",
+      "the home team",
+      "a home game.",
+      "I’m going home now",
+      "These photographs of the war brought home to me the suffering of the soldiers.",
+      "Sensitivity in the caregiver-infant interaction was assessed by behavior observations within the scope of home visits.",
+      "Soldiers on leave and veterans returning home undoubtedly passed on their knowledge and experiences to the rest of the population.",
+      "Families in the intervention group received six home visits and, parallel in timing, families in the control group received six telephone calls.",
+      "The respondents were again reassured on confidentiality during home visits.",
+      "Consumption was part of the ordinary life, still represented, albeit often precariously, by the home front.",
+      "This study describes how home visits were used in an attempt to improve the effectiveness of a family planning service.",
+      "I think of this as a mandatory code, imposed by each home country, unlike the voluntary code approach discussed below which is complementary."
     ],
-    "hash_code_list_definition_mean": "1876126929"
+    "hash_code_list_example": "1251701410"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/homosexual_cb_dmean_5000_it.json",
@@ -1280,17 +807,11 @@
         "id_image": "homosexual_4125669"
       }
     ],
-    "hash_code_list_img": "1117708247",
-    "list_definition_mean": [
-      {
-        "mean_english": "đồng tính luyến ái",
-        "definition": "adjective of or concerning a homosexual or homosexuals",
-        "ex_of_definition_list": [
-          "a homosexual relationship."
-        ]
-      }
+    "hash_code_list_img": "-1177587306",
+    "list_example": [
+      "a homosexual relationship."
     ],
-    "hash_code_list_definition_mean": "1786425892"
+    "hash_code_list_example": "1869758967"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/honest_cb_dmean_5000_it.json",
@@ -1320,32 +841,19 @@
         "id_image": "honest_5906055"
       }
     ],
-    "hash_code_list_img": "-1960484314",
-    "list_definition_mean": [
-      {
-        "mean_english": "trung thực",
-        "definition": "(of people or their behaviour/behavior, statements etc) truthful; not cheating, stealing etc",
-        "ex_of_definition_list": [
-          "My secretary is absolutely honest",
-          "Give me an honest opinion."
-        ]
-      },
-      {
-        "mean_english": "có vẻ thật thà",
-        "definition": "(of a person’s appearance) suggesting that he is honest",
-        "ex_of_definition_list": [
-          "He had an honest face."
-        ]
-      },
-      {
-        "mean_english": "lương thiện",
-        "definition": "(of wealth etc) not gained by cheating, stealing etc",
-        "ex_of_definition_list": [
-          "She was just trying to earn an honest living."
-        ]
-      }
+    "hash_code_list_img": "987698192",
+    "list_example": [
+      "Give me an honest opinion.",
+      "He had an honest face.",
+      "She was just trying to earn an honest living.",
+      "Truth telling is an important principle of medical ethics because honest communication shows respect, it promotes an effective therapeutic relationship, and it preserves trust.",
+      "In the crucial issues of rhetorical cogency, expressive adequacy, and honest intent, such tools have no place.",
+      "This awkward piece, gangling and almost painfully honest in its criticism, was, so to speak, 'disappeared'.",
+      "This might not be the archaeology that state authorities love to fund; it is too honest for that.",
+      "Under certain conditions, however, an attribute's link with heritable fitness can remain honest and stable.",
+      "Coupled with the volume's empirical breadth, this cautious optimism helps make the authors' arguments both honest and valuable."
     ],
-    "hash_code_list_definition_mean": "166851968"
+    "hash_code_list_example": "-1614309399"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/honeymoon_cb_dmean_5000_it.json",
@@ -1383,18 +891,16 @@
         "id_image": "honeymoon_807686"
       }
     ],
-    "hash_code_list_img": "269152138",
-    "list_definition_mean": [
-      {
-        "mean_english": "tuần trăng mật",
-        "definition": "a holiday spent immediately after one’s marriage",
-        "ex_of_definition_list": [
-          "We went to Paris for our honeymoon",
-          "(also adjective) a honeymoon couple."
-        ]
-      }
+    "hash_code_list_img": "-1156399438",
+    "list_example": [
+      "(also adjective) a honeymoon couple.",
+      "The golden honeymoon of the war is over.",
+      "They have had the longest honeymoon in recorded history.",
+      "I hope that in his case also the honeymoon period will be prolonged.",
+      "There may be a short honeymoon period, but power once developed is not easily or lightly cast aside.",
+      "We have heard throughout the debate that this is a glorious honeymoon for the oil companies."
     ],
-    "hash_code_list_definition_mean": "1505756993"
+    "hash_code_list_example": "-913068891"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/honey_cb_dmean_5000_it.json",
@@ -1428,17 +934,14 @@
         "id_image": "honey_883550"
       }
     ],
-    "hash_code_list_img": "-1552160252",
-    "list_definition_mean": [
-      {
-        "mean_english": "mật ong; mật",
-        "definition": "a sweet, thick fluid made by bees from the nectar of flowers",
-        "ex_of_definition_list": [
-          "bread and honey."
-        ]
-      }
+    "hash_code_list_img": "830172178",
+    "list_example": [
+      "What is true for a simple organism like the honey bee is even more true for complex organisms like humans.",
+      "Three categories of honey bees at different developmental stages were collected and classified in unparasitized or parasitized groups.",
+      "At dawn, the honey trap contained three males and five females; the sucrose trap contained three females.",
+      "Effects of climatic and edaphic factors on soybean flowers and the subsequent attractiveness of the plants to honey bees."
     ],
-    "hash_code_list_definition_mean": "1339035183"
+    "hash_code_list_example": "-1015907315"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/honk_cb_dmean_5000_it.json",
@@ -1457,17 +960,11 @@
         "id_image": "honk_2369562"
       }
     ],
-    "hash_code_list_img": "1889682562",
-    "list_definition_mean": [
-      {
-        "mean_english": "kêu (ngỗng), bóp còi",
-        "definition": "to make such a noise",
-        "ex_of_definition_list": [
-          "Don’t honk that horn any more – you’ll disturb the neighbours."
-        ]
-      }
+    "hash_code_list_img": "1351568340",
+    "list_example": [
+      "Don’t honk that horn any more – you’ll disturb the neighbours."
     ],
-    "hash_code_list_definition_mean": "1604949822"
+    "hash_code_list_example": "1690833543"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hood_cb_dmean_5000_it.json",
@@ -1493,38 +990,13 @@
         "id_image": "hood_2845004"
       }
     ],
-    "hash_code_list_img": "-1550510049",
-    "list_definition_mean": [
-      {
-        "mean_english": "mũ trùm đầu",
-        "definition": "a usually loose covering for the whole head, often attached to a coat, cloak etc",
-        "ex_of_definition_list": [
-          "He pulled his anorak hood over his head."
-        ]
-      },
-      {
-        "mean_english": "mui xe gập",
-        "definition": "a folding cover on a car, pram etc",
-        "ex_of_definition_list": [
-          "Put the hood of the pram up – the baby is getting wet."
-        ]
-      },
-      {
-        "mean_english": "nắp xe",
-        "definition": "the bonnet of a car",
-        "ex_of_definition_list": [
-          "He raised the hood to look at the engine."
-        ]
-      },
-      {
-        "mean_english": "áo choàng giáo sư",
-        "definition": "a fold of cloth representing a hood, worn by university graduates over their gowns on ceremonial occasions",
-        "ex_of_definition_list": [
-          "The professors and lecturers all wore their gowns and hoods for the graduation ceremony."
-        ]
-      }
+    "hash_code_list_img": "2085847003",
+    "list_example": [
+      "He pulled his anorak hood over his head.",
+      "Put the hood of the pram up – the baby is getting wet.",
+      "He raised the hood to look at the engine."
     ],
-    "hash_code_list_definition_mean": "1592366514"
+    "hash_code_list_example": "-1376527007"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hook_cb_dmean_5000_it.json",
@@ -1557,48 +1029,12 @@
         "id_image": "hook_2836730"
       }
     ],
-    "hash_code_list_img": "-1453962333",
-    "list_definition_mean": [
-      {
-        "mean_english": "lưỡi câu",
-        "definition": "a small piece of metal shaped like a J fixed at the end of a fishing-line used for catching fish etc",
-        "ex_of_definition_list": [
-          "a fish-hook."
-        ]
-      },
-      {
-        "mean_english": "cái móc; cái mắc",
-        "definition": "a bent piece of metal etc used for hanging coats, cups etc on, or a smaller one sewn on to a garment, for fastening it",
-        "ex_of_definition_list": [
-          "Hang your jacket on that hook behind the door",
-          "hooks and eyes."
-        ]
-      },
-      {
-        "mean_english": "cú đấm móc",
-        "definition": "in boxing, a kind of punch with the elbow bent",
-        "ex_of_definition_list": [
-          "a left hook."
-        ]
-      },
-      {
-        "mean_english": "bắt (cái gì) bằng móc",
-        "definition": "to catch (a fish etc) with a hook",
-        "ex_of_definition_list": [
-          "He hooked a large salmon."
-        ]
-      },
-      {
-        "mean_english": "mắc, móc vào",
-        "definition": "to fasten or to be fastened by a hook or hooks",
-        "ex_of_definition_list": [
-          "He hooked the ladder on (to the branch)",
-          "This bit hooks on to that bit",
-          "Could you hook my dress up down the back?"
-        ]
-      }
+    "hash_code_list_img": "-1425323998",
+    "list_example": [
+      "Hang your jacket on that hook behind the door",
+      "Could you hook my dress up down the back?"
     ],
-    "hash_code_list_definition_mean": "-1995563833"
+    "hash_code_list_example": "-1733371552"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hoop_cb_dmean_5000_it.json",
@@ -1626,17 +1062,19 @@
         "id_image": "hoop_2128353"
       }
     ],
-    "hash_code_list_img": "-814506043",
-    "list_definition_mean": [
-      {
-        "mean_english": "vòng xiếc",
-        "definition": "a thin ring of metal, wood etc",
-        "ex_of_definition_list": [
-          "At the circus we saw a dog jumping through a hoop."
-        ]
-      }
+    "hash_code_list_img": "-1823759688",
+    "list_example": [
+      "At the circus we saw a dog jumping through a hoop.",
+      "I sometimes wonder how many hoops and hurdles can be invented.",
+      "Unfortunately, the scheme requires claimants to jump through hoops and prove the value of their claim with expert reports.",
+      "Five hundred people got through the hoops to make the applications, a third of which were disallowed.",
+      "I remember the ladies on the backs of the horses jumping through hoops.",
+      "They normally jump through hoops to lap up their trendy theories.",
+      "Part of the reason is that we unreasonably expect local partnerships to have the expertise and time to go through all the hoops.",
+      "Grapple them to thy soul with hoops of steel.",
+      "The police cannot start investigations into allegations until they have gone through certain hoops."
     ],
-    "hash_code_list_definition_mean": "205805011"
+    "hash_code_list_example": "576215653"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hope_cb_dmean_5000_it.json",
@@ -1667,45 +1105,23 @@
         "id_image": "hope_708639"
       }
     ],
-    "hash_code_list_img": "1586051774",
-    "list_definition_mean": [
-      {
-        "mean_english": "hy vọng; ước mong",
-        "definition": "to want something to happen and have some reason to believe that it will or might happen",
-        "ex_of_definition_list": [
-          "He’s very late, but we are still hoping he will come",
-          "I hope to be in London next month",
-          "We’re hoping for some help from other people",
-          "It’s unlikely that he’ll come now, but we keep on hoping",
-          "‘Do you think it will rain?’ ‘I hope so/not’."
-        ]
-      },
-      {
-        "mean_english": "nguồn hy vọng",
-        "definition": "(any reason or encouragement for) the state of feeling that what one wants will or might happen",
-        "ex_of_definition_list": [
-          "He has lost all hope of becoming the president",
-          "He came to see me in the hope that I would help him",
-          "He has hopes of winning a scholarship",
-          "The rescuers said there was no hope of finding anyone alive in the mine."
-        ]
-      },
-      {
-        "mean_english": "người hoặc vật mang lại hy vọng",
-        "definition": "a person, thing etc that one is relying on for help etc",
-        "ex_of_definition_list": [
-          "He’s my last hope – there is no-one else I can ask."
-        ]
-      },
-      {
-        "mean_english": "niềm hy vọng",
-        "definition": "something hoped for",
-        "ex_of_definition_list": [
-          "My hope is that he will get married and settle down soon."
-        ]
-      }
+    "hash_code_list_img": "1919666629",
+    "list_example": [
+      "I hope to be in London next month",
+      "‘Do you think it will rain?’ ‘I hope so/not’.",
+      "He has lost all hope of becoming the president",
+      "He came to see me in the hope that I would help him",
+      "The rescuers said there was no hope of finding anyone alive in the mine.",
+      "He’s my last hope – there is no-one else I can ask.",
+      "My hope is that he will get married and settle down soon.",
+      "I hope that this will help to explain the many and various definitions of the concept of successful ageing.",
+      "Archaeologists study the former in the hope of understanding the latter.",
+      "However, one might hope that the chapter prefaces or book structure would highlight key points of debate so that instructors and students could assess them.",
+      "We hope that this paper will go some way to raising awareness of the possibilities for exploiting this work.",
+      "I hope they're not all going to be driving pick-ups like yours.",
+      "We hope that readers will benefit from this exchange as much as we have."
     ],
-    "hash_code_list_definition_mean": "-283092067"
+    "hash_code_list_example": "1528195978"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hopscotch_cb_dmean_5000_it.json",
@@ -1728,17 +1144,16 @@
         "id_image": "hopscotch_5333148"
       }
     ],
-    "hash_code_list_img": "18495268",
-    "list_definition_mean": [
-      {
-        "mean_english": "trò chơi ô lò cò (của trẻ con)",
-        "definition": "a game played usually by children in which they hop into a series of squares drawn on the ground",
-        "ex_of_definition_list": [
-          "The children are playing hopscotch on the pavement."
-        ]
-      }
+    "hash_code_list_img": "1218844288",
+    "list_example": [
+      "The children are playing hopscotch on the pavement.",
+      "In addition, there is a large pavilion with tables an amphitheater, hopscotch area, horseshoe pits, and a close by men's and women's restroom.",
+      "The giant screens and the central cross display signs masculine-feminine that move in all directions and form somewhat like a hopscotch game.",
+      "The girls marked out the hopscotch squares in the dust.",
+      "One advantage of hopscotch hashing is that it provides good performance at very high table load factors, even ones exceeding 0.9.",
+      "They are distinct from skipping or hopscotch rhymes which have a rhythm and logic of their own."
     ],
-    "hash_code_list_definition_mean": "522491896"
+    "hash_code_list_example": "-1219558455"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hop_cb_dmean_5000_it.json",
@@ -1776,48 +1191,14 @@
         "id_image": "hop_993170"
       }
     ],
-    "hash_code_list_img": "-1906566646",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhảy lò cò",
-        "definition": "(of people) to jump on one leg",
-        "ex_of_definition_list": [
-          "The children had a competition to see who could hop the farthest",
-          "He hopped about in pain when the hammer fell on his foot."
-        ]
-      },
-      {
-        "mean_english": "(động vật) nhảy cẫng; nhảy bốn vó",
-        "definition": "(of certain small birds, animals and insects) to jump on both or all legs",
-        "ex_of_definition_list": [
-          "The sparrow/frog hopped across the lawn."
-        ]
-      },
-      {
-        "mean_english": "nhảy",
-        "definition": "to jump",
-        "ex_of_definition_list": [
-          "He hopped (over) the fence and ran away",
-          "He hopped out of bed."
-        ]
-      },
-      {
-        "mean_english": "lên/xuống xe ôtô",
-        "definition": "(with in(to), out (of)) to get into or out of a car etc",
-        "ex_of_definition_list": [
-          "The car stopped and the driver told the hikers to hop in",
-          "I’ll hop out of the car at the next crossroads."
-        ]
-      },
-      {
-        "mean_english": "nhảy",
-        "definition": "(of certain small birds, animals and insects) a short jump on both or all legs",
-        "ex_of_definition_list": [
-          "The sparrow crossed the lawn in a series of hops."
-        ]
-      }
+    "hash_code_list_img": "547306545",
+    "list_example": [
+      "The children had a competition to see who could hop the farthest",
+      "The car stopped and the driver told the hikers to hop in",
+      "I’ll hop out of the car at the next crossroads.",
+      "The first hop the robot reaches exactly the desired value, because the initial conditions were set manually to start the simulation."
     ],
-    "hash_code_list_definition_mean": "1552676885"
+    "hash_code_list_example": "1481859170"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/horizontal_cb_dmean_5000_it.json",
@@ -1845,18 +1226,20 @@
         "id_image": "horizontal_4598313"
       }
     ],
-    "hash_code_list_img": "1489470514",
-    "list_definition_mean": [
-      {
-        "mean_english": "nằm ngang",
-        "definition": "at right angles to vertical; parallel to the horizon; lying level or flat",
-        "ex_of_definition_list": [
-          "a horizontal line",
-          "a horizontal surface."
-        ]
-      }
+    "hash_code_list_img": "987338829",
+    "list_example": [
+      "a horizontal line",
+      "a horizontal surface.",
+      "Interestingly, since there is no significant horizontal flow in the thin-layer limit, the total amount of water removed from the felt is known exactly.",
+      "The total contribution of block rotation to the horizontal component of deformation is less than 5 %, and is therefore negligible.",
+      "Here, the orbit was an ellipse with a 3: 1 vertical to horizontal axis ratio.",
+      "Note that the vertical shears occur before the column where ha(y, t) or ha(z, t) has affected the horizontal dimensions.",
+      "The transmissibility of the capacity to induce biofilm formation in co-culture suggested a significant role for horizontal gene transfer in the phenomenon.",
+      "Most of the bones lie in horizontal position but a vertically orientated dentary and rib have been observed.",
+      "The horizontal ramus is narrow in lateral view.",
+      "The experiments were performed utilizing electrically heated horizontal copper surfaces situated in a water environment."
     ],
-    "hash_code_list_definition_mean": "930921933"
+    "hash_code_list_example": "-1328844398"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/horn_cb_dmean_5000_it.json",
@@ -1900,53 +1283,16 @@
         "id_image": "horn_788087"
       }
     ],
-    "hash_code_list_img": "272467700",
-    "list_definition_mean": [
-      {
-        "mean_english": "sừng; gạc",
-        "definition": "a hard object which grows (usually in pairs) on the head of a cow, sheep etc",
-        "ex_of_definition_list": [
-          "A ram has horns."
-        ]
-      },
-      {
-        "mean_english": "chất sừng",
-        "definition": "the material of which this is made",
-        "ex_of_definition_list": [
-          "The spoons are made of horn",
-          "(also adjective) horn spoons."
-        ]
-      },
-      {
-        "mean_english": "đồ dùng làm bằng sừng",
-        "definition": "something which is made of horn",
-        "ex_of_definition_list": [
-          "a shoehorn."
-        ]
-      },
-      {
-        "mean_english": "vật có hình dáng giống sừng động vật",
-        "definition": "something which looks like a horn in shape",
-        "ex_of_definition_list": [
-          "a snail’s horns."
-        ]
-      },
-      {
-        "mean_english": "còi xe hơi",
-        "definition": "the apparatus in a car etc which gives a warning sound",
-        "ex_of_definition_list": [
-          "The driver blew his horn."
-        ]
-      },
-      {
-        "mean_english": "cái tù và",
-        "definition": "an instrument, formerly an animal’s horn but now made of brass, that is blown to produce a musical sound",
-        "ex_of_definition_list": [
-          "a hunting horn."
-        ]
-      }
+    "hash_code_list_img": "-2037604968",
+    "list_example": [
+      "(also adjective) horn spoons.",
+      "I start with the scooter horn going into that ambience, then include the mix exactly at that point.",
+      "Any listener who recognises and loves the sound of the horn will soon be drawn into the narrative.",
+      "An additional compositional property of horn epidermis is the variable presence of pigmentation in the wall region.",
+      "A large proportion of non-neuronal cells in the ventral horn of the spinal cord are astrocytes, which play key roles in maintaining a homeostatic environment.",
+      "Finally, these pain mediators collaborate to induce and maintain abnormal pain in injury conditions by enhancing synaptic strength and central sensitization in dorsal horn neurons."
     ],
-    "hash_code_list_definition_mean": "-1748237617"
+    "hash_code_list_example": "-483385204"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/horror_cb_dmean_5000_it.json",
@@ -1980,25 +1326,11 @@
         "id_image": "horror_6150434"
       }
     ],
-    "hash_code_list_img": "958570262",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự ghê sợ",
-        "definition": "great fear or dislike",
-        "ex_of_definition_list": [
-          "She has a horror of spiders",
-          "She looked at me in horror."
-        ]
-      },
-      {
-        "mean_english": "kẻ tinh quái",
-        "definition": "a disagreeable person or thing",
-        "ex_of_definition_list": [
-          "Her little boy is an absolute horror."
-        ]
-      }
+    "hash_code_list_img": "-1687010251",
+    "list_example": [
+      "She has a horror of spiders"
     ],
-    "hash_code_list_definition_mean": "-1738705393"
+    "hash_code_list_example": "1516306725"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/horseman_cb_dmean_5000_it.json",
@@ -2021,17 +1353,11 @@
         "id_image": "horseman_1499919"
       }
     ],
-    "hash_code_list_img": "901380005",
-    "list_definition_mean": [
-      {
-        "mean_english": "kỵ sĩ",
-        "definition": "a rider, especially a skilled one",
-        "ex_of_definition_list": [
-          "She is a very competent horsewoman."
-        ]
-      }
+    "hash_code_list_img": "-670752244",
+    "list_example": [
+      "The speed of the horseman must be limited by the power of his horse."
     ],
-    "hash_code_list_definition_mean": "1682100061"
+    "hash_code_list_example": "699860339"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/horseshoe_cb_dmean_5000_it.json",
@@ -2050,17 +1376,18 @@
         "id_image": "horseshoe_124360"
       }
     ],
-    "hash_code_list_img": "1871867168",
-    "list_definition_mean": [
-      {
-        "mean_english": "vật có hình móng ngựa",
-        "definition": "something in the shape of a horseshoe",
-        "ex_of_definition_list": [
-          "The bride was presented with a lucky silver horseshoe."
-        ]
-      }
+    "hash_code_list_img": "1000719612",
+    "list_example": [
+      "The bride was presented with a lucky silver horseshoe.",
+      "Recreational features included hobby shops and recreation rooms, plus opportunities for such sports as skiing, skating, horseshoes, and basketball.",
+      "Invariant manifolds and equilibrium states for non-uniformly hyperbolic horseshoes.",
+      "Available activities include camping, boating, fishing, waterskiing, horseshoes, interpretive activities, wildlife viewing, and mountain biking.",
+      "The horses were fitted with copper horseshoes to reduce the likelihood of sparks.",
+      "They have certainly not forgotten to put their horseshoes in their bouquets.",
+      "Play is to either 11 or 21 with two players on each side, with teammates on opposing sides (similar to horseshoes).",
+      "Many objects were used, not just clogs: horseshoes, shingles, slates, wooden plates with a message, coins with a cross on them."
     ],
-    "hash_code_list_definition_mean": "500919002"
+    "hash_code_list_example": "984735911"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/horse_cb_dmean_5000_it.json",
@@ -2079,18 +1406,11 @@
         "id_image": "horse_239262"
       }
     ],
-    "hash_code_list_img": "507126166",
-    "list_definition_mean": [
-      {
-        "mean_english": "con ngựa",
-        "definition": "a large four-footed animal which is used to pull carts etc or to carry people etc",
-        "ex_of_definition_list": [
-          "a horse and cart",
-          "She enjoys riding her horse."
-        ]
-      }
+    "hash_code_list_img": "1207739371",
+    "list_example": [
+      "a horse and cart"
     ],
-    "hash_code_list_definition_mean": "13007528"
+    "hash_code_list_example": "-573503894"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hose_cb_dmean_5000_it.json",
@@ -2120,32 +1440,14 @@
         "id_image": "hose_356989"
       }
     ],
-    "hash_code_list_img": "364202366",
-    "list_definition_mean": [
-      {
-        "mean_english": "ống vòi",
-        "definition": "(also hosepipe) a rubber, plastic etc tube which bends and which is used to carry water etc",
-        "ex_of_definition_list": [
-          "a garden hose",
-          "a fireman’s hose."
-        ]
-      },
-      {
-        "mean_english": "bít tất dài",
-        "definition": "an older word for stockings or socks",
-        "ex_of_definition_list": [
-          "woollen/woolen hose."
-        ]
-      },
-      {
-        "mean_english": "rửa hoặc tưới nước bằng vòi",
-        "definition": "to apply water to by means of a hose",
-        "ex_of_definition_list": [
-          "I’ll go and hose the garden/car."
-        ]
-      }
+    "hash_code_list_img": "545702831",
+    "list_example": [
+      "I’ll go and hose the garden/car.",
+      "They wear culottes and sometimes have parallel gartering over hose or bare legs.",
+      "Plants in the pots were watered by hose to supplement natural rainfall when necessary.",
+      "Dead seedlings and t hose with wilted leaves were also discarded."
     ],
-    "hash_code_list_definition_mean": "-2053232821"
+    "hash_code_list_example": "1399785944"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hospitality_cb_dmean_5000_it.json",
@@ -2178,17 +1480,15 @@
         "id_image": "hospitality_5778929"
       }
     ],
-    "hash_code_list_img": "-582220852",
-    "list_definition_mean": [
-      {
-        "mean_english": "lòng hiếu khách",
-        "definition": "a friendly welcome for guests or strangers, which often includes offering them food, drink etc",
-        "ex_of_definition_list": [
-          "The local people are renowned for their warm hospitality."
-        ]
-      }
+    "hash_code_list_img": "1204257053",
+    "list_example": [
+      "There can be no trade without such services as finance, accountancy, management, trading expertise, legal services, transport and logistics, hotel and hospitality services, technological research, and design.",
+      "They usually involved several days of hospitality and qat and remained unaccounted for.",
+      "In urban homes, distinctive forms of sociability, different from ' country hospitality ', evolved under the rubric of politeness.",
+      "His appointment, they argued, reflected favoritism, circumventing the rules, and by implication, the politics of hospitality (a dominant tribal process).",
+      "The most obvious change was the decline of ancient hospitality and personal charity."
     ],
-    "hash_code_list_definition_mean": "710857284"
+    "hash_code_list_example": "307357704"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hospital_cb_dmean_5000_it.json",
@@ -2216,17 +1516,12 @@
         "id_image": "hospital_878249"
       }
     ],
-    "hash_code_list_img": "1608222511",
-    "list_definition_mean": [
-      {
-        "mean_english": "bệnh viện",
-        "definition": "a building or group of buildings where people who are ill or injured are given treatment",
-        "ex_of_definition_list": [
-          "After the train crash, the injured people were taken to hospital."
-        ]
-      }
+    "hash_code_list_img": "1518329270",
+    "list_example": [
+      "There are also suggestions to integrate the fee-for-service payment system for hospital doctors with the hospital budget (cf., infra).",
+      "It developed plans to offer medical care, hospital treatment, electricity, and water trucking."
     ],
-    "hash_code_list_definition_mean": "1534507184"
+    "hash_code_list_example": "-1947368562"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hostage_cb_dmean_5000_it.json",
@@ -2254,18 +1549,20 @@
         "id_image": "hostage_4321593"
       }
     ],
-    "hash_code_list_img": "767518084",
-    "list_definition_mean": [
-      {
-        "mean_english": "con tin",
-        "definition": "a person who is held prisoner in order to ensure that the captor’s demands etc will be carried out",
-        "ex_of_definition_list": [
-          "The terrorists took three people with them as hostages",
-          "They took / were holding three people hostage."
-        ]
-      }
+    "hash_code_list_img": "-1165559169",
+    "list_example": [
+      "The terrorists took three people with them as hostages",
+      "They took / were holding three people hostage.",
+      "There is no free movement and over a thousand prisoners arrested before 1993 have been held in prison as if they were hostages.",
+      "He has given some hostages to fortune to the north, and made some promises that it will be difficult to deliver.",
+      "In recent days the plight of the hostages and refugees has understandably dominated the media.",
+      "We are persevering with our efforts to persuade them that the holding of hostages is in no one's interest.",
+      "There is no question but that the taking of the hostages is totally deplorable.",
+      "In that same prison there were some women kept as hostages until their husbands, who were under threat of arrest, gave themselves up.",
+      "Of those three conditions, one has been largely fulfilled—the release of the hostages.",
+      "If the situation has not been clarified and the eight hostages have not been located, the families' concern will increase."
     ],
-    "hash_code_list_definition_mean": "1241594690"
+    "hash_code_list_example": "-20741835"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hostel_cb_dmean_5000_it.json",
@@ -2294,24 +1591,20 @@
         "id_image": "hostel_751699"
       }
     ],
-    "hash_code_list_img": "-2119008673",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà trọ",
-        "definition": "a building with simple accommodation, especially for young people, hikers etc",
-        "ex_of_definition_list": [
-          "a youth hostel."
-        ]
-      },
-      {
-        "mean_english": "ký túc xác",
-        "definition": "a building where students etc may live",
-        "ex_of_definition_list": [
-          "a nurses’ hostel."
-        ]
-      }
+    "hash_code_list_img": "-775609014",
+    "list_example": [
+      "a youth hostel.",
+      "a nurses’ hostel.",
+      "The skinheads attacked one of the refugee hostels and the people had to run up to the roof.",
+      "We are carrying out the first major expansion in the building of modern hostels for many years.",
+      "On the second part of the question, we are hoping to open further hostels for alcoholics.",
+      "As these hostels were never intended to be self-supporting, would he put the charges back to the original figure?",
+      "I feel it is important that these hostels should be designed very carefully for the type of people who are going to use them.",
+      "The sensitivity of the ovary to living arrangements became even clearer when the 49 students living in flats and hostels were separated from the 49 who lived with relatives.",
+      "We need residential hostels for the autistic for their own sake and for the sake of their parents.",
+      "I am advised that the hostels could not easily be converted into working class dwellings."
     ],
-    "hash_code_list_definition_mean": "670643107"
+    "hash_code_list_example": "1285677873"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/host_cb_dmean_5000_it.json",
@@ -2346,24 +1639,16 @@
         "id_image": "host_860259"
       }
     ],
-    "hash_code_list_img": "1915956641",
-    "list_definition_mean": [
-      {
-        "mean_english": "chủ nhà",
-        "definition": "(feminine hostess) a person who entertains someone else as his guest, usually in his own house",
-        "ex_of_definition_list": [
-          "The host and hostess greeted their guests at the door."
-        ]
-      },
-      {
-        "mean_english": "rất đông; vô số",
-        "definition": "a very large number of people or things",
-        "ex_of_definition_list": [
-          "a host of daffodils."
-        ]
-      }
+    "hash_code_list_img": "-2096638398",
+    "list_example": [
+      "The host and hostess greeted their guests at the door.",
+      "a host of daffodils.",
+      "Study of the effect of food on the biology of insects is important in understanding host suitability of plant-infesting insect species.",
+      "Technology transfers can be of general benefit to the host or specifically directed toward building up the information stock that contributes to effective bioprospecting.",
+      "Parasitism is reported as low, often with no response to host density and unlikely to have an impact upon the host population.",
+      "Diversity may have been influenced by radiation subsequent to colonization, or by secondary radiations in contemporary host taxa."
     ],
-    "hash_code_list_definition_mean": "1570681715"
+    "hash_code_list_example": "-798101444"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hotel_cb_dmean_5000_it.json",
@@ -2391,17 +1676,16 @@
         "id_image": "hotel_169440"
       }
     ],
-    "hash_code_list_img": "1991022663",
-    "list_definition_mean": [
-      {
-        "mean_english": "khách sạn",
-        "definition": "a usually large house or building where travellers, holidaymakers etc may receive food, lodging etc in return for payment",
-        "ex_of_definition_list": [
-          "The new hotel has over five hundred bedrooms."
-        ]
-      }
+    "hash_code_list_img": "-1266580548",
+    "list_example": [
+      "The new hotel has over five hundred bedrooms.",
+      "The challenge for the hotel lies in meeting this expectation whilst continuing to operate a generalised business function to sets of individuals.",
+      "Even when the group made it back to the dry, warm hotel the discussion continued into a lengthy coffee.",
+      "It will also include a special category of liquor license for music and entertainment venues separate from hotel licenses.",
+      "The view from the hotel room is equally breathtaking even if the room is smaller than expected.",
+      "When he returns to the hotel to talk to her again, he is full of confident resolve."
     ],
-    "hash_code_list_definition_mean": "80261081"
+    "hash_code_list_example": "-581168005"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hothouse_cb_dmean_5000_it.json",
@@ -2419,17 +1703,11 @@
         "id_image": "hothouse_1345387"
       }
     ],
-    "hash_code_list_img": "533689304",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà kính",
-        "definition": "a glass-house kept warm for growing plants in",
-        "ex_of_definition_list": [
-          "He grows orchids in his hothouse."
-        ]
-      }
+    "hash_code_list_img": "1468876617",
+    "list_example": [
+      "He grows orchids in his hothouse."
     ],
-    "hash_code_list_definition_mean": "1632981559"
+    "hash_code_list_example": "-879972444"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hot_cb_dmean_5000_it.json",
@@ -2461,47 +1739,15 @@
         "id_image": "hot_645711"
       }
     ],
-    "hash_code_list_img": "-1266788853",
-    "list_definition_mean": [
-      {
-        "mean_english": "nóng",
-        "definition": "having or causing a great deal of heat",
-        "ex_of_definition_list": [
-          "a hot oven",
-          "That water is hot."
-        ]
-      },
-      {
-        "mean_english": "nóng bức",
-        "definition": "very warm",
-        "ex_of_definition_list": [
-          "a hot day",
-          "Running makes me feel hot."
-        ]
-      },
-      {
-        "mean_english": "cay nồng",
-        "definition": "(of food) having a sharp, burning taste",
-        "ex_of_definition_list": [
-          "a hot curry."
-        ]
-      },
-      {
-        "mean_english": "nóng nảy",
-        "definition": "easily made angry",
-        "ex_of_definition_list": [
-          "a hot temper."
-        ]
-      },
-      {
-        "mean_english": "nóng hổi",
-        "definition": "recent; fresh",
-        "ex_of_definition_list": [
-          "hot news."
-        ]
-      }
+    "hash_code_list_img": "1344198569",
+    "list_example": [
+      "a hot oven",
+      "a hot day",
+      "a hot curry.",
+      "a hot temper.",
+      "hot news."
     ],
-    "hash_code_list_definition_mean": "1140768259"
+    "hash_code_list_example": "-919877155"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hour_cb_dmean_5000_it.json",
@@ -2535,28 +1781,15 @@
         "id_image": "hours_4745511"
       }
     ],
-    "hash_code_list_img": "321109856",
-    "list_definition_mean": [
-      {
-        "mean_english": "giờ; tiếng (đồng hồ)",
-        "definition": "sixty minutes, the twenty-fourth part of a day",
-        "ex_of_definition_list": [
-          "He spent an hour trying to start the car this morning",
-          "She’ll be home in half an hour",
-          "a five-hour delay."
-        ]
-      },
-      {
-        "mean_english": "khoảng thời gian ấn định để làm gì",
-        "definition": "the time at which a particular thing happens",
-        "ex_of_definition_list": [
-          "When the hour for action arrives, we’ll be ready.",
-          "He helped me in my hour of need",
-          "You can consult him during business hours."
-        ]
-      }
+    "hash_code_list_img": "177029017",
+    "list_example": [
+      "He spent an hour trying to start the car this morning",
+      "a five-hour delay.",
+      "When the hour for action arrives, we’ll be ready.",
+      "He helped me in my hour of need",
+      "We used the mean number of visits per flower for each hour as the variable."
     ],
-    "hash_code_list_definition_mean": "-997848180"
+    "hash_code_list_example": "783768513"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/household_cb_dmean_5000_it.json",
@@ -2594,17 +1827,15 @@
         "id_image": "household_5459489"
       }
     ],
-    "hash_code_list_img": "218419333",
-    "list_definition_mean": [
-      {
-        "mean_english": "hộ gia đình",
-        "definition": "the people who live together in a house, including their servants",
-        "ex_of_definition_list": [
-          "How many people are there in this household?"
-        ]
-      }
+    "hash_code_list_img": "938128574",
+    "list_example": [
+      "Having only one parent might have meant a household necessity of replacing the loss/absence of one parent.",
+      "This article therefore identifies the need for further research, qualitative and quantitative, on the relationship between women's employment patterns and the dynamics of household formation.",
+      "Men and women had different spheres of power in the household economy, which were determined by the changing roles they played in production.%!",
+      "Those with higher education, income and assets give more financial resources and advice but help with fewer household tasks.",
+      "It should be noted, however, that a biased picture may have been produced by the selection of household tasks included in the survey."
     ],
-    "hash_code_list_definition_mean": "1691626844"
+    "hash_code_list_example": "1723105122"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/house_cb_dmean_5000_it.json",
@@ -2637,54 +1868,12 @@
         "id_image": "house_288566"
       }
     ],
-    "hash_code_list_img": "-275252014",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà ở; căn nhà",
-        "definition": "a building in which people, especially a single family, live",
-        "ex_of_definition_list": [
-          "Houses have been built on the outskirts of the town for the workers in the new industrial estate."
-        ]
-      },
-      {
-        "mean_english": "nhà; chuồng",
-        "definition": "a place or building used for a particular purpose",
-        "ex_of_definition_list": [
-          "a hen house",
-          "a public house."
-        ]
-      },
-      {
-        "mean_english": "nhà hát",
-        "definition": "a theatre, or the audience in a theatre/theater",
-        "ex_of_definition_list": [
-          "There was a full house for the first night of the play."
-        ]
-      },
-      {
-        "mean_english": "dòng họ",
-        "definition": "a family, usually important or noble, including its ancestors and descendants",
-        "ex_of_definition_list": [
-          "the house of Tudor."
-        ]
-      },
-      {
-        "mean_english": "cung cấp nhà ở cho",
-        "definition": "to provide with a house, accommodation or shelter",
-        "ex_of_definition_list": [
-          "All these people will have to be housed",
-          "The animals are housed in the barn."
-        ]
-      },
-      {
-        "mean_english": "ở; trú",
-        "definition": "to store or keep somewhere",
-        "ex_of_definition_list": [
-          "The electric generator is housed in the garage."
-        ]
-      }
+    "hash_code_list_img": "2122111882",
+    "list_example": [
+      "There was a full house for the first night of the play.",
+      "the house of Tudor."
     ],
-    "hash_code_list_definition_mean": "1109910347"
+    "hash_code_list_example": "296187748"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/huge_cb_dmean_5000_it.json",
@@ -2702,18 +1891,19 @@
         "id_image": "huge_2904990"
       }
     ],
-    "hash_code_list_img": "1009755545",
-    "list_definition_mean": [
-      {
-        "mean_english": "khổng lồ",
-        "definition": "very large",
-        "ex_of_definition_list": [
-          "a huge dog",
-          "a huge sum of money",
-          "Their new house is huge."
-        ]
-      }
+    "hash_code_list_img": "1442249092",
+    "list_example": [
+      "a huge dog",
+      "a huge sum of money",
+      "Furthermore, a flat list of all variables requires huge numbers of cases and often includes missing values.",
+      "This massive two-volume tome exerted huge influence on nearly all areas touching upon civil rights up to twenty years after its original publication.",
+      "This is a relatively unexplored phenomenon with huge potential for identity analysis.",
+      "What is clear is that the huge number of cases filed reflects the increasing importance of the court in the country's political life.",
+      "Without enjoying diplomatic immunity and often endangering themselves and their families, they undertook a huge effort in the area of human-rights preservation.",
+      "Indeed, a huge literature has continued to find a positive relationship between economic development and democratization with a variety of measurements and cases.",
+      "The interatrial septum bulged to the left, contributing further to the huge right atrium.",
+      "People incurred huge expenditure, much above their means or status, and involved themselves in serious monetary difficulties."
     ],
-    "hash_code_list_definition_mean": "1663900474"
+    "hash_code_list_example": "1501643846"
   }
 ]

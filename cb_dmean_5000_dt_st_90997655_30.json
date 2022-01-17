@@ -25,17 +25,15 @@
         "id_image": "doll_5884229"
       }
     ],
-    "hash_code_list_img": "-409900174",
-    "list_definition_mean": [
-      {
-        "mean_english": "búp bê",
-        "definition": "a toy in the shape of a small human being",
-        "ex_of_definition_list": [
-          "a china doll."
-        ]
-      }
+    "hash_code_list_img": "394439222",
+    "list_example": [
+      "I do not believe that anybody really admires a stuffed doll on horseback.",
+      "The race of the doll family, and the gender of the child dolls, were matched to the race and gender of each participant.",
+      "She touched the doll briefly then put the bowl down in her lap, rocking it gently with both hands and smiling occasionally.",
+      "Do this several times, ensuring that the doll is kept out of reach of the child.",
+      "He took the doll and proceeded to guide the child through a sequence of setting up a pretend bath scenario."
     ],
-    "hash_code_list_definition_mean": "961648618"
+    "hash_code_list_example": "-1608244632"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/domain_cb_dmean_5000_it.json",
@@ -64,24 +62,20 @@
         "id_image": "domain_5030933"
       }
     ],
-    "hash_code_list_img": "1017271721",
-    "list_definition_mean": [
-      {
-        "mean_english": "lãnh địa",
-        "definition": "an old word for the lands which belong to a person",
-        "ex_of_definition_list": [
-          "the king’s domains."
-        ]
-      },
-      {
-        "mean_english": "lĩnh vực",
-        "definition": "one’s area of interest or of knowledge",
-        "ex_of_definition_list": [
-          "That question is outside my domain."
-        ]
-      }
+    "hash_code_list_img": "-292136635",
+    "list_example": [
+      "the king’s domains.",
+      "That question is outside my domain.",
+      "Because of this, sequential selection does not choose examples from the latter domains until all those from the first have been selected.",
+      "Several have a variety of domains, which may be useful in determining protein function.",
+      "More generally, we can consider domains with a (densely) embedded copy of line or unit interval.",
+      "What had not been realised before is that this same construction can be applied to ordered sets, and to domains.",
+      "In this paper, we are particularly interested in domains without maximal finite elements.",
+      "In some nlg domains, short texts may be desirable, but then the target corpus will also consist of short texts.",
+      "Colimits of diagrams with small-filtered domains are called small-filtered colimits.",
+      "Note that the cartesian product of two convex domains is convex, so this minimisation is, in fact, also a convex minimisation call."
     ],
-    "hash_code_list_definition_mean": "1529846193"
+    "hash_code_list_example": "-1948134030"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/domestic_cb_dmean_5000_it.json",
@@ -122,40 +116,16 @@
         "id_image": "domestic_3046246"
       }
     ],
-    "hash_code_list_img": "1187486230",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc về trong nhà",
-        "definition": "of or in the house or home",
-        "ex_of_definition_list": [
-          "a domestic servant",
-          "domestic utensils."
-        ]
-      },
-      {
-        "mean_english": "thuộc riêng tư",
-        "definition": "concerning one’s private life or family",
-        "ex_of_definition_list": [
-          "domestic problems."
-        ]
-      },
-      {
-        "mean_english": "gia súc",
-        "definition": "(of animals) tame and living with or used by people",
-        "ex_of_definition_list": [
-          "Cats are popular domestic pets."
-        ]
-      },
-      {
-        "mean_english": "nội địa",
-        "definition": "not foreign",
-        "ex_of_definition_list": [
-          "a domestic airline",
-          "the Government’s domestic policy."
-        ]
-      }
+    "hash_code_list_img": "-157549956",
+    "list_example": [
+      "a domestic servant",
+      "domestic utensils.",
+      "domestic problems.",
+      "Cats are popular domestic pets.",
+      "a domestic airline",
+      "the Government’s domestic policy."
     ],
-    "hash_code_list_definition_mean": "-1484162428"
+    "hash_code_list_example": "656730677"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dome_cb_dmean_5000_it.json",
@@ -188,17 +158,11 @@
         "id_image": "dome_2918268"
       }
     ],
-    "hash_code_list_img": "1318007926",
-    "list_definition_mean": [
-      {
-        "mean_english": "mái vòm",
-        "definition": "a roof shaped like half a ball",
-        "ex_of_definition_list": [
-          "the dome of the cathedral."
-        ]
-      }
+    "hash_code_list_img": "1646654622",
+    "list_example": [
+      "the dome of the cathedral."
     ],
-    "hash_code_list_definition_mean": "425508733"
+    "hash_code_list_example": "1986305099"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/domino_cb_dmean_5000_it.json",
@@ -226,17 +190,19 @@
         "id_image": "domino_5798100"
       }
     ],
-    "hash_code_list_img": "1478590832",
-    "list_definition_mean": [
-      {
-        "mean_english": "cờ đô mi nô",
-        "definition": "an oblong piece of wood etc marked with spots with which the game of dominoes is played",
-        "ex_of_definition_list": [
-          "The two old men were playing a game of dominoes."
-        ]
-      }
+    "hash_code_list_img": "-857412295",
+    "list_example": [
+      "The two old men were playing a game of dominoes.",
+      "Observers first had to adjust a tiltable plane such that it coincided with the perceived plane of the domino's motion.",
+      "Fives and threes is a game of skill, but dominoes are out.",
+      "Chance comes first in drawing the cards or dominoes, but from then on a great deal of skill is needed.",
+      "As the dominoes fall, one by one, an additional segment of the economy is devastated.",
+      "If we remove finitely many dominoes out of this pattern, the only way to tile the uncovered space is to rebuild the pattern.",
+      "The destruction is beginning to gather the momentum of a falling line of dominoes.",
+      "A great many people want to play dominoes in the \"pub\" in the same way that a great many other people want to play darts.",
+      "The tiles are dominoes composed of two unit squares; there are just two tile types."
     ],
-    "hash_code_list_definition_mean": "2061498090"
+    "hash_code_list_example": "954143562"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/donate_cb_dmean_5000_it.json",
@@ -269,17 +235,13 @@
         "id_image": "donate_523211"
       }
     ],
-    "hash_code_list_img": "-336753578",
-    "list_definition_mean": [
-      {
-        "mean_english": "tặng",
-        "definition": "to give to a fund etc",
-        "ex_of_definition_list": [
-          "He donated $100 to the fund."
-        ]
-      }
+    "hash_code_list_img": "2135737793",
+    "list_example": [
+      "The family of such a \"suddenly silent\" patient makes the decision whether to donate his organs.",
+      "The family making the decision to withdraw life-support and donate organs would have been fully informed of all of these conditions.",
+      "Thousands and thousands of people stand ready to donate their organs."
     ],
-    "hash_code_list_definition_mean": "794879625"
+    "hash_code_list_example": "-175801231"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/donation_cb_dmean_5000_it.json",
@@ -317,17 +279,13 @@
         "id_image": "donation_489116"
       }
     ],
-    "hash_code_list_img": "-442989061",
-    "list_definition_mean": [
-      {
-        "mean_english": "vật hiến tặng",
-        "definition": "a gift of money or goods to a fund or collection",
-        "ex_of_definition_list": [
-          "All donations are welcome."
-        ]
-      }
+    "hash_code_list_img": "675938244",
+    "list_example": [
+      "If the risk to a volunteer is very high, donation should generally not be permitted even if the predicted benefit for the recipient is greater.",
+      "In addition to the small charge for admission, a donation is requested at the end of each show to help the artists financially.",
+      "Perspectives fears and retain public trust in the organ donation and transplantation system."
     ],
-    "hash_code_list_definition_mean": "1319386476"
+    "hash_code_list_example": "1751951614"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/done_cb_dmean_5000_it.json",
@@ -357,31 +315,13 @@
         "id_image": "done_5622617"
       }
     ],
-    "hash_code_list_img": "-1928574906",
-    "list_definition_mean": [
-      {
-        "mean_english": "hoàn thành",
-        "definition": "finished or complete",
-        "ex_of_definition_list": [
-          "That’s that job done at last."
-        ]
-      },
-      {
-        "mean_english": "nấu chín",
-        "definition": "(of food) completely cooked and ready to eat",
-        "ex_of_definition_list": [
-          "I don’t think the meat is quite done yet."
-        ]
-      },
-      {
-        "mean_english": "có thể chấp nhận về mặt xã hội",
-        "definition": "socially accepted",
-        "ex_of_definition_list": [
-          "It’s not the done thing to ask someone how much they earn."
-        ]
-      }
+    "hash_code_list_img": "-1678038032",
+    "list_example": [
+      "That’s that job done at last.",
+      "I don’t think the meat is quite done yet.",
+      "It’s not the done thing to ask someone how much they earn."
     ],
-    "hash_code_list_definition_mean": "2081617140"
+    "hash_code_list_example": "-464450872"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/donkey_cb_dmean_5000_it.json",
@@ -405,17 +345,19 @@
         "id_image": "donkey_6158658"
       }
     ],
-    "hash_code_list_img": "-2108497197",
-    "list_definition_mean": [
-      {
-        "mean_english": "người ngu ngốc",
-        "definition": "a stupid person",
-        "ex_of_definition_list": [
-          "Don’t be such a donkey!"
-        ]
-      }
+    "hash_code_list_img": "-1901839817",
+    "list_example": [
+      "Don’t be such a donkey!",
+      "At all the towns mentioned there were large herds of cattle, numerous goats, and not a few donkeys.",
+      "Moreover, the intricacies of herding camels, horses, donkeys, cattle, sheep and goats are simply alluded to in passing, without being investigated.",
+      "My experience of the armed forces is that all the donkeys have now left.",
+      "Incorporation and denaturing in this respect are doing no more than what we have done for donkeys' years.",
+      "I see no justification for introducing legislation to prohibit the import of donkeys.",
+      "With the exception of the air base which is fenced off, the donkeys are free to graze on the island.",
+      "The donkeys were introduced to their experimental routine 19 days before the start of the trial.",
+      "When placed at the back of the tongue the donkeys were frequently able to recover the boli and eject them from their mouths."
     ],
-    "hash_code_list_definition_mean": "1105063048"
+    "hash_code_list_example": "977889880"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/donor_cb_dmean_5000_it.json",
@@ -443,19 +385,21 @@
         "id_image": "donor_1142105"
       }
     ],
-    "hash_code_list_img": "1306596485",
-    "list_definition_mean": [
-      {
-        "mean_english": "người cho, tặng",
-        "definition": "a giver of a gift or of a part of the body used to replace a diseased part of someone else’s body",
-        "ex_of_definition_list": [
-          "The charity received a large sum of money from an anonymous donor",
-          "a kidney donor",
-          "a blood donor."
-        ]
-      }
+    "hash_code_list_img": "-632592237",
+    "list_example": [
+      "The charity received a large sum of money from an anonymous donor",
+      "a kidney donor",
+      "a blood donor.",
+      "Proxy recipients and donors appear and are used as cover by some of these hospitals.",
+      "Less obvious: recipients know that donors and nondonors have categorized themselves knowingly and voluntarily.",
+      "Against this background, it is not surprising that most people also do not take the time to consider transplantation options, either as donors or recipients.",
+      "Also, the unrelated donors we interviewed were generally quite open about acknowledging that they had received money for donating their kidneys.",
+      "Due to the manner in which we receive our specimens, the nature and medical history of the donors' diabetes are unknown.",
+      "I dream of establishing a world-class studio, available to all composers who are affiliated with the center, raising money from interested donors, here and abroad.",
+      "Along with its emphasis on local capacities and resilience, this volume tends to view donors, international organisations and global processes with scepticism.",
+      "Local associations in the two communities differ in their relations with state officials and international donors."
     ],
-    "hash_code_list_definition_mean": "685072455"
+    "hash_code_list_example": "717086506"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/doorbell_cb_dmean_5000_it.json",
@@ -493,17 +437,12 @@
         "id_image": "doorbell_5512950"
       }
     ],
-    "hash_code_list_img": "-1978572570",
-    "list_definition_mean": [
-      {
-        "mean_english": "chuông cửa",
-        "definition": "a button near the front door of a house which you press to make a sound that tells the people inside that you are there",
-        "ex_of_definition_list": [
-          "I think I heard someone ring the doorbell."
-        ]
-      }
+    "hash_code_list_img": "-1479825554",
+    "list_example": [
+      "The boy was worried and within a few minutes the doorbell rang again.",
+      "Programme an entire seductive evening before your date's mobile all-purpose utility aid triggers the doorbell to ring."
     ],
-    "hash_code_list_definition_mean": "1628035231"
+    "hash_code_list_example": "-1826963101"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/doorknob_cb_dmean_5000_it.json",
@@ -531,17 +470,12 @@
         "id_image": "doorknob_2236368"
       }
     ],
-    "hash_code_list_img": "-1397124216",
-    "list_definition_mean": [
-      {
-        "mean_english": "nắm đấm cửa",
-        "definition": "a knob-shaped handle for opening and closing a door",
-        "ex_of_definition_list": [
-          "She slowly turned the doorknob."
-        ]
-      }
+    "hash_code_list_img": "2060496835",
+    "list_example": [
+      "Also, objects such as metal measuring spoons hung from a doorknob will rattle and awaken the care provider if a patient attempts to leave a room.",
+      "The exception is the red thread, which is tied to the front doorknob of the guest's house to ward off bad luck."
     ],
-    "hash_code_list_definition_mean": "2063934919"
+    "hash_code_list_example": "824067650"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/doorman_cb_dmean_5000_it.json",
@@ -579,17 +513,13 @@
         "id_image": "doorman_978403"
       }
     ],
-    "hash_code_list_img": "-1404945436",
-    "list_definition_mean": [
-      {
-        "mean_english": "người gác cửa",
-        "definition": "a man on duty at the door of a hotel, store etc",
-        "ex_of_definition_list": [
-          "The doorman was standing outside the entrance to the club."
-        ]
-      }
+    "hash_code_list_img": "-750456576",
+    "list_example": [
+      "The doorman was standing outside the entrance to the club.",
+      "It should then be an offence for a nightclub owner to hire a doorman who did not possess an approved licence.",
+      "The doorman was always polite and friendly."
     ],
-    "hash_code_list_definition_mean": "2037375700"
+    "hash_code_list_example": "-1916056876"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/doorway_cb_dmean_5000_it.json",
@@ -617,17 +547,14 @@
         "id_image": "doorway_988478"
       }
     ],
-    "hash_code_list_img": "405805501",
-    "list_definition_mean": [
-      {
-        "mean_english": "ô cửa",
-        "definition": "the space usually filled by a door",
-        "ex_of_definition_list": [
-          "He was standing in the doorway."
-        ]
-      }
+    "hash_code_list_img": "201223078",
+    "list_example": [
+      "That simple facade and doorway transformed the way in which audiences perceived the theatre.",
+      "It becomes a doorway to the imagination, linking the inner and outer worlds.",
+      "In her last months, she would often sit in the doorway of her home, gasping for breath.",
+      "The intensity of light incident on a test surface placed along the line of sight through the doorway varied with depth."
     ],
-    "hash_code_list_definition_mean": "1870158406"
+    "hash_code_list_example": "2134186544"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/door_cb_dmean_5000_it.json",
@@ -661,24 +588,11 @@
         "id_image": "door_605649"
       }
     ],
-    "hash_code_list_img": "-1043547124",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái cửa",
-        "definition": "the usually hinged barrier, usually of wood, which closes the entrance of a room, house etc",
-        "ex_of_definition_list": [
-          "He knocked loudly on the door."
-        ]
-      },
-      {
-        "mean_english": "phương tiện để đạt được cái gì",
-        "definition": "a means of achieving something",
-        "ex_of_definition_list": [
-          "the door to success."
-        ]
-      }
+    "hash_code_list_img": "-1069322101",
+    "list_example": [
+      "the door to success."
     ],
-    "hash_code_list_definition_mean": "-1004521901"
+    "hash_code_list_example": "-970574068"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dosage_cb_dmean_5000_it.json",
@@ -706,17 +620,16 @@
         "id_image": "dosage_4867023"
       }
     ],
-    "hash_code_list_img": "1264869612",
-    "list_definition_mean": [
-      {
-        "mean_english": "liều lượng",
-        "definition": "the size of, or method of giving, a dose of medicine etc",
-        "ex_of_definition_list": [
-          "What is the dosage for a child of five?"
-        ]
-      }
+    "hash_code_list_img": "-1953974154",
+    "list_example": [
+      "What is the dosage for a child of five?",
+      "When a plateau at an abnormal value has been reached treatment can be resumed at a higher dosage or for a longer period.",
+      "Their responsibilities include reviewing patient medication profiles, identifying and monitoring adverse drug reactions, dosage recommendations, and patient education.",
+      "At any rate, it is difficult, in view of the lack of clinical experience, to make more specific dosage recommendations.",
+      "He was confused with the dosage instruction given by the doctor for this hypoglycaemic tablet.",
+      "Renal impairment is not uncommon in the elderly and, if severe, may necessitate reduction in methotrexate dosage or, in severe cases, avoidance of methotrexate."
     ],
-    "hash_code_list_definition_mean": "1501688549"
+    "hash_code_list_example": "-1129817678"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dose_cb_dmean_5000_it.json",
@@ -746,31 +659,12 @@
         "id_image": "dose_5671548"
       }
     ],
-    "hash_code_list_img": "644179280",
-    "list_definition_mean": [
-      {
-        "mean_english": "liều",
-        "definition": "the quantity of medicine etc to be taken at one time",
-        "ex_of_definition_list": [
-          "It’s time you had a dose of your medicine."
-        ]
-      },
-      {
-        "mean_english": "sự trải qua một cái gì không vui",
-        "definition": "an unpleasant thing (especially an illness) which one is forced to suffer",
-        "ex_of_definition_list": [
-          "a nasty dose of flu."
-        ]
-      },
-      {
-        "mean_english": "phát thuốc cho ai",
-        "definition": "to give medicine to",
-        "ex_of_definition_list": [
-          "She dosed him with aspirin."
-        ]
-      }
+    "hash_code_list_img": "-1535283591",
+    "list_example": [
+      "It’s time you had a dose of your medicine.",
+      "a nasty dose of flu."
     ],
-    "hash_code_list_definition_mean": "2131779768"
+    "hash_code_list_example": "425947462"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dossier_cb_dmean_5000_it.json",
@@ -808,17 +702,12 @@
         "id_image": "dossier_533972"
       }
     ],
-    "hash_code_list_img": "-459593353",
-    "list_definition_mean": [
-      {
-        "mean_english": "hồ sơ",
-        "definition": "a set of papers containing information etc about a person or a particular matter",
-        "ex_of_definition_list": [
-          "a secret dossier."
-        ]
-      }
+    "hash_code_list_img": "-121119176",
+    "list_example": [
+      "We could easily enough compile a dossier of complaints lodged against the device.",
+      "The result is an attempt to assign function on the basis of a thick dossier of detailed information."
     ],
-    "hash_code_list_definition_mean": "945140381"
+    "hash_code_list_example": "-249701839"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dot_cb_dmean_5000_it.json",
@@ -856,17 +745,13 @@
         "id_image": "dot_5982583"
       }
     ],
-    "hash_code_list_img": "2130918566",
-    "list_definition_mean": [
-      {
-        "mean_english": "chấm nhỏ",
-        "definition": "a small, round mark",
-        "ex_of_definition_list": [
-          "Her skirt was red with white dots."
-        ]
-      }
+    "hash_code_list_img": "-2123459535",
+    "list_example": [
+      "A dot in parentheses indicates a tiny 'gap' within or between utterances.",
+      "The youngest monkeys showed directionally selective orienting and the ability to integrate motion signals at large dot displacements and fast speeds.",
+      "To explicate this position, we map the likely operational mechanics of dot eu by employing a conceptual framework which extends academic analysis in two areas."
     ],
-    "hash_code_list_definition_mean": "1866665671"
+    "hash_code_list_example": "1335323532"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/double_cb_dmean_5000_it.json",
@@ -902,82 +787,16 @@
         "id_image": "double_6436425"
       }
     ],
-    "hash_code_list_img": "997827347",
-    "list_definition_mean": [
-      {
-        "mean_english": "gấp đôi",
-        "definition": "of twice the (usual) weight, size etc",
-        "ex_of_definition_list": [
-          "A double whisky, please."
-        ]
-      },
-      {
-        "mean_english": "đôi; kép",
-        "definition": "two of a sort together or occurring in pairs",
-        "ex_of_definition_list": [
-          "double doors."
-        ]
-      },
-      {
-        "mean_english": "(từ ghép) gồm hai",
-        "definition": "consisting of two parts or layers",
-        "ex_of_definition_list": [
-          "a double thickness of paper",
-          "a double meaning."
-        ]
-      },
-      {
-        "mean_english": "cho hai người",
-        "definition": "for two people",
-        "ex_of_definition_list": [
-          "a double bed."
-        ]
-      },
-      {
-        "mean_english": "gấp đôi",
-        "definition": "twice",
-        "ex_of_definition_list": [
-          "I gave her double the usual quantity."
-        ]
-      },
-      {
-        "mean_english": "thành hai",
-        "definition": "in two",
-        "ex_of_definition_list": [
-          "The coat had been folded double."
-        ]
-      },
-      {
-        "mean_english": "số lượng gấp đôi",
-        "definition": "a double quantity",
-        "ex_of_definition_list": [
-          "Whatever I earn, she must earn at least double."
-        ]
-      },
-      {
-        "mean_english": "người hoặc vật giống hệt",
-        "definition": "someone who is exactly like another",
-        "ex_of_definition_list": [
-          "He is my father’s double."
-        ]
-      },
-      {
-        "mean_english": "tăng gấp đôi",
-        "definition": "to (cause to) become twice as large or numerous",
-        "ex_of_definition_list": [
-          "He doubled his income in three years",
-          "Road accidents have doubled since 1960."
-        ]
-      },
-      {
-        "mean_english": "có chức năng sử dụng phụ như cái gì",
-        "definition": "to have two jobs or uses",
-        "ex_of_definition_list": [
-          "This sofa doubles as a bed."
-        ]
-      }
+    "hash_code_list_img": "1230503965",
+    "list_example": [
+      "A double whisky, please.",
+      "double doors.",
+      "a double thickness of paper",
+      "a double meaning.",
+      "a double bed.",
+      "I gave her double the usual quantity."
     ],
-    "hash_code_list_definition_mean": "305499818"
+    "hash_code_list_example": "-331099399"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/doubtful_cb_dmean_5000_it.json",
@@ -1003,40 +822,21 @@
         "id_image": "doubtful_5777998"
       }
     ],
-    "hash_code_list_img": "1930630061",
-    "list_definition_mean": [
-      {
-        "mean_english": "nghi ngại",
-        "definition": "feeling doubt; uncertain what to think, expect etc",
-        "ex_of_definition_list": [
-          "He is doubtful about the future of the school."
-        ]
-      },
-      {
-        "mean_english": "đáng ngờ",
-        "definition": "able to be doubted; not clear",
-        "ex_of_definition_list": [
-          "The outcome is doubtful",
-          "a doubtful result."
-        ]
-      },
-      {
-        "mean_english": "không chắc chắn",
-        "definition": "uncertain but rather unlikely, unhopeful etc",
-        "ex_of_definition_list": [
-          "It is doubtful whether this will work",
-          "a doubtful improvement."
-        ]
-      },
-      {
-        "mean_english": "khả nghi",
-        "definition": "suspicious",
-        "ex_of_definition_list": [
-          "He’s rather a doubtful character."
-        ]
-      }
+    "hash_code_list_img": "-973026371",
+    "list_example": [
+      "He is doubtful about the future of the school.",
+      "a doubtful result.",
+      "It is doubtful whether this will work",
+      "a doubtful improvement.",
+      "He’s rather a doubtful character.",
+      "However, we shall see that it is doubtful that materialism cannot explain the universe.",
+      "In addition, it is doubtful that the equilibrium is unique16 ; again, this is a largely unexplored issue in the literature.",
+      "Many are doubtful that increased direct funding would generate sufficient incentives or be managed efficiently enough.",
+      "We consider it doubtful that the observed trends are strongly biased by inaccurate cancer registry or population data.",
+      "Indeed, it is doubtful if even seasoned researchers can truly have intuitions about interpretability in the absence of an explicit theory.",
+      "In addition, their reliability is doubtful since the newspaper admitted that they were based on hearsay."
     ],
-    "hash_code_list_definition_mean": "392081395"
+    "hash_code_list_example": "601703695"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/doubt_cb_dmean_5000_it.json",
@@ -1071,33 +871,20 @@
         "id_image": "doubt_860459"
       }
     ],
-    "hash_code_list_img": "877669260",
-    "list_definition_mean": [
-      {
-        "mean_english": "nghi ngờ",
-        "definition": "to feel uncertain about, but inclined not to believe",
-        "ex_of_definition_list": [
-          "I doubt if he’ll come now",
-          "He might have a screwdriver, but I doubt it."
-        ]
-      },
-      {
-        "mean_english": "hoài nghi",
-        "definition": "not to be sure of the reliability of",
-        "ex_of_definition_list": [
-          "Sometimes I doubt your intelligence!"
-        ]
-      },
-      {
-        "mean_english": "sự ngờ vực",
-        "definition": "a feeling of not being sure and sometimes of being suspicious",
-        "ex_of_definition_list": [
-          "There is some doubt as to what happened",
-          "I have doubts about that man."
-        ]
-      }
+    "hash_code_list_img": "-1678060910",
+    "list_example": [
+      "I doubt if he’ll come now",
+      "He might have a screwdriver, but I doubt it.",
+      "Sometimes I doubt your intelligence!",
+      "There is some doubt as to what happened",
+      "There is no doubt that such a proposal will be ver y popular here at home.",
+      "He did, and there is no doubt that viewed from 2006, his work suffered accordingly.",
+      "No doubt there will be debates about how far determinacy will take us.",
+      "There is no doubt that greater thought and energy are directed towards the first objective.",
+      "This is no doubt related to the increased interest in gas centrifuges as a means of separating uranium isotopes.",
+      "Some will regard this as noble objectivity while others will no doubt regard it as scientific cowardice."
     ],
-    "hash_code_list_definition_mean": "1128692997"
+    "hash_code_list_example": "-1299107792"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/doughnut_cb_dmean_5000_it.json",
@@ -1130,17 +917,19 @@
         "id_image": "doughnut_532825"
       }
     ],
-    "hash_code_list_img": "1662601040",
-    "list_definition_mean": [
-      {
-        "mean_english": "bánh cam vòng",
-        "definition": "a ring-shaped cake, with a hole in the middle, fried in fat",
-        "ex_of_definition_list": [
-          "a jam doughnut."
-        ]
-      }
+    "hash_code_list_img": "-291884588",
+    "list_example": [
+      "a jam doughnut.",
+      "She uses her power of persuasion to suggest that he leave and have some doughnuts, and he agrees, driving away.",
+      "Hoon activities can include speeding, burnouts, doughnuts or screeching tyres.",
+      "As it is, many of our cities resemble doughnuts with no jam left in the middle.",
+      "One recipe for the snack 'scramble', for instance, calls for a package of 'doughnut-shaped oat cereal' and a package of 'bite-size crisp rice squares'.",
+      "In the initial doughnut-like profile, positive and negative small clumps are arranged, in turn, at regular intervals.",
+      "He is addicted to doughnuts and sleeps a lot.",
+      "However, he finds solace in his love of doughnuts.",
+      "When these were brought to him he changed his mind, asked for two doughnuts instead, ate them, then walked out without paying."
     ],
-    "hash_code_list_definition_mean": "1822323986"
+    "hash_code_list_example": "1907297792"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dough_cb_dmean_5000_it.json",
@@ -1179,24 +968,11 @@
         "id_image": "dough_5236491"
       }
     ],
-    "hash_code_list_img": "605597457",
-    "list_definition_mean": [
-      {
-        "mean_english": "bột nhão",
-        "definition": "noun a mass of flour moistened and kneaded but not baked",
-        "ex_of_definition_list": [
-          "Leave the dough to rise in a warm place."
-        ]
-      },
-      {
-        "mean_english": "“xiền”",
-        "definition": "money",
-        "ex_of_definition_list": [
-          "I’ve run out of dough."
-        ]
-      }
+    "hash_code_list_img": "204296267",
+    "list_example": [
+      "Leave the dough to rise in a warm place."
     ],
-    "hash_code_list_definition_mean": "-609378772"
+    "hash_code_list_example": "2074346566"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dove_cb_dmean_5000_it.json",
@@ -1229,17 +1005,11 @@
         "id_image": "dove_5189202"
       }
     ],
-    "hash_code_list_img": "-418463493",
-    "list_definition_mean": [
-      {
-        "mean_english": "bồ câu",
-        "definition": "a kind of pigeon",
-        "ex_of_definition_list": [
-          "The dove is the symbol for peace."
-        ]
-      }
+    "hash_code_list_img": "2126350669",
+    "list_example": [
+      "The dove is the symbol for peace."
     ],
-    "hash_code_list_definition_mean": "1886706236"
+    "hash_code_list_example": "1370935120"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/downcast_cb_dmean_5000_it.json",
@@ -1257,17 +1027,18 @@
         "id_image": "downcast_4126518"
       }
     ],
-    "hash_code_list_img": "63712861",
-    "list_definition_mean": [
-      {
-        "mean_english": "thất vọng",
-        "definition": "(of a person) depressed; in low spirits",
-        "ex_of_definition_list": [
-          "He wore a downcast expression on his face."
-        ]
-      }
+    "hash_code_list_img": "1574389728",
+    "list_example": [
+      "He wore a downcast expression on his face.",
+      "Facing it were four divisions, three of which were downcast due to the previous successive setbacks.",
+      "Let no one be downcast or dismayed.",
+      "The increasing density of their relentlessly downcast music, augmented by occasional electronic noises, begins to feel ponderous.",
+      "I think we should not be too downcast by this.",
+      "I do not think there is any ground for being dispirited or downcast about the young.",
+      "His fiancee's family is having doubts about his fitness as a son-in-law and his parents are downcast because of his disability.",
+      "Therefore, we should not be too downcast about the failure of this meeting."
     ],
-    "hash_code_list_definition_mean": "310192909"
+    "hash_code_list_example": "-28264608"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/downgrade_cb_dmean_5000_it.json",
@@ -1285,17 +1056,16 @@
         "id_image": "downgrade_2921173"
       }
     ],
-    "hash_code_list_img": "1099556487",
-    "list_definition_mean": [
-      {
-        "mean_english": "giáng chức",
-        "definition": "to reduce to a lower level, especially of importance",
-        "ex_of_definition_list": [
-          "Greece’s credit rating was downgraded."
-        ]
-      }
+    "hash_code_list_img": "467335968",
+    "list_example": [
+      "Greece’s credit rating was downgraded.",
+      "Crucially, when a rating agency downgrades a security to speculative grade, the agency has effectively commanded certain regulated investors to sell.",
+      "The police believe that to define that offence specifically could be too prescriptive and could lead to other equivalent offences being downgraded.",
+      "The vast majority of those downgraded will be working normally, albeit with their deployability limited by their medical condition.",
+      "Is it true that his position is downgraded?",
+      "Moral virtue would be downgraded because it would no longer be required for heaven."
     ],
-    "hash_code_list_definition_mean": "1309988159"
+    "hash_code_list_example": "-2081527375"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/downhill_cb_dmean_5000_it.json",
@@ -1319,24 +1089,19 @@
         "id_image": "downhill_984307"
       }
     ],
-    "hash_code_list_img": "417674213",
-    "list_definition_mean": [
-      {
-        "mean_english": "xuống dốc",
-        "definition": "down a slope",
-        "ex_of_definition_list": [
-          "The road goes downhill from here onwards."
-        ]
-      },
-      {
-        "mean_english": "chiều hướng xấu di",
-        "definition": "towards a worse and worse state",
-        "ex_of_definition_list": [
-          "We expected him to die, I suppose, because he’s been going steadily downhill for months."
-        ]
-      }
+    "hash_code_list_img": "702280975",
+    "list_example": [
+      "The road goes downhill from here onwards.",
+      "We expected him to die, I suppose, because he’s been going steadily downhill for months.",
+      "As a result, there will be a national downhill race in respect of this regulation.",
+      "In general, one would expect transmission losses between the uphill and downhill regions.",
+      "At a given temperature, low-energy states have a barrier for escape, while states of higher energy have downhill free-energy profiles.",
+      "Thus, some systems that appear to be thermodynamically downhill may still appear to display exponential kinetics in the laboratory but with rates near the speed limit.",
+      "I am considering whether performance standards for the downhill braking of coaches should be enhanced.",
+      "Water can only be sold by uphill farmers to downhill farmers, and farmers cannot credibly threaten to withhold water they would not use at a zero price.",
+      "Signs are to be erected as soon as possible indicating advisory speed limits of 15 mph downhill and 20 mph uphill."
     ],
-    "hash_code_list_definition_mean": "1757621434"
+    "hash_code_list_example": "-1222278816"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/download_cb_dmean_5000_it.json",
@@ -1370,24 +1135,16 @@
         "id_image": "download_823491"
       }
     ],
-    "hash_code_list_img": "923472447",
-    "list_definition_mean": [
-      {
-        "mean_english": "tải",
-        "definition": "to move information or programs to your computer from another larger computer system or from the Internet",
-        "ex_of_definition_list": [
-          "It only takes a short while to download the program."
-        ]
-      },
-      {
-        "mean_english": "file tải về",
-        "definition": "information or programs that you have moved to your computer from another larger computer system or from the Internet",
-        "ex_of_definition_list": [
-          "Music downloads are big business nowadays."
-        ]
-      }
+    "hash_code_list_img": "1313988189",
+    "list_example": [
+      "It only takes a short while to download the program.",
+      "Will this mean traditional mail order, or download to a device in the home?",
+      "An 'ok' program can download programs but it can only write to the directory /tmp and cannot use system/1 to delete files.",
+      "There is also a section giving web-links for users to download software for powder diffraction studies.",
+      "Now, the drama of the change is such that consumers who download music have been characterised as enemies of the music industry.",
+      "Whenever users tried to download the song, they heard this scorning voiceover instead."
     ],
-    "hash_code_list_definition_mean": "-305707461"
+    "hash_code_list_example": "2069445796"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/downpour_cb_dmean_5000_it.json",
@@ -1405,17 +1162,14 @@
         "id_image": "downpour_2736744"
       }
     ],
-    "hash_code_list_img": "1321604853",
-    "list_definition_mean": [
-      {
-        "mean_english": "mưa như trút nước",
-        "definition": "a very heavy fall of rain",
-        "ex_of_definition_list": [
-          "We were caught in a torrential downpour."
-        ]
-      }
+    "hash_code_list_img": "265845825",
+    "list_example": [
+      "Did they fear that this would turn into a downpour which would ensure that they would be defeated even more heavily at the election?",
+      "Some people were simply caught in a downpour of ballot papers, all addressed to them.",
+      "Equally, you may get, after a week a sudden thunderstorm and a great downpour of rain, so that the order becomes entirely unnecessary.",
+      "Normally, we get excited if an inch of rain is recorded at any one time, which shows what a phenomenal downpour it was."
     ],
-    "hash_code_list_definition_mean": "192443027"
+    "hash_code_list_example": "1565353804"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/downward_cb_dmean_5000_it.json",
@@ -1438,17 +1192,18 @@
         "id_image": "downward_959116"
       }
     ],
-    "hash_code_list_img": "-470989484",
-    "list_definition_mean": [
-      {
-        "mean_english": "đi xuống",
-        "definition": "leading, moving etc down",
-        "ex_of_definition_list": [
-          "His career has taken a downward curve."
-        ]
-      }
+    "hash_code_list_img": "1053986587",
+    "list_example": [
+      "His career has taken a downward curve.",
+      "The upward vectors represent the supporting leg, and the downward vectors represent the swing leg.",
+      "Moreover, the expectation of a slight downward bias should only strengthen confidence in significant findings.",
+      "The second research question concerned the importance of upward and downward mobility versus ongoing poverty, dependency or stable economic circumstances.",
+      "The lateral extent of these layers cross-cuts the downward projection of major structures mapped at the surface.",
+      "As this mode of rhetoric becomes the norm, downward politeness paradoxically becomes a linguistic marker of power, and a tool for exercising that power.",
+      "The initial arpeggiations are balanced between upward and downward movement.",
+      "The peg was slowly moved downward and the random contact sequence was implemented."
     ],
-    "hash_code_list_definition_mean": "1437884096"
+    "hash_code_list_example": "-319451393"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/down_cb_dmean_5000_it.json",
@@ -1495,80 +1250,18 @@
         "id_image": "down_4845873"
       }
     ],
-    "hash_code_list_img": "920863059",
-    "list_definition_mean": [
-      {
-        "mean_english": "xuống",
-        "definition": "towards or in a low or lower position, level or state",
-        "ex_of_definition_list": [
-          "He climbed down to the bottom of the ladder."
-        ]
-      },
-      {
-        "mean_english": "ngã xuống",
-        "definition": "on or to the ground",
-        "ex_of_definition_list": [
-          "The little boy fell down and cut his knee."
-        ]
-      },
-      {
-        "mean_english": "ghi chép",
-        "definition": "from earlier to later times",
-        "ex_of_definition_list": [
-          "The recipe has been handed down in our family for years."
-        ]
-      },
-      {
-        "mean_english": "giảm xuống",
-        "definition": "from a greater to a smaller size, amount etc",
-        "ex_of_definition_list": [
-          "Prices have been going down steadily."
-        ]
-      },
-      {
-        "mean_english": "xuôi về",
-        "definition": "towards or in a place thought of as being lower, especially southward or away from a centre/center",
-        "ex_of_definition_list": [
-          "We went down from Glasgow to Bristol."
-        ]
-      },
-      {
-        "mean_english": "ở phía dưới",
-        "definition": "in a lower position on",
-        "ex_of_definition_list": [
-          "Their house is halfway down the hill."
-        ]
-      },
-      {
-        "mean_english": "ở dưới",
-        "definition": "to a lower position on, by, through or along",
-        "ex_of_definition_list": [
-          "Water poured down the drain."
-        ]
-      },
-      {
-        "mean_english": "xuôi theo",
-        "definition": "along",
-        "ex_of_definition_list": [
-          "The teacher’s gaze travelled slowly down the line of children."
-        ]
-      },
-      {
-        "mean_english": "cạn cốc nhanh",
-        "definition": "to finish (a drink) very quickly, especially in one gulp",
-        "ex_of_definition_list": [
-          "He downed a pint of beer."
-        ]
-      },
-      {
-        "mean_english": "lông tơ chim",
-        "definition": "small, soft feathers",
-        "ex_of_definition_list": [
-          "a quilt filled with down."
-        ]
-      }
+    "hash_code_list_img": "613254248",
+    "list_example": [
+      "He climbed down to the bottom of the ladder.",
+      "The little boy fell down and cut his knee.",
+      "The recipe has been handed down in our family for years.",
+      "Prices have been going down steadily.",
+      "We went down from Glasgow to Bristol.",
+      "Their house is halfway down the hill.",
+      "Water poured down the drain.",
+      "The teacher’s gaze travelled slowly down the line of children."
     ],
-    "hash_code_list_definition_mean": "-954850307"
+    "hash_code_list_example": "-2024880808"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/draft_cb_dmean_5000_it.json",
@@ -1611,52 +1304,19 @@
         "id_image": "draft_4595100"
       }
     ],
-    "hash_code_list_img": "717159081",
-    "list_definition_mean": [
-      {
-        "mean_english": "phác thảo",
-        "definition": "a rough sketch or outline of something, especially written",
-        "ex_of_definition_list": [
-          "I’ve made a rough draft of my speech."
-        ]
-      },
-      {
-        "mean_english": "hối phiếu",
-        "definition": "an order (to a bank etc) for the payment of money",
-        "ex_of_definition_list": [
-          "a draft for $80."
-        ]
-      },
-      {
-        "mean_english": "chế độ nghĩa vụ quân sự",
-        "definition": "conscription",
-        "ex_of_definition_list": [
-          "He emigrated to avoid the draft."
-        ]
-      },
-      {
-        "mean_english": "phân đội",
-        "definition": "a group (of soldiers etc) taken from a larger group",
-        "ex_of_definition_list": [
-          "a draft of troops."
-        ]
-      },
-      {
-        "mean_english": "dự thảo",
-        "definition": "to make in the form of a rough plan",
-        "ex_of_definition_list": [
-          "Could you draft a report on this?"
-        ]
-      },
-      {
-        "mean_english": "nhập ngũ",
-        "definition": "to conscript into the army etc",
-        "ex_of_definition_list": [
-          "He was drafted into the Navy."
-        ]
-      }
+    "hash_code_list_img": "862719975",
+    "list_example": [
+      "I’ve made a rough draft of my speech.",
+      "a draft for $80.",
+      "a draft of troops.",
+      "Could you draft a report on this?",
+      "More precisely, in an earlier draft of this paper the following was asked.",
+      "A reflection on ten years experience of providing qualitative research training in primary care research projects proposals or draft papers for publication.",
+      "The object recognition behaviour shown by mammals is not expected to be either equivalent to, or even to be a draft of, this human ability.",
+      "I would also thank the anonymous referees who helped me so much to improve the early draft of this paper.",
+      "The final chapter reviews developments in selected other jurisdictions and provides a draft of a parents' code."
     ],
-    "hash_code_list_definition_mean": "-1882005363"
+    "hash_code_list_example": "866030742"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dragon_cb_dmean_5000_it.json",
@@ -1684,17 +1344,19 @@
         "id_image": "dragon_982782"
       }
     ],
-    "hash_code_list_img": "105123737",
-    "list_definition_mean": [
-      {
-        "mean_english": "con rồng",
-        "definition": "a mythical beast, a usually large, winged, fire-breathing reptile",
-        "ex_of_definition_list": [
-          "St George and the dragon."
-        ]
-      }
+    "hash_code_list_img": "175986060",
+    "list_example": [
+      "St George and the dragon.",
+      "The pavilion has a projected hip-and-gable roof supported by two columns decorated with carved entwining dragons.",
+      "Furthermore, she appeared to self-correct primarily on the basis of semantic information (dragons do not bark).",
+      "We have sown dragon's teeth.",
+      "They long for tanks and the \"dragons\"and the\"whippets\" to come along the rural roads, because then they can put in for compensation—and get it, on a very handsome scale.",
+      "He questioned his adviser about how the name could mean nine dragons.",
+      "I am concerned about the proliferation of ombudsmen—like the dragon's teeth or the story of the sorcerer's apprentice, they seem to be spawning everywhere.",
+      "A crusade against dragons can be both inspiring and exciting.",
+      "I fear that we are sowing dragon's teeth and that we shall regret it bitterly as time goes on."
     ],
-    "hash_code_list_definition_mean": "1579897162"
+    "hash_code_list_example": "-224699305"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/drag_cb_dmean_5000_it.json",
@@ -1730,73 +1392,12 @@
         "id_image": "drag_4430332"
       }
     ],
-    "hash_code_list_img": "1266153230",
-    "list_definition_mean": [
-      {
-        "mean_english": "lôi kéo",
-        "definition": "to pull, especially by force or roughly",
-        "ex_of_definition_list": [
-          "She was dragged screaming from her car."
-        ]
-      },
-      {
-        "mean_english": "kéo lê",
-        "definition": "to pull (something) slowly (usually because heavy)",
-        "ex_of_definition_list": [
-          "He dragged the heavy table across the floor."
-        ]
-      },
-      {
-        "mean_english": "lê",
-        "definition": "to (cause to) move along the ground",
-        "ex_of_definition_list": [
-          "His coat was so long that it dragged on the ground at the back."
-        ]
-      },
-      {
-        "mean_english": "mò bằng lưới",
-        "definition": "to search (the bed of a lake etc) by using a net or hook",
-        "ex_of_definition_list": [
-          "Police are dragging the canal to try to find the body."
-        ]
-      },
-      {
-        "mean_english": "kéo dài quá",
-        "definition": "to be slow-moving and boring",
-        "ex_of_definition_list": [
-          "The evening dragged a bit."
-        ]
-      },
-      {
-        "mean_english": "sự ngáng trở",
-        "definition": "something which slows something down",
-        "ex_of_definition_list": [
-          "He felt that his lack of education was a drag on his progress."
-        ]
-      },
-      {
-        "mean_english": "sự rít một hơi thuốc lá",
-        "definition": "an act of drawing in smoke from a cigarette etc",
-        "ex_of_definition_list": [
-          "He took a long drag at his cigarette."
-        ]
-      },
-      {
-        "mean_english": "người hoặc vật gây buồn chán",
-        "definition": "something or someone that is dull and boring",
-        "ex_of_definition_list": [
-          "Washing-up is a drag."
-        ]
-      },
-      {
-        "mean_english": "quần áo phụ nữ do người đàn ông mặc",
-        "definition": "a slang word for women’s clothes when worn by men",
-        "ex_of_definition_list": [
-          "He was dressed in drag."
-        ]
-      }
+    "hash_code_list_img": "-803613259",
+    "list_example": [
+      "He felt that his lack of education was a drag on his progress.",
+      "He took a long drag at his cigarette."
     ],
-    "hash_code_list_definition_mean": "-1243206113"
+    "hash_code_list_example": "553768274"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/drain_cb_dmean_5000_it.json",
@@ -1830,61 +1431,13 @@
         "id_image": "drain_525815"
       }
     ],
-    "hash_code_list_img": "829744738",
-    "list_definition_mean": [
-      {
-        "mean_english": "thoát nước",
-        "definition": "to clear (land) of water by the use of ditches and pipes",
-        "ex_of_definition_list": [
-          "There are plans to drain the marsh."
-        ]
-      },
-      {
-        "mean_english": "rút nước",
-        "definition": "(of water) to run away",
-        "ex_of_definition_list": [
-          "The water drained away/off into the ditch."
-        ]
-      },
-      {
-        "mean_english": "làm ráo nước",
-        "definition": "to pour off the water etc from or allow the water etc to run off from",
-        "ex_of_definition_list": [
-          "Would you drain the vegetables?",
-          "He drained the petrol tank",
-          "The blood drained from her face."
-        ]
-      },
-      {
-        "mean_english": "uống cạn",
-        "definition": "to drink everything contained in",
-        "ex_of_definition_list": [
-          "He drained his glass."
-        ]
-      },
-      {
-        "mean_english": "hút hết",
-        "definition": "to use up completely (the money, strength etc of)",
-        "ex_of_definition_list": [
-          "The effort drained all his energy."
-        ]
-      },
-      {
-        "mean_english": "cống rãnh",
-        "definition": "something (a ditch, trench, waterpipe etc) designed to carry away water",
-        "ex_of_definition_list": [
-          "The heavy rain has caused several drains to overflow."
-        ]
-      },
-      {
-        "mean_english": "sự bòn rút",
-        "definition": "something which slowly exhausts a supply, especially of one’s money or strength",
-        "ex_of_definition_list": [
-          "His car is a constant drain on his money."
-        ]
-      }
+    "hash_code_list_img": "-942584657",
+    "list_example": [
+      "There are plans to drain the marsh.",
+      "Would you drain the vegetables?",
+      "His car is a constant drain on his money."
     ],
-    "hash_code_list_definition_mean": "1523151261"
+    "hash_code_list_example": "-346975262"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dramatic_cb_dmean_5000_it.json",
@@ -1924,32 +1477,21 @@
         "id_image": "drama_6347692"
       }
     ],
-    "hash_code_list_img": "826542188",
-    "list_definition_mean": [
-      {
-        "mean_english": "gây ấn tượng mạnh",
-        "definition": "vivid or striking",
-        "ex_of_definition_list": [
-          "a dramatic improvement",
-          "She made a dramatic entrance."
-        ]
-      },
-      {
-        "mean_english": "thuộc về kịch",
-        "definition": "of or in the form of a drama",
-        "ex_of_definition_list": [
-          "a dramatic performance."
-        ]
-      },
-      {
-        "mean_english": "gây xúc động",
-        "definition": "(of a person) showing (too) much feeling or emotion",
-        "ex_of_definition_list": [
-          "She’s very dramatic about everything."
-        ]
-      }
+    "hash_code_list_img": "-1751833349",
+    "list_example": [
+      "a dramatic improvement",
+      "She made a dramatic entrance.",
+      "a dramatic performance.",
+      "She’s very dramatic about everything.",
+      "In a way, the future will not be as dramatic as it has been up to now.",
+      "The speech community is undergoing dramatic change not only in terms of frequency of these intensifiers but also lexical preference by speaker age.",
+      "Even so, they were more dramatic than actions elsewhere in the world.",
+      "The fluctuating tempos, metres and string timbres serve a clear dramatic purpose.",
+      "A new system was in order, which would stimulate the creation of large-scale operas, ballets and dramatic works.",
+      "Of course, that too, was a morally complex work, but its poignantly dramatic form does not, finally, efface the moral.",
+      "At the same time, the dramatic developments of the time had promoted the awareness that charity was the duty of one and all."
     ],
-    "hash_code_list_definition_mean": "-1635638616"
+    "hash_code_list_example": "654740077"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/drama_cb_dmean_5000_it.json",
@@ -1990,38 +1532,17 @@
         "id_image": "drama_6347692"
       }
     ],
-    "hash_code_list_img": "778234254",
-    "list_definition_mean": [
-      {
-        "mean_english": "vở kịch",
-        "definition": "a play for acting on the stage",
-        "ex_of_definition_list": [
-          "He has just produced a new drama."
-        ]
-      },
-      {
-        "mean_english": "nghệ thuật biểu diễn",
-        "definition": "plays for the stage in general",
-        "ex_of_definition_list": [
-          "modern drama."
-        ]
-      },
-      {
-        "mean_english": "biên kịch",
-        "definition": "the art of acting in plays",
-        "ex_of_definition_list": [
-          "He studied drama at college."
-        ]
-      },
-      {
-        "mean_english": "một loạt sự kiện xúc động",
-        "definition": "exciting events",
-        "ex_of_definition_list": [
-          "Life here is full of drama."
-        ]
-      }
+    "hash_code_list_img": "354948416",
+    "list_example": [
+      "He studied drama at college.",
+      "The drama masks that bite onto the two upper corners of the scroll header with cursive title communicate the familiar, theatrical nature of magic.",
+      "Yet, as in his song-cycles, much of the drama and the emotion is in the accompaniment.",
+      "And so the spoken drama struggles, receiving little international or local community funding, nor extra government money to compensate.",
+      "It was a 'natural' for easing people into the unfamiliar conventions of a drama in which characters sing rather than speak.",
+      "He also points out that the tradition of writing commentary for drama began much earlier than for vernacular fiction.",
+      "The way historians have used drama and masque provides useful insights."
     ],
-    "hash_code_list_definition_mean": "424940688"
+    "hash_code_list_example": "193204922"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/drawer_cb_dmean_5000_it.json",
@@ -2054,17 +1575,11 @@
         "id_image": "drawer_699334"
       }
     ],
-    "hash_code_list_img": "-20570097",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngăn kéo",
-        "definition": "a sliding box without a lid which fits into a chest, table etc",
-        "ex_of_definition_list": [
-          "the bottom drawer of my desk."
-        ]
-      }
+    "hash_code_list_img": "1613849608",
+    "list_example": [
+      "the bottom drawer of my desk."
     ],
-    "hash_code_list_definition_mean": "517025071"
+    "hash_code_list_example": "-1024252416"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/drawn_cb_dmean_5000_it.json",
@@ -2085,38 +1600,12 @@
         "id_image": "drawn_3915654"
       }
     ],
-    "hash_code_list_img": "706857990",
-    "list_definition_mean": [
-      {
-        "mean_english": "kéo rèm",
-        "definition": "(of curtains) pulled together or closed",
-        "ex_of_definition_list": [
-          "The curtains were drawn, although it was still daylight."
-        ]
-      },
-      {
-        "mean_english": "hòa",
-        "definition": "(of a game etc) neither won nor lost",
-        "ex_of_definition_list": [
-          "a drawn match."
-        ]
-      },
-      {
-        "mean_english": "rút gươm ra",
-        "definition": "(of a blade etc) pulled out of its sheath",
-        "ex_of_definition_list": [
-          "a drawn sword."
-        ]
-      },
-      {
-        "mean_english": "mệt mỏi",
-        "definition": "(of a person) strained and tired",
-        "ex_of_definition_list": [
-          "His face was pale and drawn."
-        ]
-      }
+    "hash_code_list_img": "1869116812",
+    "list_example": [
+      "a drawn match.",
+      "a drawn sword."
     ],
-    "hash_code_list_definition_mean": "1545916484"
+    "hash_code_list_example": "-143736247"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/draw_cb_dmean_5000_it.json",
@@ -2158,92 +1647,13 @@
         "id_image": "draw_865585"
       }
     ],
-    "hash_code_list_img": "-833602625",
-    "list_definition_mean": [
-      {
-        "mean_english": "vẽ",
-        "definition": "to make a picture or pictures (of), usually with a pencil, crayons etc",
-        "ex_of_definition_list": [
-          "During his stay in hospital he drew a great deal",
-          "Shall I draw a cow?"
-        ]
-      },
-      {
-        "mean_english": "rút ra",
-        "definition": "to pull along, out or towards oneself",
-        "ex_of_definition_list": [
-          "She drew the child towards her",
-          "He drew a gun suddenly and fired",
-          "All water had to be drawn from a well",
-          "The cart was drawn by a pony."
-        ]
-      },
-      {
-        "mean_english": "kéo",
-        "definition": "to move (towards or away from someone or something)",
-        "ex_of_definition_list": [
-          "The car drew away from the kerb/curb",
-          "Christmas is drawing closer."
-        ]
-      },
-      {
-        "mean_english": "hòa",
-        "definition": "to play (a game) in which neither side wins",
-        "ex_of_definition_list": [
-          "The match was drawn 1-1."
-        ]
-      },
-      {
-        "mean_english": "rút tiền",
-        "definition": "to obtain (money) from a fund, bank etc",
-        "ex_of_definition_list": [
-          "Now he’s retired, he draws a pension."
-        ]
-      },
-      {
-        "mean_english": "kéo rèm",
-        "definition": "to open or close (curtains)",
-        "ex_of_definition_list": [
-          "She drew the curtains."
-        ]
-      },
-      {
-        "mean_english": "thu hút sự chú ý",
-        "definition": "to attract",
-        "ex_of_definition_list": [
-          "She was trying to draw my attention to something."
-        ]
-      },
-      {
-        "mean_english": "một trận đấu hòa",
-        "definition": "a drawn game",
-        "ex_of_definition_list": [
-          "The match ended in a draw."
-        ]
-      },
-      {
-        "mean_english": "thu hút sự chú ý",
-        "definition": "an attraction",
-        "ex_of_definition_list": [
-          "The acrobats’ act should be a real draw."
-        ]
-      },
-      {
-        "mean_english": "rút thăm trúng thưởng",
-        "definition": "the selecting of winning tickets in a raffle, lottery etc",
-        "ex_of_definition_list": [
-          "a prize draw."
-        ]
-      },
-      {
-        "mean_english": "hành động rút cái gì đó",
-        "definition": "an act of drawing, especially a gun",
-        "ex_of_definition_list": [
-          "He’s quick on the draw."
-        ]
-      }
+    "hash_code_list_img": "-180912076",
+    "list_example": [
+      "Shall I draw a cow?",
+      "She was trying to draw my attention to something.",
+      "It is thus possible to draw the range of spike length for which oscillation occurred against shoulder radius (figure 3)."
     ],
-    "hash_code_list_definition_mean": "-1012932151"
+    "hash_code_list_example": "-1981820956"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dream_cb_dmean_5000_it.json",
@@ -2275,46 +1685,12 @@
         "id_image": "dream_6213273"
       }
     ],
-    "hash_code_list_img": "-2086946832",
-    "list_definition_mean": [
-      {
-        "mean_english": "giấc mơ",
-        "definition": "thoughts and pictures in the mind that come mostly during sleep",
-        "ex_of_definition_list": [
-          "I had a terrible dream last night."
-        ]
-      },
-      {
-        "mean_english": "sự mơ màng",
-        "definition": "a state of being completely occupied by one’s own thoughts",
-        "ex_of_definition_list": [
-          "Don’t sit there in a dream!"
-        ]
-      },
-      {
-        "mean_english": "điều mơ ước",
-        "definition": "something perfect or very beautiful",
-        "ex_of_definition_list": [
-          "Your house is a dream!"
-        ]
-      },
-      {
-        "mean_english": "ước vọng",
-        "definition": "an ambition or hope",
-        "ex_of_definition_list": [
-          "It’s my dream to win a Nobel Prize."
-        ]
-      },
-      {
-        "mean_english": "mơ ước",
-        "definition": "(sometimes with of) to see visions and pictures in the mind, especially when asleep",
-        "ex_of_definition_list": [
-          "For years I dreamed of being a great artist",
-          "I dreamt last night that the house had burnt down."
-        ]
-      }
+    "hash_code_list_img": "1051750284",
+    "list_example": [
+      "I had a terrible dream last night.",
+      "It’s my dream to win a Nobel Prize."
     ],
-    "hash_code_list_definition_mean": "1431030338"
+    "hash_code_list_example": "-1725272362"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dress_cb_dmean_5000_it.json",
@@ -2346,46 +1722,11 @@
         "id_image": "dress_669284"
       }
     ],
-    "hash_code_list_img": "-2035355441",
-    "list_definition_mean": [
-      {
-        "mean_english": "mặc quần áo",
-        "definition": "to put clothes or a covering on",
-        "ex_of_definition_list": [
-          "We dressed in a hurry",
-          "My wife dressed the children."
-        ]
-      },
-      {
-        "mean_english": "chuẩn bị thức ăn",
-        "definition": "to prepare (food etc) to be eaten",
-        "ex_of_definition_list": [
-          "She dressed a salad."
-        ]
-      },
-      {
-        "mean_english": "băng bó",
-        "definition": "to treat and bandage (wounds)",
-        "ex_of_definition_list": [
-          "He was sent home from hospital after his burns had been dressed."
-        ]
-      },
-      {
-        "mean_english": "quần áo",
-        "definition": "what one is wearing or dressed in",
-        "ex_of_definition_list": [
-          "formal dress."
-        ]
-      },
-      {
-        "mean_english": "áo váy",
-        "definition": "a piece of women’s clothing with a top and skirt in one piece",
-        "ex_of_definition_list": [
-          "Shall I wear a dress or a blouse and skirt?"
-        ]
-      }
+    "hash_code_list_img": "-609230245",
+    "list_example": [
+      "Shall I wear a dress or a blouse and skirt?"
     ],
-    "hash_code_list_definition_mean": "-152648001"
+    "hash_code_list_example": "-1706670860"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dribble_cb_dmean_5000_it.json",
@@ -2411,38 +1752,11 @@
         "id_image": "dribble_5284221"
       }
     ],
-    "hash_code_list_img": "1433030905",
-    "list_definition_mean": [
-      {
-        "mean_english": "chảy nhỏ giọt",
-        "definition": "to fall in small drops",
-        "ex_of_definition_list": [
-          "Water dribbled out of the tap."
-        ]
-      },
-      {
-        "mean_english": "chảy nước miếng",
-        "definition": "(of a baby etc) to allow saliva to run from the mouth",
-        "ex_of_definition_list": [
-          "The baby had dribbled food down its chin."
-        ]
-      },
-      {
-        "mean_english": "rẽ bóng",
-        "definition": "in football, basketball, hockey etc to move the ball along by repeatedly kicking, bouncing or hitting it",
-        "ex_of_definition_list": [
-          "He dribbled the ball up the field."
-        ]
-      },
-      {
-        "mean_english": "dòng chảy nhỏ",
-        "definition": "a small quantity of liquid",
-        "ex_of_definition_list": [
-          "A dribble ran down his chin."
-        ]
-      }
+    "hash_code_list_img": "-2027509903",
+    "list_example": [
+      "A dribble ran down his chin."
     ],
-    "hash_code_list_definition_mean": "-286058708"
+    "hash_code_list_example": "1708574819"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/drill_cb_dmean_5000_it.json",
@@ -2473,40 +1787,12 @@
         "id_image": "drill_2739007"
       }
     ],
-    "hash_code_list_img": "-122098964",
-    "list_definition_mean": [
-      {
-        "mean_english": "khoan",
-        "definition": "to make (a hole) with a drill",
-        "ex_of_definition_list": [
-          "He drilled holes in the wood",
-          "The company plans to drill for oil."
-        ]
-      },
-      {
-        "mean_english": "luyện tập",
-        "definition": "(of soldiers etc) to exercise or be exercised",
-        "ex_of_definition_list": [
-          "The soldiers drilled every morning."
-        ]
-      },
-      {
-        "mean_english": "máy khoan",
-        "definition": "a tool for making holes",
-        "ex_of_definition_list": [
-          "a hand drill",
-          "an electric drill."
-        ]
-      },
-      {
-        "mean_english": "bài luyện tập",
-        "definition": "exercise or practice, especially of soldiers",
-        "ex_of_definition_list": [
-          "We do half an hour of drill every morning."
-        ]
-      }
+    "hash_code_list_img": "357518025",
+    "list_example": [
+      "The company plans to drill for oil.",
+      "We do half an hour of drill every morning."
     ],
-    "hash_code_list_definition_mean": "-1736667047"
+    "hash_code_list_example": "1569024662"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/drinker_cb_dmean_5000_it.json",
@@ -2525,24 +1811,12 @@
         "id_image": "drinker_1818716"
       }
     ],
-    "hash_code_list_img": "1192166998",
-    "list_definition_mean": [
-      {
-        "mean_english": "kẻ nghiện rượu",
-        "definition": "someone who regularly drinks alcohol, especially if they drink too much of it",
-        "ex_of_definition_list": [
-          "a heavy drinker."
-        ]
-      },
-      {
-        "mean_english": "người hay uống",
-        "definition": "someone who regularly drinks a particular type of drink",
-        "ex_of_definition_list": [
-          "a coffee/wine drinker."
-        ]
-      }
+    "hash_code_list_img": "1652214615",
+    "list_example": [
+      "It returns the drinker to the realm of pleasure and continuity that precede individuation.",
+      "The one interviewee with his own tenancy was an elderly (71-year old) street drinker who had slept rough for many years."
     ],
-    "hash_code_list_definition_mean": "1704211249"
+    "hash_code_list_example": "822199304"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/drink_cb_dmean_5000_it.json",
@@ -2583,41 +1857,16 @@
         "id_image": "drink_722855"
       }
     ],
-    "hash_code_list_img": "-434745531",
-    "list_definition_mean": [
-      {
-        "mean_english": "uống",
-        "definition": "to swallow (a liquid)",
-        "ex_of_definition_list": [
-          "She drank a pint of water",
-          "He drank from a bottle."
-        ]
-      },
-      {
-        "mean_english": "uống rượu",
-        "definition": "to take alcoholic liquids, especially in too great a quantity",
-        "ex_of_definition_list": [
-          "He started drinking heavily and that’s when his problems began."
-        ]
-      },
-      {
-        "mean_english": "đồ uống",
-        "definition": "(an act of drinking) a liquid suitable for swallowing",
-        "ex_of_definition_list": [
-          "He had/took a drink of water",
-          "Lemonade is a refreshing drink."
-        ]
-      },
-      {
-        "mean_english": "rượu",
-        "definition": "(a glassful etc of) alcoholic liquor",
-        "ex_of_definition_list": [
-          "He likes a drink when he returns home from work",
-          "Have we any drink in the house?"
-        ]
-      }
+    "hash_code_list_img": "-1881973884",
+    "list_example": [
+      "He had/took a drink of water",
+      "He likes a drink when he returns home from work",
+      "Have we any drink in the house?",
+      "By bringing around food and drink he demonstrates that he is an open person and personally approachable by everybody.",
+      "The lessons are rather clear: the more people drink and smoke, the shorter they live!",
+      "Just why there should be such an avalanche of interest these days in food and drink is an interesting question."
     ],
-    "hash_code_list_definition_mean": "991552033"
+    "hash_code_list_example": "1570763520"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/drip_cb_dmean_5000_it.json",
@@ -2658,39 +1907,12 @@
         "id_image": "drip_6316550"
       }
     ],
-    "hash_code_list_img": "-1781303985",
-    "list_definition_mean": [
-      {
-        "mean_english": "chảy nhỏ giọt",
-        "definition": "to (cause to) fall in single drops",
-        "ex_of_definition_list": [
-          "Rain dripped off the roof",
-          "His hand was dripping blood."
-        ]
-      },
-      {
-        "mean_english": "nước chảy nhỏ giọt",
-        "definition": "a small quantity (of liquid) falling in drops",
-        "ex_of_definition_list": [
-          "A drip of water ran down the tap."
-        ]
-      },
-      {
-        "mean_english": "tiếng nhỏ giọt",
-        "definition": "the noise made by dripping",
-        "ex_of_definition_list": [
-          "I can hear a drip somewhere."
-        ]
-      },
-      {
-        "mean_english": "ống truyền nhỏ giọt",
-        "definition": "an apparatus for passing a liquid slowly and continuously into a vein of the body",
-        "ex_of_definition_list": [
-          "a saline drip."
-        ]
-      }
+    "hash_code_list_img": "-935164413",
+    "list_example": [
+      "A drip of water ran down the tap.",
+      "I can hear a drip somewhere."
     ],
-    "hash_code_list_definition_mean": "1796638000"
+    "hash_code_list_example": "-956818868"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/driver_cb_dmean_5000_it.json",
@@ -2728,17 +1950,19 @@
         "id_image": "driver_4310427"
       }
     ],
-    "hash_code_list_img": "1272381101",
-    "list_definition_mean": [
-      {
-        "mean_english": "người lái xe",
-        "definition": "a person who drives a car etc",
-        "ex_of_definition_list": [
-          "a bus driver."
-        ]
-      }
+    "hash_code_list_img": "-729465528",
+    "list_example": [
+      "a bus driver.",
+      "Perhaps most fundamentally, it helps develop self-confidence and determination in local people and communities - the real drivers of regeneration in the long run.",
+      "The main research interest is in identifying factors that influence the driver's allocation of attention among the tasks of the different control levels.",
+      "As a result, there has been an exponential increase in the number of older drivers in the developed world.",
+      "The forward motion velocity is set to 3.2 cm/s and regulated by the closed-loop control of the drivers.",
+      "Figure 2 shows crash types by the drivers' age groups.",
+      "Previous papers have examined specific effects of these drivers.",
+      "The two main drivers in any music that are built into this model are the tension between unity and variety.",
+      "The super service station and the drive-in market had proved the attractions to car drivers of the 'one-stop shop'."
     ],
-    "hash_code_list_definition_mean": "842729041"
+    "hash_code_list_example": "-1084473008"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/drive_cb_dmean_5000_it.json",
@@ -2771,87 +1995,14 @@
         "id_image": "drive_4669518"
       }
     ],
-    "hash_code_list_img": "-760101382",
-    "list_definition_mean": [
-      {
-        "mean_english": "lái xe",
-        "definition": "to control or guide (a car etc)",
-        "ex_of_definition_list": [
-          "Do you want to drive (the car), or shall I?"
-        ]
-      },
-      {
-        "mean_english": "đi bằng ô tô",
-        "definition": "to take, bring etc in a car",
-        "ex_of_definition_list": [
-          "My mother is driving me to the airport."
-        ]
-      },
-      {
-        "mean_english": "lùa",
-        "definition": "to force or urge along",
-        "ex_of_definition_list": [
-          "Two men and a dog were driving a herd of cattle across the road."
-        ]
-      },
-      {
-        "mean_english": "đóng",
-        "definition": "to hit hard",
-        "ex_of_definition_list": [
-          "He drove a nail into the door",
-          "He drove a golf ball from the tee."
-        ]
-      },
-      {
-        "mean_english": "hoạt động bằng năng lượng",
-        "definition": "to cause to work by providing the necessary power",
-        "ex_of_definition_list": [
-          "This mill is driven by water."
-        ]
-      },
-      {
-        "mean_english": "chuyến đi bằng ô tô",
-        "definition": "a journey in a car, especially for pleasure",
-        "ex_of_definition_list": [
-          "We decided to go for a drive."
-        ]
-      },
-      {
-        "mean_english": "đường trong sân nhà",
-        "definition": "a private road leading from a gate to a house etc",
-        "ex_of_definition_list": [
-          "The drive is lined with trees."
-        ]
-      },
-      {
-        "mean_english": "sự ham muốn",
-        "definition": "energy and enthusiasm",
-        "ex_of_definition_list": [
-          "I think he has the drive needed for this job."
-        ]
-      },
-      {
-        "mean_english": "sự nỗ lực",
-        "definition": "a special effort",
-        "ex_of_definition_list": [
-          "a drive to raise money for the animal shelter."
-        ]
-      },
-      {
-        "mean_english": "gậy",
-        "definition": "in sport, a hard stroke (with a golf-club, a cricket bat etc)",
-        "ex_of_definition_list": [
-          "He hit a superb drive down the freeway."
-        ]
-      },
-      {
-        "mean_english": "ổ đĩa",
-        "definition": "a disk drive",
-        "ex_of_definition_list": [
-          "You can store your personal files on the N drive."
-        ]
-      }
+    "hash_code_list_img": "-784917438",
+    "list_example": [
+      "Do you want to drive (the car), or shall I?",
+      "The drive is lined with trees.",
+      "I think he has the drive needed for this job.",
+      "a drive to raise money for the animal shelter.",
+      "He hit a superb drive down the freeway."
     ],
-    "hash_code_list_definition_mean": "-2102908544"
+    "hash_code_list_example": "-749531132"
   }
 ]

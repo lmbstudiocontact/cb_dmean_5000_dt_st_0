@@ -20,17 +20,11 @@
         "id_image": "gunman_2495713"
       }
     ],
-    "hash_code_list_img": "-59550341",
-    "list_definition_mean": [
-      {
-        "mean_english": "tay súng",
-        "definition": "a criminal who uses a gun to kill or rob people",
-        "ex_of_definition_list": [
-          "Three gunmen robbed the bank."
-        ]
-      }
+    "hash_code_list_img": "-681463952",
+    "list_example": [
+      "Three gunmen robbed the bank."
     ],
-    "hash_code_list_definition_mean": "2048393229"
+    "hash_code_list_example": "-1051514810"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gun_cb_dmean_5000_it.json",
@@ -48,17 +42,11 @@
         "id_image": "gun_414809"
       }
     ],
-    "hash_code_list_img": "2070627977",
-    "list_definition_mean": [
-      {
-        "mean_english": "súng",
-        "definition": "any weapon which fires bullets or shells",
-        "ex_of_definition_list": [
-          "He fired a gun at the burglar."
-        ]
-      }
+    "hash_code_list_img": "714623345",
+    "list_example": [
+      "He fired a gun at the burglar."
     ],
-    "hash_code_list_definition_mean": "1044788962"
+    "hash_code_list_example": "1128583776"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/guru_cb_dmean_5000_it.json",
@@ -82,17 +70,11 @@
         "id_image": "guru_3496213"
       }
     ],
-    "hash_code_list_img": "833461754",
-    "list_definition_mean": [
-      {
-        "mean_english": "người có uy tín",
-        "definition": "an expert on a particular subject who gives advice to other people",
-        "ex_of_definition_list": [
-          "a fashion/management/style guru."
-        ]
-      }
+    "hash_code_list_img": "-642677786",
+    "list_example": [
+      "a fashion/management/style guru."
     ],
-    "hash_code_list_definition_mean": "1720078490"
+    "hash_code_list_example": "-1602510441"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gutter_cb_dmean_5000_it.json",
@@ -110,17 +92,19 @@
         "id_image": "gutter_5613134"
       }
     ],
-    "hash_code_list_img": "1534376852",
-    "list_definition_mean": [
-      {
-        "mean_english": "rãnh nước",
-        "definition": "a channel for carrying away water, especially at the edge of a road or roof",
-        "ex_of_definition_list": [
-          "The gutters are flooded with water."
-        ]
-      }
+    "hash_code_list_img": "1655972901",
+    "list_example": [
+      "The gutters are flooded with water.",
+      "Limited quantities of substitutes for gutters and pipes are available and these should be used where possible.",
+      "No roofs are being repainted; no gutters repaired.",
+      "There are houses that need painting, roofs that need repairing and guttering that needs fixing.",
+      "Many people have had to repair gutters, roofs and parts of the structures of buildings.",
+      "By so doing he made a greater contribution to the progress of building than anything else, because he had all the blocked gutters cleaned up.",
+      "Much of it is used by the construction industry, such as for vinyl siding, drainpipes, gutters and roofing sheets.",
+      "Nothing is more tragic or alarming than to see little children running about in the gutters, quite uncontrolled, without any schooling, social facilities or amenities.",
+      "A short time ago metal guttering from the building fell into the school yard."
     ],
-    "hash_code_list_definition_mean": "254093185"
+    "hash_code_list_example": "1527480012"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/guy_cb_dmean_5000_it.json",
@@ -144,17 +128,15 @@
         "id_image": "guy_4968145"
       }
     ],
-    "hash_code_list_img": "922299681",
-    "list_definition_mean": [
-      {
-        "mean_english": "anh chàng; gã",
-        "definition": "a man",
-        "ex_of_definition_list": [
-          "I don’t know the guy you’re talking about."
-        ]
-      }
+    "hash_code_list_img": "1991029391",
+    "list_example": [
+      "I don’t know the guy you’re talking about.",
+      "I mean, who doesn't love to walk into a club and have a guy look at you and say 'wow, he's hot'?",
+      "But the guy who is familiar with his trapping area, if he is persistent enough, attention will be paid to it.",
+      "This is a coal miner, he's a guy who herded farm animals barefoot for a couple of kopeks.",
+      "But nevertheless the energy of this guy was really amazing."
     ],
-    "hash_code_list_definition_mean": "1734079840"
+    "hash_code_list_example": "403423570"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gym_cb_dmean_5000_it.json",
@@ -182,18 +164,14 @@
         "id_image": "gym_2503456"
       }
     ],
-    "hash_code_list_img": "-1436113976",
-    "list_definition_mean": [
-      {
-        "mean_english": "phòng tập thể dục",
-        "definition": "short for gymnasium and gymnastics",
-        "ex_of_definition_list": [
-          "The children have gym on Thursdays",
-          "(also adjective) a gym teacher."
-        ]
-      }
+    "hash_code_list_img": "-914211627",
+    "list_example": [
+      "The children have gym on Thursdays",
+      "(also adjective) a gym teacher.",
+      "The person then absorbs the goal through a series of physical movements, repatterning and brain gym exercises.",
+      "The centre had facilities for treatments and activities, including physiotherapy, massage, herb-baths, foot therapy, motion therapy in pools, and gym rooms."
     ],
-    "hash_code_list_definition_mean": "1925514862"
+    "hash_code_list_example": "881640570"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gypsy_cb_dmean_5000_it.json",
@@ -211,17 +189,11 @@
         "id_image": "gypsy_1081093"
       }
     ],
-    "hash_code_list_img": "1570606830",
-    "list_definition_mean": [
-      {
-        "mean_english": "dân Gipxi",
-        "definition": "a member of a race of wandering people",
-        "ex_of_definition_list": [
-          "(also adjective) a gypsy caravan."
-        ]
-      }
+    "hash_code_list_img": "1708804732",
+    "list_example": [
+      "(also adjective) a gypsy caravan."
     ],
-    "hash_code_list_definition_mean": "2006906346"
+    "hash_code_list_example": "-643044671"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/habit_cb_dmean_5000_it.json",
@@ -251,32 +223,14 @@
         "id_image": "habit_6193291"
       }
     ],
-    "hash_code_list_img": "-10713298",
-    "list_definition_mean": [
-      {
-        "mean_english": "thói quen",
-        "definition": "something which a person does usually or regularly",
-        "ex_of_definition_list": [
-          "He has the habit of going for a walk after dinner",
-          "She has an irritating habit of interrupting people."
-        ]
-      },
-      {
-        "mean_english": "tập quán",
-        "definition": "a tendency to do the same things that one has always done",
-        "ex_of_definition_list": [
-          "I did it out of habit."
-        ]
-      },
-      {
-        "mean_english": "áo choàng của thầy tu",
-        "definition": "a long loose piece of clothing worn by monks or nuns",
-        "ex_of_definition_list": [
-          "a monk’s habit."
-        ]
-      }
+    "hash_code_list_img": "-2052804086",
+    "list_example": [
+      "He has the habit of going for a walk after dinner",
+      "She has an irritating habit of interrupting people.",
+      "Intentions driven by habit can be interrupted, often by unforeseen or relatively dramatic events, causing the agent to deliberate and perhaps adopt another intention.",
+      "Funding bodies have the annoying habit of wanting to know the methodology or methodologies that will be used in carrying out the proposed research."
     ],
-    "hash_code_list_definition_mean": "849779550"
+    "hash_code_list_example": "1278803090"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hack_cb_dmean_5000_it.json",
@@ -307,32 +261,14 @@
         "id_image": "hack_2456775"
       }
     ],
-    "hash_code_list_img": "-675072245",
-    "list_definition_mean": [
-      {
-        "mean_english": "chặt; đốn",
-        "definition": "to cut or chop up roughly",
-        "ex_of_definition_list": [
-          "The butcher hacked the beef into large pieces."
-        ]
-      },
-      {
-        "mean_english": "phát quang cây cối để lấy đường đi",
-        "definition": "to cut (a path etc) roughly",
-        "ex_of_definition_list": [
-          "He hacked his way through the jungle",
-          "He hacked (out) a path through the jungle."
-        ]
-      },
-      {
-        "mean_english": "nhát chặt",
-        "definition": "a rough cut made in something",
-        "ex_of_definition_list": [
-          "He marked the tree by making a few hacks on the trunk."
-        ]
-      }
+    "hash_code_list_img": "-1025297626",
+    "list_example": [
+      "The butcher hacked the beef into large pieces.",
+      "He hacked his way through the jungle",
+      "He hacked (out) a path through the jungle.",
+      "He marked the tree by making a few hacks on the trunk."
     ],
-    "hash_code_list_definition_mean": "-806299667"
+    "hash_code_list_example": "-2125499207"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hail_cb_dmean_5000_it.json",
@@ -376,60 +312,13 @@
         "id_image": "hail_6236375"
       }
     ],
-    "hash_code_list_img": "1963991415",
-    "list_definition_mean": [
-      {
-        "mean_english": "trận mưa đá",
-        "definition": "small balls of ice falling from the clouds",
-        "ex_of_definition_list": [
-          "There was some hail during the rainstorm last night."
-        ]
-      },
-      {
-        "mean_english": "hàng loạt",
-        "definition": "a shower (of things)",
-        "ex_of_definition_list": [
-          "a hail of arrows."
-        ]
-      },
-      {
-        "mean_english": "mưa đá",
-        "definition": "to shower hail",
-        "ex_of_definition_list": [
-          "It was hailing as I drove home."
-        ]
-      },
-      {
-        "mean_english": "gọi tàu hoặc taxi",
-        "definition": "to shout to in order to attract attention",
-        "ex_of_definition_list": [
-          "We hailed a taxi",
-          "The captain hailed the passing ship."
-        ]
-      },
-      {
-        "mean_english": "hoan nghênh",
-        "definition": "to greet or welcome (a person, thing etc) as something",
-        "ex_of_definition_list": [
-          "His discovery was hailed as a great step forward in medicine."
-        ]
-      },
-      {
-        "mean_english": "tiếng gọi",
-        "definition": "a shout (to attract attention)",
-        "ex_of_definition_list": [
-          "Give that ship a hail."
-        ]
-      },
-      {
-        "mean_english": "chào",
-        "definition": "an old word of greeting",
-        "ex_of_definition_list": [
-          "Hail, O King!"
-        ]
-      }
+    "hash_code_list_img": "6354332",
+    "list_example": [
+      "There was some hail during the rainstorm last night.",
+      "a hail of arrows.",
+      "We also hail the referee for his perspicacity and thank him for his help in shortening some proofs."
     ],
-    "hash_code_list_definition_mean": "727375202"
+    "hash_code_list_example": "-924152196"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/haircut_cb_dmean_5000_it.json",
@@ -457,17 +346,19 @@
         "id_image": "haircut_3460756"
       }
     ],
-    "hash_code_list_img": "703969011",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự cắt tóc",
-        "definition": "the act or style of cutting a person’s hair",
-        "ex_of_definition_list": [
-          "You need a haircut."
-        ]
-      }
+    "hash_code_list_img": "1108008365",
+    "list_example": [
+      "You need a haircut.",
+      "Such haircuts became popular among boys, mostly in schools, and young men in the military and in prisons.",
+      "Strategies to erode identities include forcing individuals to surrender all personal possessions, get uniform haircuts and wear standardized clothing.",
+      "Bondholders would take haircuts, but these losses are already priced into deeply discounted bond prices.",
+      "His geometric haircuts seemed to be severely cut, but were entirely lacquer-free, relying on the natural shine of the hair for effect.",
+      "She began to care for the homeless and beggars in her neighborhood, giving them free haircuts and treating their wounds.",
+      "A real working barber shop gives haircuts for a fee.",
+      "However, unlike the latter he did not bother greatly with his military appearance, frequently going without clean uniforms and haircuts.",
+      "Women are sometimes more difficult to depict than men as they tend to have more complicated haircuts, which are often cropped for simplicity."
     ],
-    "hash_code_list_definition_mean": "1919352973"
+    "hash_code_list_example": "-119262744"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hairdresser_cb_dmean_5000_it.json",
@@ -495,17 +386,13 @@
         "id_image": "hairdresser_4514328"
       }
     ],
-    "hash_code_list_img": "-791056572",
-    "list_definition_mean": [
-      {
-        "mean_english": "thợ cắt tóc; thợ làm đầu",
-        "definition": "a person who cuts, washes, styles etc a person’s hair",
-        "ex_of_definition_list": [
-          "I made an appointment with the hairdresser."
-        ]
-      }
+    "hash_code_list_img": "1831839319",
+    "list_example": [
+      "The man noticed the hairdresser of the opera singers who was about to go home.",
+      "The woman blamed the hairdresser with the apprentices who was smiling all the time.",
+      "The woman blamed the apprentices of the hairdresser who were smiling all the time."
     ],
-    "hash_code_list_definition_mean": "809350696"
+    "hash_code_list_example": "-1203907398"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hairpin_cb_dmean_5000_it.json",
@@ -544,17 +431,17 @@
         "id_image": "hairpin_5362053"
       }
     ],
-    "hash_code_list_img": "-809089302",
-    "list_definition_mean": [
-      {
-        "mean_english": "chỗ cua gấp trên đường",
-        "definition": "(of a bend in a road) sharp and U-shaped, especially on a mountain or a hill",
-        "ex_of_definition_list": [
-          "a dangerous hairpin bend."
-        ]
-      }
+    "hash_code_list_img": "2033319322",
+    "list_example": [
+      "a dangerous hairpin bend.",
+      "Their results support the experimental observations regarding spikes, high-shear layer and hairpin vortices.",
+      "However, the data are sufficient to reveal the patterns of entire hairpin packets and to use the vorticity field for qualitative flow visualization.",
+      "Beyond the existence of hairpin vortices, the data also show individual hairpins commonly aligned behind each other in the x-direction to form a group.",
+      "The content of conserved hydrophobic residues in this hairpin is unusually high, and this suggests that the hairpin may interact with a hydrophobic partner.",
+      "The transverse phase variation is responsible for the formation of hairpin vortices.",
+      "The full range of hairpin and hairpin packet interactions can only be speculated."
     ],
-    "hash_code_list_definition_mean": "1467218012"
+    "hash_code_list_example": "-170423072"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hairstyle_cb_dmean_5000_it.json",
@@ -582,17 +469,14 @@
         "id_image": "hairstyle_6003245"
       }
     ],
-    "hash_code_list_img": "1059981151",
-    "list_definition_mean": [
-      {
-        "mean_english": "kiểu tóc",
-        "definition": "the result of cutting, styling etc a person’s hair",
-        "ex_of_definition_list": [
-          "I like your new hairstyle."
-        ]
-      }
+    "hash_code_list_img": "-597456204",
+    "list_example": [
+      "Men with the shaved hairstyle appear in tunics and the hairstyle itself gradually becomes less marked and consistent.",
+      "Nor is the mere fact that a person is carrying a particular kind of property, is dressed in a certain way, or has a certain hairstyle of itself sufficient grounds.",
+      "We must be able to tell them that it is possible to have a decent hairstyle and wear a helmet.",
+      "Pende pay great attention to gestures, hairstyle and bodily form, all considered indicative of degrees of panache."
     ],
-    "hash_code_list_definition_mean": "52813914"
+    "hash_code_list_example": "-617086176"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hairy_cb_dmean_5000_it.json",
@@ -610,17 +494,11 @@
         "id_image": "hairy_340028"
       }
     ],
-    "hash_code_list_img": "1138931961",
-    "list_definition_mean": [
-      {
-        "mean_english": "rậm tóc, lông",
-        "definition": "covered in hair or having a lot of hair",
-        "ex_of_definition_list": [
-          "a hairy chest."
-        ]
-      }
+    "hash_code_list_img": "1927505558",
+    "list_example": [
+      "a hairy chest."
     ],
-    "hash_code_list_definition_mean": "1974726457"
+    "hash_code_list_example": "-1914402252"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hair_cb_dmean_5000_it.json",
@@ -654,24 +532,14 @@
         "id_image": "hair_3791206"
       }
     ],
-    "hash_code_list_img": "-390422529",
-    "list_definition_mean": [
-      {
-        "mean_english": "lông",
-        "definition": "one of the mass of thread-like objects that grow from the skin",
-        "ex_of_definition_list": [
-          "He brushed the dog’s hairs off his jacket."
-        ]
-      },
-      {
-        "mean_english": "tóc",
-        "definition": "the mass of these, especially on a person’s head",
-        "ex_of_definition_list": [
-          "He’s got brown hair."
-        ]
-      }
+    "hash_code_list_img": "-1036525547",
+    "list_example": [
+      "They dyed their hair and wrote slogans on their clothes and on city walls.",
+      "He clearly found running the shrine very stressful: he lost weight and his hair started to fall out.",
+      "A combed skein of hair forms the background to the smaller images, which explains the curious criss-crossing in the crook of the swimsuited woman's arm.",
+      "Her hair was arranged in a bun with her front hair parted in the middle."
     ],
-    "hash_code_list_definition_mean": "1514441775"
+    "hash_code_list_example": "-902900442"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/half_cb_dmean_5000_it.json",
@@ -699,64 +567,27 @@
         "id_image": "half_5331557"
       }
     ],
-    "hash_code_list_img": "1599255158",
-    "list_definition_mean": [
-      {
-        "mean_english": "một nửa",
-        "definition": "one of two equal parts of anything",
-        "ex_of_definition_list": [
-          "He tried to stick the two halves together again",
-          "half a kilo of sugar",
-          "a kilo and a half of sugar",
-          "one and a half kilos of sugar."
-        ]
-      },
-      {
-        "mean_english": "hiệp",
-        "definition": "one of two equal parts of a game (eg in football, hockey) usually with a break between them",
-        "ex_of_definition_list": [
-          "Rangers scored three goals in the first half."
-        ]
-      },
-      {
-        "mean_english": "một nửa",
-        "definition": "being (equal to) one of two equal parts (of something)",
-        "ex_of_definition_list": [
-          "a half bottle of wine."
-        ]
-      },
-      {
-        "mean_english": "tạo thành từ hai nửa",
-        "definition": "being made up of two things in equal parts",
-        "ex_of_definition_list": [
-          "A centaur is a mythical creature, half man and half horse."
-        ]
-      },
-      {
-        "mean_english": "chưa đủ; chưa hoàn chỉnh",
-        "definition": "not full or complete",
-        "ex_of_definition_list": [
-          "a half smile."
-        ]
-      },
-      {
-        "mean_english": "tới một nửa",
-        "definition": "to the extent of one half",
-        "ex_of_definition_list": [
-          "This cup is only half full",
-          "It’s half empty."
-        ]
-      },
-      {
-        "mean_english": "một phần",
-        "definition": "almost; partly",
-        "ex_of_definition_list": [
-          "I’m half hoping he won’t come",
-          "He was half dead from hunger."
-        ]
-      }
+    "hash_code_list_img": "-2022599474",
+    "list_example": [
+      "half a kilo of sugar",
+      "a kilo and a half of sugar",
+      "one and a half kilos of sugar.",
+      "a half bottle of wine.",
+      "A centaur is a mythical creature, half man and half horse.",
+      "a half smile.",
+      "This cup is only half full",
+      "It’s half empty.",
+      "I’m half hoping he won’t come",
+      "He was half dead from hunger.",
+      "If timber price were to fall by a third, then benefits are still comparable to half the proceeds of logging being invested.",
+      "Effect of various procedures on the viability of mouse embryos containing half of the normal number of blastomeres.",
+      "By then, over half the former division members were dead, and the average age of the 117 surviving members was seventy-three years.",
+      "Their response to visual traps alone also was significantly lower than that of mature flies, about half the percentage.",
+      "Treatment can be a single or repeated sleep deprivation, total (all night) or partial (second half of the night).",
+      "For the standard method, half the value of the minimal screening dilution used was assumed to be an exact value.",
+      "A year and a half after the constitution came into being, more than fifty political parties had emerged."
     ],
-    "hash_code_list_definition_mean": "863092039"
+    "hash_code_list_example": "-148002795"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hallucination_cb_dmean_5000_it.json",
@@ -779,17 +610,19 @@
         "id_image": "hallucination_3997830"
       }
     ],
-    "hash_code_list_img": "-982205198",
-    "list_definition_mean": [
-      {
-        "mean_english": "ảo giác",
-        "definition": "the seeing of something that is not really there",
-        "ex_of_definition_list": [
-          "He had hallucinations after he took drugs."
-        ]
-      }
+    "hash_code_list_img": "-1912794212",
+    "list_example": [
+      "He had hallucinations after he took drugs.",
+      "Thirdly, two items on auditory hallucinations were added.",
+      "Intrusions were correlated with delusions whereas list errors were correlated with hallucinations.",
+      "Ten patients with auditory verbal hallucinations and delusions (hallucinators), eight patients with delusions but no hallucinations (non-hallucinators), and 20 non-psychiatric control subjects were tested.",
+      "If hallucinations reflect disruption of thalamocortical synchronized gamma oscillations, then, in principle, the primary locus of dysfunction could be either cortical or thalamic.",
+      "Transcendental idealism predicts that normal perception, dream imagery, and hallucinations are principally manifestations of the same internal process.",
+      "It activates neurons at the location of the distractor object (connection 1), and even at locations without an object (connection 2), causing hallucinations.",
+      "They were also significantly more likely to experience various delusions, including delusions of persecution and influence, and auditory hallucinations.",
+      "The presence of auditory hallucinations in non-help-seeking community samples emphasizes that the experience of voices per se may not or may not be distressing."
     ],
-    "hash_code_list_definition_mean": "1999357160"
+    "hash_code_list_example": "885302215"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hallway_cb_dmean_5000_it.json",
@@ -807,17 +640,11 @@
         "id_image": "hallway_3650715"
       }
     ],
-    "hash_code_list_img": "1651216561",
-    "list_definition_mean": [
-      {
-        "mean_english": "phòng đợi; hành lang",
-        "definition": "a hall or passage",
-        "ex_of_definition_list": [
-          "The two men were standing in the hallway."
-        ]
-      }
+    "hash_code_list_img": "642942987",
+    "list_example": [
+      "The two men were standing in the hallway."
     ],
-    "hash_code_list_definition_mean": "1271859405"
+    "hash_code_list_example": "1317081247"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hall_cb_dmean_5000_it.json",
@@ -844,39 +671,11 @@
         "id_image": "hall_3981093"
       }
     ],
-    "hash_code_list_img": "725932693",
-    "list_definition_mean": [
-      {
-        "mean_english": "phòng đợi",
-        "definition": "a room or passage at the entrance to a house",
-        "ex_of_definition_list": [
-          "We left our coats in the hall."
-        ]
-      },
-      {
-        "mean_english": "hội trường",
-        "definition": "(a building with) a large public room, used for concerts, meetings etc",
-        "ex_of_definition_list": [
-          "a community hall."
-        ]
-      },
-      {
-        "mean_english": "toà thị chính",
-        "definition": "a building with offices where the administration of a town etc is carried out",
-        "ex_of_definition_list": [
-          "a town hall",
-          "the city hall American ."
-        ]
-      },
-      {
-        "mean_english": "ký túc xá",
-        "definition": "a building of a university, college etc, especially one in which students etc live",
-        "ex_of_definition_list": [
-          "Do you live in halls?"
-        ]
-      }
+    "hash_code_list_img": "-1643885266",
+    "list_example": [
+      "the city hall American ."
     ],
-    "hash_code_list_definition_mean": "1071127024"
+    "hash_code_list_example": "1237554766"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hamburger_cb_dmean_5000_it.json",
@@ -900,17 +699,11 @@
         "id_image": "hamburger_816180"
       }
     ],
-    "hash_code_list_img": "1900369076",
-    "list_definition_mean": [
-      {
-        "mean_english": "bánh hamburge cuộn",
-        "definition": "a bread roll containing one of these",
-        "ex_of_definition_list": [
-          "She ordered a hamburger and fries."
-        ]
-      }
+    "hash_code_list_img": "1768144877",
+    "list_example": [
+      "She ordered a hamburger and fries."
     ],
-    "hash_code_list_definition_mean": "98984906"
+    "hash_code_list_example": "-930681084"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hammer_cb_dmean_5000_it.json",
@@ -942,32 +735,14 @@
         "id_image": "hammer_942385"
       }
     ],
-    "hash_code_list_img": "1165694064",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái búa",
-        "definition": "a tool with a heavy usually metal head, used for driving nails into wood, breaking hard substances etc",
-        "ex_of_definition_list": [
-          "He accidentally hit his thumb with the hammer",
-          "a joiner’s hammer."
-        ]
-      },
-      {
-        "mean_english": "đóng bằng búa",
-        "definition": "to hit, beat, break etc (something) with a hammer",
-        "ex_of_definition_list": [
-          "He hammered the nail into the wood."
-        ]
-      },
-      {
-        "mean_english": "nhồi nhét",
-        "definition": "to teach a person (something) with difficulty, by repetition",
-        "ex_of_definition_list": [
-          "Grammar was hammered into us at school."
-        ]
-      }
+    "hash_code_list_img": "529173913",
+    "list_example": [
+      "He accidentally hit his thumb with the hammer",
+      "a joiner’s hammer.",
+      "He hammered the nail into the wood.",
+      "Grammar was hammered into us at school."
     ],
-    "hash_code_list_definition_mean": "443469707"
+    "hash_code_list_example": "-247705110"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hamper_cb_dmean_5000_it.json",
@@ -991,24 +766,14 @@
         "id_image": "hamper_4277886"
       }
     ],
-    "hash_code_list_img": "-1128402567",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngăn cản",
-        "definition": "to make it difficult for (someone) to do something",
-        "ex_of_definition_list": [
-          "I tried to run away, but I was hampered by my long dress."
-        ]
-      },
-      {
-        "mean_english": "hòm mây",
-        "definition": "a large basket with a lid",
-        "ex_of_definition_list": [
-          "a picnic hamper."
-        ]
-      }
+    "hash_code_list_img": "-1953851263",
+    "list_example": [
+      "Such interaction would hamper the analysis although at lower beam intensities they could be negligible.",
+      "This differing orientation may hamper effective collaborative assessment.",
+      "Although such discrepancies hamper cross-variety comparisons and the conclusions drawn from them, they need not obviate them entirely.",
+      "A second problem is that such representations will hamper the variable phonological encoding the model must allow for."
     ],
-    "hash_code_list_definition_mean": "-1676124790"
+    "hash_code_list_example": "621446151"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/ham_cb_dmean_5000_it.json",
@@ -1031,17 +796,14 @@
         "id_image": "ham_1660603"
       }
     ],
-    "hash_code_list_img": "-1493035196",
-    "list_definition_mean": [
-      {
-        "mean_english": "giăm bông",
-        "definition": "the top of the back leg of a pig, salted and dried",
-        "ex_of_definition_list": [
-          "roast ham."
-        ]
-      }
+    "hash_code_list_img": "-1672454754",
+    "list_example": [
+      "Allocations, of imported boneless beef for the production of boiled beef ham have now ceased in view of the meat supply position.",
+      "No member of the staff of the bacon and ham branch is included as a representative of any class of curer.",
+      "Half the bacon and ham used by our forces is imported—that is close to £2.5 million-worth of trade.",
+      "The named-meat product only will be called \"ham spread\"and the mixed product\"ham paste\"."
     ],
-    "hash_code_list_definition_mean": "562337355"
+    "hash_code_list_example": "1020192532"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handbag_cb_dmean_5000_it.json",
@@ -1064,17 +826,19 @@
         "id_image": "handbag_592160"
       }
     ],
-    "hash_code_list_img": "1790401485",
-    "list_definition_mean": [
-      {
-        "mean_english": "túi xách",
-        "definition": "a small bag carried by women, for personal belongings",
-        "ex_of_definition_list": [
-          "a designer handbag."
-        ]
-      }
+    "hash_code_list_img": "324359302",
+    "list_example": [
+      "a designer handbag.",
+      "On one of the handbags being opened in order to see to whom it belonged, a contraceptive was found in it.",
+      "If these searches are to proceed into private homes, into diaries and handbags and other items of a personal nature, there is real cause for concern.",
+      "They expect the volume of handbags to eventually represent 20% of their annual sales.",
+      "On the whole, it has been felt that handbags are more likely to be left unattended than trousers.",
+      "However, one can envisage circumstances in which he may be metaphorically sand-bagged or, perish the thought, \"handbagged\" into something which may be less advantageous.",
+      "Among its product line items there are watches, handbags, jewelry and other durable personal goods.",
+      "Confidence, once it has been handbagged, is hard to win back.",
+      "I do not know about gentlemen's pockets, but ladies' handbags are extraordinarily weighty nowadays."
     ],
-    "hash_code_list_definition_mean": "918835560"
+    "hash_code_list_example": "-1309550634"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handbook_cb_dmean_5000_it.json",
@@ -1097,18 +861,15 @@
         "id_image": "handbook_4914324"
       }
     ],
-    "hash_code_list_img": "-657626020",
-    "list_definition_mean": [
-      {
-        "mean_english": "sổ tay",
-        "definition": "a small book giving information about (how to do) something",
-        "ex_of_definition_list": [
-          "a handbook of European birds",
-          "a bicycle-repair handbook."
-        ]
-      }
+    "hash_code_list_img": "-1340385767",
+    "list_example": [
+      "a handbook of European birds",
+      "The handbook of second language acquisition pp+ 382-408!",
+      "However, it undermines a little the implicit claim both in the introduction and in the term ' handbook ' that this is a descriptive reference book.",
+      "Exercises in rethinking innateness : a handbook for connectionist simulations.",
+      "This later handbook was written with this very thing in mind."
     ],
-    "hash_code_list_definition_mean": "1129983132"
+    "hash_code_list_example": "-700125329"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handbrake_cb_dmean_5000_it.json",
@@ -1136,17 +897,17 @@
         "id_image": "handbrake_3410140"
       }
     ],
-    "hash_code_list_img": "-1166727078",
-    "list_definition_mean": [
-      {
-        "mean_english": "phanh tay",
-        "definition": "(in a car, bus etc) a brake operated by the driver’s hand",
-        "ex_of_definition_list": [
-          "Don’t forget to put on the handbrake if you stop on a slope."
-        ]
-      }
+    "hash_code_list_img": "1507052461",
+    "list_example": [
+      "Don’t forget to put on the handbrake if you stop on a slope.",
+      "At the same time one has to take one hand from the steering wheel to be able to use the handbrake if one has to stop.",
+      "He is entitled to leave it on a hill with the handbrake not properly adjusted.",
+      "Let us take the case of a driver who is slightly over the limit and has stopped at an intersection, where the traffic lights are red, with his handbrake on.",
+      "When he is confronted with evidence that a criminal offence has been committed, there is neither accelerator nor handbrake but one measured pace.",
+      "The fact that the handbrake was located in cab 2 was considered an additional benefit.",
+      "One fundamental change is that we have succeeded in putting the handbrake on local authority expenditure."
     ],
-    "hash_code_list_definition_mean": "985075027"
+    "hash_code_list_example": "2118951899"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handcuff_cb_dmean_5000_it.json",
@@ -1164,17 +925,19 @@
         "id_image": "handcuff_2302412"
       }
     ],
-    "hash_code_list_img": "2062575962",
-    "list_definition_mean": [
-      {
-        "mean_english": "khoá bằng còng số tám",
-        "definition": "to put handcuffs on (a person)",
-        "ex_of_definition_list": [
-          "The police handcuffed the criminal."
-        ]
-      }
+    "hash_code_list_img": "1104705498",
+    "list_example": [
+      "The police handcuffed the criminal.",
+      "Why was the prisoner handcuffed only to one of the warders, the other warder riding in the front seat?",
+      "On whose authority was this uncriminal man handcuffed in the immigration office?",
+      "We shall find ourselves handcuffed and chained under economic and monetary union.",
+      "The officers, being alone, were quite aware that the soldiers would have an opportunity at the railway station of deserting, and they handcuffed the soldiers.",
+      "It is the case that many were handcuffed with their hands behind their backs.",
+      "I was handcuffed and not allowed to lean either on the wall or on the table.",
+      "Several windows of the coach were kicked out and a total of six prisoners succeeded in making good their escape, although still handcuffed.",
+      "Later on the same day, when he had done further damage to his cell and had again attacked his guards, he was handcuffed."
     ],
-    "hash_code_list_definition_mean": "891122315"
+    "hash_code_list_example": "-329850473"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handgun_cb_dmean_5000_it.json",
@@ -1192,17 +955,11 @@
         "id_image": "handgun_1280488"
       }
     ],
-    "hash_code_list_img": "685227402",
-    "list_definition_mean": [
-      {
-        "mean_english": "súng ngắn",
-        "definition": "a small gun that you hold with one hand when you fire it",
-        "ex_of_definition_list": [
-          "illegal possession of a handgun."
-        ]
-      }
+    "hash_code_list_img": "969253156",
+    "list_example": [
+      "illegal possession of a handgun."
     ],
-    "hash_code_list_definition_mean": "395393418"
+    "hash_code_list_example": "-1335569840"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handicap_cb_dmean_5000_it.json",
@@ -1234,31 +991,11 @@
         "id_image": "handicap_354481"
       }
     ],
-    "hash_code_list_img": "1051392289",
-    "list_definition_mean": [
-      {
-        "mean_english": "điều bất lợi",
-        "definition": "something that makes doing something more difficult",
-        "ex_of_definition_list": [
-          "The loss of a finger would be a handicap for a pianist."
-        ]
-      },
-      {
-        "mean_english": "tàn tật",
-        "definition": "(a form of) physical or mental disability",
-        "ex_of_definition_list": [
-          "children with physical handicaps."
-        ]
-      },
-      {
-        "mean_english": "gây khó khăn",
-        "definition": "to make something (more) difficult for",
-        "ex_of_definition_list": [
-          "He wanted to be a pianist, but was handicapped by his deafness."
-        ]
-      }
+    "hash_code_list_img": "-428790568",
+    "list_example": [
+      "The loss of a finger would be a handicap for a pianist."
     ],
-    "hash_code_list_definition_mean": "-72671312"
+    "hash_code_list_example": "2111102867"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handkerchief_cb_dmean_5000_it.json",
@@ -1286,17 +1023,12 @@
         "id_image": "handkerchief_4507854"
       }
     ],
-    "hash_code_list_img": "-730633553",
-    "list_definition_mean": [
-      {
-        "mean_english": "khăn tay",
-        "definition": "(abbreviation hanky, plural hankies or hankieˈhaŋki) a small usually square piece of cloth or paper tissue used for wiping or blowing one’s nose into",
-        "ex_of_definition_list": [
-          "a silk handkerchief."
-        ]
-      }
+    "hash_code_list_img": "-598979976",
+    "list_example": [
+      "Sharing everything with your neighbours, haven't even got a bit of garden to call your own except for that pocket handkerchief out there.",
+      "Yet the ' as now understood ' of the second sentence was the handkerchief beneath which the conjuring trick was accomplished."
     ],
-    "hash_code_list_definition_mean": "1961793514"
+    "hash_code_list_example": "452216804"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handle_cb_dmean_5000_it.json",
@@ -1333,46 +1065,15 @@
         "id_image": "handle_6344536"
       }
     ],
-    "hash_code_list_img": "-101502304",
-    "list_definition_mean": [
-      {
-        "mean_english": "quai; tay cầm",
-        "definition": "the part of an object by which it may be held or grasped",
-        "ex_of_definition_list": [
-          "I’ve broken the handle off this cup",
-          "You’ve got to turn the handle in order to open the door."
-        ]
-      },
-      {
-        "mean_english": "sờ; cầm",
-        "definition": "to touch or hold with the hand",
-        "ex_of_definition_list": [
-          "Please wash your hands before handling food."
-        ]
-      },
-      {
-        "mean_english": "xử lý; quản lý",
-        "definition": "to control, manage or deal with",
-        "ex_of_definition_list": [
-          "He’ll never make a good teacher – he doesn’t know how to handle children."
-        ]
-      },
-      {
-        "mean_english": "buôn bán",
-        "definition": "to buy or sell; to deal in",
-        "ex_of_definition_list": [
-          "I’m afraid we do not handle such goods in this shop."
-        ]
-      },
-      {
-        "mean_english": "đối xử như thế nào đó",
-        "definition": "to treat in a particular way",
-        "ex_of_definition_list": [
-          "Never handle animals roughly."
-        ]
-      }
+    "hash_code_list_img": "-1384029433",
+    "list_example": [
+      "I’ve broken the handle off this cup",
+      "You’ve got to turn the handle in order to open the door.",
+      "He’ll never make a good teacher – he doesn’t know how to handle children.",
+      "I’m afraid we do not handle such goods in this shop.",
+      "Never handle animals roughly."
     ],
-    "hash_code_list_definition_mean": "-1017645237"
+    "hash_code_list_example": "869671290"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handmade_cb_dmean_5000_it.json",
@@ -1400,17 +1101,16 @@
         "id_image": "handmade_3967370"
       }
     ],
-    "hash_code_list_img": "1394769052",
-    "list_definition_mean": [
-      {
-        "mean_english": "làm bằng tay",
-        "definition": "made with a person’s hands or with tools held in the hands, rather than by machines",
-        "ex_of_definition_list": [
-          "handmade furniture."
-        ]
-      }
+    "hash_code_list_img": "1116053406",
+    "list_example": [
+      "handmade furniture.",
+      "A handmade fake is dependent on the original.",
+      "So there are aspects of the handmade process that are not to be ignored.",
+      "We then inserted a handmade heterograft pericardial valve at the site of the pulmonary valve, and completed the reconstruction of the right ventricular outflow tract with a patch.",
+      "For instance, under reference 58.01 and 58.02, only some of the handmade knotted carpets, carpeting and rugs and coir mats and mattings are exempt.",
+      "The computer reveals things about the handmade, it re-invents the handmade as an issue."
     ],
-    "hash_code_list_definition_mean": "2145041242"
+    "hash_code_list_example": "1396697454"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handshake_cb_dmean_5000_it.json",
@@ -1443,17 +1143,13 @@
         "id_image": "handshake_993715"
       }
     ],
-    "hash_code_list_img": "-1437560991",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái bắt tay",
-        "definition": "the act of grasping (a person’s) hand eg as a greeting",
-        "ex_of_definition_list": [
-          "a firm handshake."
-        ]
-      }
+    "hash_code_list_img": "1811432541",
+    "list_example": [
+      "That is the integrity of high finance, but when mines are closed down there is no golden handshake for the colliers.",
+      "Thus, the above trace is illegal because data are put on socket 4435 before notification has been received that handshake was successful on that socket.",
+      "Puja expresses a relationship, not a concept, just as a handshake may express a relationship."
     ],
-    "hash_code_list_definition_mean": "2076619062"
+    "hash_code_list_example": "-951852634"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handsome_cb_dmean_5000_it.json",
@@ -1477,24 +1173,19 @@
         "id_image": "handsome_3891309"
       }
     ],
-    "hash_code_list_img": "-1035617450",
-    "list_definition_mean": [
-      {
-        "mean_english": "đẹp trai",
-        "definition": "(usually of men) good-looking",
-        "ex_of_definition_list": [
-          "a handsome prince."
-        ]
-      },
-      {
-        "mean_english": "hào phóng; rộng rãi",
-        "definition": "very large; generous",
-        "ex_of_definition_list": [
-          "He gave a handsome sum of money to charity."
-        ]
-      }
+    "hash_code_list_img": "-1911382130",
+    "list_example": [
+      "a handsome prince.",
+      "He gave a handsome sum of money to charity.",
+      "I put it in my election address and won by a handsome majority.",
+      "His book, accordingly, includes handsome photographs in colour and black-and-white of models, finished buildings, scientific phenomena, and landscapes.",
+      "You go on the date and find out that the guy is neither handsome nor funny.",
+      "There were handsome houses; tenements and mews; hotels and boarding houses.",
+      "At the price one wonders how such a handsome product can be produced so cheaply.",
+      "No; they put up handsome and very expensive fiats.",
+      "Nevertheless, there are two handsome hotels, a theatre, cinema, dancing hall, tennis court, and so on."
     ],
-    "hash_code_list_definition_mean": "368427431"
+    "hash_code_list_example": "2071206267"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handstand_cb_dmean_5000_it.json",
@@ -1512,17 +1203,12 @@
         "id_image": "handstand_4598525"
       }
     ],
-    "hash_code_list_img": "1664879232",
-    "list_definition_mean": [
-      {
-        "mean_english": "trồng cây chuối",
-        "definition": "the gymnastic act of balancing one’s body upright in the air with one’s hands on the ground",
-        "ex_of_definition_list": [
-          "The gymnasts were practising handstands."
-        ]
-      }
+    "hash_code_list_img": "64761651",
+    "list_example": [
+      "This creates a handstand position facing the opposite direction the gymnast started in, which they then snap their hips down quickly to create backwards momentum.",
+      "There are many variations of handstands, but in all cases a handstand performer must possess adequate balance and upper body strength."
     ],
-    "hash_code_list_definition_mean": "98264802"
+    "hash_code_list_example": "1306926780"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handyman_cb_dmean_5000_it.json",
@@ -1545,17 +1231,15 @@
         "id_image": "handyman_2767679"
       }
     ],
-    "hash_code_list_img": "-1210313871",
-    "list_definition_mean": [
-      {
-        "mean_english": "người làm những công việc lặt vặt",
-        "definition": "a man who does jobs, for himself or other people, especially around the house",
-        "ex_of_definition_list": [
-          "We called in a handyman to put up some shelves."
-        ]
-      }
+    "hash_code_list_img": "-104064091",
+    "list_example": [
+      "We called in a handyman to put up some shelves.",
+      "There are two secretaries, a chaplain, a chauffeur/ handyman and a gardener.",
+      "I suppose that the average handyman probably has about eight screwdrivers which he has bought at various times.",
+      "He is now the driver handyman at a day centre for the elderly.",
+      "I was told of a person who advertised for a general handyman and porter in a business in this city."
     ],
-    "hash_code_list_definition_mean": "1228025123"
+    "hash_code_list_example": "-233190223"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/handy_cb_dmean_5000_it.json",
@@ -1579,25 +1263,20 @@
         "id_image": "handy_3879792"
       }
     ],
-    "hash_code_list_img": "-1008049759",
-    "list_definition_mean": [
-      {
-        "mean_english": "sẵn có; thuận tiện",
-        "definition": "ready (to use); in a convenient place",
-        "ex_of_definition_list": [
-          "I like to keep my tools handy",
-          "This house is handy for the shops."
-        ]
-      },
-      {
-        "mean_english": "dễ sử dụng; có ích",
-        "definition": "easy to use; useful",
-        "ex_of_definition_list": [
-          "a handy tool."
-        ]
-      }
+    "hash_code_list_img": "2006136770",
+    "list_example": [
+      "This house is handy for the shops.",
+      "a handy tool.",
+      "The book should therefore be seen as a comprehensive and handy collection of the results of approximately ten years of extensive research.",
+      "The real-time heat of live performing is an especially handy crucible for raising awareness and provoking people to action.",
+      "We know that it's a very handy tool to use because we have a great deal of understanding of it and it contains considerable empirical relevance.",
+      "Given that complex formulae can be inserted in the fm field of each tuple, template matching would not be very handy (citation) for retrieval purposes.",
+      "From another perspective, secondary research goals are mainly oriented toward making practical or handy what is already known (for example in the case of clinical practice guidelines).",
+      "Will such laboratories be handy and close enough for people easily to fulfil that requirement?",
+      "There is little here to recommend this book for graduate student readings, classroom discussion or as a handy reference book for the researcher.",
+      "The book's front and back inside covers contain handy full-scale pronunciation and etymology keys."
     ],
-    "hash_code_list_definition_mean": "-1903002758"
+    "hash_code_list_example": "1421722591"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hand_cb_dmean_5000_it.json",
@@ -1633,78 +1312,15 @@
         "id_image": "hand_673871"
       }
     ],
-    "hash_code_list_img": "-1040442883",
-    "list_definition_mean": [
-      {
-        "mean_english": "bàn tay",
-        "definition": "the part of the body at the end of the arm",
-        "ex_of_definition_list": [
-          "She injured her left hand",
-          "People often shake hands when they meet for the first time."
-        ]
-      },
-      {
-        "mean_english": "kim đồng hồ",
-        "definition": "a pointer on a clock, watch etc",
-        "ex_of_definition_list": [
-          "Clocks usually have an hour hand and a minute hand."
-        ]
-      },
-      {
-        "mean_english": "thuỷ thủ",
-        "definition": "a person employed as a helper, crew member etc",
-        "ex_of_definition_list": [
-          "a farm hand",
-          "All hands on deck!"
-        ]
-      },
-      {
-        "mean_english": "sự giúp đỡ",
-        "definition": "help; assistance",
-        "ex_of_definition_list": [
-          "Can I lend a hand?",
-          "Give me a hand with this box, please."
-        ]
-      },
-      {
-        "mean_english": "xấp bài",
-        "definition": "a set of playing-cards dealt to a person",
-        "ex_of_definition_list": [
-          "I had a very good hand so I thought I had a chance of winning."
-        ]
-      },
-      {
-        "mean_english": "gang tay (đơn vị đo chiều cao của ngựa)",
-        "definition": "a measure (approximately centimetres) used for measuring the height of horses",
-        "ex_of_definition_list": [
-          "a horse of 14 hands."
-        ]
-      },
-      {
-        "mean_english": "kiểu viết tay",
-        "definition": "handwriting",
-        "ex_of_definition_list": [
-          "The note was written in a neat hand."
-        ]
-      },
-      {
-        "mean_english": "trao; đưa",
-        "definition": "to give (something) to someone by hand",
-        "ex_of_definition_list": [
-          "I handed him the book",
-          "He handed it back to me",
-          "I’ll go up the ladder, and you can hand the tools up to me."
-        ]
-      },
-      {
-        "mean_english": "chuyển giao",
-        "definition": "to pass, transfer etc into another’s care etc",
-        "ex_of_definition_list": [
-          "That is the end of my report from Paris. I’ll now hand you back to Fred Collins in the television studio in London."
-        ]
-      }
+    "hash_code_list_img": "1048234822",
+    "list_example": [
+      "Clocks usually have an hour hand and a minute hand.",
+      "Give me a hand with this box, please.",
+      "I had a very good hand so I thought I had a chance of winning.",
+      "I’ll go up the ladder, and you can hand the tools up to me.",
+      "That is the end of my report from Paris. I’ll now hand you back to Fred Collins in the television studio in London."
     ],
-    "hash_code_list_definition_mean": "-1566670200"
+    "hash_code_list_example": "-1701843609"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hanger_cb_dmean_5000_it.json",
@@ -1732,17 +1348,12 @@
         "id_image": "hanger_547913"
       }
     ],
-    "hash_code_list_img": "-664543636",
-    "list_definition_mean": [
-      {
-        "mean_english": "mắc áo",
-        "definition": "(usually coat hanger) a shaped metal, wooden or plastic frame with a hook on which jackets, dresses etc are hung up",
-        "ex_of_definition_list": [
-          "a wire coat hanger."
-        ]
-      }
+    "hash_code_list_img": "1702123725",
+    "list_example": [
+      "The work consists of coat hanger recycling, paper hat manufacture for the catering industry, welding, painting model soldiers and folding and enveloping charity bags.",
+      "It is unfortunate that it has become something of a phrase that is, in a way, the monopoly of the hanger and the flogger."
     ],
-    "hash_code_list_definition_mean": "1340714522"
+    "hash_code_list_example": "1782958811"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hang_cb_dmean_5000_it.json",
@@ -1769,47 +1380,11 @@
         "id_image": "hang_2780746"
       }
     ],
-    "hash_code_list_img": "645779148",
-    "list_definition_mean": [
-      {
-        "mean_english": "treo; mắc",
-        "definition": "to put or fix, or to be put or fixed, above the ground eg by a hook",
-        "ex_of_definition_list": [
-          "We’ll hang the picture on that wall",
-          "The picture is hanging on the wall."
-        ]
-      },
-      {
-        "mean_english": "treo",
-        "definition": "to fasten (something), or to be fastened, at the top or side so that it can move freely but cannot fall",
-        "ex_of_definition_list": [
-          "A door hangs by its hinges."
-        ]
-      },
-      {
-        "mean_english": "treo cổ",
-        "definition": "(past tense, past participle hanged) to kill, or to be killed, by having a rope put round the neck and being allowed to drop",
-        "ex_of_definition_list": [
-          "Murderers used to be hanged in the United Kingdom, but no-one hangs for murder now."
-        ]
-      },
-      {
-        "mean_english": "rủ xuống",
-        "definition": "(often with downor out) to be bending, drooping or falling downwards",
-        "ex_of_definition_list": [
-          "The dog’s tongue was hanging out",
-          "Her hair was hanging down."
-        ]
-      },
-      {
-        "mean_english": "gục đầu vì hổ thẹn",
-        "definition": "to bow (one’s head)",
-        "ex_of_definition_list": [
-          "He hung his head in shame."
-        ]
-      }
+    "hash_code_list_img": "1846537396",
+    "list_example": [
+      "We’ll hang the picture on that wall"
     ],
-    "hash_code_list_definition_mean": "1156692306"
+    "hash_code_list_example": "-250648533"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/happy_cb_dmean_5000_it.json",
@@ -1834,32 +1409,20 @@
         "id_image": "happy_817745"
       }
     ],
-    "hash_code_list_img": "996629950",
-    "list_definition_mean": [
-      {
-        "mean_english": "hạnh phúc",
-        "definition": "having or showing a feeling of pleasure or contentment",
-        "ex_of_definition_list": [
-          "a happy smile",
-          "I feel happy today."
-        ]
-      },
-      {
-        "mean_english": "vui lòng",
-        "definition": "willing",
-        "ex_of_definition_list": [
-          "I’d be happy to help you."
-        ]
-      },
-      {
-        "mean_english": "may mắn",
-        "definition": "lucky",
-        "ex_of_definition_list": [
-          "By a happy chance I have the key with me."
-        ]
-      }
+    "hash_code_list_img": "515839066",
+    "list_example": [
+      "a happy smile",
+      "I feel happy today.",
+      "I’d be happy to help you.",
+      "By a happy chance I have the key with me.",
+      "If he were to have his own way he would be perfectly happy to sit here seven days a week and not move.",
+      "It is a fact that, in this century, few happy and harmonious landscapes have been painted by leading artists.",
+      "This is not a happy conclusion since presentism does not seem to be the favoured theory among physicists and metaphysicians.",
+      "The visitors did not look particularly happy but appeared convinced by these words of reason.",
+      "Can we possibly believe that he is doing well just because he is happy and satisfied?",
+      "Everyone, after all, could be happy if profits were being made from books that deserved re-issuing."
     ],
-    "hash_code_list_definition_mean": "901940601"
+    "hash_code_list_example": "-1658022733"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/harbour_cb_dmean_5000_it.json",
@@ -1894,31 +1457,13 @@
         "id_image": "harbour_5626926"
       }
     ],
-    "hash_code_list_img": "1741612479",
-    "list_definition_mean": [
-      {
-        "mean_english": "cảng",
-        "definition": "a place of shelter for ships",
-        "ex_of_definition_list": [
-          "All the ships stayed in (the) harbour/harbor during the storm."
-        ]
-      },
-      {
-        "mean_english": "chứa chấp",
-        "definition": "to give shelter or refuge to (a person)",
-        "ex_of_definition_list": [
-          "It is against the law to harbour/harbor criminals."
-        ]
-      },
-      {
-        "mean_english": "nuôi dưỡng (ý nghĩ xấu…)",
-        "definition": "to have (usually bad) thoughts in one’s head",
-        "ex_of_definition_list": [
-          "He harbours/harbors a grudge against me."
-        ]
-      }
+    "hash_code_list_img": "-207117216",
+    "list_example": [
+      "All the ships stayed in (the) harbour/harbor during the storm.",
+      "It is against the law to harbour/harbor criminals.",
+      "He harbours/harbors a grudge against me."
     ],
-    "hash_code_list_definition_mean": "-1542430525"
+    "hash_code_list_example": "101154793"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hardware_cb_dmean_5000_it.json",
@@ -1947,24 +1492,11 @@
         "id_image": "hardware_675600"
       }
     ],
-    "hash_code_list_img": "743501719",
-    "list_definition_mean": [
-      {
-        "mean_english": "đồ ngũ kim",
-        "definition": "metal goods such as pots, tools etc",
-        "ex_of_definition_list": [
-          "(also adjective) a hardware store."
-        ]
-      },
-      {
-        "mean_english": "phần cứng",
-        "definition": "the mechanical parts of a computer",
-        "ex_of_definition_list": [
-          "They stock printers, keyboards, and other hardware."
-        ]
-      }
+    "hash_code_list_img": "128196466",
+    "list_example": [
+      "(also adjective) a hardware store."
     ],
-    "hash_code_list_definition_mean": "570303213"
+    "hash_code_list_example": "1271223766"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hard_cb_dmean_5000_it.json",
@@ -2001,84 +1533,24 @@
         "id_image": "hard_827667"
       }
     ],
-    "hash_code_list_img": "-2016701943",
-    "list_definition_mean": [
-      {
-        "mean_english": "cứng rắn",
-        "definition": "firm; solid; not easy to break, scratch etc",
-        "ex_of_definition_list": [
-          "The ground is too hard to dig."
-        ]
-      },
-      {
-        "mean_english": "khó",
-        "definition": "not easy to do, learn, solve etc",
-        "ex_of_definition_list": [
-          "Is Finnish a hard language to learn?",
-          "He is a hard man to please."
-        ]
-      },
-      {
-        "mean_english": "nghiêm khắc",
-        "definition": "not feeling or showing kindness",
-        "ex_of_definition_list": [
-          "He’s a hard taskmaster."
-        ]
-      },
-      {
-        "mean_english": "khắc nghiệt",
-        "definition": "(of weather) severe",
-        "ex_of_definition_list": [
-          "a hard winter."
-        ]
-      },
-      {
-        "mean_english": "gian khổ",
-        "definition": "having or causing suffering",
-        "ex_of_definition_list": [
-          "a hard life",
-          "hard times."
-        ]
-      },
-      {
-        "mean_english": "cứng (nước)",
-        "definition": "(of water) containing many chemical salts and so not easily forming bubbles when soap is added",
-        "ex_of_definition_list": [
-          "The water is hard in this part of the country."
-        ]
-      },
-      {
-        "mean_english": "chăm chỉ",
-        "definition": "with great effort",
-        "ex_of_definition_list": [
-          "He works very hard",
-          "Think hard."
-        ]
-      },
-      {
-        "mean_english": "mạnh; nặng",
-        "definition": "with great force; heavily",
-        "ex_of_definition_list": [
-          "Don’t hit him too hard",
-          "It was raining hard."
-        ]
-      },
-      {
-        "mean_english": "tập trung",
-        "definition": "with great attention",
-        "ex_of_definition_list": [
-          "He stared hard at the man."
-        ]
-      },
-      {
-        "mean_english": "hoàn toàn",
-        "definition": "to the full extent; completely",
-        "ex_of_definition_list": [
-          "The car turned hard right."
-        ]
-      }
+    "hash_code_list_img": "750955581",
+    "list_example": [
+      "The ground is too hard to dig.",
+      "Is Finnish a hard language to learn?",
+      "He is a hard man to please.",
+      "He’s a hard taskmaster.",
+      "a hard winter.",
+      "a hard life",
+      "hard times.",
+      "The water is hard in this part of the country.",
+      "He stared hard at the man.",
+      "The car turned hard right.",
+      "That experience taught me that life's zero-sum nature imposes the hard responsibility of using limited time and energy wisely.",
+      "His work is a chore to be suffered and is hard to come to terms with.",
+      "They also caused difficulties when they affected routines that were hard for people with dementia to learn and remember.",
+      "The impact of all this propaganda on her students is hard to gauge."
     ],
-    "hash_code_list_definition_mean": "799143912"
+    "hash_code_list_example": "974852498"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/harmful_cb_dmean_5000_it.json",
@@ -2101,17 +1573,19 @@
         "id_image": "harmful_3922393"
       }
     ],
-    "hash_code_list_img": "-1781304851",
-    "list_definition_mean": [
-      {
-        "mean_english": "có hại",
-        "definition": "doing harm",
-        "ex_of_definition_list": [
-          "Medicines can be harmful if you take too much of them."
-        ]
-      }
+    "hash_code_list_img": "1733922826",
+    "list_example": [
+      "Medicines can be harmful if you take too much of them.",
+      "However, rashly formed expectations of the results of actions are harmful for attaining the ultimate goal.",
+      "Consequently, harmful gene variants with later agesof-action will accumulate in the genome of each species.",
+      "The relatively large populations employed in that study could result in a loss of the more harmful mutations.",
+      "Despite the commonly observed feeding aggregation of ticks, harmful intraspecific competition during feeding is also evident.",
+      "The classifications yielded unexpectedly high numbers of harmful and hazardous drinkers.",
+      "Potentially harmful antibodies directed at fetal antigens are thereby 'mopped up'.",
+      "With policy co-ordination, countries could continue to benefit from the globalizing economy while minimizing the harmful effects for democracy.",
+      "Lawyers gave their lengthiest and most emotional responses in describing cases in which, despite their professional efforts, a wrongful and harmful custody ruling was issued."
     ],
-    "hash_code_list_definition_mean": "1708315627"
+    "hash_code_list_example": "1893995122"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/harmonic_cb_dmean_5000_it.json",
@@ -2129,17 +1603,11 @@
         "id_image": "harmonic_352273"
       }
     ],
-    "hash_code_list_img": "211984478",
-    "list_definition_mean": [
-      {
-        "mean_english": "hài hoà; hòa âm",
-        "definition": "of, or concerned with, especially musical harmony",
-        "ex_of_definition_list": [
-          "a harmonic scale."
-        ]
-      }
+    "hash_code_list_img": "759826064",
+    "list_example": [
+      "a harmonic scale."
     ],
-    "hash_code_list_definition_mean": "2141012178"
+    "hash_code_list_example": "1061502935"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/harmony_cb_dmean_5000_it.json",
@@ -2178,24 +1646,11 @@
         "id_image": "harmony_5265801"
       }
     ],
-    "hash_code_list_img": "-1595058320",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự hài hoà; sự hoà âm",
-        "definition": "(of musical sounds, colours/colors etc) (the state of forming) a pleasing combination",
-        "ex_of_definition_list": [
-          "The singers sang in harmony."
-        ]
-      },
-      {
-        "mean_english": "sự hoà hợp",
-        "definition": "the agreement of people’s feelings, opinions etc",
-        "ex_of_definition_list": [
-          "Few married couples live in perfect harmony."
-        ]
-      }
+    "hash_code_list_img": "207068494",
+    "list_example": [
+      "Systematic allomorphy in the form of vowel harmony expands the number of forms for this double agreement morpheme."
     ],
-    "hash_code_list_definition_mean": "1127653800"
+    "hash_code_list_example": "1811511126"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/harpoon_cb_dmean_5000_it.json",
@@ -2224,17 +1679,11 @@
         "id_image": "harpoon_4690500"
       }
     ],
-    "hash_code_list_img": "1404027094",
-    "list_definition_mean": [
-      {
-        "mean_english": "đâm bằng cây lao móc",
-        "definition": "to strike with a harpoon",
-        "ex_of_definition_list": [
-          "He has harpooned the whale."
-        ]
-      }
+    "hash_code_list_img": "1937165697",
+    "list_example": [
+      "He has harpooned the whale."
     ],
-    "hash_code_list_definition_mean": "1312634593"
+    "hash_code_list_example": "-1731293306"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/harvest_cb_dmean_5000_it.json",
@@ -2268,23 +1717,12 @@
         "id_image": "harvest_5612929"
       }
     ],
-    "hash_code_list_img": "444052422",
-    "list_definition_mean": [
-      {
-        "mean_english": "việc thu hoạch",
-        "definition": "the gathering in of ripened crops",
-        "ex_of_definition_list": [
-          "the rice harvest."
-        ]
-      },
-      {
-        "mean_english": "thu hoạch; gặt hái",
-        "definition": "to gather in (crops etc)",
-        "ex_of_definition_list": [
-          "We harvested the apples yesterday."
-        ]
-      }
+    "hash_code_list_img": "-965205669",
+    "list_example": [
+      "There are very few fields which offer so important and rich a harvest to scientific enterprise.",
+      "The same rates of fertilizer were used at planting and after harvest for both cropping cycles.",
+      "The effect might not appear very strong because of the scale used in the harvest series."
     ],
-    "hash_code_list_definition_mean": "-1481106698"
+    "hash_code_list_example": "120776454"
   }
 ]

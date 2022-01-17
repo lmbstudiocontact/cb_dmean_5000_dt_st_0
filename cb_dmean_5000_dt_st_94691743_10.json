@@ -36,25 +36,16 @@
         "id_image": "graduation_859969"
       }
     ],
-    "hash_code_list_img": "8189306",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự tốt nghiệp",
-        "definition": "the act or ceremony of graduating from a college, university etc",
-        "ex_of_definition_list": [
-          "The graduation will be held in the large hall",
-          "(also adjective) a graduation ceremony."
-        ]
-      },
-      {
-        "mean_english": "chia từng độ",
-        "definition": "a marked division",
-        "ex_of_definition_list": [
-          "the graduations on a thermometer."
-        ]
-      }
+    "hash_code_list_img": "1764372893",
+    "list_example": [
+      "The graduation will be held in the large hall",
+      "(also adjective) a graduation ceremony.",
+      "In this analysis, educational levels were grouped into secondary school graduation or less versus higher than secondary-school graduation.",
+      "The graduation of the procedure, which could encompass hundreds of sessions, served, in addition to this epistemic goal, to discipline recalcitrant patients.",
+      "For most of the time, graduation was an unnecessary hurdle.",
+      "The father who tells his daughter on her graduation day that it is nothing special to have a degree is surely missing something."
     ],
-    "hash_code_list_definition_mean": "1734997257"
+    "hash_code_list_example": "269148955"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/graffiti_cb_dmean_5000_it.json",
@@ -87,17 +78,15 @@
         "id_image": "graffiti_4831969"
       }
     ],
-    "hash_code_list_img": "-231209289",
-    "list_definition_mean": [
-      {
-        "mean_english": "hình vẽ hoặc chữ viết trên tường",
-        "definition": "words or drawings scratched or painted on a wall etc",
-        "ex_of_definition_list": [
-          "He was arrested for spraying a wall with graffiti."
-        ]
-      }
+    "hash_code_list_img": "-1746073520",
+    "list_example": [
+      "The graffiti suggest a 1511-12 terminus for the binding of both layers.",
+      "This musical signature becomes graffiti with overuse.",
+      "Which graffiti greatly amused the tourist?",
+      "The most specific clues appear in graffiti on the volume's rear pastedown sheet, which is now attached to the binding of both layers.",
+      "The campaign was specifically aimed at the national problems of litter, graffiti and vandalism."
     ],
-    "hash_code_list_definition_mean": "370279055"
+    "hash_code_list_example": "1257059133"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grain_cb_dmean_5000_it.json",
@@ -129,38 +118,13 @@
         "id_image": "grain_517618"
       }
     ],
-    "hash_code_list_img": "-97604879",
-    "list_definition_mean": [
-      {
-        "mean_english": "thóc; gạo",
-        "definition": "a seed of wheat, oats etc",
-        "ex_of_definition_list": [
-          "a grain of wheat."
-        ]
-      },
-      {
-        "mean_english": "ngũ cốc",
-        "definition": "corn in general",
-        "ex_of_definition_list": [
-          "Grain is ground into flour."
-        ]
-      },
-      {
-        "mean_english": "hạt; hột",
-        "definition": "a very small, hard particle",
-        "ex_of_definition_list": [
-          "a grain of sand."
-        ]
-      },
-      {
-        "mean_english": "một chút",
-        "definition": "a very small amount",
-        "ex_of_definition_list": [
-          "There isn’t a grain of truth in that story."
-        ]
-      }
+    "hash_code_list_img": "427780247",
+    "list_example": [
+      "a grain of wheat.",
+      "a grain of sand.",
+      "There isn’t a grain of truth in that story."
     ],
-    "hash_code_list_definition_mean": "1870419344"
+    "hash_code_list_example": "-1179537926"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grammar_cb_dmean_5000_it.json",
@@ -195,32 +159,11 @@
         "id_image": "grammar_6091150"
       }
     ],
-    "hash_code_list_img": "1815883623",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngữ pháp",
-        "definition": "the rules for forming words and for combining words to form sentences",
-        "ex_of_definition_list": [
-          "He’s an expert on French grammar."
-        ]
-      },
-      {
-        "mean_english": "sách ngữ pháp",
-        "definition": "a description or collection of the rules of grammar",
-        "ex_of_definition_list": [
-          "Could you lend me your Latin grammar?",
-          "(also adjective) a grammar book."
-        ]
-      },
-      {
-        "mean_english": "việc sử dụng ngữ pháp",
-        "definition": "a person’s use of grammatical rules",
-        "ex_of_definition_list": [
-          "This essay is full of bad grammar."
-        ]
-      }
+    "hash_code_list_img": "1742416676",
+    "list_example": [
+      "(also adjective) a grammar book."
     ],
-    "hash_code_list_definition_mean": "598845086"
+    "hash_code_list_example": "711378525"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grandstand_cb_dmean_5000_it.json",
@@ -238,19 +181,12 @@
         "id_image": "grandstand_1760463"
       }
     ],
-    "hash_code_list_img": "706289570",
-    "list_definition_mean": [
-      {
-        "mean_english": "khán đài",
-        "definition": "rows of raised seats at a sports ground etc",
-        "ex_of_definition_list": [
-          "We watched the sports meeting from the grandstand",
-          "(also adjective) grandstand seats",
-          "We had a grandstand (= a very good) view of the parade."
-        ]
-      }
+    "hash_code_list_img": "1454854608",
+    "list_example": [
+      "(also adjective) grandstand seats",
+      "We had a grandstand (= a very good) view of the parade."
     ],
-    "hash_code_list_definition_mean": "712628825"
+    "hash_code_list_example": "1122009766"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/granite_cb_dmean_5000_it.json",
@@ -268,18 +204,16 @@
         "id_image": "granite_6224567"
       }
     ],
-    "hash_code_list_img": "987484247",
-    "list_definition_mean": [
-      {
-        "mean_english": "đá granit",
-        "definition": "a type of hard usually grey or red rock used for building",
-        "ex_of_definition_list": [
-          "buildings of granite",
-          "(also adjective) granite hills."
-        ]
-      }
+    "hash_code_list_img": "794943011",
+    "list_example": [
+      "(also adjective) granite hills.",
+      "Generally, the granite seems to have remained above its solidus longer than the gabbro.",
+      "In contrast, axial ratios of granite clasts in some instances actually decrease adjacent to the contact.",
+      "Dolomitic clasts have shape ratios typically 10 to 15 times higher than granite clasts.",
+      "Igneous lithologies vary from diorite through granodiorite, and granite to pegmatitic granite.",
+      "The granite occupies the northern parts, whereas in the south the massif is composed of gabbro in the west and leucogabbro in the east."
     ],
-    "hash_code_list_definition_mean": "210055640"
+    "hash_code_list_example": "1632540347"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grant_cb_dmean_5000_it.json",
@@ -304,32 +238,14 @@
         "id_image": "grant_2470720"
       }
     ],
-    "hash_code_list_img": "1002358207",
-    "list_definition_mean": [
-      {
-        "mean_english": "ban cho",
-        "definition": "to agree to, to give",
-        "ex_of_definition_list": [
-          "Would you grant me one favour/favor?",
-          "He granted the soldier permission to leave."
-        ]
-      },
-      {
-        "mean_english": "chấp nhận",
-        "definition": "to agree or admit",
-        "ex_of_definition_list": [
-          "I grant (you) that it was a stupid thing to do."
-        ]
-      },
-      {
-        "mean_english": "tài trợ; trợ cấp",
-        "definition": "money given for a particular purpose",
-        "ex_of_definition_list": [
-          "He was awarded a grant for studying abroad."
-        ]
-      }
+    "hash_code_list_img": "-1851659855",
+    "list_example": [
+      "Would you grant me one favour/favor?",
+      "I grant (you) that it was a stupid thing to do.",
+      "He was awarded a grant for studying abroad.",
+      "Nor could it grant one group control over the creative products of composers and authors."
     ],
-    "hash_code_list_definition_mean": "1972518996"
+    "hash_code_list_example": "300167740"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grapevine_cb_dmean_5000_it.json",
@@ -353,17 +269,15 @@
         "id_image": "grapevine_6286359"
       }
     ],
-    "hash_code_list_img": "892120631",
-    "list_definition_mean": [
-      {
-        "mean_english": "tin đồn",
-        "definition": "an informal means of passing news from person to person",
-        "ex_of_definition_list": [
-          "I hear through the grapevine that he is being promoted."
-        ]
-      }
+    "hash_code_list_img": "459124067",
+    "list_example": [
+      "I hear through the grapevine that he is being promoted.",
+      "To the vintners the symptoms of the grapevine disease looked familiar and unspecific.",
+      "The new entity \"pest\" as a specific, causal agent external to the grapevine plant existed in a conceptual space that was unconnected to the vintners' field of knowledge.",
+      "The babus' grapevine stretched far and wide.",
+      "The main actor, the ever-escaping grapevine louse, mocked all efforts to arrest it."
     ],
-    "hash_code_list_definition_mean": "546552715"
+    "hash_code_list_example": "460888002"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grape_cb_dmean_5000_it.json",
@@ -391,17 +305,19 @@
         "id_image": "grape_6321938"
       }
     ],
-    "hash_code_list_img": "2116841715",
-    "list_definition_mean": [
-      {
-        "mean_english": "quả nho",
-        "definition": "a green or black smooth-skinned eatable berry from which wine is made",
-        "ex_of_definition_list": [
-          "seedless grapes."
-        ]
-      }
+    "hash_code_list_img": "-1132829824",
+    "list_example": [
+      "seedless grapes.",
+      "In summary, the gene pool of cultivated grapes surveyed has significant amounts of genetic variation and exhibits narrow differentiation.",
+      "He grew grapes and other garden crops.",
+      "Like meat at a barbecue (see above) eating grapes was not identified in the analysis of the subpopulation.",
+      "Chapter 6 contains nutritional infor mation on mango, banana, citrus, guava, pineapple, litchi, papaya and grapes.",
+      "At the same time guarantee thresholds were extended to cover durum wheat, dried grapes, all tomato products and sunflower seeds.",
+      "Significantly higher prices were paid for grapes, onions, peppers and tomatoes when there was a child present in the household.",
+      "We are opposed to the downplaying of producing wine from grapes, replacing it with industrial wine resulting from the import of must from third countries.",
+      "We have purchased £28 million worth, including hothouse grapes, melons and so on, and we are sending coal and steel in return."
     ],
-    "hash_code_list_definition_mean": "1972176244"
+    "hash_code_list_example": "-136473522"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/graphic_cb_dmean_5000_it.json",
@@ -440,24 +356,12 @@
         "id_image": "graphic_6258724"
       }
     ],
-    "hash_code_list_img": "275061477",
-    "list_definition_mean": [
-      {
-        "mean_english": "sinh động",
-        "definition": "vivid",
-        "ex_of_definition_list": [
-          "a graphic description of the accident."
-        ]
-      },
-      {
-        "mean_english": "đồ họa",
-        "definition": "of painting, drawing etc",
-        "ex_of_definition_list": [
-          "the graphic arts."
-        ]
-      }
+    "hash_code_list_img": "-1224421279",
+    "list_example": [
+      "a graphic description of the accident.",
+      "the graphic arts."
     ],
-    "hash_code_list_definition_mean": "-902268748"
+    "hash_code_list_example": "765890646"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/graph_cb_dmean_5000_it.json",
@@ -490,17 +394,11 @@
         "id_image": "graph_563035"
       }
     ],
-    "hash_code_list_img": "1114238569",
-    "list_definition_mean": [
-      {
-        "mean_english": "đồ thị",
-        "definition": "a diagram consisting of a line or lines drawn to show changes in some quantity",
-        "ex_of_definition_list": [
-          "a graph of temperature changes."
-        ]
-      }
+    "hash_code_list_img": "1069677157",
+    "list_example": [
+      "a graph of temperature changes."
     ],
-    "hash_code_list_definition_mean": "56505754"
+    "hash_code_list_example": "-1038100114"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grass_cb_dmean_5000_it.json",
@@ -530,18 +428,11 @@
         "id_image": "grass_4752201"
       }
     ],
-    "hash_code_list_img": "1426490114",
-    "list_definition_mean": [
-      {
-        "mean_english": "cỏ",
-        "definition": "the green plant which covers fields, garden lawns etc",
-        "ex_of_definition_list": [
-          "Have you cut the grass yet?",
-          "Keep off the grass."
-        ]
-      }
+    "hash_code_list_img": "-86976822",
+    "list_example": [
+      "Have you cut the grass yet?"
     ],
-    "hash_code_list_definition_mean": "1415884555"
+    "hash_code_list_example": "2113584774"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grateful_cb_dmean_5000_it.json",
@@ -559,17 +450,19 @@
         "id_image": "grateful_4245665"
       }
     ],
-    "hash_code_list_img": "1874842282",
-    "list_definition_mean": [
-      {
-        "mean_english": "biết ơn",
-        "definition": "feeling thankful",
-        "ex_of_definition_list": [
-          "I am grateful to you for your help."
-        ]
-      }
+    "hash_code_list_img": "623742485",
+    "list_example": [
+      "I am grateful to you for your help.",
+      "The authors are also grateful to the anonymous referees for the same reason.",
+      "We are also grateful to the anonymous referees for their helpful suggestions and comments, which allowed us to improve the presentation of the material.",
+      "She is secretly grateful she has been turned down, as there are a few inconsistencies and outright conceptual and linguistic errors inherent in the work.",
+      "We are also very grateful to the referees for their insightful comments and helpful suggestions.",
+      "We are grateful to the referee for many very useful comments.",
+      "I am grateful to the participants of these meetings for helpful comments, suggestions, and questions.",
+      "The authors are grateful for the efforts of all the anonymous referees, who have helped to improve this review substantially.",
+      "We are also grateful for comments from two anonymous referees."
     ],
-    "hash_code_list_definition_mean": "551821106"
+    "hash_code_list_example": "-1100860276"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grater_cb_dmean_5000_it.json",
@@ -607,17 +500,14 @@
         "id_image": "grater_823230"
       }
     ],
-    "hash_code_list_img": "641559340",
-    "list_definition_mean": [
-      {
-        "mean_english": "bàn xát",
-        "definition": "an instrument with a rough surface on which cheese, vegetables etc can be grated",
-        "ex_of_definition_list": [
-          "a cheese grater."
-        ]
-      }
+    "hash_code_list_img": "-1662091208",
+    "list_example": [
+      "The need for collective action to achieve grater influence hinders these types of goals, and helps explain the limited support currently for opposition parties.",
+      "The concern to make savings in agricultural spending prevails, i.e. imposing grater rationality.",
+      "There are two versions of the grater in common use with different coarseness.",
+      "The few kitchen vessels in that deposit are mostly molcajetes, or grater bowls."
     ],
-    "hash_code_list_definition_mean": "1067780675"
+    "hash_code_list_example": "-973865022"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grate_cb_dmean_5000_it.json",
@@ -647,24 +537,11 @@
         "id_image": "grate_4711581"
       }
     ],
-    "hash_code_list_img": "1462059831",
-    "list_definition_mean": [
-      {
-        "mean_english": "mài; nạo",
-        "definition": "to rub (cheese, vegetables etc) into small pieces by means of a grater",
-        "ex_of_definition_list": [
-          "Roughly grate the onion and squeeze out any excess juice."
-        ]
-      },
-      {
-        "mean_english": "kích thích",
-        "definition": "to irritate",
-        "ex_of_definition_list": [
-          "His voice grates on me."
-        ]
-      }
+    "hash_code_list_img": "-2054786486",
+    "list_example": [
+      "Roughly grate the onion and squeeze out any excess juice."
     ],
-    "hash_code_list_definition_mean": "2135312408"
+    "hash_code_list_example": "-276062062"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gratitude_cb_dmean_5000_it.json",
@@ -687,17 +564,18 @@
         "id_image": "gratitude_708683"
       }
     ],
-    "hash_code_list_img": "1458438101",
-    "list_definition_mean": [
-      {
-        "mean_english": "lòng biết ơn",
-        "definition": "the state of feeling grateful",
-        "ex_of_definition_list": [
-          "I wish there was some way of showing my gratitude for all you have done for me."
-        ]
-      }
+    "hash_code_list_img": "-1573354331",
+    "list_example": [
+      "I wish there was some way of showing my gratitude for all you have done for me.",
+      "She gave so much and there are literally hundreds of people worldwide who will remember her with gratitude and affection.",
+      "Finally, particular gratitude goes to those music teachers who contributed their valuable time and histories.",
+      "Disappointment at an abbreviated life can be combined with gratitude for a life lived.",
+      "The author expresses his sincere gratitude for the generous support of all these institutions.",
+      "Each year the confidence of women calypsonians has grown, reinforced by the support and gratitude of female audience members.",
+      "Particular gratitude also goes to those music teachers who contributed their valuable time and histories.",
+      "Our deepest gratitude is expressed to the caseworkers, foster families, and children at both agencies."
     ],
-    "hash_code_list_definition_mean": "1359899570"
+    "hash_code_list_example": "-967425324"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grave_cb_dmean_5000_it.json",
@@ -728,39 +606,14 @@
         "id_image": "grave_5426443"
       }
     ],
-    "hash_code_list_img": "-395474587",
-    "list_definition_mean": [
-      {
-        "mean_english": "huyệt; mộ",
-        "definition": "a plot of ground, or the hole dug in it, in which a dead person is buried",
-        "ex_of_definition_list": [
-          "He laid flowers on the grave."
-        ]
-      },
-      {
-        "mean_english": "quan trọng",
-        "definition": "important",
-        "ex_of_definition_list": [
-          "a grave responsibility",
-          "grave decisions."
-        ]
-      },
-      {
-        "mean_english": "nghiêm trọng",
-        "definition": "serious, dangerous",
-        "ex_of_definition_list": [
-          "grave news."
-        ]
-      },
-      {
-        "mean_english": "trang nghiêm",
-        "definition": "serious, sad",
-        "ex_of_definition_list": [
-          "a grave expression."
-        ]
-      }
+    "hash_code_list_img": "115277968",
+    "list_example": [
+      "a grave responsibility",
+      "grave decisions.",
+      "grave news.",
+      "a grave expression."
     ],
-    "hash_code_list_definition_mean": "1651628798"
+    "hash_code_list_example": "887749927"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gravity_cb_dmean_5000_it.json",
@@ -794,17 +647,13 @@
         "id_image": "gravity_865054"
       }
     ],
-    "hash_code_list_img": "-1177390699",
-    "list_definition_mean": [
-      {
-        "mean_english": "trọng lực",
-        "definition": "the force which attracts things towards the Earth and causes them to fall to the ground",
-        "ex_of_definition_list": [
-          "Newton discovered the Law of Gravity."
-        ]
-      }
+    "hash_code_list_img": "-963603319",
+    "list_example": [
+      "The gravity of the situation was clear to us all.",
+      "The concept of associations has been for psychology what the concept of gravity has been for physics.",
+      "Our focus is on the role of gravity in the transition from prenatal to postnatal life."
     ],
-    "hash_code_list_definition_mean": "1533234755"
+    "hash_code_list_example": "670475128"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grease_cb_dmean_5000_it.json",
@@ -824,24 +673,13 @@
         "id_image": "grease_3690204"
       }
     ],
-    "hash_code_list_img": "1108674928",
-    "list_definition_mean": [
-      {
-        "mean_english": "dầu mỡ",
-        "definition": "any thick, oily substance",
-        "ex_of_definition_list": [
-          "She put grease on the squeaking hinge."
-        ]
-      },
-      {
-        "mean_english": "tra mỡ",
-        "definition": "to put grease on, over or in",
-        "ex_of_definition_list": [
-          "The mechanic greased the car’s axle."
-        ]
-      }
+    "hash_code_list_img": "700262325",
+    "list_example": [
+      "She put grease on the squeaking hinge.",
+      "If there were such things as essentially invisible people, smearing their faces with opaque grease paint would render them visible.",
+      "A coverslip with four posts of silicone grease containing 20-50 m glass beads was placed on the slide and gently lowered until it contacted and slightly compressed the drop."
     ],
-    "hash_code_list_definition_mean": "-537351480"
+    "hash_code_list_example": "2105915190"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/green_cb_dmean_5000_it.json",
@@ -882,74 +720,25 @@
         "id_image": "green_5614026"
       }
     ],
-    "hash_code_list_img": "386517830",
-    "list_definition_mean": [
-      {
-        "mean_english": "màu xanh lá cây",
-        "definition": "of the colour/color of growing grass or the leaves of most plants",
-        "ex_of_definition_list": [
-          "a green hat."
-        ]
-      },
-      {
-        "mean_english": "non; xanh",
-        "definition": "not ripe",
-        "ex_of_definition_list": [
-          "green bananas."
-        ]
-      },
-      {
-        "mean_english": "non nớt",
-        "definition": "without experience",
-        "ex_of_definition_list": [
-          "Only someone as green as you would believe a story like that."
-        ]
-      },
-      {
-        "mean_english": "nhợt nhạt",
-        "definition": "looking as if one is about to be sick; very pale",
-        "ex_of_definition_list": [
-          "He was green with envy (= very jealous)."
-        ]
-      },
-      {
-        "mean_english": "màu xanh lục",
-        "definition": "the colour/color of grass or the leaves of plants",
-        "ex_of_definition_list": [
-          "the green of the trees in summer."
-        ]
-      },
-      {
-        "mean_english": "vật màu xanh lá cây",
-        "definition": "something (eg paint) green in colour/color",
-        "ex_of_definition_list": [
-          "I’ve used up all my green."
-        ]
-      },
-      {
-        "mean_english": "đồng cỏ",
-        "definition": "an area of grass",
-        "ex_of_definition_list": [
-          "a village green."
-        ]
-      },
-      {
-        "mean_english": "đồi cỏ",
-        "definition": "an area of grass on a golf course with a small hole in the centre/center",
-        "ex_of_definition_list": [
-          "Her shot landed on the green."
-        ]
-      },
-      {
-        "mean_english": "vì môi trường",
-        "definition": "concerned with the protection of the environment",
-        "ex_of_definition_list": [
-          "green issues",
-          "a green political party."
-        ]
-      }
+    "hash_code_list_img": "-1341116951",
+    "list_example": [
+      "a green hat.",
+      "green bananas.",
+      "Only someone as green as you would believe a story like that.",
+      "He was green with envy (= very jealous).",
+      "the green of the trees in summer.",
+      "green issues",
+      "a green political party.",
+      "For each directed green segment, there is an eaten square on its left side, and there is a blue (uneaten) square on its right side.",
+      "Therefore, white-vented mynas probably preferred the green patches among residential buildings, as this may have allowed them to more efficiently exploit ephemeral anthropogenic food sources.",
+      "Though more costly, the more sustainable option is the use of green manures.",
+      "Recent use of green oak springs from the realisation that fairly young trees offer a potential resource which can be converted to provide reasonable sections.",
+      "Outside this road, a green belt (100 metres wide) separated the city and surrounding countryside.",
+      "The third was a still life with a green drape, and green lettuce, pepper and apples.",
+      "A popular explanation holds that large green jurisdictions have been forcing their trading partners to trade or ratchet up their regulation.",
+      "Luminance-defined targets had the same hue and saturation as the background, whereas saturation-defined targets were green and equiluminant with the background."
     ],
-    "hash_code_list_definition_mean": "-1635786924"
+    "hash_code_list_example": "-1365602659"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grenade_cb_dmean_5000_it.json",
@@ -977,17 +766,11 @@
         "id_image": "grenade_942366"
       }
     ],
-    "hash_code_list_img": "104164102",
-    "list_definition_mean": [
-      {
-        "mean_english": "lựu đạn",
-        "definition": "a small bomb, especially one thrown by hand",
-        "ex_of_definition_list": [
-          "a hand grenade."
-        ]
-      }
+    "hash_code_list_img": "1595730964",
+    "list_example": [
+      "a hand grenade."
     ],
-    "hash_code_list_definition_mean": "972774910"
+    "hash_code_list_example": "329138129"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/greyhound_cb_dmean_5000_it.json",
@@ -1005,18 +788,16 @@
         "id_image": "greyhound_1820834"
       }
     ],
-    "hash_code_list_img": "1651715078",
-    "list_definition_mean": [
-      {
-        "mean_english": "loại chó đua",
-        "definition": "a breed of dog which can run very fast",
-        "ex_of_definition_list": [
-          "He breeds greyhounds for racing",
-          "(also adjective) greyhound racing."
-        ]
-      }
+    "hash_code_list_img": "250331386",
+    "list_example": [
+      "(also adjective) greyhound racing.",
+      "Changes in haemorheology in the racing greyhound as related to oxygen delivery.",
+      "Thus, it is likely that the greyhound approaches or exceeds this 'threshold for capillary rupture' during maximal exertion.",
+      "The crinolined women clustered beneath her seem handmaidens flocking to attend her entrance: even a greyhound follows her queenly progress.",
+      "She is extremely cunning, extremely fast and, over a distance, faster than the normal greyhound dog.",
+      "We understand that negotiations between the off-course bookmakers and the greyhound racing industry to devise suitable voluntary arrangements are continuing."
     ],
-    "hash_code_list_definition_mean": "1869873251"
+    "hash_code_list_example": "402062683"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grief_cb_dmean_5000_it.json",
@@ -1044,17 +825,16 @@
         "id_image": "grief_708614"
       }
     ],
-    "hash_code_list_img": "-736867762",
-    "list_definition_mean": [
-      {
-        "mean_english": "nỗi sầu khổ",
-        "definition": "great sorrow or unhappiness",
-        "ex_of_definition_list": [
-          "She was filled with grief at the news of her sister’s death."
-        ]
-      }
+    "hash_code_list_img": "973251352",
+    "list_example": [
+      "She was filled with grief at the news of her sister’s death.",
+      "A primary advantage of a group is that a client's grief is shared and may decrease feelings of isolation.",
+      "Factors affecting grief reactions in close family members to individuals who have died of cancer.",
+      "Clearly such women are unlikely to publicise their grief about infertility, miscarriages and ill-health.",
+      "How was the grief of the bereaved manifested ?",
+      "Her raw honesty and unflinching gaze on the subject of her own grief reveal a wisdom which her earlier writings have always suggested."
     ],
-    "hash_code_list_definition_mean": "662786240"
+    "hash_code_list_example": "-404773190"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grill_cb_dmean_5000_it.json",
@@ -1091,38 +871,11 @@
         "id_image": "grill_998910"
       }
     ],
-    "hash_code_list_img": "-1139728023",
-    "list_definition_mean": [
-      {
-        "mean_english": "nướng",
-        "definition": "to cook directly under heat",
-        "ex_of_definition_list": [
-          "I’m going to grill the lamb chops."
-        ]
-      },
-      {
-        "mean_english": "tra hỏi",
-        "definition": "to question (a person) closely",
-        "ex_of_definition_list": [
-          "The police grilled the man they thought was the murderer."
-        ]
-      },
-      {
-        "mean_english": "tủ nướng",
-        "definition": "the part of a cooker used for grilling",
-        "ex_of_definition_list": [
-          "You could toast the bread on the grill."
-        ]
-      },
-      {
-        "mean_english": "món thịt nướng",
-        "definition": "a dish of grilled food",
-        "ex_of_definition_list": [
-          "a mixed grill."
-        ]
-      }
+    "hash_code_list_img": "1237064008",
+    "list_example": [
+      "I’m going to grill the lamb chops."
     ],
-    "hash_code_list_definition_mean": "-1158768470"
+    "hash_code_list_example": "620795113"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grinder_cb_dmean_5000_it.json",
@@ -1155,17 +908,19 @@
         "id_image": "grinder_808746"
       }
     ],
-    "hash_code_list_img": "1581998763",
-    "list_definition_mean": [
-      {
-        "mean_english": "cối xay, máy nghiền",
-        "definition": "a person or machine that grinds",
-        "ex_of_definition_list": [
-          "a coffee grinder."
-        ]
-      }
+    "hash_code_list_img": "824104735",
+    "list_example": [
+      "a coffee grinder.",
+      "In 1842, they added production of coffee, pepper, and salt grinders.",
+      "His legislation against organ grinders on the grounds that they were street nuisances was less successful.",
+      "Indents were made a year ago last month for machine tools, lathes, surface grinders and so on.",
+      "If there are more miners than grinders and preparers, the total number will rank for refund.",
+      "Apart from general broad definitions, such as turners, fitters, grinders and milling machine operatives, there were others, because new machinery had been introduced, bringing new methods.",
+      "Traditionally, two or more skilled tradesmen—millers, grinders, capstan operators or setters—may decide to break away from their company and to have a go on their own.",
+      "Manual devices include barrel-shaped presses, hand-operated grinders, and inverted cones upon which fruit is mashed and twisted.",
+      "Common foods served are sandwich grinders, pizza, and chef salads."
     ],
-    "hash_code_list_definition_mean": "647411366"
+    "hash_code_list_example": "310988260"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grind_cb_dmean_5000_it.json",
@@ -1186,39 +941,17 @@
         "id_image": "grind_1407905"
       }
     ],
-    "hash_code_list_img": "1384421749",
-    "list_definition_mean": [
-      {
-        "mean_english": "nghiền",
-        "definition": "to crush into powder or small pieces",
-        "ex_of_definition_list": [
-          "Grind the spices in a pestle and mortar",
-          "This machine grinds coffee."
-        ]
-      },
-      {
-        "mean_english": "nén hoặc cọ mạnh",
-        "definition": "to rub together, usually producing an unpleasant noise",
-        "ex_of_definition_list": [
-          "He grinds his teeth."
-        ]
-      },
-      {
-        "mean_english": "mài",
-        "definition": "to rub into or against something else",
-        "ex_of_definition_list": [
-          "He ground his heel into the earth."
-        ]
-      },
-      {
-        "mean_english": "công việc cực nhọc đều đều",
-        "definition": "boring hard work",
-        "ex_of_definition_list": [
-          "Learning irregular verbs is a bit of a grind."
-        ]
-      }
+    "hash_code_list_img": "1511814712",
+    "list_example": [
+      "This machine grinds coffee.",
+      "He grinds his teeth.",
+      "Learning irregular verbs is a bit of a grind.",
+      "The grinding process may have affected the clay component more than the other minerals.",
+      "The tissue was dried by grinding with anhydrous sodium sulfate and extracted with several volumes of hexane to remove carotenoids, retinols, and retinyl esters.",
+      "The last movement is a grinding palindromic movement which has sudden and drastic, if not violent, contrasts of tempi and texture.",
+      "The sides were glowing and going round, grinding out a familiar rumble."
     ],
-    "hash_code_list_definition_mean": "-742759090"
+    "hash_code_list_example": "-1990665422"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grin_cb_dmean_5000_it.json",
@@ -1252,24 +985,12 @@
         "id_image": "grin_6259903"
       }
     ],
-    "hash_code_list_img": "-830419525",
-    "list_definition_mean": [
-      {
-        "mean_english": "cười toe toét",
-        "definition": "to smile broadly",
-        "ex_of_definition_list": [
-          "The children grinned happily for the photographer."
-        ]
-      },
-      {
-        "mean_english": "cái cười toe toét",
-        "definition": "a broad smile",
-        "ex_of_definition_list": [
-          "Tim had a massive grin on his face."
-        ]
-      }
+    "hash_code_list_img": "-218775147",
+    "list_example": [
+      "Tim had a massive grin on his face.",
+      "Here huge animated dinosaurs wallow in gore, as jaws slobber and teeth grin in reptilian rictus."
     ],
-    "hash_code_list_definition_mean": "-1130940926"
+    "hash_code_list_example": "503231473"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grip_cb_dmean_5000_it.json",
@@ -1310,41 +1031,13 @@
         "id_image": "grip_5612911"
       }
     ],
-    "hash_code_list_img": "297032871",
-    "list_definition_mean": [
-      {
-        "mean_english": "nắm chặt; giữ chặt",
-        "definition": "to take a firm hold of",
-        "ex_of_definition_list": [
-          "He gripped his stick",
-          "The speaker gripped (the attention of) his audience."
-        ]
-      },
-      {
-        "mean_english": "sự nắm chặt",
-        "definition": "a firm hold",
-        "ex_of_definition_list": [
-          "He had a firm grip on his stick",
-          "He has a very strong grip",
-          "The sailors were caught in the grip of a fierce storm."
-        ]
-      },
-      {
-        "mean_english": "túi du lịch",
-        "definition": "a bag used by travellers",
-        "ex_of_definition_list": [
-          "He carried his sports equipment in a large grip."
-        ]
-      },
-      {
-        "mean_english": "sự thấu hiểu",
-        "definition": "understanding",
-        "ex_of_definition_list": [
-          "He has a good grip of the subject."
-        ]
-      }
+    "hash_code_list_img": "2133962842",
+    "list_example": [
+      "He had a firm grip on his stick",
+      "The sailors were caught in the grip of a fierce storm.",
+      "He has a good grip of the subject."
     ],
-    "hash_code_list_definition_mean": "1266646365"
+    "hash_code_list_example": "-1794041914"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/groom_cb_dmean_5000_it.json",
@@ -1380,31 +1073,11 @@
         "id_image": "groom_5833045"
       }
     ],
-    "hash_code_list_img": "934909655",
-    "list_definition_mean": [
-      {
-        "mean_english": "người chăn ngựa",
-        "definition": "a person who looks after horses",
-        "ex_of_definition_list": [
-          "He works as a groom at the stables."
-        ]
-      },
-      {
-        "mean_english": "chải lông",
-        "definition": "to clean, brush etc a horse’s coat",
-        "ex_of_definition_list": [
-          "The horses were groomed for the horse show."
-        ]
-      },
-      {
-        "mean_english": "chuẩn bị",
-        "definition": "to prepare for some task, purpose etc",
-        "ex_of_definition_list": [
-          "She’s being groomed as a possible successor to our head of department."
-        ]
-      }
+    "hash_code_list_img": "-1008248722",
+    "list_example": [
+      "He works as a groom at the stables."
     ],
-    "hash_code_list_definition_mean": "1386528041"
+    "hash_code_list_example": "549069703"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gross_cb_dmean_5000_it.json",
@@ -1426,38 +1099,14 @@
         "id_image": "gross_2329468"
       }
     ],
-    "hash_code_list_img": "926498250",
-    "list_definition_mean": [
-      {
-        "mean_english": "trắng trợn",
-        "definition": "very bad",
-        "ex_of_definition_list": [
-          "gross errors/indecency."
-        ]
-      },
-      {
-        "mean_english": "không tinh tế",
-        "definition": "vulgar",
-        "ex_of_definition_list": [
-          "gross language."
-        ]
-      },
-      {
-        "mean_english": "to béo",
-        "definition": "too fat",
-        "ex_of_definition_list": [
-          "a large, gross woman."
-        ]
-      },
-      {
-        "mean_english": "toàn bộ; tổng",
-        "definition": "total",
-        "ex_of_definition_list": [
-          "The gross weight of a parcel is the total weight of the contents, the box, the wrapping etc."
-        ]
-      }
+    "hash_code_list_img": "2106922633",
+    "list_example": [
+      "gross errors/indecency.",
+      "gross language.",
+      "a large, gross woman.",
+      "The gross weight of a parcel is the total weight of the contents, the box, the wrapping etc."
     ],
-    "hash_code_list_definition_mean": "1009432621"
+    "hash_code_list_example": "1713020923"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/ground_cb_dmean_5000_it.json",
@@ -1484,39 +1133,15 @@
         "id_image": "ground_2526762"
       }
     ],
-    "hash_code_list_img": "-984513110",
-    "list_definition_mean": [
-      {
-        "mean_english": "mặt đất",
-        "definition": "the solid surface of the Earth",
-        "ex_of_definition_list": [
-          "She was lying on the ground",
-          "high ground."
-        ]
-      },
-      {
-        "mean_english": "một khoảng đất",
-        "definition": "a piece of land used for some purpose",
-        "ex_of_definition_list": [
-          "a football ground."
-        ]
-      },
-      {
-        "mean_english": "dựa vào",
-        "definition": "to base",
-        "ex_of_definition_list": [
-          "His argument is grounded on a series of wrong assumptions."
-        ]
-      },
-      {
-        "mean_english": "không cất cánh",
-        "definition": "to prevent (an aeroplane/airplane, pilot) from flying",
-        "ex_of_definition_list": [
-          "All planes have been grounded because of the fog."
-        ]
-      }
+    "hash_code_list_img": "498265728",
+    "list_example": [
+      "She was lying on the ground",
+      "high ground.",
+      "a football ground.",
+      "His argument is grounded on a series of wrong assumptions.",
+      "All planes have been grounded because of the fog."
     ],
-    "hash_code_list_definition_mean": "-604021434"
+    "hash_code_list_example": "-125361272"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/group_cb_dmean_5000_it.json",
@@ -1551,32 +1176,11 @@
         "id_image": "group_860469"
       }
     ],
-    "hash_code_list_img": "-1577175449",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhóm, tốp",
-        "definition": "a number of persons or things together",
-        "ex_of_definition_list": [
-          "a group of boys."
-        ]
-      },
-      {
-        "mean_english": "ban, nhóm",
-        "definition": "a group of people who play or sing together",
-        "ex_of_definition_list": [
-          "a pop group",
-          "a folk group."
-        ]
-      },
-      {
-        "mean_english": "tập hợp lại",
-        "definition": "to form into a group or groups",
-        "ex_of_definition_list": [
-          "The children grouped round the teacher."
-        ]
-      }
+    "hash_code_list_img": "1568336755",
+    "list_example": [
+      "a group of boys."
     ],
-    "hash_code_list_definition_mean": "1298577759"
+    "hash_code_list_example": "-267022435"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/growth_cb_dmean_5000_it.json",
@@ -1612,38 +1216,14 @@
         "id_image": "growth_751819"
       }
     ],
-    "hash_code_list_img": "193590813",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự phát triển",
-        "definition": "the act or process of growing, increasing, developing etc",
-        "ex_of_definition_list": [
-          "the growth of trade unionism."
-        ]
-      },
-      {
-        "mean_english": "đã trưởng thành",
-        "definition": "something that has grown",
-        "ex_of_definition_list": [
-          "a week’s growth of beard."
-        ]
-      },
-      {
-        "mean_english": "sự gia tăng",
-        "definition": "the amount by which something grows",
-        "ex_of_definition_list": [
-          "We measured the growth of the plant over a two-week period."
-        ]
-      },
-      {
-        "mean_english": "sự hình thành bất thường",
-        "definition": "something unwanted which grows",
-        "ex_of_definition_list": [
-          "a cancerous growth."
-        ]
-      }
+    "hash_code_list_img": "180605267",
+    "list_example": [
+      "the growth of trade unionism.",
+      "a week’s growth of beard.",
+      "We measured the growth of the plant over a two-week period.",
+      "The rates of per capita growth during the periods of mining stagnation are 0.12 (1729-44) and 0.03 (1753) per cent per year."
     ],
-    "hash_code_list_definition_mean": "472217365"
+    "hash_code_list_example": "-2079135761"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grow_cb_dmean_5000_it.json",
@@ -1684,46 +1264,11 @@
         "id_image": "grow_6344208"
       }
     ],
-    "hash_code_list_img": "-305775013",
-    "list_definition_mean": [
-      {
-        "mean_english": "phát triển",
-        "definition": "(of plants) to develop",
-        "ex_of_definition_list": [
-          "Carrots grow well in this soil."
-        ]
-      },
-      {
-        "mean_english": "gia tăng",
-        "definition": "to become bigger, longer etc",
-        "ex_of_definition_list": [
-          "My hair has grown too long",
-          "Our friendship grew as time went on."
-        ]
-      },
-      {
-        "mean_english": "làm phát triển",
-        "definition": "to cause or allow to grow",
-        "ex_of_definition_list": [
-          "He has grown a beard."
-        ]
-      },
-      {
-        "mean_english": "trở thành",
-        "definition": "(with into) to change into, in becoming mature",
-        "ex_of_definition_list": [
-          "Your daughter has grown into a beautiful woman."
-        ]
-      },
-      {
-        "mean_english": "trở thành",
-        "definition": "to become",
-        "ex_of_definition_list": [
-          "It’s growing dark."
-        ]
-      }
+    "hash_code_list_img": "-155164942",
+    "list_example": [
+      "Carrots grow well in this soil."
     ],
-    "hash_code_list_definition_mean": "1548754257"
+    "hash_code_list_example": "1362322930"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grub_cb_dmean_5000_it.json",
@@ -1743,31 +1288,11 @@
         "id_image": "grub_4982452"
       }
     ],
-    "hash_code_list_img": "1123913550",
-    "list_definition_mean": [
-      {
-        "mean_english": "con giòi",
-        "definition": "the form of an insect after it hatches from its egg",
-        "ex_of_definition_list": [
-          "A caterpillar is a grub."
-        ]
-      },
-      {
-        "mean_english": "thức ăn",
-        "definition": "a slang term for food",
-        "ex_of_definition_list": [
-          "Is there any grub in the house?"
-        ]
-      },
-      {
-        "mean_english": "đào xới",
-        "definition": "to search by digging",
-        "ex_of_definition_list": [
-          "The pigs were grubbing around for roots."
-        ]
-      }
+    "hash_code_list_img": "292159004",
+    "list_example": [
+      "Is there any grub in the house?"
     ],
-    "hash_code_list_definition_mean": "1797372850"
+    "hash_code_list_example": "1807025990"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grumpy_cb_dmean_5000_it.json",
@@ -1790,17 +1315,18 @@
         "id_image": "grumpy_5507261"
       }
     ],
-    "hash_code_list_img": "-1370535386",
-    "list_definition_mean": [
-      {
-        "mean_english": "cáu bẳn",
-        "definition": "bad-tempered",
-        "ex_of_definition_list": [
-          "a grumpy old man."
-        ]
-      }
+    "hash_code_list_img": "1650044290",
+    "list_example": [
+      "a grumpy old man.",
+      "In normal circumstances one finds that the more work people have to do, the more grumpy and less courteous they are.",
+      "I think of the words that are bandied about in television programmes, such as \"grumpy old\", \"boring old\", \"silly old\"and\"dirty old\".",
+      "This is not the grumpy memoir that one comes to expect from old colonial officers.",
+      "They seem to have different personalities, one is dramatic and stuffy, the other is grumpy and cynical.",
+      "I do not believe that they are merely grumpy anecdotes of the dissatisfied.",
+      "It may be part of the grumpy old man syndrome, but the environment around me is changing, and not for the better.",
+      "What is the position when the disabled person is having an extremely good day but has to meet with a very grumpy and bad assessor?"
     ],
-    "hash_code_list_definition_mean": "2129302380"
+    "hash_code_list_example": "2034989175"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grunge_cb_dmean_5000_it.json",
@@ -1840,17 +1366,15 @@
         "id_image": "grunge_1881088"
       }
     ],
-    "hash_code_list_img": "77954250",
-    "list_definition_mean": [
-      {
-        "mean_english": "vết bẩn",
-        "definition": "(informal) unpleasant dirt; filth",
-        "ex_of_definition_list": [
-          "Pressure washing is a great way to clean the grunge from concrete pathways."
-        ]
-      }
+    "hash_code_list_img": "-816287742",
+    "list_example": [
+      "Pressure washing is a great way to clean the grunge from concrete pathways.",
+      "The words themselves never caught on as actual slang within the grunge scene (though score and dish are in use elsewhere).",
+      "Although associated with hard rock, the band's sound incorporated some elements of grunge music.",
+      "After the early 1990s they fell out of the mainstream with the birth of grunge rock and baggy jeans.",
+      "The venue features a variety of musical acts in the rap, electronic, heavy metal, rock, and grunge genres."
     ],
-    "hash_code_list_definition_mean": "991393211"
+    "hash_code_list_example": "587607939"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/guarantee_cb_dmean_5000_it.json",
@@ -1886,38 +1410,13 @@
         "id_image": "guarantee_5091546"
       }
     ],
-    "hash_code_list_img": "-675603245",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự bảo đảm",
-        "definition": "a statement by the maker that something will work for a certain period of time",
-        "ex_of_definition_list": [
-          "This guarantee is valid for one year."
-        ]
-      },
-      {
-        "mean_english": "vật bảo đảm",
-        "definition": "a thing that makes something likely or certain",
-        "ex_of_definition_list": [
-          "It is no guarantee against failure."
-        ]
-      },
-      {
-        "mean_english": "bảo đảm",
-        "definition": "to act as, or give, a guarantee",
-        "ex_of_definition_list": [
-          "This watch is guaranteed for six months."
-        ]
-      },
-      {
-        "mean_english": "cam đoan",
-        "definition": "to state that something is true, definite etc",
-        "ex_of_definition_list": [
-          "I can’t guarantee that what he told me is correct."
-        ]
-      }
+    "hash_code_list_img": "1417944971",
+    "list_example": [
+      "This guarantee is valid for one year.",
+      "It is no guarantee against failure.",
+      "I can’t guarantee that what he told me is correct."
     ],
-    "hash_code_list_definition_mean": "-802694287"
+    "hash_code_list_example": "613593705"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/guardian_cb_dmean_5000_it.json",
@@ -1941,24 +1440,12 @@
         "id_image": "guardian_490517"
       }
     ],
-    "hash_code_list_img": "384127972",
-    "list_definition_mean": [
-      {
-        "mean_english": "người giám hộ",
-        "definition": "a person who has the legal right to take care of a child (usually an orphan)",
-        "ex_of_definition_list": [
-          "He became the child’s guardian when her parents died."
-        ]
-      },
-      {
-        "mean_english": "người canh gác",
-        "definition": "a person who looks after something",
-        "ex_of_definition_list": [
-          "the guardian of the castle."
-        ]
-      }
+    "hash_code_list_img": "1875769411",
+    "list_example": [
+      "He became the child’s guardian when her parents died.",
+      "the guardian of the castle."
     ],
-    "hash_code_list_definition_mean": "-35463481"
+    "hash_code_list_example": "-827624117"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/guard_cb_dmean_5000_it.json",
@@ -2001,40 +1488,14 @@
         "id_image": "guard_4413056"
       }
     ],
-    "hash_code_list_img": "-379000741",
-    "list_definition_mean": [
-      {
-        "mean_english": "canh gác",
-        "definition": "to protect from danger or attack",
-        "ex_of_definition_list": [
-          "The soldiers were guarding the king/palace."
-        ]
-      },
-      {
-        "mean_english": "canh giữ",
-        "definition": "to prevent (a person) escaping, (something) happening",
-        "ex_of_definition_list": [
-          "The soldiers guarded their prisoners",
-          "Try to guard against making silly mistakes."
-        ]
-      },
-      {
-        "mean_english": "người canh gác",
-        "definition": "someone who or something which protects",
-        "ex_of_definition_list": [
-          "The security officers formed a guard round the president",
-          "a guard in front of the fire."
-        ]
-      },
-      {
-        "mean_english": "quản giáo",
-        "definition": "someone whose job is to prevent (a person) escaping",
-        "ex_of_definition_list": [
-          "There was a guard with the prisoner every hour of the day."
-        ]
-      }
+    "hash_code_list_img": "1431874165",
+    "list_example": [
+      "Try to guard against making silly mistakes.",
+      "The security officers formed a guard round the president",
+      "a guard in front of the fire.",
+      "There was a guard with the prisoner every hour of the day."
     ],
-    "hash_code_list_definition_mean": "-273088878"
+    "hash_code_list_example": "1844569057"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/guess_cb_dmean_5000_it.json",
@@ -2059,32 +1520,13 @@
         "id_image": "guess_4456781"
       }
     ],
-    "hash_code_list_img": "-481696754",
-    "list_definition_mean": [
-      {
-        "mean_english": "phỏng đoán",
-        "definition": "to say what is likely to be the case",
-        "ex_of_definition_list": [
-          "I’m trying to guess the height of this building",
-          "If you don’t know the answer, just guess."
-        ]
-      },
-      {
-        "mean_english": "giả dụ",
-        "definition": "to suppose",
-        "ex_of_definition_list": [
-          "I guess I’ll have to leave now."
-        ]
-      },
-      {
-        "mean_english": "dự đoán",
-        "definition": "an opinion, answer etc got by guessing",
-        "ex_of_definition_list": [
-          "My guess is that he’s not coming."
-        ]
-      }
+    "hash_code_list_img": "-1885503824",
+    "list_example": [
+      "I’m trying to guess the height of this building",
+      "I guess I’ll have to leave now.",
+      "My guess is that he’s not coming."
     ],
-    "hash_code_list_definition_mean": "-1595964768"
+    "hash_code_list_example": "-1308126505"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/guesthouse_cb_dmean_5000_it.json",
@@ -2107,17 +1549,11 @@
         "id_image": "guesthouse_6254153"
       }
     ],
-    "hash_code_list_img": "-569360407",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà trọ",
-        "definition": "a small hotel",
-        "ex_of_definition_list": [
-          "We’ll be staying in a guesthouse near the seafront."
-        ]
-      }
+    "hash_code_list_img": "-1221422214",
+    "list_example": [
+      "We’ll be staying in a guesthouse near the seafront."
     ],
-    "hash_code_list_definition_mean": "2091774953"
+    "hash_code_list_example": "784444585"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/guest_cb_dmean_5000_it.json",
@@ -2145,18 +1581,11 @@
         "id_image": "guest_6413806"
       }
     ],
-    "hash_code_list_img": "-1196383966",
-    "list_definition_mean": [
-      {
-        "mean_english": "khách",
-        "definition": "a visitor received in a house, in a hotel etc",
-        "ex_of_definition_list": [
-          "We are having guests for dinner",
-          "(also adjective) a guest bedroom."
-        ]
-      }
+    "hash_code_list_img": "-481082512",
+    "list_example": [
+      "(also adjective) a guest bedroom."
     ],
-    "hash_code_list_definition_mean": "1016921341"
+    "hash_code_list_example": "1515125991"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/guidance_cb_dmean_5000_it.json",
@@ -2184,17 +1613,17 @@
         "id_image": "guidance_4834030"
       }
     ],
-    "hash_code_list_img": "-499612497",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự hướng dẫn",
-        "definition": "advice towards doing something",
-        "ex_of_definition_list": [
-          "a project prepared under the guidance of the professor."
-        ]
-      }
+    "hash_code_list_img": "1886372829",
+    "list_example": [
+      "a project prepared under the guidance of the professor.",
+      "The guidelines that recommend including productivity effects do not provide guidance about how to value lost or gained time.",
+      "One problem, perhaps major, is that there is very little guidance on applicability of particular methodologies.",
+      "In addition, collaboration is needed in the sharing of experience of methods of dissemination and implementation of guidance and communication with the end users.",
+      "Without the guidance of the law, it is unsurprising that local officials developed their own practices, recording, accounting and payment mechanisms.",
+      "The degree of design iteration generally carried out in a trialand-error manner under the guidance of domain exper ts consumes many person-hours.",
+      "There is a common tendency for government to look to experts for guidance about specialized matters."
     ],
-    "hash_code_list_definition_mean": "2006206679"
+    "hash_code_list_example": "2030359037"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/guideline_cb_dmean_5000_it.json",
@@ -2227,17 +1656,12 @@
         "id_image": "guideline_5978063"
       }
     ],
-    "hash_code_list_img": "115047933",
-    "list_definition_mean": [
-      {
-        "mean_english": "đường lối chỉ đạo",
-        "definition": "an indication as to how something should be done",
-        "ex_of_definition_list": [
-          "You should follow the guidelines when writing your paper."
-        ]
-      }
+    "hash_code_list_img": "-771029749",
+    "list_example": [
+      "These differences could be reflected in differences in guideline recommendations.",
+      "Thus, informed speculation concerning the outcome of the equal antecedent-risk insurance mechanism would serve as the guideline for evaluating the justice of communal medical provision."
     ],
-    "hash_code_list_definition_mean": "2113582508"
+    "hash_code_list_example": "1629089661"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/guide_cb_dmean_5000_it.json",
@@ -2275,39 +1699,17 @@
         "id_image": "guide_4215303"
       }
     ],
-    "hash_code_list_img": "395761990",
-    "list_definition_mean": [
-      {
-        "mean_english": "chỉ đường",
-        "definition": "to lead, direct or show the way",
-        "ex_of_definition_list": [
-          "I don’t know how to get to your house – I’ll need someone to guide me",
-          "Your comments guided me in my final choice."
-        ]
-      },
-      {
-        "mean_english": "chỉ dẫn",
-        "definition": "to control the movement of",
-        "ex_of_definition_list": [
-          "The teacher guided the child’s hand as she wrote."
-        ]
-      },
-      {
-        "mean_english": "người hướng dẫn",
-        "definition": "a person who shows the way to go, points out interesting things etc",
-        "ex_of_definition_list": [
-          "A guide will show you round the castle."
-        ]
-      },
-      {
-        "mean_english": "sách hướng dẫn",
-        "definition": "(also guidebook) a book which contains information for tourists",
-        "ex_of_definition_list": [
-          "a guide to Rome."
-        ]
-      }
+    "hash_code_list_img": "1561668686",
+    "list_example": [
+      "I don’t know how to get to your house – I’ll need someone to guide me",
+      "A guide will show you round the castle.",
+      "a guide to Rome.",
+      "The goal was to uncover the ideologies that parents perceive to guide present speaking practices with their children.",
+      "Overall, this book is a useful and basic reference guide to individual accounts in the international arena.",
+      "This thematic grouping helpfully structures an otherwise disparate set of texts, and should guide the reader towards the section of most interest to them.",
+      "As such it is a practical guide which yields considerable insight into the culture and craft of orchestral playing."
     ],
-    "hash_code_list_definition_mean": "524597628"
+    "hash_code_list_example": "1838921675"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/guilty_cb_dmean_5000_it.json",
@@ -2330,18 +1732,15 @@
         "id_image": "guilty_6002750"
       }
     ],
-    "hash_code_list_img": "187414654",
-    "list_definition_mean": [
-      {
-        "mean_english": "đáng khiển trách",
-        "definition": "having, feeling, or causing guilt",
-        "ex_of_definition_list": [
-          "The jury found the prisoner guilty",
-          "a guilty conscience."
-        ]
-      }
+    "hash_code_list_img": "225618700",
+    "list_example": [
+      "a guilty conscience.",
+      "How could a guilty verdict be judged a masterpiece?",
+      "Parents or guardians who failed to comply would be found guilty of a criminal offense.",
+      "The accused was found guilty and sentenced to death.",
+      "In many ways both sides were equally guilty of delay, dissimulation, and deception."
     ],
-    "hash_code_list_definition_mean": "1869172886"
+    "hash_code_list_example": "2067758441"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/guilt_cb_dmean_5000_it.json",
@@ -2370,24 +1769,13 @@
         "id_image": "guilt_708643"
       }
     ],
-    "hash_code_list_img": "-588529592",
-    "list_definition_mean": [
-      {
-        "mean_english": "tội lỗi",
-        "definition": "a sense of shame",
-        "ex_of_definition_list": [
-          "a feeling of guilt."
-        ]
-      },
-      {
-        "mean_english": "sự hối hận",
-        "definition": "the state of having done wrong",
-        "ex_of_definition_list": [
-          "Fingerprints proved the murderer’s guilt."
-        ]
-      }
+    "hash_code_list_img": "1184828180",
+    "list_example": [
+      "When he does violate it, neither guilt nor shame is typically absent, but the act will have been rationalized by him.",
+      "The fact that one cannot accomplish a ' best ' does not absolve one of guilt if one could do far better than one has done.",
+      "Establishing guilt by association was in other words a frequent and sometimes very successful strategy in the strongly polarised debating climate of the 1970s."
     ],
-    "hash_code_list_definition_mean": "1306455093"
+    "hash_code_list_example": "-575132794"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/guitar_cb_dmean_5000_it.json",
@@ -2405,17 +1793,15 @@
         "id_image": "guitar_473657"
       }
     ],
-    "hash_code_list_img": "1791508102",
-    "list_definition_mean": [
-      {
-        "mean_english": "đàn ghi ta",
-        "definition": "a type of musical instrument with usually six strings",
-        "ex_of_definition_list": [
-          "an electric guitar."
-        ]
-      }
+    "hash_code_list_img": "680584344",
+    "list_example": [
+      "The harmonic progressions, vocal lines, and guitar improvisations of metal all rely heavily on the pentatonic scales derived from blues music.",
+      "What often occurs is for a pedal steel, fiddle, dobro, mandolin or guitar to act as a secondary or counter-melody.",
+      "In fact, the voice arrives at the tonic too early, while the guitar has only reached the dominant.",
+      "The children touched the guitar and interacted with the music therapist in the familiar songs they wanted to hear.",
+      "Form was shaped by sound combinations of kalimba/bell-cymbal/shaker, the addition of wood, guitar/bell, guitar /tambourine, and guitar/shaker."
     ],
-    "hash_code_list_definition_mean": "1417153631"
+    "hash_code_list_example": "-678273287"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/gum_cb_dmean_5000_it.json",
@@ -2453,44 +1839,16 @@
         "id_image": "gum_790628"
       }
     ],
-    "hash_code_list_img": "-1790686941",
-    "list_definition_mean": [
-      {
-        "mean_english": "lợi",
-        "definition": "the firm flesh in which the teeth grow",
-        "ex_of_definition_list": [
-          "His gums were bleeding."
-        ]
-      },
-      {
-        "mean_english": "hồ",
-        "definition": "a glue",
-        "ex_of_definition_list": [
-          "We can stick these pictures into the book with gum."
-        ]
-      },
-      {
-        "mean_english": "kẹo gôm",
-        "definition": "a type of sweet",
-        "ex_of_definition_list": [
-          "a fruit gum."
-        ]
-      },
-      {
-        "mean_english": "kẹo cao su",
-        "definition": "chewing gum",
-        "ex_of_definition_list": [
-          "He chews gum when he is working."
-        ]
-      },
-      {
-        "mean_english": "dán",
-        "definition": "to glue with gum",
-        "ex_of_definition_list": [
-          "Gum the two pieces of paper together."
-        ]
-      }
+    "hash_code_list_img": "1613982457",
+    "list_example": [
+      "He chews gum when he is working.",
+      "Two classes of fibre exist : cellulose and lignins comprise the insoluble fraction while pectin, guar gum and hemicellulose form the soluble fraction.",
+      "At the time, the chewing gum industry and timber were the most important sources of state revenue.",
+      "Alveolar abscesses are formed by infection that sets in below the gum line.",
+      "Physiologically, the tongue moves forward from the vowel i to the space between lip and gum that features a lowering of the second formant.",
+      "She asked me to remind you, though, that there is to be no gum chewing while you study these rules.",
+      "My countenance twists cold, a blue gum tree on the coast, blown rough by adversity."
     ],
-    "hash_code_list_definition_mean": "-1633611978"
+    "hash_code_list_example": "-214913327"
   }
 ]

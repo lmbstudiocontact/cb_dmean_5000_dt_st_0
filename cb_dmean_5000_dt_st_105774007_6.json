@@ -24,47 +24,23 @@
         "id_image": "same_4045022"
       }
     ],
-    "hash_code_list_img": "-2114982547",
-    "list_definition_mean": [
-      {
-        "mean_english": "giống như",
-        "definition": "alike; very similar",
-        "ex_of_definition_list": [
-          "The houses in this road are all the same",
-          "You have the same eyes as your brother (has)."
-        ]
-      },
-      {
-        "mean_english": "như nhau",
-        "definition": "not different",
-        "ex_of_definition_list": [
-          "My friend and I are the same age",
-          "He went to the same school as me."
-        ]
-      },
-      {
-        "mean_english": "không thay đổi",
-        "definition": "unchanged",
-        "ex_of_definition_list": [
-          "My opinion is the same as it always was."
-        ]
-      },
-      {
-        "mean_english": "vẫn cái đó",
-        "definition": "(usually with the) the same thing",
-        "ex_of_definition_list": [
-          "He sat down and we all did the same."
-        ]
-      },
-      {
-        "mean_english": "vẫn như thế",
-        "definition": "(usually with the) in the same way",
-        "ex_of_definition_list": [
-          "I don’t feel the same about you as I did."
-        ]
-      }
+    "hash_code_list_img": "1847956214",
+    "list_example": [
+      "You have the same eyes as your brother (has).",
+      "My friend and I are the same age",
+      "He went to the same school as me.",
+      "My opinion is the same as it always was.",
+      "I don’t feel the same about you as I did.",
+      "Much the same can be said about (b).",
+      "Many other animalcula of the same class and of other classes display the same characteristic.",
+      "They remain in the same place for one year.",
+      "But they had - at the same time - to be war y that mathematics was not \"so close\" to applications as to produce unwanted philosophical conflict.",
+      "The cooling paradigm also permitted rapid reversal and repeated demonstration of deficits in the same testing session.",
+      "The argument is the same for (3) and (4).",
+      "The same procedure that led to (17)permits us to integrate this equation.",
+      "This group received the same input as the interactors."
     ],
-    "hash_code_list_definition_mean": "-40909723"
+    "hash_code_list_example": "1753228758"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sample_cb_dmean_5000_it.json",
@@ -93,25 +69,11 @@
         "id_image": "sample_5857171"
       }
     ],
-    "hash_code_list_img": "918115202",
-    "list_definition_mean": [
-      {
-        "mean_english": "vật mẫu",
-        "definition": "a part taken from something to show the quality of the whole",
-        "ex_of_definition_list": [
-          "samples of the artist’s work",
-          "(also adjective) a sample tube of ointment."
-        ]
-      },
-      {
-        "mean_english": "lấy mẫu",
-        "definition": "to test a sample of",
-        "ex_of_definition_list": [
-          "He sampled my cake."
-        ]
-      }
+    "hash_code_list_img": "1151862758",
+    "list_example": [
+      "(also adjective) a sample tube of ointment."
     ],
-    "hash_code_list_definition_mean": "192360357"
+    "hash_code_list_example": "-1698027302"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sanctuary_cb_dmean_5000_it.json",
@@ -136,31 +98,11 @@
         "id_image": "sanctuary_4470253"
       }
     ],
-    "hash_code_list_img": "689216073",
-    "list_definition_mean": [
-      {
-        "mean_english": "nơi linh thiêng",
-        "definition": "a holy or sacred place",
-        "ex_of_definition_list": [
-          "the sanctuary of the god Apollo."
-        ]
-      },
-      {
-        "mean_english": "nơi trú ẩn",
-        "definition": "a place of safety from eg arrest",
-        "ex_of_definition_list": [
-          "In earlier times a criminal could use a church as a sanctuary."
-        ]
-      },
-      {
-        "mean_english": "khu bảo tồn động vật hoang dã",
-        "definition": "an area of land in which the killing of wild animals etc is forbidden",
-        "ex_of_definition_list": [
-          "a bird sanctuary."
-        ]
-      }
+    "hash_code_list_img": "-761523505",
+    "list_example": [
+      "the sanctuary of the god Apollo."
     ],
-    "hash_code_list_definition_mean": "-1264066166"
+    "hash_code_list_example": "1516390765"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sandal_cb_dmean_5000_it.json",
@@ -183,17 +125,11 @@
         "id_image": "sandal_3048070"
       }
     ],
-    "hash_code_list_img": "-174650873",
-    "list_definition_mean": [
-      {
-        "mean_english": "dép, dép xăng đan",
-        "definition": "a type of light shoe, the sole of which is held on to the foot by straps",
-        "ex_of_definition_list": [
-          "a pair of sandals."
-        ]
-      }
+    "hash_code_list_img": "1167159811",
+    "list_example": [
+      "A high-topped military sandal is displayed prominently beneath the folds of her skirt."
     ],
-    "hash_code_list_definition_mean": "777906753"
+    "hash_code_list_example": "630568706"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sandpaper_cb_dmean_5000_it.json",
@@ -222,17 +158,14 @@
         "id_image": "sandpaper_6151970"
       }
     ],
-    "hash_code_list_img": "-1391788765",
-    "list_definition_mean": [
-      {
-        "mean_english": "giấy ráp, giấy nhám",
-        "definition": "a type of paper with sand glued to it, used for smoothing and polishing",
-        "ex_of_definition_list": [
-          "a sheet of sandpaper."
-        ]
-      }
+    "hash_code_list_img": "1028148854",
+    "list_example": [
+      "The surfaces of each metal were ground and polished with sandpaper (300-4000) and alumina powder (0.3 m).",
+      "A 50 mm wide swept sandpaper trip located immediately after the slot was used to promote transition and thicken the boundary layer.",
+      "One of them is putting a little sandpaper over something which is rather dubious.",
+      "For limited aspects of the study, the boundary layer was tripped with sandpaper rings, 0.4 cm wide and 0.08 cm thick."
     ],
-    "hash_code_list_definition_mean": "1621877823"
+    "hash_code_list_example": "-1128932727"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sandstorm_cb_dmean_5000_it.json",
@@ -260,17 +193,16 @@
         "id_image": "sandstorm_6183331"
       }
     ],
-    "hash_code_list_img": "1786219997",
-    "list_definition_mean": [
-      {
-        "mean_english": "bão cát",
-        "definition": "a storm of wind, carrying with it clouds of sand",
-        "ex_of_definition_list": [
-          "We were caught in a sandstorm in the desert."
-        ]
-      }
+    "hash_code_list_img": "-1536737598",
+    "list_example": [
+      "We were caught in a sandstorm in the desert.",
+      "The battle then solidified into a stalemate which lasted until dusk, when a sandstorm obscured the battlefield.",
+      "The battle solidified into a stalemate until dusk, when a sandstorm obscured the battlefield.",
+      "There was a sandstorm and light rain.",
+      "Later in the day, winds increased to gale force and a sandstorm reduced visibility to 400 m.",
+      "Reporters on the ground blamed a sandstorm and low visibility from the air for the lack of air-strikes the previous day."
     ],
-    "hash_code_list_definition_mean": "268932457"
+    "hash_code_list_example": "-1228625524"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sandwich_cb_dmean_5000_it.json",
@@ -299,24 +231,12 @@
         "id_image": "sandwich_786969"
       }
     ],
-    "hash_code_list_img": "-1895724505",
-    "list_definition_mean": [
-      {
-        "mean_english": "bánh xăng đuých",
-        "definition": "slices of bread etc with food between",
-        "ex_of_definition_list": [
-          "cheese sandwiches."
-        ]
-      },
-      {
-        "mean_english": "để vào giữa, kẹp vào giữa",
-        "definition": "to place or press between two objects etc",
-        "ex_of_definition_list": [
-          "His car was sandwiched between two lorries."
-        ]
-      }
+    "hash_code_list_img": "-1067853704",
+    "list_example": [
+      "It says that each tank would be covered with tiles made of strong plastic under which sandwich of different materials would be installed.",
+      "Formation of the sandwich must represent a late developmental event occurring subsequent to separation of the right and left atrioventricular junctions."
     ],
-    "hash_code_list_definition_mean": "871846626"
+    "hash_code_list_example": "-1843427913"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sand_cb_dmean_5000_it.json",
@@ -346,31 +266,13 @@
         "id_image": "sand_4582838"
       }
     ],
-    "hash_code_list_img": "-407623987",
-    "list_definition_mean": [
-      {
-        "mean_english": "cát",
-        "definition": "a large amount of tiny particles of crushed rocks, shells etc, found on beaches etc",
-        "ex_of_definition_list": [
-          "the golden sand."
-        ]
-      },
-      {
-        "mean_english": "bãi cát, lớp cát",
-        "definition": "an area of sand, especially on a beach",
-        "ex_of_definition_list": [
-          "We lay on the sand."
-        ]
-      },
-      {
-        "mean_english": "rải cát, phủ cát",
-        "definition": "to smooth with eg sand-paper",
-        "ex_of_definition_list": [
-          "The floor should be sanded before you varnish it."
-        ]
-      }
+    "hash_code_list_img": "689172013",
+    "list_example": [
+      "the golden sand.",
+      "We lay on the sand.",
+      "The floor should be sanded before you varnish it."
     ],
-    "hash_code_list_definition_mean": "-265659805"
+    "hash_code_list_example": "-1930617573"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sanitary_cb_dmean_5000_it.json",
@@ -394,17 +296,18 @@
         "id_image": "sanitary_4698505"
       }
     ],
-    "hash_code_list_img": "2035789736",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc vệ sinh",
-        "definition": "free from dirt and germs",
-        "ex_of_definition_list": [
-          "The conditions in that camp are not sanitary."
-        ]
-      }
+    "hash_code_list_img": "-176321194",
+    "list_example": [
+      "Almost any reformer could find a reason for being a sanitary reformer too.",
+      "On the whole, financial and administrative factors constrained the development of sanitary and public health services on estates.",
+      "In the circumstances, composing a sanitary profile of national scale appears an enormous undertaking.",
+      "In practice, moreover, sanitary improvements contributed to the upheaval of the city's topography and its reconstruction on a grander scale.",
+      "Even the municipal authorities believed that health officials were too severe in the implementation of sanitary laws and that such severity was not justified.",
+      "One of the first things people mention about a city they have just visited is their impression of its sanitary conditions.",
+      "In that process sanitary arguments served at best to support a case made primarily for economic reasons.",
+      "However, sanitary reforms occupied a relatively low place in the agenda of the colonial state during the late nineteenth century."
     ],
-    "hash_code_list_definition_mean": "1084449029"
+    "hash_code_list_example": "1914065995"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sapphire_cb_dmean_5000_it.json",
@@ -427,18 +330,12 @@
         "id_image": "sapphire_4681328"
       }
     ],
-    "hash_code_list_img": "-1677031174",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngọc bích",
-        "definition": "a kind of dark-blue precious stone",
-        "ex_of_definition_list": [
-          "a gold brooch set with a sapphire",
-          "(also adjective) a sapphire ring."
-        ]
-      }
+    "hash_code_list_img": "-2096691501",
+    "list_example": [
+      "(also adjective) a sapphire ring.",
+      "Cooling water circulates above the sapphire top plate."
     ],
-    "hash_code_list_definition_mean": "86595480"
+    "hash_code_list_example": "1445205473"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sarcastic_cb_dmean_5000_it.json",
@@ -456,17 +353,16 @@
         "id_image": "sarcastic_4138808"
       }
     ],
-    "hash_code_list_img": "2054592787",
-    "list_definition_mean": [
-      {
-        "mean_english": "chế nhạo",
-        "definition": "containing, or using, sarcasm",
-        "ex_of_definition_list": [
-          "a sarcastic person."
-        ]
-      }
+    "hash_code_list_img": "924413298",
+    "list_example": [
+      "a sarcastic person.",
+      "The foreman was quite sarcastic about the defects on this type of car.",
+      "Even seemingly highminded action must be probed by this sarcastic mistrust, until true motives are revealed.",
+      "That is why colonial society is such an appropriate field for sarcastic demystification.",
+      "An all too common feature of his discussion is a use of nearly malicious language for the description of particularly terrible facts, which is presumably intended to be sarcastic detachment.",
+      "For example, a speaker may expect an addressee to appreciate that she is being sarcastic even when the addressee cannot reasonably know that this is what the speaker intended."
     ],
-    "hash_code_list_definition_mean": "900432838"
+    "hash_code_list_example": "1134307600"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sardine_cb_dmean_5000_it.json",
@@ -489,17 +385,18 @@
         "id_image": "sardine_815958"
       }
     ],
-    "hash_code_list_img": "-2127235739",
-    "list_definition_mean": [
-      {
-        "mean_english": "cá mòi",
-        "definition": "a young pilchard, often packed in oil in small tins",
-        "ex_of_definition_list": [
-          "a tin of sardines in oil."
-        ]
-      }
+    "hash_code_list_img": "882978313",
+    "list_example": [
+      "a tin of sardines in oil.",
+      "The fact is that the sardines will have no say in the management of drainage matters, which are of considerable importance to them.",
+      "Would it not be practicable to put on the market some tins of sardines with keys and others without keys at a reduced price?",
+      "We are now treated as one of the herd; we are strapped into our seats, with three seats on each side, like sardines in a tin.",
+      "By reference to a handy encyclopaedia one will find that if sardines are left in a tin long enough they reach the stage of becoming a noxious thing.",
+      "After all, we do take their sardines, and quite a lot of wine as well.",
+      "Already it is possible to compress a programme which runs for over two hours into a cassette not much bigger than a paperback book or a tin of sardines.",
+      "A substantial quantity of sardines was recently released and will be in the shops during the present rationing period."
     ],
-    "hash_code_list_definition_mean": "290502978"
+    "hash_code_list_example": "-994629157"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sash_cb_dmean_5000_it.json",
@@ -523,24 +420,11 @@
         "id_image": "sash_5093545"
       }
     ],
-    "hash_code_list_img": "45410370",
-    "list_definition_mean": [
-      {
-        "mean_english": "khăn quàng vai, khăn thắt lưng",
-        "definition": "a broad band of cloth worn round the waist, or over one shoulder",
-        "ex_of_definition_list": [
-          "a white dress with a red sash at the waist."
-        ]
-      },
-      {
-        "mean_english": "khung kính trượt",
-        "definition": "a frame fitted with glass, forming part of a window",
-        "ex_of_definition_list": [
-          "the lower sash."
-        ]
-      }
+    "hash_code_list_img": "836229796",
+    "list_example": [
+      "a white dress with a red sash at the waist."
     ],
-    "hash_code_list_definition_mean": "1616372907"
+    "hash_code_list_example": "-566998475"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/satellite_cb_dmean_5000_it.json",
@@ -569,24 +453,11 @@
         "id_image": "satellite_501951"
       }
     ],
-    "hash_code_list_img": "-79174049",
-    "list_definition_mean": [
-      {
-        "mean_english": "vệ tinh",
-        "definition": "a smaller body that revolves around a planet",
-        "ex_of_definition_list": [
-          "The Moon is a satellite of the Earth."
-        ]
-      },
-      {
-        "mean_english": "vệ tinh nhân tạo",
-        "definition": "a man-made object fired into space to travel round usually the Earth",
-        "ex_of_definition_list": [
-          "a weather satellite."
-        ]
-      }
+    "hash_code_list_img": "-1325705281",
+    "list_example": [
+      "The Moon is a satellite of the Earth."
     ],
-    "hash_code_list_definition_mean": "-628093880"
+    "hash_code_list_example": "-776212975"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/satire_cb_dmean_5000_it.json",
@@ -604,17 +475,16 @@
         "id_image": "satire_2178167"
       }
     ],
-    "hash_code_list_img": "1390601285",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự châm biếm",
-        "definition": "(a piece of) writing etc that makes someone look foolish",
-        "ex_of_definition_list": [
-          "a satire on university life."
-        ]
-      }
+    "hash_code_list_img": "1412165354",
+    "list_example": [
+      "a satire on university life.",
+      "From slapstick to satire to biting tragedy, the frenetic pace of this scene was driven by the powerful image of walking.",
+      "To representations that \"freeze\" life in a snapshot of eternal youth, grotesque satire responds with an image of life and death intertwined.",
+      "Ignoring the peculiar vowels here, we discover another problem with the rhyming consonants in satire and nature.",
+      "It was also carried out through such media as satire and theatrical performance, in both of which endeavors we can find pandits once again active.",
+      "These changes have the same effect - downplaying satire and emphasising the romantic quest - and perhaps even the same cause."
     ],
-    "hash_code_list_definition_mean": "212015862"
+    "hash_code_list_example": "1097056615"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/satisfaction_cb_dmean_5000_it.json",
@@ -648,24 +518,16 @@
         "id_image": "satisfaction_6064881"
       }
     ],
-    "hash_code_list_img": "-539421731",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự thỏa mãn",
-        "definition": "the act of satisfying or state of being satisfied",
-        "ex_of_definition_list": [
-          "the satisfaction of desires."
-        ]
-      },
-      {
-        "mean_english": "đem lại sự hài lòng",
-        "definition": "pleasure or contentment",
-        "ex_of_definition_list": [
-          "Your success gives me great satisfaction."
-        ]
-      }
+    "hash_code_list_img": "-1846700877",
+    "list_example": [
+      "the satisfaction of desires.",
+      "The reader should always add satisfaction with to all zero and first-order variables in order to get a more appropriate label.",
+      "There was a moderate reduction in the difference when postbereavement health variables and satisfaction were entered into the model.",
+      "Hundreds of articles focused on patient quality of life, health status, or satisfaction with care.",
+      "Factors related to patients' satisfaction with their medical care.",
+      "Confinement satisfaction is defined to mean that every the expression being evaluated must be visible from the enclosing method's class."
     ],
-    "hash_code_list_definition_mean": "270017579"
+    "hash_code_list_example": "-1899441107"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/satisfy_cb_dmean_5000_it.json",
@@ -684,25 +546,12 @@
         "id_image": "satisfy_4795838"
       }
     ],
-    "hash_code_list_img": "180804129",
-    "list_definition_mean": [
-      {
-        "mean_english": "làm hài lòng",
-        "definition": "to give (a person) enough of what is wanted or needed to take away hunger, curiosity etc",
-        "ex_of_definition_list": [
-          "The apple didn’t satisfy my hunger",
-          "I told him enough to satisfy his curiosity."
-        ]
-      },
-      {
-        "mean_english": "đáp ứng, thỏa mãn",
-        "definition": "to please",
-        "ex_of_definition_list": [
-          "She is very difficult to satisfy."
-        ]
-      }
+    "hash_code_list_img": "707476254",
+    "list_example": [
+      "The apple didn’t satisfy my hunger",
+      "I told him enough to satisfy his curiosity."
     ],
-    "hash_code_list_definition_mean": "-2048505552"
+    "hash_code_list_example": "901863855"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/saucer_cb_dmean_5000_it.json",
@@ -720,17 +569,13 @@
         "id_image": "saucer_455315"
       }
     ],
-    "hash_code_list_img": "1376793285",
-    "list_definition_mean": [
-      {
-        "mean_english": "đĩa nhỏ, nông để đựng chén",
-        "definition": "a small shallow dish for placing under a cup",
-        "ex_of_definition_list": [
-          "Could you bring me another cup and saucer?"
-        ]
-      }
+    "hash_code_list_img": "1271481658",
+    "list_example": [
+      "During its continuance, we threw towards heaven small portions of the rice from the saucer at frequent intervals, and at the commencement of every fresh paragraph of the supplicatory address.",
+      "My wife tells me that to uncurl a curled hedgehog it is necessary to offer it a saucer of hot milk.",
+      "It did, however, label the tips of the saucer petals."
     ],
-    "hash_code_list_definition_mean": "1988987460"
+    "hash_code_list_example": "2046821133"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sauce_cb_dmean_5000_it.json",
@@ -753,18 +598,16 @@
         "id_image": "sauce_3255731"
       }
     ],
-    "hash_code_list_img": "-1700324740",
-    "list_definition_mean": [
-      {
-        "mean_english": "nước chấm, nước xốt",
-        "definition": "a usually thick liquid that is poured over other food in order to add moisture and flavour",
-        "ex_of_definition_list": [
-          "tomato sauce",
-          "an expert at making sauces."
-        ]
-      }
+    "hash_code_list_img": "-1755892308",
+    "list_example": [
+      "What, however, is sauce for the goose is also sauce for the gander.",
+      "What is sauce for the goose is sauce for expression refers to a ship or boat sailing the gander.",
+      "I ate the sushi plain, without soy sauce or wasabi (horseradish).",
+      "What is sauce for the goose surely is sauce for the gander.",
+      "What is sauce for the goose is sauce for the gander!",
+      "Saying 'blood' around the red sauce that is made from pandanus cobs, for example, would cause people eating this foodstuff to vomit."
     ],
-    "hash_code_list_definition_mean": "413788410"
+    "hash_code_list_example": "-30596431"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sauna_cb_dmean_5000_it.json",
@@ -787,18 +630,17 @@
         "id_image": "sauna_5569528"
       }
     ],
-    "hash_code_list_img": "308669837",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự tắm hơi",
-        "definition": "(a building or room equipped for) a Finnish form of steam bath",
-        "ex_of_definition_list": [
-          "They have a sauna in their house",
-          "They had a refreshing sauna."
-        ]
-      }
+    "hash_code_list_img": "-1804141940",
+    "list_example": [
+      "They have a sauna in their house",
+      "It depends on the use of the room (a sauna or a sleeping room).",
+      "We are also spending £100,000 on launderettes, bowling alleys, sauna baths and squash courts, some of which have already been completed.",
+      "Visiting the whirlpool area, taking a shower or using the whirlpool or the sauna were the activities most associated with a high risk for infection.",
+      "My constituent claims that the cost to users of the sauna baths has risen by one-third—from 60p to 80p.",
+      "The sauna programme is carried out under the general supervision of a medical doctor, who examines all participants before they start.",
+      "First, it is too luxurious and has too many sauna baths and squash courts."
     ],
-    "hash_code_list_definition_mean": "1830014348"
+    "hash_code_list_example": "677541212"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sausage_cb_dmean_5000_it.json",
@@ -826,18 +668,15 @@
         "id_image": "sausage_877693"
       }
     ],
-    "hash_code_list_img": "1959005161",
-    "list_definition_mean": [
-      {
-        "mean_english": "xúch xích",
-        "definition": "(a section of) minced meat seasoned and pushed into a tube of animal gut or a similar material",
-        "ex_of_definition_list": [
-          "We had sausages for breakfast",
-          "garlic sausage."
-        ]
-      }
+    "hash_code_list_img": "-1002581391",
+    "list_example": [
+      "Where they are only getting a bit of sausage and a bit of sandwich they are getting sick of it.",
+      "I had a particularly bad sausage this evening.",
+      "My noble kinsman has a weight problem and must not eat the cheaper foods such as pastas and sausage rolls.",
+      "If the traders continue to offer it as sausage meat it can be freely sold off the ration.",
+      "The resulting pinch was remarkably stable against sausage instabilities with a 100 : 1 (axial : radial) aspect ratio, and was significantly more uniform than an exploding-wire or jetonly pinch."
     ],
-    "hash_code_list_definition_mean": "320130272"
+    "hash_code_list_example": "1182656067"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/save_cb_dmean_5000_it.json",
@@ -872,49 +711,14 @@
         "id_image": "save_364146"
       }
     ],
-    "hash_code_list_img": "-480366383",
-    "list_definition_mean": [
-      {
-        "mean_english": "cứu nguy",
-        "definition": "to rescue or bring out of danger",
-        "ex_of_definition_list": [
-          "He saved his friend from drowning",
-          "The house was burnt but he saved the pictures."
-        ]
-      },
-      {
-        "mean_english": "để dành, tiết kiệm",
-        "definition": "to keep (money etc) for future use",
-        "ex_of_definition_list": [
-          "He’s saving (his money) to buy a bicycle",
-          "They’re saving for a house."
-        ]
-      },
-      {
-        "mean_english": "tránh, bớt",
-        "definition": "to prevent the using or wasting of (money, time, energy etc)",
-        "ex_of_definition_list": [
-          "Frozen foods save a lot of trouble",
-          "I’ll telephone and that will save me writing a letter."
-        ]
-      },
-      {
-        "mean_english": "ngăn cản đối phương",
-        "definition": "in football etc, to prevent the opposing team from scoring a goal",
-        "ex_of_definition_list": [
-          "The goalkeeper saved six goals."
-        ]
-      },
-      {
-        "mean_english": "trừ ra , ngoài ra",
-        "definition": "except",
-        "ex_of_definition_list": [
-          "All save him had gone",
-          "We have no news save that the ship reached port safely."
-        ]
-      }
+    "hash_code_list_img": "-588240508",
+    "list_example": [
+      "Frozen foods save a lot of trouble",
+      "I’ll telephone and that will save me writing a letter.",
+      "All save him had gone",
+      "We have no news save that the ship reached port safely."
     ],
-    "hash_code_list_definition_mean": "1873254110"
+    "hash_code_list_example": "875875333"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/saw_cb_dmean_5000_it.json",
@@ -943,17 +747,19 @@
         "id_image": "saw_972744"
       }
     ],
-    "hash_code_list_img": "-1525128278",
-    "list_definition_mean": [
-      {
-        "mean_english": "cưa, xẻ",
-        "definition": "to cut with a saw",
-        "ex_of_definition_list": [
-          "He sawed the log in two."
-        ]
-      }
+    "hash_code_list_img": "400609388",
+    "list_example": [
+      "He used a saw to cut through the branch.",
+      "He saw it simply as the basis for better care.",
+      "They enjoyed drinking, saw its positive benefits, particularly that it was relaxing, and valued their social lives, which drinking was a part of.",
+      "In another condition, subjects saw the figure in the two orientations - and the results were virtually identical to what was found in imagery.",
+      "The following years, moreover, arguably saw the law shed its associations with the gentry and aristocracy that had been characteristic of earlier decades.",
+      "Both g roups saw advantages and limitations in each system.",
+      "Both sought to expose the reality, as they saw it, of their opponent's politics.",
+      "Regulators saw the agencies' analysis as a straightforward, putatively objective framework for the regulation of financial institutions' exposure to credit risk.",
+      "In this representation, the internal order of the self we saw above is disrupted as the self literally gravitates through attraction toward another."
     ],
-    "hash_code_list_definition_mean": "903028283"
+    "hash_code_list_example": "1194649689"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/saxophone_cb_dmean_5000_it.json",
@@ -971,17 +777,16 @@
         "id_image": "saxophone_1011072"
       }
     ],
-    "hash_code_list_img": "1548852675",
-    "list_definition_mean": [
-      {
-        "mean_english": "kèn xắc-xô",
-        "definition": "a type of musical instrument with a curved metal tube, played by blowing",
-        "ex_of_definition_list": [
-          "a tenor saxophone."
-        ]
-      }
+    "hash_code_list_img": "462869606",
+    "list_example": [
+      "But this minor third changes pitches - it is very transparent music - so that motive of the saxophone was very important for me.",
+      "For all practical purposes, a saxophone key is either open or closed.",
+      "Additionally, certain keys continuously control modulation of the saxophone audio signal.",
+      "Figure 7 shows the electric saxophone with all three microphones inside the bell.",
+      "A new group of compositions, entitled (2001/2002), explore the saxophone as an electric feedback instrument.",
+      "An example is the vocalised saxophone style in which vocal sounds interact directly with vibrations in the saxophone."
     ],
-    "hash_code_list_definition_mean": "137646781"
+    "hash_code_list_example": "-785626804"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/scale_cb_dmean_5000_it.json",
@@ -1015,59 +820,14 @@
         "id_image": "scale_3898095"
       }
     ],
-    "hash_code_list_img": "2000412024",
-    "list_definition_mean": [
-      {
-        "mean_english": "hệ thống chia độ",
-        "definition": "a set of regularly spaced marks made on something (eg a thermometer or a ruler) for use as a measure; a system of numbers, measurement etc",
-        "ex_of_definition_list": [
-          "This thermometer has two scales marked on it, one in Fahrenheit and one in Centigrade."
-        ]
-      },
-      {
-        "mean_english": "mức độ",
-        "definition": "a series or system of items of increasing or decreasing size, value etc",
-        "ex_of_definition_list": [
-          "a wage/salary scale."
-        ]
-      },
-      {
-        "mean_english": "sự sắp xếp theo trình tự",
-        "definition": "in music, a group of notes going up or down in order",
-        "ex_of_definition_list": [
-          "The boy practised his scales on the piano."
-        ]
-      },
-      {
-        "mean_english": "tỉ lệ, số tỉ lệ",
-        "definition": "the size of measurements on a map etc compared with the real size of the country etc shown by it",
-        "ex_of_definition_list": [
-          "In a map drawn to the scale 1:50,000, one centimetre represents half a kilometre."
-        ]
-      },
-      {
-        "mean_english": "phạm vi",
-        "definition": "the size of an activity",
-        "ex_of_definition_list": [
-          "These guns are being manufactured on a large scale."
-        ]
-      },
-      {
-        "mean_english": "leo, trèo",
-        "definition": "to climb (a ladder, cliff etc)",
-        "ex_of_definition_list": [
-          "The prisoner scaled the prison walls and escaped."
-        ]
-      },
-      {
-        "mean_english": "lớp gỉ, vảy da",
-        "definition": "any of the small thin plates or flakes that cover the skin of fishes, reptiles etc",
-        "ex_of_definition_list": [
-          "A herring’s scales are silver in colour."
-        ]
-      }
+    "hash_code_list_img": "-1534724619",
+    "list_example": [
+      "In a map drawn to the scale 1:50,000, one centimetre represents half a kilometre.",
+      "We assume that there are constant returns to scale in agriculture.",
+      "The study area was delimited on aerial photographs (scale 1:50 000).",
+      "Improving the readability of time frequency and time scale representations by the reassignment method."
     ],
-    "hash_code_list_definition_mean": "310058239"
+    "hash_code_list_example": "-1766003152"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/scam_cb_dmean_5000_it.json",
@@ -1095,17 +855,11 @@
         "id_image": "scam_5966499"
       }
     ],
-    "hash_code_list_img": "-1775892491",
-    "list_definition_mean": [
-      {
-        "mean_english": "lừa đảo",
-        "definition": "a clever and dishonest way of getting money",
-        "ex_of_definition_list": [
-          "an insurance/investment scam."
-        ]
-      }
+    "hash_code_list_img": "-1480095454",
+    "list_example": [
+      "an insurance/investment scam."
     ],
-    "hash_code_list_definition_mean": "1673394252"
+    "hash_code_list_example": "-1340676052"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/scanner_cb_dmean_5000_it.json",
@@ -1133,19 +887,13 @@
         "id_image": "scanner_969363"
       }
     ],
-    "hash_code_list_img": "75203257",
-    "list_definition_mean": [
-      {
-        "mean_english": "máy nội soi cắt lớp",
-        "definition": "a machine etc that scans",
-        "ex_of_definition_list": [
-          "Scanners are machines that show the contents of your luggage on a screen",
-          "an ultrasound scanner",
-          "an optical scanner."
-        ]
-      }
+    "hash_code_list_img": "-1932820816",
+    "list_example": [
+      "The scanner resolution was set to 300 dpi.",
+      "These very small oscillatory movements always occur in exposed bubbles or gas bodies, even when the output of a scanner is small.",
+      "Portable ultrasound scanner versus serology in screening for hydatid cysts in a nomadic population."
     ],
-    "hash_code_list_definition_mean": "1998172790"
+    "hash_code_list_example": "-249469806"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/scan_cb_dmean_5000_it.json",
@@ -1184,45 +932,14 @@
         "id_image": "scan_802784"
       }
     ],
-    "hash_code_list_img": "751148874",
-    "list_definition_mean": [
-      {
-        "mean_english": "kiểm tra cẩn thận",
-        "definition": "to examine carefully",
-        "ex_of_definition_list": [
-          "He scanned the horizon for any sign of a ship."
-        ]
-      },
-      {
-        "mean_english": "đọc lướt",
-        "definition": "to look at quickly but not in detail",
-        "ex_of_definition_list": [
-          "She scanned the newspaper for news of the murder."
-        ]
-      },
-      {
-        "mean_english": "quét qua",
-        "definition": "to pass radar beams etc over",
-        "ex_of_definition_list": [
-          "The area was scanned for signs of enemy aircraft."
-        ]
-      },
-      {
-        "mean_english": "chụp cắt lớp (y học)",
-        "definition": "to examine and get an image of what is inside a person’s body or an object by using ultra-sound and x-ray",
-        "ex_of_definition_list": [
-          "They scanned his luggage at the airport to see if he was carrying drugs."
-        ]
-      },
-      {
-        "mean_english": "phân tích vần luật của câu thơ",
-        "definition": "to fit into a particular rhythm or metre/meter",
-        "ex_of_definition_list": [
-          "The second line of that verse doesn’t scan properly."
-        ]
-      }
+    "hash_code_list_img": "-1191613684",
+    "list_example": [
+      "The second line of that verse doesn’t scan properly.",
+      "She had an ultrasound scan to see whether the baby was a boy or a girl",
+      "a quick scan through the report.",
+      "Figure 10(b) shows the principal returns selected from the scan along with the point features extracted by the algorithm."
     ],
-    "hash_code_list_definition_mean": "-1435244334"
+    "hash_code_list_example": "-1281365999"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/scapegoat_cb_dmean_5000_it.json",
@@ -1240,17 +957,13 @@
         "id_image": "scapegoat_2473165"
       }
     ],
-    "hash_code_list_img": "1122059892",
-    "list_definition_mean": [
-      {
-        "mean_english": "anh chàng giơ đầu chịu báng",
-        "definition": "a person who is blamed or punished for the mistakes of others",
-        "ex_of_definition_list": [
-          "The manager of the football/soccer team was made a scapegoat for the team’s failure, and was forced to resign."
-        ]
-      }
+    "hash_code_list_img": "631424251",
+    "list_example": [
+      "The manager of the football/soccer team was made a scapegoat for the team’s failure, and was forced to resign.",
+      "Secondly, others have focused on rearmament, either making the treasury the scapegoat for military unpreparedness, or defending its approach to rearmament given resource constraints.",
+      "It may be that rate sometimes serves as a general scapegoat for perceived comprehension difficulties, whether it is the direct cause or not."
     ],
-    "hash_code_list_definition_mean": "141213148"
+    "hash_code_list_example": "-496564216"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/scarcity_cb_dmean_5000_it.json",
@@ -1268,18 +981,18 @@
         "id_image": "scarcity_6203109"
       }
     ],
-    "hash_code_list_img": "671546999",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự khan hiếm",
-        "definition": "(a) lack or shortage",
-        "ex_of_definition_list": [
-          "a scarcity of work/jobs",
-          "times of scarcity."
-        ]
-      }
+    "hash_code_list_img": "702028865",
+    "list_example": [
+      "a scarcity of work/jobs",
+      "If households will plant, at what level of fuelwood scarcity will they decide that planting trees for fuel is a worthwhile investment?",
+      "Meaningful analysis of female occupation and illiteracy is thus non-viable because of the scarcity of data.",
+      "However, there very likely is a scarcity of specie, which generates inefficiency and discourages production.",
+      "Perhaps most noteworthy was the scarcity of farm labourers among the lieutenants, captains, and commandants who ran the movement in the parishes.",
+      "This is probably an artefact caused by the relative scarcity of saplings and a few larger saplings found close to adult trees.",
+      "Economic growth relies less on abundance or scarcity of natural resources than on the way they are managed.",
+      "This is unlike agriculture where there are physical limits to increased productivity due to the scarcity of land."
     ],
-    "hash_code_list_definition_mean": "135371020"
+    "hash_code_list_example": "-1998704750"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/scare_cb_dmean_5000_it.json",
@@ -1304,32 +1017,11 @@
         "id_image": "scare_260248"
       }
     ],
-    "hash_code_list_img": "-338087897",
-    "list_definition_mean": [
-      {
-        "mean_english": "làm kinh hãi",
-        "definition": "to startle or frighten",
-        "ex_of_definition_list": [
-          "You’ll scare the baby if you shout",
-          "His warning scared her into obeying him."
-        ]
-      },
-      {
-        "mean_english": "sự sợ hãi",
-        "definition": "a feeling of fear or alarm",
-        "ex_of_definition_list": [
-          "The noise gave me a scare."
-        ]
-      },
-      {
-        "mean_english": "sự hốt hoảng",
-        "definition": "a feeling of fear or panic among a large number of people",
-        "ex_of_definition_list": [
-          "a smallpox scare."
-        ]
-      }
+    "hash_code_list_img": "764241481",
+    "list_example": [
+      "You’ll scare the baby if you shout"
     ],
-    "hash_code_list_definition_mean": "1126725236"
+    "hash_code_list_example": "1129536077"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/scarf_cb_dmean_5000_it.json",
@@ -1352,17 +1044,12 @@
         "id_image": "scarf_592145"
       }
     ],
-    "hash_code_list_img": "899593496",
-    "list_definition_mean": [
-      {
-        "mean_english": "khăn quàng cổ",
-        "definition": "a long strip of material to wear round one’s neck",
-        "ex_of_definition_list": [
-          "a football scarf."
-        ]
-      }
+    "hash_code_list_img": "1676086430",
+    "list_example": [
+      "It would be much more appropriate if we issued everybody with a supporter's scarf to denote that they are football supporters.",
+      "The pictures were taken against a gray background while the women wore a gray scarf around their necks to conceal any clothing."
     ],
-    "hash_code_list_definition_mean": "938263697"
+    "hash_code_list_example": "-1855921559"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/scary_cb_dmean_5000_it.json",
@@ -1380,17 +1067,11 @@
         "id_image": "scary_218277"
       }
     ],
-    "hash_code_list_img": "1341485370",
-    "list_definition_mean": [
-      {
-        "mean_english": "rùng rợn",
-        "definition": "frightening",
-        "ex_of_definition_list": [
-          "a scary film/story."
-        ]
-      }
+    "hash_code_list_img": "1978215382",
+    "list_example": [
+      "a scary film/story."
     ],
-    "hash_code_list_definition_mean": "510388751"
+    "hash_code_list_example": "413349084"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/scar_cb_dmean_5000_it.json",
@@ -1409,24 +1090,11 @@
         "id_image": "scar_5154849"
       }
     ],
-    "hash_code_list_img": "914880213",
-    "list_definition_mean": [
-      {
-        "mean_english": "sẹo, vết sẹo",
-        "definition": "the mark that is left by a wound or sore",
-        "ex_of_definition_list": [
-          "a scar on the arm where the dog bit him."
-        ]
-      },
-      {
-        "mean_english": "để lại vết sẹo",
-        "definition": "to mark with a scar",
-        "ex_of_definition_list": [
-          "He recovered from the accident, but his face was badly scarred."
-        ]
-      }
+    "hash_code_list_img": "784121788",
+    "list_example": [
+      "a scar on the arm where the dog bit him."
     ],
-    "hash_code_list_definition_mean": "692217068"
+    "hash_code_list_example": "-1855094348"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/scatter_cb_dmean_5000_it.json",
@@ -1450,25 +1118,13 @@
         "id_image": "scatter_6001160"
       }
     ],
-    "hash_code_list_img": "1939795022",
-    "list_definition_mean": [
-      {
-        "mean_english": "làm cho chạy tán loạn",
-        "definition": "to (make) go or rush in different directions",
-        "ex_of_definition_list": [
-          "The sudden noise scattered the birds",
-          "The crowds scattered when the bomb exploded."
-        ]
-      },
-      {
-        "mean_english": "tung, rải , rắc , gieo",
-        "definition": "to throw loosely in different directions",
-        "ex_of_definition_list": [
-          "The load from the overturned lorry was scattered over the road."
-        ]
-      }
+    "hash_code_list_img": "1245708698",
+    "list_example": [
+      "The sudden noise scattered the birds",
+      "The crowds scattered when the bomb exploded.",
+      "The load from the overturned lorry was scattered over the road."
     ],
-    "hash_code_list_definition_mean": "997174899"
+    "hash_code_list_example": "-923755692"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/scenery_cb_dmean_5000_it.json",
@@ -1492,24 +1148,14 @@
         "id_image": "scenery_4215271"
       }
     ],
-    "hash_code_list_img": "-1575687028",
-    "list_definition_mean": [
-      {
-        "mean_english": "đồ dùng trang trí sân khấu",
-        "definition": "the painted background for a play etc on a stage",
-        "ex_of_definition_list": [
-          "The scenery looked rather shabby."
-        ]
-      },
-      {
-        "mean_english": "phong cảnh",
-        "definition": "the general appearance of a landscape etc",
-        "ex_of_definition_list": [
-          "beautiful scenery."
-        ]
-      }
+    "hash_code_list_img": "245877414",
+    "list_example": [
+      "The scenery looked rather shabby.",
+      "However, for our purposes it will be important to use the original metric, otherwise the notion of the scenery process will lose its meaning.",
+      "Be the play comedy or tragedy, in verse or prose, be the scenery elaborate or minimalist, the stage was unchanged.",
+      "The correct alignment of surtitles and scenery must have taken a great deal of careful adjustment."
     ],
-    "hash_code_list_definition_mean": "-1706547113"
+    "hash_code_list_example": "-1442582257"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/scene_cb_dmean_5000_it.json",
@@ -1548,60 +1194,17 @@
         "id_image": "scene_4133253"
       }
     ],
-    "hash_code_list_img": "-228825857",
-    "list_definition_mean": [
-      {
-        "mean_english": "quang cảnh, hiện trường",
-        "definition": "the place where something real or imaginary happens",
-        "ex_of_definition_list": [
-          "A murderer sometimes revisits the scene of his crime",
-          "The scene of this opera is laid/set in Switzerland."
-        ]
-      },
-      {
-        "mean_english": "cảnh tượng",
-        "definition": "an incident etc which is seen or remembered",
-        "ex_of_definition_list": [
-          "He recalled scenes from his childhood."
-        ]
-      },
-      {
-        "mean_english": "trận cãi lộn",
-        "definition": "a show of anger",
-        "ex_of_definition_list": [
-          "I was very angry but I didn’t want to make a scene."
-        ]
-      },
-      {
-        "mean_english": "quang cảnh",
-        "definition": "a view of a landscape etc",
-        "ex_of_definition_list": [
-          "The sheep grazing on the hillside made a peaceful scene."
-        ]
-      },
-      {
-        "mean_english": "đoạn, hồi, cảnh (của một vở kịch)",
-        "definition": "one part or division of a play etc",
-        "ex_of_definition_list": [
-          "The hero died in the first scene of the third act of the play."
-        ]
-      },
-      {
-        "mean_english": "sự dàn cảnh",
-        "definition": "the setting or background for a play etc",
-        "ex_of_definition_list": [
-          "Scene-changing must be done quickly."
-        ]
-      },
-      {
-        "mean_english": "tình hình",
-        "definition": "a particular area of activity",
-        "ex_of_definition_list": [
-          "the academic/business scene."
-        ]
-      }
+    "hash_code_list_img": "-1864111998",
+    "list_example": [
+      "A murderer sometimes revisits the scene of his crime",
+      "The scene of this opera is laid/set in Switzerland.",
+      "The hero died in the first scene of the third act of the play.",
+      "This scene falls into a kind of modified double-aria form, in which the dramatically kinetic sections are greatly expanded.",
+      "The video then returned to the scene depicting the remaining three located objects and the puppet then removed and relocated one of these objects.",
+      "A separate control experiment was undertaken in which the position of the test surface in the scene was changed.",
+      "Before really tackling the issues of longrange planning strategies, in chapter 7, the author sets the scene in the first five chapters."
     ],
-    "hash_code_list_definition_mean": "-222633813"
+    "hash_code_list_example": "-169071189"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/scent_cb_dmean_5000_it.json",
@@ -1639,52 +1242,12 @@
         "id_image": "scent_655886"
       }
     ],
-    "hash_code_list_img": "-498967119",
-    "list_definition_mean": [
-      {
-        "mean_english": "đánh hơi, phát hiện, ngửi",
-        "definition": "to discover by the sense of smell",
-        "ex_of_definition_list": [
-          "The dog scented a cat."
-        ]
-      },
-      {
-        "mean_english": "nghi ngờ",
-        "definition": "to suspect",
-        "ex_of_definition_list": [
-          "As soon as he came into the room I scented trouble."
-        ]
-      },
-      {
-        "mean_english": "toả mùi thơm",
-        "definition": "to cause to smell pleasantly",
-        "ex_of_definition_list": [
-          "The roses scented the air."
-        ]
-      },
-      {
-        "mean_english": "mùi thơm",
-        "definition": "a (usually pleasant) smell",
-        "ex_of_definition_list": [
-          "This rose has a delightful scent."
-        ]
-      },
-      {
-        "mean_english": "sự đánh hơi",
-        "definition": "a trail consisting of the smell which has been left and may be followed",
-        "ex_of_definition_list": [
-          "The dogs picked up the man’s scent and then lost it again."
-        ]
-      },
-      {
-        "mean_english": "nước hoa",
-        "definition": "a liquid with a pleasant smell; perfume",
-        "ex_of_definition_list": [
-          "a bottle of scent."
-        ]
-      }
+    "hash_code_list_img": "-1800966623",
+    "list_example": [
+      "The dogs picked up the man’s scent and then lost it again.",
+      "The latter property requires that some residue or scent of the target must be observable by the user at every node."
     ],
-    "hash_code_list_definition_mean": "43698834"
+    "hash_code_list_example": "885041554"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sceptic_cb_dmean_5000_it.json",
@@ -1707,17 +1270,12 @@
         "id_image": "sceptic_1747662"
       }
     ],
-    "hash_code_list_img": "989160959",
-    "list_definition_mean": [
-      {
-        "mean_english": "người đa nghi",
-        "definition": "a person who is unwilling to believe",
-        "ex_of_definition_list": [
-          "Most people now accept this theory, but there are a few sceptics/skeptics."
-        ]
-      }
+    "hash_code_list_img": "-360564728",
+    "list_example": [
+      "Year 6 is the time for the sceptic who says the scare is exaggerated.",
+      "The sceptic might already be alert, if not alarmed."
     ],
-    "hash_code_list_definition_mean": "533398039"
+    "hash_code_list_example": "-252516789"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/schedule_cb_dmean_5000_it.json",
@@ -1746,24 +1304,15 @@
         "id_image": "schedule_735204"
       }
     ],
-    "hash_code_list_img": "-1992425903",
-    "list_definition_mean": [
-      {
-        "mean_english": "kế hoạch",
-        "definition": "a statement of details, especially of timing of activities, or of things to be done",
-        "ex_of_definition_list": [
-          "a work schedule for next month."
-        ]
-      },
-      {
-        "mean_english": "lên kế hoạch",
-        "definition": "to plan the time of (an event etc)",
-        "ex_of_definition_list": [
-          "The meeting is scheduled for 9.00 a.m."
-        ]
-      }
+    "hash_code_list_img": "-492587388",
+    "list_example": [
+      "a work schedule for next month.",
+      "She had returned to her active schedule with friends, and volunteering.",
+      "The surgical team wants to schedule the patient for open-heart surgery.",
+      "In later years this schedule could be reduced.",
+      "For the efficacy of the method, the authors stress the importance of strict adherence to the dosing schedule and destruction of non-dosed stray dogs."
     ],
-    "hash_code_list_definition_mean": "1918772756"
+    "hash_code_list_example": "354998607"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/scheme_cb_dmean_5000_it.json",
@@ -1793,33 +1342,11 @@
         "id_image": "scheme_603856"
       }
     ],
-    "hash_code_list_img": "488562960",
-    "list_definition_mean": [
-      {
-        "mean_english": "kế hoạch",
-        "definition": "a plan or arrangement; a way of doing something",
-        "ex_of_definition_list": [
-          "a colour scheme for the room",
-          "There are various schemes for improving the roads."
-        ]
-      },
-      {
-        "mean_english": "âm mưu",
-        "definition": "a (usually secret) dishonest plan",
-        "ex_of_definition_list": [
-          "His schemes to steal the money were discovered."
-        ]
-      },
-      {
-        "mean_english": "có âm mưu",
-        "definition": "to make (especially dishonest) schemes",
-        "ex_of_definition_list": [
-          "He was punished for scheming against the President",
-          "They have all been scheming for my dismissal."
-        ]
-      }
+    "hash_code_list_img": "-1322720645",
+    "list_example": [
+      "a colour scheme for the room"
     ],
-    "hash_code_list_definition_mean": "1425662410"
+    "hash_code_list_example": "-2099695066"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/schizophrenia_cb_dmean_5000_it.json",
@@ -1847,17 +1374,11 @@
         "id_image": "schizophrenia_5705111"
       }
     ],
-    "hash_code_list_img": "-1869398053",
-    "list_definition_mean": [
-      {
-        "mean_english": "bệnh tâm thần phân liệt",
-        "definition": "a form of insanity in which the patient becomes severely withdrawn from reality, has delusions etc",
-        "ex_of_definition_list": [
-          "He has been diagnosed with schizophrenia."
-        ]
-      }
+    "hash_code_list_img": "-19493721",
+    "list_example": [
+      "He has been diagnosed with schizophrenia."
     ],
-    "hash_code_list_definition_mean": "790438819"
+    "hash_code_list_example": "-1542378355"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/scholarship_cb_dmean_5000_it.json",
@@ -1886,24 +1407,20 @@
         "id_image": "scholarship_4590205"
       }
     ],
-    "hash_code_list_img": "-45671685",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự học rộng",
-        "definition": "knowledge and learning",
-        "ex_of_definition_list": [
-          "a man of great scholarship."
-        ]
-      },
-      {
-        "mean_english": "học bổng",
-        "definition": "money awarded to a good student to enable him to go on with further studies",
-        "ex_of_definition_list": [
-          "She was awarded a travel scholarship."
-        ]
-      }
+    "hash_code_list_img": "1037111134",
+    "list_example": [
+      "a man of great scholarship.",
+      "She was awarded a travel scholarship.",
+      "The objectives of this scholarship's authenticity are surprisingly similar to those of new music.",
+      "Students then largely paid their fees themselves, often with two or three scholarships.",
+      "The release refers to the scholarships being made by reason of the parent's employment.",
+      "Another randomly selected subsample was asked whether 'awarding college scholarships on the basis of race' made them angry or upset.",
+      "Further, grants for scholarships are given only to those who enter by that door.",
+      "Thousands of secondary and university students receive scholarships from oil companies each year.",
+      "I expect the first scholarships to be awarded for the academic year 1978–79.",
+      "There will be offsetting savings on the scholarships formerly paid by the education and library boards."
     ],
-    "hash_code_list_definition_mean": "156255946"
+    "hash_code_list_example": "-1381711154"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/schoolboy_cb_dmean_5000_it.json",
@@ -1921,17 +1438,18 @@
         "id_image": "schoolboy_3108104"
       }
     ],
-    "hash_code_list_img": "1279509404",
-    "list_definition_mean": [
-      {
-        "mean_english": "hoc sinh",
-        "definition": "a boy or girl who goes to school",
-        "ex_of_definition_list": [
-          "a naughty schoolboy."
-        ]
-      }
+    "hash_code_list_img": "159957317",
+    "list_example": [
+      "a naughty schoolboy.",
+      "Schoolmasters who are harsh with schoolboys, who later as a result burn down the school house, ought to be more human.",
+      "I object to the idea of seamen being treated like schoolboys.",
+      "Still further to improve it, we let schoolboys put on a miniature policeman's uniform and stand beside the traffic policeman to direct the traffic.",
+      "The schoolboys were not particularly concerned about his beastliness.",
+      "I won this book 50 years ago in a schoolboy's competition.",
+      "Could we not perhaps have some girls employed on this sort of thing, or even teenage schoolboys?",
+      "How are we to try to persuade schoolboys to make the proper choice?"
     ],
-    "hash_code_list_definition_mean": "2057588673"
+    "hash_code_list_example": "-463385528"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/school_cb_dmean_5000_it.json",
@@ -1966,62 +1484,17 @@
         "id_image": "school_2532684"
       }
     ],
-    "hash_code_list_img": "1045171734",
-    "list_definition_mean": [
-      {
-        "mean_english": "trường học",
-        "definition": "a place for teaching especially children",
-        "ex_of_definition_list": [
-          "She goes to the school",
-          "He’s not at university – he’s still at school",
-          "American He’s still in school."
-        ]
-      },
-      {
-        "mean_english": "học sinh của một trường",
-        "definition": "the pupils of a school",
-        "ex_of_definition_list": [
-          "The behaviour of this school in public is sometimes not very good."
-        ]
-      },
-      {
-        "mean_english": "trường dạy nghề",
-        "definition": "a series of meetings or a place for instruction etc",
-        "ex_of_definition_list": [
-          "She runs a sewing school",
-          "a driving school."
-        ]
-      },
-      {
-        "mean_english": "khoa (trong một trường đại học)",
-        "definition": "a department of a university or college dealing with a particular subject",
-        "ex_of_definition_list": [
-          "the School of Mathematics."
-        ]
-      },
-      {
-        "mean_english": "trường phái",
-        "definition": "a group of people with the same ideas etc",
-        "ex_of_definition_list": [
-          "There are two schools of thought about the treatment of this disease."
-        ]
-      },
-      {
-        "mean_english": "rèn luyện, đào tạo",
-        "definition": "to train through practice",
-        "ex_of_definition_list": [
-          "We must school ourselves to be patient."
-        ]
-      },
-      {
-        "mean_english": "đàn cá",
-        "definition": "a group of certain kinds of fish, whales or other water animals swimming about",
-        "ex_of_definition_list": [
-          "a school of porpoises."
-        ]
-      }
+    "hash_code_list_img": "-1939440744",
+    "list_example": [
+      "The behaviour of this school in public is sometimes not very good.",
+      "We must school ourselves to be patient.",
+      "a school of porpoises.",
+      "Individual school results have been returned to the teachers concerned for their own use.",
+      "One problem is certainly motivation: the language is taught at school in a way that does not encourage active use or involvement.",
+      "A group of 29 control children, selected from the same school population as the dyslexics, took part in the experiment.",
+      "In the school situation, pupils were interested in the learning experiences of other groups and wanted to do the same musical activities."
     ],
-    "hash_code_list_definition_mean": "2116439920"
+    "hash_code_list_example": "-2070818157"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/science_cb_dmean_5000_it.json",
@@ -2051,24 +1524,15 @@
         "id_image": "science_913926"
       }
     ],
-    "hash_code_list_img": "-1801430067",
-    "list_definition_mean": [
-      {
-        "mean_english": "khoa học tự nhiên",
-        "definition": "a branch of such knowledge eg biology, chemistry, physics etc",
-        "ex_of_definition_list": [
-          "the physical sciences."
-        ]
-      },
-      {
-        "mean_english": "ngành khoa học",
-        "definition": "these sciences considered as a whole",
-        "ex_of_definition_list": [
-          "My daughter prefers science to languages."
-        ]
-      }
+    "hash_code_list_img": "105307685",
+    "list_example": [
+      "My daughter prefers science to languages.",
+      "It is this challenge that puts on the table new theoretical issues for social science and public policy.",
+      "Put simply, neuroscience and developmental science have shown that early life is a time of truly remarkable growth in terms of both brain and behavior.",
+      "This affinity to the methods of the natural sciences reduces social science to a technical enterprise which has no necessary value implications.",
+      "To be sure, virtually any work of history or social science invokes some species of causal argument."
     ],
-    "hash_code_list_definition_mean": "1859554800"
+    "hash_code_list_example": "102478197"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/scientific_cb_dmean_5000_it.json",
@@ -2102,24 +1566,19 @@
         "id_image": "scientific_5345555"
       }
     ],
-    "hash_code_list_img": "831158042",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc khoa học",
-        "definition": "of science",
-        "ex_of_definition_list": [
-          "scientific discoveries."
-        ]
-      },
-      {
-        "mean_english": "có kĩ thuật",
-        "definition": "(opposite unscientific) following the rules of science",
-        "ex_of_definition_list": [
-          "scientific methods."
-        ]
-      }
+    "hash_code_list_img": "-1989241016",
+    "list_example": [
+      "scientific discoveries.",
+      "scientific methods.",
+      "They see the contemporary selling of antiageing ' therapies ' as part of that tradition, not as genuine scientific endeavour.",
+      "The details of this experience were periodically published [5-8] as well as presented at scientific forums.",
+      "Hence, it will be essential for members of the scientific community, including physician-researchers, to consider the implications of presenting their data in any form.",
+      "Despite these potential benefits, scientific studies evaluating the effectiveness of this exercise machine are limited.",
+      "Moreover, there are complementary scientific approaches to investigate meaning!",
+      "What characteristics distinguish scientific endeavour that seeks an understanding of the fundamental biology of human ageing from quackery and pseudo-science ?",
+      "He suggests that most scientists he has encountered care little about taking risks when faced with the sheer joy of scientific inquiry."
     ],
-    "hash_code_list_definition_mean": "1691153218"
+    "hash_code_list_example": "-1081946615"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/scientist_cb_dmean_5000_it.json",
@@ -2142,17 +1601,19 @@
         "id_image": "scientist_1039067"
       }
     ],
-    "hash_code_list_img": "-1742714079",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà khoa học",
-        "definition": "a person who studies one or more branches of science",
-        "ex_of_definition_list": [
-          "a nuclear scientist."
-        ]
-      }
+    "hash_code_list_img": "-1117013735",
+    "list_example": [
+      "a nuclear scientist.",
+      "Demarcation applies also to the debates in which scientists engage, where criticism is exercised.",
+      "Since scientists are human beings, they may let beliefs that do not satisfy the falsifiability criterion play a role in their debates.",
+      "A task of social scientists is to explain the differing outcomes in terms of economic 'fundamentals'.",
+      "The livestock element has tended to be viewed by scientists as an adjunct to crops, to which it contributes manure and draught power.",
+      "Some political scientists have demonstrated how the prospects for democratization are enhanced by wars.",
+      "Empirical reports on scientific competition show that scientists can be depicted as self-interested, strategically behaving agents.",
+      "This is the truth that the visual scientists, quoted in section 1 of the target article, are after, though they misstate the point.",
+      "One way to understand the peculiar circumstances of a national research programme is to actually hold consultation visits with the scientists on the programme."
     ],
-    "hash_code_list_definition_mean": "1182203128"
+    "hash_code_list_example": "1782166632"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/scold_cb_dmean_5000_it.json",
@@ -2175,17 +1636,11 @@
         "id_image": "scold_5101240"
       }
     ],
-    "hash_code_list_img": "-188635749",
-    "list_definition_mean": [
-      {
-        "mean_english": "rầy la",
-        "definition": "to criticize or blame loudly and angrily",
-        "ex_of_definition_list": [
-          "She scolded the child for coming home so late."
-        ]
-      }
+    "hash_code_list_img": "927447569",
+    "list_example": [
+      "In addition to three presentments as a scold and one for hedgebreaking, she was co-defendant with her husband in three or more trespass suits."
     ],
-    "hash_code_list_definition_mean": "780408841"
+    "hash_code_list_example": "-1741948748"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/scone_cb_dmean_5000_it.json",
@@ -2208,16 +1663,11 @@
         "id_image": "scone_2289980"
       }
     ],
-    "hash_code_list_img": "1564470432",
-    "list_definition_mean": [
-      {
-        "mean_english": "bánh nướng",
-        "definition": "a kind of small, flat cake made of flour and fat",
-        "ex_of_definition_list": [
-          "scones and jam."
-        ]
-      }
+    "hash_code_list_img": "271496446",
+    "list_example": [
+      "I was working in a scone shop for years, selling apricot-studded scones.",
+      "It gives an idea of the scone and potential that is possible as long as we ensure that rules to protect the consumer in that market are logical and effective."
     ],
-    "hash_code_list_definition_mean": "1170370840"
+    "hash_code_list_example": "719550420"
   }
 ]

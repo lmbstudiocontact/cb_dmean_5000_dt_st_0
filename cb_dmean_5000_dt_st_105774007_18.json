@@ -15,17 +15,19 @@
         "id_image": "taxable_2170995"
       }
     ],
-    "hash_code_list_img": "124982563",
-    "list_definition_mean": [
-      {
-        "mean_english": "có thể phải đóng thuế được",
-        "definition": "liable to be taxed",
-        "ex_of_definition_list": [
-          "taxable income/goods."
-        ]
-      }
+    "hash_code_list_img": "1807159940",
+    "list_example": [
+      "taxable income/goods.",
+      "If, on the other hand, the person waits until vesting, she must pay income taxes on the $100 before placing it in the taxable account.",
+      "He recommends a taxable universal pension from age 65 years, associated with increased tax on larger superannuation benefits.",
+      "It includes types of taxation and categories of taxable income and deductible allowances, etc., for income tax purposes.",
+      "Even more, the nontaxable sector may have had displayed a different behaviour than the taxable sector.",
+      "It becomes a taxable benefit, but the employee continues to benefit from the employer contributions that would otherwise be lost.",
+      "The taxable income of the father (in most cases) was divided by a quotient arrived at according to the size of the family.",
+      "We have data on individuals' taxable income in 1998.",
+      "In terms of taxable wealth, the three leading towns again dominated the area."
     ],
-    "hash_code_list_definition_mean": "1009480513"
+    "hash_code_list_example": "-383648843"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/taxation_cb_dmean_5000_it.json",
@@ -53,18 +55,14 @@
         "id_image": "taxation_4496658"
       }
     ],
-    "hash_code_list_img": "-1301245700",
-    "list_definition_mean": [
-      {
-        "mean_english": "hệ thống thuế",
-        "definition": "the act or system of taxing",
-        "ex_of_definition_list": [
-          "property taxation",
-          "(also adjective) taxation rates."
-        ]
-      }
+    "hash_code_list_img": "2144990322",
+    "list_example": [
+      "(also adjective) taxation rates.",
+      "Physical evidence of racial differentiation had to wait until the boom of the 1890s provided sufficient taxation to implement segregated public services.",
+      "In this case, low taxation on unskilled labor motivates a large number of workers to forgo the premium and remain unskilled.",
+      "Free of their corporatist commitments, social democratic governments have been found to limit the use of regressive indirect taxation in order to promote egalitarian outcomes."
     ],
-    "hash_code_list_definition_mean": "1136811688"
+    "hash_code_list_example": "267568517"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/taxi_cb_dmean_5000_it.json",
@@ -88,24 +86,11 @@
         "id_image": "taxi_2385527"
       }
     ],
-    "hash_code_list_img": "1308219347",
-    "list_definition_mean": [
-      {
-        "mean_english": "xe tắc xi",
-        "definition": "(also taxi-cab, cab) a car, usually fitted with a taximeter, that can be hired with its driver, especially for short journeys;",
-        "ex_of_definition_list": [
-          "I took a taxi from the hotel to the station."
-        ]
-      },
-      {
-        "mean_english": "chạy, trượt",
-        "definition": "(of an aeroplane) to move slowly along the ground before beginning to run forward for take-off",
-        "ex_of_definition_list": [
-          "The plane taxied along the runway."
-        ]
-      }
+    "hash_code_list_img": "-1135070127",
+    "list_example": [
+      "I took a taxi from the hotel to the station."
     ],
-    "hash_code_list_definition_mean": "-164214533"
+    "hash_code_list_example": "-78678387"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tax_cb_dmean_5000_it.json",
@@ -136,40 +121,18 @@
         "id_image": "tax_6296593"
       }
     ],
-    "hash_code_list_img": "1357377306",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuế",
-        "definition": "money, eg a percentage of a person’s income or of the price of goods etc taken by the government to help pay for the running of the state",
-        "ex_of_definition_list": [
-          "income tax",
-          "a tax on tobacco."
-        ]
-      },
-      {
-        "mean_english": "gánh nặng",
-        "definition": "a strain or burden",
-        "ex_of_definition_list": [
-          "The continual noise was a tax on her nerves."
-        ]
-      },
-      {
-        "mean_english": "đánh thuế",
-        "definition": "to make (a person) pay (a) tax; to put a tax on (goods etc)",
-        "ex_of_definition_list": [
-          "He is taxed on his income",
-          "Alcohol is taxed."
-        ]
-      },
-      {
-        "mean_english": "đòi hỏi nặng nề",
-        "definition": "to put a strain on",
-        "ex_of_definition_list": [
-          "Don’t tax your strength!"
-        ]
-      }
+    "hash_code_list_img": "-1692805571",
+    "list_example": [
+      "a tax on tobacco.",
+      "The continual noise was a tax on her nerves.",
+      "Don’t tax your strength!",
+      "Any non-zero imposition of tax makes the high-efficiency boiler plus the baghouse the least-cost option.",
+      "However, the increased cost on capital plus the incurred tax burden raise the unit cost of producing the rural good.",
+      "In all the scenarios, the developed country pursues a domestic tax policy as part of its commitment to reduce emissions.",
+      "The key to arriving at consistent accounting is 'implicit tax ' inherent in public pension systems relying on mandatory contributions while being completely or partially unfunded.",
+      "An inefficient tax system could thus have survived if political rigidities prevented a ruler from changing it."
     ],
-    "hash_code_list_definition_mean": "719962255"
+    "hash_code_list_example": "-485447074"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/teacher_cb_dmean_5000_it.json",
@@ -192,17 +155,12 @@
         "id_image": "teacher_843307"
       }
     ],
-    "hash_code_list_img": "713439798",
-    "list_definition_mean": [
-      {
-        "mean_english": "giáo viên",
-        "definition": "a person who teaches, especially in a school",
-        "ex_of_definition_list": [
-          "a French/history/physics teacher."
-        ]
-      }
+    "hash_code_list_img": "1552575692",
+    "list_example": [
+      "The notion of initial teacher training being an area where 'training has long since replaced genuine education' (p. 30) also rings true.",
+      "Both teacher training and teaching have undergone fundamental changes in the past four decades."
     ],
-    "hash_code_list_definition_mean": "1594623217"
+    "hash_code_list_example": "494249898"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/teach_cb_dmean_5000_it.json",
@@ -220,18 +178,15 @@
         "id_image": "teach_2991626"
       }
     ],
-    "hash_code_list_img": "770726896",
-    "list_definition_mean": [
-      {
-        "mean_english": "dạy, dạy bảo",
-        "definition": "to give knowledge, skill or wisdom to a person; to instruct or train (a person)",
-        "ex_of_definition_list": [
-          "She teaches English / the piano",
-          "Experience has taught him nothing."
-        ]
-      }
+    "hash_code_list_img": "773619782",
+    "list_example": [
+      "She teaches English / the piano",
+      "We have applied the same idea to teaching music by arguing for body movement as a physical metaphor between musical activities and conceptual thinking.",
+      "The unit-based ethicist may fulfill a variety of functions through his participation in the working or teaching rounds of the unit.",
+      "Tutors teaching specific classes or incorporating special needs students in their regular classes require good support, and regular training is offered to them.",
+      "Research, or indeed the content of teaching for that matter, must not be controlled by those who are ignorant."
     ],
-    "hash_code_list_definition_mean": "317061098"
+    "hash_code_list_example": "1507586865"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/teamwork_cb_dmean_5000_it.json",
@@ -264,17 +219,17 @@
         "id_image": "teamwork_751801"
       }
     ],
-    "hash_code_list_img": "-400580198",
-    "list_definition_mean": [
-      {
-        "mean_english": "chung sức, nỗ lực",
-        "definition": "cooperation between those who are working together on a task etc",
-        "ex_of_definition_list": [
-          "Teamwork is essential to the success of the department."
-        ]
-      }
+    "hash_code_list_img": "-876197999",
+    "list_example": [
+      "However, many obstacles exist to the development of this more comprehensive idea of teamwork in primary care.",
+      "The implications for the development of teamwork and leadership are selfevident.",
+      "Finally, the expertise of the operators, and the good teamwork between echocardiographer and interventionist, are major factors for successful closure.",
+      "In dissolving the so-called voting paradox, one could offer either a teamwork dissolution or -at the other extreme-an invisible-hand dissolution.",
+      "Two things about the individual teamwork reason hold out hope that, over a range of cases, it will mitigate the problem of instability.",
+      "Although viewed as the ideal way of working, interdisciplinary teamwork remains highly problematic for many health professionals.",
+      "But any resemblance to the teamwork case on this front is superficial."
     ],
-    "hash_code_list_definition_mean": "1837241492"
+    "hash_code_list_example": "509260035"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/team_cb_dmean_5000_it.json",
@@ -299,31 +254,16 @@
         "id_image": "team_470235"
       }
     ],
-    "hash_code_list_img": "-1814297304",
-    "list_definition_mean": [
-      {
-        "mean_english": "đội",
-        "definition": "a group of people forming a side in a game",
-        "ex_of_definition_list": [
-          "a football team."
-        ]
-      },
-      {
-        "mean_english": "nhóm, tổ",
-        "definition": "a group of people working together",
-        "ex_of_definition_list": [
-          "A team of doctors."
-        ]
-      },
-      {
-        "mean_english": "đàn",
-        "definition": "two or more animals working together eg pulling a cart, plough/plow etc",
-        "ex_of_definition_list": [
-          "a team of horses/oxen."
-        ]
-      }
+    "hash_code_list_img": "-1923725975",
+    "list_example": [
+      "A team of doctors.",
+      "a team of horses/oxen.",
+      "We also needed to easily integrate source code developed by different team members.",
+      "The pilot service team attended 198 of these calls either alone or in conjunction with other emergency vehicles.",
+      "The assessment of workload and team effectiveness is reported elsewhere.",
+      "With programmable control, the prosthetic team can create virtually any control scheme that suits a person's unique abilities."
     ],
-    "hash_code_list_definition_mean": "1457275287"
+    "hash_code_list_example": "1769601525"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tear_cb_dmean_5000_it.json",
@@ -350,47 +290,14 @@
         "id_image": "tear_2911067"
       }
     ],
-    "hash_code_list_img": "1202084985",
-    "list_definition_mean": [
-      {
-        "mean_english": "nước mắt",
-        "definition": "a drop of liquid coming from the eye, as a result of emotion (especially sadness) or because something ( eg smoke) has irritated it",
-        "ex_of_definition_list": [
-          "tears of joy/laughter/rage."
-        ]
-      },
-      {
-        "mean_english": "khoét, xé",
-        "definition": "(sometimes with off etc) to make a split or hole in (something), intentionally or unintentionally, with a sudden or violent pulling action, or to remove (something) from its position by such an action or movement",
-        "ex_of_definition_list": [
-          "He tore the photograph into pieces",
-          "You’ve torn a hole in your jacket",
-          "I tore the picture out of a magazine."
-        ]
-      },
-      {
-        "mean_english": "rách",
-        "definition": "to become torn",
-        "ex_of_definition_list": [
-          "Newspapers tear easily."
-        ]
-      },
-      {
-        "mean_english": "chạy",
-        "definition": "to rush",
-        "ex_of_definition_list": [
-          "He tore along the road."
-        ]
-      },
-      {
-        "mean_english": "vết rách, vết thủng",
-        "definition": "a hole or split made by tearing",
-        "ex_of_definition_list": [
-          "There’s a tear in my dress."
-        ]
-      }
+    "hash_code_list_img": "940500476",
+    "list_example": [
+      "Newspapers tear easily.",
+      "There’s a tear in my dress.",
+      "It can cause the metal to tear away from the mould walls resulting in a deformed casting.",
+      "There was no visible tear on the cardiac wall."
     ],
-    "hash_code_list_definition_mean": "-1726880300"
+    "hash_code_list_example": "1951066150"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/teaser_cb_dmean_5000_it.json",
@@ -409,17 +316,14 @@
         "id_image": "teasing_3508718"
       }
     ],
-    "hash_code_list_img": "1017021125",
-    "list_definition_mean": [
-      {
-        "mean_english": "vấn đề khó xử",
-        "definition": "a puzzle or difficult problem",
-        "ex_of_definition_list": [
-          "This question is rather a teaser."
-        ]
-      }
+    "hash_code_list_img": "962769461",
+    "list_example": [
+      "The teaser gives equal importance to family, tradition and romance, with all the important characters getting a decent exposure in the promo.",
+      "Producers downplayed any publicity for the film, releasing the audio with little fanfare and not releasing a teaser trailer.",
+      "On the next day, the second teaser photo was unveiled, followed by a video teaser.",
+      "They released teaser pics announcing their full scale comeback in two years."
     ],
-    "hash_code_list_definition_mean": "1578329188"
+    "hash_code_list_example": "-845300481"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tease_cb_dmean_5000_it.json",
@@ -439,31 +343,11 @@
         "id_image": "tease_3508736"
       }
     ],
-    "hash_code_list_img": "1139264142",
-    "list_definition_mean": [
-      {
-        "mean_english": "trêu, nô đùa",
-        "definition": "to annoy or irritate on purpose",
-        "ex_of_definition_list": [
-          "He’s teasing the cat."
-        ]
-      },
-      {
-        "mean_english": "quấy rầy",
-        "definition": "to annoy or laugh at (a person) playfully",
-        "ex_of_definition_list": [
-          "His school-friends tease him about his size."
-        ]
-      },
-      {
-        "mean_english": "người hay chọc ghẹo",
-        "definition": "a person who enjoys teasing others",
-        "ex_of_definition_list": [
-          "He’s a tease!"
-        ]
-      }
+    "hash_code_list_img": "830710683",
+    "list_example": [
+      "His school-friends tease him about his size."
     ],
-    "hash_code_list_definition_mean": "581295757"
+    "hash_code_list_example": "1898006595"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tea_cb_dmean_5000_it.json",
@@ -499,38 +383,16 @@
         "id_image": "tea_703020"
       }
     ],
-    "hash_code_list_img": "611358405",
-    "list_definition_mean": [
-      {
-        "mean_english": "cây chè",
-        "definition": "a type of plant grown in Asia, especially India, Ceylon and China, or its dried and prepared leaves",
-        "ex_of_definition_list": [
-          "I bought half a kilo of tea."
-        ]
-      },
-      {
-        "mean_english": "nước trà",
-        "definition": "a drink made by adding boiling water to these",
-        "ex_of_definition_list": [
-          "Have a cup of tea!"
-        ]
-      },
-      {
-        "mean_english": "chén trà",
-        "definition": "a cup etc of tea",
-        "ex_of_definition_list": [
-          "Two teas, please!"
-        ]
-      },
-      {
-        "mean_english": "bữa trà",
-        "definition": "a small meal in the afternoon (afternoon tea) or a larger one in the early evening, at which tea is often drunk",
-        "ex_of_definition_list": [
-          "She invited him to tea."
-        ]
-      }
+    "hash_code_list_img": "-82517334",
+    "list_example": [
+      "The annual mean rainfall was 3869 mm, recorded at the office of a tea plantation near the study site during 1998 to 2002.",
+      "The more even seasonal distribution of tea yields, following the introduction of irrigation, also resulted in a more stable demand for labour than before.",
+      "This work also calculates income elasticities for the various foodstuffs and confirms the luxury nature of tea and sugar.",
+      "Clonal variations in the response of black tea quality due to plucking standards.",
+      "Thus, the t phoneme is likely to be pronounced correctly in tea or eaten before boat.",
+      "Places where the traders could gather and negotiate also grew up - eating-houses, tea shops, tea gardens, playhouses and the like - and a townscape was formed."
     ],
-    "hash_code_list_definition_mean": "-1770684342"
+    "hash_code_list_example": "-647248718"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/technical_cb_dmean_5000_it.json",
@@ -560,33 +422,23 @@
         "id_image": "technical_5848120"
       }
     ],
-    "hash_code_list_img": "256750403",
-    "list_definition_mean": [
-      {
-        "mean_english": "kỹ thuật",
-        "definition": "having, or relating to, a particular science or skill, especially of a mechanical or industrial kind",
-        "ex_of_definition_list": [
-          "a technical college",
-          "technical skill",
-          "technical drawing."
-        ]
-      },
-      {
-        "mean_english": "liên quan đến khoa học hoặc nghệ thuật",
-        "definition": "(having many terms) relating to a particular art or science",
-        "ex_of_definition_list": [
-          "‘Myopia’ is a technical term for ‘short-sightedness’."
-        ]
-      },
-      {
-        "mean_english": "theo quy tắc",
-        "definition": "according to strict laws or rules",
-        "ex_of_definition_list": [
-          "a technical defeat."
-        ]
-      }
+    "hash_code_list_img": "1827119098",
+    "list_example": [
+      "a technical college",
+      "technical skill",
+      "technical drawing.",
+      "‘Myopia’ is a technical term for ‘short-sightedness’.",
+      "a technical defeat.",
+      "The editors have striven to give the floor to competing points of view without losing technical focus.",
+      "There may then be both conceptual distinctions and technical organizations that set correction apar t from repair.",
+      "Regardless of facility size, very few rural or rural referral facilities provided such technical services as renal dialysis or pulmonary artery catheterization.",
+      "In the discussion which follows, we will use the phrase ' depends on ' in a technical sense.",
+      "When a draft law arrives, it is considered by the appropriate technical commissions.",
+      "A great deal of technical information is disseminated, but the tone of the book remains relaxed.",
+      "A mention of graphology in its everyday sense (394) cross-refers inexplicably to where a different, technical sense of the word is introduced (257).",
+      "Beyond the time used to discuss technical issues, these meetings included time for members to build personal relationships and contacts."
     ],
-    "hash_code_list_definition_mean": "1199325654"
+    "hash_code_list_example": "2010358572"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/technician_cb_dmean_5000_it.json",
@@ -609,17 +461,19 @@
         "id_image": "technician_6342684"
       }
     ],
-    "hash_code_list_img": "884229504",
-    "list_definition_mean": [
-      {
-        "mean_english": "chuyên gia, kỹ thuật viên",
-        "definition": "a person who has been trained to do something which involves some skill, eg with a piece of machinery",
-        "ex_of_definition_list": [
-          "One of our technicians will repair the machine."
-        ]
-      }
+    "hash_code_list_img": "2077389004",
+    "list_example": [
+      "One of our technicians will repair the machine.",
+      "Similarly, though foremen and technicians exercise some control over their colleagues, they are in turn subject to control by managers.",
+      "The authors thank all the technicians and management at all the research stations at which the trials were done.",
+      "The professor frowned at the technicians of the physicist who were wearing glasses.",
+      "Bioengineers, computer experts, software technicians, web programmers, insurance providers, physicians, and nurses are some of the participating actors.",
+      "The slides were quantitatively examined by 1 of 4 experienced technicians.",
+      "Why was the navy the only force that opted to train its highly qualified engineers and technicians in civil universities ?",
+      "There is a lesson here for development technicians with their notoriously short memories and one-size-fits-all programmes.",
+      "We were working in black and white, which is essentially dramatic, and we were working with in-house technicians."
     ],
-    "hash_code_list_definition_mean": "981341151"
+    "hash_code_list_example": "1772448186"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/technology_cb_dmean_5000_it.json",
@@ -647,17 +501,14 @@
         "id_image": "technology_752613"
       }
     ],
-    "hash_code_list_img": "-1754387625",
-    "list_definition_mean": [
-      {
-        "mean_english": "công nghệ",
-        "definition": "(the study of) science applied to practical, ( especially industrial) purposes",
-        "ex_of_definition_list": [
-          "a college of science and technology."
-        ]
-      }
+    "hash_code_list_img": "-1040396535",
+    "list_example": [
+      "I think there are encouraging developments in technology that are permitting developed countries to 'do more with less', and increasing incentives to do so.",
+      "For these reasons, technology policies are preferred as long as improved stoves save wood as expected, are acceptable to villagers, and subsidy costs are reasonable.",
+      "There exist practical difficulties of actually implementing technology transfers, however.",
+      "What are the interests of the producers of technology (industry, universities)?"
     ],
-    "hash_code_list_definition_mean": "997037339"
+    "hash_code_list_example": "-1811434527"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/teenager_cb_dmean_5000_it.json",
@@ -685,17 +536,11 @@
         "id_image": "teenager_6032281"
       }
     ],
-    "hash_code_list_img": "156906076",
-    "list_definition_mean": [
-      {
-        "mean_english": "người ở độ tuổi thanh thiếu niên",
-        "definition": "a person in his or her teens",
-        "ex_of_definition_list": [
-          "a spotty teenager."
-        ]
-      }
+    "hash_code_list_img": "571197402",
+    "list_example": [
+      "This explains the second reason why 1932 was a great time for an eager teenager to enter economic study."
     ],
-    "hash_code_list_definition_mean": "1127705122"
+    "hash_code_list_example": "242466107"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/teenage_cb_dmean_5000_it.json",
@@ -713,17 +558,18 @@
         "id_image": "teenage_6263845"
       }
     ],
-    "hash_code_list_img": "1677508500",
-    "list_definition_mean": [
-      {
-        "mean_english": "phù hợp cho thanh thiếu niên",
-        "definition": "of, or suitable for, people in their teens",
-        "ex_of_definition_list": [
-          "teenage children/clothes."
-        ]
-      }
+    "hash_code_list_img": "2126071215",
+    "list_example": [
+      "teenage children/clothes.",
+      "The means are computed from a cross-sectional sample of teenage women.",
+      "The role of science, particularly the reliance on traditional quantitative inquiry, in the contemporary construction of teenage motherhood as problematic is discussed below.",
+      "In their early teenage years, they compete with their unborn children for limited energy and nutrients needed for adequate growth.",
+      "However, the media, particularly teenage magazines, and soap operas, were identified as major culprits by most of the staff.",
+      "The interpersonal inventory revealed significant nonreciprocal expectations regarding family rules, limit setting, and normative teenage behavior.",
+      "For example, antenatal appointments may need to be held close to school premises and timings changed to minimise disruption to the teenage woman's education.",
+      "These studies, then, clearly contradict the finding of a teenage peak in degree of difference between females and males."
     ],
-    "hash_code_list_definition_mean": "674584426"
+    "hash_code_list_example": "-452779258"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/teen_cb_dmean_5000_it.json",
@@ -746,17 +592,11 @@
         "id_image": "teen_6274163"
       }
     ],
-    "hash_code_list_img": "-1676136681",
-    "list_definition_mean": [
-      {
-        "mean_english": "tuổi teen",
-        "definition": "relating to teenagers",
-        "ex_of_definition_list": [
-          "a teen idol."
-        ]
-      }
+    "hash_code_list_img": "818732427",
+    "list_example": [
+      "a teen idol."
     ],
-    "hash_code_list_definition_mean": "1715296780"
+    "hash_code_list_example": "-1434250386"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/telegraph_cb_dmean_5000_it.json",
@@ -782,38 +622,17 @@
         "id_image": "telegraph_5256698"
       }
     ],
-    "hash_code_list_img": "-1427174504",
-    "list_definition_mean": [
-      {
-        "mean_english": "điện báo",
-        "definition": "a system of sending messages using either wires and electricity or radio",
-        "ex_of_definition_list": [
-          "Send it by telegraph."
-        ]
-      },
-      {
-        "mean_english": "máy điện báo",
-        "definition": "an instrument for this",
-        "ex_of_definition_list": [
-          "Send the message on the telegraph."
-        ]
-      },
-      {
-        "mean_english": "gửi điện báo",
-        "definition": "to send by telegraph",
-        "ex_of_definition_list": [
-          "He telegraphed the time of his arrival."
-        ]
-      },
-      {
-        "mean_english": "gửi chỉ thị bằng điện báo",
-        "definition": "to inform by telegraph",
-        "ex_of_definition_list": [
-          "He telegraphed us to say when he would arrive."
-        ]
-      }
+    "hash_code_list_img": "700241348",
+    "list_example": [
+      "Once it got overlaid on the map's magic carpet, the line on paper effaced memory of the telegraph line.",
+      "It is remarkable that so many symmetries are shared by the continuous and discrete versions of the telegraph equation.",
+      "Officials unveiled new monuments, parks, libraries, schools, public lighting, telegraph and telephone lines, pavilions and municipal palaces.",
+      "This paper traces various wind paths, from natural casuarinas to telegraph wires.",
+      "For example, nationalisation of the telegraph system (in 1870) and the telephone system (in 1912) may have stymied efficiency by removing the pressure of competition.",
+      "On the one hand, this newly tamed force could power new technologies such as the telegraph and dynamo.",
+      "It was, in part, precipitated by global changes in telegraph systems."
     ],
-    "hash_code_list_definition_mean": "-205133379"
+    "hash_code_list_example": "-684263419"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/telepathy_cb_dmean_5000_it.json",
@@ -831,17 +650,14 @@
         "id_image": "telepathy_2834811"
       }
     ],
-    "hash_code_list_img": "1444842442",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngoại cảm",
-        "definition": "the communication of ideas, thoughts etc directly from one person’s mind to another person’s mind without the use of hearing, sight etc",
-        "ex_of_definition_list": [
-          "He knew just what I was thinking – it must have been telepathy."
-        ]
-      }
+    "hash_code_list_img": "1183776608",
+    "list_example": [
+      "Would telepathy come under the general title of this order as being a physical science?",
+      "Such experiments in telepathy are now regarded by statisticians as faulty.",
+      "If notice is not given, is it a case of mental telepathy at work?",
+      "There was a telepathy going between us that was perhaps causing him to say certain things!"
     ],
-    "hash_code_list_definition_mean": "1255163515"
+    "hash_code_list_example": "1354131454"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/telephone_cb_dmean_5000_it.json",
@@ -867,39 +683,22 @@
         "id_image": "telephone_387409"
       }
     ],
-    "hash_code_list_img": "1044161758",
-    "list_definition_mean": [
-      {
-        "mean_english": "điện thoại",
-        "definition": "(often abbreviated to phone) foun an instrument for speaking to someone from a distance, using either an electric current which passes along a wire or radio waves",
-        "ex_of_definition_list": [
-          "He spoke to me by telephone / on the telephone",
-          "(also adjective) a telephone number/operator."
-        ]
-      },
-      {
-        "mean_english": "gọi điện cho ai",
-        "definition": "to (try to) speak to (someone) by means of the telephone",
-        "ex_of_definition_list": [
-          "I’ll telephone you tomorrow."
-        ]
-      },
-      {
-        "mean_english": "gửi tin qua điện thoại",
-        "definition": "to send (a message) or ask for (something) by means of the telephone",
-        "ex_of_definition_list": [
-          "I’ll telephone for a taxi."
-        ]
-      },
-      {
-        "mean_english": "liên lạc bằng điện thoại",
-        "definition": "to reach or make contact with (another place) by means of the telephone",
-        "ex_of_definition_list": [
-          "What’s the code if you want to telephone England from Australia?"
-        ]
-      }
+    "hash_code_list_img": "299161779",
+    "list_example": [
+      "He spoke to me by telephone / on the telephone",
+      "(also adjective) a telephone number/operator.",
+      "I’ll telephone you tomorrow.",
+      "I’ll telephone for a taxi.",
+      "What’s the code if you want to telephone England from Australia?",
+      "My duties require frequent speech-writing, occasional news releases, and nearly endless telephone conversations.",
+      "One could luxuriate for long hours in similar acousmatic conceits and their morbid implications, all those sinister telephone voices.",
+      "Most contact with adult grandchildren tends to be by telephone or letter.",
+      "Private companies also profit by contracting to supply food and telephone services to prisoners.",
+      "To some extent, this may reflect the relative visibility of doorstep as opposed to telephone canvassing.",
+      "The extent to which such strategic considerations might shape responses to a telephone interview is unclear.",
+      "To characterize patients' demographic characteristics, severity of illness, and history of travel before onset of symptoms, we conducted telephone interviews using a standardized questionnaire."
     ],
-    "hash_code_list_definition_mean": "-1628566309"
+    "hash_code_list_example": "-282914013"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/telescope_cb_dmean_5000_it.json",
@@ -923,24 +722,18 @@
         "id_image": "telescope_178545"
       }
     ],
-    "hash_code_list_img": "28075683",
-    "list_definition_mean": [
-      {
-        "mean_english": "kính thiên văn",
-        "definition": "a kind of tube containing lenses through which distant objects appear closer",
-        "ex_of_definition_list": [
-          "He looked at the ship through his telescope."
-        ]
-      },
-      {
-        "mean_english": "lồng vào nhau",
-        "definition": "to push or be pushed together so that one part slides inside another, like the parts of a closing telescope",
-        "ex_of_definition_list": [
-          "The crash telescoped the railway coaches."
-        ]
-      }
+    "hash_code_list_img": "1630642813",
+    "list_example": [
+      "He looked at the ship through his telescope.",
+      "The crash telescoped the railway coaches.",
+      "Thirdly, and finally, these telescopes are important to those pursuing space research by means of satellites.",
+      "Another scientist might have proposed a modification in the optical theory governing the operation of the telescopes used in the investigation.",
+      "The engine turned over and the leading two coaches telescoped badly.",
+      "Figure 2 shows the logistical problems of maneuvering long telescopes even on calm days; one did not observe in the wind.",
+      "I am pleased to see that the five-year project has been telescoped into a four-year project instead.",
+      "The practical upshot of these calculations is that it would make sense to search for life on the surface of objects in the outer solar system with ground-based telescopes."
     ],
-    "hash_code_list_definition_mean": "422174317"
+    "hash_code_list_example": "729069847"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/television_cb_dmean_5000_it.json",
@@ -959,24 +752,17 @@
         "id_image": "television_170972"
       }
     ],
-    "hash_code_list_img": "1250521677",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự truyền hình",
-        "definition": "the sending of pictures from a distance, and the reproduction of them on a screen",
-        "ex_of_definition_list": [
-          "We saw it on television."
-        ]
-      },
-      {
-        "mean_english": "vô tuyến",
-        "definition": "(also television set) an apparatus with a screen for receiving these pictures",
-        "ex_of_definition_list": [
-          "He switched off the television."
-        ]
-      }
+    "hash_code_list_img": "671736745",
+    "list_example": [
+      "Moreover, the television scenario in which the actors are performing champions a trendy expressive style.",
+      "Thus, a focus on television is important for understanding music within the dynamics of family life since the 1950s.",
+      "It can thus easily be used in television programmes or films, and so has the capability to be sold twice over.",
+      "It would seem to require that the study of music on television entails more than merely importing the methods of film studies.",
+      "This means that the programme producers are in the same relationship to the television market as the musicians who are the subjects of their programmes.",
+      "But why is such television of political concern and formal innovation and dramatic entertainment the exception?",
+      "The experience of watching a television broadcast is far less involving."
     ],
-    "hash_code_list_definition_mean": "-302245142"
+    "hash_code_list_example": "1899761322"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/teller_cb_dmean_5000_it.json",
@@ -1005,17 +791,18 @@
         "id_image": "teller_6185300"
       }
     ],
-    "hash_code_list_img": "-1993738055",
-    "list_definition_mean": [
-      {
-        "mean_english": "người kể chuyện",
-        "definition": "a person who tells (stories)",
-        "ex_of_definition_list": [
-          "a story-teller."
-        ]
-      }
+    "hash_code_list_img": "-640480387",
+    "list_example": [
+      "a story-teller.",
+      "We were defeated on the last occasion, when we totalled, including tellers, only four or five.",
+      "From story inception to completion, unique and shared knowledge may be utilized as a resource by both tellers and recipients in jointly shaping the course that a story-in-progress takes.",
+      "With a very good background and an understanding of the requirements; would we be allowed to act as tellers?",
+      "The number of writing assistants or analogous grades (card tellers and female clerical assistants) was about 1,800.",
+      "I believe that we must still disagree about the question of who should pay the tellers.",
+      "The sitting was suspended at 11.15 a.m. to allow the tellers to count the votes and was resumed at 12.20 p.m.",
+      "With these devices the recipients support the tellers, and there is no further prompting from the recipients."
     ],
-    "hash_code_list_definition_mean": "1953886352"
+    "hash_code_list_example": "-741224936"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/temperature_cb_dmean_5000_it.json",
@@ -1044,24 +831,11 @@
         "id_image": "temperature_721128"
       }
     ],
-    "hash_code_list_img": "2029672794",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhiệt độ",
-        "definition": "the amount or degree of cold or heat",
-        "ex_of_definition_list": [
-          "The food must be kept at a low temperature."
-        ]
-      },
-      {
-        "mean_english": "sốt",
-        "definition": "a level of body heat that is higher than normal",
-        "ex_of_definition_list": [
-          "She had a temperature and wasn’t feeling well."
-        ]
-      }
+    "hash_code_list_img": "604255411",
+    "list_example": [
+      "She had a temperature and wasn’t feeling well."
     ],
-    "hash_code_list_definition_mean": "767862488"
+    "hash_code_list_example": "-1808167340"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/template_cb_dmean_5000_it.json",
@@ -1091,24 +865,12 @@
         "id_image": "template_6384502"
       }
     ],
-    "hash_code_list_img": "1121270807",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái đục",
-        "definition": "a thin sheet made from a hard material that is used as a pattern for cutting other materials in the same shape",
-        "ex_of_definition_list": [
-          "He used a metal template to cut out the circle."
-        ]
-      },
-      {
-        "mean_english": "khuôn mẫu",
-        "definition": "something that is used as a model for producing another similar thing",
-        "ex_of_definition_list": [
-          "The film was the template for many Westerns that came after it."
-        ]
-      }
+    "hash_code_list_img": "2048804122",
+    "list_example": [
+      "He used a metal template to cut out the circle.",
+      "The film was the template for many Westerns that came after it."
     ],
-    "hash_code_list_definition_mean": "-866373859"
+    "hash_code_list_example": "-228224225"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/temple_cb_dmean_5000_it.json",
@@ -1137,24 +899,12 @@
         "id_image": "temple_2456061"
       }
     ],
-    "hash_code_list_img": "-1278853679",
-    "list_definition_mean": [
-      {
-        "mean_english": "đền, điện, miếu",
-        "definition": "a building in which people worship, usually as part of a non-Christian religion",
-        "ex_of_definition_list": [
-          "a Greek/Hindu temple."
-        ]
-      },
-      {
-        "mean_english": "thái dương",
-        "definition": "either of the flat parts of the head at the side of the forehead",
-        "ex_of_definition_list": [
-          "The stone hit him on the temple."
-        ]
-      }
+    "hash_code_list_img": "-246797618",
+    "list_example": [
+      "a Greek/Hindu temple.",
+      "The stone hit him on the temple."
     ],
-    "hash_code_list_definition_mean": "824315871"
+    "hash_code_list_example": "952557900"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/temporary_cb_dmean_5000_it.json",
@@ -1177,18 +927,19 @@
         "id_image": "temporary_6214173"
       }
     ],
-    "hash_code_list_img": "-1240817340",
-    "list_definition_mean": [
-      {
-        "mean_english": "tạm thời",
-        "definition": "lasting, acting, used etc for a (short) time only",
-        "ex_of_definition_list": [
-          "a temporary job",
-          "He made a temporary repair."
-        ]
-      }
+    "hash_code_list_img": "1955806891",
+    "list_example": [
+      "a temporary job",
+      "He made a temporary repair.",
+      "This pronounced temporary drop correlates with a high incidence of invasive disease caused by encapsulated bacteria.",
+      "Besides, given that the ordinance had been enacted as a temporary security measure, it should only be invoked with great caution.",
+      "Its use symbolically implied and substantially meant that authority granted the federal government to coordinate industrial production would be temporary and business-friendly.",
+      "Interestingly, when these expectations make agents coordinate into another equilibrium path, temporary shocks have permanent effects and cause hysteresis.",
+      "As temporary workers they could learn their tasks and adapt to the demands of work discipline.",
+      "In order to increase the market, also people with temporary impairments and elderly persons should be recognised as customers.",
+      "However, in so far as nominal rigidities hamper market adjustments, fiscal policy measures can alleviate temporary country-specific disequilibria."
     ],
-    "hash_code_list_definition_mean": "947046526"
+    "hash_code_list_example": "564239153"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tenant_cb_dmean_5000_it.json",
@@ -1216,18 +967,15 @@
         "id_image": "tenant_2590618"
       }
     ],
-    "hash_code_list_img": "-852147025",
-    "list_definition_mean": [
-      {
-        "mean_english": "người thuê, người mướn",
-        "definition": "a person who pays rent to another for the use of a house, building, land etc",
-        "ex_of_definition_list": [
-          "That man is a tenant of the estate",
-          "(also adjective) tenant farmers."
-        ]
-      }
+    "hash_code_list_img": "-2141500251",
+    "list_example": [
+      "That man is a tenant of the estate",
+      "(also adjective) tenant farmers.",
+      "Many of these improvements were carried out on the home farm, but encouragement to innovate on tenant farms can also be seen.",
+      "In 1747, the system of land tenure by which a tenant could be summoned for military service, known as hereditary ward-holding, was abolished.",
+      "The difference in wealth between landlord and tenant might be so large as to allow the former to impose whatever contract he wants."
     ],
-    "hash_code_list_definition_mean": "185049025"
+    "hash_code_list_example": "105549877"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tendency_cb_dmean_5000_it.json",
@@ -1245,17 +993,11 @@
         "id_image": "tendency_5957010"
       }
     ],
-    "hash_code_list_img": "1735434824",
-    "list_definition_mean": [
-      {
-        "mean_english": "khuynh hướng",
-        "definition": "likelihood; inclination",
-        "ex_of_definition_list": [
-          "He has a tendency to forget things."
-        ]
-      }
+    "hash_code_list_img": "1563620858",
+    "list_example": [
+      "He has a tendency to forget things."
     ],
-    "hash_code_list_definition_mean": "242559435"
+    "hash_code_list_example": "-1872012312"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tender_cb_dmean_5000_it.json",
@@ -1277,38 +1019,15 @@
         "id_image": "tender_2104152"
       }
     ],
-    "hash_code_list_img": "50653273",
-    "list_definition_mean": [
-      {
-        "mean_english": "người trông nom",
-        "definition": "a person who looks after something",
-        "ex_of_definition_list": [
-          "a bartender."
-        ]
-      },
-      {
-        "mean_english": "mềm",
-        "definition": "soft; not hard or tough",
-        "ex_of_definition_list": [
-          "The meat is tender."
-        ]
-      },
-      {
-        "mean_english": "đau, gây đau",
-        "definition": "sore; painful when touched",
-        "ex_of_definition_list": [
-          "His injured leg is still tender."
-        ]
-      },
-      {
-        "mean_english": "đáng yêu",
-        "definition": "loving; gentle",
-        "ex_of_definition_list": [
-          "She had a tender heart."
-        ]
-      }
+    "hash_code_list_img": "1774526458",
+    "list_example": [
+      "She had a tender heart.",
+      "His young namesake, who duly appears a few numbers on, is evidently in no danger of suffering the fate of those tender babes.",
+      "The project was let on competitive tender in 2003, with the financial bid being one of the key criteria for selection.",
+      "The legal tender status of foreign coins was not cancelled until 1857.",
+      "Yet he also revealed a more tender side, and showed himself to have been unafraid to express true affection."
     ],
-    "hash_code_list_definition_mean": "-1149173413"
+    "hash_code_list_example": "670018454"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tendon_cb_dmean_5000_it.json",
@@ -1331,17 +1050,14 @@
         "id_image": "tendon_5746310"
       }
     ],
-    "hash_code_list_img": "-1145625522",
-    "list_definition_mean": [
-      {
-        "mean_english": "gân, dây chằng",
-        "definition": "a strong cord joining a muscle to a bone etc",
-        "ex_of_definition_list": [
-          "He has damaged a tendon in his leg."
-        ]
-      }
+    "hash_code_list_img": "1941551806",
+    "list_example": [
+      "He has damaged a tendon in his leg.",
+      "This is a problem inherent to tendon-based systems with feedback of only tendon measurements.",
+      "None had cerebral palsy, but, in the child with left sided epilepsy, the deep tendon reflexes were slightly increased on the left side.",
+      "With progression, some have vibration and proprioception loss, abnormal saccades, nystagmus, ophthalmoparesis, mild optic atrophy, hypertonia (usually early), hypotonia (later), and decreased deep tendon reflexes."
     ],
-    "hash_code_list_definition_mean": "1587394054"
+    "hash_code_list_example": "1102501214"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tennis_cb_dmean_5000_it.json",
@@ -1359,18 +1075,16 @@
         "id_image": "tennis_4545108"
       }
     ],
-    "hash_code_list_img": "938056750",
-    "list_definition_mean": [
-      {
-        "mean_english": "quần vợt",
-        "definition": "(also lawn tennis) a game for two or four players who use rackets to hit a ball to each other over a net stretched across a tennis-court",
-        "ex_of_definition_list": [
-          "Let’s play (a game of) tennis",
-          "(also adjective) a tennis match."
-        ]
-      }
+    "hash_code_list_img": "578798401",
+    "list_example": [
+      "(also adjective) a tennis match.",
+      "A balletic section which portrays two young women playing tennis is the most memorable music in the work.",
+      "The coherence measure identified the closest context as being retrieved from a text that describes tennis winning strategies.",
+      "The one-life husband is aware of being the tennis player and of having been the young child.",
+      "The tennis player whose leg was broken couldn't play in the tournament. 19.",
+      "Bilingual homophones such as tennis and proper nouns which are used in all the languages of the speakers may have this function."
     ],
-    "hash_code_list_definition_mean": "73933831"
+    "hash_code_list_example": "1323736700"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tense_cb_dmean_5000_it.json",
@@ -1391,39 +1105,13 @@
         "id_image": "tense_3362407"
       }
     ],
-    "hash_code_list_img": "548758881",
-    "list_definition_mean": [
-      {
-        "mean_english": "thời của động từ",
-        "definition": "a form of a verb that shows the time of its action in relation to the time of speaking",
-        "ex_of_definition_list": [
-          "a verb in the past/future/present tense."
-        ]
-      },
-      {
-        "mean_english": "căng thẳng",
-        "definition": "strained; nervous",
-        "ex_of_definition_list": [
-          "The crowd was tense with excitement",
-          "a tense situation."
-        ]
-      },
-      {
-        "mean_english": "căng",
-        "definition": "tight; tightly stretched",
-        "ex_of_definition_list": [
-          "Feel how tense my muscles are."
-        ]
-      },
-      {
-        "mean_english": "làm căng ra",
-        "definition": "to make or become tense",
-        "ex_of_definition_list": [
-          "He tensed his muscles."
-        ]
-      }
+    "hash_code_list_img": "1661287312",
+    "list_example": [
+      "The crowd was tense with excitement",
+      "a tense situation.",
+      "Feel how tense my muscles are."
     ],
-    "hash_code_list_definition_mean": "-1499933453"
+    "hash_code_list_example": "1961614600"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tension_cb_dmean_5000_it.json",
@@ -1442,25 +1130,14 @@
         "id_image": "tension_6433905"
       }
     ],
-    "hash_code_list_img": "1495001493",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự căng",
-        "definition": "the state of being stretched, or the degree to which something is stretched",
-        "ex_of_definition_list": [
-          "the tension of the rope."
-        ]
-      },
-      {
-        "mean_english": "tình trạng căng thẳng",
-        "definition": "mental strain; anxiety",
-        "ex_of_definition_list": [
-          "She is suffering from nervous tension",
-          "the tensions of modern life."
-        ]
-      }
+    "hash_code_list_img": "1183302051",
+    "list_example": [
+      "the tension of the rope.",
+      "Both these perspectives have merit, and are not necessarily mutually exclusive, although a conceptual tension is implicit.",
+      "Most people who are not themselves singers fail to appreciate the extraordinary physical labour and tension required to produce an operatic sound.",
+      "The surface stresses (tensions) are functions of the local extension ratios, which depend on the global deformation of the membrane."
     ],
-    "hash_code_list_definition_mean": "-44693776"
+    "hash_code_list_example": "-1750763951"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tent_cb_dmean_5000_it.json",
@@ -1493,17 +1170,13 @@
         "id_image": "tent_920416"
       }
     ],
-    "hash_code_list_img": "881516553",
-    "list_definition_mean": [
-      {
-        "mean_english": "lều",
-        "definition": "a movable shelter made of canvas or other material, supported by poles or a frame and fastened to the ground with ropes and pegs",
-        "ex_of_definition_list": [
-          "When we go on holiday, we usually sleep in a tent."
-        ]
-      }
+    "hash_code_list_img": "-2105376610",
+    "list_example": [
+      "They sat in the tent all day, fully clothed but very cold, waiting for a break in the weather.",
+      "The implied actual law of motion (3) coincides therefore with the tent map dynamics (4).",
+      "We started to head to the wrong way to the side of the tent as we continued to make a detour avoiding the raven."
     ],
-    "hash_code_list_definition_mean": "1376721025"
+    "hash_code_list_example": "-1134867479"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tequila_cb_dmean_5000_it.json",
@@ -1532,24 +1205,13 @@
         "id_image": "tequila_5426204"
       }
     ],
-    "hash_code_list_img": "686637447",
-    "list_definition_mean": [
-      {
-        "mean_english": "rượu tequila",
-        "definition": "a strong alcoholic drink made in Mexico",
-        "ex_of_definition_list": [
-          "a bottle of tequila."
-        ]
-      },
-      {
-        "mean_english": "một ly rượu tequila",
-        "definition": "a glass of tequila",
-        "ex_of_definition_list": [
-          "I think I’ll have another tequila."
-        ]
-      }
+    "hash_code_list_img": "-75226177",
+    "list_example": [
+      "The course focuses on the history and importance of tequila, federal governmental regulations surrounding tequila production, quality control, and the commercialization of tequila worldwide.",
+      "Because only so many distilleries are used, multiple brands of tequila come from the same location.",
+      "Once the plant matures, it is harvested like agave plants when mezcal or tequila are to be made."
     ],
-    "hash_code_list_definition_mean": "1390400572"
+    "hash_code_list_example": "1899216159"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/terminal_cb_dmean_5000_it.json",
@@ -1586,38 +1248,11 @@
         "id_image": "terminal_6395227"
       }
     ],
-    "hash_code_list_img": "-1193249234",
-    "list_definition_mean": [
-      {
-        "mean_english": "ga đón khách",
-        "definition": "a building containing the arrival and departure areas for passengers at an airport or one in the centre/center of a city or town where passengers can buy tickets for air travel etc and can be transported by bus etc to an airport",
-        "ex_of_definition_list": [
-          "an air terminal."
-        ]
-      },
-      {
-        "mean_english": "ga cuối",
-        "definition": "a usually large station at either end of a railway/railroad line, or one for long-distance buses",
-        "ex_of_definition_list": [
-          "a bus terminal."
-        ]
-      },
-      {
-        "mean_english": "cực",
-        "definition": "in an electric circuit, a point of connection to a battery etc",
-        "ex_of_definition_list": [
-          "the positive/negative terminal."
-        ]
-      },
-      {
-        "mean_english": "bệnh nhân giai đoạn cuối",
-        "definition": "(of an illness etc) in the final stage before death",
-        "ex_of_definition_list": [
-          "This ward is for patients with terminal cancer."
-        ]
-      }
+    "hash_code_list_img": "2095820932",
+    "list_example": [
+      "This ward is for patients with terminal cancer."
     ],
-    "hash_code_list_definition_mean": "-1820659793"
+    "hash_code_list_example": "-1543580516"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/term_cb_dmean_5000_it.json",
@@ -1643,39 +1278,15 @@
         "id_image": "term_2302723"
       }
     ],
-    "hash_code_list_img": "-2092007591",
-    "list_definition_mean": [
-      {
-        "mean_english": "khoảng thời gian",
-        "definition": "a (usually limited) period of time",
-        "ex_of_definition_list": [
-          "a term of imprisonment",
-          "a term of office."
-        ]
-      },
-      {
-        "mean_english": "kỳ học",
-        "definition": "a division of a school or university year",
-        "ex_of_definition_list": [
-          "the autumn term."
-        ]
-      },
-      {
-        "mean_english": "thuật ngữ",
-        "definition": "a word or expression",
-        "ex_of_definition_list": [
-          "Myopia is a medical term for short-sightedness."
-        ]
-      },
-      {
-        "mean_english": "có tên gọi, gọi là",
-        "definition": "to name or call",
-        "ex_of_definition_list": [
-          "That kind of painting is termed ‘abstract’."
-        ]
-      }
+    "hash_code_list_img": "1291065951",
+    "list_example": [
+      "a term of imprisonment",
+      "a term of office.",
+      "Myopia is a medical term for short-sightedness.",
+      "Regrettably, the term \"model\" is used in far too many ways in both scientific and philosophical parlance.",
+      "The term refers to a disruption of interconnecting fibres that link spatially distributed regions in the brain."
     ],
-    "hash_code_list_definition_mean": "-2107820099"
+    "hash_code_list_example": "1930299323"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/terrace_cb_dmean_5000_it.json",
@@ -1705,24 +1316,14 @@
         "id_image": "terrace_3722727"
       }
     ],
-    "hash_code_list_img": "1576322158",
-    "list_definition_mean": [
-      {
-        "mean_english": "chỗ đất cao, tầng bậc",
-        "definition": "(one of a number of) raised level banks of earth etc, like large steps, on the side of a hill etc",
-        "ex_of_definition_list": [
-          "Vines are grown on terraces on the hillside."
-        ]
-      },
-      {
-        "mean_english": "đắp thành nền cao",
-        "definition": "to make into a terrace or terraces",
-        "ex_of_definition_list": [
-          "The hillside has been terraced to make new vineyards."
-        ]
-      }
+    "hash_code_list_img": "1090547945",
+    "list_example": [
+      "Doublure incurved, narrow, gently decreasing in size anteriorly, and bearing at least two low terrace ridges.",
+      "The building type that gradually evolved was neither a terrace house nor a block of flats.",
+      "The central temple includes bands and triangles on the substructure element and terrace and scrolls on the molding above the door.",
+      "Higher rainfall, which can lead to erosion but is also associated with higher production possibility, was positively associated with terrace adoption."
     ],
-    "hash_code_list_definition_mean": "-309836811"
+    "hash_code_list_example": "-411637091"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/terrain_cb_dmean_5000_it.json",
@@ -1755,17 +1356,15 @@
         "id_image": "terrain_992287"
       }
     ],
-    "hash_code_list_img": "1622220128",
-    "list_definition_mean": [
-      {
-        "mean_english": "địa hình",
-        "definition": "a particular type of land",
-        "ex_of_definition_list": [
-          "hilly/mountainous/rocky terrain."
-        ]
-      }
+    "hash_code_list_img": "535457733",
+    "list_example": [
+      "Figure 9 shows the pressure variation on a flat terrain in the shape of a pyramid when the shock wave has passed over it.",
+      "As mentioned previously, the robot should be compliant to sudden shocks due to terrain irregularities.",
+      "In some cases, however, it might be that the evader has more advanced possibilities than the pursuer in the terrain where he is hiding.",
+      "Color-based methods for classification and segmentation of natural terrain have been developed that are accurate and computationally inexpensive.",
+      "The primary assumption of this feature selection method is that the terrain is dominated by planar features."
     ],
-    "hash_code_list_definition_mean": "308486343"
+    "hash_code_list_example": "-1158023629"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/terrorism_cb_dmean_5000_it.json",
@@ -1783,17 +1382,11 @@
         "id_image": "terrorism_2302747"
       }
     ],
-    "hash_code_list_img": "59789896",
-    "list_definition_mean": [
-      {
-        "mean_english": "chủ nghĩa khủng bố",
-        "definition": "the actions or methods of terrorists",
-        "ex_of_definition_list": [
-          "international terrorism."
-        ]
-      }
+    "hash_code_list_img": "2016335716",
+    "list_example": [
+      "international terrorism."
     ],
-    "hash_code_list_definition_mean": "328256619"
+    "hash_code_list_example": "1087515920"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/terrorist_cb_dmean_5000_it.json",
@@ -1811,18 +1404,11 @@
         "id_image": "terrorist_1022332"
       }
     ],
-    "hash_code_list_img": "1626995573",
-    "list_definition_mean": [
-      {
-        "mean_english": "kẻ khủng bố",
-        "definition": "a person who tries to frighten people or governments into doing what he/she wants by using or threatening violence",
-        "ex_of_definition_list": [
-          "The plane was hijacked by terrorists",
-          "(also adjective) terrorist activities."
-        ]
-      }
+    "hash_code_list_img": "2002410118",
+    "list_example": [
+      "(also adjective) terrorist activities."
     ],
-    "hash_code_list_definition_mean": "2126446105"
+    "hash_code_list_example": "735780135"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/terror_cb_dmean_5000_it.json",
@@ -1842,32 +1428,11 @@
         "id_image": "terror_708634"
       }
     ],
-    "hash_code_list_img": "1389013495",
-    "list_definition_mean": [
-      {
-        "mean_english": "nỗi sợ hãi",
-        "definition": "very great fear",
-        "ex_of_definition_list": [
-          "She screamed with/in terror",
-          "She has a terror of spiders."
-        ]
-      },
-      {
-        "mean_english": "điều gây sợ hãi",
-        "definition": "something which makes one very afraid",
-        "ex_of_definition_list": [
-          "The terrors of war."
-        ]
-      },
-      {
-        "mean_english": "kẻ hay quấy rối",
-        "definition": "a troublesome person, especially a child",
-        "ex_of_definition_list": [
-          "That child is a real terror!"
-        ]
-      }
+    "hash_code_list_img": "1489071900",
+    "list_example": [
+      "She has a terror of spiders."
     ],
-    "hash_code_list_definition_mean": "1163329836"
+    "hash_code_list_example": "32705905"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/testament_cb_dmean_5000_it.json",
@@ -1890,17 +1455,12 @@
         "id_image": "testament_6000808"
       }
     ],
-    "hash_code_list_img": "1092724666",
-    "list_definition_mean": [
-      {
-        "mean_english": "di chúc",
-        "definition": "a written statement especially of what one wants to be done with one’s personal property after one dies",
-        "ex_of_definition_list": [
-          "This is his last will and testament."
-        ]
-      }
+    "hash_code_list_img": "404655297",
+    "list_example": [
+      "His work is a testament to the value of detailed research on a community far removed from the stock-in-trade of most historians.",
+      "The seemingly unending cycles of war and peace, negotiations and stalemates, are a testament to the deep-seated and long-held feelings about the region."
     ],
-    "hash_code_list_definition_mean": "1377403384"
+    "hash_code_list_example": "348404023"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/testimonial_cb_dmean_5000_it.json",
@@ -1938,17 +1498,11 @@
         "id_image": "testimonial_5939902"
       }
     ],
-    "hash_code_list_img": "-1774446873",
-    "list_definition_mean": [
-      {
-        "mean_english": "giấy chứng thực",
-        "definition": "a (written) statement saying what one knows about a person’s character, abilities etc",
-        "ex_of_definition_list": [
-          "When applying for a job, one usually needs a testimonial from one’s last employer."
-        ]
-      }
+    "hash_code_list_img": "1200028975",
+    "list_example": [
+      "When applying for a job, one usually needs a testimonial from one’s last employer."
     ],
-    "hash_code_list_definition_mean": "530249569"
+    "hash_code_list_example": "-866389125"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/testimony_cb_dmean_5000_it.json",
@@ -1971,17 +1525,11 @@
         "id_image": "testimony_6174438"
       }
     ],
-    "hash_code_list_img": "-528824789",
-    "list_definition_mean": [
-      {
-        "mean_english": "lời chứng, lời khai",
-        "definition": "the statement(s) made by a person or people who testify in a law-court; evidence",
-        "ex_of_definition_list": [
-          "The jury listened to his testimony."
-        ]
-      }
+    "hash_code_list_img": "-276671078",
+    "list_example": [
+      "The jury listened to his testimony."
     ],
-    "hash_code_list_definition_mean": "1865028582"
+    "hash_code_list_example": "-20369375"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/test_cb_dmean_5000_it.json",
@@ -2019,46 +1567,14 @@
         "id_image": "test_3335843"
       }
     ],
-    "hash_code_list_img": "593854394",
-    "list_definition_mean": [
-      {
-        "mean_english": "bài kiểm tra",
-        "definition": "a set of questions or exercises intended to find out a person’s ability, knowledge etc; a short examination",
-        "ex_of_definition_list": [
-          "an arithmetic/driving test."
-        ]
-      },
-      {
-        "mean_english": "xét nghiệm",
-        "definition": "something done to find out whether a thing is good, strong, efficient etc",
-        "ex_of_definition_list": [
-          "a blood test."
-        ]
-      },
-      {
-        "mean_english": "sự kiểm tra",
-        "definition": "an event, situation etc that shows how good or bad something is",
-        "ex_of_definition_list": [
-          "a test of his courage."
-        ]
-      },
-      {
-        "mean_english": "cuộc thử nghiệm",
-        "definition": "a way to find out if something exists or is present",
-        "ex_of_definition_list": [
-          "a test for radioactivity."
-        ]
-      },
-      {
-        "mean_english": "thử nghiệm",
-        "definition": "to carry out a test or tests on (someone or something)",
-        "ex_of_definition_list": [
-          "The students were tested on their knowledge of French",
-          "They tested the new aircraft."
-        ]
-      }
+    "hash_code_list_img": "-1623706288",
+    "list_example": [
+      "a test of his courage.",
+      "a test for radioactivity.",
+      "The parent who requests a label does not ask to be enlightened, but to test and reinforce the child's lexicon.",
+      "The administration of the test took about 15 minutes."
     ],
-    "hash_code_list_definition_mean": "1278513605"
+    "hash_code_list_example": "-1960046092"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tether_cb_dmean_5000_it.json",
@@ -2077,24 +1593,11 @@
         "id_image": "tether_4610964"
       }
     ],
-    "hash_code_list_img": "818507464",
-    "list_definition_mean": [
-      {
-        "mean_english": "dây dắt",
-        "definition": "a rope or chain for tying an animal to a post etc",
-        "ex_of_definition_list": [
-          "He put a tether on his horse."
-        ]
-      },
-      {
-        "mean_english": "buộc dây",
-        "definition": "to tie with a tether",
-        "ex_of_definition_list": [
-          "He tethered the goat to the post."
-        ]
-      }
+    "hash_code_list_img": "1036079007",
+    "list_example": [
+      "He put a tether on his horse."
     ],
-    "hash_code_list_definition_mean": "1163779473"
+    "hash_code_list_example": "-1746105052"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/textbook_cb_dmean_5000_it.json",
@@ -2112,16 +1615,18 @@
         "id_image": "textbook_1690992"
       }
     ],
-    "hash_code_list_img": "1911200300",
-    "list_definition_mean": [
-      {
-        "mean_english": "sách giáo khoa",
-        "definition": "a book used in teaching, giving the main facts about a subject",
-        "ex_of_definition_list": [
-          "a history textbook."
-        ]
-      }
+    "hash_code_list_img": "1652197678",
+    "list_example": [
+      "a history textbook.",
+      "A precise definition of convergence and further details can be found in standard textbooks.",
+      "The students felt that projectbased instruction prevented them from lear ning from the teacher and textbooks and from focusing on language skills.",
+      "Much feminist attention has been focused on the sexist bias of many of the textbooks used in schools.",
+      "The search for a new standard in micropalaeontology textbooks continues.",
+      "The theory of commodity demand was designed originally to study the consumer who appears today in elementary economics textbooks.",
+      "Perhaps not surprisingly, written assessment gets most space, though assessment of talk gets slightly more attention than in most textbooks.",
+      "Despite being faced with a complex and rapidly evolving society, the prejudice that is apparent on the pages of textbooks threatens to stultify research.",
+      "As is usual in textbooks, the historical development of an idea is collapsed so that it emerges complete all at once."
     ],
-    "hash_code_list_definition_mean": "1655296405"
+    "hash_code_list_example": "956045053"
   }
 ]

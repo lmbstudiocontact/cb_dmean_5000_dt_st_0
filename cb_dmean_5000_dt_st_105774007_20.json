@@ -26,17 +26,11 @@
         "id_image": "title_422137"
       }
     ],
-    "hash_code_list_img": "693504575",
-    "list_definition_mean": [
-      {
-        "mean_english": "tiêu đề",
-        "definition": "the name of a book, play, painting, piece of music etc",
-        "ex_of_definition_list": [
-          "The title of the painting is ‘A Winter Evening’."
-        ]
-      }
+    "hash_code_list_img": "903188101",
+    "list_example": [
+      "The title of the painting is ‘A Winter Evening’."
     ],
-    "hash_code_list_definition_mean": "1950478066"
+    "hash_code_list_example": "-1052981251"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/toast_cb_dmean_5000_it.json",
@@ -73,38 +67,17 @@
         "id_image": "toast_816205"
       }
     ],
-    "hash_code_list_img": "-505144942",
-    "list_definition_mean": [
-      {
-        "mean_english": "nướng",
-        "definition": "to make (bread etc) brown in front of direct heat",
-        "ex_of_definition_list": [
-          "We toasted slices of bread for tea."
-        ]
-      },
-      {
-        "mean_english": "bánh mỳ nướng",
-        "definition": "bread that has been toasted",
-        "ex_of_definition_list": [
-          "He always has two pieces of toast for breakfast."
-        ]
-      },
-      {
-        "mean_english": "uống mừng",
-        "definition": "to drink ceremonially in honour of, or to wish success to (someone or something)",
-        "ex_of_definition_list": [
-          "We toasted the bride and bridegroom / the new ship."
-        ]
-      },
-      {
-        "mean_english": "nâng cốc chúc mừng",
-        "definition": "an act of toasting",
-        "ex_of_definition_list": [
-          "Let’s drink a toast to our friends!"
-        ]
-      }
+    "hash_code_list_img": "1782871655",
+    "list_example": [
+      "He always has two pieces of toast for breakfast.",
+      "Let’s drink a toast to our friends!",
+      "We are sent here to roast him and toast him to the best of our ability, and that is what we are going to do.",
+      "Cooking a proper meal for one is time-consuming and meals may become limited to tea, toast and biscuits.",
+      "I lived on toast and soup and things like that.",
+      "So limited are the staples materials and real estate of an atoll-dweller that less toast and tea, beans, bread and chips which are the staples of poor people's diets.",
+      "I am afraid the exuberant gentleman at the dinner who proposed the toast did not sufficiently think where the analogy might lead him."
     ],
-    "hash_code_list_definition_mean": "-150053448"
+    "hash_code_list_example": "-672457079"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tobacco_cb_dmean_5000_it.json",
@@ -132,17 +105,16 @@
         "id_image": "tobacco_5459505"
       }
     ],
-    "hash_code_list_img": "-1308735074",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuốc lá",
-        "definition": "(a type of plant that has) leaves that are dried and used for smoking in pipes, cigarettes, cigars etc, or as snuff",
-        "ex_of_definition_list": [
-          "Tobacco is bad for your health."
-        ]
-      }
+    "hash_code_list_img": "402791415",
+    "list_example": [
+      "In all forest fallows, ranging from 0.2-1.5 ha in size, tobacco and cotton were cultivated for a period of 3 y prior to abandonment.",
+      "Could it be right to spend as much on tobacco as on machinery?",
+      "Damage to tobacco is caused by the insect larvae that eat stored leaves and contaminate the product with excreta and body oils.",
+      "This evidence suggested that policy could reduce, for example, diseases linked to tobacco use, inadequate diet, and lack of exercise.",
+      "Only 75 out of the 1982 examined clones from tobacco were intermediates (3.8%).",
+      "Thus, current laws outlawing the sale of tobacco products to minors will not have their intended effect if they can be easily circumvented."
     ],
-    "hash_code_list_definition_mean": "2625784"
+    "hash_code_list_example": "222402985"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/toboggan_cb_dmean_5000_it.json",
@@ -161,17 +133,13 @@
         "id_image": "toboggan_2430130"
       }
     ],
-    "hash_code_list_img": "1335767825",
-    "list_definition_mean": [
-      {
-        "mean_english": "trượt băng",
-        "definition": "to go on a toboggan",
-        "ex_of_definition_list": [
-          "We went tobogganing."
-        ]
-      }
+    "hash_code_list_img": "633366707",
+    "list_example": [
+      "Guests lie on their stomach on the toboggan style mat as they race to the finish line.",
+      "The village also has a great toboggan hill, a sports park, an outdoor skating rink and a children's playground.",
+      "In summer a sommerrodelbahn (dry toboggan run) can be used."
     ],
-    "hash_code_list_definition_mean": "1990898178"
+    "hash_code_list_example": "945606325"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/today_cb_dmean_5000_it.json",
@@ -190,26 +158,11 @@
         "id_image": "today_5849533"
       }
     ],
-    "hash_code_list_img": "1895167718",
-    "list_definition_mean": [
-      {
-        "mean_english": "hôm nay",
-        "definition": "(on) this day",
-        "ex_of_definition_list": [
-          "Today is Friday",
-          "Here is today’s newspaper",
-          "I’m working today."
-        ]
-      },
-      {
-        "mean_english": "hiện tại",
-        "definition": "(at) the present time",
-        "ex_of_definition_list": [
-          "Life is easier today than a hundred years ago."
-        ]
-      }
+    "hash_code_list_img": "1546315766",
+    "list_example": [
+      "Life is easier today than a hundred years ago."
     ],
-    "hash_code_list_definition_mean": "1980352023"
+    "hash_code_list_example": "1269807728"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/toe_cb_dmean_5000_it.json",
@@ -233,24 +186,11 @@
         "id_image": "toe_2688365"
       }
     ],
-    "hash_code_list_img": "-822099534",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngón chân",
-        "definition": "one of the five finger-like end parts of the foot",
-        "ex_of_definition_list": [
-          "These tight shoes hurt my toes."
-        ]
-      },
-      {
-        "mean_english": "mũi dầy",
-        "definition": "the front part of a shoe, sock etc",
-        "ex_of_definition_list": [
-          "There’s a hole in the toe of my sock."
-        ]
-      }
+    "hash_code_list_img": "-2072289825",
+    "list_example": [
+      "There’s a hole in the toe of my sock."
     ],
-    "hash_code_list_definition_mean": "109525640"
+    "hash_code_list_example": "1962188541"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/toffee_cb_dmean_5000_it.json",
@@ -278,17 +218,17 @@
         "id_image": "toffee_2007944"
       }
     ],
-    "hash_code_list_img": "-665646661",
-    "list_definition_mean": [
-      {
-        "mean_english": "kẹo bơ cứng",
-        "definition": "(a piece of) a kind of sticky sweet made of sugar and butter",
-        "ex_of_definition_list": [
-          "Have a (piece of) toffee"
-        ]
-      }
+    "hash_code_list_img": "1511158392",
+    "list_example": [
+      "The toffee is sold in bags containing a random assortment of individual wrapped flavoured toffees.",
+      "Arithmetically, there is no case, but if one gives a toffee apple to one child, one should give one to the other as well.",
+      "Sweet malty esters are met by huge toasted caramel and toffee flavors.",
+      "They mix it all together to create sardine toffee and taste it, with the following results.",
+      "He certainly stopped making toffee apples in 1965.",
+      "Fruit of the plant can also be made into a toffee or jam.",
+      "The men, of course, spent the night in the cells, with no sanitary convenience, except old toffee tins which leaked."
     ],
-    "hash_code_list_definition_mean": "928893307"
+    "hash_code_list_example": "-1953049175"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/together_cb_dmean_5000_it.json",
@@ -324,38 +264,13 @@
         "id_image": "together_2913442"
       }
     ],
-    "hash_code_list_img": "1087688155",
-    "list_definition_mean": [
-      {
-        "mean_english": "cùng",
-        "definition": "with someone or something else; in company",
-        "ex_of_definition_list": [
-          "They travelled together."
-        ]
-      },
-      {
-        "mean_english": "cùng lúc",
-        "definition": "at the same time",
-        "ex_of_definition_list": [
-          "They all arrived together."
-        ]
-      },
-      {
-        "mean_english": "ghép lại",
-        "definition": "so as to be joined or united",
-        "ex_of_definition_list": [
-          "He nailed/fitted/stuck the pieces of wood together."
-        ]
-      },
-      {
-        "mean_english": "giống nhau",
-        "definition": "by action with one or more other people",
-        "ex_of_definition_list": [
-          "Together we persuaded him."
-        ]
-      }
+    "hash_code_list_img": "838862550",
+    "list_example": [
+      "They travelled together.",
+      "They all arrived together.",
+      "He nailed/fitted/stuck the pieces of wood together."
     ],
-    "hash_code_list_definition_mean": "488720178"
+    "hash_code_list_example": "-6528742"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/toilet_cb_dmean_5000_it.json",
@@ -383,19 +298,14 @@
         "id_image": "toilet_577986"
       }
     ],
-    "hash_code_list_img": "1640826683",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà vệ sinh",
-        "definition": "(a room containing) a receptacle for the body’s waste matter, usually with a supply of water for washing this away; a lavatory",
-        "ex_of_definition_list": [
-          "Do you want to go to the toilet?",
-          "Where is the ladies’ toilet?",
-          "(also adjective) a toilet seat."
-        ]
-      }
+    "hash_code_list_img": "-867470649",
+    "list_example": [
+      "(also adjective) a toilet seat.",
+      "What's the difference between \"toilet paper\" and \"paper toilet\"?",
+      "Almost everything, from going to the toilet to sticking stars on a picture was supervised by an adult.",
+      "The severity scores ranged from ' 0 ' (no personal care disability) to ' 11 ' (cannot feed themselves or go to the toilet without help)."
     ],
-    "hash_code_list_definition_mean": "721533811"
+    "hash_code_list_example": "148526479"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/token_cb_dmean_5000_it.json",
@@ -419,24 +329,11 @@
         "id_image": "token_6295383"
       }
     ],
-    "hash_code_list_img": "-1592802749",
-    "list_definition_mean": [
-      {
-        "mean_english": "dấu hiệu",
-        "definition": "a mark or sign",
-        "ex_of_definition_list": [
-          "Wear this ring as a token of our friendship."
-        ]
-      },
-      {
-        "mean_english": "nhãn khi giá hàng hóa",
-        "definition": "a card or piece of metal, plastic etc, for use instead of money",
-        "ex_of_definition_list": [
-          "The shopkeeper will exchange these tokens for goods to the value of $10."
-        ]
-      }
+    "hash_code_list_img": "-468931377",
+    "list_example": [
+      "Wear this ring as a token of our friendship."
     ],
-    "hash_code_list_definition_mean": "844468912"
+    "hash_code_list_example": "-494380293"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tolerance_cb_dmean_5000_it.json",
@@ -460,24 +357,18 @@
         "id_image": "tolerance_708655"
       }
     ],
-    "hash_code_list_img": "1851589964",
-    "list_definition_mean": [
-      {
-        "mean_english": "thông cảm",
-        "definition": "the ability to be fair and understanding to people whose ways, opinions etc are different from one’s own",
-        "ex_of_definition_list": [
-          "We should always try to show tolerance to other people."
-        ]
-      },
-      {
-        "mean_english": "chịu đựng",
-        "definition": "the ability to resist the effects of eg a drug",
-        "ex_of_definition_list": [
-          "If you take a drug regularly, your body gradually acquires a tolerance of it."
-        ]
-      }
+    "hash_code_list_img": "1666839062",
+    "list_example": [
+      "We should always try to show tolerance to other people.",
+      "If you take a drug regularly, your body gradually acquires a tolerance of it.",
+      "Thus, partial tolerance becomes the perfect alibi for generalized prejudice against the regional varieties and praise of the standard.",
+      "First, the highly restricted variance and skewed distribution of the flag burning item essentially guarantees that it will be somewhat independent of other tolerance measures.",
+      "Political tolerance was moderately stable during the 1996-98 period.",
+      "This feature in turn implies sampling in linear time, as soon as a positive tolerance on size is granted.",
+      "To date, most research on tolerance has not attempted to unpack the relative impact of affect towards the group versus affect towards the behaviour.",
+      "Most radiotherapy departments only repeated measurements where the initial reading was outside a set tolerance level."
     ],
-    "hash_code_list_definition_mean": "-430263638"
+    "hash_code_list_example": "-1941855305"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/toll_cb_dmean_5000_it.json",
@@ -512,32 +403,13 @@
         "id_image": "toll_6158062"
       }
     ],
-    "hash_code_list_img": "2114482130",
-    "list_definition_mean": [
-      {
-        "mean_english": "rung chuông",
-        "definition": "to ring (a bell) slowly",
-        "ex_of_definition_list": [
-          "The church bell tolled solemnly."
-        ]
-      },
-      {
-        "mean_english": "lệ phí",
-        "definition": "a tax charged for crossing a bridge, driving on certain roads etc",
-        "ex_of_definition_list": [
-          "All cars pay a toll of $1",
-          "(also adjective) a toll bridge."
-        ]
-      },
-      {
-        "mean_english": "con số thiệt hại",
-        "definition": "an amount of loss or damage suffered, eg as a result of disaster",
-        "ex_of_definition_list": [
-          "Every year there is a heavy toll of human lives on the roads."
-        ]
-      }
+    "hash_code_list_img": "1796860682",
+    "list_example": [
+      "All cars pay a toll of $1",
+      "(also adjective) a toll bridge.",
+      "Every year there is a heavy toll of human lives on the roads."
     ],
-    "hash_code_list_definition_mean": "-1910222150"
+    "hash_code_list_example": "-555772382"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tomato_cb_dmean_5000_it.json",
@@ -556,18 +428,14 @@
         "id_image": "tomato_1054111"
       }
     ],
-    "hash_code_list_img": "1057260701",
-    "list_definition_mean": [
-      {
-        "mean_english": "cà chua",
-        "definition": "a type of fleshy, juicy fruit, usually red, used in salads, sauces etc",
-        "ex_of_definition_list": [
-          "We had a salad of lettuce, tomatoes and cucumbers",
-          "(also adjective) tomato sauce."
-        ]
-      }
+    "hash_code_list_img": "927724394",
+    "list_example": [
+      "(also adjective) tomato sauce.",
+      "The chapter on molecular markers in selection of tomato germplasm has been cleverly written even though markers are used in many other chapters.",
+      "This effect is caused by the generally lower chlorophyll concentrations in healthy lettuce leaves, as compared with healthy tomato and pepper plants.",
+      "In these experiments, excised tomato leaflets with petioles were used instead of leaf discs."
     ],
-    "hash_code_list_definition_mean": "926812646"
+    "hash_code_list_example": "-696276983"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tomboy_cb_dmean_5000_it.json",
@@ -585,17 +453,16 @@
         "id_image": "tomboy_1376728"
       }
     ],
-    "hash_code_list_img": "641817469",
-    "list_definition_mean": [
-      {
-        "mean_english": "cô gái tinh nghịch",
-        "definition": "a girl who likes rough games and activities",
-        "ex_of_definition_list": [
-          "She’s a real tomboy!"
-        ]
-      }
+    "hash_code_list_img": "1739258017",
+    "list_example": [
+      "She is a bit of a tomboy but loves designer clothes.",
+      "She is a tomboy and works as an assistant at a dojo.",
+      "She is a tomboy and more easy going than her older sister, which is why she prefers to hang out with the guys.",
+      "She is a lively tomboy with strong ideals of love and lawfulness.",
+      "Winsome charm is at a minimum; tomboy toughness takes over.",
+      "She has said that she used to be a tomboy and is a fan of wakeboarding, snowboarding, and soccer."
     ],
-    "hash_code_list_definition_mean": "712723256"
+    "hash_code_list_example": "-1767023120"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tomb_cb_dmean_5000_it.json",
@@ -623,17 +490,14 @@
         "id_image": "tomb_858276"
       }
     ],
-    "hash_code_list_img": "1360270893",
-    "list_definition_mean": [
-      {
-        "mean_english": "nấm mồ",
-        "definition": "a hole or vault in the ground in which a dead body is put; a grave",
-        "ex_of_definition_list": [
-          "He was buried in the family tomb."
-        ]
-      }
+    "hash_code_list_img": "-471292329",
+    "list_example": [
+      "Indeed, the tomb complexes were originally built as burial places for the family members of high officials.",
+      "However, the numerous shafts and chambers of the tomb complexes were extensively used for later burials.",
+      "He then managed to recover the offerings from this tomb intact.",
+      "The shaft tomb discovered in the structure at the southern end of the plaza could strengthen this hypothesis."
     ],
-    "hash_code_list_definition_mean": "1635131007"
+    "hash_code_list_example": "1466783127"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tomorrow_cb_dmean_5000_it.json",
@@ -657,25 +521,11 @@
         "id_image": "tomorrow_6381382"
       }
     ],
-    "hash_code_list_img": "-2032369920",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngày mai",
-        "definition": "(on) the day after today",
-        "ex_of_definition_list": [
-          "Tomorrow is Saturday",
-          "The news will be announced tomorrow."
-        ]
-      },
-      {
-        "mean_english": "tương lai",
-        "definition": "(in) the future",
-        "ex_of_definition_list": [
-          "tomorrow’s world."
-        ]
-      }
+    "hash_code_list_img": "1066515018",
+    "list_example": [
+      "In contrast, when states value future payoffs almost as much as current ones, accepting an agreement today or tomorrow does not make a big difference."
     ],
-    "hash_code_list_definition_mean": "-421349977"
+    "hash_code_list_example": "203476075"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tongue_cb_dmean_5000_it.json",
@@ -706,39 +556,12 @@
         "id_image": "tongue_599518"
       }
     ],
-    "hash_code_list_img": "-1927096434",
-    "list_definition_mean": [
-      {
-        "mean_english": "lưỡi",
-        "definition": "the fleshy organ inside the mouth, used in tasting, swallowing, speaking etc",
-        "ex_of_definition_list": [
-          "The doctor looked at her tongue."
-        ]
-      },
-      {
-        "mean_english": "lưỡi động vật…làm thức ăn",
-        "definition": "the tongue of an animal used as food",
-        "ex_of_definition_list": [
-          "ox tongue."
-        ]
-      },
-      {
-        "mean_english": "có hình cái lưỡi",
-        "definition": "something with the same shape as a tongue",
-        "ex_of_definition_list": [
-          "a tongue of flame."
-        ]
-      },
-      {
-        "mean_english": "một ngôn ngữ",
-        "definition": "a language",
-        "ex_of_definition_list": [
-          "English is his mother tongue / native tongue",
-          "a foreign tongue."
-        ]
-      }
+    "hash_code_list_img": "593484211",
+    "list_example": [
+      "a tongue of flame.",
+      "English is his mother tongue / native tongue"
     ],
-    "hash_code_list_definition_mean": "-1492094251"
+    "hash_code_list_example": "-1686347965"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tonic_cb_dmean_5000_it.json",
@@ -757,24 +580,17 @@
         "id_image": "tonic_2405489"
       }
     ],
-    "hash_code_list_img": "1025206325",
-    "list_definition_mean": [
-      {
-        "mean_english": "nước khoáng vị quin",
-        "definition": "(also tonic-water) water containing quinine, often drunk with gin etc",
-        "ex_of_definition_list": [
-          "I’d like a gin and tonic."
-        ]
-      },
-      {
-        "mean_english": "thuốc bổ",
-        "definition": "(a) medicine that gives strength or energy",
-        "ex_of_definition_list": [
-          "The doctor prescribed a (bottle of) tonic."
-        ]
-      }
+    "hash_code_list_img": "692731721",
+    "list_example": [
+      "All the signal points that are not included in the response constitute the tonic part of the skin conductance signal.",
+      "The second solo (bars 16-27) modulates back to an intermediate tonic through sequences and chromaticism, all based on the initial motive.",
+      "This is accomplished partly through the avoidance of a full tonic resolution until the closing measures of the piece.",
+      "A tonic hyperpolarization underlying contrast adaptation in cat visual cortex.",
+      "This is easily extensive enough to make the eventual breakdown of syntax after a tonic reprise deeply surprising.",
+      "The remainder is given over to a single tonic butterfly in which the second note is displaced downwards by two octaves.",
+      "Second, for geniculate cells, tonic firing predominated under both conditions, although more bursting was seen during sleep."
     ],
-    "hash_code_list_definition_mean": "-1203416690"
+    "hash_code_list_example": "-450411726"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tool_cb_dmean_5000_it.json",
@@ -812,19 +628,13 @@
         "id_image": "tool_966734"
       }
     ],
-    "hash_code_list_img": "1925432522",
-    "list_definition_mean": [
-      {
-        "mean_english": "công cụ",
-        "definition": "an instrument for doing work, especially by hand",
-        "ex_of_definition_list": [
-          "hammers, saws and other tools",
-          "the tools of his trade",
-          "Advertising is a powerful tool."
-        ]
-      }
+    "hash_code_list_img": "-1202229096",
+    "list_example": [
+      "hammers, saws and other tools",
+      "the tools of his trade",
+      "Advertising is a powerful tool."
     ],
-    "hash_code_list_definition_mean": "1351115786"
+    "hash_code_list_example": "-1782578446"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/toothache_cb_dmean_5000_it.json",
@@ -852,17 +662,12 @@
         "id_image": "toothache_2332845"
       }
     ],
-    "hash_code_list_img": "11350132",
-    "list_definition_mean": [
-      {
-        "mean_english": "đau răng",
-        "definition": "a pain in a tooth",
-        "ex_of_definition_list": [
-          "He has / is suffering from toothache."
-        ]
-      }
+    "hash_code_list_img": "1221394823",
+    "list_example": [
+      "I was talking to a village woman not long ago who complained bitterly of severe toothache from a decayed tooth.",
+      "Then dentists are very necessary, because curing a toothache is more important than the headache which the lawyers are likely to give us."
     ],
-    "hash_code_list_definition_mean": "536655066"
+    "hash_code_list_example": "1954892221"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/toothpaste_cb_dmean_5000_it.json",
@@ -890,17 +695,13 @@
         "id_image": "toothpaste_223999"
       }
     ],
-    "hash_code_list_img": "2035130471",
-    "list_definition_mean": [
-      {
-        "mean_english": "kem đánh răng",
-        "definition": "a kind of paste used to clean the teeth",
-        "ex_of_definition_list": [
-          "a tube of toothpaste."
-        ]
-      }
+    "hash_code_list_img": "-240221913",
+    "list_example": [
+      "A fascinating reason for that is that children use fluoride toothpaste and do not spit it out.",
+      "This is not simply a matter of buying bread and milk and toothpaste and getting repairs carried out to a car.",
+      "The site was, literally, a tip, made up of squashed toothpaste tubes."
     ],
-    "hash_code_list_definition_mean": "893083045"
+    "hash_code_list_example": "1874504232"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tooth_cb_dmean_5000_it.json",
@@ -924,24 +725,11 @@
         "id_image": "tooth_286559"
       }
     ],
-    "hash_code_list_img": "-79404900",
-    "list_definition_mean": [
-      {
-        "mean_english": "răng",
-        "definition": "any of the hard, bone-like objects that grow in the mouth and are used for biting and chewing",
-        "ex_of_definition_list": [
-          "He has had a tooth out at the dentist’s."
-        ]
-      },
-      {
-        "mean_english": "răng (lược)",
-        "definition": "something that looks or acts like a tooth",
-        "ex_of_definition_list": [
-          "the teeth of a comb/saw."
-        ]
-      }
+    "hash_code_list_img": "1585865109",
+    "list_example": [
+      "He has had a tooth out at the dentist’s."
     ],
-    "hash_code_list_definition_mean": "-311754075"
+    "hash_code_list_example": "216086565"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/topic_cb_dmean_5000_it.json",
@@ -964,17 +752,15 @@
         "id_image": "topic_5983898"
       }
     ],
-    "hash_code_list_img": "-1417068480",
-    "list_definition_mean": [
-      {
-        "mean_english": "chủ đề",
-        "definition": "something spoken or written about; a subject",
-        "ex_of_definition_list": [
-          "They discussed the weather and other topics."
-        ]
-      }
+    "hash_code_list_img": "2071200111",
+    "list_example": [
+      "The topic of spindle-whorl classification and use has received considerable attention.",
+      "At a particular \"real\" moment, will doctor, nurse, patient, and family agree to what had been planned when the topic was \"theoretical\"?",
+      "The book is valuable to undergraduate students, but it can also be a quick refresher on the topic for some graduate students.",
+      "It remains a topic for future research how this model will apply to other languages.",
+      "Embodiment, a topic which returns throughout the book, is discussed first."
     ],
-    "hash_code_list_definition_mean": "604672113"
+    "hash_code_list_example": "-1323647480"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/topography_cb_dmean_5000_it.json",
@@ -1003,17 +789,16 @@
         "id_image": "topography_992288"
       }
     ],
-    "hash_code_list_img": "-288244083",
-    "list_definition_mean": [
-      {
-        "mean_english": "địa hình",
-        "definition": "the physical features of an area of land, such as mountains, rivers, and roads",
-        "ex_of_definition_list": [
-          "the topography of the island/region."
-        ]
-      }
+    "hash_code_list_img": "689656842",
+    "list_example": [
+      "the topography of the island/region.",
+      "The latter may account for the irregular topography of the clusters.",
+      "The crust-mantle boundary shows an undulating topography which correlates with the main tectonic features of the area.",
+      "This constrained the locations of the dipoles to a realistic topography based on individual participant data.",
+      "A topography with similar scales in both the downstream and the cross-stream directions is potentially more relevant to geophysical problems.",
+      "Further, only topography that has zero zonal average and vanishes on side walls will be considered."
     ],
-    "hash_code_list_definition_mean": "926825931"
+    "hash_code_list_example": "624991533"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/top_cb_dmean_5000_it.json",
@@ -1060,75 +845,18 @@
         "id_image": "top_941254"
       }
     ],
-    "hash_code_list_img": "-1689080059",
-    "list_definition_mean": [
-      {
-        "mean_english": "phần cao nhất",
-        "definition": "the highest part of anything",
-        "ex_of_definition_list": [
-          "the top of the hill",
-          "the top of her head."
-        ]
-      },
-      {
-        "mean_english": "vị trí số 1 trong lớp",
-        "definition": "the position of the cleverest in a class etc",
-        "ex_of_definition_list": [
-          "He’s at the top of the class."
-        ]
-      },
-      {
-        "mean_english": "mặt trên",
-        "definition": "the upper surface",
-        "ex_of_definition_list": [
-          "the table-top."
-        ]
-      },
-      {
-        "mean_english": "cái nắp",
-        "definition": "a lid",
-        "ex_of_definition_list": [
-          "I’ve lost the top to this jar",
-          "a bottle-top."
-        ]
-      },
-      {
-        "mean_english": "áo lót của phụ nữ",
-        "definition": "a (woman’s) garment for the upper half of the body; a blouse, sweater etc",
-        "ex_of_definition_list": [
-          "I bought a new skirt and top."
-        ]
-      },
-      {
-        "mean_english": "học giỏi nhất lớp",
-        "definition": "having gained the most marks, points etc, eg in a school class",
-        "ex_of_definition_list": [
-          "He’s top (of the class) again."
-        ]
-      },
-      {
-        "mean_english": "phủ lên bề mặt",
-        "definition": "to cover on the top",
-        "ex_of_definition_list": [
-          "She topped the cake with cream."
-        ]
-      },
-      {
-        "mean_english": "vượt qua mức",
-        "definition": "to rise above; to surpass",
-        "ex_of_definition_list": [
-          "Our exports have topped $100,000."
-        ]
-      },
-      {
-        "mean_english": "di chuyển đỉnh",
-        "definition": "to remove the top of",
-        "ex_of_definition_list": [
-          "Top and tail the beans."
-        ]
-      }
+    "hash_code_list_img": "-627971101",
+    "list_example": [
+      "the top of the hill",
+      "the top of her head.",
+      "He’s at the top of the class.",
+      "I’ve lost the top to this jar",
+      "He’s top (of the class) again.",
+      "When fused the top pyramid will appear to protrude as shading and disparity are in concert.",
+      "Any patch of positive symbols is forced to be surrounded by on the top and bottom and on the left and right.",
+      "Furthermore, since the bottom, front and top squares are pullbacks, the back square is also a pullback."
     ],
-    "hash_code_list_definition_mean": "448938415"
+    "hash_code_list_example": "1298832967"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/torch_cb_dmean_5000_it.json",
@@ -1152,24 +880,11 @@
         "id_image": "torch_6193968"
       }
     ],
-    "hash_code_list_img": "-1437785648",
-    "list_definition_mean": [
-      {
-        "mean_english": "đèn pin",
-        "definition": "a small portable light worked by an electric battery; flashlight( American)",
-        "ex_of_definition_list": [
-          "He shone his torch into her face."
-        ]
-      },
-      {
-        "mean_english": "ngọn đuốc",
-        "definition": "a piece of wood etc set on fire and carried as a light",
-        "ex_of_definition_list": [
-          "the Olympic torch."
-        ]
-      }
+    "hash_code_list_img": "-1434726829",
+    "list_example": [
+      "He shone his torch into her face."
     ],
-    "hash_code_list_definition_mean": "801620543"
+    "hash_code_list_example": "1651969065"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tornado_cb_dmean_5000_it.json",
@@ -1197,17 +912,11 @@
         "id_image": "tornado_5493308"
       }
     ],
-    "hash_code_list_img": "1895899254",
-    "list_definition_mean": [
-      {
-        "mean_english": "bão táp",
-        "definition": "a violent whirlwind that can cause great damage",
-        "ex_of_definition_list": [
-          "The village was destroyed by a tornado."
-        ]
-      }
+    "hash_code_list_img": "-1987632155",
+    "list_example": [
+      "Who would have thought that there would be a tornado a few weeks ago?"
     ],
-    "hash_code_list_definition_mean": "929787292"
+    "hash_code_list_example": "-759846090"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/torpedo_cb_dmean_5000_it.json",
@@ -1236,24 +945,12 @@
         "id_image": "torpedo_3191019"
       }
     ],
-    "hash_code_list_img": "-110601201",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngư lôi",
-        "definition": "an underwater missile fired at ships",
-        "ex_of_definition_list": [
-          "an enemy torpedo."
-        ]
-      },
-      {
-        "mean_english": "đánh ngư lôi",
-        "definition": "to attack, damage or destroy with torpedoes",
-        "ex_of_definition_list": [
-          "The ship was torpedoed."
-        ]
-      }
+    "hash_code_list_img": "-146123950",
+    "list_example": [
+      "an enemy torpedo.",
+      "The ship was torpedoed."
     ],
-    "hash_code_list_definition_mean": "600842840"
+    "hash_code_list_example": "1544221891"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/torrent_cb_dmean_5000_it.json",
@@ -1271,18 +968,11 @@
         "id_image": "torrent_2800123"
       }
     ],
-    "hash_code_list_img": "1318807242",
-    "list_definition_mean": [
-      {
-        "mean_english": "dòng nước chảy xiết",
-        "definition": "a rushing stream",
-        "ex_of_definition_list": [
-          "The rain fell in torrents",
-          "She attacked him with a torrent of abuse."
-        ]
-      }
+    "hash_code_list_img": "126819656",
+    "list_example": [
+      "She attacked him with a torrent of abuse."
     ],
-    "hash_code_list_definition_mean": "1266013791"
+    "hash_code_list_example": "-1400016540"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/torso_cb_dmean_5000_it.json",
@@ -1300,17 +990,15 @@
         "id_image": "torso_2738709"
       }
     ],
-    "hash_code_list_img": "662863936",
-    "list_definition_mean": [
-      {
-        "mean_english": "thân mình",
-        "definition": "the body, excluding the head and limbs",
-        "ex_of_definition_list": [
-          "He had a strong torso."
-        ]
-      }
+    "hash_code_list_img": "1992840356",
+    "list_example": [
+      "The goal is to stabilize the torso while lower body follows a desired walking profile.",
+      "The method relies on simulating the filtering effects of the listener's pinna, head and torso by digital filters.",
+      "Namely, the camera is fixed at the robot torso and the image rotates with robot inclination and the torso angle.",
+      "The effects have to be compensated by the movement of the torso masses.",
+      "The manual system consists of two anatomically symmetrical but functionally asymmetrical multijoint limbs arrayed in a signing space centered on the torso and the face."
     ],
-    "hash_code_list_definition_mean": "1395339875"
+    "hash_code_list_example": "1824608251"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/toss_cb_dmean_5000_it.json",
@@ -1332,45 +1020,13 @@
         "id_image": "toss_5488509"
       }
     ],
-    "hash_code_list_img": "665639366",
-    "list_definition_mean": [
-      {
-        "mean_english": "tung",
-        "definition": "to throw into or through the air",
-        "ex_of_definition_list": [
-          "She tossed the ball up into the air."
-        ]
-      },
-      {
-        "mean_english": "trằn trọc",
-        "definition": "(often with about) to throw oneself restlessly from side to side",
-        "ex_of_definition_list": [
-          "She tossed about all night, unable to sleep."
-        ]
-      },
-      {
-        "mean_english": "chao đảo",
-        "definition": "(of a ship) to be thrown about",
-        "ex_of_definition_list": [
-          "The boat tossed wildly in the rough sea."
-        ]
-      },
-      {
-        "mean_english": "tung đồng xu để đi đến phán xét",
-        "definition": "to throw (a coin) into the air and decide a matter according to (a correct guess about) which side falls uppermost",
-        "ex_of_definition_list": [
-          "They tossed a coin to decide which of them should go first."
-        ]
-      },
-      {
-        "mean_english": "sự tung",
-        "definition": "an act of tossing",
-        "ex_of_definition_list": [
-          "The matter would be decided by the toss of a coin."
-        ]
-      }
+    "hash_code_list_img": "1697202790",
+    "list_example": [
+      "The matter would be decided by the toss of a coin.",
+      "An example of such an action with an unpredictable outcome is the toss of a coin.",
+      "They might well toss a coin to decide which trail they hike together."
     ],
-    "hash_code_list_definition_mean": "1239780938"
+    "hash_code_list_example": "197200752"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/touch_cb_dmean_5000_it.json",
@@ -1406,75 +1062,16 @@
         "id_image": "touch_5772919"
       }
     ],
-    "hash_code_list_img": "2031151633",
-    "list_definition_mean": [
-      {
-        "mean_english": "chạm",
-        "definition": "to be in, come into, or make, contact with something else",
-        "ex_of_definition_list": [
-          "Their shoulders touched",
-          "He touched the water with his foot."
-        ]
-      },
-      {
-        "mean_english": "sờ",
-        "definition": "to feel (lightly) with the hand",
-        "ex_of_definition_list": [
-          "He touched her cheek."
-        ]
-      },
-      {
-        "mean_english": "gây cảm động",
-        "definition": "to affect the feelings of; to make (someone) feel pity, sympathy etc",
-        "ex_of_definition_list": [
-          "I was touched by her generosity."
-        ]
-      },
-      {
-        "mean_english": "làm, thích",
-        "definition": "to be concerned with; to have anything to do with",
-        "ex_of_definition_list": [
-          "I wouldn’t touch a job like that."
-        ]
-      },
-      {
-        "mean_english": "sự chạm",
-        "definition": "an act or sensation of touching",
-        "ex_of_definition_list": [
-          "I felt a touch on my shoulder."
-        ]
-      },
-      {
-        "mean_english": "xúc giác",
-        "definition": "(often with the) one of the five senses, the sense by which we feel things",
-        "ex_of_definition_list": [
-          "the sense of touch",
-          "The stone felt cold to the touch."
-        ]
-      },
-      {
-        "mean_english": "nét vẽ",
-        "definition": "a mark or stroke etc to improve the appearance of something",
-        "ex_of_definition_list": [
-          "The painting still needs a few finishing touches."
-        ]
-      },
-      {
-        "mean_english": "kỹ năng, kiểu dáng",
-        "definition": "skill or style",
-        "ex_of_definition_list": [
-          "He hasn’t lost his touch as a writer."
-        ]
-      },
-      {
-        "mean_english": "biên",
-        "definition": "(in football) the ground outside the edges of the pitch (which are marked out with touchlines)",
-        "ex_of_definition_list": [
-          "He kicked the ball into touch."
-        ]
-      }
+    "hash_code_list_img": "516259951",
+    "list_example": [
+      "I wouldn’t touch a job like that.",
+      "I felt a touch on my shoulder.",
+      "He hasn’t lost his touch as a writer.",
+      "Older, experienced clinicians often view guidelines as a set of directives issued by panels composed of physicians who are out of touch with real patients.",
+      "In eighty-four pages he manages to touch on every crucial point surrounding this quarrel.",
+      "In any case, there is a touch of arrogance to the view that a visiting scholar sees ' rationality ' where no one else sees it."
     ],
-    "hash_code_list_definition_mean": "1685423869"
+    "hash_code_list_example": "1729563643"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tourism_cb_dmean_5000_it.json",
@@ -1502,17 +1099,17 @@
         "id_image": "tourism_5965689"
       }
     ],
-    "hash_code_list_img": "-843603890",
-    "list_definition_mean": [
-      {
-        "mean_english": "du lịch",
-        "definition": "the industry dealing with tourists ie hotels, catering etc",
-        "ex_of_definition_list": [
-          "Tourism is an important part of our economy."
-        ]
-      }
+    "hash_code_list_img": "1761843265",
+    "list_example": [
+      "Moreover, tourism goes beyond the usual questions of political economy.",
+      "The second is indirect supply, which involves preservation and cultivation of the landscape which acts as a backdrop or tourism resource.",
+      "In the transport sub-sector, tourism is responsible for 90 per cent of the spending.",
+      "Large independent expeditions, for example, may at times operate in a mode similar to adventure tourism but are distinguished from the latter by different motives.",
+      "These foundations established airline companies, construction and rubber processing businesses, hotels, and were involved in tourism and fisheries.",
+      "The same trends caused the emergence of ' something like organized tourism ' within the colonies after 1763.",
+      "Instead, they suggest that nature-based tourism experiences should be thought of as extraordinary experiences and not as an environmental education tool that promulgates conservation."
     ],
-    "hash_code_list_definition_mean": "1114935160"
+    "hash_code_list_example": "352202187"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tourist_cb_dmean_5000_it.json",
@@ -1540,18 +1137,11 @@
         "id_image": "tourist_5406483"
       }
     ],
-    "hash_code_list_img": "-788001705",
-    "list_definition_mean": [
-      {
-        "mean_english": "khách du lịch",
-        "definition": "a person who travels for pleasure",
-        "ex_of_definition_list": [
-          "London is usually full of tourists",
-          "(also adjective) the tourist industry."
-        ]
-      }
+    "hash_code_list_img": "-1321452258",
+    "list_example": [
+      "(also adjective) the tourist industry."
     ],
-    "hash_code_list_definition_mean": "1854289032"
+    "hash_code_list_example": "517233443"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tournament_cb_dmean_5000_it.json",
@@ -1589,17 +1179,15 @@
         "id_image": "tournament_5492479"
       }
     ],
-    "hash_code_list_img": "517404225",
-    "list_definition_mean": [
-      {
-        "mean_english": "giải đấu",
-        "definition": "a competition in which many players compete in many separate games",
-        "ex_of_definition_list": [
-          "I’m playing in the tennis tournament."
-        ]
-      }
+    "hash_code_list_img": "508422226",
+    "list_example": [
+      "Because tournament selection is used as the selection operator, the normalization term can be an arbitrary positive number.",
+      "A set of rules of agents born at time t is generated using reproduction (tournament selection), crossover, mutation, and election.",
+      "Note that this is e1/2 more than the average for a random tournament which is not necessarily regular.",
+      "The genetic algorithm selection tournament was conducted anew, followed by another application of the crossover and mutation operators on the winners.",
+      "The argument is slightly more involved than ours, but the bound on the minimum feedback arc set in the bipartite tournament is much stronger."
     ],
-    "hash_code_list_definition_mean": "115457354"
+    "hash_code_list_example": "-1355940310"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tour_cb_dmean_5000_it.json",
@@ -1640,38 +1228,16 @@
         "id_image": "tour_827056"
       }
     ],
-    "hash_code_list_img": "341106230",
-    "list_definition_mean": [
-      {
-        "mean_english": "chuyến đi",
-        "definition": "a journey to several places and back",
-        "ex_of_definition_list": [
-          "They went on a tour of Italy."
-        ]
-      },
-      {
-        "mean_english": "chuyến đi thăm",
-        "definition": "a visit around a particular place",
-        "ex_of_definition_list": [
-          "He took us on a tour of the house and gardens."
-        ]
-      },
-      {
-        "mean_english": "chuyến công tác",
-        "definition": "an official period of time of work usually abroad",
-        "ex_of_definition_list": [
-          "He did a tour of duty in Fiji."
-        ]
-      },
-      {
-        "mean_english": "đi thăm",
-        "definition": "to go on a tour (around)",
-        "ex_of_definition_list": [
-          "Their intention is to tour Europe by motorbike."
-        ]
-      }
+    "hash_code_list_img": "-1052663066",
+    "list_example": [
+      "They went on a tour of Italy.",
+      "He took us on a tour of the house and gardens.",
+      "He did a tour of duty in Fiji.",
+      "Their intention is to tour Europe by motorbike.",
+      "The three of us made a tour of futures exchanges and other risk management companies to try to get markets for real estate risk started.",
+      "One can, however, be more systematic about the individual tour in which a new customer has just been inserted."
     ],
-    "hash_code_list_definition_mean": "47983808"
+    "hash_code_list_example": "-667723857"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/towel_cb_dmean_5000_it.json",
@@ -1695,25 +1261,21 @@
         "id_image": "towel_167942"
       }
     ],
-    "hash_code_list_img": "1476590727",
-    "list_definition_mean": [
-      {
-        "mean_english": "khăn",
-        "definition": "a piece of any of several types of absorbent cloth or paper for drying oneself, dishes etc after washing etc",
-        "ex_of_definition_list": [
-          "After her swim, she dried herself with a towel",
-          "a roll of paper kitchen towels."
-        ]
-      },
-      {
-        "mean_english": "lau khô",
-        "definition": "to rub with a towel",
-        "ex_of_definition_list": [
-          "She was busy toweling herself dry."
-        ]
-      }
+    "hash_code_list_img": "-1279203047",
+    "list_example": [
+      "After her swim, she dried herself with a towel",
+      "a roll of paper kitchen towels.",
+      "She was busy toweling herself dry.",
+      "I would certainly wish him a series of very cool wet towels to wrap round his head when he is doing this series of sums.",
+      "I have to cover my face with paper towels and run through to my office.",
+      "There are questions such as the sizing of blankets and towels and sheets.",
+      "The number of coupons needed for towels has just been halved in order to allow more for everybody.",
+      "I am having inquiries made about the suggestion that medium and large sized towels are more difficult to obtain than the smaller ones.",
+      "The provision made here is for clean towels and soap.",
+      "Their families would have to bring in the grub and possibly towels, soap and everthing else.",
+      "Is this company going to get its towels?"
     ],
-    "hash_code_list_definition_mean": "662548266"
+    "hash_code_list_example": "-1480396966"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tower_cb_dmean_5000_it.json",
@@ -1742,25 +1304,20 @@
         "id_image": "tower_5559362"
       }
     ],
-    "hash_code_list_img": "-161643198",
-    "list_definition_mean": [
-      {
-        "mean_english": "tháp",
-        "definition": "a tall, narrow (part of a) building, especially (of) a castle",
-        "ex_of_definition_list": [
-          "the Tower of London",
-          "a church tower."
-        ]
-      },
-      {
-        "mean_english": "nâng cao",
-        "definition": "to rise high",
-        "ex_of_definition_list": [
-          "She is so small that he towers above her."
-        ]
-      }
+    "hash_code_list_img": "1018480832",
+    "list_example": [
+      "a church tower.",
+      "She is so small that he towers above her.",
+      "Four of 25 patients worked in factories where cooling towers were identified as the source of infection.",
+      "Architects should read it to see what wind towers do and what they can look like.",
+      "Turrets at the four corners of the pavilion towers are similarly important parts of the ventilation system.",
+      "In our situation, such a subdivision will automatically be achieved by the way we construct the towers.",
+      "The city has a busy waterfront, office towers, streets lined with shops and entertainment and a public transportation system that ties the city together.",
+      "The chapter opens with quotes and images about towers that soar skywards but which function as anchors, reminding people of their most profound cultural base.",
+      "Every effort must be made to lend enchantment to towers by night.",
+      "Even the ivory towers of academia were affected."
     ],
-    "hash_code_list_definition_mean": "2045786041"
+    "hash_code_list_example": "1128258655"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/town_cb_dmean_5000_it.json",
@@ -1780,32 +1337,13 @@
         "id_image": "town_804558"
       }
     ],
-    "hash_code_list_img": "1376474267",
-    "list_definition_mean": [
-      {
-        "mean_english": "thị trấn, thị xã",
-        "definition": "a group of houses, shops, schools etc, that is bigger than a village but smaller than a city",
-        "ex_of_definition_list": [
-          "I’m going into town to buy a dress",
-          "He’s in town doing some shopping."
-        ]
-      },
-      {
-        "mean_english": "cư dân của thị trấn thị xã",
-        "definition": "the people who live in such a group of houses etc",
-        "ex_of_definition_list": [
-          "The whole town turned out to greet the returning soldiers."
-        ]
-      },
-      {
-        "mean_english": "thành thị",
-        "definition": "towns in general as opposed to the countryside",
-        "ex_of_definition_list": [
-          "Do you live in the country or the town?"
-        ]
-      }
+    "hash_code_list_img": "1546125502",
+    "list_example": [
+      "I’m going into town to buy a dress",
+      "He’s in town doing some shopping.",
+      "The whole town turned out to greet the returning soldiers."
     ],
-    "hash_code_list_definition_mean": "-1893331528"
+    "hash_code_list_example": "1561362132"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tow_cb_dmean_5000_it.json",
@@ -1834,25 +1372,13 @@
         "id_image": "tow_648716"
       }
     ],
-    "hash_code_list_img": "808703040",
-    "list_definition_mean": [
-      {
-        "mean_english": "kéo đi",
-        "definition": "to pull (a ship, barge, car, trailer etc) by a rope, chain or cable",
-        "ex_of_definition_list": [
-          "The tugboat towed the ship out of the harbour",
-          "The car broke down and had to be towed to the garage."
-        ]
-      },
-      {
-        "mean_english": "sự kéo đi",
-        "definition": "(an) act of towing or process of being towed",
-        "ex_of_definition_list": [
-          "We asked one of the neighbours to give us a tow."
-        ]
-      }
+    "hash_code_list_img": "-1285869589",
+    "list_example": [
+      "In the ranges of the four controllable variables where the volume approaches capacity, average tow delays are large and change much faster than elsewhere.",
+      "For instance, the absolute percentage prediction error for the observation whose average tow delay is approximately 0.00015 min is roughly 50,000%.",
+      "To tow the trolley, a cable and drum system was geared to a constant speed induction motor."
     ],
-    "hash_code_list_definition_mean": "-675978942"
+    "hash_code_list_example": "1387129472"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/toxic_cb_dmean_5000_it.json",
@@ -1880,17 +1406,18 @@
         "id_image": "toxic_4657983"
       }
     ],
-    "hash_code_list_img": "-591931400",
-    "list_definition_mean": [
-      {
-        "mean_english": "độc",
-        "definition": "poisonous",
-        "ex_of_definition_list": [
-          "toxic substances."
-        ]
-      }
+    "hash_code_list_img": "1270160315",
+    "list_example": [
+      "toxic substances.",
+      "Both minor and major toxic events produced a one-time cost increase and quality-of-life reduction.",
+      "The table presents the number of adults of each genotype emerging from toxic and control treatments.",
+      "A counter-argument to this hypothesis is that what is toxic to mammals is not necessarily toxic to invertebrates.",
+      "In addition, reconstituted samples are often toxic for cells, which makes these samples unsuitable for virus neutralization assays.",
+      "Post-mortem evidence of a diffuse toxic or infectious process is pleural effusions, soft tissue oedema and necrosis at the injection site.",
+      "Investigations of behavioural toxicity are considered together with their implications for further improvement of behavioural methods for the early detection of toxic effects of pollutants.",
+      "In addition, there is the ever-present risk of unintentional exposures of populations to toxic chemicals and pathogens through industrial accidents and food contamination."
     ],
-    "hash_code_list_definition_mean": "1852316762"
+    "hash_code_list_example": "-836837619"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/toxin_cb_dmean_5000_it.json",
@@ -1913,17 +1440,12 @@
         "id_image": "toxin_4155953"
       }
     ],
-    "hash_code_list_img": "634891320",
-    "list_definition_mean": [
-      {
-        "mean_english": "độc tố",
-        "definition": "a poisonous substance of plant or animal origin, especially one produced by bacteria that causes disease",
-        "ex_of_definition_list": [
-          "Toxins in the bloodstream can cause a variety of health problems."
-        ]
-      }
+    "hash_code_list_img": "1849267426",
+    "list_example": [
+      "It is usually better to aim for incomplete but acceptable benefit than to attempt absolute control that requires excessive toxin use (see below).",
+      "Effect of tetrodotoxin (puffer fish toxin) on the central nervous system."
     ],
-    "hash_code_list_definition_mean": "585691243"
+    "hash_code_list_example": "-193679493"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/toy_cb_dmean_5000_it.json",
@@ -1952,25 +1474,13 @@
         "id_image": "toy_4632480"
       }
     ],
-    "hash_code_list_img": "486456794",
-    "list_definition_mean": [
-      {
-        "mean_english": "đồ chơi",
-        "definition": "an object made for a child to play with",
-        "ex_of_definition_list": [
-          "He got lots of toys for Christmas",
-          "(also adjective) a toy soldier."
-        ]
-      },
-      {
-        "mean_english": "đùa nghịch",
-        "definition": "(with with) to play with in an idle way",
-        "ex_of_definition_list": [
-          "He wasn’t hungry and sat toying with his food."
-        ]
-      }
+    "hash_code_list_img": "2001525831",
+    "list_example": [
+      "(also adjective) a toy soldier.",
+      "Furthermore, children manifested a marked increase in pretend-play with toy objects that were replicas of real objects specifically designed to stand for other objects.",
+      "Which toy did the boy break the brand new window with in the afternoon?"
     ],
-    "hash_code_list_definition_mean": "-1962012500"
+    "hash_code_list_example": "482779802"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/trace_cb_dmean_5000_it.json",
@@ -2006,40 +1516,15 @@
         "id_image": "trace_593528"
       }
     ],
-    "hash_code_list_img": "-1000335080",
-    "list_definition_mean": [
-      {
-        "mean_english": "dấu tích",
-        "definition": "a mark or sign left by something",
-        "ex_of_definition_list": [
-          "There were traces of egg on the plate",
-          "There’s still no trace of the missing child."
-        ]
-      },
-      {
-        "mean_english": "một chút",
-        "definition": "a small amount",
-        "ex_of_definition_list": [
-          "Traces of poison were found in the cup."
-        ]
-      },
-      {
-        "mean_english": "truy tìm",
-        "definition": "to follow or discover by means of clues, evidence etc",
-        "ex_of_definition_list": [
-          "The police have traced him to London",
-          "The source of the infection has not yet been traced."
-        ]
-      },
-      {
-        "mean_english": "vẽ can, đồ lại",
-        "definition": "to make a copy of (a picture etc) by putting transparent paper over it and drawing the outline etc",
-        "ex_of_definition_list": [
-          "I traced the map."
-        ]
-      }
+    "hash_code_list_img": "-166426497",
+    "list_example": [
+      "There’s still no trace of the missing child.",
+      "Further, where deaths are recorded without precision, we do not always find a trace of these in the death register.",
+      "Indeed, we can, in fact, confidently trace hyper-rhoticity back to at least the eighteenth century.",
+      "The partial beam divergence values, one can calculate from the present geometry (distance of the source to the detector), and trace the spread.",
+      "Analytical precision is better than 0.5 % for major elements and 5 % for trace elements."
     ],
-    "hash_code_list_definition_mean": "-521239302"
+    "hash_code_list_example": "-1423929660"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/trachea_cb_dmean_5000_it.json",
@@ -2057,17 +1542,14 @@
         "id_image": "trachea_655303"
       }
     ],
-    "hash_code_list_img": "2091150030",
-    "list_definition_mean": [
-      {
-        "mean_english": "khí quản",
-        "definition": "the tube at the back of the throat that carries air to the lungs; windpipe",
-        "ex_of_definition_list": [
-          "cancer of the trachea."
-        ]
-      }
+    "hash_code_list_img": "1720303395",
+    "list_example": [
+      "The trachea was canulated, and the left and right superficial subcutaneous forearm veins canulated.",
+      "Subtracting heart volumes from thorax volume overestimates lung volume, since other organs (thymus, vessels, trachea and oesophagus) are included.",
+      "This uncommon abnormality can give rise to symptoms due to compression of the trachea and esophagus.",
+      "A femoral vein and the trachea were cannulated."
     ],
-    "hash_code_list_definition_mean": "274541638"
+    "hash_code_list_example": "1719490580"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/track_cb_dmean_5000_it.json",
@@ -2104,46 +1586,16 @@
         "id_image": "track_684456"
       }
     ],
-    "hash_code_list_img": "2073450940",
-    "list_definition_mean": [
-      {
-        "mean_english": "dấu vết",
-        "definition": "a mark left, especially a footprint etc",
-        "ex_of_definition_list": [
-          "They followed the lion’s tracks."
-        ]
-      },
-      {
-        "mean_english": "đường mòn",
-        "definition": "a path or rough road",
-        "ex_of_definition_list": [
-          "a mountain track."
-        ]
-      },
-      {
-        "mean_english": "đường đua",
-        "definition": "(also racetrack) a course on which runners, cyclists etc race",
-        "ex_of_definition_list": [
-          "a running track",
-          "(also adjective) the 100 metres sprint and other track events."
-        ]
-      },
-      {
-        "mean_english": "đường xe lửa",
-        "definition": "a railway/railroad line",
-        "ex_of_definition_list": [
-          "A train was coming down the track."
-        ]
-      },
-      {
-        "mean_english": "tìm theo dấu vết",
-        "definition": "to follow (eg an animal) by the marks, footprints etc that it has left",
-        "ex_of_definition_list": [
-          "They tracked the wolf to its lair."
-        ]
-      }
+    "hash_code_list_img": "-435853712",
+    "list_example": [
+      "(also adjective) the 100 metres sprint and other track events.",
+      "In many applications, including image processing and computer vision, we need to track quantities that are defined on the surfaces.",
+      "Instead, education is needed so that public fears track the real risks, and people worry about only what they ought to be worried about.",
+      "By locating and following foragers rather than using baits, we were able to track the normal home ranges of the ants.",
+      "This attitude of ours is a form of \"scientism\" we think licensed by the track record of the scientific disciplines and institutions.",
+      "Such simulations could be used to track the course of the speaker's turn, predict when that turn will end, and so on."
     ],
-    "hash_code_list_definition_mean": "-650204396"
+    "hash_code_list_example": "-1149329987"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tractor_cb_dmean_5000_it.json",
@@ -2171,17 +1623,14 @@
         "id_image": "tractor_757008"
       }
     ],
-    "hash_code_list_img": "-635258970",
-    "list_definition_mean": [
-      {
-        "mean_english": "máy kéo",
-        "definition": "a motor vehicle for pulling especially agricultural machinery",
-        "ex_of_definition_list": [
-          "I can drive a tractor."
-        ]
-      }
+    "hash_code_list_img": "-1130942540",
+    "list_example": [
+      "When logging themselves, farmers generally used a farm tractor to yard harvested wood.",
+      "Beside some yield gains, controlled traffic benefits the no-till system by restricting soil compaction to narrow tractor track zones.",
+      "This paper will focus on grass-clover leys for biogas-based electricity and rapeseed oil as replacement for tractor diesel.",
+      "Therefore, we consider the use of cold pressed oil directly in the tractor as more in line with organic philosophy."
     ],
-    "hash_code_list_definition_mean": "287711208"
+    "hash_code_list_example": "-1727725617"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/trader_cb_dmean_5000_it.json",
@@ -2204,17 +1653,19 @@
         "id_image": "trader_4695247"
       }
     ],
-    "hash_code_list_img": "423847799",
-    "list_definition_mean": [
-      {
-        "mean_english": "thương gia",
-        "definition": "a person who trades",
-        "ex_of_definition_list": [
-          "a market trader"
-        ]
-      }
+    "hash_code_list_img": "-1010822021",
+    "list_example": [
+      "a market trader",
+      "Companies stifled adventuring traders, suppressed free trade, precluded training mariners, brought superfluous commodities into the realm, and caused inflation.",
+      "On one hand, as more informed traders take speculative positions, more information is incorporated into the prices.",
+      "Agents holding money are referred to as money traders or buyers, whereas those with production opportunities are referred to as commodity traders or sellers.",
+      "As women became more numerous and ' professional' as traders, they also became more organised.",
+      "The colonial state's policy on small traders was contradictory.",
+      "Such solutions are said to be with a bubble, given that traders' expectations necessarily matter.",
+      "Households are of two types, traders and nontraders.",
+      "The traders functioned in the context of economic risk and at times political adversity."
     ],
-    "hash_code_list_definition_mean": "418836140"
+    "hash_code_list_example": "-1983119672"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/trade_cb_dmean_5000_it.json",
@@ -2245,39 +1696,14 @@
         "id_image": "trade_6203363"
       }
     ],
-    "hash_code_list_img": "-704088167",
-    "list_definition_mean": [
-      {
-        "mean_english": "thương mại, sự buôn bán",
-        "definition": "the buying and selling of goods",
-        "ex_of_definition_list": [
-          "Japan does a lot of trade with Britain."
-        ]
-      },
-      {
-        "mean_english": "nghề nghiệp",
-        "definition": "(a) business, occupation, or job",
-        "ex_of_definition_list": [
-          "He’s in the jewellery trade."
-        ]
-      },
-      {
-        "mean_english": "kinh doanh",
-        "definition": "(often with inor with) to buy and sell",
-        "ex_of_definition_list": [
-          "They made a lot of money by trading",
-          "They trade in fruit and vegetables."
-        ]
-      },
-      {
-        "mean_english": "trao đổi",
-        "definition": "to exchange",
-        "ex_of_definition_list": [
-          "I traded my watch for a bicycle."
-        ]
-      }
+    "hash_code_list_img": "-2117139553",
+    "list_example": [
+      "Japan does a lot of trade with Britain.",
+      "They trade in fruit and vegetables.",
+      "A popular explanation holds that large green jurisdictions have been forcing their trading partners to trade or ratchet up their regulation.",
+      "As a femme sole trader, a married woman was able to trade in her own name."
     ],
-    "hash_code_list_definition_mean": "-1823392067"
+    "hash_code_list_example": "-1127605494"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/traffic_cb_dmean_5000_it.json",
@@ -2317,30 +1743,11 @@
         "id_image": "traffic_2720861"
       }
     ],
-    "hash_code_list_img": "1700676088",
-    "list_definition_mean": [
-      {
-        "mean_english": "phương tiện",
-        "definition": "vehicles, aircraft, ships etc moving about",
-        "ex_of_definition_list": [
-          "There’s a lot of traffic on the roads / on the river."
-        ]
-      },
-      {
-        "mean_english": "họat động buôn lậu",
-        "definition": "trade, especially illegal or dishonest",
-        "ex_of_definition_list": [
-          "the traffic in illegal drugs."
-        ]
-      },
-      {
-        "mean_english": "buôn lậu",
-        "definition": "to deal or trade in, especially illegally or dishonestly",
-        "ex_of_definition_list": [
-          "They were trafficking in smuggled goods."
-        ]
-      }
+    "hash_code_list_img": "1974392783",
+    "list_example": [
+      "There’s a lot of traffic on the roads / on the river.",
+      "the traffic in illegal drugs."
     ],
-    "hash_code_list_definition_mean": "353831268"
+    "hash_code_list_example": "879799247"
   }
 ]

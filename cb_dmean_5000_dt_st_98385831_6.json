@@ -32,32 +32,13 @@
         "id_image": "lecture_5299764"
       }
     ],
-    "hash_code_list_img": "573480218",
-    "list_definition_mean": [
-      {
-        "mean_english": "bài giảng",
-        "definition": "a formal talk given to students or other audiences",
-        "ex_of_definition_list": [
-          "a history lecture."
-        ]
-      },
-      {
-        "mean_english": "bài thuyết trình",
-        "definition": "a long and boring or irritating speech, warning or scolding",
-        "ex_of_definition_list": [
-          "The teacher gave the children a lecture for running in the corridor."
-        ]
-      },
-      {
-        "mean_english": "giảng bài",
-        "definition": "to give a lecture",
-        "ex_of_definition_list": [
-          "He lectures on Roman Art",
-          "She lectured him on good behaviour."
-        ]
-      }
+    "hash_code_list_img": "-130583259",
+    "list_example": [
+      "The teacher gave the children a lecture for running in the corridor.",
+      "She might advise younger writers, prepare revised editions of her books, lecture at university campuses, and so forth.",
+      "A significant difference is also found between lecture listening and post-lecture listening and between postlecture listening and the pre-test."
     ],
-    "hash_code_list_definition_mean": "914586323"
+    "hash_code_list_example": "-139168926"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/ledger_cb_dmean_5000_it.json",
@@ -95,17 +76,19 @@
         "id_image": "ledger_6139963"
       }
     ],
-    "hash_code_list_img": "-504061472",
-    "list_definition_mean": [
-      {
-        "mean_english": "sổ cái",
-        "definition": "the book of accounts of an office or shop",
-        "ex_of_definition_list": [
-          "He made an entry in the ledger."
-        ]
-      }
+    "hash_code_list_img": "746654648",
+    "list_example": [
+      "He made an entry in the ledger.",
+      "These summaries were prepared from actual ledgers listing day-by-day transactions.",
+      "Most petitions were blank forms with ledgers for signatures, printed and distributed by farm journal editors.",
+      "Harding's work includes comprehensive references to military reports, packing lists, shipwrecks, inventories, expenditure ledgers and accounts receivable.",
+      "Once the cane was weighed, quantities were recorded in the mill's ledger.",
+      "If merchants' assiduous ledger-keeping reflects a need to establish a literary type of credit, their performance as trustworthy commercial actors suggests affinities with the theatre.",
+      "People registered next to each other in the ledgers lived next to each other in the town.",
+      "Wealth was a much broader matter than abstract figures in an accountant's ledger.",
+      "It thus quite clearly will improve his eventual moral ledger."
     ],
-    "hash_code_list_definition_mean": "1368067121"
+    "hash_code_list_example": "354148788"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/left_cb_dmean_5000_it.json",
@@ -140,42 +123,14 @@
         "id_image": "left_5458283"
       }
     ],
-    "hash_code_list_img": "-2071285465",
-    "list_definition_mean": [
-      {
-        "mean_english": "bên trái",
-        "definition": "on, for, or belonging to, the side of the body that in most people has the less skilful hand (the side of a person or thing which is toward the west when that person or thing is facing north-opposite to right)",
-        "ex_of_definition_list": [
-          "She wore an engagement ring on her left hand",
-          "They drive on the left side of the road in Britain."
-        ]
-      },
-      {
-        "mean_english": "về phía bên trái",
-        "definition": "to or towards this side",
-        "ex_of_definition_list": [
-          "He turned left at the end of the road."
-        ]
-      },
-      {
-        "mean_english": "bên trái",
-        "definition": "the left side, part etc",
-        "ex_of_definition_list": [
-          "He sat on her left",
-          "She turned to her left",
-          "Take the first road on the left",
-          "Keep to the left!"
-        ]
-      },
-      {
-        "mean_english": "cánh tả",
-        "definition": "within a political party, Parliament etc, the most radical or socialist group",
-        "ex_of_definition_list": [
-          "She’s on the left of the party."
-        ]
-      }
+    "hash_code_list_img": "1979145665",
+    "list_example": [
+      "She wore an engagement ring on her left hand",
+      "They drive on the left side of the road in Britain.",
+      "He turned left at the end of the road.",
+      "She’s on the left of the party."
     ],
-    "hash_code_list_definition_mean": "1852239159"
+    "hash_code_list_example": "-1216586354"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/legacy_cb_dmean_5000_it.json",
@@ -198,17 +153,16 @@
         "id_image": "legacy_5632349"
       }
     ],
-    "hash_code_list_img": "494867598",
-    "list_definition_mean": [
-      {
-        "mean_english": "tài sản thừa kế",
-        "definition": "something left in a will by someone who has died",
-        "ex_of_definition_list": [
-          "He was left a legacy by his great aunt."
-        ]
-      }
+    "hash_code_list_img": "-136752597",
+    "list_example": [
+      "He was left a legacy by his great aunt.",
+      "Lastly, using the wrapper technique where the legacy program is augmented with code that enables it to communicate using the inter-agent language.",
+      "This includes issues of their gossip- and media-driven legacy that have led to their current position, often dangerously vulnerable, in the global marketplace.",
+      "In this way, functoids can be used with such legacy libraries.",
+      "Ultimately, the destructor proved inefficient and, as its name implies, it left a strong legacy of disposal.",
+      "Such lessons from experience may yet prove our most important legacy to the medical ethicists who succeed us."
     ],
-    "hash_code_list_definition_mean": "1739573717"
+    "hash_code_list_example": "1649823003"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/legal_cb_dmean_5000_it.json",
@@ -247,25 +201,20 @@
         "id_image": "legal_6299625"
       }
     ],
-    "hash_code_list_img": "-1122949433",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc pháp luật",
-        "definition": "lawful; allowed by the law",
-        "ex_of_definition_list": [
-          "Is it legal to bring gold into the country?",
-          "a legal contract."
-        ]
-      },
-      {
-        "mean_english": "liên quan đến pháp luật",
-        "definition": "concerned with or used in the law",
-        "ex_of_definition_list": [
-          "the legal profession."
-        ]
-      }
+    "hash_code_list_img": "1044348306",
+    "list_example": [
+      "Is it legal to bring gold into the country?",
+      "a legal contract.",
+      "the legal profession.",
+      "But let us consider instead the common legal example of a person who wants to be alone on his large estate.",
+      "We now present the set of typing rules that define the legal terms of the system, but first we introduce some terminology and notation.",
+      "Thus, it is crucial that the legal and technical communities embark on interdisciplinary research to deal with these issues.",
+      "I do not think that fiat really is a panacea for legal indeterminacy.",
+      "We want to program a two-person finite game where the players must perform alternate legal moves, until one of them, the loser, cannot move.",
+      "The author discusses practical issues such as legal status, education, training, consent, and non-medical prescribing.",
+      "The former hinges on the possibility of software agents being regarded as legal persons in the eyes of the law."
     ],
-    "hash_code_list_definition_mean": "-860686740"
+    "hash_code_list_example": "750747973"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/legend_cb_dmean_5000_it.json",
@@ -293,17 +242,14 @@
         "id_image": "legend_5234409"
       }
     ],
-    "hash_code_list_img": "960265808",
-    "list_definition_mean": [
-      {
-        "mean_english": "huyền thoại",
-        "definition": "a myth or traditional story, handed down from one generation to another",
-        "ex_of_definition_list": [
-          "the legend of St George."
-        ]
-      }
+    "hash_code_list_img": "-1663604094",
+    "list_example": [
+      "the legend of St George.",
+      "The energies quoted in the legend are those of the mean kinetic energy per nucleon of the ions.",
+      "The legend appears in rank order and thus matches the order of the concentration\\response lines from left to right.",
+      "This usually leaves the remaining swans swimming innocently and mutely in the early dawn light of a new era, leaving only a tragic legend behind."
     ],
-    "hash_code_list_definition_mean": "230944197"
+    "hash_code_list_example": "1208074744"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/legislation_cb_dmean_5000_it.json",
@@ -337,17 +283,18 @@
         "id_image": "legislation_6174541"
       }
     ],
-    "hash_code_list_img": "-1380666707",
-    "list_definition_mean": [
-      {
-        "mean_english": "pháp luật",
-        "definition": "a law or group of laws",
-        "ex_of_definition_list": [
-          "The government will introduce the new legislation in the summer."
-        ]
-      }
+    "hash_code_list_img": "265604169",
+    "list_example": [
+      "The government will introduce the new legislation in the summer.",
+      "Inevitably, health and safety legislation generates a plethora of acronyms, which are fortunately well covered by a 12-page appendix.",
+      "In each case, central leaders reasoned that they did not have the votes for stronger legislation and saw no advantage in reopening earlier controversies.",
+      "While he does not identify specific legislation by name, he was almost certainly warning against recently enacted federal laws.",
+      "While the community care legislation was enacted in 1990, full implementation was delayed until 1993.",
+      "Recent legislation requiring pharmaceutical manufacturers to present economic evaluations when requesting reimbursement decisions will probably have an important impact in the future.",
+      "In law, it enables judges to implement the intent of legislation rather than its literal meaning.",
+      "At the same time as landed income went up, parliament enacted legislation to limit patronage sources available to politicians."
     ],
-    "hash_code_list_definition_mean": "844248852"
+    "hash_code_list_example": "1063559622"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/leg_cb_dmean_5000_it.json",
@@ -383,40 +330,16 @@
         "id_image": "leg_6147262"
       }
     ],
-    "hash_code_list_img": "927929836",
-    "list_definition_mean": [
-      {
-        "mean_english": "chân",
-        "definition": "one of the limbs by which animals and man walk",
-        "ex_of_definition_list": [
-          "The horse injured a front leg",
-          "She stood on one leg."
-        ]
-      },
-      {
-        "mean_english": "ống quần",
-        "definition": "the part of an article of clothing that covers one of these limbs closely",
-        "ex_of_definition_list": [
-          "He has torn the leg of his trousers."
-        ]
-      },
-      {
-        "mean_english": "chân bàn",
-        "definition": "a long, narrow support of a table etc",
-        "ex_of_definition_list": [
-          "One of the legs of the chair was broken."
-        ]
-      },
-      {
-        "mean_english": "chặng",
-        "definition": "one stage in a journey, competition etc",
-        "ex_of_definition_list": [
-          "the last leg of the trip",
-          "the second leg of the contest."
-        ]
-      }
+    "hash_code_list_img": "667951321",
+    "list_example": [
+      "He has torn the leg of his trousers.",
+      "the last leg of the trip",
+      "the second leg of the contest.",
+      "This dynamic model is a system of seven equations and six unknowns: four torques and two components for the stance leg reaction force.",
+      "The swing leg strategy adopted has several parameters that need to be set.",
+      "Then the chair leg is no longer visible."
     ],
-    "hash_code_list_definition_mean": "-912089283"
+    "hash_code_list_example": "-2086373343"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/leisure_cb_dmean_5000_it.json",
@@ -454,18 +377,18 @@
         "id_image": "leisure_6213535"
       }
     ],
-    "hash_code_list_img": "1494283960",
-    "list_definition_mean": [
-      {
-        "mean_english": "thời gian rỗi",
-        "definition": "time which one can spend as one likes, especially when one does not have to work",
-        "ex_of_definition_list": [
-          "She leads a life of leisure.",
-          "(also adjective) Ursula enjoys reading and gardening in her leisure time."
-        ]
-      }
+    "hash_code_list_img": "1614204363",
+    "list_example": [
+      "(also adjective) Ursula enjoys reading and gardening in her leisure time.",
+      "The survey asked respondents for socio-demographic descriptors and about their financial situation, health and leisure activities.",
+      "For one thing, it is misleading to measure leisure simply as time spent outside the labor market.",
+      "The book begins with a useful series of definitions including the familiar concept of ' leisure ' as free-time rather than a specific set of activities.",
+      "The 2002 sample members were about 50 per cent more likely to participate in physical leisure activities than the 1992 respondents.",
+      "Examining the long term effects of leisure education on a sense of independence and psychological well-being among the elderly.",
+      "Time lost from unpaid labor and leisure was consistently the source of the greatest time costs.",
+      "The health effects of solitary leisure activities, such as mainly home-based hobbies or watching television, are however inconclusive."
     ],
-    "hash_code_list_definition_mean": "1240016707"
+    "hash_code_list_example": "-572567149"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lemonade_cb_dmean_5000_it.json",
@@ -498,17 +421,14 @@
         "id_image": "lemonade_3500381"
       }
     ],
-    "hash_code_list_img": "-611971664",
-    "list_definition_mean": [
-      {
-        "mean_english": "nước chanh",
-        "definition": "a (fizzy) drink flavoured/flavored with lemons",
-        "ex_of_definition_list": [
-          "a bottle/glass of lemonade."
-        ]
-      }
+    "hash_code_list_img": "-1630937175",
+    "list_example": [
+      "We now have alcopops, alcoholic lemonade and artificial insertion of alcohol into other drinks.",
+      "Is he aware that sometimes half a pint of lemonade in a pub can cost as much as half a pint of bitter?",
+      "We watched all day on both occasions but saw nothing, though the sandwiches and lemonade we brought with us to be quite sure we missed nothing were greatly enjoyed.",
+      "In a supermarket one can buy lemonade at 50 pence for two litres; landlords are charging 50 pence for half a pint."
     ],
-    "hash_code_list_definition_mean": "1791032636"
+    "hash_code_list_example": "1307022352"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lemon_cb_dmean_5000_it.json",
@@ -537,25 +457,13 @@
         "id_image": "lemon_952030"
       }
     ],
-    "hash_code_list_img": "1554988419",
-    "list_definition_mean": [
-      {
-        "mean_english": "quả chanh",
-        "definition": "a type of oval, juicy, citrus fruit with pale yellow skin and very sour juice",
-        "ex_of_definition_list": [
-          "She added the juice of a lemon to the pudding",
-          "(also adjective) a lemon drink."
-        ]
-      },
-      {
-        "mean_english": "màu vàng chanh",
-        "definition": "the colour/color of this fruit",
-        "ex_of_definition_list": [
-          "(also adjective) a pale lemon dress."
-        ]
-      }
+    "hash_code_list_img": "-1415095462",
+    "list_example": [
+      "She added the juice of a lemon to the pudding",
+      "(also adjective) a lemon drink.",
+      "(also adjective) a pale lemon dress."
     ],
-    "hash_code_list_definition_mean": "188284582"
+    "hash_code_list_example": "-1888244039"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lend_cb_dmean_5000_it.json",
@@ -574,24 +482,18 @@
         "id_image": "lend_2781121"
       }
     ],
-    "hash_code_list_img": "1577603704",
-    "list_definition_mean": [
-      {
-        "mean_english": "cho mượn",
-        "definition": "to give (someone) the use of for a time",
-        "ex_of_definition_list": [
-          "She had forgotten her umbrella so I lent her mine to go home with."
-        ]
-      },
-      {
-        "mean_english": "thêm vào",
-        "definition": "to give or add (a quality) to",
-        "ex_of_definition_list": [
-          "Desperation lent him strength."
-        ]
-      }
+    "hash_code_list_img": "1697588985",
+    "list_example": [
+      "Students also continue throughout the semester to participate in one or two activities from their first rotation, lending some continuity to the practicum experience.",
+      "Obviously, the design also lends itself to evaluating the effects of various mediators and moderators of outcome.",
+      "The method lends itself to more widespread use and could be incorporated into large scale outcome studies.",
+      "A prestigious roster of international architects lends status to the project and client commissioning the work, and enhances the media appeal of the undertaking.",
+      "The thing to be contradicted has to be strong, so that it lends its weight to the subversion of it.",
+      "Metal collectors pride themselves with such items, it lends status within the scene and amongst other collectors.",
+      "Furthermore, demonstrating that my model is capable of producing results similar to game theoretic models lends validity to my approach to the problem.",
+      "Neither the one nor the other lends itself to transparent deductive or narrative presentation."
     ],
-    "hash_code_list_definition_mean": "1182017539"
+    "hash_code_list_example": "64507569"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/length_cb_dmean_5000_it.json",
@@ -616,33 +518,13 @@
         "id_image": "length_4524931"
       }
     ],
-    "hash_code_list_img": "1462096605",
-    "list_definition_mean": [
-      {
-        "mean_english": "chiều dài",
-        "definition": "the distance from one end to the other of an object, period of time etc",
-        "ex_of_definition_list": [
-          "What is the length of your garden?",
-          "Please note down the length of time it takes you to do this."
-        ]
-      },
-      {
-        "mean_english": "độ dài",
-        "definition": "a piece of something, especially cloth",
-        "ex_of_definition_list": [
-          "I bought a (3–metre) length of silk."
-        ]
-      },
-      {
-        "mean_english": "chung cuộc",
-        "definition": "in racing, the measurement from end to end of a horse, boat etc",
-        "ex_of_definition_list": [
-          "He won by a length",
-          "The other boat is several lengths in front."
-        ]
-      }
+    "hash_code_list_img": "681052663",
+    "list_example": [
+      "What is the length of your garden?",
+      "Please note down the length of time it takes you to do this.",
+      "I bought a (3–metre) length of silk."
     ],
-    "hash_code_list_definition_mean": "2004723698"
+    "hash_code_list_example": "-1546684898"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lentil_cb_dmean_5000_it.json",
@@ -665,17 +547,18 @@
         "id_image": "lentil_5501212"
       }
     ],
-    "hash_code_list_img": "1826106692",
-    "list_definition_mean": [
-      {
-        "mean_english": "cây đậu lãng",
-        "definition": "the small orange or green seed of a pod-bearing plant, used in soups etc",
-        "ex_of_definition_list": [
-          "(also adjective) lentil soup."
-        ]
-      }
+    "hash_code_list_img": "-1860896182",
+    "list_example": [
+      "(also adjective) lentil soup.",
+      "This will remain a key research thrust in lentil improvement programmes.",
+      "To date, all lentil genetic maps have had more linkage groups than the species haploid chromosome number (n=7).",
+      "Therefore, to reduce costs, it is essential that lentil harvest be mechanized.",
+      "In general, wheat used more water than was received as rainfall, while lentil crops used less.",
+      "Lodging in lentil and its relationship with other characters.",
+      "Despite its importance, lentil remained an underresearched crop until the late 1970s.",
+      "With research and development efforts, lentil yields have been increasing globally and production spreading because of several key advances."
     ],
-    "hash_code_list_definition_mean": "1281854014"
+    "hash_code_list_example": "-684514220"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lesbian_cb_dmean_5000_it.json",
@@ -698,17 +581,11 @@
         "id_image": "lesbian_1475239"
       }
     ],
-    "hash_code_list_img": "-1172311418",
-    "list_definition_mean": [
-      {
-        "mean_english": "đồng tính nữ",
-        "definition": "a woman who is sexually attracted to other women",
-        "ex_of_definition_list": [
-          "(also adjective) a lesbian relationship."
-        ]
-      }
+    "hash_code_list_img": "81750162",
+    "list_example": [
+      "(also adjective) a lesbian relationship."
     ],
-    "hash_code_list_definition_mean": "613131547"
+    "hash_code_list_example": "973929429"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lesson_cb_dmean_5000_it.json",
@@ -738,31 +615,12 @@
         "id_image": "lesson_6258824"
       }
     ],
-    "hash_code_list_img": "620172769",
-    "list_definition_mean": [
-      {
-        "mean_english": "buổi học",
-        "definition": "a period of teaching",
-        "ex_of_definition_list": [
-          "a French lesson."
-        ]
-      },
-      {
-        "mean_english": "bài học",
-        "definition": "something which is learned or taught",
-        "ex_of_definition_list": [
-          "The lesson which we learned from the experience was never to trust anyone."
-        ]
-      },
-      {
-        "mean_english": "bài rao giảng",
-        "definition": "a part of the Bible read in church",
-        "ex_of_definition_list": [
-          "He was asked to read the lesson on Sunday morning."
-        ]
-      }
+    "hash_code_list_img": "462834388",
+    "list_example": [
+      "The lesson which we learned from the experience was never to trust anyone.",
+      "He was asked to read the lesson on Sunday morning."
     ],
-    "hash_code_list_definition_mean": "1665759719"
+    "hash_code_list_example": "1398711318"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/letterbox_cb_dmean_5000_it.json",
@@ -791,17 +649,14 @@
         "id_image": "letterbox_719246"
       }
     ],
-    "hash_code_list_img": "-761153553",
-    "list_definition_mean": [
-      {
-        "mean_english": "khe hở ở các cửa lớn có nắp lật để bỏ thư",
-        "definition": "a slit in a door (sometimes with a box behind it) through which mail from the post is put",
-        "ex_of_definition_list": [
-          "He put the card through the letterbox."
-        ]
-      }
+    "hash_code_list_img": "-997505691",
+    "list_example": [
+      "Secondly, that a letterbox should be provided on the outside gate by dog owners.",
+      "About 15,000 do not even have a letterbox for the forms to go through.",
+      "An election address that came through my letterbox said that there would be a saving of about £1¼ million on privatisation.",
+      "For many other children, whose parents have simply been unable to provide the necessary care and support, letterbox contact may be appropriate."
     ],
-    "hash_code_list_definition_mean": "1461257246"
+    "hash_code_list_example": "-919379051"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/letter_cb_dmean_5000_it.json",
@@ -830,25 +685,11 @@
         "id_image": "letter_870121"
       }
     ],
-    "hash_code_list_img": "2002921506",
-    "list_definition_mean": [
-      {
-        "mean_english": "chữ cái",
-        "definition": "a mark expressing a sound",
-        "ex_of_definition_list": [
-          "the letters of the alphabet."
-        ]
-      },
-      {
-        "mean_english": "thư",
-        "definition": "a written message, especially sent by post in an envelope",
-        "ex_of_definition_list": [
-          "She slowly took the letter from its envelope",
-          "Did you post my letter?"
-        ]
-      }
+    "hash_code_list_img": "51805160",
+    "list_example": [
+      "She slowly took the letter from its envelope"
     ],
-    "hash_code_list_definition_mean": "-1089171806"
+    "hash_code_list_example": "1623209881"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lettuce_cb_dmean_5000_it.json",
@@ -881,17 +722,17 @@
         "id_image": "lettuce_433711"
       }
     ],
-    "hash_code_list_img": "538592911",
-    "list_definition_mean": [
-      {
-        "mean_english": "cây rau diếp",
-        "definition": "a type of green plant with large leaves used as a salad",
-        "ex_of_definition_list": [
-          "Shred the lettuce with a grater."
-        ]
-      }
+    "hash_code_list_img": "649345381",
+    "list_example": [
+      "Shred the lettuce with a grater.",
+      "However, age was included in the multivariable analysis, which showed that, independent of age, consumption of lettuce prepared away from home was associated with illness.",
+      "No food remained to be sampled, however, carrots and lettuce from the wholesalers who had supplied the vegetables for the party were analysed.",
+      "Stomatal conductance of lettuce grown under or exposed to different light qualities.",
+      "Snails were fed on lettuce immersed in spring water for 5 days.",
+      "Effect of nitrogen nutrition and global radiation on yield and nitrate content of lettuce grown under glass.",
+      "Grated carrots and lettuce remained as the potential source of the outbreak."
     ],
-    "hash_code_list_definition_mean": "587108606"
+    "hash_code_list_example": "1350065834"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/leukemia_cb_dmean_5000_it.json",
@@ -909,17 +750,11 @@
         "id_image": "leukemia_3412008"
       }
     ],
-    "hash_code_list_img": "228963470",
-    "list_definition_mean": [
-      {
-        "mean_english": "bệnh bạch cầu",
-        "definition": "a disease that causes white blood cells to multiply abnormally in the body",
-        "ex_of_definition_list": [
-          "She was diagnosed with leukemia."
-        ]
-      }
+    "hash_code_list_img": "564059172",
+    "list_example": [
+      "On this background, we find it valuable to comprehensively review the literature on economic evaluations of leukemia diseases."
     ],
-    "hash_code_list_definition_mean": "294395849"
+    "hash_code_list_example": "25089428"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/level_cb_dmean_5000_it.json",
@@ -967,90 +802,20 @@
         "id_image": "level_706017"
       }
     ],
-    "hash_code_list_img": "977250753",
-    "list_definition_mean": [
-      {
-        "mean_english": "mức",
-        "definition": "height, position, strength, rank etc",
-        "ex_of_definition_list": [
-          "The level of the river rose",
-          "Dolphins possess a high level of intelligence."
-        ]
-      },
-      {
-        "mean_english": "tầng",
-        "definition": "a horizontal division or floor",
-        "ex_of_definition_list": [
-          "We’re parked on the third level of the multi-storey car park."
-        ]
-      },
-      {
-        "mean_english": "dụng cụ thử mặt ngang",
-        "definition": "a kind of instrument for showing whether a surface is level",
-        "ex_of_definition_list": [
-          "a spirit level."
-        ]
-      },
-      {
-        "mean_english": "mặt phẳng",
-        "definition": "a flat, smooth surface or piece of land",
-        "ex_of_definition_list": [
-          "It was difficult running uphill, but he could run fast on the level."
-        ]
-      },
-      {
-        "mean_english": "phẳng",
-        "definition": "flat, even, smooth or horizontal",
-        "ex_of_definition_list": [
-          "a level surface",
-          "a level spoonful (= an amount which just fills the spoon to the top of the sides)."
-        ]
-      },
-      {
-        "mean_english": "ngang bằng",
-        "definition": "of the same height, standard etc",
-        "ex_of_definition_list": [
-          "The top of the kitchen sink is level with the window-sill",
-          "The scores of the two teams are level."
-        ]
-      },
-      {
-        "mean_english": "đều đều",
-        "definition": "steady, even and not rising or falling much",
-        "ex_of_definition_list": [
-          "a calm, level voice."
-        ]
-      },
-      {
-        "mean_english": "san phẳng",
-        "definition": "to make flat, smooth or horizontal",
-        "ex_of_definition_list": [
-          "He levelled the soil with a hoe."
-        ]
-      },
-      {
-        "mean_english": "san bằng",
-        "definition": "to make equal",
-        "ex_of_definition_list": [
-          "His goal levelled the scores of the two teams."
-        ]
-      },
-      {
-        "mean_english": "chĩa",
-        "definition": "(usually with at) to aim (a gun etc)",
-        "ex_of_definition_list": [
-          "He levelled his pistol at the target."
-        ]
-      },
-      {
-        "mean_english": "kéo sập",
-        "definition": "to pull down",
-        "ex_of_definition_list": [
-          "The bulldozer levelled the block of flats."
-        ]
-      }
+    "hash_code_list_img": "941266210",
+    "list_example": [
+      "The level of the river rose",
+      "Dolphins possess a high level of intelligence.",
+      "We’re parked on the third level of the multi-storey car park.",
+      "a level surface",
+      "a level spoonful (= an amount which just fills the spoon to the top of the sides).",
+      "The top of the kitchen sink is level with the window-sill",
+      "a calm, level voice.",
+      "Efforts to calculate the level of price support for rice required the government to elicit cost of production data from the agricultural associations.",
+      "The first model includes only the individual level variables.",
+      "We do not understand the notion of a \"psychological\" theory that is \"nonindividualistic\"; the individual organism is psychology's focal level of analysis."
     ],
-    "hash_code_list_definition_mean": "1120417569"
+    "hash_code_list_example": "-746383068"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/leverage_cb_dmean_5000_it.json",
@@ -1084,24 +849,17 @@
         "id_image": "leverage_4695221"
       }
     ],
-    "hash_code_list_img": "-862226219",
-    "list_definition_mean": [
-      {
-        "mean_english": "ảnh hưởng",
-        "definition": "power that can be used to influence someone’s actions or decisions",
-        "ex_of_definition_list": [
-          "The public has some leverage with their representatives in the Senate."
-        ]
-      },
-      {
-        "mean_english": "sức mạnh của đòn bẩy",
-        "definition": "the power gained by the use of a lever",
-        "ex_of_definition_list": [
-          "This tool gives better leverage."
-        ]
-      }
+    "hash_code_list_img": "-2104354631",
+    "list_example": [
+      "The public has some leverage with their representatives in the Senate.",
+      "For systems style work in an advanced programming language, the challenge is often to leverage the advantages of the language.",
+      "Finally, weavers exerted a great deal of leverage in the recruitment process.",
+      "This structure gave the non-profit partner considerable negotiating leverage but not exclusive control.",
+      "Undervaluation of the capital base may significantly increase the leverage of investment restrictions.",
+      "Brief examination of an additional comparative case provides even greater leverage on the issue.",
+      "The lessening of weight fluctuations and the containment of chronic thinness, as compared with the 1960s, gave further leverage for cushioning seasonal hunger."
     ],
-    "hash_code_list_definition_mean": "1836191116"
+    "hash_code_list_example": "-618643969"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lever_cb_dmean_5000_it.json",
@@ -1141,32 +899,18 @@
         "id_image": "lever_876983"
       }
     ],
-    "hash_code_list_img": "624127623",
-    "list_definition_mean": [
-      {
-        "mean_english": "đòn bảy",
-        "definition": "a bar of wood, metal etc used to lift heavy weights",
-        "ex_of_definition_list": [
-          "A crowbar is a kind of lever",
-          "You must use a coin as a lever to get the lid of that tin off."
-        ]
-      },
-      {
-        "mean_english": "thanh điều khiển",
-        "definition": "a bar or handle for operating a machine etc",
-        "ex_of_definition_list": [
-          "This is the lever that switches on the power."
-        ]
-      },
-      {
-        "mean_english": "bẩy lên",
-        "definition": "to move with or as if with a lever",
-        "ex_of_definition_list": [
-          "He levered the lid off with a coin."
-        ]
-      }
+    "hash_code_list_img": "-296416667",
+    "list_example": [
+      "You must use a coin as a lever to get the lid of that tin off.",
+      "This is the lever that switches on the power.",
+      "The time from light onset to lever press (causing light offset) was documented by computer and taken to be the stimulus duration.",
+      "As we select for more forceful presses, the presses continue to vary in force, but the average lever press becomes more forceful.",
+      "This restoration happens because of the excess weight of the lever to the right of the point of support.",
+      "The animal had easy access to the lever and food plate.",
+      "Even a hungry rat rewarded by food for pressing a lever is to an extent controlling itself.",
+      "Is there a genuine pattern of descent so that one lever press gives rise to a later lever press?"
     ],
-    "hash_code_list_definition_mean": "1974551286"
+    "hash_code_list_example": "1138006372"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/liar_cb_dmean_5000_it.json",
@@ -1204,17 +948,11 @@
         "id_image": "liar_5507611"
       }
     ],
-    "hash_code_list_img": "-1085663449",
-    "list_definition_mean": [
-      {
-        "mean_english": "kẻ nói dối",
-        "definition": "a person who tells lies, especially as a habit",
-        "ex_of_definition_list": [
-          "You can’t trust what she says – she’s such a liar."
-        ]
-      }
+    "hash_code_list_img": "-1047852316",
+    "list_example": [
+      "Secondly, an agent's reputation as being a liar (or truthful) can be spread by the system."
     ],
-    "hash_code_list_definition_mean": "1591250512"
+    "hash_code_list_example": "717309794"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/liberty_cb_dmean_5000_it.json",
@@ -1244,31 +982,18 @@
         "id_image": "liberty_4742541"
       }
     ],
-    "hash_code_list_img": "-119005067",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự giải phóng",
-        "definition": "freedom from captivity or from slavery",
-        "ex_of_definition_list": [
-          "He ordered that all prisoners should be given their liberty."
-        ]
-      },
-      {
-        "mean_english": "sự tự do",
-        "definition": "freedom to do as one pleases",
-        "ex_of_definition_list": [
-          "Children have a lot more liberty now than they used to."
-        ]
-      },
-      {
-        "mean_english": "quyền tự do",
-        "definition": "(especially with take) too great freedom of speech or action",
-        "ex_of_definition_list": [
-          "I think it was (taking) a liberty to ask her such a question!"
-        ]
-      }
+    "hash_code_list_img": "-741125174",
+    "list_example": [
+      "Children have a lot more liberty now than they used to.",
+      "I think it was (taking) a liberty to ask her such a question!",
+      "As with human resources, the pressure for freedom generated by liberty aspirations does not depend on the level of these values alone.",
+      "We take the liberty of sugaring the syntax somewhat so that we may reuse without explanation the more mathematical notation already employed in this paper.",
+      "How could anyone be tranquil in the enjoyment of liberty while remaining ever alert against the many dangers that threatened?",
+      "On the one hand, liberty has universalistic connotations, central to the notions of individual and minority rights and democratic government.",
+      "Notions of the liberty of guilds, burghers and even migrants remained an obstacle.",
+      "Here liberty is again figured in opposition to the internal tyranny of appetites."
     ],
-    "hash_code_list_definition_mean": "-1303145590"
+    "hash_code_list_example": "-625462201"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/librarian_cb_dmean_5000_it.json",
@@ -1306,17 +1031,13 @@
         "id_image": "librarian_6182997"
       }
     ],
-    "hash_code_list_img": "-837606748",
-    "list_definition_mean": [
-      {
-        "mean_english": "người thủ thư",
-        "definition": "a person who is employed in a library",
-        "ex_of_definition_list": [
-          "the school librarian."
-        ]
-      }
+    "hash_code_list_img": "-1764940244",
+    "list_example": [
+      "We are told that the librarian was among thefirstto render homage.",
+      "More importantly, the librarian reassigned the shelf number of the second book at the end of this very inventory.",
+      "The most important application for our mobile manipulator is the librarian robot."
     ],
-    "hash_code_list_definition_mean": "504561134"
+    "hash_code_list_example": "-972642087"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/library_cb_dmean_5000_it.json",
@@ -1349,18 +1070,11 @@
         "id_image": "library_831484"
       }
     ],
-    "hash_code_list_img": "-1238802516",
-    "list_definition_mean": [
-      {
-        "mean_english": "thư viện",
-        "definition": "(a building or room containing) a collection of books, tapes, videos etc",
-        "ex_of_definition_list": [
-          "He works in the public library",
-          "She has a fine library of books about art."
-        ]
-      }
+    "hash_code_list_img": "687662002",
+    "list_example": [
+      "She has a fine library of books about art."
     ],
-    "hash_code_list_definition_mean": "2119994527"
+    "hash_code_list_example": "414383558"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/license_cb_dmean_5000_it.json",
@@ -1393,17 +1107,13 @@
         "id_image": "license_950573"
       }
     ],
-    "hash_code_list_img": "751549361",
-    "list_definition_mean": [
-      {
-        "mean_english": "cấp phép",
-        "definition": "to give a licence to or permit",
-        "ex_of_definition_list": [
-          "The restaurant is licensed to serve alcohol."
-        ]
-      }
+    "hash_code_list_img": "-828596149",
+    "list_example": [
+      "It will also include a special category of liquor license for music and entertainment venues separate from hotel licenses.",
+      "Such a duty may license in different ways at various levels of voluntariness the use of coercion for a person's own good.",
+      "Having non-head status at some level of prosodic structure compromises a position's ability to license melodic material."
     ],
-    "hash_code_list_definition_mean": "1264380796"
+    "hash_code_list_example": "-1513931371"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lick_cb_dmean_5000_it.json",
@@ -1428,31 +1138,13 @@
         "id_image": "lick_4893358"
       }
     ],
-    "hash_code_list_img": "1218565124",
-    "list_definition_mean": [
-      {
-        "mean_english": "liếm",
-        "definition": "to pass the tongue over",
-        "ex_of_definition_list": [
-          "The dog licked her hand."
-        ]
-      },
-      {
-        "mean_english": "sự liếm",
-        "definition": "an act of licking",
-        "ex_of_definition_list": [
-          "The child gave the ice-cream a lick."
-        ]
-      },
-      {
-        "mean_english": "một lớp sơn",
-        "definition": "a hasty application (of paint)",
-        "ex_of_definition_list": [
-          "These doors could do with a lick of paint."
-        ]
-      }
+    "hash_code_list_img": "-1801984036",
+    "list_example": [
+      "These doors could do with a lick of paint.",
+      "The majority of the elephant-made holes occurred in the centre of a lick and along their edge.",
+      "She took a lollipop to lick and didn't feel sick."
     ],
-    "hash_code_list_definition_mean": "1915679898"
+    "hash_code_list_example": "1862160968"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lie_cb_dmean_5000_it.json",
@@ -1480,54 +1172,13 @@
         "id_image": "lie_5526267"
       }
     ],
-    "hash_code_list_img": "41140304",
-    "list_definition_mean": [
-      {
-        "mean_english": "lời nói dối",
-        "definition": "a false statement made with the intention of deceiving",
-        "ex_of_definition_list": [
-          "It would be a lie to say I knew, because I didn’t."
-        ]
-      },
-      {
-        "mean_english": "nói dối",
-        "definition": "to say etc something which is not true, with the intention of deceiving",
-        "ex_of_definition_list": [
-          "There’s no point in asking her – she’ll just lie about it."
-        ]
-      },
-      {
-        "mean_english": "nằm",
-        "definition": "to be in or take a more or less flat position",
-        "ex_of_definition_list": [
-          "She went into the bedroom and lay on the bed",
-          "The book was lying in the hall."
-        ]
-      },
-      {
-        "mean_english": "đặt; trong",
-        "definition": "to be situated; to be in a particular place etc",
-        "ex_of_definition_list": [
-          "The farm lay three miles from the sea",
-          "His interest lies in farming."
-        ]
-      },
-      {
-        "mean_english": "vẫn còn ở một tình trạng nào đó",
-        "definition": "to remain in a certain state",
-        "ex_of_definition_list": [
-          "The shop is lying empty now."
-        ]
-      },
-      {
-        "mean_english": "thuộc",
-        "definition": "(with in) (of feelings, impressions etc) to be caused by or contained in",
-        "ex_of_definition_list": [
-          "His charm lies in his honesty."
-        ]
-      }
+    "hash_code_list_img": "1306862402",
+    "list_example": [
+      "It would be a lie to say I knew, because I didn’t.",
+      "There’s no point in asking her – she’ll just lie about it.",
+      "He further repeats the tired official lie that war veterans engineered the subsequent farm invasions."
     ],
-    "hash_code_list_definition_mean": "-2063682935"
+    "hash_code_list_example": "1735392324"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lifestyle_cb_dmean_5000_it.json",
@@ -1560,17 +1211,13 @@
         "id_image": "lifestyle_6193657"
       }
     ],
-    "hash_code_list_img": "1463239630",
-    "list_definition_mean": [
-      {
-        "mean_english": "phong cách sống",
-        "definition": "the way in which a person or a group of people lives, including the type of job they do, where they live, and how they spend their free time",
-        "ex_of_definition_list": [
-          "a healthy/lavish/outdoor lifestyle."
-        ]
-      }
+    "hash_code_list_img": "-1071220939",
+    "list_example": [
+      "However, the censuring of lifestyle choices associated with deleterious health consequences appears to many as moralising couched in medical terms.",
+      "In other words, our actual lifestyle must correspond with the way of life implied by our ascription of meaning (2b).",
+      "They suggested that patients rationalize their lifestyle choices, given their perceptions of diabetes and its personal implications for each of them."
     ],
-    "hash_code_list_definition_mean": "934563501"
+    "hash_code_list_example": "-2028977262"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lifetime_cb_dmean_5000_it.json",
@@ -1593,17 +1240,18 @@
         "id_image": "lifetime_2302785"
       }
     ],
-    "hash_code_list_img": "-1888086985",
-    "list_definition_mean": [
-      {
-        "mean_english": "đời",
-        "definition": "the period of a person’s life",
-        "ex_of_definition_list": [
-          "He saw many changes in his lifetime."
-        ]
-      }
+    "hash_code_list_img": "-1243605634",
+    "list_example": [
+      "Beneficiaries at the bottom of the distribution see very little difference in lifetime benefits between the three proposals.",
+      "When the trust fund exhausts and benefit cuts are required, lifetime benefits fall beginning with the 1970s birth cohort.",
+      "The cost of population screening and treatment would not be recovered in reduced dyspepsia costs in the lifetime of those screened.",
+      "Reversionary grants provided economic security during a woman's lifetime at minimal expense to her male relatives.",
+      "In section 6 we discuss a possible refinement of the analysis which provides lifetime information for variables.",
+      "Subjects were asked to report ' worst lifetime ' symptoms.",
+      "The possibility that there may be biologic factors or differential lifetime exposures that account for the difference between the racial\\ethnic groups merits further investigation.",
+      "In particular, the elderly may be hurt as their remaining lifetime is short and their capacity to absorb risk is small."
     ],
-    "hash_code_list_definition_mean": "114559562"
+    "hash_code_list_example": "-1678638219"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/life_cb_dmean_5000_it.json",
@@ -1641,67 +1289,15 @@
         "id_image": "life_4099888"
       }
     ],
-    "hash_code_list_img": "-1690993760",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự sống",
-        "definition": "the quality belonging to plants and animals which distinguishes them from rocks, minerals etc and things which are dead",
-        "ex_of_definition_list": [
-          "Doctors are fighting to save the child’s life."
-        ]
-      },
-      {
-        "mean_english": "cuộc sống",
-        "definition": "the period between birth and death",
-        "ex_of_definition_list": [
-          "He had a long and happy life."
-        ]
-      },
-      {
-        "mean_english": "tính sôi nổi",
-        "definition": "liveliness",
-        "ex_of_definition_list": [
-          "She was full of life and energy."
-        ]
-      },
-      {
-        "mean_english": "cuộc đời",
-        "definition": "a manner of living",
-        "ex_of_definition_list": [
-          "She lived a life of ease and idleness."
-        ]
-      },
-      {
-        "mean_english": "cuộc sống",
-        "definition": "the period during which any particular state exists",
-        "ex_of_definition_list": [
-          "He had many different jobs during his working life."
-        ]
-      },
-      {
-        "mean_english": "sự sống",
-        "definition": "living things",
-        "ex_of_definition_list": [
-          "It is now believed that there may be life on Mars",
-          "animal life."
-        ]
-      },
-      {
-        "mean_english": "đời người",
-        "definition": "the story of a life",
-        "ex_of_definition_list": [
-          "He has written a life of Churchill."
-        ]
-      },
-      {
-        "mean_english": "án tù chung thân",
-        "definition": "life imprisonment",
-        "ex_of_definition_list": [
-          "He was given life for murder."
-        ]
-      }
+    "hash_code_list_img": "1779657563",
+    "list_example": [
+      "She was full of life and energy.",
+      "She lived a life of ease and idleness.",
+      "It is now believed that there may be life on Mars",
+      "He has written a life of Churchill.",
+      "He was given life for murder."
     ],
-    "hash_code_list_definition_mean": "235187472"
+    "hash_code_list_example": "-2045555650"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lift_cb_dmean_5000_it.json",
@@ -1736,66 +1332,17 @@
         "id_image": "lift_5132462"
       }
     ],
-    "hash_code_list_img": "1994342693",
-    "list_definition_mean": [
-      {
-        "mean_english": "nâng lên",
-        "definition": "to raise or bring to a higher position",
-        "ex_of_definition_list": [
-          "The box was so heavy that I couldn’t lift it."
-        ]
-      },
-      {
-        "mean_english": "bốc",
-        "definition": "to take and carry away",
-        "ex_of_definition_list": [
-          "He lifted the table through into the kitchen."
-        ]
-      },
-      {
-        "mean_english": "tan; bốc lên",
-        "definition": "(of mist etc) to disappear",
-        "ex_of_definition_list": [
-          "By noon, the fog was beginning to lift."
-        ]
-      },
-      {
-        "mean_english": "cất cánh",
-        "definition": "to rise",
-        "ex_of_definition_list": [
-          "The aeroplane/airplane lifted into the air."
-        ]
-      },
-      {
-        "mean_english": "sự được nâng lên",
-        "definition": "the act of lifting",
-        "ex_of_definition_list": [
-          "a lift of the eyebrows."
-        ]
-      },
-      {
-        "mean_english": "thang máy",
-        "definition": "a small enclosed platform etc that moves up and down between floors carrying goods or people; elevator American",
-        "ex_of_definition_list": [
-          "Since she was too tired to climb the stairs, she went up in the lift."
-        ]
-      },
-      {
-        "mean_english": "sự đi nhờ",
-        "definition": "a ride in someone’s car etc",
-        "ex_of_definition_list": [
-          "Can I give you a lift into town?"
-        ]
-      },
-      {
-        "mean_english": "nâng cao tinh thần",
-        "definition": "a raising of the spirits",
-        "ex_of_definition_list": [
-          "Her success in the exam gave her a great lift."
-        ]
-      }
+    "hash_code_list_img": "425190092",
+    "list_example": [
+      "The box was so heavy that I couldn’t lift it.",
+      "a lift of the eyebrows.",
+      "Can I give you a lift into town?",
+      "The lift force is in a direction tending to increase e, and so in a pure liquid a vertical line of two bubbles is unstable.",
+      "With scalar-variable application defined, we can lift the application of a substitution to general types with no difficulty.",
+      "Winds focused specifically on the underside of one's feet may, if sustained, be sufficient to lift any weight.",
+      "Actuation of the lift and tilt hydraulic cylinders is achieved by specifying a valve position for lift and tilt respectively."
     ],
-    "hash_code_list_definition_mean": "1922615802"
+    "hash_code_list_example": "-1016342651"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lightbulb_cb_dmean_5000_it.json",
@@ -1823,17 +1370,11 @@
         "id_image": "lightbulb_812875"
       }
     ],
-    "hash_code_list_img": "-1015282156",
-    "list_definition_mean": [
-      {
-        "mean_english": "bóng đèn",
-        "definition": "a glass object that fits into an electric light and which produces light when an electric current is passed through it; bulb",
-        "ex_of_definition_list": [
-          "This lightbulb needs changing."
-        ]
-      }
+    "hash_code_list_img": "-697908276",
+    "list_example": [
+      "This lightbulb needs changing."
     ],
-    "hash_code_list_definition_mean": "925150127"
+    "hash_code_list_example": "1513297370"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lighter_cb_dmean_5000_it.json",
@@ -1856,17 +1397,11 @@
         "id_image": "lighter_356996"
       }
     ],
-    "hash_code_list_img": "1171053807",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái bật lửa",
-        "definition": "something used for lighting (a cigarette etc)",
-        "ex_of_definition_list": [
-          "a disposable lighter."
-        ]
-      }
+    "hash_code_list_img": "-133118703",
+    "list_example": [
+      "a disposable lighter."
     ],
-    "hash_code_list_definition_mean": "439679233"
+    "hash_code_list_example": "1346508011"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lightweight_cb_dmean_5000_it.json",
@@ -1889,17 +1424,11 @@
         "id_image": "lightweight_5675398"
       }
     ],
-    "hash_code_list_img": "71674338",
-    "list_definition_mean": [
-      {
-        "mean_english": "hạng nhẹ",
-        "definition": "light in weight",
-        "ex_of_definition_list": [
-          "a lightweight raincoat."
-        ]
-      }
+    "hash_code_list_img": "-2120562673",
+    "list_example": [
+      "a lightweight raincoat."
     ],
-    "hash_code_list_definition_mean": "1599695417"
+    "hash_code_list_example": "1205024361"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/light_cb_dmean_5000_it.json",
@@ -1941,131 +1470,28 @@
         "id_image": "light_546020"
       }
     ],
-    "hash_code_list_img": "-2081418926",
-    "list_definition_mean": [
-      {
-        "mean_english": "ánh sáng",
-        "definition": "the brightness given by the sun, a flame, lamps etc that makes things able to be seen",
-        "ex_of_definition_list": [
-          "It was nearly dawn and the light was getting stronger",
-          "Sunlight streamed into the room."
-        ]
-      },
-      {
-        "mean_english": "sự bật sáng",
-        "definition": "something which gives light (eg a lamp)",
-        "ex_of_definition_list": [
-          "Suddenly all the lights went out."
-        ]
-      },
-      {
-        "mean_english": "lửa",
-        "definition": "something which can be used to set fire to something else; a flame",
-        "ex_of_definition_list": [
-          "Have you got a light for my cigarette?"
-        ]
-      },
-      {
-        "mean_english": "sự hiểu biết",
-        "definition": "a way of viewing or regarding",
-        "ex_of_definition_list": [
-          "He regarded her action in a favourable/favorable light."
-        ]
-      },
-      {
-        "mean_english": "tràn đầy ánh sáng",
-        "definition": "having light; not dark",
-        "ex_of_definition_list": [
-          "The studio was a large, light room."
-        ]
-      },
-      {
-        "mean_english": "nhạt",
-        "definition": "(of a colour/color) pale; closer to white than black",
-        "ex_of_definition_list": [
-          "light green."
-        ]
-      },
-      {
-        "mean_english": "bắt đầu cháy",
-        "definition": "to give light to",
-        "ex_of_definition_list": [
-          "The room was lit only by candles."
-        ]
-      },
-      {
-        "mean_english": "bật lên",
-        "definition": "to (make something) catch fire",
-        "ex_of_definition_list": [
-          "She lit the gas",
-          "I think this match is damp, because it won’t light."
-        ]
-      },
-      {
-        "mean_english": "nhẹ",
-        "definition": "easy to lift or carry; of little weight",
-        "ex_of_definition_list": [
-          "I bought a light suitcase for plane journeys."
-        ]
-      },
-      {
-        "mean_english": "không nghiêm khắc",
-        "definition": "easy to bear, suffer or do",
-        "ex_of_definition_list": [
-          "Next time the punishment will not be so light."
-        ]
-      },
-      {
-        "mean_english": "nhẹ",
-        "definition": "(of food) easy to digest",
-        "ex_of_definition_list": [
-          "a light meal."
-        ]
-      },
-      {
-        "mean_english": "nhẹ hơn so với trọng lượng trung bình",
-        "definition": "of less weight than it should be",
-        "ex_of_definition_list": [
-          "The load of grain was several kilos light."
-        ]
-      },
-      {
-        "mean_english": "nhẹ",
-        "definition": "of little weight",
-        "ex_of_definition_list": [
-          "Aluminium/Aluminum is a light metal."
-        ]
-      },
-      {
-        "mean_english": "năng động",
-        "definition": "lively or agile",
-        "ex_of_definition_list": [
-          "She was very light on her feet."
-        ]
-      },
-      {
-        "mean_english": "vui vẻ",
-        "definition": "cheerful; not serious",
-        "ex_of_definition_list": [
-          "light music."
-        ]
-      },
-      {
-        "mean_english": "nhẹ",
-        "definition": "little in quantity; not intense, heavy, strong etc",
-        "ex_of_definition_list": [
-          "light rain."
-        ]
-      },
-      {
-        "mean_english": "tình cờ tìm thấy",
-        "definition": "to find by chance",
-        "ex_of_definition_list": [
-          "While wandering round the town, we lit on a very cheap restaurant."
-        ]
-      }
+    "hash_code_list_img": "-1639389343",
+    "list_example": [
+      "It was nearly dawn and the light was getting stronger",
+      "Sunlight streamed into the room.",
+      "Have you got a light for my cigarette?",
+      "The studio was a large, light room.",
+      "light green.",
+      "I bought a light suitcase for plane journeys.",
+      "a light meal.",
+      "Aluminium/Aluminum is a light metal.",
+      "She was very light on her feet.",
+      "light music.",
+      "light rain.",
+      "A 3-min period of dark adaptation was followed by a 1-min period of light adaptation to the two surrounds.",
+      "In light of this, it would seem appropriate to try another analytical approach that could be appropriate for strongly nonlinear systems.",
+      "All of them shed a direct or oblique light on the main themes of this project.",
+      "We find greater tip raising before both types of schwa, indicating light \\l\\ before schwa and dark \\l\\ in coda position.",
+      "We tested this idea by stimulating surrounds with large spots of light in the flat-mount preparation of the mouse retina.",
+      "However, many problems have remained unsolved, and many supposed facts need to be revised in the light of recent research.",
+      "Luminance gradients are usually thought to provide cues about the interactions of light and surfaces that model the volume of the resulting object."
     ],
-    "hash_code_list_definition_mean": "1847657528"
+    "hash_code_list_example": "1373284801"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/like_cb_dmean_5000_it.json",
@@ -2097,54 +1523,26 @@
         "id_image": "like_951435"
       }
     ],
-    "hash_code_list_img": "-2108538998",
-    "list_definition_mean": [
-      {
-        "mean_english": "giống như",
-        "definition": "the same or similar",
-        "ex_of_definition_list": [
-          "They’re as like as two peas in a pod."
-        ]
-      },
-      {
-        "mean_english": "giống nhau",
-        "definition": "the same as or similar to; in the same or a similar way as",
-        "ex_of_definition_list": [
-          "He climbs like a cat",
-          "She is like her mother."
-        ]
-      },
-      {
-        "mean_english": "sự giống nhau",
-        "definition": "someone or something which is the same or as good etc as another",
-        "ex_of_definition_list": [
-          "You won’t see his like / their like again."
-        ]
-      },
-      {
-        "mean_english": "giống như",
-        "definition": "in the same or a similar way as",
-        "ex_of_definition_list": [
-          "No-one does it like he does."
-        ]
-      },
-      {
-        "mean_english": "thích",
-        "definition": "to be pleased with; to find pleasant or agreeable",
-        "ex_of_definition_list": [
-          "I like him very much",
-          "I like the way you’ve decorated this room."
-        ]
-      },
-      {
-        "mean_english": "ham thích",
-        "definition": "to enjoy",
-        "ex_of_definition_list": [
-          "I like gardening."
-        ]
-      }
+    "hash_code_list_img": "-1506298801",
+    "list_example": [
+      "They’re as like as two peas in a pod.",
+      "He climbs like a cat",
+      "She is like her mother.",
+      "You won’t see his like / their like again.",
+      "No-one does it like he does.",
+      "I like him very much",
+      "I like the way you’ve decorated this room.",
+      "I like gardening.",
+      "Such children, we are told, look like animals and show no trace of intelligence.",
+      "Not only primates and cetaceans, but also other long-lived mammals, like elephants, have females playing active (crucial) post-reproductive roles.",
+      "It does not have to be like this.",
+      "A first theme, like a gust of wind, uses the colours of the chords.",
+      "Some demonstrated the use of technical language, for example 'it did sound very like a scale'.",
+      "The back of the menu, like the club name, inverted another old female stereotype, this time women's supposed cattiness among themselves.",
+      "I would like to know why they took place.",
+      "In a nonlinear environment, it would be enough to have locally increasing returns like setup costs."
     ],
-    "hash_code_list_definition_mean": "-1218089900"
+    "hash_code_list_example": "-1390247929"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/limb_cb_dmean_5000_it.json",
@@ -2168,18 +1566,11 @@
         "id_image": "limb_4201797"
       }
     ],
-    "hash_code_list_img": "666746682",
-    "list_definition_mean": [
-      {
-        "mean_english": "chi",
-        "definition": "an arm or leg",
-        "ex_of_definition_list": [
-          "an artificial limb",
-          "(also adjective) a limb injury."
-        ]
-      }
+    "hash_code_list_img": "512358",
+    "list_example": [
+      "(also adjective) a limb injury."
     ],
-    "hash_code_list_definition_mean": "555545242"
+    "hash_code_list_example": "1850615190"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lime_cb_dmean_5000_it.json",
@@ -2205,24 +1596,11 @@
         "id_image": "lime_4796211"
       }
     ],
-    "hash_code_list_img": "2145801144",
-    "list_definition_mean": [
-      {
-        "mean_english": "chanh lá cam",
-        "definition": "a type of small, very sour, yellowish-green citrus fruit related to the lemon",
-        "ex_of_definition_list": [
-          "a slice of lime."
-        ]
-      },
-      {
-        "mean_english": "màu vàng chanh",
-        "definition": "the colour/color of this fruit",
-        "ex_of_definition_list": [
-          "(also adjective) lime walls."
-        ]
-      }
+    "hash_code_list_img": "1754013187",
+    "list_example": [
+      "(also adjective) lime walls."
     ],
-    "hash_code_list_definition_mean": "856038273"
+    "hash_code_list_example": "1380646848"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/limitation_cb_dmean_5000_it.json",
@@ -2241,24 +1619,14 @@
         "id_image": "limitation_5387129"
       }
     ],
-    "hash_code_list_img": "1802493618",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự hạn chế",
-        "definition": "an act of limiting",
-        "ex_of_definition_list": [
-          "The government has imposed a limitation on the number of foreign cars which can be imported."
-        ]
-      },
-      {
-        "mean_english": "mặt hạn chế",
-        "definition": "a lack, eg of a particular facility, ability etc",
-        "ex_of_definition_list": [
-          "We all have our limitations."
-        ]
-      }
+    "hash_code_list_img": "408583663",
+    "list_example": [
+      "The government has imposed a limitation on the number of foreign cars which can be imported.",
+      "Perhaps most striking is the limitation of the reduplicant to nasal material.",
+      "The lack of a precise measure of the appropriate deforestation process is a serious limitation of previous studies on the topic.",
+      "A limitation of this data set was the lack of complete data reporting."
     ],
-    "hash_code_list_definition_mean": "299843336"
+    "hash_code_list_example": "-2065784938"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/limit_cb_dmean_5000_it.json",
@@ -2293,31 +1661,15 @@
         "id_image": "limit_6306394"
       }
     ],
-    "hash_code_list_img": "1232380675",
-    "list_definition_mean": [
-      {
-        "mean_english": "ranh giới",
-        "definition": "the farthest point or place; the boundary",
-        "ex_of_definition_list": [
-          "There was no limit to his ambition."
-        ]
-      },
-      {
-        "mean_english": "giới hạn",
-        "definition": "a restriction",
-        "ex_of_definition_list": [
-          "We must put a limit on our spending."
-        ]
-      },
-      {
-        "mean_english": "hạn chế",
-        "definition": "to set a restriction on",
-        "ex_of_definition_list": [
-          "We must limit the amount of time we spend on this work."
-        ]
-      }
+    "hash_code_list_img": "-2034937844",
+    "list_example": [
+      "There was no limit to his ambition.",
+      "We must put a limit on our spending.",
+      "We must limit the amount of time we spend on this work.",
+      "Various approaches to limit the number generated variants, explored in other work, apply to this work as well.",
+      "The purpose is to prove a distributional limit theorem for the number of visits to neighbourhoods of these points."
     ],
-    "hash_code_list_definition_mean": "-1774131789"
+    "hash_code_list_example": "-433075238"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/linesman_cb_dmean_5000_it.json",
@@ -2335,17 +1687,12 @@
         "id_image": "linesman_4977843"
       }
     ],
-    "hash_code_list_img": "314771523",
-    "list_definition_mean": [
-      {
-        "mean_english": "trọng tài biên",
-        "definition": "in sport, a judge or umpire at a boundary line",
-        "ex_of_definition_list": [
-          "The linesman signalled that the ball had crossed the line."
-        ]
-      }
+    "hash_code_list_img": "1210231660",
+    "list_example": [
+      "The linesman signalled that the ball had crossed the line.",
+      "I have been warned somewhat carefully for suggesting that the referee was visually challenged, and that a linesman needed a white stick."
     ],
-    "hash_code_list_definition_mean": "1863515327"
+    "hash_code_list_example": "1886867636"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/line_cb_dmean_5000_it.json",
@@ -2385,138 +1732,17 @@
         "id_image": "line_207014"
       }
     ],
-    "hash_code_list_img": "-301465178",
-    "list_definition_mean": [
-      {
-        "mean_english": "dây",
-        "definition": "(a piece of) thread, cord, rope etc",
-        "ex_of_definition_list": [
-          "She hung the washing on the line",
-          "a fishing-rod and line."
-        ]
-      },
-      {
-        "mean_english": "đường kẻ",
-        "definition": "a long, narrow mark, streak or stripe",
-        "ex_of_definition_list": [
-          "She drew a straight line across the page",
-          "a dotted/wavy line."
-        ]
-      },
-      {
-        "mean_english": "đường nét",
-        "definition": "outline or shape especially relating to length or direction",
-        "ex_of_definition_list": [
-          "The ship had very graceful lines",
-          "A dancer uses a mirror to improve his line."
-        ]
-      },
-      {
-        "mean_english": "nếp nhăn",
-        "definition": "a groove on the skin; a wrinkle",
-        "ex_of_definition_list": [
-          "Deep lines were etched across his forehead."
-        ]
-      },
-      {
-        "mean_english": "xếp hàng",
-        "definition": "a row or group of objects or persons arranged side by side or one behind the other",
-        "ex_of_definition_list": [
-          "The children stood in a line",
-          "a line of trees."
-        ]
-      },
-      {
-        "mean_english": "vài dòng",
-        "definition": "a short letter",
-        "ex_of_definition_list": [
-          "I’ll drop him a line."
-        ]
-      },
-      {
-        "mean_english": "dòng họ",
-        "definition": "a series or group of persons which come one after the other especially in the same family",
-        "ex_of_definition_list": [
-          "a line of kings."
-        ]
-      },
-      {
-        "mean_english": "hướng",
-        "definition": "a track or direction",
-        "ex_of_definition_list": [
-          "He pointed out the line of the new road",
-          "a new line of research."
-        ]
-      },
-      {
-        "mean_english": "đường tàu hỏa",
-        "definition": "the railway/railroad or a single track of the railway/railroad",
-        "ex_of_definition_list": [
-          "Passengers must cross the line by the bridge only."
-        ]
-      },
-      {
-        "mean_english": "đường dây",
-        "definition": "a continuous system (especially of pipes, electrical or telephone cables etc) connecting one place with another",
-        "ex_of_definition_list": [
-          "a pipeline",
-          "a line of communication",
-          "All (telephone) lines are engaged."
-        ]
-      },
-      {
-        "mean_english": "dòng chữ",
-        "definition": "a row of written or printed words",
-        "ex_of_definition_list": [
-          "The letter contained only three lines",
-          "a poem of sixteen lines."
-        ]
-      },
-      {
-        "mean_english": "tuyến đường",
-        "definition": "a regular service of ships, aircraft etc",
-        "ex_of_definition_list": [
-          "a shipping line."
-        ]
-      },
-      {
-        "mean_english": "chuyên ngành",
-        "definition": "a group or class (of goods for sale) or a field of activity, interest etc",
-        "ex_of_definition_list": [
-          "This has been a very popular new line",
-          "Computers are not really my line."
-        ]
-      },
-      {
-        "mean_english": "phòng tuyến",
-        "definition": "an arrangement of troops, especially when ready to fight",
-        "ex_of_definition_list": [
-          "He was sent to fight on the front line."
-        ]
-      },
-      {
-        "mean_english": "xếp thành hàng dọc",
-        "definition": "to form lines along",
-        "ex_of_definition_list": [
-          "Crowds lined the pavement to see the Queen."
-        ]
-      },
-      {
-        "mean_english": "phủ bên trong",
-        "definition": "to cover on the inside",
-        "ex_of_definition_list": [
-          "She lined the box with newspaper."
-        ]
-      },
-      {
-        "mean_english": "lót",
-        "definition": "to put a lining in",
-        "ex_of_definition_list": [
-          "She lined the dress with silk."
-        ]
-      }
+    "hash_code_list_img": "-153679241",
+    "list_example": [
+      "She drew a straight line across the page",
+      "a line of trees.",
+      "a line of kings.",
+      "He pointed out the line of the new road",
+      "a new line of research.",
+      "Passengers must cross the line by the bridge only.",
+      "a line of communication"
     ],
-    "hash_code_list_definition_mean": "-926000901"
+    "hash_code_list_example": "337764348"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/linguistic_cb_dmean_5000_it.json",
@@ -2534,17 +1760,19 @@
         "id_image": "linguistic_5100279"
       }
     ],
-    "hash_code_list_img": "673189218",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc về ngôn ngữ",
-        "definition": "of languages",
-        "ex_of_definition_list": [
-          "linguistic competence."
-        ]
-      }
+    "hash_code_list_img": "1619965005",
+    "list_example": [
+      "linguistic competence.",
+      "It presents arguments for the relevance of the child's own production for the building of linguistic representations.",
+      "Moreover, to ignore this combination of linguistic and sociocultural factors would degrade psychological research.",
+      "Not unexpectedly, they tended to report that the correction of linguistic slips is done mainly as they write.",
+      "But we do not need a technical linguistic term for abnormality/uncommonness/unusualness/ unexpectedness.",
+      "It is usually bothersome to be confronted with statements about the supposed universal nature of a particular linguistic phenomenon.",
+      "But he is teaching something which is the object of study of linguistics, and is described by linguistic methods.",
+      "This chapter was a boon to my students in an advanced course in linguistic anthropology.",
+      "Identifying the paths children take in recruiting already existing linguistic devices for new conceptual-syntactic mappings is of theoretical importance."
     ],
-    "hash_code_list_definition_mean": "1284098473"
+    "hash_code_list_example": "653731012"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/link_cb_dmean_5000_it.json",
@@ -2574,32 +1802,13 @@
         "id_image": "link_423846"
       }
     ],
-    "hash_code_list_img": "583391590",
-    "list_definition_mean": [
-      {
-        "mean_english": "mắt xích",
-        "definition": "a ring of a chain",
-        "ex_of_definition_list": [
-          "There was a worn link in the chain and it broke",
-          "an important link in the chain of evidence."
-        ]
-      },
-      {
-        "mean_english": "mối liên kết",
-        "definition": "anything connecting two things",
-        "ex_of_definition_list": [
-          "His job was to act as a link between the government and the press."
-        ]
-      },
-      {
-        "mean_english": "liên kết lại",
-        "definition": "to connect as by a link",
-        "ex_of_definition_list": [
-          "The new train service links the suburbs with the heart of the city."
-        ]
-      }
+    "hash_code_list_img": "-1336306783",
+    "list_example": [
+      "There was a worn link in the chain and it broke",
+      "an important link in the chain of evidence.",
+      "His job was to act as a link between the government and the press."
     ],
-    "hash_code_list_definition_mean": "-1870738260"
+    "hash_code_list_example": "1685847502"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lip_cb_dmean_5000_it.json",
@@ -2628,24 +1837,11 @@
         "id_image": "lip_1862698"
       }
     ],
-    "hash_code_list_img": "1605674277",
-    "list_definition_mean": [
-      {
-        "mean_english": "môi",
-        "definition": "either of the folds of flesh which form the edge of the mouth",
-        "ex_of_definition_list": [
-          "She bit her lip."
-        ]
-      },
-      {
-        "mean_english": "gờ; mép",
-        "definition": "the edge of something",
-        "ex_of_definition_list": [
-          "the lip of a cup."
-        ]
-      }
+    "hash_code_list_img": "373389974",
+    "list_example": [
+      "the lip of a cup."
     ],
-    "hash_code_list_definition_mean": "278678842"
+    "hash_code_list_example": "1166539227"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/liquid_cb_dmean_5000_it.json",
@@ -2679,25 +1875,11 @@
         "id_image": "liquid_6192469"
       }
     ],
-    "hash_code_list_img": "-1751411507",
-    "list_definition_mean": [
-      {
-        "mean_english": "lỏng",
-        "definition": "able to flow; not solid, but not a gas",
-        "ex_of_definition_list": [
-          "liquid nitrogen",
-          "The ice-cream has become liquid."
-        ]
-      },
-      {
-        "mean_english": "chất lỏng",
-        "definition": "a substance which flows, like water",
-        "ex_of_definition_list": [
-          "a clear liquid."
-        ]
-      }
+    "hash_code_list_img": "1734681088",
+    "list_example": [
+      "liquid nitrogen"
     ],
-    "hash_code_list_definition_mean": "767548979"
+    "hash_code_list_example": "-2127129603"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/listener_cb_dmean_5000_it.json",
@@ -2716,23 +1898,19 @@
         "id_image": "listener_4643239"
       }
     ],
-    "hash_code_list_img": "371630099",
-    "list_definition_mean": [
-      {
-        "mean_english": "người lắng nghe",
-        "definition": "a person who listens when someone else is speaking",
-        "ex_of_definition_list": [
-          "To be an effective manager, you have to be a good listener."
-        ]
-      },
-      {
-        "mean_english": "khán thính giả",
-        "definition": "someone who listens to the radio",
-        "ex_of_definition_list": [
-          "The show is aimed at teenage listeners."
-        ]
-      }
+    "hash_code_list_img": "1714823888",
+    "list_example": [
+      "To be an effective manager, you have to be a good listener.",
+      "The show is aimed at teenage listeners.",
+      "A different picture emerged by testing children as non-addressed listeners.",
+      "Selected cognitive factors and speech recognition performance among young and elderly listeners.",
+      "In other forms of current radio drama, the listeners' imaginations have less work to do.",
+      "Just as speakers are analogous to producers and sellers, listeners and viewers are analogous to buyers and consumers.",
+      "We describe listeners as caring, understanding, trusting and sympathetic individuals.",
+      "He found that performance was better when the talkers and listeners shared a dialect than when the talkers and listeners were from different dialect regions.",
+      "We must be careful to add all information sources, publications and interviews with the composer, other performers, musicologists, listeners and others.",
+      "Tone pairs were dichotically presented and listeners identified which tone they heard in each ear."
     ],
-    "hash_code_list_definition_mean": "-1670064948"
+    "hash_code_list_example": "-538306611"
   }
 ]

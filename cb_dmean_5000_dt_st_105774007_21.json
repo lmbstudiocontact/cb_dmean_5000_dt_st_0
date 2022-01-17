@@ -21,24 +21,11 @@
         "id_image": "tragedy_4065453"
       }
     ],
-    "hash_code_list_img": "-712921404",
-    "list_definition_mean": [
-      {
-        "mean_english": "bi kịch",
-        "definition": "(a) drama about unfortunate events with a sad outcome",
-        "ex_of_definition_list": [
-          "‘Hamlet’ is one of Shakespeare’s tragedies."
-        ]
-      },
-      {
-        "mean_english": "thảm kịch",
-        "definition": "an unfortunate or sad event",
-        "ex_of_definition_list": [
-          "His early death was a great tragedy for his family."
-        ]
-      }
+    "hash_code_list_img": "-585101122",
+    "list_example": [
+      "His early death was a great tragedy for his family."
     ],
-    "hash_code_list_definition_mean": "797439529"
+    "hash_code_list_example": "-67125798"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/trailer_cb_dmean_5000_it.json",
@@ -78,24 +65,15 @@
         "id_image": "trailer_4269183"
       }
     ],
-    "hash_code_list_img": "2008048078",
-    "list_definition_mean": [
-      {
-        "mean_english": "xe moóc",
-        "definition": "a vehicle pulled behind a motor car",
-        "ex_of_definition_list": [
-          "We carry our luggage in a trailer."
-        ]
-      },
-      {
-        "mean_english": "đoạn phim giới thiệu",
-        "definition": "a short film advertising a complete film",
-        "ex_of_definition_list": [
-          "a teaser trailer."
-        ]
-      }
+    "hash_code_list_img": "988567514",
+    "list_example": [
+      "This means that the heading of the trailer has no change during the manoeuvre, and thus the motion of the trailer is a pure translation.",
+      "Instead, they sold their home and move into a cramped trailer to afford care for their child.",
+      "Food was cooked and eaten in each group's own dining shelter, trailer or mess tent, or in shared mess tents.",
+      "The first two trailer loads fell off.",
+      "During the late 1940s and 1950s, diners, bowling alleys and trailer parks all sought to detach from their hardscrabble and unsavoury origins."
     ],
-    "hash_code_list_definition_mean": "1599512059"
+    "hash_code_list_example": "1543770728"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/trail_cb_dmean_5000_it.json",
@@ -123,52 +101,12 @@
         "id_image": "trail_4559875"
       }
     ],
-    "hash_code_list_img": "-696477082",
-    "list_definition_mean": [
-      {
-        "mean_english": "kéo",
-        "definition": "to drag, or be dragged, along loosely",
-        "ex_of_definition_list": [
-          "Garments were trailing from the suitcase."
-        ]
-      },
-      {
-        "mean_english": "đi lang thang",
-        "definition": "to walk slowly and usually wearily",
-        "ex_of_definition_list": [
-          "He trailed down the road."
-        ]
-      },
-      {
-        "mean_english": "lần theo dấu vết",
-        "definition": "to follow the track of",
-        "ex_of_definition_list": [
-          "The herd of reindeer was being trailed by a pack of wolves."
-        ]
-      },
-      {
-        "mean_english": "dấu vết",
-        "definition": "a track (of an animal)",
-        "ex_of_definition_list": [
-          "The trail was easy for the hunters to follow."
-        ]
-      },
-      {
-        "mean_english": "đường mòn",
-        "definition": "a path through a forest or other wild area",
-        "ex_of_definition_list": [
-          "a mountain trail."
-        ]
-      },
-      {
-        "mean_english": "vệt",
-        "definition": "a line, or series of marks, left by something as it passes",
-        "ex_of_definition_list": [
-          "There was a trail of blood across the floor."
-        ]
-      }
+    "hash_code_list_img": "2027297440",
+    "list_example": [
+      "The trail was easy for the hunters to follow.",
+      "There was a trail of blood across the floor."
     ],
-    "hash_code_list_definition_mean": "1059347296"
+    "hash_code_list_example": "1815516039"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/trainee_cb_dmean_5000_it.json",
@@ -186,18 +124,13 @@
         "id_image": "trainee_4126690"
       }
     ],
-    "hash_code_list_img": "1506095316",
-    "list_definition_mean": [
-      {
-        "mean_english": "người đã được huấn luyện",
-        "definition": "a person who is being trained",
-        "ex_of_definition_list": [
-          "He’s a trainee with an insurance firm",
-          "(also adjective) a trainee teacher."
-        ]
-      }
+    "hash_code_list_img": "554191500",
+    "list_example": [
+      "He’s a trainee with an insurance firm",
+      "(also adjective) a trainee teacher.",
+      "Thereafter, the trainee should take the opportunity regularly to review specimens under expert guidance."
     ],
-    "hash_code_list_definition_mean": "610680100"
+    "hash_code_list_example": "317898812"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/trainer_cb_dmean_5000_it.json",
@@ -226,17 +159,19 @@
         "id_image": "trainer_6036814"
       }
     ],
-    "hash_code_list_img": "591273560",
-    "list_definition_mean": [
-      {
-        "mean_english": "huấn luyện viên",
-        "definition": "a person who prepares people or animals for sport, a race etc",
-        "ex_of_definition_list": [
-          "a personal trainer."
-        ]
-      }
+    "hash_code_list_img": "281265636",
+    "list_example": [
+      "a personal trainer.",
+      "Second language researchers and trainers have met with some success in teaching language learners the skill of inferring meaning from context while reading, using a variety of teaching methods.",
+      "There is no centrally held data on the numbers of cycle trainers.",
+      "A major theme was the need for collaboration with colleagues at their own and other schools, with school authorities, inspectors, teacher trainers, and researchers (5 of the 7 teachers).",
+      "The training programme was positively evaluated by the recipients, the trainers and the researcher who observed it.",
+      "He is dodging the issue of the role of the trainers and educators.",
+      "Quibbles over style aside, it is clearly a valuable addition to the literature currently available to carers and trainers alike.",
+      "Thirdly, the number of trainers is decreasing and, fourthly, we can see from the figures that attendances at racecourses are static or even declining.",
+      "In other words, it will certify trainers and programmes, which has hitherto not been carried out."
     ],
-    "hash_code_list_definition_mean": "644163426"
+    "hash_code_list_example": "-1401972952"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/train_cb_dmean_5000_it.json",
@@ -275,61 +210,13 @@
         "id_image": "train_952356"
       }
     ],
-    "hash_code_list_img": "1466151465",
-    "list_definition_mean": [
-      {
-        "mean_english": "xe lửa, tàu",
-        "definition": "a railway/railroad engine with its carriages and/or trucks",
-        "ex_of_definition_list": [
-          "I caught the train to London."
-        ]
-      },
-      {
-        "mean_english": "đuôi dài lê thê",
-        "definition": "a part of a long dress or robe that trails behind the wearer",
-        "ex_of_definition_list": [
-          "The bride wore a dress with a train."
-        ]
-      },
-      {
-        "mean_english": "chuỗi",
-        "definition": "a connected series",
-        "ex_of_definition_list": [
-          "Then began a train of events which ended in disaster."
-        ]
-      },
-      {
-        "mean_english": "hàng, đàn",
-        "definition": "a line of animals carrying people or baggage",
-        "ex_of_definition_list": [
-          "a mule train",
-          "a baggage train."
-        ]
-      },
-      {
-        "mean_english": "đào tạo",
-        "definition": "to prepare, be prepared, or prepare oneself, through instruction, practice, exercise etc, for a sport, job, profession etc",
-        "ex_of_definition_list": [
-          "I was trained as a teacher",
-          "The racehorse was trained by my uncle."
-        ]
-      },
-      {
-        "mean_english": "chĩa",
-        "definition": "to point or aim (a gun, telescope etc) in a particular direction",
-        "ex_of_definition_list": [
-          "He trained the gun on/at the soldiers."
-        ]
-      },
-      {
-        "mean_english": "ngả về, mọc theo chiều",
-        "definition": "to make (a tree, plant etc) grow in a particular direction",
-        "ex_of_definition_list": [
-          "You could train the plant up the trellis."
-        ]
-      }
+    "hash_code_list_img": "774404404",
+    "list_example": [
+      "I caught the train to London.",
+      "Then began a train of events which ended in disaster.",
+      "You could train the plant up the trellis."
     ],
-    "hash_code_list_definition_mean": "922636784"
+    "hash_code_list_example": "805386295"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/trampoline_cb_dmean_5000_it.json",
@@ -367,17 +254,15 @@
         "id_image": "trampoline_405351"
       }
     ],
-    "hash_code_list_img": "-1929737248",
-    "list_definition_mean": [
-      {
-        "mean_english": "tấm bạt căng",
-        "definition": "a horizontal framework across which a piece of canvas etc is stretched, attached by springs, for gymnasts etc to jump on",
-        "ex_of_definition_list": [
-          "Children love jumping on trampolines."
-        ]
-      }
+    "hash_code_list_img": "1358597591",
+    "list_example": [
+      "The tax credit system provides the trampoline for them to get into work, which is essential if they are to develop skills and go beyond the minimum wage.",
+      "The player can also high jump, but high jumping too many times in a row can cause the trampoline to break.",
+      "If so, all of us can help to trampoline those children out of a life of rather deep poverty.",
+      "It is a trampoline from which the whole project will escalate as a means of excellent supersonic communication.",
+      "There was only a single competitor in equestrian, artistic and trampoline gymnastics, judo, and weightlifting."
     ],
-    "hash_code_list_definition_mean": "654322809"
+    "hash_code_list_example": "288071010"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/trance_cb_dmean_5000_it.json",
@@ -400,17 +285,11 @@
         "id_image": "trance_4382693"
       }
     ],
-    "hash_code_list_img": "-1613409898",
-    "list_definition_mean": [
-      {
-        "mean_english": "trạng thái hôn mê",
-        "definition": "a sleep-like or half-conscious state",
-        "ex_of_definition_list": [
-          "The hypnotist put her into a trance."
-        ]
-      }
+    "hash_code_list_img": "-69570059",
+    "list_example": [
+      "There is passing reference to trance and the use of musical instruments in rituals and more shamanic traditions."
     ],
-    "hash_code_list_definition_mean": "971233913"
+    "hash_code_list_example": "1478467909"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/transaction_cb_dmean_5000_it.json",
@@ -444,24 +323,14 @@
         "id_image": "transaction_894145"
       }
     ],
-    "hash_code_list_img": "-1010305934",
-    "list_definition_mean": [
-      {
-        "mean_english": "vụ giao dịch",
-        "definition": "a particular piece of business; a business deal",
-        "ex_of_definition_list": [
-          "online financial transactions."
-        ]
-      },
-      {
-        "mean_english": "công việc giao dịch",
-        "definition": "the act of transacting",
-        "ex_of_definition_list": [
-          "The transaction of the deal took several days."
-        ]
-      }
+    "hash_code_list_img": "-556832605",
+    "list_example": [
+      "The transaction of the deal took several days.",
+      "These economies of scope in transaction differ radically from the traditional economies of scope in terms of production costs.",
+      "The coordination of all threads belonging to the same transaction is then crucial, because they must all commit or abort in case the transaction fails.",
+      "These typically involve some form of transaction processing and require accessing multiple information systems."
     ],
-    "hash_code_list_definition_mean": "-1738953722"
+    "hash_code_list_example": "1885884667"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/transcript_cb_dmean_5000_it.json",
@@ -485,17 +354,15 @@
         "id_image": "transcript_3883065"
       }
     ],
-    "hash_code_list_img": "-1778964846",
-    "list_definition_mean": [
-      {
-        "mean_english": "bản sao",
-        "definition": "a written or printed copy of a discussion, a speech etc",
-        "ex_of_definition_list": [
-          "I’ve read the transcript of the tape/interview."
-        ]
-      }
+    "hash_code_list_img": "-258869936",
+    "list_example": [
+      "I’ve read the transcript of the tape/interview.",
+      "Characterization of the transcript and putative promoter sequences identified a novel upstream uncoding exon and two alternative transcripts encoding an identical open reading frame.",
+      "We hypothesize that natural quantitative variation in the gene transcript level is partially explained by the transcript level variation of upstream splicing factors.",
+      "The transcript was extensively revised by the composer and edited by the present writer to produce the current version.",
+      "Each transcript was read in detail, and significant phrases or statements that pertained to the experience were extracted."
     ],
-    "hash_code_list_definition_mean": "482981251"
+    "hash_code_list_example": "1763516721"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/transfer_cb_dmean_5000_it.json",
@@ -537,38 +404,12 @@
         "id_image": "transfer_901039"
       }
     ],
-    "hash_code_list_img": "-1899145435",
-    "list_definition_mean": [
-      {
-        "mean_english": "dời",
-        "definition": "to remove to another place",
-        "ex_of_definition_list": [
-          "He transferred the letter from his briefcase to his pocket."
-        ]
-      },
-      {
-        "mean_english": "chuyển, dọn",
-        "definition": "to (cause to) move to another place, job, vehicle etc",
-        "ex_of_definition_list": [
-          "I’m transferring / They’re transferring me to the Bangkok office."
-        ]
-      },
-      {
-        "mean_english": "chuyển nhượng",
-        "definition": "to give to another person, especially legally",
-        "ex_of_definition_list": [
-          "I intend to transfer the property to my son."
-        ]
-      },
-      {
-        "mean_english": "sự chuyển nhượng",
-        "definition": "the act of transferring",
-        "ex_of_definition_list": [
-          "The manager arranged for his transfer to another football club."
-        ]
-      }
+    "hash_code_list_img": "241378656",
+    "list_example": [
+      "I intend to transfer the property to my son.",
+      "The manager arranged for his transfer to another football club."
     ],
-    "hash_code_list_definition_mean": "1287764820"
+    "hash_code_list_example": "550387300"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/transformation_cb_dmean_5000_it.json",
@@ -597,24 +438,17 @@
         "id_image": "transformation_5139931"
       }
     ],
-    "hash_code_list_img": "-92216872",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự chuyển đổi",
-        "definition": "the act of transforming or process of being transformed",
-        "ex_of_definition_list": [
-          "the transformation of water into ice."
-        ]
-      },
-      {
-        "mean_english": "sự thay đổi",
-        "definition": "a change",
-        "ex_of_definition_list": [
-          "The event caused a transformation in her character."
-        ]
-      }
+    "hash_code_list_img": "-379114762",
+    "list_example": [
+      "the transformation of water into ice.",
+      "The event caused a transformation in her character.",
+      "Finding an answer to the question of why a transformation took place in prehistory, then, would ideally mean taking all factors involved into account.",
+      "The most important transformation perhaps has been the guiding principle.",
+      "It is unlikely that, in this case, the aneurysmal transformation had been caused by tuberculosis, considering its frequent association with peri-membranous ventricular septal defects.",
+      "The transformation of the body by burning implies quite different things within different eschatologies.",
+      "We can now return to the process of transformation by which we convert inward invisible stores of knowledge into visible information."
     ],
-    "hash_code_list_definition_mean": "116892538"
+    "hash_code_list_example": "-1406906382"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/transform_cb_dmean_5000_it.json",
@@ -647,18 +481,11 @@
         "id_image": "transform_5266069"
       }
     ],
-    "hash_code_list_img": "26516848",
-    "list_definition_mean": [
-      {
-        "mean_english": "biến đổi",
-        "definition": "to change the appearance or nature of completely",
-        "ex_of_definition_list": [
-          "He transformed the old kitchen into a beautiful sitting-room",
-          "His marriage has transformed him."
-        ]
-      }
+    "hash_code_list_img": "618198165",
+    "list_example": [
+      "Otherwise, the primes' impact was compromised, presumably because time was too short to transform the mapping rule into a corresponding intention."
     ],
-    "hash_code_list_definition_mean": "927364746"
+    "hash_code_list_example": "344150748"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/transfusion_cb_dmean_5000_it.json",
@@ -692,17 +519,19 @@
         "id_image": "transfusion_472923"
       }
     ],
-    "hash_code_list_img": "2140432823",
-    "list_definition_mean": [
-      {
-        "mean_english": "lượng máu được truyền",
-        "definition": "a quantity of blood transferred from one person to another",
-        "ex_of_definition_list": [
-          "She was given a blood transfusion."
-        ]
-      }
+    "hash_code_list_img": "918217763",
+    "list_example": [
+      "She was given a blood transfusion.",
+      "They may, for example, be infected through receiving blood transfusions following a traffic accident, or when they visit their dentist.",
+      "There are more than 1,000 haemophiliacs and nearly 100 others who received contaminated blood transfusions.",
+      "Maternal platelet transfusions are only effective for several hours and can lead to alloimmunization to donor platelet antigens.",
+      "Efforts have been made to minimize circuit prime to avoid homologous transfusions and blood product administration.",
+      "Cost-effectiveness of recombinant human erythropoietin for reducing red blood cells transfusions in critically ill patients.",
+      "A caesarean section and a hysterectomy will be required to save her and her baby, but the surgery will involve blood transfusions.",
+      "A biochemical approach, called phenotyping, is in use but has important limitations as blood transfusions interfere with the results.",
+      "The earliest of those 15 transfusions was in 1993 and the latest in 2001."
     ],
-    "hash_code_list_definition_mean": "469908970"
+    "hash_code_list_example": "335283755"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/transgenic_cb_dmean_5000_it.json",
@@ -735,17 +564,19 @@
         "id_image": "transgenic_6433272"
       }
     ],
-    "hash_code_list_img": "1194408310",
-    "list_definition_mean": [
-      {
-        "mean_english": "chuyển gen",
-        "definition": "(of an animal or plant) containing genetic material that has been artificially introduced from another species; genetically modified",
-        "ex_of_definition_list": [
-          "the environmental impact of transgenic crops."
-        ]
-      }
+    "hash_code_list_img": "-502681116",
+    "list_example": [
+      "the environmental impact of transgenic crops.",
+      "Spontaneous diabetes mellitus in transgenic mice expressing human islet amyloid polypeptide.",
+      "Production of transgenic goats by pronuclear microinjection of in vitro produced zygotes derived from oocytes recovered by laparoscopy.",
+      "The third theme explores whether transgenic crops are necessary for the production of wildlife habitat and wilderness, and to feed the world's population.",
+      "While the potential for these environmental benefits from transgenic crops is real, it is as yet unrealized.",
+      "The authors explore the issues and linkages that associate transgenic crops with the environment.",
+      "Furthermore, no disease could be transmitted from these mice to either transgenic or non-transgenic mice.",
+      "Cloned transgenic offspring resulting from somatic cell nuclear transfer in the goat: oocytes derived from both follicle-stimulating hormone-stimulated and nonstimulated abattoir-derived ovaries.",
+      "As a result, the nodal length in larger axons (>1 mm) is significantly reduced in transgenic mice compared with their wild-type littermates."
     ],
-    "hash_code_list_definition_mean": "19667013"
+    "hash_code_list_example": "848493071"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/transistor_cb_dmean_5000_it.json",
@@ -774,17 +605,11 @@
         "id_image": "transistor_5147322"
       }
     ],
-    "hash_code_list_img": "1356234838",
-    "list_definition_mean": [
-      {
-        "mean_english": "máy thu thanh bán dẫn",
-        "definition": "(also transistor radio) a portable radio that uses these",
-        "ex_of_definition_list": [
-          "She took her transistor everywhere with her."
-        ]
-      }
+    "hash_code_list_img": "-1531391518",
+    "list_example": [
+      "She took her transistor everywhere with her."
     ],
-    "hash_code_list_definition_mean": "907996465"
+    "hash_code_list_example": "-854547467"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/transition_cb_dmean_5000_it.json",
@@ -807,17 +632,11 @@
         "id_image": "transition_5184279"
       }
     ],
-    "hash_code_list_img": "717479467",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự quá độ",
-        "definition": "(a) change from one place, state, subject etc to another",
-        "ex_of_definition_list": [
-          "The transition from child to adult can be difficult."
-        ]
-      }
+    "hash_code_list_img": "-471554648",
+    "list_example": [
+      "The transition from child to adult can be difficult."
     ],
-    "hash_code_list_definition_mean": "893419605"
+    "hash_code_list_example": "1740906575"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/transit_cb_dmean_5000_it.json",
@@ -840,17 +659,15 @@
         "id_image": "transit_4283286"
       }
     ],
-    "hash_code_list_img": "150777118",
-    "list_definition_mean": [
-      {
-        "mean_english": "quá cảnh",
-        "definition": "the carrying or movement of goods, passengers etc from place to place",
-        "ex_of_definition_list": [
-          "The goods have been lost in transit."
-        ]
-      }
+    "hash_code_list_img": "1939786513",
+    "list_example": [
+      "A discrete spectrum of phases exists for which complete mode conversion of the incident wave for a transit of the resonance region can be achieved.",
+      "While the high quality and great size of most ship-timbers made them valuable commodities, many were damaged in transit or storage.",
+      "First, individuals who transit an intermediate city (do not leave the airport) between their origin and destination are not distinguished from persons who travel directly.",
+      "However, parametric imaging revealed delayed left lung flow and transit time and decreased left lung volume.",
+      "We are working to optimize observing sites and procedures to increase transit detection rates."
     ],
-    "hash_code_list_definition_mean": "1360921714"
+    "hash_code_list_example": "900020518"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/translate_cb_dmean_5000_it.json",
@@ -873,17 +690,13 @@
         "id_image": "translate_5146529"
       }
     ],
-    "hash_code_list_img": "2082680742",
-    "list_definition_mean": [
-      {
-        "mean_english": "dịch",
-        "definition": "to put (something said or written) into another language",
-        "ex_of_definition_list": [
-          "He translated the book from French into English."
-        ]
-      }
+    "hash_code_list_img": "432948070",
+    "list_example": [
+      "However, these laudable aims have proven difficult to translate into practice.",
+      "These obvious gender differences in societal roles may potentially translate into gender differences in the sources of social support.",
+      "There must also be a party for which they can vote that promises to translate their fears into remedial government policy if elected to office."
     ],
-    "hash_code_list_definition_mean": "711496522"
+    "hash_code_list_example": "751300100"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/translation_cb_dmean_5000_it.json",
@@ -912,24 +725,18 @@
         "id_image": "translation_6091217"
       }
     ],
-    "hash_code_list_img": "-1570787049",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự dịch, việc dịch",
-        "definition": "the act of translating",
-        "ex_of_definition_list": [
-          "The translation of poetry is difficult."
-        ]
-      },
-      {
-        "mean_english": "bản dịch",
-        "definition": "a version of a book, something said etc, in another language",
-        "ex_of_definition_list": [
-          "He gave me an Italian translation of the Bible."
-        ]
-      }
+    "hash_code_list_img": "-1789557156",
+    "list_example": [
+      "The translation of poetry is difficult.",
+      "He gave me an Italian translation of the Bible.",
+      "Finally, when they are compared with respect to the easiness of visual computations of the required motion parameters, rotation translation appears simpler.",
+      "However, if the goal is translation into several languages eventually every distinction that can be made will be made, and there are few useful generalizations.",
+      "In short, the target's translation (\"dog\") interferes with the retrieval of the target's name in the response language (\"perro\").",
+      "As usual with generative probabilistic models, translation is performed by inverting the channel.",
+      "Instructions and sentences used for the elicited oral translation task.",
+      "This mixing of source material from two languages suggests that loan translation and, by extension, all structural borrowing should receive theoretical treatment together with codeswitching."
     ],
-    "hash_code_list_definition_mean": "-1185195870"
+    "hash_code_list_example": "-1299191333"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/translator_cb_dmean_5000_it.json",
@@ -957,17 +764,12 @@
         "id_image": "translator_6091120"
       }
     ],
-    "hash_code_list_img": "-1059253257",
-    "list_definition_mean": [
-      {
-        "mean_english": "biên dịch viên",
-        "definition": "a person who translates",
-        "ex_of_definition_list": [
-          "a freelance translator."
-        ]
-      }
+    "hash_code_list_img": "686425321",
+    "list_example": [
+      "The translator requires information from the dictionary system by means of direct queries.",
+      "There is also sometimes a purposeful editing while the translator was undertaking his work."
     ],
-    "hash_code_list_definition_mean": "1704943441"
+    "hash_code_list_example": "914045846"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/translucent_cb_dmean_5000_it.json",
@@ -985,17 +787,15 @@
         "id_image": "translucent_5830716"
       }
     ],
-    "hash_code_list_img": "884382259",
-    "list_definition_mean": [
-      {
-        "mean_english": "mờ",
-        "definition": "allowing light to pass through, but not transparent",
-        "ex_of_definition_list": [
-          "translucent plastic."
-        ]
-      }
+    "hash_code_list_img": "612928938",
+    "list_example": [
+      "translucent plastic.",
+      "A light bulb identical to those over the flight section was positioned above each trap over the translucent ceiling.",
+      "From bluish gray to opaque gray and relatively translucent black; dark gray or light gray banding is present.",
+      "The patent drawings show a translucent roof constructed like the walls but this was omitted in the built project.",
+      "The lack of an obvious ocular-dominance pattern in kittens is also probably because the translucent eyelids of young animals transmit visual information."
     ],
-    "hash_code_list_definition_mean": "2048997439"
+    "hash_code_list_example": "1153241220"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/transmission_cb_dmean_5000_it.json",
@@ -1029,17 +829,11 @@
         "id_image": "transmission_4796100"
       }
     ],
-    "hash_code_list_img": "-2067988715",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự làm lây lan",
-        "definition": "the act of transmitting",
-        "ex_of_definition_list": [
-          "the transmission of disease / radio signals."
-        ]
-      }
+    "hash_code_list_img": "-1452951729",
+    "list_example": [
+      "the transmission of disease / radio signals."
     ],
-    "hash_code_list_definition_mean": "554385764"
+    "hash_code_list_example": "650365016"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/transmitter_cb_dmean_5000_it.json",
@@ -1067,17 +861,15 @@
         "id_image": "transmitting_2649838"
       }
     ],
-    "hash_code_list_img": "32705225",
-    "list_definition_mean": [
-      {
-        "mean_english": "máy phát",
-        "definition": "an apparatus for transmitting, or a person who transmits",
-        "ex_of_definition_list": [
-          "a radio transmitter."
-        ]
-      }
+    "hash_code_list_img": "1998208436",
+    "list_example": [
+      "The shape of the variance -mean relation suggests that in bright light transmitter release approaches zero, while in darkness transmitter release saturates the postsynaptic response.",
+      "In addition, they are sensitive to neuronal activity by expressing various transmitter receptors.",
+      "In effect the cone bipolar cell counts every vesicle released, thus allowing synaptic transfer to be encoded by much lower transmitter release rates.",
+      "Most of our arguments concerning vertical transmission require only transgenerational transmission, and relate to the temporal distance between the learning of transmitter and receiver.",
+      "It is known that exogenous application of a transmitter activates both synaptic and extrasynaptic receptors."
     ],
-    "hash_code_list_definition_mean": "1184384323"
+    "hash_code_list_example": "-1302074999"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/transparency_cb_dmean_5000_it.json",
@@ -1111,24 +903,16 @@
         "id_image": "transparency_5572534"
       }
     ],
-    "hash_code_list_img": "530761437",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự minh bạch",
-        "definition": "the state of being transparent",
-        "ex_of_definition_list": [
-          "the transparency of the water."
-        ]
-      },
-      {
-        "mean_english": "kính ảnh phim đèn chiếu",
-        "definition": "a photograph printed on transparent material, a slide",
-        "ex_of_definition_list": [
-          "I took some transparencies of the cathedral."
-        ]
-      }
+    "hash_code_list_img": "-2009227065",
+    "list_example": [
+      "the transparency of the water.",
+      "The documentation showed that systems varied in the configuration of institutions responsible for each stage and in the sophistication and transparency of the processes undertaken.",
+      "We have not yet justified a ranking for the constraints that figure crucially in the transparency of neutral segments.",
+      "The performances, transparency and contact stability, of the method were validated by the simulations subjected to a constant delay.",
+      "The main advantage of this method is the transparency of agent behavior as decisions can be easily deduced from the data provided.",
+      "A very good practice to reinforce the transparency of the model is to provide electronic copies of the model when it is submitted for publication."
     ],
-    "hash_code_list_definition_mean": "1439770499"
+    "hash_code_list_example": "-1273915924"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/transparent_cb_dmean_5000_it.json",
@@ -1156,17 +940,17 @@
         "id_image": "transparent_5518082"
       }
     ],
-    "hash_code_list_img": "-1739337757",
-    "list_definition_mean": [
-      {
-        "mean_english": "có thể nhìn xuyên qua",
-        "definition": "able to be seen through",
-        "ex_of_definition_list": [
-          "The box has a transparent lid."
-        ]
-      }
+    "hash_code_list_img": "-1871249504",
+    "list_example": [
+      "The box has a transparent lid.",
+      "All these measurements indicate that the inner array is, in both configurations, transparent to the incoming flux of the coronal plasma from the outer array.",
+      "An advantage of the zebrafish is its transparent nature during embryonic and larval stages.",
+      "The target is mostly still transparent to the probe light, although it is becoming opaque near the interaction region.",
+      "A transparent and participatory policy-making process provides a mechanism for ex ante preference revelation.",
+      "Our approach gives the programmer a transparent denotational semantics that can be used to check that programmes meet their specifications.",
+      "In reality, however, decision makers may deviate from this utilitarian perspective for very rational and transparent reasons."
     ],
-    "hash_code_list_definition_mean": "2099220618"
+    "hash_code_list_example": "-2098358492"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/transplant_cb_dmean_5000_it.json",
@@ -1193,38 +977,15 @@
         "id_image": "transplant_4815842"
       }
     ],
-    "hash_code_list_img": "1076714843",
-    "list_definition_mean": [
-      {
-        "mean_english": "cấy, ghép",
-        "definition": "to remove (an organ of the body) and put it into another person or animal",
-        "ex_of_definition_list": [
-          "Doctors are able to transplant kidneys."
-        ]
-      },
-      {
-        "mean_english": "ghép cây",
-        "definition": "to plant in another place",
-        "ex_of_definition_list": [
-          "We transplanted the rose bush (to the back garden)."
-        ]
-      },
-      {
-        "mean_english": "sự cấy",
-        "definition": "an operation in which an organ or skin is transplanted",
-        "ex_of_definition_list": [
-          "He had to have a kidney transplant."
-        ]
-      },
-      {
-        "mean_english": "cơ quan được cấy ghép",
-        "definition": "an organ, skin, or a plant that is transplanted",
-        "ex_of_definition_list": [
-          "The transplant was rejected by the surrounding tissue."
-        ]
-      }
+    "hash_code_list_img": "-569221797",
+    "list_example": [
+      "Doctors are able to transplant kidneys.",
+      "The transplant was rejected by the surrounding tissue.",
+      "Management of these complex problems is a daily activity for the transplant physician/surgeon who becomes comfortable in this type of environment.",
+      "The limitations of our investigation notwithstanding, the multivariate analyses suggested that respondents' temporal distress profiles were predicted by pre- and post-transplant health and psychosocial characteristics.",
+      "The agricultural implications of this result are evident for nurseries - the losses they experience in the transplant of plants could be reduced."
     ],
-    "hash_code_list_definition_mean": "1796827366"
+    "hash_code_list_example": "191491425"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/transportation_cb_dmean_5000_it.json",
@@ -1252,17 +1013,17 @@
         "id_image": "transportation_6214035"
       }
     ],
-    "hash_code_list_img": "1915978709",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự chuyên chở",
-        "definition": "transport",
-        "ex_of_definition_list": [
-          "the city’s transportation system."
-        ]
-      }
+    "hash_code_list_img": "-1105575587",
+    "list_example": [
+      "the city’s transportation system.",
+      "The choice of transportation already points to the destinations most often visited during the 1950s.",
+      "This system has a hierarchical, though dynamic, arrangement of cores and peripheries, linked together in tentacular fashion by lines of transportation and communication.",
+      "Finally, the ' strategic ' economic sectors of energy, communications, and transportation were opened to private sector ' participation ' on equal terms, with no protection for public enterprises.",
+      "As the transportation and communications networks developed, the possibility of a truly national market emerged, which placed an added pressure on the state legislatures.",
+      "Provision is necessary for alternative means of transportation so that a driving prohibition does not lead to social isolation and frustration.",
+      "They maintained that large doses of foreign capital were essential to constructing a modern transportation network, modernising agriculture, exploiting mineral resources and creating industry."
     ],
-    "hash_code_list_definition_mean": "2054907253"
+    "hash_code_list_example": "-1192308207"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/transporter_cb_dmean_5000_it.json",
@@ -1280,17 +1041,13 @@
         "id_image": "transporter_421837"
       }
     ],
-    "hash_code_list_img": "1978836595",
-    "list_definition_mean": [
-      {
-        "mean_english": "người, vật chuyên chở",
-        "definition": "someone or something that transports, especially a heavy vehicle for carrying large goods",
-        "ex_of_definition_list": [
-          "a car transporter."
-        ]
-      }
+    "hash_code_list_img": "1387472449",
+    "list_example": [
+      "Efficacy of paroxetine in depression is influenced by a functional polymorphism within the promoter of the serotonin transporter gene.",
+      "Therefore, a glycine transporter antibody would be a better marker for the glycinergic terminals.",
+      "Change in monoamine transporter density related to clinical recovery : a casecontrol study."
     ],
-    "hash_code_list_definition_mean": "1558514849"
+    "hash_code_list_example": "1429672022"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/transport_cb_dmean_5000_it.json",
@@ -1319,26 +1076,15 @@
         "id_image": "transport_848548"
       }
     ],
-    "hash_code_list_img": "1190317906",
-    "list_definition_mean": [
-      {
-        "mean_english": "vận chuyển",
-        "definition": "to carry (goods, passengers etc) from one place to another",
-        "ex_of_definition_list": [
-          "The goods were transported by air",
-          "A bus transported us from the airport to the city."
-        ]
-      },
-      {
-        "mean_english": "sự vận chuyển",
-        "definition": "the process of transporting or being transported",
-        "ex_of_definition_list": [
-          "road transport",
-          "My husband is using my car, so I have no (means of) transport."
-        ]
-      }
+    "hash_code_list_img": "173659555",
+    "list_example": [
+      "These experiments demonstrated good transport properties and verified the theoretical modeling.",
+      "Granulocyte-macrophage colonystimulating factor promotes glucose transport and blastomere viability in murine preimplantation embryos.",
+      "It has been found that radiation transport plays an essential role at stagnation phase, determining the final distribution of density and temperature.",
+      "Studies of transport of atmospheric pollutants often require treatment of nonhomogeneous and non-stationary flows.",
+      "In order to calculate the hyperbolic part of the equations we took one of the algorithms of the flux corrected transport [36]."
     ],
-    "hash_code_list_definition_mean": "-72750142"
+    "hash_code_list_example": "932269475"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/trapeze_cb_dmean_5000_it.json",
@@ -1366,18 +1112,18 @@
         "id_image": "trapeze_405347"
       }
     ],
-    "hash_code_list_img": "1371649400",
-    "list_definition_mean": [
-      {
-        "mean_english": "đu, xà treo",
-        "definition": "a horizontal bar hung on two ropes, on which gymnasts or acrobats perform",
-        "ex_of_definition_list": [
-          "They performed on the trapeze",
-          "(also adjective) a trapeze artist."
-        ]
-      }
+    "hash_code_list_img": "-1659944934",
+    "list_example": [
+      "(also adjective) a trapeze artist.",
+      "His father had not been very happy about it, he had wished that his son is a trapeze artist like him.",
+      "There is a great danger if the trapeze artist thinks about the safety net all the time, because he then starts to get dizzy.",
+      "Music—incidental, live or whatever—is one of the issues, but there are also questions about whether the activities fall into the category of sports events—for example, those of trapeze artists.",
+      "What about the trapeze performer who carries out his performance as high up in the air as the roof of this chamber?",
+      "On the other side of the stairway defining this wall we see a ballgame player with the trapeze and ray symbol; this building is aligned with the ballcourt.",
+      "I do not want to see this unbounded enthusiasm, with people performing on a trapeze and so on.",
+      "When he becomes extraordinarily skilful at these physical exercises he may become a trapeze performer, and then it would be much more dangerous for him."
     ],
-    "hash_code_list_definition_mean": "1545143937"
+    "hash_code_list_example": "-1544462325"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/trap_cb_dmean_5000_it.json",
@@ -1402,34 +1148,11 @@
         "id_image": "trap_4293848"
       }
     ],
-    "hash_code_list_img": "-981398152",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái bẫy",
-        "definition": "a device for catching animals",
-        "ex_of_definition_list": [
-          "He set a trap to catch the bear",
-          "a mousetrap."
-        ]
-      },
-      {
-        "mean_english": "kế hoạch để bẫy",
-        "definition": "a plan or trick for taking a person by surprise",
-        "ex_of_definition_list": [
-          "She led him into a trap",
-          "He fell straight into the trap."
-        ]
-      },
-      {
-        "mean_english": "đặt bẫy",
-        "definition": "to catch in a trap or by a trick",
-        "ex_of_definition_list": [
-          "He lives by trapping animals and selling their fur",
-          "She trapped him into admitting that he liked her."
-        ]
-      }
+    "hash_code_list_img": "517399572",
+    "list_example": [
+      "He set a trap to catch the bear"
     ],
-    "hash_code_list_definition_mean": "-566179778"
+    "hash_code_list_example": "2144438457"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/trash_cb_dmean_5000_it.json",
@@ -1447,17 +1170,11 @@
         "id_image": "trash_548561"
       }
     ],
-    "hash_code_list_img": "1777556816",
-    "list_definition_mean": [
-      {
-        "mean_english": "rác",
-        "definition": "rubbish",
-        "ex_of_definition_list": [
-          "Throw it away! It’s just trash."
-        ]
-      }
+    "hash_code_list_img": "491894471",
+    "list_example": [
+      "Throw it away! It’s just trash."
     ],
-    "hash_code_list_definition_mean": "1586714053"
+    "hash_code_list_example": "169905014"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/trauma_cb_dmean_5000_it.json",
@@ -1477,32 +1194,13 @@
         "id_image": "trauma_4897071"
       }
     ],
-    "hash_code_list_img": "57350983",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự chấn thương",
-        "definition": "a mental condition in which someone feels very anxious, shocked, or upset after an extremely unpleasant experience",
-        "ex_of_definition_list": [
-          "Common signs of trauma include flashbacks or frequent nightmares."
-        ]
-      },
-      {
-        "mean_english": "vết thương",
-        "definition": "an extremely unpleasant experience that makes someone feel very anxious, shocked, or upset for a long period of time",
-        "ex_of_definition_list": [
-          "the trauma of being imprisoned/tortured."
-        ]
-      },
-      {
-        "mean_english": "chấn thương",
-        "definition": "a serious injury",
-        "ex_of_definition_list": [
-          "brain/neck trauma",
-          "(also adjective) a trauma victim/unit."
-        ]
-      }
+    "hash_code_list_img": "723039015",
+    "list_example": [
+      "Common signs of trauma include flashbacks or frequent nightmares.",
+      "the trauma of being imprisoned/tortured.",
+      "(also adjective) a trauma victim/unit."
     ],
-    "hash_code_list_definition_mean": "171792178"
+    "hash_code_list_example": "-2105563772"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/traveller_cb_dmean_5000_it.json",
@@ -1530,17 +1228,11 @@
         "id_image": "traveller_4683607"
       }
     ],
-    "hash_code_list_img": "196526514",
-    "list_definition_mean": [
-      {
-        "mean_english": "người đi du lịch",
-        "definition": "a person who travels",
-        "ex_of_definition_list": [
-          "a weary traveller."
-        ]
-      }
+    "hash_code_list_img": "-2093469378",
+    "list_example": [
+      "The language barrier represented another pressure, since the traveller could be the victim of interpreters or informers."
     ],
-    "hash_code_list_definition_mean": "1701223950"
+    "hash_code_list_example": "-943429507"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/travel_cb_dmean_5000_it.json",
@@ -1576,40 +1268,11 @@
         "id_image": "travel_907346"
       }
     ],
-    "hash_code_list_img": "464430390",
-    "list_definition_mean": [
-      {
-        "mean_english": "đi lại",
-        "definition": "to go from place to place; to journey",
-        "ex_of_definition_list": [
-          "I travelled to Scotland by train",
-          "He has to travel a long way to school."
-        ]
-      },
-      {
-        "mean_english": "chuyển động",
-        "definition": "to move",
-        "ex_of_definition_list": [
-          "Light travels in a straight line."
-        ]
-      },
-      {
-        "mean_english": "đi thăm",
-        "definition": "to visit places, especially foreign countries",
-        "ex_of_definition_list": [
-          "He has travelled a great deal."
-        ]
-      },
-      {
-        "mean_english": "đi lại, di chuyển",
-        "definition": "the act of travelling",
-        "ex_of_definition_list": [
-          "air travel",
-          "Travel to and from work can be very tiring."
-        ]
-      }
+    "hash_code_list_img": "-1543268067",
+    "list_example": [
+      "He has to travel a long way to school."
     ],
-    "hash_code_list_definition_mean": "1346470061"
+    "hash_code_list_example": "1283578976"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tray_cb_dmean_5000_it.json",
@@ -1642,18 +1305,20 @@
         "id_image": "tray_376525"
       }
     ],
-    "hash_code_list_img": "1719382308",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái khay, cái mâm",
-        "definition": "a flat piece of wood, metal etc with a low edge, for carrying dishes etc",
-        "ex_of_definition_list": [
-          "She brought in the tea on a tray",
-          "a tea-tray."
-        ]
-      }
+    "hash_code_list_img": "2098393001",
+    "list_example": [
+      "She brought in the tea on a tray",
+      "a tea-tray.",
+      "When the trap was not in place, flies deposited their larvae in the trays and were then free to leave.",
+      "The dishes were stored on shallow trays and were placed inside a plastic bag to retain moisture.",
+      "The trays were placed in a glasshouse and watered regularly.",
+      "Levels of relative humidity were maintained within the range of 60-80% by providing free water in trays in the cabinets when necessary.",
+      "The trays had continuous slow water flow and exchange.",
+      "The water was changed every second day, and trays of cups were rotated systematically to minimize incubator position effects.",
+      "Consequently, all the germination experiments reported here used open shaded trays with moist soil as described above.",
+      "Specimens then fell into a preserving solution set (containing chloral hydrate) with detergent (to reduce water tension) in aluminium-foil trays positioned beneath the net."
     ],
-    "hash_code_list_definition_mean": "660935145"
+    "hash_code_list_example": "-1159898364"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/treadmill_cb_dmean_5000_it.json",
@@ -1677,17 +1342,11 @@
         "id_image": "treadmill_4220355"
       }
     ],
-    "hash_code_list_img": "982648709",
-    "list_definition_mean": [
-      {
-        "mean_english": "công việc đơn điệu",
-        "definition": "a situation that is boring because you always have to do the same things",
-        "ex_of_definition_list": [
-          "the office treadmill."
-        ]
-      }
+    "hash_code_list_img": "-1324585458",
+    "list_example": [
+      "the office treadmill."
     ],
-    "hash_code_list_definition_mean": "1112313565"
+    "hash_code_list_example": "581880796"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/treasure_cb_dmean_5000_it.json",
@@ -1723,39 +1382,13 @@
         "id_image": "treasure_6263986"
       }
     ],
-    "hash_code_list_img": "964026754",
-    "list_definition_mean": [
-      {
-        "mean_english": "tài sản, châu báu",
-        "definition": "a store of money, gold, jewels etc",
-        "ex_of_definition_list": [
-          "The miser kept a secret hoard of treasure",
-          "(also adjective) a treasure chest."
-        ]
-      },
-      {
-        "mean_english": "của quý",
-        "definition": "something very valuable",
-        "ex_of_definition_list": [
-          "Our babysitter is a real treasure!"
-        ]
-      },
-      {
-        "mean_english": "quý trọng",
-        "definition": "to value; to think of as very valuable",
-        "ex_of_definition_list": [
-          "I treasure the hours I spend in the country."
-        ]
-      },
-      {
-        "mean_english": "trân trọng",
-        "definition": "to keep (something) carefully because one values it",
-        "ex_of_definition_list": [
-          "I treasure the book you gave me."
-        ]
-      }
+    "hash_code_list_img": "-1895011783",
+    "list_example": [
+      "(also adjective) a treasure chest.",
+      "I treasure the hours I spend in the country.",
+      "I treasure the book you gave me."
     ],
-    "hash_code_list_definition_mean": "141820211"
+    "hash_code_list_example": "796191374"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/treatment_cb_dmean_5000_it.json",
@@ -1788,18 +1421,16 @@
         "id_image": "treatment_963310"
       }
     ],
-    "hash_code_list_img": "-637623620",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự đối xử",
-        "definition": "(an) act or manner of treating",
-        "ex_of_definition_list": [
-          "This chair seems to have received rough treatment",
-          "This patient/disease requires urgent treatment."
-        ]
-      }
+    "hash_code_list_img": "1934449786",
+    "list_example": [
+      "Therefore, growth rates may increase over time simply because the initial and descendant cells are recovering from treatment rather than evolving.",
+      "The treatment of linearised rules in the rest of the section, though rigorous, will not be too formal.",
+      "In this commentary we raise two issues that we think are directly related to the theory's treatment of mental representations as emulations.",
+      "The past and current medications used in their cancer treatment were also examined in detail for an accurate evaluation.",
+      "Patients can be randomly allocated to different treatment groups using tables of random numbers.",
+      "The average treatment slot was reported as 20 min (ranging from 15 to 60 min)."
     ],
-    "hash_code_list_definition_mean": "810833214"
+    "hash_code_list_example": "-2134282179"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/treaty_cb_dmean_5000_it.json",
@@ -1827,17 +1458,11 @@
         "id_image": "treaty_5442627"
       }
     ],
-    "hash_code_list_img": "-817882434",
-    "list_definition_mean": [
-      {
-        "mean_english": "hiệp ước",
-        "definition": "a formal agreement between states or governments",
-        "ex_of_definition_list": [
-          "They signed a peace treaty."
-        ]
-      }
+    "hash_code_list_img": "-275780901",
+    "list_example": [
+      "The biggest obstacle to establishing participation rights for indigenous peoples in a treaty would have arisen from the factual setting."
     ],
-    "hash_code_list_definition_mean": "1610277966"
+    "hash_code_list_example": "-121212175"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/treat_cb_dmean_5000_it.json",
@@ -1880,47 +1505,12 @@
         "id_image": "treat_6401254"
       }
     ],
-    "hash_code_list_img": "-1379709486",
-    "list_definition_mean": [
-      {
-        "mean_english": "đối xử",
-        "definition": "to deal with, or behave towards (a thing or person), in a certain manner",
-        "ex_of_definition_list": [
-          "The soldiers treated me very well",
-          "The police are treating his death as a case of murder."
-        ]
-      },
-      {
-        "mean_english": "điều trị",
-        "definition": "to try to cure (a person or disease, injury etc)",
-        "ex_of_definition_list": [
-          "They treated her for a broken leg."
-        ]
-      },
-      {
-        "mean_english": "xử lý, nghiên cứu, giải quyết",
-        "definition": "to put (something) through a process",
-        "ex_of_definition_list": [
-          "The woodwork has been treated with creosote."
-        ]
-      },
-      {
-        "mean_english": "mời ai ăn cơm",
-        "definition": "to buy (a meal, present etc) for (someone)",
-        "ex_of_definition_list": [
-          "I’ll treat you to lunch",
-          "She treated herself to a new hat."
-        ]
-      },
-      {
-        "mean_english": "sự đối đãi",
-        "definition": "something that gives pleasure, eg an arranged outing, or some special food",
-        "ex_of_definition_list": [
-          "He took them to the theatre as a treat."
-        ]
-      }
+    "hash_code_list_img": "73746921",
+    "list_example": [
+      "I’ll treat you to lunch",
+      "However, cattle producers used to controlling tick infestations with chemical acaricides typically treat reactively."
     ],
-    "hash_code_list_definition_mean": "-1981837430"
+    "hash_code_list_example": "867533117"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tree_cb_dmean_5000_it.json",
@@ -1948,17 +1538,19 @@
         "id_image": "tree_622127"
       }
     ],
-    "hash_code_list_img": "-2515096",
-    "list_definition_mean": [
-      {
-        "mean_english": "cây",
-        "definition": "the largest kind of plant, with a thick, firm, wooden stem and branches",
-        "ex_of_definition_list": [
-          "We have three apple trees growing in our garden."
-        ]
-      }
+    "hash_code_list_img": "96186435",
+    "list_example": [
+      "We have three apple trees growing in our garden.",
+      "In this paper we introduce a new approach to robust design based on the concept of inductive learning with regression trees.",
+      "The distance to trees influenced the cassava yield.",
+      "Finally, growing trees for energy would reduce another 2.2 tons of carbon per hectare in the village facility and 3.6 tons in the centralized facility.",
+      "Thus, attributes of farm fields, and particularly the number of planted trees, are important determinants of household choices.",
+      "Experiments were conducted in a turfgrass area on a 0.5-ha residential property, with scattered trees and adjacent woodlots.",
+      "Two further sections on the characteristics ofspaced trees and their impact within a range of land-use systems are well illustrated with examples.",
+      "As such, we recognize objects 'as' trees or mountains or tombs.",
+      "By-products of trees provide farmers in many countries with useful material or cash."
     ],
-    "hash_code_list_definition_mean": "1777043654"
+    "hash_code_list_example": "788674825"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tremor_cb_dmean_5000_it.json",
@@ -1976,17 +1568,18 @@
         "id_image": "tremor_3997895"
       }
     ],
-    "hash_code_list_img": "1517423870",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự run",
-        "definition": "a shaking or quivering",
-        "ex_of_definition_list": [
-          "Earth tremors (= slight earthquakes) were felt in Sicily yesterday."
-        ]
-      }
+    "hash_code_list_img": "1690529959",
+    "list_example": [
+      "Earth tremors (= slight earthquakes) were felt in Sicily yesterday.",
+      "Curious tremors go through a school when corporal punishment is to be administered.",
+      "She developed jaw tremors which spread to her whole body owing to the administration of neuroleptic drugs.",
+      "Common side effects include extreme constipation, bed-wetting, night-time drooling, muscle stiffness, sedation, tremors, orthostatic hypotension, hyperglycemia, and weight gain.",
+      "Symptoms which may be experienced during withdrawal or reduction in dosage include increased heart rate and/or blood pressure, sweating, and tremors.",
+      "Although 34 redundancies are 34 too many, fortunately in one sense, 32 of them involved support staff, rather than teachers, but the tremors reverberated for many months.",
+      "Their enemies would then try to reduce those belligerents by causing earth tremors through and around the launching sites.",
+      "There were several tremors and some public buildings, such as chapels, had to be demolished because of the damage sustained."
     ],
-    "hash_code_list_definition_mean": "2111798934"
+    "hash_code_list_example": "-964106026"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/trendy_cb_dmean_5000_it.json",
@@ -2004,18 +1597,16 @@
         "id_image": "trendy_167850"
       }
     ],
-    "hash_code_list_img": "1602467109",
-    "list_definition_mean": [
-      {
-        "mean_english": "thời trang, tức thời",
-        "definition": "following the latest fashions",
-        "ex_of_definition_list": [
-          "trendy people/clothes",
-          "Her mother tries to be trendy."
-        ]
-      }
+    "hash_code_list_img": "1380728435",
+    "list_example": [
+      "trendy people/clothes",
+      "Parents do not want trendy socio-economic arguments about why their school is not as good as another.",
+      "I think the current trendy phrase is that \"one must present a low profile\".",
+      "I welcome the arrangements which have been made to tackle such trendy problems of the take-over situation as warehousing and concert parties.",
+      "The trendy way to describe that is as the lack of a feel-good factor.",
+      "The criminal sanction removal may not be enough to secure freedom from the new trendy action of breach of confidentiality."
     ],
-    "hash_code_list_definition_mean": "887588346"
+    "hash_code_list_example": "1179876076"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/trend_cb_dmean_5000_it.json",
@@ -2043,18 +1634,14 @@
         "id_image": "trend_992854"
       }
     ],
-    "hash_code_list_img": "-1178995669",
-    "list_definition_mean": [
-      {
-        "mean_english": "khuynh hướng",
-        "definition": "a general direction or tendency",
-        "ex_of_definition_list": [
-          "She follows all the latest trends in fashion",
-          "an upward trend in share prices."
-        ]
-      }
+    "hash_code_list_img": "794745294",
+    "list_example": [
+      "an upward trend in share prices.",
+      "Finally, we found a modest time trend towards lower prices, but the trend was not statistically significant.",
+      "We conclude that a purely statistical analysis of the trend properties of economic time series is not sufficient.",
+      "If anything, during the past few years the trend has been towards the recentralisation of wage fixing."
     ],
-    "hash_code_list_definition_mean": "1495876710"
+    "hash_code_list_example": "-171166134"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/trial_cb_dmean_5000_it.json",
@@ -2084,32 +1671,14 @@
         "id_image": "trial_5110820"
       }
     ],
-    "hash_code_list_img": "917486129",
-    "list_definition_mean": [
-      {
-        "mean_english": "phiên tòa xét xử",
-        "definition": "a legal process by which a person is judged in a court of law",
-        "ex_of_definition_list": [
-          "Their trial will be held next week."
-        ]
-      },
-      {
-        "mean_english": "sự thử thách",
-        "definition": "an act of testing or trying; a test",
-        "ex_of_definition_list": [
-          "Give the new car a trial",
-          "The disaster was a trial of his courage."
-        ]
-      },
-      {
-        "mean_english": "nguyên nhân lo lắng",
-        "definition": "a (source of) trouble or anxiety",
-        "ex_of_definition_list": [
-          "My son is a great trial (to me)."
-        ]
-      }
+    "hash_code_list_img": "-1919927135",
+    "list_example": [
+      "Their trial will be held next week.",
+      "The disaster was a trial of his courage.",
+      "My son is a great trial (to me).",
+      "Patients were selected for this trial if they had suffered from nonspecific low back pain for at least 6 weeks."
     ],
-    "hash_code_list_definition_mean": "796955615"
+    "hash_code_list_example": "1839580442"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/triangle_cb_dmean_5000_it.json",
@@ -2138,17 +1707,14 @@
         "id_image": "triangle_2844570"
       }
     ],
-    "hash_code_list_img": "863936261",
-    "list_definition_mean": [
-      {
-        "mean_english": "hình tam giác",
-        "definition": "a two-dimensional figure with three sides and three angles",
-        "ex_of_definition_list": [
-          "an isosceles triangle."
-        ]
-      }
+    "hash_code_list_img": "1712659217",
+    "list_example": [
+      "It employs a splitter combined with a tandem of 100%-reflectivity mirrors, arranged in equilateral-triangle geometry.",
+      "Note that the triangle above need not commute, not even up to natural isomorphism.",
+      "The second result concerns covering a triangle with four disks, one each around the three vertices and the circumcentre.",
+      "The black triangle pinpoints the true parameter values for the simulations."
     ],
-    "hash_code_list_definition_mean": "978850555"
+    "hash_code_list_example": "-1443340054"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/triangular_cb_dmean_5000_it.json",
@@ -2186,18 +1752,19 @@
         "id_image": "triangular_6181728"
       }
     ],
-    "hash_code_list_img": "378808779",
-    "list_definition_mean": [
-      {
-        "mean_english": "có hình giống tam giác",
-        "definition": "in the shape of a triangle",
-        "ex_of_definition_list": [
-          "a triangular road-sign",
-          "It is triangular in shape."
-        ]
-      }
+    "hash_code_list_img": "618979974",
+    "list_example": [
+      "a triangular road-sign",
+      "It is triangular in shape.",
+      "Therefore, the number of irregular vertices in a net remains constant, and most of the net is a regular triangular net.",
+      "Three-state model for lysozyme folding : triangular folding mechanism with an energetically trapped intermediate.",
+      "The distal triangular segment is half the length of the median and one quarter that of the anterior.",
+      "It is suggested that a triangular approach to data collection, using questionnaires, interviews and participant observation presents a fuller picture of instrument validation.",
+      "The sickle toe is rather acuminate and constitutes a triangular shape, which drops below the attachment point for the marginal hook handle.",
+      "The triangular fruit (achene) forms a single seed.",
+      "For example, calling a pillow cat suggests that the child has recognized a similarity between the pillow's triangular corners and a cat's ears."
     ],
-    "hash_code_list_definition_mean": "1790274198"
+    "hash_code_list_example": "1468026422"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tribal_cb_dmean_5000_it.json",
@@ -2220,17 +1787,18 @@
         "id_image": "tribal_2653962"
       }
     ],
-    "hash_code_list_img": "-1517826559",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc bộ tộc",
-        "definition": "of a tribe or tribes",
-        "ex_of_definition_list": [
-          "tribal lands/customs",
-          "the tribal system."
-        ]
-      }
+    "hash_code_list_img": "-873286218",
+    "list_example": [
+      "tribal lands/customs",
+      "the tribal system.",
+      "The use of tribal categories has obscured the tensions and differences within societies as well as the fluidity of inter-tribal boundaries.",
+      "Issues of fossil collecting from tribal lands are raised here too.",
+      "Such division was often met by those who had held large feudal estates, and by the tribal leaders, with displeasure and opposition.",
+      "They resisted proposals to dissolve their reservations and distribute tribal resources to individual members.",
+      "A dental technician, age fty-three, who had just retired from the army, gave a more elaborate hedged view of tribal law.",
+      "The state was therefore effectively insulated from the tribal power holders who had overthrown previous dynasts and dynasties.",
+      "Instead, the one time gain the ruler made from their sale offered an immediate advantage insecure tribal leaders could not ignore."
     ],
-    "hash_code_list_definition_mean": "462452200"
+    "hash_code_list_example": "-941842051"
   }
 ]

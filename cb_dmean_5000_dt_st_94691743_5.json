@@ -36,56 +36,12 @@
         "id_image": "field_4484301"
       }
     ],
-    "hash_code_list_img": "-1509959038",
-    "list_definition_mean": [
-      {
-        "mean_english": "đồng ruộng",
-        "definition": "a piece of land enclosed for growing crops, keeping animals etc",
-        "ex_of_definition_list": [
-          "Our house is surrounded by fields."
-        ]
-      },
-      {
-        "mean_english": "bãi",
-        "definition": "a wide area",
-        "ex_of_definition_list": [
-          "playing fields (= an area for games, sports etc)."
-        ]
-      },
-      {
-        "mean_english": "mỏ",
-        "definition": "a piece of land etc where minerals or other natural resources are found",
-        "ex_of_definition_list": [
-          "an oil-field",
-          "a coalfield."
-        ]
-      },
-      {
-        "mean_english": "lĩnh vực",
-        "definition": "an area of knowledge, interest, study etc",
-        "ex_of_definition_list": [
-          "in the fields of literature/economic development",
-          "her main fields of interest."
-        ]
-      },
-      {
-        "mean_english": "trường",
-        "definition": "an area affected, covered or included by something",
-        "ex_of_definition_list": [
-          "a magnetic field",
-          "in his field of vision."
-        ]
-      },
-      {
-        "mean_english": "chiến trường",
-        "definition": "an area of battle",
-        "ex_of_definition_list": [
-          "the field of Waterloo",
-          "(also adjective) a field-gun."
-        ]
-      }
+    "hash_code_list_img": "171034748",
+    "list_example": [
+      "in his field of vision.",
+      "the field of Waterloo"
     ],
-    "hash_code_list_definition_mean": "-400180042"
+    "hash_code_list_example": "342400638"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fight_cb_dmean_5000_it.json",
@@ -119,54 +75,16 @@
         "id_image": "fight_649628"
       }
     ],
-    "hash_code_list_img": "1724919658",
-    "list_definition_mean": [
-      {
-        "mean_english": "đấu tranh; chiến đấu",
-        "definition": "to act against (someone or something) with physical violence",
-        "ex_of_definition_list": [
-          "The two boys are fighting over (= because of) some money they found."
-        ]
-      },
-      {
-        "mean_english": "đấu tranh chống",
-        "definition": "to resist strongly; to take strong action to prevent",
-        "ex_of_definition_list": [
-          "to fight a fire",
-          "We must fight against any attempt to deprive us of our freedom."
-        ]
-      },
-      {
-        "mean_english": "cãi cọ hoặc tranh luận",
-        "definition": "to quarrel",
-        "ex_of_definition_list": [
-          "His parents were always fighting."
-        ]
-      },
-      {
-        "mean_english": "hành động chiến đấu",
-        "definition": "an act of physical violence between people, countries etc",
-        "ex_of_definition_list": [
-          "There was a fight going on in the street."
-        ]
-      },
-      {
-        "mean_english": "hành động đấu tranh",
-        "definition": "a struggle; action involving effort",
-        "ex_of_definition_list": [
-          "the fight for freedom of speech",
-          "the fight against disease."
-        ]
-      },
-      {
-        "mean_english": "ý chí quyết tâm",
-        "definition": "the will or strength to resist",
-        "ex_of_definition_list": [
-          "There was no fight left in him."
-        ]
-      }
+    "hash_code_list_img": "1021633249",
+    "list_example": [
+      "to fight a fire",
+      "We must fight against any attempt to deprive us of our freedom.",
+      "There was a fight going on in the street.",
+      "the fight for freedom of speech",
+      "the fight against disease.",
+      "There was no fight left in him."
     ],
-    "hash_code_list_definition_mean": "286158177"
+    "hash_code_list_example": "1294775264"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/figure_cb_dmean_5000_it.json",
@@ -199,53 +117,16 @@
         "id_image": "figure_1413097"
       }
     ],
-    "hash_code_list_img": "1348740340",
-    "list_definition_mean": [
-      {
-        "mean_english": "dáng người",
-        "definition": "the form or shape of a person",
-        "ex_of_definition_list": [
-          "A mysterious figure came towards me",
-          "That girl has got a good figure."
-        ]
-      },
-      {
-        "mean_english": "(toán học) hình",
-        "definition": "a (geometrical) shape",
-        "ex_of_definition_list": [
-          "The page was covered with a series of triangles, squares and other geometrical figures."
-        ]
-      },
-      {
-        "mean_english": "con số",
-        "definition": "a symbol representing a number",
-        "ex_of_definition_list": [
-          "a six-figure telephone number."
-        ]
-      },
-      {
-        "mean_english": "biểu đồ hoặc hình vẽ minh hoạ",
-        "definition": "a diagram or drawing to explain something",
-        "ex_of_definition_list": [
-          "The parts of a flower are shown in figure 3."
-        ]
-      },
-      {
-        "mean_english": "hiện ra hoặc được nói đến",
-        "definition": "to appear (in a story etc)",
-        "ex_of_definition_list": [
-          "She figures largely in the story."
-        ]
-      },
-      {
-        "mean_english": "suy nghĩ; tính toán",
-        "definition": "to think, estimate or consider",
-        "ex_of_definition_list": [
-          "I figured that you would arrive before half past eight."
-        ]
-      }
+    "hash_code_list_img": "-640542005",
+    "list_example": [
+      "A mysterious figure came towards me",
+      "a six-figure telephone number.",
+      "The parts of a flower are shown in figure 3.",
+      "In figure 9, these qualitative expectations are confirmed by a numerical example.",
+      "However, to have an authority figure require that a patient justify his or her plans comes perilously close to coercion.",
+      "On the back of each figure indicate the figure number, senior author and the top of the figure."
     ],
-    "hash_code_list_definition_mean": "-757543412"
+    "hash_code_list_example": "2137905087"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/file_cb_dmean_5000_it.json",
@@ -286,45 +167,23 @@
         "id_image": "file_283607"
       }
     ],
-    "hash_code_list_img": "1829690088",
-    "list_definition_mean": [
-      {
-        "mean_english": "đi thành hàng",
-        "definition": "to walk in a file",
-        "ex_of_definition_list": [
-          "They filed across the road."
-        ]
-      },
-      {
-        "mean_english": "(vi tính) tập tin",
-        "definition": "a collection of data stored eg on a disc",
-        "ex_of_definition_list": [
-          "Be sure to make backups of your files at regular intervals."
-        ]
-      },
-      {
-        "mean_english": "sắp xếp; sắp đặt (giấy má, thư từ…)",
-        "definition": "to put (papers etc) in a file",
-        "ex_of_definition_list": [
-          "He filed the letter under P."
-        ]
-      },
-      {
-        "mean_english": "đệ trình; đưa ra",
-        "definition": "to bring (a suit) before a law court",
-        "ex_of_definition_list": [
-          "She has filed (a suit) for divorce."
-        ]
-      },
-      {
-        "mean_english": "gọt; giũa",
-        "definition": "to cut or smooth with a file",
-        "ex_of_definition_list": [
-          "She filed her nails."
-        ]
-      }
+    "hash_code_list_img": "-2064341999",
+    "list_example": [
+      "They filed across the road.",
+      "Be sure to make backups of your files at regular intervals.",
+      "He filed the letter under P.",
+      "She has filed (a suit) for divorce.",
+      "She filed her nails.",
+      "We used these files to consistently reproduce problems as we were trying to fix them.",
+      "Such auditing is consistent with the standards followed by the pharmaceutical industry in the preparation of regulatory files.",
+      "Before the child's birth, the sponsoring father filed for divorce and sought to avoid support obligations for the child.",
+      "Statistical alignment models are usually trained on tokenized plain text files.",
+      "Moreover, patients' files were screened for possible diseases incompatible with a diagnosis of schizophrenia.",
+      "They also merge files from various sections of newspapers which are dissimilar in register and stance.",
+      "We compared the performance of the two systems on four tasks, analyzing text files of 10, 100, 1,000, and 10,000 tokens.",
+      "The stolen files have helped them attain success as, respectively, a business magnate and an actress."
     ],
-    "hash_code_list_definition_mean": "-1097419911"
+    "hash_code_list_example": "1361657067"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fillet_cb_dmean_5000_it.json",
@@ -348,26 +207,20 @@
         "id_image": "fillet_2851228"
       }
     ],
-    "hash_code_list_img": "-719606995",
-    "list_definition_mean": [
-      {
-        "mean_english": "thịt, cá nạc; thịt thăn",
-        "definition": "a piece of meat or fish without bones",
-        "ex_of_definition_list": [
-          "fillet of veal",
-          "cod fillet",
-          "(also adjective) fillet steak."
-        ]
-      },
-      {
-        "mean_english": "róc xương và lạng",
-        "definition": "to remove the bones from (meat or fish)",
-        "ex_of_definition_list": [
-          "I asked the fishmonger to fillet the fish for me."
-        ]
-      }
+    "hash_code_list_img": "1994174148",
+    "list_example": [
+      "fillet of veal",
+      "(also adjective) fillet steak.",
+      "I asked the fishmonger to fillet the fish for me.",
+      "As the radius of the trochoidal curve changes continuously, these standards calculate the fillet stress at a specified location considering the radius at that location.",
+      "The fillet stress is influenced by the fillet geometry as well as the number of teeth, modules, and the pressure angle of the gear.",
+      "The fillet geometry is determined by a cutting tool geometry and generation method.",
+      "This would require a new computeraided approach for modeling the gear tooth with a fillet as an arc of the specified radius.",
+      "The computation carried to offset the polygons assures that the fillet inserted fits in place of the replaced vertex.",
+      "Many researchers have attempted to determine the fillet stresses using both theoretical and experimental methods.",
+      "In trying to fillet out what his ideas were, there is a real problem: his failure to follow up the logic of his own insights."
     ],
-    "hash_code_list_definition_mean": "82325196"
+    "hash_code_list_example": "1494227777"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fill_cb_dmean_5000_it.json",
@@ -399,46 +252,11 @@
         "id_image": "fill_5448487"
       }
     ],
-    "hash_code_list_img": "1860827753",
-    "list_definition_mean": [
-      {
-        "mean_english": "đổ đầy; chứa đầy",
-        "definition": "to put (something) into (until there is no room for more); to make full",
-        "ex_of_definition_list": [
-          "She filled the cupboard with books",
-          "The news filled him with joy."
-        ]
-      },
-      {
-        "mean_english": "trở nên đầy",
-        "definition": "to become full",
-        "ex_of_definition_list": [
-          "His eyes filled with tears."
-        ]
-      },
-      {
-        "mean_english": "đáp ứng",
-        "definition": "to satisfy (a condition, requirement etc)",
-        "ex_of_definition_list": [
-          "Does he fill all our requirements?"
-        ]
-      },
-      {
-        "mean_english": "chèn hoặc nút lại (một cái lỗ, kẽ hở…)",
-        "definition": "to put something in a hole (in a tooth etc) to stop it up",
-        "ex_of_definition_list": [
-          "The dentist filled two of my teeth yesterday."
-        ]
-      },
-      {
-        "mean_english": "lượng tối đa có thể ăn hoặc uống; mức tối đa có thể chịu đựng được",
-        "definition": "as much as fills or satisfies someone",
-        "ex_of_definition_list": [
-          "She ate her fill."
-        ]
-      }
+    "hash_code_list_img": "1593463003",
+    "list_example": [
+      "Does he fill all our requirements?"
     ],
-    "hash_code_list_definition_mean": "-227401685"
+    "hash_code_list_example": "-840364518"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/film_cb_dmean_5000_it.json",
@@ -480,46 +298,13 @@
         "id_image": "film_5064600"
       }
     ],
-    "hash_code_list_img": "-68759975",
-    "list_definition_mean": [
-      {
-        "mean_english": "phim",
-        "definition": "(a thin strip of) celluloid made sensitive to light on which photographs are taken",
-        "ex_of_definition_list": [
-          "photographic film."
-        ]
-      },
-      {
-        "mean_english": "bộ phim",
-        "definition": "a story, play etc shown as a motion picture in a cinema, on television etc",
-        "ex_of_definition_list": [
-          "He’s in the middle of making a new film",
-          "(also adjective) a film version of the novel."
-        ]
-      },
-      {
-        "mean_english": "màng",
-        "definition": "a thin skin or covering",
-        "ex_of_definition_list": [
-          "A film of dust covered the shelf."
-        ]
-      },
-      {
-        "mean_english": "quay thành phim",
-        "definition": "to make a motion picture (of)",
-        "ex_of_definition_list": [
-          "They are going to film the race."
-        ]
-      },
-      {
-        "mean_english": "phủ bằng một lớp màng",
-        "definition": "(usually with over) to cover with a film",
-        "ex_of_definition_list": [
-          "Her eyes gradually filmed (over) with tears."
-        ]
-      }
+    "hash_code_list_img": "1295961859",
+    "list_example": [
+      "(also adjective) a film version of the novel.",
+      "A film of dust covered the shelf.",
+      "They are going to film the race."
     ],
-    "hash_code_list_definition_mean": "-1211434942"
+    "hash_code_list_example": "1251179169"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/filter_cb_dmean_5000_it.json",
@@ -555,39 +340,12 @@
         "id_image": "filter_909854"
       }
     ],
-    "hash_code_list_img": "1057154355",
-    "list_definition_mean": [
-      {
-        "mean_english": "máy lọc; cái lọc",
-        "definition": "a strainer or other device through which liquid, gas, smoke etc can pass, but not solid material",
-        "ex_of_definition_list": [
-          "A filter is used to make sure that the oil is clean and does not contain any dirt",
-          "(also adjective) filter paper."
-        ]
-      },
-      {
-        "mean_english": "kính lọc",
-        "definition": "a kind of screening plate used to change or correct certain colours/colors",
-        "ex_of_definition_list": [
-          "If you are taking photographs in sun and snow, you should use a blue filter."
-        ]
-      },
-      {
-        "mean_english": "lọc",
-        "definition": "(of liquids) to (become) clean by passing through a filter",
-        "ex_of_definition_list": [
-          "The rainwater filtered into a tank."
-        ]
-      },
-      {
-        "mean_english": "lọt ra; tiết lộ ra; thấm",
-        "definition": "to come bit by bit or gradually",
-        "ex_of_definition_list": [
-          "The news filtered out."
-        ]
-      }
+    "hash_code_list_img": "2139656011",
+    "list_example": [
+      "A filter is used to make sure that the oil is clean and does not contain any dirt",
+      "(also adjective) filter paper."
     ],
-    "hash_code_list_definition_mean": "-2135143423"
+    "hash_code_list_example": "-1987604663"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/filtration_cb_dmean_5000_it.json",
@@ -615,17 +373,17 @@
         "id_image": "filtration_6264996"
       }
     ],
-    "hash_code_list_img": "584043862",
-    "list_definition_mean": [
-      {
-        "mean_english": "lọc",
-        "definition": "the process of filtering something",
-        "ex_of_definition_list": [
-          "(also adjective) a filtration plant/system."
-        ]
-      }
+    "hash_code_list_img": "-1189422930",
+    "list_example": [
+      "(also adjective) a filtration plant/system.",
+      "In addition, shared water filtration systems may allow spread of oocysts between pools within a swimming complex.",
+      "Each plate contained the original faecal supernatant before centrifugation, after centrifugation, and after filtration as a positive control.",
+      "Here are three properties which a reverse filtration might have.",
+      "The remainder used filtration (3.5 %), chemical treatment (1.3 %), or a combination of filtration and boiling (4.5 %).",
+      "Few investigators have utilized dextran sieving techniques to elucidate the properties of the glomerular filtration barrier in women with pre-eclampsia.",
+      "The methods used were : multiple tube fermentation method for faecal contamination indicators and membrane filtration techniques for salmonella, aeromonas and vibrio."
     ],
-    "hash_code_list_definition_mean": "256993295"
+    "hash_code_list_example": "1143876558"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/final_cb_dmean_5000_it.json",
@@ -650,31 +408,20 @@
         "id_image": "final_6225061"
       }
     ],
-    "hash_code_list_img": "-388213201",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuối cùng",
-        "definition": "the very last",
-        "ex_of_definition_list": [
-          "the final chapter of the book."
-        ]
-      },
-      {
-        "mean_english": "quyết định; dứt khoát",
-        "definition": "(of a decision etc) definite; decided and not to be changed",
-        "ex_of_definition_list": [
-          "The judge’s decision is final."
-        ]
-      },
-      {
-        "mean_english": "trận chung kết",
-        "definition": "the last part of a competition",
-        "ex_of_definition_list": [
-          "The first rounds of the competition will take place throughout the country, but the final will be in London."
-        ]
-      }
+    "hash_code_list_img": "-1592417807",
+    "list_example": [
+      "the final chapter of the book.",
+      "The first rounds of the competition will take place throughout the country, but the final will be in London.",
+      "The fact that he was penniless by the turn of the sixties is virtually a postscript on the final page of the text.",
+      "Unlike the intermediate end point of adequate assessment, the relationship between risk factors and a final end point of life-years can be estimated.",
+      "As a final reading, however, this conclusion must necessarily discount two things.",
+      "In terms of music velocity, the straight motion profile is typically constant in nature, although motor-rhythmic variability and the final ritardandi are evident.",
+      "The list of all paths from the initial node to the final node is subscripted out of the array paths_ar.",
+      "For parsimony, these additional paths were not included in the final models.",
+      "However, the structural similarities encountered on the level of the facts summarized by the final judgements indicate certain basic lines of intra-familial conflict.",
+      "The final two volumes probably represent a forlorn attempt to continue the publication with support from an alternative source of funding."
     ],
-    "hash_code_list_definition_mean": "-1077457399"
+    "hash_code_list_example": "2026931874"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/finance_cb_dmean_5000_it.json",
@@ -714,31 +461,11 @@
         "id_image": "finance_6000832"
       }
     ],
-    "hash_code_list_img": "543288308",
-    "list_definition_mean": [
-      {
-        "mean_english": "tài chính",
-        "definition": "(the study or management of) money affairs",
-        "ex_of_definition_list": [
-          "He is an expert in finance."
-        ]
-      },
-      {
-        "mean_english": "của cải; vốn liếng",
-        "definition": "the money one has to spend",
-        "ex_of_definition_list": [
-          "The government is worried about the state of the country’s finances."
-        ]
-      },
-      {
-        "mean_english": "cấp tiền cho; bỏ vốn cho; tài trợ",
-        "definition": "to give money for (a plan, business etc)",
-        "ex_of_definition_list": [
-          "Will the company finance your trip abroad?"
-        ]
-      }
+    "hash_code_list_img": "562892221",
+    "list_example": [
+      "Will the company finance your trip abroad?"
     ],
-    "hash_code_list_definition_mean": "-616219022"
+    "hash_code_list_example": "693380425"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/financial_cb_dmean_5000_it.json",
@@ -776,17 +503,19 @@
         "id_image": "financial_4669231"
       }
     ],
-    "hash_code_list_img": "2120582884",
-    "list_definition_mean": [
-      {
-        "mean_english": "liên quan đến tiền bạc hoặc tài chính",
-        "definition": "concerning money",
-        "ex_of_definition_list": [
-          "financial affairs."
-        ]
-      }
+    "hash_code_list_img": "-191717647",
+    "list_example": [
+      "financial affairs.",
+      "Similarly, their reward was neither fully local and financial nor completely global and philosophical.",
+      "If the project generates financial revenues, but they are lower than for purely commercial investments, then perhaps an interest rate subsidy would be most appropriate.",
+      "Those with higher education, income and assets give more financial resources and advice but help with fewer household tasks.",
+      "They also conclude that reforms induced important financial development and reduced the regressiveness of the old systems that they replace.",
+      "The predominance of economic, especially macroeconomic, objectives in domestic financial liberalization has two main theoretical implications.",
+      "In contrast to previous theoretical work, our model economy includes a nontrivial role for external finance in the financial development process.",
+      "Many studies have been undertaken to investigate the financial sustainability of traditional pension systems and reform options from the macroeconomic standpoint.",
+      "The stage was cramped; the audience capacity was small; and the new theatre represented a severe financial liability to a very shaky opera company."
     ],
-    "hash_code_list_definition_mean": "1825991082"
+    "hash_code_list_example": "-1570560379"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/find_cb_dmean_5000_it.json",
@@ -822,38 +551,12 @@
         "id_image": "find_5059378"
       }
     ],
-    "hash_code_list_img": "-291764048",
-    "list_definition_mean": [
-      {
-        "mean_english": "tìm thấy; thấy; bắt được",
-        "definition": "to come upon or meet with accidentally or after searching",
-        "ex_of_definition_list": [
-          "Look what I’ve found!"
-        ]
-      },
-      {
-        "mean_english": "nhận thấy; thấy",
-        "definition": "to discover",
-        "ex_of_definition_list": [
-          "I found that I couldn’t do the work."
-        ]
-      },
-      {
-        "mean_english": "cho rằng; coi",
-        "definition": "to consider; to think (something) to be",
-        "ex_of_definition_list": [
-          "I found the British weather very cold."
-        ]
-      },
-      {
-        "mean_english": "vật tìm thấy, nhất là vật có giá trị hoặc dễ chịu",
-        "definition": "something found, especially something of value or interest",
-        "ex_of_definition_list": [
-          "That old book is quite a find!"
-        ]
-      }
+    "hash_code_list_img": "1060972663",
+    "list_example": [
+      "That old book is quite a find!",
+      "Carbonaceous/anomalous chondrites only represent 2% of finds (5% of falls)."
     ],
-    "hash_code_list_definition_mean": "-279891147"
+    "hash_code_list_example": "86271401"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fine_cb_dmean_5000_it.json",
@@ -887,97 +590,19 @@
         "id_image": "fine_6333316"
       }
     ],
-    "hash_code_list_img": "-2106598183",
-    "list_definition_mean": [
-      {
-        "mean_english": "tốt",
-        "definition": "(usually of art etc) very good; of excellent quality",
-        "ex_of_definition_list": [
-          "a fine painting",
-          "a fine performance."
-        ]
-      },
-      {
-        "mean_english": "(thời tiết) sáng sủa; không mưa",
-        "definition": "(of weather) bright; not raining",
-        "ex_of_definition_list": [
-          "a fine day."
-        ]
-      },
-      {
-        "mean_english": "sung sức; dễ chịu",
-        "definition": "well; healthy",
-        "ex_of_definition_list": [
-          "I was ill yesterday, but I am feeling fine today!"
-        ]
-      },
-      {
-        "mean_english": "thon thả; mảnh mai",
-        "definition": "thin or delicate",
-        "ex_of_definition_list": [
-          "a fine material."
-        ]
-      },
-      {
-        "mean_english": "được chế tạo cẩn thận; tinh xảo",
-        "definition": "careful; detailed",
-        "ex_of_definition_list": [
-          "Fine workmanship is required for such delicate embroidery."
-        ]
-      },
-      {
-        "mean_english": "làm bằng những hạt rất nhỏ hoặc mịn",
-        "definition": "made of small pieces, grains etc",
-        "ex_of_definition_list": [
-          "fine sand",
-          "fine rain."
-        ]
-      },
-      {
-        "mean_english": "tinh tế",
-        "definition": "slight; delicate",
-        "ex_of_definition_list": [
-          "a fine balance",
-          "a fine distinction."
-        ]
-      },
-      {
-        "mean_english": "vừa ý",
-        "definition": "perfectly satisfactory",
-        "ex_of_definition_list": [
-          "There’s nothing wrong with your work – it’s fine."
-        ]
-      },
-      {
-        "mean_english": "một cách thoả đáng, hài lòng",
-        "definition": "satisfactorily",
-        "ex_of_definition_list": [
-          "This arrangement suits me fine."
-        ]
-      },
-      {
-        "mean_english": "tốt; giỏi",
-        "definition": "good; well done etc",
-        "ex_of_definition_list": [
-          "You’ve finished already – fine!"
-        ]
-      },
-      {
-        "mean_english": "tiền phạt",
-        "definition": "money which must be paid as a punishment",
-        "ex_of_definition_list": [
-          "I had to pay a fine."
-        ]
-      },
-      {
-        "mean_english": "trừng phạt ai bằng tiền",
-        "definition": "to make (someone) pay a fine",
-        "ex_of_definition_list": [
-          "She was fined $10."
-        ]
-      }
+    "hash_code_list_img": "-893377378",
+    "list_example": [
+      "a fine painting",
+      "a fine performance.",
+      "a fine day.",
+      "I was ill yesterday, but I am feeling fine today!",
+      "a fine material.",
+      "fine sand",
+      "fine rain.",
+      "a fine balance",
+      "a fine distinction."
     ],
-    "hash_code_list_definition_mean": "-1635904070"
+    "hash_code_list_example": "-1266089625"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fingernail_cb_dmean_5000_it.json",
@@ -995,17 +620,12 @@
         "id_image": "fingernail_1658270"
       }
     ],
-    "hash_code_list_img": "1560607702",
-    "list_definition_mean": [
-      {
-        "mean_english": "móng tay",
-        "definition": "the nail at the tip of the finger",
-        "ex_of_definition_list": [
-          "I need to cut my fingernails."
-        ]
-      }
+    "hash_code_list_img": "2002534515",
+    "list_example": [
+      "The procedure was repeated for the other warm-up item, nail (fingernail or iron nail).",
+      "Two variants are achieved by either using or not using the fingernail (bright or dull sound)."
     ],
-    "hash_code_list_definition_mean": "174730303"
+    "hash_code_list_example": "1101518076"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fingerprint_cb_dmean_5000_it.json",
@@ -1033,17 +653,13 @@
         "id_image": "fingerprint_372306"
       }
     ],
-    "hash_code_list_img": "-1586716702",
-    "list_definition_mean": [
-      {
-        "mean_english": "điểm chỉ; dấu vân tay",
-        "definition": "the mark made by the tip of the finger, often used by the police etc as a means of identification",
-        "ex_of_definition_list": [
-          "The thieves carelessly left fingerprints everywhere."
-        ]
-      }
+    "hash_code_list_img": "1071609407",
+    "list_example": [
+      "These fingerprint patterns will herein be referred to as the dominant patterns.",
+      "Certainly fingerprint patterns looked complex, but what was the scientific basis for arguing that they were infinitely variable?",
+      "The fingerprint of each strain was compared with that of every other strain."
     ],
-    "hash_code_list_definition_mean": "229014629"
+    "hash_code_list_example": "-2004402233"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/finger_cb_dmean_5000_it.json",
@@ -1074,31 +690,12 @@
         "id_image": "finger_4636975"
       }
     ],
-    "hash_code_list_img": "2038345824",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngón tay",
-        "definition": "one of the five end parts of the hand, sometimes excluding the thumb",
-        "ex_of_definition_list": [
-          "She pointed a finger at the thief."
-        ]
-      },
-      {
-        "mean_english": "vật hình ngón tay",
-        "definition": "anything made, shaped, cut etc like a finger",
-        "ex_of_definition_list": [
-          "a finger of toast."
-        ]
-      },
-      {
-        "mean_english": "sợ hoặc cảm nhận cái gì bằng ngón tay",
-        "definition": "to touch or feel with the fingers",
-        "ex_of_definition_list": [
-          "She fingered the material."
-        ]
-      }
+    "hash_code_list_img": "2108681325",
+    "list_example": [
+      "She pointed a finger at the thief.",
+      "a finger of toast."
     ],
-    "hash_code_list_definition_mean": "1940280767"
+    "hash_code_list_example": "1013880412"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/finish_cb_dmean_5000_it.json",
@@ -1124,39 +721,14 @@
         "id_image": "finish_495469"
       }
     ],
-    "hash_code_list_img": "1453865287",
-    "list_definition_mean": [
-      {
-        "mean_english": "kết thúc",
-        "definition": "to bring or come to an end",
-        "ex_of_definition_list": [
-          "She’s finished her work",
-          "The music finished."
-        ]
-      },
-      {
-        "mean_english": "ăn, uống hoặc dùng phần còn lại của cái gì",
-        "definition": "to use, eat, drink etc the last of",
-        "ex_of_definition_list": [
-          "Have you finished your tea?"
-        ]
-      },
-      {
-        "mean_english": "tình trạng đuợc hoàn tất",
-        "definition": "the last touch (of paint, polish etc) that makes the work perfect",
-        "ex_of_definition_list": [
-          "The wood has a beautiful finish."
-        ]
-      },
-      {
-        "mean_english": "phần cuối; đích",
-        "definition": "the last part (of a race etc)",
-        "ex_of_definition_list": [
-          "It was a close finish."
-        ]
-      }
+    "hash_code_list_img": "-431171340",
+    "list_example": [
+      "We finish the article with some concluding remarks.",
+      "To finish the proof just note that the projections of any two different two-dimensional unstable manifolds cannot intersect.",
+      "From the start to the finish of an operatic project, librettists adjusted and readjusted their texts around the traditional imperatives of vocal and theatrical types.",
+      "The programmer cannot predict the order in which processes are going to finish their works, as this depends on runtime issues."
     ],
-    "hash_code_list_definition_mean": "588368455"
+    "hash_code_list_example": "-802382921"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fin_cb_dmean_5000_it.json",
@@ -1185,24 +757,14 @@
         "id_image": "fin_4617241"
       }
     ],
-    "hash_code_list_img": "486919541",
-    "list_definition_mean": [
-      {
-        "mean_english": "vây cá",
-        "definition": "a thin movable part on a fish’s body by which it balances, moves, changes direction etc",
-        "ex_of_definition_list": [
-          "a shark’s fin."
-        ]
-      },
-      {
-        "mean_english": "bộ thăng bằng",
-        "definition": "anything that looks or is used like a fin",
-        "ex_of_definition_list": [
-          "the tailfin of an aeroplane."
-        ]
-      }
+    "hash_code_list_img": "334551269",
+    "list_example": [
+      "the tailfin of an aeroplane.",
+      "The dorsal fin consists of at least 26 short rays supported by 25 pterygiophores.",
+      "It should be noticed that this method also provides estimations of the caudal-fin angles, which can be useful to estimate the fish orientation.",
+      "For many writers of the fin de siecle the new suburban \"houses in between\" had become imaginatively central."
     ],
-    "hash_code_list_definition_mean": "-474057597"
+    "hash_code_list_example": "-89754391"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/firearm_cb_dmean_5000_it.json",
@@ -1225,17 +787,11 @@
         "id_image": "firearm_2761772"
       }
     ],
-    "hash_code_list_img": "974385884",
-    "list_definition_mean": [
-      {
-        "mean_english": "súng cầm tay các loại",
-        "definition": "any type of gun",
-        "ex_of_definition_list": [
-          "In most countries you need a licence/license to keep firearms."
-        ]
-      }
+    "hash_code_list_img": "780405134",
+    "list_example": [
+      "In most countries you need a licence/license to keep firearms."
     ],
-    "hash_code_list_definition_mean": "1148535821"
+    "hash_code_list_example": "-1496258221"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fireplace_cb_dmean_5000_it.json",
@@ -1258,17 +814,14 @@
         "id_image": "fireplace_1395941"
       }
     ],
-    "hash_code_list_img": "-129174748",
-    "list_definition_mean": [
-      {
-        "mean_english": "lò sưởi",
-        "definition": "a space in a room (usually in a wall) with a chimney above, for a fire",
-        "ex_of_definition_list": [
-          "a wide stone fireplace."
-        ]
-      }
+    "hash_code_list_img": "-1356254967",
+    "list_example": [
+      "That the museum does not receive daylight, and the fireplace is in the bedroom's darkest spot against the party wall, additionally links the two.",
+      "A string stretched before the fireplace displayed 'a quantity of black woollen stockings, almost footless for want of repair'.",
+      "A fireplace is surrounded by a scatter of finds.",
+      "Each domain enjoys its own fireplace expression, carefully detailed."
     ],
-    "hash_code_list_definition_mean": "266570797"
+    "hash_code_list_example": "-639559101"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fireproof_cb_dmean_5000_it.json",
@@ -1296,17 +849,18 @@
         "id_image": "fireproof_5322132"
       }
     ],
-    "hash_code_list_img": "1807935237",
-    "list_definition_mean": [
-      {
-        "mean_english": "chịu lửa; không cháy",
-        "definition": "that is made so it cannot catch fire",
-        "ex_of_definition_list": [
-          "a fireproof suit."
-        ]
-      }
+    "hash_code_list_img": "787073790",
+    "list_example": [
+      "a fireproof suit.",
+      "The size of the building implied by three bedrooms and the cost of fireproof bricks effectively made reformed cottages too expensive to build except as models.",
+      "It also argued that new fireproof accommodation should be installed.",
+      "Nevertheless, precautions will be taken, such as copies being kept in fireproof safes or at other sites.",
+      "The first was that the means already exist to fireproof up to the standards specified in the regulations, including the flame test.",
+      "We can more realistically think of the altruist as being like a fireman armed only with sophisticated fire fighting equipment and wearing fireproof clothing.",
+      "Here is a material which is fireproof and completely damp-proof.",
+      "Improvement grants can be paid for the replacement of a thatched roof by a roof of more durable and fireproof material."
     ],
-    "hash_code_list_definition_mean": "770272985"
+    "hash_code_list_example": "742214058"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/firewood_cb_dmean_5000_it.json",
@@ -1329,17 +883,15 @@
         "id_image": "firewood_1732431"
       }
     ],
-    "hash_code_list_img": "-1283477586",
-    "list_definition_mean": [
-      {
-        "mean_english": "củi",
-        "definition": "wood that is suitable for burning as fuel",
-        "ex_of_definition_list": [
-          "I went into the garden to cut some firewood."
-        ]
-      }
+    "hash_code_list_img": "829024797",
+    "list_example": [
+      "Between the bank face and occupied rooms is a firewood drying room, protecting inner walls from the damp ground, using stored logs as additional insulation.",
+      "The sides of the pit appeared to have been burned, and we found a large amount of firewood carbon at the bottom of the pit.",
+      "For commodities such as firewood and drinking and cooking water, the matter is more complex: they are inputs in household production.",
+      "Most firewood is collected from households' own land and from 'other private' land.",
+      "Cutting firewood was the most often reported type of forest management activity."
     ],
-    "hash_code_list_definition_mean": "1250344480"
+    "hash_code_list_example": "1103272685"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/firework_cb_dmean_5000_it.json",
@@ -1367,19 +919,11 @@
         "id_image": "firework_4803098"
       }
     ],
-    "hash_code_list_img": "94342917",
-    "list_definition_mean": [
-      {
-        "mean_english": "pháo hoa; pháo hiệu",
-        "definition": "a small exploding device giving off a colourful display of lights",
-        "ex_of_definition_list": [
-          "Rockets are my favourite fireworks",
-          "(also adjective) a firework display",
-          "If your sister finds out, there’ll be fireworks (= a display of anger)!"
-        ]
-      }
+    "hash_code_list_img": "710091632",
+    "list_example": [
+      "(also adjective) a firework display"
     ],
-    "hash_code_list_definition_mean": "303934521"
+    "hash_code_list_example": "-1724830410"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fire_cb_dmean_5000_it.json",
@@ -1417,90 +961,12 @@
         "id_image": "fire_518609"
       }
     ],
-    "hash_code_list_img": "-1457760398",
-    "list_definition_mean": [
-      {
-        "mean_english": "hoả hoạn; đám cháy",
-        "definition": "anything that is burning, whether accidentally or not",
-        "ex_of_definition_list": [
-          "a warm fire in the kitchen",
-          "Several houses were destroyed in a fire."
-        ]
-      },
-      {
-        "mean_english": "thiết bị để sưởi ấm",
-        "definition": "an apparatus for heating",
-        "ex_of_definition_list": [
-          "a gas fire",
-          "an electric fire."
-        ]
-      },
-      {
-        "mean_english": "lửa",
-        "definition": "the heat and light produced by burning",
-        "ex_of_definition_list": [
-          "Fire is one of man’s greatest discoveries."
-        ]
-      },
-      {
-        "mean_english": "sựu hăng hái, nhiệt tình",
-        "definition": "enthusiasm",
-        "ex_of_definition_list": [
-          "The knights rode into battle with fire in their hearts."
-        ]
-      },
-      {
-        "mean_english": "hoả lực",
-        "definition": "attack by gunfire",
-        "ex_of_definition_list": [
-          "The soldiers were under fire."
-        ]
-      },
-      {
-        "mean_english": "nung",
-        "definition": "(of china, pottery etc) to heat in an oven, or kiln, in order to harden and strengthen",
-        "ex_of_definition_list": [
-          "The ceramic pots must be fired."
-        ]
-      },
-      {
-        "mean_english": "khuyến khích ai làm gì",
-        "definition": "to make (someone) enthusiastic; to inspire",
-        "ex_of_definition_list": [
-          "The story fired his imagination."
-        ]
-      },
-      {
-        "mean_english": "bắn bằng súng",
-        "definition": "to operate (a gun etc) by discharging a bullet etc from it",
-        "ex_of_definition_list": [
-          "He fired his revolver three times."
-        ]
-      },
-      {
-        "mean_english": "bắn",
-        "definition": "to send out or discharge (a bullet etc) from a gun etc",
-        "ex_of_definition_list": [
-          "He fired three bullets at the target."
-        ]
-      },
-      {
-        "mean_english": "nổ súng; bắn",
-        "definition": "(often with ator on) to aim and operate a gun at; to shoot at",
-        "ex_of_definition_list": [
-          "They suddenly fired on us",
-          "She fired at the target."
-        ]
-      },
-      {
-        "mean_english": "sa thải",
-        "definition": "to send away someone from his/her job; to dismiss",
-        "ex_of_definition_list": [
-          "He was fired from his last job for being late."
-        ]
-      }
+    "hash_code_list_img": "1561234633",
+    "list_example": [
+      "a warm fire in the kitchen",
+      "The knights rode into battle with fire in their hearts."
     ],
-    "hash_code_list_definition_mean": "-1153765521"
+    "hash_code_list_example": "691349290"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/firm_cb_dmean_5000_it.json",
@@ -1520,31 +986,16 @@
         "id_image": "firm_1622690"
       }
     ],
-    "hash_code_list_img": "307307785",
-    "list_definition_mean": [
-      {
-        "mean_english": "mạnh mẽ; chắc chắn",
-        "definition": "(fixed) strong and steady",
-        "ex_of_definition_list": [
-          "a firm handshake."
-        ]
-      },
-      {
-        "mean_english": "xác định; không thay đổi",
-        "definition": "decided; not changing one’s mind",
-        "ex_of_definition_list": [
-          "a firm refusal."
-        ]
-      },
-      {
-        "mean_english": "hãng; công ty",
-        "definition": "a business company",
-        "ex_of_definition_list": [
-          "an engineering firm."
-        ]
-      }
+    "hash_code_list_img": "1504033664",
+    "list_example": [
+      "a firm handshake.",
+      "a firm refusal.",
+      "The firm determines its production plans to maximize its profit.",
+      "The notion of sectoral specialisation is supported by another branch of recent analysis which involves understanding differences in the characteristics of firm owners.",
+      "Most philosophers and psychologists shared the firm belief that their disciplines were substantially different in some ways.",
+      "We have a firm scientific foundation for approaching the problem."
     ],
-    "hash_code_list_definition_mean": "2101922994"
+    "hash_code_list_example": "-1754488573"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/first_cb_dmean_5000_it.json",
@@ -1564,32 +1015,12 @@
         "id_image": "first_207307"
       }
     ],
-    "hash_code_list_img": "1239291172",
-    "list_definition_mean": [
-      {
-        "mean_english": "thứ nhất; đầu tiên",
-        "definition": "before all others in place, time or rank",
-        "ex_of_definition_list": [
-          "I was the first person to arrive",
-          "The boy spoke first."
-        ]
-      },
-      {
-        "mean_english": "trước hết",
-        "definition": "before doing anything else",
-        "ex_of_definition_list": [
-          "‘Shall we eat now?’ ‘Wash your hands first!"
-        ]
-      },
-      {
-        "mean_english": "người đầu tiên; vật đầu tiên",
-        "definition": "the person, animal etc that does something before any other person, animal etc",
-        "ex_of_definition_list": [
-          "Who was the first to finish?"
-        ]
-      }
+    "hash_code_list_img": "1868933751",
+    "list_example": [
+      "I was the first person to arrive",
+      "Who was the first to finish?"
     ],
-    "hash_code_list_definition_mean": "1509890997"
+    "hash_code_list_example": "653860834"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fish_cb_dmean_5000_it.json",
@@ -1616,46 +1047,15 @@
         "id_image": "fish_184360"
       }
     ],
-    "hash_code_list_img": "776968654",
-    "list_definition_mean": [
-      {
-        "mean_english": "cá",
-        "definition": "a kind of creature that lives in water and breathes through gills",
-        "ex_of_definition_list": [
-          "There are plenty of fish around the coast."
-        ]
-      },
-      {
-        "mean_english": "thịt của cá dùng làm thức ăn",
-        "definition": "its flesh eaten as food",
-        "ex_of_definition_list": [
-          "Do you prefer meat or fish?"
-        ]
-      },
-      {
-        "mean_english": "bắt cá; đánh cá; câu cá",
-        "definition": "to (try to) catch fish (in)",
-        "ex_of_definition_list": [
-          "She likes fishing",
-          "He fished the river all day."
-        ]
-      },
-      {
-        "mean_english": "tìm; mò",
-        "definition": "(usually with for) to search for",
-        "ex_of_definition_list": [
-          "She fished around in her handbag for a handkerchief."
-        ]
-      },
-      {
-        "mean_english": "moi; câu",
-        "definition": "(usually with for) to try to get by indirect means",
-        "ex_of_definition_list": [
-          "He is always fishing for compliments."
-        ]
-      }
+    "hash_code_list_img": "1445231880",
+    "list_example": [
+      "There are plenty of fish around the coast.",
+      "Prior to the experiment, fish were allowed to acclimatize for 2 months.",
+      "Thus, as a fish species extends its depth range, it also acquires a broader taxonomic range of endoparasites.",
+      "A total of 11 fish out of 180, died between infection and dissection and were excluded from the analysis.",
+      "The results from both models indicate that demersal fish stocks are both biologically and economically overfished and subject to both biological and economic overfishing."
     ],
-    "hash_code_list_definition_mean": "1035601209"
+    "hash_code_list_example": "-1682667826"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fist_cb_dmean_5000_it.json",
@@ -1678,17 +1078,18 @@
         "id_image": "fist_2577509"
       }
     ],
-    "hash_code_list_img": "216140407",
-    "list_definition_mean": [
-      {
-        "mean_english": "quả đấm",
-        "definition": "a tightly closed hand",
-        "ex_of_definition_list": [
-          "He shook his fist at me in anger."
-        ]
-      }
+    "hash_code_list_img": "419065706",
+    "list_example": [
+      "He shook his fist at me in anger.",
+      "It was not only the fist that was tight; my stomach was in knots, my breathing was tight - it was total tightness.",
+      "It would be as incongruous as thinking that a fist endures once you have opened your hand.",
+      "Then, slowly, from the fist germ the character emerges.",
+      "The two together create local conflicts, which are already summoning the invisible fist rather than the transparent regulatory hand.",
+      "He now had an open wound the size of a fist with necrotic bone exposed.",
+      "The fist problem is electrical breakdown turn to turn in the helical transformer or between windings in the spiral strip transformer.",
+      "First, draw fist like claw up to waist."
     ],
-    "hash_code_list_definition_mean": "986473999"
+    "hash_code_list_example": "-1123855092"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fit_cb_dmean_5000_it.json",
@@ -1724,73 +1125,20 @@
         "id_image": "fit_2843704"
       }
     ],
-    "hash_code_list_img": "-1494058116",
-    "list_definition_mean": [
-      {
-        "mean_english": "mạnh khoẻ; sung sức",
-        "definition": "in good health",
-        "ex_of_definition_list": [
-          "I am feeling very fit."
-        ]
-      },
-      {
-        "mean_english": "thích hợp; xứng đáng",
-        "definition": "suitable; correct for a particular purpose or person",
-        "ex_of_definition_list": [
-          "They prepared a magnificent dinner fit for a king."
-        ]
-      },
-      {
-        "mean_english": "sự vừa khớp",
-        "definition": "the right size or shape for a particular person, purpose etc",
-        "ex_of_definition_list": [
-          "Your dress is a very good fit."
-        ]
-      },
-      {
-        "mean_english": "vừa",
-        "definition": "to be the right size or shape (for someone or something)",
-        "ex_of_definition_list": [
-          "The coat fits (you) very well."
-        ]
-      },
-      {
-        "mean_english": "hợp",
-        "definition": "to be suitable for",
-        "ex_of_definition_list": [
-          "Her speech fitted the occasion."
-        ]
-      },
-      {
-        "mean_english": "lắp",
-        "definition": "to put (something) in position",
-        "ex_of_definition_list": [
-          "You must fit a new lock on the door."
-        ]
-      },
-      {
-        "mean_english": "sắm sửa",
-        "definition": "to supply with; to equip with",
-        "ex_of_definition_list": [
-          "She fitted the cupboard with shelves."
-        ]
-      },
-      {
-        "mean_english": "cơn đau đột ngột",
-        "definition": "a sudden attack of illness, especially epilepsy",
-        "ex_of_definition_list": [
-          "She suffers from fits."
-        ]
-      },
-      {
-        "mean_english": "trận cười rộ",
-        "definition": "something which happens as suddenly as this",
-        "ex_of_definition_list": [
-          "a fit of laughter/coughing."
-        ]
-      }
+    "hash_code_list_img": "-1372645777",
+    "list_example": [
+      "They prepared a magnificent dinner fit for a king.",
+      "You must fit a new lock on the door.",
+      "a fit of laughter/coughing.",
+      "His central support also recovered, aided by the party's need to have some provincial governments fit for display.",
+      "Results of the model indicate a reasonable fit of the model to the data.",
+      "A three-factor model of separate depressive, positive and negative dimensions provided a better fit to the data than either a two-factor or unidimensional model.",
+      "The goodness of fit in all specifications is reasonable and the null hypotheses of no misspecification and homoscedasticity are not rejected either.",
+      "Is his omission due to the fact that the classical approach to visual imagery would not easily fit the model?",
+      "However, many of the interesting problems of generalization in psychological science do not fit this mold.",
+      "It seems on the face of it rather unlikely, but all of the known examples do fit into this framework."
     ],
-    "hash_code_list_definition_mean": "-825510371"
+    "hash_code_list_example": "-522507866"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fix_cb_dmean_5000_it.json",
@@ -1830,68 +1178,16 @@
         "id_image": "fix_648416"
       }
     ],
-    "hash_code_list_img": "535091804",
-    "list_definition_mean": [
-      {
-        "mean_english": "cố định",
-        "definition": "to make firm or steady",
-        "ex_of_definition_list": [
-          "He fixed the post firmly in the ground",
-          "He fixed his eyes on the door."
-        ]
-      },
-      {
-        "mean_english": "gắn chặt vào",
-        "definition": "to attach; to join",
-        "ex_of_definition_list": [
-          "He fixed the shelf to the wall."
-        ]
-      },
-      {
-        "mean_english": "sửa sang",
-        "definition": "to mend or repair",
-        "ex_of_definition_list": [
-          "He has succeeded in fixing my watch."
-        ]
-      },
-      {
-        "mean_english": "dán mắt nhìn",
-        "definition": "to direct (attention, a look etc) at",
-        "ex_of_definition_list": [
-          "She fixed all her attention on me."
-        ]
-      },
-      {
-        "mean_english": "thu xếp; bố trí",
-        "definition": "(often with up) to arrange; to settle",
-        "ex_of_definition_list": [
-          "Have you fixed a price yet?",
-          "We fixed (up) a meeting."
-        ]
-      },
-      {
-        "mean_english": "hãm",
-        "definition": "to make (something) permanent by the use of certain chemicals",
-        "ex_of_definition_list": [
-          "to fix a photographic print."
-        ]
-      },
-      {
-        "mean_english": "chuẩn bị",
-        "definition": "to prepare; to get ready",
-        "ex_of_definition_list": [
-          "I’ll fix dinner tonight."
-        ]
-      },
-      {
-        "mean_english": "tình thế khó khăn",
-        "definition": "trouble; a difficulty",
-        "ex_of_definition_list": [
-          "I’m in a terrible fix!"
-        ]
-      }
+    "hash_code_list_img": "2019363439",
+    "list_example": [
+      "to fix a photographic print.",
+      "I’ll fix dinner tonight.",
+      "In this way the equilibrium can be seen to fix the strategies of the players.",
+      "In classical political economy, voluntary arrangements to fix prices and restrict competition were part of a citizen's broader right to contract.",
+      "Here we will just give the necessary definitions for the sake of self-containedness and to fix notation.",
+      "To fix ideas and put the mathematical background in place, we start with some formal definitions."
     ],
-    "hash_code_list_definition_mean": "-171006513"
+    "hash_code_list_example": "1608791048"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/flag_cb_dmean_5000_it.json",
@@ -1920,25 +1216,11 @@
         "id_image": "flag_649087"
       }
     ],
-    "hash_code_list_img": "-870623383",
-    "list_definition_mean": [
-      {
-        "mean_english": "cờ",
-        "definition": "a piece of cloth with a particular design representing a country, party, association etc",
-        "ex_of_definition_list": [
-          "The flag was flapping in the wind",
-          "the French flag."
-        ]
-      },
-      {
-        "mean_english": "yêú đi; sút đi; héo đi",
-        "definition": "to become tired or weak",
-        "ex_of_definition_list": [
-          "Halfway through the race he began to flag."
-        ]
-      }
+    "hash_code_list_img": "-1818675614",
+    "list_example": [
+      "The flag was flapping in the wind"
     ],
-    "hash_code_list_definition_mean": "85257589"
+    "hash_code_list_example": "1770454612"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/flame_cb_dmean_5000_it.json",
@@ -1968,31 +1250,11 @@
         "id_image": "flame_2933845"
       }
     ],
-    "hash_code_list_img": "998533787",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngọn lửa",
-        "definition": "the bright light of something burning",
-        "ex_of_definition_list": [
-          "A small flame burned in the lamp."
-        ]
-      },
-      {
-        "mean_english": "đốt cháy; cháy bùng",
-        "definition": "to burn with flames",
-        "ex_of_definition_list": [
-          "His eyes flamed with anger."
-        ]
-      },
-      {
-        "mean_english": "đỏ mặt",
-        "definition": "to become very hot, red etc",
-        "ex_of_definition_list": [
-          "Her cheeks flamed with embarrassment."
-        ]
-      }
+    "hash_code_list_img": "1566015172",
+    "list_example": [
+      "A small flame burned in the lamp."
     ],
-    "hash_code_list_definition_mean": "1504084168"
+    "hash_code_list_example": "-1357452840"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/flammable_cb_dmean_5000_it.json",
@@ -2030,17 +1292,18 @@
         "id_image": "flammable_6255445"
       }
     ],
-    "hash_code_list_img": "-783293945",
-    "list_definition_mean": [
-      {
-        "mean_english": "bén lửa; dễ cháy",
-        "definition": "able or likely to burn",
-        "ex_of_definition_list": [
-          "flammable material."
-        ]
-      }
+    "hash_code_list_img": "-1924711120",
+    "list_example": [
+      "flammable material.",
+      "An explosive atmosphere is a highly inflammable mixture of air and flammable substances, and constitutes a potential danger to workers.",
+      "These results signal that management of flammable weeds around rain-forest boundaries should remain a priority for land managers.",
+      "Unpaid military and security forces, a demoralised public service, armies of unemployed youth and an increasingly impoverished mass population became the core elements of a flammable society.",
+      "The manufacturers of asbestos, flammable furniture foam and certain drugs have all found that their businesses have been undermined by changes in public safety regulations.",
+      "The elements of the arson condition, for example, might include a flammable liquid, a lighted match, and a person intending to burn the building down.",
+      "Another problem with these traps is transporting and exposing field sites to large containers of a highly flammable gas.",
+      "Dangerous occurrences include the release of 100kg or more of flammable liquid, or 10kg of a flammable gas or vapour."
     ],
-    "hash_code_list_definition_mean": "49477966"
+    "hash_code_list_example": "256860182"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/flan_cb_dmean_5000_it.json",
@@ -2069,17 +1332,15 @@
         "id_image": "flan_6313400"
       }
     ],
-    "hash_code_list_img": "-1719501297",
-    "list_definition_mean": [
-      {
-        "mean_english": "bánh flan kiểu Anh",
-        "definition": "a pastry pie or cake without a top that is filled with cheese, fruit, or vegetables",
-        "ex_of_definition_list": [
-          "a mushroom/raspberry flan."
-        ]
-      }
+    "hash_code_list_img": "260090303",
+    "list_example": [
+      "A typical flan of this sort is round, with shortcrust pastry.",
+      "I am more flan happy to say that we support that view and shall do all that we can to encourage it.",
+      "The most common method for producing a fourre was to take a flan of copper, wrap it with silver foil, heat it, and strike it with the dies.",
+      "An easily recognizable characteristic of the dessert is that the flan fills the interior part of the pumpkin and that the pumpkin is often presented in its entirety.",
+      "Leche flan is a staple dessert in celebratory feasts."
     ],
-    "hash_code_list_definition_mean": "247461308"
+    "hash_code_list_example": "-1359378546"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/flare_cb_dmean_5000_it.json",
@@ -2113,24 +1374,18 @@
         "id_image": "flare_6009534"
       }
     ],
-    "hash_code_list_img": "1838293001",
-    "list_definition_mean": [
-      {
-        "mean_english": "loé sáng",
-        "definition": "to burn with a bright unsteady light",
-        "ex_of_definition_list": [
-          "The candle flared."
-        ]
-      },
-      {
-        "mean_english": "xoè ra (váy)",
-        "definition": "(of a skirt, trousers etc) to become wider at the bottom edge",
-        "ex_of_definition_list": [
-          "a flared skirt."
-        ]
-      }
+    "hash_code_list_img": "898257305",
+    "list_example": [
+      "The candle flared.",
+      "a flared skirt.",
+      "They are in sole charge of this ground, and have the duty of lighting the flares to guide landing aeroplanes.",
+      "However, the discharge is not quite uniform and a large number of shor t cathode flares is evident.",
+      "In astrophysics, interest in forbidden lines is motivated by the possibility of using them for ion temperature, and density measurements in solar flares and in the solar corona.",
+      "No intrinsic value can be ascribed to the gas flared during this period.",
+      "There was great relief when green flares were observed, indicating that all was well.",
+      "Another example where the assumption of anomalous resistivity is used is in the treatment of solar flares, which are generally assumed to be due to magnetic reconnection."
     ],
-    "hash_code_list_definition_mean": "-798505884"
+    "hash_code_list_example": "-1276879560"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/flash_cb_dmean_5000_it.json",
@@ -2173,46 +1428,11 @@
         "id_image": "flash_526861"
       }
     ],
-    "hash_code_list_img": "-1566956480",
-    "list_definition_mean": [
-      {
-        "mean_english": "chớp sáng",
-        "definition": "a quick showing of a bright light",
-        "ex_of_definition_list": [
-          "a flash of lightning."
-        ]
-      },
-      {
-        "mean_english": "giây lát",
-        "definition": "a moment; a very short time",
-        "ex_of_definition_list": [
-          "He was with her in a flash."
-        ]
-      },
-      {
-        "mean_english": "loé sáng; vụt sáng; chiếu sáng",
-        "definition": "(of a light) to (cause to) shine quickly",
-        "ex_of_definition_list": [
-          "He flashed a torch into the darkness of the cave."
-        ]
-      },
-      {
-        "mean_english": "chạy vụt",
-        "definition": "(usually with byor past) to pass quickly",
-        "ex_of_definition_list": [
-          "The days flashed by",
-          "The cars flashed past."
-        ]
-      },
-      {
-        "mean_english": "chìa ra; xoè ra",
-        "definition": "to show; to display",
-        "ex_of_definition_list": [
-          "He flashed his identity card and was allowed to pass."
-        ]
-      }
+    "hash_code_list_img": "598999489",
+    "list_example": [
+      "a flash of lightning."
     ],
-    "hash_code_list_definition_mean": "240597004"
+    "hash_code_list_example": "1206675005"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/flask_cb_dmean_5000_it.json",
@@ -2242,24 +1462,16 @@
         "id_image": "flask_4427129"
       }
     ],
-    "hash_code_list_img": "397277056",
-    "list_definition_mean": [
-      {
-        "mean_english": "chai bẹt; lọ bẹt (đựng rượu để trong bao da, bỏ túi được)",
-        "definition": "a container in which drinks can be carried",
-        "ex_of_definition_list": [
-          "a flask of whisky."
-        ]
-      },
-      {
-        "mean_english": "phích; bình téc-mốt (dùng để giữ các chất đựng nóng hay lành)",
-        "definition": "a vacuum flask",
-        "ex_of_definition_list": [
-          "The workmen carried flasks of tea."
-        ]
-      }
+    "hash_code_list_img": "2005875241",
+    "list_example": [
+      "a flask of whisky.",
+      "The cracking of the flask provides an illustration.",
+      "Around the aguardiente flask and the beer, they would start listening to music.",
+      "Next, 1 x 104 cells were plated into a new flask after approaching confluence.",
+      "The flask was plugged with a rubber bung through which was inserted a 100 ml burette containing 15 ml of hydrochloric acid (37 % v/v).",
+      "The flask was incubated for a period depending on ambient temperature."
     ],
-    "hash_code_list_definition_mean": "751767234"
+    "hash_code_list_example": "-1763220916"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/flatten_cb_dmean_5000_it.json",
@@ -2277,17 +1489,19 @@
         "id_image": "flatten_232956"
       }
     ],
-    "hash_code_list_img": "2077742907",
-    "list_definition_mean": [
-      {
-        "mean_english": "dát mỏng; dát phẳng",
-        "definition": "(often with out) to make or become flat",
-        "ex_of_definition_list": [
-          "The countryside flattened out as they came near the sea."
-        ]
-      }
+    "hash_code_list_img": "417917816",
+    "list_example": [
+      "The countryside flattened out as they came near the sea.",
+      "The flattened, somewhat leaf-shape of the parasite is well shown at the spirally twisted posterior extremity.",
+      "The second phase flattens the resulting tree of lists into one long list in the natural order.",
+      "Mandible (fig. 8) somewhat flattened, the apex narrowed and bidentate, the upper margin of the concave inner face angulate near middle.",
+      "The retinae or retinal pieces were flattened onto slides with the photoreceptor side up, semidried for better adhesion, and coverslipped with an aqueous mounting medium.",
+      "The size of the tip after flattening was 0.30 mm.",
+      "Recall that the tree manipulation process has the effect of partially flattening trees, by elimination of unary projections.",
+      "Many structural events are associated with compaction, including blastomere polarisation, blastomere flattening and gap junction formation.",
+      "The seeds are flattened and seedlings are phaneroepigeal with leafy cotyledons."
     ],
-    "hash_code_list_definition_mean": "527783965"
+    "hash_code_list_example": "-1744126575"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/flat_cb_dmean_5000_it.json",
@@ -2330,82 +1544,23 @@
         "id_image": "flat_553978"
       }
     ],
-    "hash_code_list_img": "206599505",
-    "list_definition_mean": [
-      {
-        "mean_english": "bằng phẳng",
-        "definition": "level; without rise or fall",
-        "ex_of_definition_list": [
-          "a flat surface."
-        ]
-      },
-      {
-        "mean_english": "đều đều",
-        "definition": "dull; without interest",
-        "ex_of_definition_list": [
-          "For some reason the performance was rather flat."
-        ]
-      },
-      {
-        "mean_english": "thẳng thừng",
-        "definition": "(of something said, decided etc) definite; emphatic",
-        "ex_of_definition_list": [
-          "a flat denial."
-        ]
-      },
-      {
-        "mean_english": "bẹp",
-        "definition": "(of a tyre/tire) not inflated, having lost most of its air",
-        "ex_of_definition_list": [
-          "His car had a flat tyre/tire."
-        ]
-      },
-      {
-        "mean_english": "hả hơi",
-        "definition": "(of drinks) no longer fizzy",
-        "ex_of_definition_list": [
-          "flat lemonade",
-          "(also adverb) My beer has gone flat."
-        ]
-      },
-      {
-        "mean_english": "giáng",
-        "definition": "slightly lower than a musical note should be",
-        "ex_of_definition_list": [
-          "That last note was flat",
-          "(also adverb) He was singing a bit flat."
-        ]
-      },
-      {
-        "mean_english": "sóng sượt; sõng soài",
-        "definition": "stretched out",
-        "ex_of_definition_list": [
-          "She was lying flat on her back."
-        ]
-      },
-      {
-        "mean_english": "căn hộ",
-        "definition": "a set of rooms on one floor, with kitchen and bathroom, in a larger building or block; apartment American",
-        "ex_of_definition_list": [
-          "Do you live in a house or a flat?"
-        ]
-      },
-      {
-        "mean_english": "lòng (sông, bàn tay…)",
-        "definition": "a level, even part",
-        "ex_of_definition_list": [
-          "the flat of her hand."
-        ]
-      },
-      {
-        "mean_english": "đất bằng phẳng; dải đất phẳng thấp, nhất là gần nước",
-        "definition": "an area of flat land, especially beside the sea, a river etc",
-        "ex_of_definition_list": [
-          "mud flats."
-        ]
-      }
+    "hash_code_list_img": "-1485089899",
+    "list_example": [
+      "a flat surface.",
+      "a flat denial.",
+      "His car had a flat tyre/tire.",
+      "flat lemonade",
+      "She was lying flat on her back.",
+      "the flat of her hand.",
+      "None of their developmental curves are pictured here, because there is nothing to see, except a virtually zero-rate flat line over the months.",
+      "The vortex is shown in figure 4; the sawdust on the flat bed was lifted up by the backwash vortex, not by the breaker.",
+      "Preliminary data from the regional flat files suggested that there would be about twice as many men in the sample as women.",
+      "A similar suction force is exerted on a flat plate in aerodynamic theory.",
+      "The target was a flat thick foil placed perpendicularly to the beam, which could be moved along the x and y direction by external motions.",
+      "The meter was calibrated by temporarily affixing it to the flat floor of the tunnel ahead of the wavy wall.",
+      "These parameters are the ramp angle, ramp surface friction, hip mass and size of the flat feet."
     ],
-    "hash_code_list_definition_mean": "361126142"
+    "hash_code_list_example": "-575567709"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/flavour_cb_dmean_5000_it.json",
@@ -2425,31 +1580,17 @@
         "id_image": "flavour_527773"
       }
     ],
-    "hash_code_list_img": "1802242971",
-    "list_definition_mean": [
-      {
-        "mean_english": "vị ngon; mùi thơm; mùi vị",
-        "definition": "taste",
-        "ex_of_definition_list": [
-          "The tea has a wonderful flavour/flavor."
-        ]
-      },
-      {
-        "mean_english": "hương vị",
-        "definition": "atmosphere; quality",
-        "ex_of_definition_list": [
-          "The dish has a slightly Eastern flavour/flavor to it."
-        ]
-      },
-      {
-        "mean_english": "cho gia vị; thêm gia vị",
-        "definition": "to give flavour/flavor to",
-        "ex_of_definition_list": [
-          "She flavoured/flavored the cake with lemon."
-        ]
-      }
+    "hash_code_list_img": "698272431",
+    "list_example": [
+      "I will focus on two discrete arguments in order to suggest the flavour of the work.",
+      "We try to give a flavour of an exciting but hazardous world at the forefront of live laptop performance.",
+      "Sufficient of the flavour of this volume has been given to confirm its difference from the first.",
+      "Publicity around the star's feistiness offstage lent the flavour of autobiography to the twice-daily action onstage.",
+      "Worsteds became the flavour of the year in 1622.",
+      "Pasture feeding - a contribution of additional flavour nuances of milk fat and meat flavour.",
+      "This renders the spatial conditioning of an orange flavour perplexing."
     ],
-    "hash_code_list_definition_mean": "1532264033"
+    "hash_code_list_example": "267684350"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/flea_cb_dmean_5000_it.json",
@@ -2477,17 +1618,19 @@
         "id_image": "flea_5511716"
       }
     ],
-    "hash_code_list_img": "1049564837",
-    "list_definition_mean": [
-      {
-        "mean_english": "bọ chét",
-        "definition": "a type of small blood-sucking insect that jumps instead of flying and lives on the bodies of animals or people",
-        "ex_of_definition_list": [
-          "a flea-infested room."
-        ]
-      }
+    "hash_code_list_img": "1566992200",
+    "list_example": [
+      "a flea-infested room.",
+      "I wish my attention had been drawn to the fleas before.",
+      "Most people in this country do not like timber houses; they think they are full of fleas, and they generally are.",
+      "We are as much entitled to try to discuss and diagnose the effect of pain upon fleas as upon horses.",
+      "A certain number of fleas will probably emerge at once from it; but there will be many larvae and pupae still in the nest.",
+      "He has magic fleas that will turn people into human dogs if bitten.",
+      "After the processing phase, the fish fillet is trimmed for blood, bones, fins, black membrane, fleas, loose fish scales and sorted.",
+      "After the pup receives some roughhousing, however, the bloodhound's fleas, were most disturbed and therefore decided to get back at the gorilla.",
+      "We have more committees than a dog has fleas, but the results are very disappointing."
     ],
-    "hash_code_list_definition_mean": "1528762181"
+    "hash_code_list_example": "-1590053282"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/flexible_cb_dmean_5000_it.json",
@@ -2511,24 +1654,19 @@
         "id_image": "flexible_6135660"
       }
     ],
-    "hash_code_list_img": "-541863440",
-    "list_definition_mean": [
-      {
-        "mean_english": "dẻo; dễ uốn",
-        "definition": "that can be bent easily",
-        "ex_of_definition_list": [
-          "Rattan is a very flexible material which can be used to make many different furniture shapes."
-        ]
-      },
-      {
-        "mean_english": "linh động; linh hoạt",
-        "definition": "able or willing to change according to circumstances etc",
-        "ex_of_definition_list": [
-          "My holiday plans are very flexible."
-        ]
-      }
+    "hash_code_list_img": "1769485136",
+    "list_example": [
+      "Rattan is a very flexible material which can be used to make many different furniture shapes.",
+      "As a result, many of them can only carry out those less time-consuming and more flexible caring tasks.",
+      "To this end, they can use the plans and specifications provided by the architect as a flexible guideline for the application of their own technologies.",
+      "Our goal is to develop a generally applicable feedback method that is better suited for the flexible automation of microassembly processes.",
+      "The dynamic model describing the motion of the flexible manipulator is derived using the finite element method.",
+      "Tenacious goal pursuit and flexible goal adjustment : explication and age-related analysis of assimilative and accommodative strategies of coping.",
+      "An exper t system for scheduling robots in a flexible electroplating system with dynamically changing workloads.",
+      "Such gain control should reduce the effect of flexible coupling on the system.",
+      "Compared with the traditional interview-based knowledge acquisition, our approach is more flexible and requires a shor ter development cycle."
     ],
-    "hash_code_list_definition_mean": "-2032455787"
+    "hash_code_list_example": "102380776"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/flick_cb_dmean_5000_it.json",
@@ -2553,31 +1691,11 @@
         "id_image": "flick_4430323"
       }
     ],
-    "hash_code_list_img": "-1716627432",
-    "list_definition_mean": [
-      {
-        "mean_english": "cú đánh nhẹ; cái búng",
-        "definition": "a quick, sharp movement",
-        "ex_of_definition_list": [
-          "He twisted the door knob with a quick flick of his wrist."
-        ]
-      },
-      {
-        "mean_english": "phim chiếu bóng",
-        "definition": "a movie",
-        "ex_of_definition_list": [
-          "Do you fancy going to the flicks tonight?"
-        ]
-      },
-      {
-        "mean_english": "đánh nhẹ; búng; gõ nhẹ",
-        "definition": "to make this kind of movement (to or with something)",
-        "ex_of_definition_list": [
-          "He flicked open a packet of cigarettes."
-        ]
-      }
+    "hash_code_list_img": "1476692760",
+    "list_example": [
+      "He twisted the door knob with a quick flick of his wrist."
     ],
-    "hash_code_list_definition_mean": "268275573"
+    "hash_code_list_example": "2058572664"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/flight_cb_dmean_5000_it.json",
@@ -2604,46 +1722,16 @@
         "id_image": "flight_384038"
       }
     ],
-    "hash_code_list_img": "241226271",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự bay",
-        "definition": "act of flying",
-        "ex_of_definition_list": [
-          "the flight of a bird."
-        ]
-      },
-      {
-        "mean_english": "chuyến bay",
-        "definition": "a journey in a plane",
-        "ex_of_definition_list": [
-          "How long is the flight to New York?"
-        ]
-      },
-      {
-        "mean_english": "dãy bậc thang; cầu thang",
-        "definition": "a number of steps or stairs",
-        "ex_of_definition_list": [
-          "a flight of steps."
-        ]
-      },
-      {
-        "mean_english": "đàn chim; bầy côn trùng",
-        "definition": "a number of birds etc flying or moving through the air",
-        "ex_of_definition_list": [
-          "a flight of geese",
-          "a flight of arrows."
-        ]
-      },
-      {
-        "mean_english": "hành động hoặc trường hợp lẩn trốn hoặc bỏ chạy",
-        "definition": "the act of fleeing or running away from an enemy, danger etc",
-        "ex_of_definition_list": [
-          "The general regarded the flight of his army as a disgrace."
-        ]
-      }
+    "hash_code_list_img": "-65882671",
+    "list_example": [
+      "the flight of a bird.",
+      "How long is the flight to New York?",
+      "a flight of steps.",
+      "a flight of geese",
+      "a flight of arrows.",
+      "The general regarded the flight of his army as a disgrace."
     ],
-    "hash_code_list_definition_mean": "1492279188"
+    "hash_code_list_example": "-1095383172"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/flipper_cb_dmean_5000_it.json",
@@ -2667,17 +1755,11 @@
         "id_image": "flipper_4469309"
       }
     ],
-    "hash_code_list_img": "1044754451",
-    "list_definition_mean": [
-      {
-        "mean_english": "bàn chân người nhái",
-        "definition": "a kind of rubber or plastic shoe, worn when swimming, which is shaped like the flipper of a seal etc",
-        "ex_of_definition_list": [
-          "a pair of flippers."
-        ]
-      }
+    "hash_code_list_img": "1894716534",
+    "list_example": [
+      "a pair of flippers."
     ],
-    "hash_code_list_definition_mean": "1909597757"
+    "hash_code_list_example": "318957128"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/flip_cb_dmean_5000_it.json",
@@ -2707,31 +1789,11 @@
         "id_image": "flip_648438"
       }
     ],
-    "hash_code_list_img": "-19594777",
-    "list_definition_mean": [
-      {
-        "mean_english": "búng",
-        "definition": "to throw (something) in the air (so that it turns)",
-        "ex_of_definition_list": [
-          "They flipped a coin to see which side it landed on."
-        ]
-      },
-      {
-        "mean_english": "lật nhanh",
-        "definition": "(sometimes with over) to turn over quickly",
-        "ex_of_definition_list": [
-          "She flipped over the pages of the book."
-        ]
-      },
-      {
-        "mean_english": "cú đánh nhẹ; cú bật nhẹ",
-        "definition": "an act of flipping",
-        "ex_of_definition_list": [
-          "The matter was decided by the flip of a coin."
-        ]
-      }
+    "hash_code_list_img": "-614640844",
+    "list_example": [
+      "The matter was decided by the flip of a coin."
     ],
-    "hash_code_list_definition_mean": "251420356"
+    "hash_code_list_example": "192150554"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/flirt_cb_dmean_5000_it.json",
@@ -2750,24 +1812,12 @@
         "id_image": "flirt_599656"
       }
     ],
-    "hash_code_list_img": "473637438",
-    "list_definition_mean": [
-      {
-        "mean_english": "tán tỉnh; ve vãn",
-        "definition": "(often with with) to behave (towards someone) as though one were in love but without serious intentions",
-        "ex_of_definition_list": [
-          "She flirts with every man she meets."
-        ]
-      },
-      {
-        "mean_english": "người tán tỉnh; người tán tỉnh",
-        "definition": "a person, especially a woman, who behaves in this way",
-        "ex_of_definition_list": [
-          "She’s such a terrible flirt."
-        ]
-      }
+    "hash_code_list_img": "443021523",
+    "list_example": [
+      "She flirts with every man she meets.",
+      "She’s such a terrible flirt."
     ],
-    "hash_code_list_definition_mean": "1322771501"
+    "hash_code_list_example": "2125105872"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/float_cb_dmean_5000_it.json",
@@ -2797,32 +1847,11 @@
         "id_image": "float_499416"
       }
     ],
-    "hash_code_list_img": "1605511731",
-    "list_definition_mean": [
-      {
-        "mean_english": "lơ lửng; lềnh bềnh; nổi",
-        "definition": "to (make something) stay on the surface of a liquid",
-        "ex_of_definition_list": [
-          "A piece of wood was floating in the stream."
-        ]
-      },
-      {
-        "mean_english": "cái phao",
-        "definition": "an object that floats on a fishing line",
-        "ex_of_definition_list": [
-          "If the float moves, there is probably a fish on the hook."
-        ]
-      },
-      {
-        "mean_english": "bè; mảng trôi",
-        "definition": "a vehicle for transporting certain things",
-        "ex_of_definition_list": [
-          "a milk-float",
-          "a cattle-float."
-        ]
-      }
+    "hash_code_list_img": "-331655809",
+    "list_example": [
+      "If the float moves, there is probably a fish on the hook."
     ],
-    "hash_code_list_definition_mean": "-946886482"
+    "hash_code_list_example": "779359392"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/flood_cb_dmean_5000_it.json",
@@ -2857,30 +1886,10 @@
         "id_image": "flood_491279"
       }
     ],
-    "hash_code_list_img": "884651494",
-    "list_definition_mean": [
-      {
-        "mean_english": "cơn lũ lụt",
-        "definition": "a great overflow of water",
-        "ex_of_definition_list": [
-          "If it continues to rain like this, we shall have floods."
-        ]
-      },
-      {
-        "mean_english": "số lượng hoặc khối lượng lớn",
-        "definition": "any great quantity",
-        "ex_of_definition_list": [
-          "a flood of fan mail."
-        ]
-      },
-      {
-        "mean_english": "ngập nước",
-        "definition": "to (cause something to) overflow with water",
-        "ex_of_definition_list": [
-          "She left the water running and flooded the kitchen."
-        ]
-      }
+    "hash_code_list_img": "312905565",
+    "list_example": [
+      "a flood of fan mail."
     ],
-    "hash_code_list_definition_mean": "620558885"
+    "hash_code_list_example": "1013879329"
   }
 ]

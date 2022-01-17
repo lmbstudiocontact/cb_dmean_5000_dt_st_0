@@ -31,52 +31,16 @@
         "id_image": "pick_499251"
       }
     ],
-    "hash_code_list_img": "-1755876058",
-    "list_definition_mean": [
-      {
-        "mean_english": "chọn",
-        "definition": "to choose or select",
-        "ex_of_definition_list": [
-          "Pick the one you like best."
-        ]
-      },
-      {
-        "mean_english": "nhặt",
-        "definition": "to take (flowers from a plant, fruit from a tree etc), usually by hand",
-        "ex_of_definition_list": [
-          "The little girl sat on the grass and picked flowers."
-        ]
-      },
-      {
-        "mean_english": "nâng lên",
-        "definition": "to lift (someone or something)",
-        "ex_of_definition_list": [
-          "He picked up the child."
-        ]
-      },
-      {
-        "mean_english": "mở",
-        "definition": "to unlock (a lock) with a tool other than a key",
-        "ex_of_definition_list": [
-          "The thief must have picked the lock with a hair-pin."
-        ]
-      },
-      {
-        "mean_english": "lựa chọn",
-        "definition": "whatever or whichever a person wants or chooses",
-        "ex_of_definition_list": [
-          "Take your pick of these prizes."
-        ]
-      },
-      {
-        "mean_english": "cái tốt nhất",
-        "definition": "the best one(s) from or the best part of something",
-        "ex_of_definition_list": [
-          "These grapes are the pick of the bunch."
-        ]
-      }
+    "hash_code_list_img": "229610700",
+    "list_example": [
+      "Take your pick of these prizes.",
+      "These grapes are the pick of the bunch.",
+      "One can pick it up and start reading at virtually any point and find a wealth of information.",
+      "Barely able to talk, she phones the preschool to tell them she will soon pick up her child.",
+      "More recent incongruity theorists have begun to pick up on the sociological importance of this kind of deviation from expectation.",
+      "The mistaken assumption was that the concepts of religion and politics can only be intelligible if they pick out some real essence."
     ],
-    "hash_code_list_definition_mean": "-706397167"
+    "hash_code_list_example": "2051650065"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/picnic_cb_dmean_5000_it.json",
@@ -105,26 +69,11 @@
         "id_image": "picnic_978391"
       }
     ],
-    "hash_code_list_img": "1003311397",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuộc đi chơi",
-        "definition": "a very informal meal eaten in the open air, usually as part of a trip, outing etc",
-        "ex_of_definition_list": [
-          "We’ll go to the seaside and take a picnic",
-          "Let’s go for a picnic!",
-          "(also adjective) a picnic lunch."
-        ]
-      },
-      {
-        "mean_english": "đi picnic",
-        "definition": "to have a picnic",
-        "ex_of_definition_list": [
-          "We picnicked on the beach."
-        ]
-      }
+    "hash_code_list_img": "2091853067",
+    "list_example": [
+      "(also adjective) a picnic lunch."
     ],
-    "hash_code_list_definition_mean": "581887199"
+    "hash_code_list_example": "1971525143"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/picture_cb_dmean_5000_it.json",
@@ -158,59 +107,22 @@
         "id_image": "picture_868201"
       }
     ],
-    "hash_code_list_img": "736545223",
-    "list_definition_mean": [
-      {
-        "mean_english": "ảnh",
-        "definition": "a painting or drawing",
-        "ex_of_definition_list": [
-          "This is a picture of my mother."
-        ]
-      },
-      {
-        "mean_english": "bức ảnh",
-        "definition": "a photograph",
-        "ex_of_definition_list": [
-          "I took a lot of pictures when I was on holiday."
-        ]
-      },
-      {
-        "mean_english": "phim",
-        "definition": "a cinema film",
-        "ex_of_definition_list": [
-          "There’s a good picture on at the cinema tonight."
-        ]
-      },
-      {
-        "mean_english": "biểu tượng",
-        "definition": "(with the) a symbol or perfect example (of something)",
-        "ex_of_definition_list": [
-          "She looked the picture of health/happiness."
-        ]
-      },
-      {
-        "mean_english": "hình ảnh",
-        "definition": "(with a) a beautiful sight",
-        "ex_of_definition_list": [
-          "She looked a picture in her new dress."
-        ]
-      },
-      {
-        "mean_english": "mô tả",
-        "definition": "a clear description",
-        "ex_of_definition_list": [
-          "He gave me a good picture of what was happening."
-        ]
-      },
-      {
-        "mean_english": "tưởng tượng",
-        "definition": "to imagine",
-        "ex_of_definition_list": [
-          "I can picture the scene."
-        ]
-      }
+    "hash_code_list_img": "1146808879",
+    "list_example": [
+      "This is a picture of my mother.",
+      "There’s a good picture on at the cinema tonight.",
+      "She looked the picture of health/happiness.",
+      "She looked a picture in her new dress.",
+      "He gave me a good picture of what was happening.",
+      "I can picture the scene.",
+      "Patients' strong performance in word/picture matching tasks even in \"impaired\" categories may provide evidence for the causal link hypothesis.",
+      "The network contains one kind of picture which describes sample paths characteristics.",
+      "The picture for each target word appeared on the screen in a random order different from the order used during the learning phase.",
+      "It was also necessary to ensure that for each picture there were sufficient words selected to describe the events.",
+      "The problem is that this isn't obviously either explicit or implicit, as those terms are understood in picture (1).",
+      "Thus, m-reflexives include a subset of picture noun reflexives."
     ],
-    "hash_code_list_definition_mean": "-1906226251"
+    "hash_code_list_example": "383063245"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pier_cb_dmean_5000_it.json",
@@ -238,18 +150,20 @@
         "id_image": "pier_3720012"
       }
     ],
-    "hash_code_list_img": "1151731384",
-    "list_definition_mean": [
-      {
-        "mean_english": "cầu tàu",
-        "definition": "a platform of stone, wood etc stretching from the shore into the sea, a lake etc, used as a landing-place for boats or as a place of entertainment",
-        "ex_of_definition_list": [
-          "Brighton pier.",
-          "The passengers stepped down onto the pier."
-        ]
-      }
+    "hash_code_list_img": "256023696",
+    "list_example": [
+      "Brighton pier.",
+      "The passengers stepped down onto the pier.",
+      "Will he confirm that, when he produces proposals, he will study closely the question of enabling legislation, particularly in relation to piers?",
+      "There would be no advantage in using the existing bridge piers.",
+      "You can only do that by railway facilities, by river and sea facilities, and also by piers.",
+      "Crossing the threshold brings you into a lofty hall articulated by tall brick and blockwork piers.",
+      "In my constituency, we need other things, like piers and lower freight charges.",
+      "Dog excrement is to be found on pavements everywhere, on the grass where children play, on the beaches and on the piers.",
+      "A large wind-chime hammock sculpture was suspended from a woven canoe-like roof structure lashed to the pier's end.",
+      "The intention was clearly to form a continuous tie across the building, so restraining the walls against any outward movement because these beams span between the piers framing the windows."
     ],
-    "hash_code_list_definition_mean": "1811082458"
+    "hash_code_list_example": "1780417068"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pie_cb_dmean_5000_it.json",
@@ -272,17 +186,16 @@
         "id_image": "pie_817295"
       }
     ],
-    "hash_code_list_img": "1087245671",
-    "list_definition_mean": [
-      {
-        "mean_english": "bánh nướng",
-        "definition": "food baked in a covering of pastry",
-        "ex_of_definition_list": [
-          "a steak/apple pie."
-        ]
-      }
+    "hash_code_list_img": "855234308",
+    "list_example": [
+      "Each pie diagram is the average of 3-4 samples; decimal places have been rounded.",
+      "The findings of the present article suggest a further note of caution even to those who have rushed headlong into the pie production business.",
+      "But this pie is large : there seems to be more than enough wishful thinking for everyone to share.",
+      "Correspondingly, the size of the pie will diminish or increase.",
+      "The threat came at a time when the advertising pie was fast shrinking in favour of television.",
+      "What remains is to examine the distribution of traces and inquire whether trace deletion cuts the experimental pie correctly."
     ],
-    "hash_code_list_definition_mean": "941889076"
+    "hash_code_list_example": "-1650549365"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/piggy_cb_dmean_5000_it.json",
@@ -306,17 +219,14 @@
         "id_image": "piggy_812881"
       }
     ],
-    "hash_code_list_img": "184863025",
-    "list_definition_mean": [
-      {
-        "mean_english": "như lợn",
-        "definition": "like a pig’s",
-        "ex_of_definition_list": [
-          "piggy eyes."
-        ]
-      }
+    "hash_code_list_img": "1111677635",
+    "list_example": [
+      "piggy eyes.",
+      "On occasions like this it is apparent that you are stuck there like piggy in the middle.",
+      "I do not want to follow him into the piggy digression that he made, because that is rather far from the subject of the proposed directive.",
+      "Who is the piggy in the middle?"
     ],
-    "hash_code_list_definition_mean": "1035027990"
+    "hash_code_list_example": "1027887350"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pigment_cb_dmean_5000_it.json",
@@ -345,24 +255,13 @@
         "id_image": "pigment_2534785"
       }
     ],
-    "hash_code_list_img": "664314495",
-    "list_definition_mean": [
-      {
-        "mean_english": "chất màu; chất nhuộm",
-        "definition": "any substance used for colouring/coloring, making paint etc",
-        "ex_of_definition_list": [
-          "People used to make paint and dyes from natural pigments."
-        ]
-      },
-      {
-        "mean_english": "sắc tố",
-        "definition": "a substance in plants or animals that gives colour/color to the skin, leaves etc",
-        "ex_of_definition_list": [
-          "Some people have darker pigment in their skin than others."
-        ]
-      }
+    "hash_code_list_img": "-1452248736",
+    "list_example": [
+      "Some people have darker pigment in their skin than others.",
+      "Photoreceptors recover from pigment adaptation after replacement 11-cis retinal, supplied by pigment epithelial cells, regenerate the visual pigment, and quench opsin's activity.",
+      "However, the retina shrank only by about 1% relative to the pigment epithelium, so this does not seem to be the case."
     ],
-    "hash_code_list_definition_mean": "-1607058812"
+    "hash_code_list_example": "-370557135"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pig_cb_dmean_5000_it.json",
@@ -381,24 +280,12 @@
         "id_image": "pig_194949"
       }
     ],
-    "hash_code_list_img": "1686522004",
-    "list_definition_mean": [
-      {
-        "mean_english": "con lợn",
-        "definition": "a kind of farm animal whose flesh is eaten as pork, ham, and bacon",
-        "ex_of_definition_list": [
-          "He keeps pigs."
-        ]
-      },
-      {
-        "mean_english": "từ chửi người khác",
-        "definition": "an offensive word for an unpleasant, greedy, or dirty person",
-        "ex_of_definition_list": [
-          "You pig!"
-        ]
-      }
+    "hash_code_list_img": "1388081134",
+    "list_example": [
+      "He keeps pigs.",
+      "You pig!"
     ],
-    "hash_code_list_definition_mean": "-1394005086"
+    "hash_code_list_example": "1237079425"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pile_cb_dmean_5000_it.json",
@@ -420,46 +307,13 @@
         "id_image": "pile_5392248"
       }
     ],
-    "hash_code_list_img": "18794168",
-    "list_definition_mean": [
-      {
-        "mean_english": "đống: chồng",
-        "definition": "a (large) number of things lying on top of each other in a tidy or untidy heap; a (large) quantity of something lying in a heap",
-        "ex_of_definition_list": [
-          "There was a neat pile of books in the corner of the room",
-          "There was pile of rubbish at the bottom of the garden."
-        ]
-      },
-      {
-        "mean_english": "số lượng lớn",
-        "definition": "a large quantity, especially of money",
-        "ex_of_definition_list": [
-          "He must have piles of money to own a car like that."
-        ]
-      },
-      {
-        "mean_english": "xếp thành chồng",
-        "definition": "to make a pile of (something); to put (something) in a pile",
-        "ex_of_definition_list": [
-          "He piled the boxes on the table."
-        ]
-      },
-      {
-        "mean_english": "cọc",
-        "definition": "a large pillar or stake driven into the ground as a foundation for a building, bridge etc",
-        "ex_of_definition_list": [
-          "The entire city of Venice is built on piles."
-        ]
-      },
-      {
-        "mean_english": "mặt thảm mịn",
-        "definition": "the thick soft surface of carpets and some kinds of cloth eg velvet",
-        "ex_of_definition_list": [
-          "The rug has a deep/thick pile."
-        ]
-      }
+    "hash_code_list_img": "423797645",
+    "list_example": [
+      "There was a neat pile of books in the corner of the room",
+      "There was pile of rubbish at the bottom of the garden.",
+      "She sweats to pile up virtues for the man."
     ],
-    "hash_code_list_definition_mean": "1668539445"
+    "hash_code_list_example": "-38517530"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pilgrimage_cb_dmean_5000_it.json",
@@ -482,17 +336,12 @@
         "id_image": "pilgrimage_3781929"
       }
     ],
-    "hash_code_list_img": "-1443035251",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuộc hành hương",
-        "definition": "a journey to a holy place",
-        "ex_of_definition_list": [
-          "She went on a pilgrimage to Lourdes."
-        ]
-      }
+    "hash_code_list_img": "-2013780329",
+    "list_example": [
+      "She went on a pilgrimage to Lourdes.",
+      "What would a proletarian view of life's pilgrimage be in contrast to a middleclass one ?"
     ],
-    "hash_code_list_definition_mean": "2100157458"
+    "hash_code_list_example": "2089389147"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pilgrim_cb_dmean_5000_it.json",
@@ -515,17 +364,11 @@
         "id_image": "pilgrim_2069379"
       }
     ],
-    "hash_code_list_img": "-1476580804",
-    "list_definition_mean": [
-      {
-        "mean_english": "người hành hương",
-        "definition": "a person who travels to a holy place",
-        "ex_of_definition_list": [
-          "Every year thousands of pilgrims visit Jerusalem."
-        ]
-      }
+    "hash_code_list_img": "-1006814893",
+    "list_example": [
+      "Every year thousands of pilgrims visit Jerusalem."
     ],
-    "hash_code_list_definition_mean": "1824531147"
+    "hash_code_list_example": "1700531401"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pillar_cb_dmean_5000_it.json",
@@ -543,17 +386,19 @@
         "id_image": "pillar_5236373"
       }
     ],
-    "hash_code_list_img": "1553338243",
-    "list_definition_mean": [
-      {
-        "mean_english": "cột trụ",
-        "definition": "an upright post used in building as a support or decoration",
-        "ex_of_definition_list": [
-          "The hall was surrounded by stone pillars."
-        ]
-      }
+    "hash_code_list_img": "839348470",
+    "list_example": [
+      "The hall was surrounded by stone pillars.",
+      "Other scenery was a tree constructed from scaffolding, and several shiny steel pillars.",
+      "Further and separate legislation would still be required in these areas so long as these pillars exist.",
+      "The thicknesses of adjacent pillars are inferred from the mapping software.",
+      "The joint committee will be the main forum for day-to-day co-operation between the two pillars.",
+      "Women tend to be low earners, hence beneficiaries of targeting in the new public pillars.",
+      "They exaggerated in their ways to the point that the pillars of this religion were almost destroyed.",
+      "Though these old pillars are collapsing rapidly, innovative new approaches to convince the public and the political arena are yet to be established.",
+      "In addition to this, certain boundary pillars indicated the name of the region they marked out."
     ],
-    "hash_code_list_definition_mean": "825134798"
+    "hash_code_list_example": "1621139628"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pillow_cb_dmean_5000_it.json",
@@ -582,24 +427,19 @@
         "id_image": "pillow_3830256"
       }
     ],
-    "hash_code_list_img": "376469465",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái gối",
-        "definition": "a kind of cushion for the head, especially on a bed",
-        "ex_of_definition_list": [
-          "She fluffed up the pillows."
-        ]
-      },
-      {
-        "mean_english": "tựa đầu lên cái gì",
-        "definition": "to rest (one’s head)",
-        "ex_of_definition_list": [
-          "He pillowed his head on her breast."
-        ]
-      }
+    "hash_code_list_img": "154881887",
+    "list_example": [
+      "She fluffed up the pillows.",
+      "He pillowed his head on her breast.",
+      "They cover practically all clothing, boots, shoes, handkerchiefs, braces, furniture, pillows and mattresses.",
+      "Officers and all families have cabins; troops are accommodated in troop decks fitted with folding berths, and they are provided with pillows and blankets.",
+      "Since dust mites depend on moisture to survive, they are most often found in bedding such as pillows and duvets.",
+      "I examined the beds and pillows very carefully.",
+      "The first tribe to have their large crate onto the finish platform would win pillows, blankets, a hammock, a mat, and immunity.",
+      "Has anybody seen them, and are they there with all their equipment— blankets, sheets, pillows and all the rest of the necessary furnishing?",
+      "There are 5,000 pillows in the same stores."
     ],
-    "hash_code_list_definition_mean": "-238310194"
+    "hash_code_list_example": "-264781010"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pill_cb_dmean_5000_it.json",
@@ -632,18 +472,12 @@
         "id_image": "pill_2992063"
       }
     ],
-    "hash_code_list_img": "-662224235",
-    "list_definition_mean": [
-      {
-        "mean_english": "viên thuốc",
-        "definition": "a small ball or tablet of medicine, to be swallowed",
-        "ex_of_definition_list": [
-          "She took a pill",
-          "sleeping pills."
-        ]
-      }
+    "hash_code_list_img": "1297655679",
+    "list_example": [
+      "She took a pill",
+      "sleeping pills."
     ],
-    "hash_code_list_definition_mean": "1692204328"
+    "hash_code_list_example": "-944003495"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pilot_cb_dmean_5000_it.json",
@@ -669,31 +503,12 @@
         "id_image": "pilot_4251422"
       }
     ],
-    "hash_code_list_img": "1420608503",
-    "list_definition_mean": [
-      {
-        "mean_english": "phi công",
-        "definition": "a person who flies an aeroplane/airplane",
-        "ex_of_definition_list": [
-          "The pilot and crew were all killed in the air crash."
-        ]
-      },
-      {
-        "mean_english": "thí điểm",
-        "definition": "experimental",
-        "ex_of_definition_list": [
-          "a pilot scheme (= one done on a small scale, eg to solve certain problems before a larger, more expensive project is started)."
-        ]
-      },
-      {
-        "mean_english": "lái, điều khiển",
-        "definition": "to guide as a pilot",
-        "ex_of_definition_list": [
-          "He piloted the ship/plane."
-        ]
-      }
+    "hash_code_list_img": "-1488228161",
+    "list_example": [
+      "The pilot and crew were all killed in the air crash.",
+      "a pilot scheme (= one done on a small scale, eg to solve certain problems before a larger, more expensive project is started)."
     ],
-    "hash_code_list_definition_mean": "521447507"
+    "hash_code_list_example": "-833318178"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pimple_cb_dmean_5000_it.json",
@@ -716,17 +531,13 @@
         "id_image": "pimple_5221080"
       }
     ],
-    "hash_code_list_img": "1827160451",
-    "list_definition_mean": [
-      {
-        "mean_english": "mụn",
-        "definition": "a small round swelling on the skin",
-        "ex_of_definition_list": [
-          "He had a pimple on his nose."
-        ]
-      }
+    "hash_code_list_img": "4247251",
+    "list_example": [
+      "He had a pimple on his nose.",
+      "We might just as well pick out a person with a pimple on his left ear and say that he has to pay.",
+      "I have no wish—as seems to have been argued—to set up a bureaucratic pimple on the body politic."
     ],
-    "hash_code_list_definition_mean": "148963590"
+    "hash_code_list_example": "-2089958649"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pinball_cb_dmean_5000_it.json",
@@ -749,17 +560,19 @@
         "id_image": "pinball_831191"
       }
     ],
-    "hash_code_list_img": "-1274722726",
-    "list_definition_mean": [
-      {
-        "mean_english": "trò chơi bắn đạn",
-        "definition": "a game that you play on a special machine with a sloping board. Players try to score points by using two buttons at the side to make a ball hit targets and stop it from reaching the bottom and going out of play",
-        "ex_of_definition_list": [
-          "(also adjective) a pinball machine."
-        ]
-      }
+    "hash_code_list_img": "-1866431310",
+    "list_example": [
+      "(also adjective) a pinball machine.",
+      "It is the tale of a pinball machine purist's encounter with a very unusual video game.",
+      "When he came flying toward you with the puck on his stick, his eyes were all lit up, flashing and gleaming like a pinball machine.",
+      "Additionally, the pinball machine based on the film, is the best-selling and the highest produced pinball machine of all time.",
+      "It showed a fullscreen high resolution display of a pinball game table.",
+      "Fourthly, we will limit the duty to video machines, quiz machines and pinball machines.",
+      "That will exclude many pinball machines.",
+      "The studio features several monitors, sports memorabilia, a basketball hoop, a pinball machine, a foosball table, a bar with 3 kegs and a golf simulator.",
+      "Their live shows briefly became famous for their use of pinball machines instead of keyboards."
     ],
-    "hash_code_list_definition_mean": "337147111"
+    "hash_code_list_example": "-1291407003"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pinch_cb_dmean_5000_it.json",
@@ -791,45 +604,12 @@
         "id_image": "pinch_4660849"
       }
     ],
-    "hash_code_list_img": "580324074",
-    "list_definition_mean": [
-      {
-        "mean_english": "véo",
-        "definition": "to squeeze or press tightly (flesh), especially between the thumb and forefinger",
-        "ex_of_definition_list": [
-          "He pinched her arm."
-        ]
-      },
-      {
-        "mean_english": "bó chặt",
-        "definition": "to hurt by being too small or tight",
-        "ex_of_definition_list": [
-          "My new shoes are pinching (me)."
-        ]
-      },
-      {
-        "mean_english": "ăn cắp",
-        "definition": "to steal",
-        "ex_of_definition_list": [
-          "Who pinched my pen?"
-        ]
-      },
-      {
-        "mean_english": "cái véo",
-        "definition": "an act of pinching; a squeeze or nip",
-        "ex_of_definition_list": [
-          "He gave her a pinch on the cheek."
-        ]
-      },
-      {
-        "mean_english": "nhúm",
-        "definition": "a very small amount; what can be held between the thumb and forefinger",
-        "ex_of_definition_list": [
-          "a pinch of salt."
-        ]
-      }
+    "hash_code_list_img": "-151714972",
+    "list_example": [
+      "He gave her a pinch on the cheek.",
+      "a pinch of salt."
     ],
-    "hash_code_list_definition_mean": "153290784"
+    "hash_code_list_example": "100893537"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pineapple_cb_dmean_5000_it.json",
@@ -847,18 +627,14 @@
         "id_image": "pineapple_433690"
       }
     ],
-    "hash_code_list_img": "920581474",
-    "list_definition_mean": [
-      {
-        "mean_english": "quả dứa",
-        "definition": "a type of large tropical fruit shaped like a large pine-cone, or the plant which produces it",
-        "ex_of_definition_list": [
-          "a slice of pineapple",
-          "(also adjective) pineapple juice."
-        ]
-      }
+    "hash_code_list_img": "2060069309",
+    "list_example": [
+      "(also adjective) pineapple juice.",
+      "Whereas in our study area the eviction of the strangers would mainly mean the loss of the land rent income, and of the intermediation gains in the pineapple sector.",
+      "I have decided to abolish the control of canned grapefruit, pineapple and mandarin oranges after the end of the year.",
+      "In addition, it is expected that a quantity of canned pineapple jam will be sold."
     ],
-    "hash_code_list_definition_mean": "490307238"
+    "hash_code_list_example": "-514897171"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pine_cb_dmean_5000_it.json",
@@ -889,32 +665,12 @@
         "id_image": "pine_6262934"
       }
     ],
-    "hash_code_list_img": "-897018749",
-    "list_definition_mean": [
-      {
-        "mean_english": "gỗ thông",
-        "definition": "its wood",
-        "ex_of_definition_list": [
-          "The table is made of pine",
-          "(also adjective) a pine table."
-        ]
-      },
-      {
-        "mean_english": "tiều tụy",
-        "definition": "(often with away) to lose strength, become weak (with pain, grief etc)",
-        "ex_of_definition_list": [
-          "Since his death she has been pining (away)."
-        ]
-      },
-      {
-        "mean_english": "mong muốn tha thiết",
-        "definition": "(usually with for) to want (something) very much; to long (for someone or something, or to do something)",
-        "ex_of_definition_list": [
-          "He knew that his wife was pining for home."
-        ]
-      }
+    "hash_code_list_img": "148358879",
+    "list_example": [
+      "(also adjective) a pine table.",
+      "The new biotype was found in a limited area in the undergrowth of a pine forest, 600-1000 m above sea level."
     ],
-    "hash_code_list_definition_mean": "105791953"
+    "hash_code_list_example": "1158078699"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pink_cb_dmean_5000_it.json",
@@ -933,25 +689,13 @@
         "id_image": "pink_2218719"
       }
     ],
-    "hash_code_list_img": "734341927",
-    "list_definition_mean": [
-      {
-        "mean_english": "màu hồng",
-        "definition": "(of) (any shade of) a colour/color between red and white",
-        "ex_of_definition_list": [
-          "a dress of pink satin."
-        ]
-      },
-      {
-        "mean_english": "hồng hào",
-        "definition": "(of) the colour/color of healthy skin",
-        "ex_of_definition_list": [
-          "pink cheeks",
-          "Her cheeks are pink with health."
-        ]
-      }
+    "hash_code_list_img": "1711574205",
+    "list_example": [
+      "a dress of pink satin.",
+      "pink cheeks",
+      "Her cheeks are pink with health."
     ],
-    "hash_code_list_definition_mean": "2138031431"
+    "hash_code_list_example": "-515011102"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pint_cb_dmean_5000_it.json",
@@ -979,17 +723,11 @@
         "id_image": "pint_5499191"
       }
     ],
-    "hash_code_list_img": "-766411087",
-    "list_definition_mean": [
-      {
-        "mean_english": "Panh, đơn vị đo lường, ở Anh bằng 0,57 lít, ở Mỹ bằng 0,47 lít",
-        "definition": "a unit for measuring liquids, one-eighth of a gallon (in Britain, 0.57 litre; in the United States, 0.47 litre)",
-        "ex_of_definition_list": [
-          "a pint of milk/beer."
-        ]
-      }
+    "hash_code_list_img": "1569058830",
+    "list_example": [
+      "a pint of milk/beer."
     ],
-    "hash_code_list_definition_mean": "1800898456"
+    "hash_code_list_example": "-1619605936"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pin_cb_dmean_5000_it.json",
@@ -1021,38 +759,13 @@
         "id_image": "pin_709383"
       }
     ],
-    "hash_code_list_img": "697710889",
-    "list_definition_mean": [
-      {
-        "mean_english": "ghim; cặp",
-        "definition": "a short, thin, pointed piece of metal used eg to hold pieces of fabric, paper etc together, especially when making clothes",
-        "ex_of_definition_list": [
-          "The papers are fastened together by a pin."
-        ]
-      },
-      {
-        "mean_english": "đinh ghim",
-        "definition": "a similar but more ornamental object",
-        "ex_of_definition_list": [
-          "a hat-pin."
-        ]
-      },
-      {
-        "mean_english": "ghim; kẹp",
-        "definition": "to fasten with a pin",
-        "ex_of_definition_list": [
-          "She pinned the material together."
-        ]
-      },
-      {
-        "mean_english": "ghìm chặt",
-        "definition": "to hold by pressing against something",
-        "ex_of_definition_list": [
-          "The fallen tree pinned him to the ground."
-        ]
-      }
+    "hash_code_list_img": "-186463700",
+    "list_example": [
+      "The pin engaging the radial arm could be withdrawn, permitting the whole assembly to rotate freely with the cylinder.",
+      "The output of our algorithm is a (possibly empty) range of critical pin heights for the part at each of its stable orientations.",
+      "In this world, the intention of speech acts is impossible to pin down, meaning is inaccessible, language opaque."
     ],
-    "hash_code_list_definition_mean": "896914130"
+    "hash_code_list_example": "1804725886"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pipeline_cb_dmean_5000_it.json",
@@ -1085,17 +798,11 @@
         "id_image": "pipeline_3716766"
       }
     ],
-    "hash_code_list_img": "1890390905",
-    "list_definition_mean": [
-      {
-        "mean_english": "đường ống dẫn",
-        "definition": "a long line of pipes used for conveying oil, gas, water etc",
-        "ex_of_definition_list": [
-          "an oil pipeline across the desert."
-        ]
-      }
+    "hash_code_list_img": "-370722623",
+    "list_example": [
+      "an oil pipeline across the desert."
     ],
-    "hash_code_list_definition_mean": "838139364"
+    "hash_code_list_example": "1770279173"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pipe_cb_dmean_5000_it.json",
@@ -1128,55 +835,11 @@
         "id_image": "pipe_5672218"
       }
     ],
-    "hash_code_list_img": "-714029416",
-    "list_definition_mean": [
-      {
-        "mean_english": "ống dẫn",
-        "definition": "a tube, usually made of metal, earthenware etc, through which water, gas etc can flow",
-        "ex_of_definition_list": [
-          "a water pipe",
-          "a drainpipe."
-        ]
-      },
-      {
-        "mean_english": "tẩu thuốc",
-        "definition": "a small tube with a bowl at one end, in which tobacco is smoked",
-        "ex_of_definition_list": [
-          "He smokes a pipe",
-          "(also adjective) pipe tobacco."
-        ]
-      },
-      {
-        "mean_english": "ống sáo",
-        "definition": "a musical instrument consisting of a hollow wooden, metal etc tube through which the player blows or causes air to be blown in order to make a sound",
-        "ex_of_definition_list": [
-          "He played a tune on a bamboo pipe",
-          "an organ pipe."
-        ]
-      },
-      {
-        "mean_english": "dẫn bằng ống",
-        "definition": "to convey gas, water etc by a pipe",
-        "ex_of_definition_list": [
-          "Water is piped to the town from the reservoir."
-        ]
-      },
-      {
-        "mean_english": "thổi sáo",
-        "definition": "to play (music) on a pipe or pipes",
-        "ex_of_definition_list": [
-          "He piped a tune."
-        ]
-      },
-      {
-        "mean_english": "lanh lảnh",
-        "definition": "to speak in a high voice, make a high-pitched sound",
-        "ex_of_definition_list": [
-          "‘Hallo,’ the little girl piped."
-        ]
-      }
+    "hash_code_list_img": "996190673",
+    "list_example": [
+      "(also adjective) pipe tobacco."
     ],
-    "hash_code_list_definition_mean": "1953033689"
+    "hash_code_list_example": "-8021349"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/piracy_cb_dmean_5000_it.json",
@@ -1199,18 +862,15 @@
         "id_image": "piracy_6150464"
       }
     ],
-    "hash_code_list_img": "-1019395012",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự cướp biển; việc sao chụp bất hợp pháp",
-        "definition": "the act(s) of a pirate",
-        "ex_of_definition_list": [
-          "He was accused of piracy on the high seas",
-          "Publishing that book under his own name was piracy."
-        ]
-      }
+    "hash_code_list_img": "-641132159",
+    "list_example": [
+      "He was accused of piracy on the high seas",
+      "One of their boats was the subject of one of the last acts of piracy in those isles.",
+      "Until a recent crackdown, the piracy of tapes was an endemic problem.",
+      "What are they to gain from this political piracy which we are now discussing?",
+      "The size of the area in which pirates operate makes it hard to deal with the problem of piracy with military resources alone."
     ],
-    "hash_code_list_definition_mean": "1511067292"
+    "hash_code_list_example": "1171074978"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pirate_cb_dmean_5000_it.json",
@@ -1230,32 +890,12 @@
         "id_image": "pirate_475430"
       }
     ],
-    "hash_code_list_img": "217590903",
-    "list_definition_mean": [
-      {
-        "mean_english": "cướp biển",
-        "definition": "a person who attacks and robs ships at sea",
-        "ex_of_definition_list": [
-          "Their ship was attacked by pirates",
-          "(also adjective) a pirate ship."
-        ]
-      },
-      {
-        "mean_english": "người xâm phạm tác quyền",
-        "definition": "a person who does something without legal right, eg publishes someone else’s work as his own or broadcasts without a licence",
-        "ex_of_definition_list": [
-          "a pirate radio-station."
-        ]
-      },
-      {
-        "mean_english": "sao chép bất hợp pháp",
-        "definition": "to publish, broadcast etc without the legal right to do so",
-        "ex_of_definition_list": [
-          "The DVD was pirated."
-        ]
-      }
+    "hash_code_list_img": "2130883315",
+    "list_example": [
+      "(also adjective) a pirate ship.",
+      "a pirate radio-station."
     ],
-    "hash_code_list_definition_mean": "684632055"
+    "hash_code_list_example": "-1659843844"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pistol_cb_dmean_5000_it.json",
@@ -1273,17 +913,11 @@
         "id_image": "pistol_3857421"
       }
     ],
-    "hash_code_list_img": "1526694438",
-    "list_definition_mean": [
-      {
-        "mean_english": "súng ngắn",
-        "definition": "a small gun, held in one hand when fired",
-        "ex_of_definition_list": [
-          "He shot himself with a pistol."
-        ]
-      }
+    "hash_code_list_img": "2014166774",
+    "list_example": [
+      "He shot himself with a pistol."
     ],
-    "hash_code_list_definition_mean": "336050526"
+    "hash_code_list_example": "-1057248824"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pitcher_cb_dmean_5000_it.json",
@@ -1317,17 +951,16 @@
         "id_image": "pitcher_904616"
       }
     ],
-    "hash_code_list_img": "-13027408",
-    "list_definition_mean": [
-      {
-        "mean_english": "bình; vò",
-        "definition": "a large jug",
-        "ex_of_definition_list": [
-          "a pitcher of water."
-        ]
-      }
+    "hash_code_list_img": "1989143432",
+    "list_example": [
+      "a pitcher of water.",
+      "A good pitcher has a whole array of pitches in his arsenal.",
+      "Schilling is the 14th pitcher to reach the milestone.",
+      "Of course, although firing has decreased, it is still heavy, and if a pitcher is taken to the well too often, sooner or later it breaks.",
+      "The pitcher is of quite simple design, but is an article of great attraction to visitors.",
+      "For example, a woman tips a pitcher over a glass in one frame, and in the next, she is gone and the glass is full."
     ],
-    "hash_code_list_definition_mean": "1784322552"
+    "hash_code_list_example": "1966330265"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pitch_cb_dmean_5000_it.json",
@@ -1371,81 +1004,14 @@
         "id_image": "pitch_2132535"
       }
     ],
-    "hash_code_list_img": "1684077339",
-    "list_definition_mean": [
-      {
-        "mean_english": "cắm trại",
-        "definition": "to set up (a tent or camp)",
-        "ex_of_definition_list": [
-          "They pitched their tent in the field."
-        ]
-      },
-      {
-        "mean_english": "ném",
-        "definition": "to throw",
-        "ex_of_definition_list": [
-          "He pitched the stone into the river."
-        ]
-      },
-      {
-        "mean_english": "rơi mạnh xuống",
-        "definition": "to (cause to) fall heavily",
-        "ex_of_definition_list": [
-          "He pitched forward."
-        ]
-      },
-      {
-        "mean_english": "nhô lên hụp xuống",
-        "definition": "(of a ship) to rise and fall violently",
-        "ex_of_definition_list": [
-          "The boat pitched up and down on the rough sea."
-        ]
-      },
-      {
-        "mean_english": "xướng âm",
-        "definition": "to set (a note or tune) at a particular level",
-        "ex_of_definition_list": [
-          "He pitched the tune too high for my voice."
-        ]
-      },
-      {
-        "mean_english": "sân đấu",
-        "definition": "the field or ground for certain games",
-        "ex_of_definition_list": [
-          "a cricket pitch",
-          "a football pitch."
-        ]
-      },
-      {
-        "mean_english": "mức độ",
-        "definition": "an extreme point or intensity",
-        "ex_of_definition_list": [
-          "His anger reached such a pitch that he hit her."
-        ]
-      },
-      {
-        "mean_english": "chỗ ngồi bán hàng rong",
-        "definition": "the part of a street etc where a street-seller or entertainer works",
-        "ex_of_definition_list": [
-          "He has a pitch on the High Street."
-        ]
-      },
-      {
-        "mean_english": "động tác ném bóng, đường ném bóng",
-        "definition": "the act of pitching or throwing or the distance something is pitched",
-        "ex_of_definition_list": [
-          "That was a long pitch."
-        ]
-      },
-      {
-        "mean_english": "dầu hắc ín",
-        "definition": "a thick black substance obtained from tar",
-        "ex_of_definition_list": [
-          "as black as pitch."
-        ]
-      }
+    "hash_code_list_img": "845892347",
+    "list_example": [
+      "His anger reached such a pitch that he hit her.",
+      "He has a pitch on the High Street.",
+      "Segments that are sonorous, stressed, or realized with high pitch are said to be particularly salient.",
+      "However, since only pitch is involved, it is clear that the abstract accent is nothing but 'an indication of pitch'."
     ],
-    "hash_code_list_definition_mean": "-1408325090"
+    "hash_code_list_example": "882947614"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pit_cb_dmean_5000_it.json",
@@ -1473,39 +1039,11 @@
         "id_image": "pit_4294192"
       }
     ],
-    "hash_code_list_img": "920276780",
-    "list_definition_mean": [
-      {
-        "mean_english": "hố",
-        "definition": "a large hole in the ground",
-        "ex_of_definition_list": [
-          "The campers dug a pit for their rubbish."
-        ]
-      },
-      {
-        "mean_english": "hầm mỏ",
-        "definition": "a place from which minerals are dug, especially a coal-mine",
-        "ex_of_definition_list": [
-          "a chalk-pit",
-          "He works at/down the pit."
-        ]
-      },
-      {
-        "mean_english": "trạm tiếp tế cho xe đua",
-        "definition": "a place beside a motor race track for repairing and refuelling racing cars",
-        "ex_of_definition_list": [
-          "The leading car has gone into the pit(s)."
-        ]
-      },
-      {
-        "mean_english": "đọ sức với ai",
-        "definition": "(with against) to set (a person or thing) against another in a fight, competition etc",
-        "ex_of_definition_list": [
-          "He was pitted against a much stronger man."
-        ]
-      }
+    "hash_code_list_img": "959573687",
+    "list_example": [
+      "The campers dug a pit for their rubbish."
     ],
-    "hash_code_list_definition_mean": "673811616"
+    "hash_code_list_example": "1471627687"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pivot_cb_dmean_5000_it.json",
@@ -1534,17 +1072,12 @@
         "id_image": "pivot_4234486"
       }
     ],
-    "hash_code_list_img": "1424949906",
-    "list_definition_mean": [
-      {
-        "mean_english": "xoay quanh trục",
-        "definition": "(with on) to turn (on)",
-        "ex_of_definition_list": [
-          "The door pivoted on a central hinge."
-        ]
-      }
+    "hash_code_list_img": "2047791569",
+    "list_example": [
+      "The semantic verification is made by tools associated with the pivot language.",
+      "Figure 4 presents the use of the refinement and proof correctness process applied to the unified specification in the pivot language."
     ],
-    "hash_code_list_definition_mean": "1768580389"
+    "hash_code_list_example": "545343943"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/placard_cb_dmean_5000_it.json",
@@ -1567,17 +1100,13 @@
         "id_image": "placard_4901813"
       }
     ],
-    "hash_code_list_img": "2128039885",
-    "list_definition_mean": [
-      {
-        "mean_english": "áp phích",
-        "definition": "a notice printed on eg wood or cardboard and carried, hung etc, in a public place",
-        "ex_of_definition_list": [
-          "The protesters were carrying placards denouncing the government’s policy."
-        ]
-      }
+    "hash_code_list_img": "-1369697210",
+    "list_example": [
+      "It is something which the newspapers have a habit of making into placard news.",
+      "Does he not know perfectly well that that placard was put up by two policemen?",
+      "In practical terms, what the committee wanted was a monument that looked and functioned more like a placard than a work of fine art."
     ],
-    "hash_code_list_definition_mean": "1773418182"
+    "hash_code_list_example": "-946853300"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/place_cb_dmean_5000_it.json",
@@ -1613,105 +1142,20 @@
         "id_image": "place_5744807"
       }
     ],
-    "hash_code_list_img": "-1858193121",
-    "list_definition_mean": [
-      {
-        "mean_english": "nơi",
-        "definition": "a particular spot or area",
-        "ex_of_definition_list": [
-          "a quiet place in the country",
-          "I spent my holiday in various different places."
-        ]
-      },
-      {
-        "mean_english": "khoảng trống",
-        "definition": "an empty space",
-        "ex_of_definition_list": [
-          "There’s a place for your books on this shelf."
-        ]
-      },
-      {
-        "mean_english": "toà nhà hay khu vực dùng cho một mục đích cụ thể",
-        "definition": "an area or building with a particular purpose",
-        "ex_of_definition_list": [
-          "a market place."
-        ]
-      },
-      {
-        "mean_english": "chỗ ngồi",
-        "definition": "a seat (in a theatre/theater, train, at a table etc)",
-        "ex_of_definition_list": [
-          "He went to his place and sat down."
-        ]
-      },
-      {
-        "mean_english": "vị trí",
-        "definition": "a position in an order, series, queue etc",
-        "ex_of_definition_list": [
-          "She got the first place in the competition",
-          "I lost my place in the queue."
-        ]
-      },
-      {
-        "mean_english": "địa vị",
-        "definition": "a person’s position or level of importance in society etc",
-        "ex_of_definition_list": [
-          "Warriors rose to an important place in Aztec society."
-        ]
-      },
-      {
-        "mean_english": "chỗ đánh dấu trong cuốn sách",
-        "definition": "a point in the text of a book etc",
-        "ex_of_definition_list": [
-          "The wind was blowing the pages of my book and I kept losing my place."
-        ]
-      },
-      {
-        "mean_english": "trách nhiệm; quyền",
-        "definition": "duty or right",
-        "ex_of_definition_list": [
-          "It’s not my place to tell him he’s wrong."
-        ]
-      },
-      {
-        "mean_english": "công việc hay vị trí",
-        "definition": "a job or position in a team, organization etc",
-        "ex_of_definition_list": [
-          "He’s got a place in the team",
-          "He’s hoping for a place on the staff."
-        ]
-      },
-      {
-        "mean_english": "nhà",
-        "definition": "house; home",
-        "ex_of_definition_list": [
-          "Come over to my place."
-        ]
-      },
-      {
-        "mean_english": "số con số sau dấu thập phân",
-        "definition": "a number or one of a series of numbers following a decimal point",
-        "ex_of_definition_list": [
-          "Make the answer correct to four decimal places."
-        ]
-      },
-      {
-        "mean_english": "đặt, để",
-        "definition": "to put",
-        "ex_of_definition_list": [
-          "He placed it on the table",
-          "He was placed in command of the army."
-        ]
-      },
-      {
-        "mean_english": "nhớ",
-        "definition": "to remember who a person is",
-        "ex_of_definition_list": [
-          "I know I’ve seen her before, but I can’t quite place her."
-        ]
-      }
+    "hash_code_list_img": "2070642053",
+    "list_example": [
+      "a quiet place in the country",
+      "There’s a place for your books on this shelf.",
+      "He went to his place and sat down.",
+      "She got the first place in the competition",
+      "I lost my place in the queue.",
+      "Warriors rose to an important place in Aztec society.",
+      "It’s not my place to tell him he’s wrong.",
+      "He’s got a place in the team",
+      "He’s hoping for a place on the staff.",
+      "I know I’ve seen her before, but I can’t quite place her."
     ],
-    "hash_code_list_definition_mean": "790597808"
+    "hash_code_list_example": "-444855690"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/plague_cb_dmean_5000_it.json",
@@ -1736,31 +1180,11 @@
         "id_image": "plague_5234436"
       }
     ],
-    "hash_code_list_img": "693291521",
-    "list_definition_mean": [
-      {
-        "mean_english": "bệnh dịch",
-        "definition": "especially formerly, an extremely infectious and deadly disease, especially one carried by fleas from rats",
-        "ex_of_definition_list": [
-          "the outbreak of bubonic plague."
-        ]
-      },
-      {
-        "mean_english": "số lượng lớn",
-        "definition": "a large and annoying quantity",
-        "ex_of_definition_list": [
-          "a plague of flies."
-        ]
-      },
-      {
-        "mean_english": "quấy rầy",
-        "definition": "to annoy or pester continually or frequently",
-        "ex_of_definition_list": [
-          "The child was plaguing her with questions."
-        ]
-      }
+    "hash_code_list_img": "263648118",
+    "list_example": [
+      "a plague of flies."
     ],
-    "hash_code_list_definition_mean": "1324568117"
+    "hash_code_list_example": "2124119286"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/plaintiff_cb_dmean_5000_it.json",
@@ -1783,17 +1207,11 @@
         "id_image": "plaintiff_1781238"
       }
     ],
-    "hash_code_list_img": "-536118850",
-    "list_definition_mean": [
-      {
-        "mean_english": "nguyên đơn",
-        "definition": "a person who starts a legal case against another",
-        "ex_of_definition_list": [
-          "The jury ruled for the plaintiffs."
-        ]
-      }
+    "hash_code_list_img": "-426061413",
+    "list_example": [
+      "The plaintiff knew all about this car when he got into it."
     ],
-    "hash_code_list_definition_mean": "2081868868"
+    "hash_code_list_example": "297317780"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/plain_cb_dmean_5000_it.json",
@@ -1822,54 +1240,16 @@
         "id_image": "plain_3788664"
       }
     ],
-    "hash_code_list_img": "766481178",
-    "list_definition_mean": [
-      {
-        "mean_english": "đơn sơ; giản dị",
-        "definition": "simple or ordinary; without ornament or decoration",
-        "ex_of_definition_list": [
-          "plain living",
-          "good, plain food."
-        ]
-      },
-      {
-        "mean_english": "dễ hiểu",
-        "definition": "easy to understand; clear",
-        "ex_of_definition_list": [
-          "His words were quite plain."
-        ]
-      },
-      {
-        "mean_english": "thật thà",
-        "definition": "absolutely open or honest, with no attempt to be tactful",
-        "ex_of_definition_list": [
-          "I’ll be quite plain with you",
-          "plain speaking."
-        ]
-      },
-      {
-        "mean_english": "rõ ràng",
-        "definition": "obvious",
-        "ex_of_definition_list": [
-          "It’s plain (to see) you haven’t been practising your music."
-        ]
-      },
-      {
-        "mean_english": "xấu",
-        "definition": "not pretty",
-        "ex_of_definition_list": [
-          "a rather plain girl."
-        ]
-      },
-      {
-        "mean_english": "đồng bằng",
-        "definition": "a large flat level piece of land",
-        "ex_of_definition_list": [
-          "the plains of central Canada."
-        ]
-      }
+    "hash_code_list_img": "-343564752",
+    "list_example": [
+      "plain living",
+      "good, plain food.",
+      "I’ll be quite plain with you",
+      "plain speaking.",
+      "It’s plain (to see) you haven’t been practising your music.",
+      "a rather plain girl."
     ],
-    "hash_code_list_definition_mean": "1419823875"
+    "hash_code_list_example": "-559089738"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/planet_cb_dmean_5000_it.json",
@@ -1892,17 +1272,19 @@
         "id_image": "planet_2994328"
       }
     ],
-    "hash_code_list_img": "492264138",
-    "list_definition_mean": [
-      {
-        "mean_english": "hành tinh",
-        "definition": "any of the bodies (eg the Earth) which move round the Sun or round another star",
-        "ex_of_definition_list": [
-          "Mars and Jupiter are planets, but the Moon is not."
-        ]
-      }
+    "hash_code_list_img": "-1096879861",
+    "list_example": [
+      "Mars and Jupiter are planets, but the Moon is not.",
+      "Rocky planetesimals formed in the inner zone of this disc, eventually growing into terrestrial planets.",
+      "To the contrary, those on other planets have only been able to eke out a decent living by dint of incredibly hard work.",
+      "In most cases, those planets follow orbits with significant eccentricity, leading to substantial seasonal temperature excursions.",
+      "The migration of planets is one such problematic process.",
+      "Resolved imaging of extra-solar planets with future 10-100 km optical interferometric arrays.",
+      "The requirements for plate tectonics of water and mass are also independently requirements for habitable planets.",
+      "The third planetary explosion mechanism holds the potential for an indefinitely large reservoir of energy for exploding even massive planets and stars.",
+      "More realistically, the nebula would be evolving under the influence of internal viscous forces and the tidal forces of embedded giant planets."
     ],
-    "hash_code_list_definition_mean": "514682431"
+    "hash_code_list_example": "-1145605630"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/plane_cb_dmean_5000_it.json",
@@ -1936,24 +1318,12 @@
         "id_image": "plane_386462"
       }
     ],
-    "hash_code_list_img": "1068792541",
-    "list_definition_mean": [
-      {
-        "mean_english": "máy bay",
-        "definition": "an aeroplane/airplane",
-        "ex_of_definition_list": [
-          "What time does your plane leave?"
-        ]
-      },
-      {
-        "mean_english": "trình độ",
-        "definition": "a level or standard",
-        "ex_of_definition_list": [
-          "Man is on a higher plane (of development) than the apes."
-        ]
-      }
+    "hash_code_list_img": "-38678560",
+    "list_example": [
+      "What time does your plane leave?",
+      "Man is on a higher plane (of development) than the apes."
     ],
-    "hash_code_list_definition_mean": "2034487041"
+    "hash_code_list_example": "1772404711"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/plank_cb_dmean_5000_it.json",
@@ -1976,17 +1346,19 @@
         "id_image": "plank_972756"
       }
     ],
-    "hash_code_list_img": "-1156433269",
-    "list_definition_mean": [
-      {
-        "mean_english": "tấm ván",
-        "definition": "a long, flat piece of wood",
-        "ex_of_definition_list": [
-          "The floor was made of planks."
-        ]
-      }
+    "hash_code_list_img": "-719879504",
+    "list_example": [
+      "The floor was made of planks.",
+      "One of the main planks for organic production is that only carefully and narrowly defined pesticides are allowed.",
+      "Getting the competition framework right is one of the main planks of economic growth and prosperity.",
+      "Let us show that all planks are nice and smart.",
+      "A short time ago you had to drive up two planks.",
+      "More obviously, the two large planks in the bottom left corner extend beyond the frame suggesting a world that continues beyond its margins.",
+      "The hospital was designed for seventy-five patients, but there were over 200 patients lying on bare planks closely pressed one to the other.",
+      "In practical application, the constant length links are turned into metal planks, and a rotational shaft and bearings are mounted on the intersection of two constant length links.",
+      "However, it is not a narrow issue to take away one of the central planks of the legal profession as it operates."
     ],
-    "hash_code_list_definition_mean": "670491362"
+    "hash_code_list_example": "2113981384"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/planner_cb_dmean_5000_it.json",
@@ -2019,17 +1391,19 @@
         "id_image": "planner_4016157"
       }
     ],
-    "hash_code_list_img": "-250722958",
-    "list_definition_mean": [
-      {
-        "mean_english": "người thiết kế",
-        "definition": "a person who plans (especially buildings etc)",
-        "ex_of_definition_list": [
-          "a town planner."
-        ]
-      }
+    "hash_code_list_img": "-753031820",
+    "list_example": [
+      "a town planner.",
+      "One could say that they hastened to 'fix' the 'mistake' made by the planners of leaving the bathroom outside the house.",
+      "In the first part of this paper, a solution for the local minima problem, associated to local planners, has been proposed.",
+      "Ebgoc differs from these planners in that it combines the process of identifying specific subgoals with the process of identifying and instantiating operators.",
+      "The system represents such concepts as being approachable and pedestrian friendly, and it allows urban planners to evaluate design models with respect to those concepts.",
+      "Therefore, solving the planner's problem will not deliver the market allocation. 12.",
+      "An ecological perspective on history and life is incompatible with laissezfaire ideology, referred to by planners as the 'continuation-of-trends scenario'.",
+      "The efficiency loss grows because increasing minimum guaranteed consumption levels do not allow the component planners to enforce high labor effort.",
+      "None of the other planners could solve the last problem."
     ],
-    "hash_code_list_definition_mean": "1048135516"
+    "hash_code_list_example": "-360335773"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/plantation_cb_dmean_5000_it.json",
@@ -2053,17 +1427,11 @@
         "id_image": "plantation_1590710"
       }
     ],
-    "hash_code_list_img": "-1923390822",
-    "list_definition_mean": [
-      {
-        "mean_english": "đồn điền",
-        "definition": "a piece of land or estate for growing certain crops, especially cotton, sugar, rubber, tea and tobacco",
-        "ex_of_definition_list": [
-          "He owned a rubber plantation in Malaysia."
-        ]
-      }
+    "hash_code_list_img": "-1161046491",
+    "list_example": [
+      "He owned a rubber plantation in Malaysia."
     ],
-    "hash_code_list_definition_mean": "1208371833"
+    "hash_code_list_example": "-694633542"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/planter_cb_dmean_5000_it.json",
@@ -2086,17 +1454,19 @@
         "id_image": "planter_517603"
       }
     ],
-    "hash_code_list_img": "1588011370",
-    "list_definition_mean": [
-      {
-        "mean_english": "chủ đồn điền",
-        "definition": "the owner of a plantation for growing tea, rubber etc",
-        "ex_of_definition_list": [
-          "a tea-planter."
-        ]
-      }
+    "hash_code_list_img": "1958720697",
+    "list_example": [
+      "a tea-planter.",
+      "After emancipation such offspring were economically valueless to planters, and threatened white dominance.",
+      "Cotton was never again grown as profitably for the planters as in the period before emancipation.",
+      "In some other cases, planters, seriously short of workers, took the initiative.",
+      "A timber deck and planters provide a restful atmosphere, and the whole is enclosed in rendered walls with punched openings to frame views [30].",
+      "There is no evidence of the type of arrangements established between independent planters and mills during the years of primitive sugar production.",
+      "Even worse for the planters, journalists took the issue outside the court-room.",
+      "The type of cane growth, whether the cane is erect or lodged is an important trait for planters.",
+      "In the early stages, training was in the hands of the planters and miners themselves and officers seconded from the civil government."
     ],
-    "hash_code_list_definition_mean": "776102641"
+    "hash_code_list_example": "-546392871"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/plant_cb_dmean_5000_it.json",
@@ -2135,53 +1505,13 @@
         "id_image": "plant_757018"
       }
     ],
-    "hash_code_list_img": "488205218",
-    "list_definition_mean": [
-      {
-        "mean_english": "thực vật",
-        "definition": "anything growing from the ground, having a stem, a root and leaves",
-        "ex_of_definition_list": [
-          "flowering/tropical plants."
-        ]
-      },
-      {
-        "mean_english": "thiết bị",
-        "definition": "industrial machinery",
-        "ex_of_definition_list": [
-          "an engineering plant."
-        ]
-      },
-      {
-        "mean_english": "trồng; gieo",
-        "definition": "to put (something) into the ground so that it will grow",
-        "ex_of_definition_list": [
-          "We have planted vegetables in the garden."
-        ]
-      },
-      {
-        "mean_english": "trồng",
-        "definition": "to make (a garden etc); to cause (a garden etc) to have (plants etc) growing in it",
-        "ex_of_definition_list": [
-          "The garden was planted with shrubs",
-          "We’re going to plant an orchard."
-        ]
-      },
-      {
-        "mean_english": "đứng vững",
-        "definition": "to place heavily or firmly",
-        "ex_of_definition_list": [
-          "He planted himself between her and the door."
-        ]
-      },
-      {
-        "mean_english": "ngụy tạo",
-        "definition": "to put in someone’s possession, especially as false evidence",
-        "ex_of_definition_list": [
-          "He claimed that the police had planted the weapon on his brother."
-        ]
-      }
+    "hash_code_list_img": "1049408462",
+    "list_example": [
+      "We’re going to plant an orchard.",
+      "Each table entry is the trigger price at which the decision-maker would find it advantageous to plant the corresponding share of land to mango trees.",
+      "The chapter on plant responses to herbicides reminds the reader that stresses can be anthropogenic."
     ],
-    "hash_code_list_definition_mean": "-121464979"
+    "hash_code_list_example": "724805170"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/plan_cb_dmean_5000_it.json",
@@ -2219,58 +1549,13 @@
         "id_image": "plan_6213653"
       }
     ],
-    "hash_code_list_img": "548665097",
-    "list_definition_mean": [
-      {
-        "mean_english": "kế hoạch",
-        "definition": "an idea of how to do something; a method of doing something",
-        "ex_of_definition_list": [
-          "If everyone follows this plan, we will succeed",
-          "I have worked out a plan for making a lot of money."
-        ]
-      },
-      {
-        "mean_english": "dự định",
-        "definition": "an intention or arrangement",
-        "ex_of_definition_list": [
-          "His plan is to rob a bank and leave the country quickly",
-          "What are your plans for tomorrow?"
-        ]
-      },
-      {
-        "mean_english": "bản vẽ; sơ đồ",
-        "definition": "a drawing, diagram etc showing a building, town etc as if seen from above",
-        "ex_of_definition_list": [
-          "These are the plans of/for our new house",
-          "a street-plan."
-        ]
-      },
-      {
-        "mean_english": "đặt kế hoạch",
-        "definition": "(sometimes with on) to intend (to do something)",
-        "ex_of_definition_list": [
-          "We are planning on going to Italy this year",
-          "We were planning to go last year, but we didn’t have enough money",
-          "They are planning a trip to Italy."
-        ]
-      },
-      {
-        "mean_english": "dự trù",
-        "definition": "to decide how something is to be done; to arrange (something)",
-        "ex_of_definition_list": [
-          "We are planning a party",
-          "We’ll have to plan very carefully if we are to succeed."
-        ]
-      },
-      {
-        "mean_english": "thiết kế",
-        "definition": "to design (a building, town etc)",
-        "ex_of_definition_list": [
-          "This is the architect who planned the building."
-        ]
-      }
+    "hash_code_list_img": "-799860431",
+    "list_example": [
+      "I have worked out a plan for making a lot of money.",
+      "His plan is to rob a bank and leave the country quickly",
+      "We’ll have to plan very carefully if we are to succeed."
     ],
-    "hash_code_list_definition_mean": "1415275242"
+    "hash_code_list_example": "-2113176194"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/plaque_cb_dmean_5000_it.json",
@@ -2290,24 +1575,19 @@
         "id_image": "plaque_1471807"
       }
     ],
-    "hash_code_list_img": "815490951",
-    "list_definition_mean": [
-      {
-        "mean_english": "tấm; bản",
-        "definition": "a plate of metal etc fixed to a wall etc as a memorial",
-        "ex_of_definition_list": [
-          "His name was inscribed on a brass plaque."
-        ]
-      },
-      {
-        "mean_english": "bựa răng",
-        "definition": "a deposit of saliva and bacteria which forms on the teeth",
-        "ex_of_definition_list": [
-          "Plaque damages the enamel of your teeth."
-        ]
-      }
+    "hash_code_list_img": "1182586072",
+    "list_example": [
+      "His name was inscribed on a brass plaque.",
+      "The closely packed arrays of junctional channels are commonly called plaques.",
+      "The intracellular keratin network (intermediate filaments) of keratinocytes of the epidermis is connected to electron-dense plaques (hemidesmosmes) at the basal side of the keratinocytes abutting the basement membrane.",
+      "The iconography of these headdresses and the profile reptilian headdresses of leaning-lord plaques may denote interaction with members of a foreign elite.",
+      "Neuritic plaques contain extracellular deposits of 4 as abundant amyloid fibrils intermixed with nonfibrillar forms of this peptide, and also contain degenerating axons and dendrites (neurites).",
+      "Positive plaques were isolated and purified to a homogeneous stock.",
+      "A population of medium-sized plaques continued to show strong labeling in light-adapted retina single arrowheads!.",
+      "In the experiments reported here there is no opportunity for competitive optimization because of the subdivision of populations (single plaques) and, therefore, the opportunity for divergence between groups.",
+      "At present, the four 1993 replacement headboards carry plaques referring to them as replicas, which is not quite accurate."
     ],
-    "hash_code_list_definition_mean": "-996460142"
+    "hash_code_list_example": "-1992636085"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/plaster_cb_dmean_5000_it.json",
@@ -2349,47 +1629,19 @@
         "id_image": "plaster_6009235"
       }
     ],
-    "hash_code_list_img": "2037593215",
-    "list_definition_mean": [
-      {
-        "mean_english": "vữa",
-        "definition": "(also adjective) (of) a substance put on walls, ceilings etc which dries to form a hard smooth surface",
-        "ex_of_definition_list": [
-          "He mixed up some plaster to repair the wall",
-          "a plaster ceiling."
-        ]
-      },
-      {
-        "mean_english": "bó bột thạch cao",
-        "definition": "(also adjective) (also plaster of Paris) (of) a similar quick-drying substance used for supporting broken limbs, making models etc",
-        "ex_of_definition_list": [
-          "She’s got her arm in plaster",
-          "a plaster model."
-        ]
-      },
-      {
-        "mean_english": "băng dán",
-        "definition": "(also sticking-plaster; Band-Aid American) (a piece of) sticky tape (sometimes with a dressing) used to cover a wound etc",
-        "ex_of_definition_list": [
-          "You should put a plaster on that cut."
-        ]
-      },
-      {
-        "mean_english": "trát vữa",
-        "definition": "to put plaster on",
-        "ex_of_definition_list": [
-          "They plastered the walls."
-        ]
-      },
-      {
-        "mean_english": "bôi trát",
-        "definition": "to spread or apply rather too thickly",
-        "ex_of_definition_list": [
-          "She’d look nicer if she didn’t plaster so much make-up on her face."
-        ]
-      }
+    "hash_code_list_img": "996235088",
+    "list_example": [
+      "He mixed up some plaster to repair the wall",
+      "a plaster ceiling.",
+      "a plaster model.",
+      "You should put a plaster on that cut.",
+      "She’d look nicer if she didn’t plaster so much make-up on her face.",
+      "The rooms in these houses had thick plaster floors placed over a well-prepared base composed of small cobblestones.",
+      "External doors seem to be completely absent, and many ladder imprints have been found in the wall plaster at the site.",
+      "They returned to the tent with ample food and plaster bandages - but the plaster proved useless, spoiled by the damp.",
+      "If language is a building, then usage conflicts are matters of surface finish - a shade of paint here, some plaster cracks there."
     ],
-    "hash_code_list_definition_mean": "-480046874"
+    "hash_code_list_example": "-2063579369"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/plastic_cb_dmean_5000_it.json",
@@ -2418,18 +1670,11 @@
         "id_image": "plastic_4201885"
       }
     ],
-    "hash_code_list_img": "1438833103",
-    "list_definition_mean": [
-      {
-        "mean_english": "chất dẻo",
-        "definition": "(of) any of many chemically manufactured substances that can be moulded when still soft",
-        "ex_of_definition_list": [
-          "This cup is made of plastic",
-          "a plastic cup."
-        ]
-      }
+    "hash_code_list_img": "-2066369036",
+    "list_example": [
+      "a plastic cup."
     ],
-    "hash_code_list_definition_mean": "127387291"
+    "hash_code_list_example": "763875502"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/platelet_cb_dmean_5000_it.json",
@@ -2452,17 +1697,14 @@
         "id_image": "platelet_4493138"
       }
     ],
-    "hash_code_list_img": "-1679860133",
-    "list_definition_mean": [
-      {
-        "mean_english": "tiểu cầu",
-        "definition": "a small round cell fragment that helps blood to clot",
-        "ex_of_definition_list": [
-          "The platelets’ job is to aid in coagulation."
-        ]
-      }
+    "hash_code_list_img": "1125590944",
+    "list_example": [
+      "Determination of the fetal platelet count is important because of the need for antenatal treatment.",
+      "It is supposed that these improvements of clinical symptoms are based on inhibition of vasoconstriction and platelet aggregation in pulmonary circulation.",
+      "The initial platelet count was 20 x 109 per litre in 50% (53/107).",
+      "The exact molecular mechanisms by which isoflavones affect platelet aggregation are unclear and currently under investigation."
     ],
-    "hash_code_list_definition_mean": "1062354381"
+    "hash_code_list_example": "-510547815"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/plate_cb_dmean_5000_it.json",
@@ -2496,37 +1738,21 @@
         "id_image": "plate_883743"
       }
     ],
-    "hash_code_list_img": "1101377960",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái đĩa",
-        "definition": "a shallow dish for holding food etc",
-        "ex_of_definition_list": [
-          "china plates."
-        ]
-      },
-      {
-        "mean_english": "tấm",
-        "definition": "a sheet of metal etc",
-        "ex_of_definition_list": [
-          "The ship was built of steel plates."
-        ]
-      },
-      {
-        "mean_english": "đồ mạ",
-        "definition": "articles made of, or plated with, usually gold or silver",
-        "ex_of_definition_list": [
-          "a collection of gold plate."
-        ]
-      },
-      {
-        "mean_english": "ảnh minh họa",
-        "definition": "an illustration in a book, usually on glossy paper",
-        "ex_of_definition_list": [
-          "The book has ten full-colour plates."
-        ]
-      }
+    "hash_code_list_img": "1217616899",
+    "list_example": [
+      "china plates.",
+      "The ship was built of steel plates.",
+      "a collection of gold plate.",
+      "The book has ten full-colour plates.",
+      "What they meant by this is indicated by plates 17-20.",
+      "There are 29 colour plates, 44 line drawings, all in at least two colours, 13 tables and a good bibliography.",
+      "All the plates had a thickness of 1.2 cm, large enough to avoid flexion at the pressures we used.",
+      "There would be matching plates and cups and saucers and a cake on a glass stand.",
+      "The numbers afterwards are issued in volumes each containing four numbers and amounting to between 400 and 500 pages, with plates and figures.",
+      "The test fluid is contained between the plates, and the two components of the tangential force on one of the plates are measured.",
+      "The ilmenite grains generally form dendritic plates (arrowed) in contrast to the euhedral orthopyroxene grains.",
+      "The plates were then inoculated with respective phages using a multipoint inoculator."
     ],
-    "hash_code_list_definition_mean": "-1290817837"
+    "hash_code_list_example": "1131188340"
   }
 ]

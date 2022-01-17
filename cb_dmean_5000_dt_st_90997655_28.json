@@ -25,17 +25,19 @@
         "id_image": "diagnose_5570859"
       }
     ],
-    "hash_code_list_img": "-828083010",
-    "list_definition_mean": [
-      {
-        "mean_english": "chẩn đoán",
-        "definition": "to say what is wrong (with a sick person etc) after making an examination; to identify (an illness etc)",
-        "ex_of_definition_list": [
-          "The doctor diagnosed her illness as flu."
-        ]
-      }
+    "hash_code_list_img": "2070182187",
+    "list_example": [
+      "The doctor diagnosed her illness as flu.",
+      "No subjects were diagnosed with schizophreniform disorders or schizophrenia.",
+      "Many, if not a majority of acyanotic anomalies, can be specifically diagnosed by a physical examination.",
+      "In our series, 2 of the 4 patients were diagnosed as having right isomerism associated with complex cardiac anomalies.",
+      "Lack of co-operativity in the system's output may be diagnosed from the occurrence of communication problems in simulated or real user-system interaction.",
+      "Patients diagnosed with depression, or mixed anxiety and depression, for whom a brief psychological intervention was indicated.",
+      "Diagnosis and troubleshooting systems can acquire information regarding the system to be diagnosed directly from the device (on-line) or through human or electronic intermediaries (off-line).",
+      "Of the infections identified by this lookback programme, 10 % had already been diagnosed.",
+      "Another calf was seen by the attending veterinarian and was diagnosed with cryptosporidiosis."
     ],
-    "hash_code_list_definition_mean": "616080306"
+    "hash_code_list_example": "-1152351121"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diagnosis_cb_dmean_5000_it.json",
@@ -73,17 +75,15 @@
         "id_image": "diagnosis_943603"
       }
     ],
-    "hash_code_list_img": "2143816570",
-    "list_definition_mean": [
-      {
-        "mean_english": "lời chẩn đoán",
-        "definition": "a conclusion reached by diagnosing",
-        "ex_of_definition_list": [
-          "What diagnosis did the doctor make?"
-        ]
-      }
+    "hash_code_list_img": "-260020338",
+    "list_example": [
+      "What diagnosis did the doctor make?",
+      "In patients in whom the diagnosis is uncertain, physicians must, therefore, turn to other diagnostic modalities to inform the selection of appropriate treatments.",
+      "Second, embedded systems frequently consider system and software diagnosis in the allocation and assignment of error codes during coding tasks.",
+      "Prompt diagnosis and treatment of the underlying cause can reduce the severity of peripheral neuropathy or decrease the recovery time.",
+      "The additional avoided fatalities due to the combination with prehospital telemedicine diagnosis were modeled, reducing the door-to-needle delay for patient transferred by ambulance."
     ],
-    "hash_code_list_definition_mean": "549353817"
+    "hash_code_list_example": "1888093790"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diagonal_cb_dmean_5000_it.json",
@@ -111,17 +111,12 @@
         "id_image": "diagonal_538813"
       }
     ],
-    "hash_code_list_img": "-1834501897",
-    "list_definition_mean": [
-      {
-        "mean_english": "chéo",
-        "definition": "a line going from one corner to the opposite corner",
-        "ex_of_definition_list": [
-          "The two diagonals of a rectangle cross at the centre."
-        ]
-      }
+    "hash_code_list_img": "1902099276",
+    "list_example": [
+      "The matrix of the problem is a 2mn x k 2mn (6m - 1)-diagonal matrix.",
+      "The thick diagonal line separates the traditional orientations ofprocessual archaeology (left) from those of post-processual archaeology (right)."
     ],
-    "hash_code_list_definition_mean": "859410545"
+    "hash_code_list_example": "1767404700"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diagram_cb_dmean_5000_it.json",
@@ -154,17 +149,15 @@
         "id_image": "diagram_975043"
       }
     ],
-    "hash_code_list_img": "-161504972",
-    "list_definition_mean": [
-      {
-        "mean_english": "biểu đồ",
-        "definition": "a drawing used to explain something that is difficult to understand",
-        "ex_of_definition_list": [
-          "This book has diagrams showing the parts of a car engine."
-        ]
-      }
+    "hash_code_list_img": "1486526436",
+    "list_example": [
+      "As the diagram shows, there are two different loading conditions but the larger of the resulting stresses may be taken for each condition.",
+      "Since we are not assuming weak purity, the vertical map on the right of this diagram need not be injective.",
+      "The proof is a routine diagram paste based on the definitions.",
+      "Takes the value of 1 if there was an organizational diagram of the proposed management and delivery structure of the bid, 0 otherwise.",
+      "The first part, called an action (or system) description, specifies the transition diagram representing possible trajectories of the system."
     ],
-    "hash_code_list_definition_mean": "334681163"
+    "hash_code_list_example": "-850154960"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dialogue_cb_dmean_5000_it.json",
@@ -202,17 +195,11 @@
         "id_image": "dialogue_6347649"
       }
     ],
-    "hash_code_list_img": "-235197929",
-    "list_definition_mean": [
-      {
-        "mean_english": "đối thoại",
-        "definition": "(a) talk between two or more people, especially in a play or novel",
-        "ex_of_definition_list": [
-          "I had trouble remembering so many lines of dialogue in this scene."
-        ]
-      }
+    "hash_code_list_img": "172391873",
+    "list_example": [
+      "I had trouble remembering so many lines of dialogue in this scene."
     ],
-    "hash_code_list_definition_mean": "1248786225"
+    "hash_code_list_example": "-705186395"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dialysis_cb_dmean_5000_it.json",
@@ -235,17 +222,18 @@
         "id_image": "dialysis_4246559"
       }
     ],
-    "hash_code_list_img": "850588203",
-    "list_definition_mean": [
-      {
-        "mean_english": "lọc máu",
-        "definition": "a process that uses a special machine for removing harmful waste substances from the blood of people whose kidneys are not working properly",
-        "ex_of_definition_list": [
-          "(also adjective) a dialysis machine."
-        ]
-      }
+    "hash_code_list_img": "1341579625",
+    "list_example": [
+      "(also adjective) a dialysis machine.",
+      "Others can make it without dialysis for a number of years, but eventually come to transplant.",
+      "This was pumped from a solute reservoir into the glass jacket surrounding the dialysis membrane.",
+      "Of that group, some have poor kidney function and need early dialysis and eventual transplant.",
+      "We also do not know whether the patient's caregivers have explored the possibility of chronic hemo- or peritoneal dialysis with her.",
+      "Manipulation of ions must be achieved by dialysis of both cytoplasms via the patch pipettes, and not be toxic to the cells.",
+      "A proportion of these patients prefer to maintain dialysis rather than receive a transplant and lose their connections with other patients and staff.",
+      "If the nurses or respiratory or dialysis technicians view the ongoing extraordinary care as cruel, this may contribute to the healthcare team dynamics."
     ],
-    "hash_code_list_definition_mean": "311040169"
+    "hash_code_list_example": "869994786"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dial_cb_dmean_5000_it.json",
@@ -281,32 +269,13 @@
         "id_image": "dial_5517638"
       }
     ],
-    "hash_code_list_img": "-687449942",
-    "list_definition_mean": [
-      {
-        "mean_english": "mặt của đồng hồ",
-        "definition": "the face of a watch or clock",
-        "ex_of_definition_list": [
-          "My watch has a dial you can see in the dark."
-        ]
-      },
-      {
-        "mean_english": "bản hoặc đĩa trên máy thu thanh hoặc thu hình chỉ bước sóng",
-        "definition": "any disc etc bearing numbers etc used to give information",
-        "ex_of_definition_list": [
-          "Just turn the dial to increase the volume.",
-          "the dial on a radio."
-        ]
-      },
-      {
-        "mean_english": "quay số",
-        "definition": "to turn a telephone dial to get a number",
-        "ex_of_definition_list": [
-          "She dialled the wrong number."
-        ]
-      }
+    "hash_code_list_img": "1164082667",
+    "list_example": [
+      "My watch has a dial you can see in the dark.",
+      "Just turn the dial to increase the volume.",
+      "the dial on a radio."
     ],
-    "hash_code_list_definition_mean": "-1551570715"
+    "hash_code_list_example": "-1270989271"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diameter_cb_dmean_5000_it.json",
@@ -324,17 +293,18 @@
         "id_image": "diameter_5967631"
       }
     ],
-    "hash_code_list_img": "331451353",
-    "list_definition_mean": [
-      {
-        "mean_english": "đường kính",
-        "definition": "(the length of) a straight line drawn from side to side of a circle, passing through its centre/center",
-        "ex_of_definition_list": [
-          "Measure the diameter of the circle."
-        ]
-      }
+    "hash_code_list_img": "108760420",
+    "list_example": [
+      "Measure the diameter of the circle.",
+      "In opening up the torus, the non-circularity of the cross section is assumed small and decreasing to zero with increasing diameter of the torus.",
+      "To obtain infested fruits, a third instar larva was placed into a small plastic dish (diameter 17 mm, height 11 mm).",
+      "If lizards were on elevated perches, we recorded the diameter of the perch (cm) and height off the ground (m).",
+      "The seeds (diameter 1-2 mm) contain a peripheral embryo that forms a ring around the central perisperm.",
+      "Defined as the maximum diameter of the radius at the level of the middle of the tuberosity.",
+      "The diameter at entrance is 30 mm and diameter at tip is varied as 0, 3, 5, and 10 mm.",
+      "A glass capsule of 280 -300 mm in diameter was placed in the center of it."
     ],
-    "hash_code_list_definition_mean": "1639866480"
+    "hash_code_list_example": "-156591256"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diamond_cb_dmean_5000_it.json",
@@ -355,25 +325,11 @@
         "id_image": "diamond_218364"
       }
     ],
-    "hash_code_list_img": "1155023666",
-    "list_definition_mean": [
-      {
-        "mean_english": "kim cương",
-        "definition": "a very hard, colourless precious stone",
-        "ex_of_definition_list": [
-          "Her brooch had three diamonds in it",
-          "(also adjective) a diamond ring."
-        ]
-      },
-      {
-        "mean_english": "hình thoi",
-        "definition": "a kind of four-sided figure or shape; ♢",
-        "ex_of_definition_list": [
-          "There was a pattern of red and yellow diamonds on the floor."
-        ]
-      }
+    "hash_code_list_img": "912156122",
+    "list_example": [
+      "(also adjective) a diamond ring."
     ],
-    "hash_code_list_definition_mean": "-1968779323"
+    "hash_code_list_example": "-1528921117"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diarrhoea_cb_dmean_5000_it.json",
@@ -396,17 +352,15 @@
         "id_image": "diarrhoea_3782065"
       }
     ],
-    "hash_code_list_img": "176490683",
-    "list_definition_mean": [
-      {
-        "mean_english": "ỉa chảy",
-        "definition": "too much liquid in and too frequent emptying of the bowels",
-        "ex_of_definition_list": [
-          "He has diarrhoea."
-        ]
-      }
+    "hash_code_list_img": "1633945249",
+    "list_example": [
+      "The consequences of diarrhoea include dehydration, electrolyte losses and nutritional problems that are more severe in the elderly patient.",
+      "Symptoms included diarrhoea (100 %), abdominal cramps (76 %), vomiting (46 %), and fever (46 %).",
+      "Among the laboratory-confirmed case-patients, the most commonly reported symptoms were diarrhoea (94.8 %), abdominal cramps (88.0%), and nausea (76.4 %).",
+      "Causes of diarrhoea morbidity were assessed for admissions of children less than 5 years of age.",
+      "The associations between the risk factors included in the survey and symptoms of diarrhoea were assessed using bivariate tabulations and calculations of odds ratios."
     ],
-    "hash_code_list_definition_mean": "1541119112"
+    "hash_code_list_example": "694034317"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diary_cb_dmean_5000_it.json",
@@ -444,17 +398,12 @@
         "id_image": "diary_6381788"
       }
     ],
-    "hash_code_list_img": "96436408",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhật ký",
-        "definition": "a (small book containing a) record of daily happenings",
-        "ex_of_definition_list": [
-          "The explorer kept a diary of his adventures."
-        ]
-      }
+    "hash_code_list_img": "-595936833",
+    "list_example": [
+      "The explorer kept a diary of his adventures.",
+      "Three further smaller sample sizes were then created out of the diary data using a randomizing algorithm."
     ],
-    "hash_code_list_definition_mean": "824197922"
+    "hash_code_list_example": "-1740648650"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dice_cb_dmean_5000_it.json",
@@ -484,24 +433,13 @@
         "id_image": "dice_606002"
       }
     ],
-    "hash_code_list_img": "1830736295",
-    "list_definition_mean": [
-      {
-        "mean_english": "súc sắc",
-        "definition": "a small cube, usually with numbered sides or faces, used in certain games",
-        "ex_of_definition_list": [
-          "It is your turn to throw the dice."
-        ]
-      },
-      {
-        "mean_english": "thái hạt lựu",
-        "definition": "to cut (vegetables etc) into small cubes",
-        "ex_of_definition_list": [
-          "She diced the carrots for the soup."
-        ]
-      }
+    "hash_code_list_img": "-1660584791",
+    "list_example": [
+      "It is your turn to throw the dice.",
+      "She diced the carrots for the soup.",
+      "Other variations include salmon, diced tomato, diced cucumber, and chopped sweet onion."
     ],
-    "hash_code_list_definition_mean": "1572182736"
+    "hash_code_list_example": "1176466317"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dictation_cb_dmean_5000_it.json",
@@ -524,17 +462,13 @@
         "id_image": "dictation_6305563"
       }
     ],
-    "hash_code_list_img": "-1534194055",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự đọc chính tả",
-        "definition": "something read for another to write down",
-        "ex_of_definition_list": [
-          "The secretary is taking dictation."
-        ]
-      }
+    "hash_code_list_img": "-733397040",
+    "list_example": [
+      "We asked children to spell to dictation two-morpheme words in which target clusters appeared in different morphemes of the word, either in the word stem or in the case inflection.",
+      "There is obviously a distinction between initiative and dictation but in this matter it is a thin one.",
+      "The public are entitled to information, they are entitled to avoid dictation from us."
     ],
-    "hash_code_list_definition_mean": "613765475"
+    "hash_code_list_example": "167786309"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dictatorship_cb_dmean_5000_it.json",
@@ -563,24 +497,12 @@
         "id_image": "dictatorship_3158198"
       }
     ],
-    "hash_code_list_img": "-1978853996",
-    "list_definition_mean": [
-      {
-        "mean_english": "chế độ độc tài",
-        "definition": "the authority of a dictator",
-        "ex_of_definition_list": [
-          "His dictatorship depended on the support of the army."
-        ]
-      },
-      {
-        "mean_english": "nền chuyên chính",
-        "definition": "a state ruled by a dictator",
-        "ex_of_definition_list": [
-          "That country is a dictatorship now."
-        ]
-      }
+    "hash_code_list_img": "1086597975",
+    "list_example": [
+      "His dictatorship depended on the support of the army.",
+      "That country is a dictatorship now."
     ],
-    "hash_code_list_definition_mean": "-624291316"
+    "hash_code_list_example": "609848816"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dictionary_cb_dmean_5000_it.json",
@@ -613,24 +535,11 @@
         "id_image": "dictionary_6150909"
       }
     ],
-    "hash_code_list_img": "-1094930064",
-    "list_definition_mean": [
-      {
-        "mean_english": "từ điển",
-        "definition": "a book containing the words of a language alphabetically arranged, with their meanings etc",
-        "ex_of_definition_list": [
-          "Look up any unknown words in the dictionary."
-        ]
-      },
-      {
-        "mean_english": "từ điển",
-        "definition": "a book containing other information alphabetically arranged",
-        "ex_of_definition_list": [
-          "a dictionary of place-names."
-        ]
-      }
+    "hash_code_list_img": "794335112",
+    "list_example": [
+      "a dictionary of place-names."
     ],
-    "hash_code_list_definition_mean": "782520861"
+    "hash_code_list_example": "1137580233"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dietary_cb_dmean_5000_it.json",
@@ -653,18 +562,19 @@
         "id_image": "dietary_2860838"
       }
     ],
-    "hash_code_list_img": "-73579588",
-    "list_definition_mean": [
-      {
-        "mean_english": "chế độ ăn kiêng",
-        "definition": "relating to the food which someone eats",
-        "ex_of_definition_list": [
-          "dietary advice",
-          "dietary habits."
-        ]
-      }
+    "hash_code_list_img": "-1315179319",
+    "list_example": [
+      "dietary advice",
+      "dietary habits.",
+      "Subtyping bulimic women along dietary restraint and negative affect dimensions.",
+      "Here we add in the mediating variables of dietary change to examine what effect they have on this key element of psychological well-being.",
+      "Turning to the next category of variables, we find that several characteristics of the social network predict dietary change attempts, with some variation by gender.",
+      "Thus, intercropping seems to be desirable in order to meet dietary requirements, fodder supply and also to maintain soil fertility.",
+      "It is doubtful if dietary supplement in the last trimester would be of benefit, at least in the developed countries.",
+      "Only three per cent were classed as undernourished although there were slightly more who had specific dietary defects but whose nutrition otherwise was good.",
+      "Excess dietary manganese increased weights and manganese level, but mortality and worm burden were unaffected."
     ],
-    "hash_code_list_definition_mean": "1179472772"
+    "hash_code_list_example": "1082250699"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diet_cb_dmean_5000_it.json",
@@ -698,26 +608,15 @@
         "id_image": "diet_6181882"
       }
     ],
-    "hash_code_list_img": "399068904",
-    "list_definition_mean": [
-      {
-        "mean_english": "chế độ ăn kiêng",
-        "definition": "food, especially a course of recommended foods, for losing weight or as treatment for an illness etc",
-        "ex_of_definition_list": [
-          "a diet of fish and vegetables",
-          "a salt-free diet",
-          "She went on a diet to lose weight."
-        ]
-      },
-      {
-        "mean_english": "ăn kiêng",
-        "definition": "to eat certain kinds of food to lose weight",
-        "ex_of_definition_list": [
-          "She has to diet to stay slim."
-        ]
-      }
+    "hash_code_list_img": "1009057868",
+    "list_example": [
+      "a diet of fish and vegetables",
+      "She went on a diet to lose weight.",
+      "She has to diet to stay slim.",
+      "We conjectured two states of fiscal policy: a crash diet and a permanent weight loss.",
+      "The second section shows that the pioneer colonial surveys of seasonal hunger failed to explain poverty by undernourishment, though poor diet was widespread."
     ],
-    "hash_code_list_definition_mean": "1357403142"
+    "hash_code_list_example": "-1754539565"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/die_cb_dmean_5000_it.json",
@@ -738,33 +637,11 @@
         "id_image": "die_3387107"
       }
     ],
-    "hash_code_list_img": "1293326202",
-    "list_definition_mean": [
-      {
-        "mean_english": "chết; qua đời",
-        "definition": "to lose life; to stop living and become dead",
-        "ex_of_definition_list": [
-          "Those flowers are dying",
-          "She died of old age."
-        ]
-      },
-      {
-        "mean_english": "mờ đi; biến mất",
-        "definition": "to fade; to disappear",
-        "ex_of_definition_list": [
-          "The daylight was dying fast."
-        ]
-      },
-      {
-        "mean_english": "khao khát",
-        "definition": "to have a strong desire (for something or to do something)",
-        "ex_of_definition_list": [
-          "I’m dying for a drink",
-          "I’m dying to see her."
-        ]
-      }
+    "hash_code_list_img": "1998042303",
+    "list_example": [
+      "At age 6 nobody receives any bequests because the parent is at age 11 and is going to die for certain."
     ],
-    "hash_code_list_definition_mean": "-353981070"
+    "hash_code_list_example": "184527068"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/difference_cb_dmean_5000_it.json",
@@ -789,34 +666,15 @@
         "id_image": "difference_3053704"
       }
     ],
-    "hash_code_list_img": "764716472",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự khác nhau",
-        "definition": "what makes one thing unlike another",
-        "ex_of_definition_list": [
-          "I can’t see any difference between these two pictures",
-          "It doesn’t make any difference to me whether you go or stay",
-          "There’s not much difference between them."
-        ]
-      },
-      {
-        "mean_english": "sự bất đồng",
-        "definition": "an act of differing, especially a disagreement",
-        "ex_of_definition_list": [
-          "We had a difference of opinion",
-          "Have they settled their differences? (= Have they stopped arguing?)."
-        ]
-      },
-      {
-        "mean_english": "sự chênh lệch",
-        "definition": "the amount by which one quantity or number is greater than another",
-        "ex_of_definition_list": [
-          "If you buy it for me, I’ll give you $6 now and make up the difference later."
-        ]
-      }
+    "hash_code_list_img": "-177089006",
+    "list_example": [
+      "I can’t see any difference between these two pictures",
+      "It doesn’t make any difference to me whether you go or stay",
+      "There’s not much difference between them.",
+      "We had a difference of opinion",
+      "If you buy it for me, I’ll give you $6 now and make up the difference later."
     ],
-    "hash_code_list_definition_mean": "906897860"
+    "hash_code_list_example": "354683397"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/difficulty_cb_dmean_5000_it.json",
@@ -836,31 +694,11 @@
         "id_image": "difficulty_4516936"
       }
     ],
-    "hash_code_list_img": "198347941",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự khó khăn",
-        "definition": "the state or quality of being hard (to do) or not easy",
-        "ex_of_definition_list": [
-          "I have difficulty in understanding him."
-        ]
-      },
-      {
-        "mean_english": "khó khăn",
-        "definition": "an obstacle or objection",
-        "ex_of_definition_list": [
-          "He has a habit of foreseeing difficulties."
-        ]
-      },
-      {
-        "mean_english": "gặp khó khăn",
-        "definition": "trouble, especially money trouble",
-        "ex_of_definition_list": [
-          "The firm was in difficulties."
-        ]
-      }
+    "hash_code_list_img": "884135225",
+    "list_example": [
+      "I have difficulty in understanding him."
     ],
-    "hash_code_list_definition_mean": "-1511589030"
+    "hash_code_list_example": "-409459948"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/digestion_cb_dmean_5000_it.json",
@@ -879,24 +717,16 @@
         "id_image": "digestion_5601046"
       }
     ],
-    "hash_code_list_img": "340368241",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự tiêu hóa",
-        "definition": "the act of digesting food",
-        "ex_of_definition_list": [
-          "The stomach manufactures acid as an aid to digestion."
-        ]
-      },
-      {
-        "mean_english": "khả năng tiêu hóa thức ăn",
-        "definition": "the ability of one’s body to digest food",
-        "ex_of_definition_list": [
-          "poor digestion."
-        ]
-      }
+    "hash_code_list_img": "2118829495",
+    "list_example": [
+      "Endozoochorous dispersal can affect seed viability through the digestion process and also after defecation, when seeds are returned to the soil amongst the dung.",
+      "We have also included several exercises to support digestion of the material and to stimulate further experiments.",
+      "Moreover, the natural digestion of infected meat could prepare larvae for future incidents.",
+      "After digestion and ligation reactions, each sample was diluted ten-fold and used as a template for the preselective and selective amplification.",
+      "The parasites appeared to be merely digested by the bug, the rate of digestion being governed by the temperature at which the insects were maintained.",
+      "In vitro digestion reduced seed germination of all the species tested compared to the untreated controls."
     ],
-    "hash_code_list_definition_mean": "-765361653"
+    "hash_code_list_example": "-1803879958"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/digestive_cb_dmean_5000_it.json",
@@ -914,17 +744,19 @@
         "id_image": "digestive_2721094"
       }
     ],
-    "hash_code_list_img": "828691913",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc sự tiêu hóa",
-        "definition": "of digestion",
-        "ex_of_definition_list": [
-          "the human digestive system."
-        ]
-      }
+    "hash_code_list_img": "217124017",
+    "list_example": [
+      "the human digestive system.",
+      "In hard ticks, the blood meal is taken up by the digestive cells by means of fluidphase endocytosis and via receptor-mediated endocytosis.",
+      "However, the didymozoids encountered during the present study are to a large extent localized in tissues that are closely associated with the digestive tract.",
+      "The location of the worms along the digestive tract varied among the individual seals.",
+      "Physical consequences of bulimia include electrolyte imbalance, erosion of dental enamel and damage to the digestive system.",
+      "The snail tissue is also nearly transparent, except for the digestive gland and mantle tissue which is spotted with melanin.",
+      "Results from substrate and inhibitor analyses indicated that the primary digestive proteinases were serine proteinases.",
+      "The above procedure has been adopted with a view to reducing disease and digestive troubles to a minimum.",
+      "The passage of sandalwood seeds through the digestive tract of the bird individuals significantly increased the germination indices compared with pulp removal."
     ],
-    "hash_code_list_definition_mean": "199263232"
+    "hash_code_list_example": "1131099572"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/digger_cb_dmean_5000_it.json",
@@ -962,17 +794,19 @@
         "id_image": "digger_6141616"
       }
     ],
-    "hash_code_list_img": "-2056099950",
-    "list_definition_mean": [
-      {
-        "mean_english": "máy đào",
-        "definition": "a machine for digging",
-        "ex_of_definition_list": [
-          "a mechanical digger."
-        ]
-      }
+    "hash_code_list_img": "1499122172",
+    "list_example": [
+      "a mechanical digger.",
+      "First, despite two major amendments, the law still fails to deter badger diggers and baiters.",
+      "We have seen large numbers of badgers destroyed by the cruelty of diggers.",
+      "I am glad to say that usually badger diggers are deterred.",
+      "Under the category of road construction vehicles would come, unquestionably, those mechanical diggers which are used for trenching and excavating purposes.",
+      "He has mentioned two diggers that are being assembled.",
+      "If loved ones died, one could not even bury them because the picket line would not let the grave-diggers through to dig the grave to put them in.",
+      "Even then, the chain saws and the diggers were tearing the forests apart.",
+      "Do these figures include women gold-diggers?"
     ],
-    "hash_code_list_definition_mean": "82051055"
+    "hash_code_list_example": "-364820070"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/digit_cb_dmean_5000_it.json",
@@ -996,17 +830,19 @@
         "id_image": "digit_1410448"
       }
     ],
-    "hash_code_list_img": "114499262",
-    "list_definition_mean": [
-      {
-        "mean_english": "con số",
-        "definition": "any of the figures 0 to 9",
-        "ex_of_definition_list": [
-          "105 is a number with three digits."
-        ]
-      }
+    "hash_code_list_img": "1964624275",
+    "list_example": [
+      "105 is a number with three digits.",
+      "Part (lower, magnified) and counterpart (upper) showing prominent broad digits.",
+      "However, the present specimen has digits which are noticeably wider at their apex, but this is probably a preservational feature.",
+      "An identifier consists of a letter followed by zero or more letters, digits, underscores, and single quotes.",
+      "In the attended-speech control condition, the number of digits recalled was higher than in the unattended condition, and it increased with list length.",
+      "The decisive step came when somebody used the same digits for the tens, hundreds, etc. as for the units.",
+      "A control condition in which subjects attended to the digits also was presented, before and after the ignored-speech session.",
+      "The idea now is to 'model' the variation within the set of training digits of one kind using an orthogonal basis of the subspace.",
+      "Of course, striving for twenty-five or more correct digits is not particularly useful."
     ],
-    "hash_code_list_definition_mean": "1401143079"
+    "hash_code_list_example": "938766829"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dig_cb_dmean_5000_it.json",
@@ -1037,39 +873,12 @@
         "id_image": "dig_6041525"
       }
     ],
-    "hash_code_list_img": "-1503692922",
-    "list_definition_mean": [
-      {
-        "mean_english": "xới đất",
-        "definition": "to turn up (earth) with a spade etc",
-        "ex_of_definition_list": [
-          "Alison is outside digging the garden."
-        ]
-      },
-      {
-        "mean_english": "đào hố",
-        "definition": "to make (a hole) in this way",
-        "ex_of_definition_list": [
-          "The child dug a tunnel in the sand."
-        ]
-      },
-      {
-        "mean_english": "huých",
-        "definition": "to poke",
-        "ex_of_definition_list": [
-          "He dug his brother in the ribs with his elbow."
-        ]
-      },
-      {
-        "mean_english": "cú huých",
-        "definition": "a poke",
-        "ex_of_definition_list": [
-          "a dig in the ribs",
-          "I knew that his remarks about women drivers were a dig at me (= a joke directed at me)."
-        ]
-      }
+    "hash_code_list_img": "649827324",
+    "list_example": [
+      "a dig in the ribs",
+      "I knew that his remarks about women drivers were a dig at me (= a joke directed at me)."
     ],
-    "hash_code_list_definition_mean": "-1187934389"
+    "hash_code_list_example": "-1061713726"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dimension_cb_dmean_5000_it.json",
@@ -1107,17 +916,19 @@
         "id_image": "dimension_992621"
       }
     ],
-    "hash_code_list_img": "146680679",
-    "list_definition_mean": [
-      {
-        "mean_english": "kích thước",
-        "definition": "a measurement in length, breadth, or thickness",
-        "ex_of_definition_list": [
-          "The dimensions of the box are 20 cm by 10 cm by 4 cm."
-        ]
-      }
+    "hash_code_list_img": "-76494591",
+    "list_example": [
+      "The dimensions of the box are 20 cm by 10 cm by 4 cm.",
+      "The values of these parameters allow the instantiation of rollers or sanding bars type, shape, dimensions, material, etc.!.",
+      "All results cover the important case when = 2 in one and two dimensions.",
+      "A general profile of these materials reveals two intersecting dimensions of social conflict.",
+      "The four th and additional dimensions explain very little of the variance in the data.",
+      "Positive coping strategies - albeit not associated with symptoms - may be stronger associated with other dimensions of well-being.",
+      "Five conjoined pieces of paper of varying dimensions make up the document.",
+      "Can we assess the role of dialect differences relative to other dimensions of situated discourse?",
+      "To encompass the two parties and seven issue dimensions, we estimated fourteen separate models."
     ],
-    "hash_code_list_definition_mean": "1645885598"
+    "hash_code_list_example": "1351034745"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diner_cb_dmean_5000_it.json",
@@ -1142,17 +953,18 @@
         "id_image": "diner_5002439"
       }
     ],
-    "hash_code_list_img": "1564450637",
-    "list_definition_mean": [
-      {
-        "mean_english": "người dự tiệc",
-        "definition": "a person who dines",
-        "ex_of_definition_list": [
-          "The diners ran from the restaurant when the fire started."
-        ]
-      }
+    "hash_code_list_img": "895591708",
+    "list_example": [
+      "The diners ran from the restaurant when the fire started.",
+      "When spices were pushed round there was an orange on the dish, and diners were allowed to handle it and smell it, and they then had to put it back.",
+      "The dining room enjoyed a three-sided view of the river, and diners could take the air on a wraparound porch.",
+      "She tried to get into a restaurant to have a meal and was refused entry on the grounds that her physical appearance would put other diners off.",
+      "The film ends with one the diners discovering a solution to the mystery, before falling off the fridge and wiping his memory clean.",
+      "The papad, bhaaji are served below the koshimbir with the rice and poli served at the bottom of the circle closed to the diner's hand.",
+      "When eating, diners generally share food from a large tray placed in the centre of a low dining table.",
+      "When the beans are roasted to smoking, they are passed around the table, where the smoke becomes a blessing on the diners."
     ],
-    "hash_code_list_definition_mean": "2144599333"
+    "hash_code_list_example": "907266315"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dinner_cb_dmean_5000_it.json",
@@ -1186,26 +998,12 @@
         "id_image": "dinner_6039656"
       }
     ],
-    "hash_code_list_img": "-1904975139",
-    "list_definition_mean": [
-      {
-        "mean_english": "bữa tối",
-        "definition": "the main meal of the day eaten usually in the evening",
-        "ex_of_definition_list": [
-          "Is it time for dinner yet?"
-        ]
-      },
-      {
-        "mean_english": "dạ tiệc",
-        "definition": "a formal party in the evening, when such a meal is eaten",
-        "ex_of_definition_list": [
-          "They asked me to dinner",
-          "He was the guest of honour/honor at the dinner",
-          "(also adjective) a dinner party."
-        ]
-      }
+    "hash_code_list_img": "842883934",
+    "list_example": [
+      "Is it time for dinner yet?",
+      "(also adjective) a dinner party."
     ],
-    "hash_code_list_definition_mean": "1100331431"
+    "hash_code_list_example": "-1525739025"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diplomacy_cb_dmean_5000_it.json",
@@ -1234,24 +1032,11 @@
         "id_image": "diplomacy_4960724"
       }
     ],
-    "hash_code_list_img": "516451722",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngành ngoại giao",
-        "definition": "the business of making agreements, treaties etc between countries; the business of looking after the affairs of one’s country etc in a foreign country",
-        "ex_of_definition_list": [
-          "international diplomacy."
-        ]
-      },
-      {
-        "mean_english": "tài ngoại giao",
-        "definition": "skill and tact in dealing with people, persuading them etc",
-        "ex_of_definition_list": [
-          "Use a little diplomacy and she’ll soon agree to help."
-        ]
-      }
+    "hash_code_list_img": "-2034203581",
+    "list_example": [
+      "Use a little diplomacy and she’ll soon agree to help."
     ],
-    "hash_code_list_definition_mean": "-1082181931"
+    "hash_code_list_example": "1118516012"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diplomat_cb_dmean_5000_it.json",
@@ -1269,17 +1054,11 @@
         "id_image": "diplomat_4849734"
       }
     ],
-    "hash_code_list_img": "974320646",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà ngoại giao",
-        "definition": "a person engaged in diplomacy",
-        "ex_of_definition_list": [
-          "He is a diplomat at the American embassy."
-        ]
-      }
+    "hash_code_list_img": "47479589",
+    "list_example": [
+      "He is a diplomat at the American embassy."
     ],
-    "hash_code_list_definition_mean": "656476762"
+    "hash_code_list_example": "-812172293"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/diploma_cb_dmean_5000_it.json",
@@ -1307,17 +1086,17 @@
         "id_image": "diploma_225764"
       }
     ],
-    "hash_code_list_img": "485557840",
-    "list_definition_mean": [
-      {
-        "mean_english": "bằng cấp",
-        "definition": "a written statement saying that one has passed a certain examination etc",
-        "ex_of_definition_list": [
-          "She has a diploma in teaching."
-        ]
-      }
+    "hash_code_list_img": "-1518971731",
+    "list_example": [
+      "She has a diploma in teaching.",
+      "Post-graduate diploma routes (2 years) are also available for existing science/health degree holders.",
+      "Deconstructing 'subject' strictures and structures (into more freely combined diploma packages of related modules within more broadly conceived curriculum areas) is surely the way forward.",
+      "The majority were married (80 %) and held at least a high-school diploma (95 %).",
+      "A postgraduate diploma option can be obtained after completion of the core and optional modules or a master's degree after an additional research project dissertation.",
+      "The majority of parents were married (79 %) and held at least a high-school diploma (94 %).",
+      "Professions in which practitioners are entitled to use a legally protected professional title as conferred by diploma are defined by decree."
     ],
-    "hash_code_list_definition_mean": "139108228"
+    "hash_code_list_example": "-1474519608"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dip_cb_dmean_5000_it.json",
@@ -1356,52 +1135,15 @@
         "id_image": "dip_5015335"
       }
     ],
-    "hash_code_list_img": "1171376003",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhúng, nhấn chìm",
-        "definition": "to lower into any liquid for a moment",
-        "ex_of_definition_list": [
-          "He dipped his bread in the soup."
-        ]
-      },
-      {
-        "mean_english": "dốc xuống",
-        "definition": "to slope downwards",
-        "ex_of_definition_list": [
-          "The road dipped just beyond the crossroads."
-        ]
-      },
-      {
-        "mean_english": "hạ thoáng xuống",
-        "definition": "to lower the beam of (car headlights)",
-        "ex_of_definition_list": [
-          "He dipped his lights as the other car approached."
-        ]
-      },
-      {
-        "mean_english": "việc nhấn chìm",
-        "definition": "a hollow (in a road etc)",
-        "ex_of_definition_list": [
-          "The car was hidden by a dip in the road."
-        ]
-      },
-      {
-        "mean_english": "nước chấm",
-        "definition": "a soft, savoury/savory mixture in which a biscuit etc can be dipped",
-        "ex_of_definition_list": [
-          "a cheese dip."
-        ]
-      },
-      {
-        "mean_english": "đi tắm ào",
-        "definition": "a short swim",
-        "ex_of_definition_list": [
-          "a dip in the sea."
-        ]
-      }
+    "hash_code_list_img": "-1351181406",
+    "list_example": [
+      "The car was hidden by a dip in the road.",
+      "a dip in the sea.",
+      "The most interesting thing in this figure is the two peaks which are almost equal, and the dip between them.",
+      "This is because the sheet dip of folded horizons is frequently close to horizontal so that the topographic surface often intersects such horizons tangentially.",
+      "This dip develops in a region where the ions experience rapid acceleration due to an abrupt increase in the electric field."
     ],
-    "hash_code_list_definition_mean": "923446685"
+    "hash_code_list_example": "-68275892"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/direction_cb_dmean_5000_it.json",
@@ -1442,34 +1184,12 @@
         "id_image": "direction_3380706"
       }
     ],
-    "hash_code_list_img": "229441633",
-    "list_definition_mean": [
-      {
-        "mean_english": "hướng",
-        "definition": "(the) place or point to which one moves, looks etc",
-        "ex_of_definition_list": [
-          "What direction did he go in?",
-          "They were heading in my direction (= towards me)",
-          "I’ll find my way all right – I’ve got a good sense of direction."
-        ]
-      },
-      {
-        "mean_english": "hướng dẫn",
-        "definition": "guidance",
-        "ex_of_definition_list": [
-          "They are under your direction."
-        ]
-      },
-      {
-        "mean_english": "chỉ dẫn",
-        "definition": "instructions (eg on how to get somewhere, use something etc)",
-        "ex_of_definition_list": [
-          "We asked the policeman for directions",
-          "I have lost the directions for this washing-machine."
-        ]
-      }
+    "hash_code_list_img": "1139604799",
+    "list_example": [
+      "What direction did he go in?",
+      "They were heading in my direction (= towards me)"
     ],
-    "hash_code_list_definition_mean": "1476421892"
+    "hash_code_list_example": "-705421157"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/directory_cb_dmean_5000_it.json",
@@ -1507,17 +1227,13 @@
         "id_image": "directory_485316"
       }
     ],
-    "hash_code_list_img": "1528264014",
-    "list_definition_mean": [
-      {
-        "mean_english": "danh bạ",
-        "definition": "a type of book giving names and addresses etc",
-        "ex_of_definition_list": [
-          "a telephone directory."
-        ]
-      }
+    "hash_code_list_img": "1788894843",
+    "list_example": [
+      "An 'ok' program can download programs but it can only write to the directory /tmp and cannot use system/1 to delete files.",
+      "These are supplemented by letters, reports, reviews, a directory of specialist research centers and consultancies and an annual index.",
+      "In 1933 the association of directory publishers was taken over and the information and advertising industries were harnessed to the interests of the state."
     ],
-    "hash_code_list_definition_mean": "1950682298"
+    "hash_code_list_example": "-1630972778"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/director_cb_dmean_5000_it.json",
@@ -1555,18 +1271,11 @@
         "id_image": "director_6347654"
       }
     ],
-    "hash_code_list_img": "-1095235185",
-    "list_definition_mean": [
-      {
-        "mean_english": "giám đốc",
-        "definition": "a person or thing that directs, eg one of a group of persons who manage the affairs of a business or a person who is in charge of the making of a film, play etc",
-        "ex_of_definition_list": [
-          "He is on the board of directors of our firm",
-          "The producer and the director quarrelled about the film."
-        ]
-      }
+    "hash_code_list_img": "-988962372",
+    "list_example": [
+      "The producer and the director quarrelled about the film."
     ],
-    "hash_code_list_definition_mean": "1226125352"
+    "hash_code_list_example": "-326603573"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/direct_cb_dmean_5000_it.json",
@@ -1607,74 +1316,15 @@
         "id_image": "direct_3983610"
       }
     ],
-    "hash_code_list_img": "676740574",
-    "list_definition_mean": [
-      {
-        "mean_english": "thẳng",
-        "definition": "straight; following the quickest and shortest way",
-        "ex_of_definition_list": [
-          "Is this the most direct route?"
-        ]
-      },
-      {
-        "mean_english": "thẳng thắn",
-        "definition": "(of manner etc) straightforward and honest",
-        "ex_of_definition_list": [
-          "a direct answer."
-        ]
-      },
-      {
-        "mean_english": "trực tiếp",
-        "definition": "occurring as an immediate result",
-        "ex_of_definition_list": [
-          "His dismissal was a direct result of his rudeness to the manager."
-        ]
-      },
-      {
-        "mean_english": "hoàn toàn",
-        "definition": "exact; complete",
-        "ex_of_definition_list": [
-          "Her opinions are the direct opposite of his."
-        ]
-      },
-      {
-        "mean_english": "trực hệ",
-        "definition": "in an unbroken line of descent from father to son etc",
-        "ex_of_definition_list": [
-          "He is a direct descendant of Napoleon."
-        ]
-      },
-      {
-        "mean_english": "nhằm vào",
-        "definition": "to point, aim or turn in a particular direction",
-        "ex_of_definition_list": [
-          "He directed my attention towards the notice."
-        ]
-      },
-      {
-        "mean_english": "chỉ đường",
-        "definition": "to show the way to",
-        "ex_of_definition_list": [
-          "She directed him to the station."
-        ]
-      },
-      {
-        "mean_english": "hướng dẫn",
-        "definition": "to order or instruct",
-        "ex_of_definition_list": [
-          "We will do as you direct."
-        ]
-      },
-      {
-        "mean_english": "tổ chức",
-        "definition": "to control or organize",
-        "ex_of_definition_list": [
-          "A policeman was directing the traffic",
-          "Who directed the film?"
-        ]
-      }
+    "hash_code_list_img": "1464192557",
+    "list_example": [
+      "Is this the most direct route?",
+      "a direct answer.",
+      "His dismissal was a direct result of his rudeness to the manager.",
+      "Her opinions are the direct opposite of his.",
+      "He is a direct descendant of Napoleon."
     ],
-    "hash_code_list_definition_mean": "-1066594084"
+    "hash_code_list_example": "1799661267"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dirty_cb_dmean_5000_it.json",
@@ -1706,38 +1356,13 @@
         "id_image": "dirty_5256932"
       }
     ],
-    "hash_code_list_img": "-1325304130",
-    "list_definition_mean": [
-      {
-        "mean_english": "bẩn",
-        "definition": "not clean",
-        "ex_of_definition_list": [
-          "dirty clothes."
-        ]
-      },
-      {
-        "mean_english": "xấu xa",
-        "definition": "mean or unfair",
-        "ex_of_definition_list": [
-          "a dirty trick."
-        ]
-      },
-      {
-        "mean_english": "thô bỉ",
-        "definition": "offensive; obscene",
-        "ex_of_definition_list": [
-          "dirty books."
-        ]
-      },
-      {
-        "mean_english": "làm bẩn",
-        "definition": "to make or become dirty",
-        "ex_of_definition_list": [
-          "He dirtied his hands/shoes."
-        ]
-      }
+    "hash_code_list_img": "-2141850488",
+    "list_example": [
+      "dirty clothes.",
+      "a dirty trick.",
+      "dirty books."
     ],
-    "hash_code_list_definition_mean": "-1324359827"
+    "hash_code_list_example": "2032190461"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/disability_cb_dmean_5000_it.json",
@@ -1760,17 +1385,11 @@
         "id_image": "disability_2472589"
       }
     ],
-    "hash_code_list_img": "-43546972",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự tàn tật; sự bất lực",
-        "definition": "something which disables",
-        "ex_of_definition_list": [
-          "He has a disability which prevents him from walking very far."
-        ]
-      }
+    "hash_code_list_img": "364602902",
+    "list_example": [
+      "He has a disability which prevents him from walking very far."
     ],
-    "hash_code_list_definition_mean": "995585794"
+    "hash_code_list_example": "-1288045219"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/disable_cb_dmean_5000_it.json",
@@ -1798,17 +1417,11 @@
         "id_image": "disable_4777564"
       }
     ],
-    "hash_code_list_img": "385781484",
-    "list_definition_mean": [
-      {
-        "mean_english": "làm tàn tật; làm cho bất lực",
-        "definition": "to reduce the ability or strength of; to cripple",
-        "ex_of_definition_list": [
-          "He was disabled during the war."
-        ]
-      }
+    "hash_code_list_img": "-1819725786",
+    "list_example": [
+      "He was disabled during the war."
     ],
-    "hash_code_list_definition_mean": "1706407436"
+    "hash_code_list_example": "-727595127"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/disagreement_cb_dmean_5000_it.json",
@@ -1837,24 +1450,15 @@
         "id_image": "disagreement_4144567"
       }
     ],
-    "hash_code_list_img": "-1647946524",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuộc ttranh cãi",
-        "definition": "a quarrel",
-        "ex_of_definition_list": [
-          "a violent disagreement."
-        ]
-      },
-      {
-        "mean_english": "sự bất đồng",
-        "definition": "disagreeing",
-        "ex_of_definition_list": [
-          "There was disagreement between the two witnesses to the accident."
-        ]
-      }
+    "hash_code_list_img": "780474155",
+    "list_example": [
+      "There was disagreement between the two witnesses to the accident.",
+      "After so many centuries of disagreement, it is reasonable to pronounce the disagreement irresolvable.",
+      "Suppose two people disagree about an important issue, and the disagreement is not due to one party's epistemic negligence or obliviousness to relevant evidence.",
+      "Whenever a disagreement arose, a third observer designated by consensus by the working group issued the final verdict.",
+      "There is profound disagreement among scholars on this issue."
     ],
-    "hash_code_list_definition_mean": "1359311999"
+    "hash_code_list_example": "-312376933"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/disagree_cb_dmean_5000_it.json",
@@ -1889,32 +1493,13 @@
         "id_image": "disagree_5226303"
       }
     ],
-    "hash_code_list_img": "2020149296",
-    "list_definition_mean": [
-      {
-        "mean_english": "không đồng ý",
-        "definition": "(sometimes with with) to hold different opinions etc (from someone else)",
-        "ex_of_definition_list": [
-          "We disagree about everything",
-          "I disagree with you on that point."
-        ]
-      },
-      {
-        "mean_english": "tranh cãi",
-        "definition": "to quarrel",
-        "ex_of_definition_list": [
-          "We never meet without disagreeing."
-        ]
-      },
-      {
-        "mean_english": "không hợp với",
-        "definition": "(with with) (of food) to be unsuitable (to someone) and cause pain",
-        "ex_of_definition_list": [
-          "Onions disagree with me."
-        ]
-      }
+    "hash_code_list_img": "-414181238",
+    "list_example": [
+      "We disagree about everything",
+      "I disagree with you on that point.",
+      "Onions disagree with me."
     ],
-    "hash_code_list_definition_mean": "1768636154"
+    "hash_code_list_example": "832209079"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/disappear_cb_dmean_5000_it.json",
@@ -1938,31 +1523,21 @@
         "id_image": "disappear_5906162"
       }
     ],
-    "hash_code_list_img": "-975603882",
-    "list_definition_mean": [
-      {
-        "mean_english": "biến mất",
-        "definition": "to vanish from sight",
-        "ex_of_definition_list": [
-          "The sun disappeared slowly below the horizon."
-        ]
-      },
-      {
-        "mean_english": "mất đi",
-        "definition": "to fade out of existence",
-        "ex_of_definition_list": [
-          "This custom had disappeared by the end of the century."
-        ]
-      },
-      {
-        "mean_english": "biến mất",
-        "definition": "to go away so that other people do not know where one is",
-        "ex_of_definition_list": [
-          "A search is being carried out for the boy who disappeared from his home on Monday."
-        ]
-      }
+    "hash_code_list_img": "1710622065",
+    "list_example": [
+      "The sun disappeared slowly below the horizon.",
+      "This custom had disappeared by the end of the century.",
+      "A search is being carried out for the boy who disappeared from his home on Monday.",
+      "The improvement disappeared after sleeping horizontally for a night.",
+      "The discrepancy is minor and disappears toward the end of the sample.",
+      "The resounding presence of her voice masks a deeper lack: she comes from nothing and disappears into thin air.",
+      "When the test spot was moved in nonpreferred directions, the selectivity for opposing motion disappeared.",
+      "However, the essential theatrical dimension of the accelerating tape delay will have disappeared.",
+      "As shrinks further, the only interior equilibrium that still exists is nonmonetary, but it disappears as becomes sufficiently low.",
+      "Firstly, our database also considers the pension plans disappearing during the time period analysed.",
+      "In short, \"the nation is an audience to be created by histories, poems, and pictures of a disappearing rural life\" (28)."
     ],
-    "hash_code_list_definition_mean": "-142787969"
+    "hash_code_list_example": "2135332849"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/disapprove_cb_dmean_5000_it.json",
@@ -1980,17 +1555,11 @@
         "id_image": "disapprove_1982943"
       }
     ],
-    "hash_code_list_img": "533476480",
-    "list_definition_mean": [
-      {
-        "mean_english": "phản đối",
-        "definition": "to have an unfavourable opinion (of)",
-        "ex_of_definition_list": [
-          "Her mother disapproved of her new boyfriend."
-        ]
-      }
+    "hash_code_list_img": "71322250",
+    "list_example": [
+      "Her mother disapproved of her new boyfriend."
     ],
-    "hash_code_list_definition_mean": "678631422"
+    "hash_code_list_example": "1186889738"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/disaster_cb_dmean_5000_it.json",
@@ -2028,17 +1597,11 @@
         "id_image": "disaster_6367406"
       }
     ],
-    "hash_code_list_img": "978098040",
-    "list_definition_mean": [
-      {
-        "mean_english": "tai họa",
-        "definition": "a terrible event, especially one that causes great damage, loss etc",
-        "ex_of_definition_list": [
-          "The earthquake was the greatest disaster the country had ever experienced."
-        ]
-      }
+    "hash_code_list_img": "1726167575",
+    "list_example": [
+      "The earthquake was the greatest disaster the country had ever experienced."
     ],
-    "hash_code_list_definition_mean": "428310682"
+    "hash_code_list_example": "-1202079003"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/disbelief_cb_dmean_5000_it.json",
@@ -2061,17 +1624,15 @@
         "id_image": "disbelief_708640"
       }
     ],
-    "hash_code_list_img": "-1516407920",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự thiếu tin tưởng",
-        "definition": "the state of not believing",
-        "ex_of_definition_list": [
-          "She stared at him in disbelief."
-        ]
-      }
+    "hash_code_list_img": "-1335647700",
+    "list_example": [
+      "As with literary metaphor, the reader of an economics text is asked to indulge the author, to suspend disbelief and go along with the model.",
+      "Part entertainment, part pedagogical play, the masquerade serves to encourage disbelief in supernatural beings, unmasking angels as real persons dressed up.",
+      "Their use of an exclamation point here suggests their disbelief in this story.",
+      "No one imagined otherwise, for there were none of the narcotic strategies of modern theatre to encourage that suspension of disbelief so familiar to us.",
+      "Lapses in reasoning may include signs of disbelief that the person is dead, or an irrational sense of being responsible for the death."
     ],
-    "hash_code_list_definition_mean": "1137663006"
+    "hash_code_list_example": "-339318430"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/discharge_cb_dmean_5000_it.json",
@@ -2100,55 +1661,12 @@
         "id_image": "discharge_2781837"
       }
     ],
-    "hash_code_list_img": "-1346998788",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự giải ngũ",
-        "definition": "to allow to leave; to dismiss",
-        "ex_of_definition_list": [
-          "The soldier was discharged from the army",
-          "She was discharged from hospital."
-        ]
-      },
-      {
-        "mean_english": "nổ súng",
-        "definition": "to fire (a gun)",
-        "ex_of_definition_list": [
-          "He discharged his gun at the policeman."
-        ]
-      },
-      {
-        "mean_english": "hoàn thành",
-        "definition": "to perform (a task etc)",
-        "ex_of_definition_list": [
-          "He discharges his duties very efficiently."
-        ]
-      },
-      {
-        "mean_english": "trả xong nợ",
-        "definition": "to pay (a debt)",
-        "ex_of_definition_list": [
-          "He eventually discharged all his debts."
-        ]
-      },
-      {
-        "mean_english": "thải ra",
-        "definition": "to (cause to) let or send out",
-        "ex_of_definition_list": [
-          "The chimney was discharging clouds of smoke",
-          "The drain discharged into the street."
-        ]
-      },
-      {
-        "mean_english": "việc giải ngũ",
-        "definition": "(an) act of discharging",
-        "ex_of_definition_list": [
-          "He was given his discharge from the army",
-          "the discharge of one’s duties."
-        ]
-      }
+    "hash_code_list_img": "1554045080",
+    "list_example": [
+      "He was given his discharge from the army",
+      "the discharge of one’s duties."
     ],
-    "hash_code_list_definition_mean": "-1436123897"
+    "hash_code_list_example": "135406118"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/disciple_cb_dmean_5000_it.json",
@@ -2166,17 +1684,19 @@
         "id_image": "disciple_1866070"
       }
     ],
-    "hash_code_list_img": "1697588985",
-    "list_definition_mean": [
-      {
-        "mean_english": "môn đồ",
-        "definition": "a person who believes in the teaching of another, especially one of the original followers of Christ",
-        "ex_of_definition_list": [
-          "Jesus and his twelve disciples."
-        ]
-      }
+    "hash_code_list_img": "924635931",
+    "list_example": [
+      "Jesus and his twelve disciples.",
+      "We held out against the disciples of an abstract opinion, and we permitted certain fee-paying schools.",
+      "His life's goal was to secure land where he could raise his family, educate his disciples and farm.",
+      "In addition to participating in the shaykh's poetic and mystical inspiration, the disciples witness his inspired state through their dreams and visions.",
+      "He did not have very many students who were his concern as apprentices and disciples.",
+      "His successors and disciples have observed that dictum most faithfully in all political dealings, not simply outside but even inside their own sphere of influence.",
+      "His disciples compiled a corpus of some two thousand letters (or rather extracts from letters), which circulated widely and were quoted with respect in the following centuries.",
+      "She may well have been superior to most of the disciples.",
+      "They have not, so far, been attracted in very large numbers by the disciples of the party opposite."
     ],
-    "hash_code_list_definition_mean": "1687161333"
+    "hash_code_list_example": "1352093327"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/discipline_cb_dmean_5000_it.json",
@@ -2217,31 +1737,14 @@
         "id_image": "discipline_6193108"
       }
     ],
-    "hash_code_list_img": "-1862512494",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự rèn luyện",
-        "definition": "training in an orderly way of life",
-        "ex_of_definition_list": [
-          "All children need a certain amount of discipline."
-        ]
-      },
-      {
-        "mean_english": "rèn luyện",
-        "definition": "to bring under control",
-        "ex_of_definition_list": [
-          "You must discipline yourself so that you do not waste time."
-        ]
-      },
-      {
-        "mean_english": "thi hành kỷ luật",
-        "definition": "to punish",
-        "ex_of_definition_list": [
-          "The students who caused the disturbance have been disciplined."
-        ]
-      }
+    "hash_code_list_img": "-109742471",
+    "list_example": [
+      "You must discipline yourself so that you do not waste time.",
+      "Their discipline has been sufficient to cause pain at the micro level of everyday life for the children.",
+      "From 1961 onwards archaeology was taught as a so-called further education course, which followed studies in another discipline lasting four to five years.",
+      "It is the task of his former students and colleagues to keep the discipline challenging."
     ],
-    "hash_code_list_definition_mean": "-300549929"
+    "hash_code_list_example": "-1730366649"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/disconnect_cb_dmean_5000_it.json",
@@ -2264,17 +1767,19 @@
         "id_image": "disconnect_4614241"
       }
     ],
-    "hash_code_list_img": "930101863",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngắt",
-        "definition": "to separate; to break the connection (especially electrical) with",
-        "ex_of_definition_list": [
-          "Our phone has been disconnected."
-        ]
-      }
+    "hash_code_list_img": "2146232353",
+    "list_example": [
+      "Our phone has been disconnected.",
+      "Neither does it imply that the domestic and imperial sides of tariff reform were disconnected.",
+      "His behaviour seems strange, alien, outré, pointless, out of character, disconnected; or perhaps we cannot even recognize an action in it.",
+      "If e3=0, the meta-population becomes one homogeneously mixed population, and if e3=1xe1=0.995, the patches become entirely disconnected from one another.",
+      "All messages for the communication server on the laptop will then be automatically re-routed to the proxy server when the laptop is disconnected.",
+      "The structure of totally disconnected, locally compact groups.",
+      "When a set does not contain any finite intervals, it is termed totally disconnected.",
+      "Moreover, we use the properties of bias functions: injectivity and disconnected images.",
+      "The net is disconnected from its normal inputs and outputs, and random input is given to it."
     ],
-    "hash_code_list_definition_mean": "1476823903"
+    "hash_code_list_example": "1886048786"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/discord_cb_dmean_5000_it.json",
@@ -2308,16 +1813,14 @@
         "id_image": "discord_4053305"
       }
     ],
-    "hash_code_list_img": "1688171271",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự bất hòa",
-        "definition": "disagreement or quarrelling",
-        "ex_of_definition_list": [
-          "The issue is a source of discord between the two countries."
-        ]
-      }
+    "hash_code_list_img": "642158221",
+    "list_example": [
+      "The issue is a source of discord between the two countries.",
+      "490 tempted to observe children's behavior in the presence of their parents' discord during a series of family interactions.",
+      "Consequently, discord and instability in the broader family unit may assume distinct forms in domestically violent homes.",
+      "The reason for this discord is the use of ?à, a phonologically reduced form of nâ.",
+      "The failure of the alliance has been attributed to the discord caused by communal conflict within the ministry, which made the coalition unworkable."
     ],
-    "hash_code_list_definition_mean": "234107659"
+    "hash_code_list_example": "-1999549138"
   }
 ]

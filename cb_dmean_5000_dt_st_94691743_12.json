@@ -24,45 +24,12 @@
         "id_image": "hatch_505763"
       }
     ],
-    "hash_code_list_img": "-93532633",
-    "list_definition_mean": [
-      {
-        "mean_english": "cửa hầm; cửa sàn",
-        "definition": "(the door or cover of) an opening in a wall, floor, ship’s deck etc",
-        "ex_of_definition_list": [
-          "There are two hatches between the kitchen and dining-room for serving food."
-        ]
-      },
-      {
-        "mean_english": "ấp trứng",
-        "definition": "to produce (young birds etc) from eggs",
-        "ex_of_definition_list": [
-          "My hens have hatched ten chicks."
-        ]
-      },
-      {
-        "mean_english": "nở",
-        "definition": "to break out of the egg",
-        "ex_of_definition_list": [
-          "These chicks hatched this morning."
-        ]
-      },
-      {
-        "mean_english": "nở ra con",
-        "definition": "to become young birds",
-        "ex_of_definition_list": [
-          "Four of the eggs have hatched."
-        ]
-      },
-      {
-        "mean_english": "ngấm ngầm âm mưu",
-        "definition": "to plan (something, usually bad) in secret",
-        "ex_of_definition_list": [
-          "They hatched a plot to kidnap a rich businessman."
-        ]
-      }
+    "hash_code_list_img": "-1160355827",
+    "list_example": [
+      "These low hatch rates were observed using essentially the same technique described here.",
+      "Depression of egg hatch after 5 days' exposure was somewhat less severe, expressed as a percentage of the control, than at 2 days."
     ],
-    "hash_code_list_definition_mean": "476678640"
+    "hash_code_list_example": "1250192127"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hate_cb_dmean_5000_it.json",
@@ -87,32 +54,12 @@
         "id_image": "hate_708631"
       }
     ],
-    "hash_code_list_img": "-2017409435",
-    "list_definition_mean": [
-      {
-        "mean_english": "ghét",
-        "definition": "to dislike very much",
-        "ex_of_definition_list": [
-          "I hate them for their cruelty to my father",
-          "I hate getting up in the morning."
-        ]
-      },
-      {
-        "mean_english": "sự căm thù",
-        "definition": "great dislike",
-        "ex_of_definition_list": [
-          "a look of hate."
-        ]
-      },
-      {
-        "mean_english": "người hoặc vật bị ghét",
-        "definition": "something disliked",
-        "ex_of_definition_list": [
-          "Getting up in the morning is one of my pet (= particular) hates."
-        ]
-      }
+    "hash_code_list_img": "1979079905",
+    "list_example": [
+      "I hate them for their cruelty to my father",
+      "I hate getting up in the morning."
     ],
-    "hash_code_list_definition_mean": "494101707"
+    "hash_code_list_example": "-1032961936"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hat_cb_dmean_5000_it.json",
@@ -140,17 +87,15 @@
         "id_image": "hat_292020"
       }
     ],
-    "hash_code_list_img": "1708299813",
-    "list_definition_mean": [
-      {
-        "mean_english": "mũ",
-        "definition": "a covering for the head, usually worn out of doors",
-        "ex_of_definition_list": [
-          "He raised his hat as the lady approached."
-        ]
-      }
+    "hash_code_list_img": "617198144",
+    "list_example": [
+      "He raised his hat as the lady approached.",
+      "Eventually they come to an agreement that the wife will disguise herself as a child by putting on a straw hat decorated with flowers.",
+      "These scholars increasingly appear to be wearing two hats - that of their 'primary ' discipline and that of human rights scholar.",
+      "We can take off the hat of the imperious decisionmaker with the moral imperative to preserve life at almost any cost.",
+      "Settlers and colonial officials often associated hat wearing with insolence."
     ],
-    "hash_code_list_definition_mean": "638622208"
+    "hash_code_list_example": "353270145"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hazardous_cb_dmean_5000_it.json",
@@ -178,18 +123,19 @@
         "id_image": "hazardous_4694746"
       }
     ],
-    "hash_code_list_img": "893039198",
-    "list_definition_mean": [
-      {
-        "mean_english": "mạo hiểm; độc hại",
-        "definition": "dangerous",
-        "ex_of_definition_list": [
-          "a hazardous journey",
-          "hazardous waste."
-        ]
-      }
+    "hash_code_list_img": "-1638093959",
+    "list_example": [
+      "a hazardous journey",
+      "hazardous waste.",
+      "The latter may seem somewhat specialized, but is important because hydraulic actuators are critical components of robotic devices that enter hazardous environments.",
+      "It turned into an indescribably comic and constantly interrupted performance, since the fire police constantly found new potentially hazardous things.",
+      "In a disarming operation, it is hazardous for an operator to approach the robot and switch the end effector by hand.",
+      "The indicators cover deforestation, pesticide usage, overfishing, hazardous wastes, non-hazardous inorganic wastes, non-hazardous organic wastes, greenhouse gases, and urban air pollution.",
+      "The overwhelming majority of studies reported significantly better results with active intervention against hazardous alcohol consumption.",
+      "Traditionally, autonomous robots are designed to operate as independently and remotely as possible from humans, often performing tasks in hazardous and hostile environments.",
+      "In accordance with this, we found high rates of regular use and hazardous use among the 14- to 24-year-olds."
     ],
-    "hash_code_list_definition_mean": "2105280025"
+    "hash_code_list_example": "-827933865"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hazard_cb_dmean_5000_it.json",
@@ -219,31 +165,12 @@
         "id_image": "hazard_5983290"
       }
     ],
-    "hash_code_list_img": "1771863611",
-    "list_definition_mean": [
-      {
-        "mean_english": "mối nguy hiểm; sự độc hại",
-        "definition": "(something which causes) a risk of harm or danger",
-        "ex_of_definition_list": [
-          "the hazards of mountain-climbing."
-        ]
-      },
-      {
-        "mean_english": "mạo hiểm",
-        "definition": "to risk; to be prepared to do (something, the result of which is uncertain)",
-        "ex_of_definition_list": [
-          "Are you prepared to hazard your life for the success of this mission?"
-        ]
-      },
-      {
-        "mean_english": "đánh bạo",
-        "definition": "to put forward (a guess etc)",
-        "ex_of_definition_list": [
-          "I’d hazard a guess that he’s gone to visit his mother."
-        ]
-      }
+    "hash_code_list_img": "2105607418",
+    "list_example": [
+      "Are you prepared to hazard your life for the success of this mission?",
+      "I’d hazard a guess that he’s gone to visit his mother."
     ],
-    "hash_code_list_definition_mean": "1037539630"
+    "hash_code_list_example": "-495645402"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/haze_cb_dmean_5000_it.json",
@@ -267,17 +194,11 @@
         "id_image": "haze_6236517"
       }
     ],
-    "hash_code_list_img": "-1096393965",
-    "list_definition_mean": [
-      {
-        "mean_english": "sương mù",
-        "definition": "a thin mist",
-        "ex_of_definition_list": [
-          "The mountains were dim through the haze."
-        ]
-      }
+    "hash_code_list_img": "-248468884",
+    "list_example": [
+      "The mountains were dim through the haze."
     ],
-    "hash_code_list_definition_mean": "1693848569"
+    "hash_code_list_example": "1467968305"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hazy_cb_dmean_5000_it.json",
@@ -296,25 +217,18 @@
         "id_image": "hazy_2358457"
       }
     ],
-    "hash_code_list_img": "1310785589",
-    "list_definition_mean": [
-      {
-        "mean_english": "mù sương",
-        "definition": "misty",
-        "ex_of_definition_list": [
-          "a hazy view of the valley below."
-        ]
-      },
-      {
-        "mean_english": "lờ mờ",
-        "definition": "not clear or certain",
-        "ex_of_definition_list": [
-          "a hazy idea",
-          "I’m a bit hazy about what happened."
-        ]
-      }
+    "hash_code_list_img": "1106002576",
+    "list_example": [
+      "a hazy view of the valley below.",
+      "a hazy idea",
+      "I’m a bit hazy about what happened.",
+      "The truth is that those who have never served in this place generally have a very hazy idea of how it operates.",
+      "The prolonged hazy conditions in the late half of the 1998 drought could possibly mitigate drought severity as the haze strongly reduced the intensity of irradiance and evapotranspirational loss.",
+      "The technology to do so is available now and not at a hazy and uncertain future date.",
+      "I certainly do not agree that it is a hazy case at all.",
+      "I am rather hazy about other points that they are making."
     ],
-    "hash_code_list_definition_mean": "2070257587"
+    "hash_code_list_example": "1709300844"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/headache_cb_dmean_5000_it.json",
@@ -343,24 +257,20 @@
         "id_image": "headache_286501"
       }
     ],
-    "hash_code_list_img": "-978066898",
-    "list_definition_mean": [
-      {
-        "mean_english": "đau đầu",
-        "definition": "a pain in the head",
-        "ex_of_definition_list": [
-          "Bright lights give me a splitting headache."
-        ]
-      },
-      {
-        "mean_english": "vấn đề hắc búa",
-        "definition": "something worrying",
-        "ex_of_definition_list": [
-          "Lack of money is a real headache."
-        ]
-      }
+    "hash_code_list_img": "-1458441857",
+    "list_example": [
+      "Bright lights give me a splitting headache.",
+      "Lack of money is a real headache.",
+      "An acute, periodic or chronic desynchrony and dysfunction of the whole or part of that axis could be responsible for primary headaches.",
+      "The oral dose of nitazoxanide was generally well tolerated, and the principal side-effects were abdominal pain (16%), headaches (6%) and nausea (9%).",
+      "Among those ordered for headaches 57.7 percent had normal findings (27.8 percent x 61.1 percent x 57.7 percent = 9.8 percent).",
+      "Category 4 has caused us major headaches this year, just as in previous years.",
+      "He suffered headaches soon afterward from what proved to be brain hemorrhaging.",
+      "Yes, but do they still get headaches?",
+      "Each episode was also accompanied by pounding bitemporal headaches.",
+      "Basilar arterial migraine, which represents 24% of all childhood migraines,2 however, may include syncope with or without headaches, in its presentation."
     ],
-    "hash_code_list_definition_mean": "503373355"
+    "hash_code_list_example": "-1458472203"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/headdress_cb_dmean_5000_it.json",
@@ -393,17 +303,14 @@
         "id_image": "headdress_5939410"
       }
     ],
-    "hash_code_list_img": "2090432258",
-    "list_definition_mean": [
-      {
-        "mean_english": "vật đội trên đầu để trang sức",
-        "definition": "something, usually ornamental, which is worn on, and covers, the head",
-        "ex_of_definition_list": [
-          "The tribesmen were wearing headdresses of fur and feathers."
-        ]
-      }
+    "hash_code_list_img": "1083723370",
+    "list_example": [
+      "A feathered headdress was added in relief to frame a head or skull, which was missing.",
+      "The headdress consists of a headband with an array of feathers and a broad stripe hanging from behind.",
+      "Unfortunately, the medallion is severely deteriorated, and the headdress has not been preserved; in fact, all that remains of the face are the round eyepieces.",
+      "However, the headdress scarcely resembles that of the goddess."
     ],
-    "hash_code_list_definition_mean": "472243919"
+    "hash_code_list_example": "-1096260024"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/header_cb_dmean_5000_it.json",
@@ -427,24 +334,12 @@
         "id_image": "header_3527790"
       }
     ],
-    "hash_code_list_img": "-799014499",
-    "list_definition_mean": [
-      {
-        "mean_english": "cú đánh đầu",
-        "definition": "(in football) the act of hitting the ball with the head",
-        "ex_of_definition_list": [
-          "He scored with a great header."
-        ]
-      },
-      {
-        "mean_english": "sự nhảy hoặc ngã đâm đầu xuống trước",
-        "definition": "a fall or dive forwards",
-        "ex_of_definition_list": [
-          "He slipped and took a header into the mud."
-        ]
-      }
+    "hash_code_list_img": "1182142050",
+    "list_example": [
+      "He slipped and took a header into the mud.",
+      "Instead of having complete connectivity among all pools, the slots are only connected to the header and vice versa."
     ],
-    "hash_code_list_definition_mean": "1911035577"
+    "hash_code_list_example": "72890713"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/headgear_cb_dmean_5000_it.json",
@@ -477,17 +372,15 @@
         "id_image": "headgear_5588973"
       }
     ],
-    "hash_code_list_img": "-393209043",
-    "list_definition_mean": [
-      {
-        "mean_english": "mũ lưỡi trai",
-        "definition": "anything that is worn on the head",
-        "ex_of_definition_list": [
-          "hats, caps, helmets, and other types of headgear."
-        ]
-      }
+    "hash_code_list_img": "-1578831432",
+    "list_example": [
+      "The safe, secure and firm fitting of headgear for riders is important.",
+      "We always want the safest possible protective headgear for children and others but people should not be forced to buy new headgear too often.",
+      "All three are bald and lack any headgear or iconography on the head.",
+      "Except for the silhouette of the ears, the facial features are completely obliterated, and no traces of headgear are evident.",
+      "However, we do not disagree about the rightness of children and adults wearing safety headgear on horseback."
     ],
-    "hash_code_list_definition_mean": "489519452"
+    "hash_code_list_example": "-2074716852"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/headlight_cb_dmean_5000_it.json",
@@ -525,17 +418,17 @@
         "id_image": "headlight_4805681"
       }
     ],
-    "hash_code_list_img": "909984407",
-    "list_definition_mean": [
-      {
-        "mean_english": "đèn pha",
-        "definition": "a powerful light at or on the front of a car, lorry/truck, train, ship, aeroplane/airplane etc",
-        "ex_of_definition_list": [
-          "As it was getting dark, the driver switched on his headlights."
-        ]
-      }
+    "hash_code_list_img": "1814730329",
+    "list_example": [
+      "I think the difference is that in one case the headlight is dipped, and in the other case it is dimmed.",
+      "There is a lot of difference between whether one dips a headlight or does not dip it.",
+      "Stock appearing grill and headlight openings must be retained.",
+      "I am told that so small an error as one degree in the headlight beam can cause dazzle.",
+      "A lighted lamp shows at a considerably greater distance than a reflector, particularly when no headlight is shining on the reflector.",
+      "I am not aware of any headlight which provides an adequate driving light without some degree of dazzle.",
+      "Whereas previously one could have bought a bulb, one now has to buy a sealed headlight and the cost is far higher."
     ],
-    "hash_code_list_definition_mean": "872422524"
+    "hash_code_list_example": "574795342"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/headline_cb_dmean_5000_it.json",
@@ -568,17 +461,15 @@
         "id_image": "headline_4896243"
       }
     ],
-    "hash_code_list_img": "-634449592",
-    "list_definition_mean": [
-      {
-        "mean_english": "đề mục",
-        "definition": "the words written in large letters at the top of newspaper articles",
-        "ex_of_definition_list": [
-          "I never read a paper in detail – I just glance at the headlines."
-        ]
-      }
+    "hash_code_list_img": "-1518465383",
+    "list_example": [
+      "This decision is based on the assumption that a keyword in a headline or leader indicates special commitment to the issue.",
+      "Like a newspaper, each story has a headline with a location and date leading the story.",
+      "In fact, as the text below the headline reveals, this shows a divergence of trends.",
+      "This means that there has to be a headline number, or very limited set of numbers, against which success or failure will be judged.",
+      "One reason for such disagreements may be because different types of headline have sometimes been lumped together."
     ],
-    "hash_code_list_definition_mean": "888721064"
+    "hash_code_list_example": "1761456631"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/head_cb_dmean_5000_it.json",
@@ -623,138 +514,26 @@
         "id_image": "head_2688273"
       }
     ],
-    "hash_code_list_img": "-1443806433",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái đầu",
-        "definition": "the top part of the human body, containing the eyes, mouth, brain etc; the same part of an animal’s body",
-        "ex_of_definition_list": [
-          "The stone hit him on the head",
-          "He scratched his head in amazement."
-        ]
-      },
-      {
-        "mean_english": "đầu óc",
-        "definition": "a person’s mind",
-        "ex_of_definition_list": [
-          "An idea came into my head last night."
-        ]
-      },
-      {
-        "mean_english": "một đầu",
-        "definition": "the height or length of a head",
-        "ex_of_definition_list": [
-          "The horse won by a head."
-        ]
-      },
-      {
-        "mean_english": "người đứng đầu một nhóm hoặc một tổ chức",
-        "definition": "the chief or most important person (of an organization, country etc)",
-        "ex_of_definition_list": [
-          "Kings and presidents are heads of state",
-          "(also adjective) a head waiter",
-          "the head office."
-        ]
-      },
-      {
-        "mean_english": "vật hình đầu",
-        "definition": "anything that is like a head in shape or position",
-        "ex_of_definition_list": [
-          "the head of a pin",
-          "The boy knocked the heads off the flowers."
-        ]
-      },
-      {
-        "mean_english": "đầu nguồn",
-        "definition": "the place where a river, lake etc begins",
-        "ex_of_definition_list": [
-          "the head of the Nile."
-        ]
-      },
-      {
-        "mean_english": "phía trên hoặc phần cao nhất",
-        "definition": "the top, or the top part, of anything",
-        "ex_of_definition_list": [
-          "Write your address at the head of the paper",
-          "the head of the table."
-        ]
-      },
-      {
-        "mean_english": "phía trước",
-        "definition": "the front part",
-        "ex_of_definition_list": [
-          "He walked at the head of the procession."
-        ]
-      },
-      {
-        "mean_english": "năng khiếu",
-        "definition": "a particular ability or tolerance",
-        "ex_of_definition_list": [
-          "He has no head for heights",
-          "She has a good head for figures."
-        ]
-      },
-      {
-        "mean_english": "ông bà hiệu trưởng",
-        "definition": "a headmaster or headmistress",
-        "ex_of_definition_list": [
-          "You’d better ask the Head."
-        ]
-      },
-      {
-        "mean_english": "mỗi người",
-        "definition": "(for) one person",
-        "ex_of_definition_list": [
-          "This dinner costs $10 a head."
-        ]
-      },
-      {
-        "mean_english": "mũi đất",
-        "definition": "a headland",
-        "ex_of_definition_list": [
-          "Beachy Head."
-        ]
-      },
-      {
-        "mean_english": "dẫn đầu",
-        "definition": "to go at the front of or at the top of (something)",
-        "ex_of_definition_list": [
-          "The procession was headed by the band",
-          "Whose name headed the list?"
-        ]
-      },
-      {
-        "mean_english": "đứng đầu",
-        "definition": "to be in charge of; to be the leader of",
-        "ex_of_definition_list": [
-          "He heads a team of scientists investigating cancer."
-        ]
-      },
-      {
-        "mean_english": "tiến về phía",
-        "definition": "(often with for) to (cause to) move in a certain direction",
-        "ex_of_definition_list": [
-          "The explorers headed south",
-          "The boys headed for home",
-          "You’re heading for disaster!"
-        ]
-      },
-      {
-        "mean_english": "ghi ở đầu",
-        "definition": "to put or write something at the beginning of",
-        "ex_of_definition_list": [
-          "His report was headed ‘Ways of Preventing Industrial Accidents’."
-        ]
-      },
-      {
-        "mean_english": "đánh đầu",
-        "definition": "(in football) to hit the ball with the head",
-        "ex_of_definition_list": [
-          "He headed the ball into the goal."
-        ]
-      }
+    "hash_code_list_img": "-1247441159",
+    "list_example": [
+      "He scratched his head in amazement.",
+      "An idea came into my head last night.",
+      "(also adjective) a head waiter",
+      "the head office.",
+      "the head of a pin",
+      "the head of the Nile.",
+      "Write your address at the head of the paper",
+      "the head of the table.",
+      "He walked at the head of the procession.",
+      "He has no head for heights",
+      "She has a good head for figures.",
+      "In addition to its precise spatial location, the form of response to be generated involved a dipping of the pigeon's head at that location.",
+      "Predictably, no modifiers can then intervene between the head and the relative clause.",
+      "A weak head reduction relation is defined for the expressions of the calculus.",
+      "The head partial tree is then extended one level.",
+      "The authors suggest that representations from one participant's head are aligned directly with those from the other participant's head."
     ],
-    "hash_code_list_definition_mean": "1084799868"
+    "hash_code_list_example": "356357363"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/healthy_cb_dmean_5000_it.json",
@@ -790,39 +569,14 @@
         "id_image": "healthy_926107"
       }
     ],
-    "hash_code_list_img": "315941934",
-    "list_definition_mean": [
-      {
-        "mean_english": "khoẻ mạnh",
-        "definition": "(generally) having good health",
-        "ex_of_definition_list": [
-          "I’m rarely ill – I’m really a very healthy person",
-          "My bank balance is healthier now than it used to be."
-        ]
-      },
-      {
-        "mean_english": "có lợi cho sức khoẻ",
-        "definition": "causing or helping to produce good health",
-        "ex_of_definition_list": [
-          "a healthy climate."
-        ]
-      },
-      {
-        "mean_english": "sức khoẻ tốt",
-        "definition": "resulting from good health",
-        "ex_of_definition_list": [
-          "a healthy appetite."
-        ]
-      },
-      {
-        "mean_english": "nghiêm túc",
-        "definition": "showing a sensible concern for one’s own well-being etc",
-        "ex_of_definition_list": [
-          "He shows a healthy respect for the law."
-        ]
-      }
+    "hash_code_list_img": "-1277407150",
+    "list_example": [
+      "I’m rarely ill – I’m really a very healthy person",
+      "a healthy climate.",
+      "a healthy appetite.",
+      "He shows a healthy respect for the law."
     ],
-    "hash_code_list_definition_mean": "-878065173"
+    "hash_code_list_example": "1537257122"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/health_cb_dmean_5000_it.json",
@@ -861,24 +615,17 @@
         "id_image": "health_883309"
       }
     ],
-    "hash_code_list_img": "-1373335212",
-    "list_definition_mean": [
-      {
-        "mean_english": "tình trạng sức khỏe",
-        "definition": "the state of being well or ill",
-        "ex_of_definition_list": [
-          "He is in good/poor health."
-        ]
-      },
-      {
-        "mean_english": "sức khoẻ",
-        "definition": "the state of being well",
-        "ex_of_definition_list": [
-          "I may be getting old, but so long as I keep my health, I’ll be happy."
-        ]
-      }
+    "hash_code_list_img": "2060648816",
+    "list_example": [
+      "The health authority's representatives again sought to establish a sense of purpose and to embody this in a method of working.",
+      "This reinforces the importance of the problem in countries without well organized health care or without wide access of the entire population to such care.",
+      "Some medical specialty societies already are recognized as proponents of standards of care by health plans.",
+      "Perhaps also surprisingly, the number of refereed papers on food quality and human health issues were similar for both conventional and organic research.",
+      "A more rigorous analysis of the epidemiological impact of vaccination for meningococcal disease is essential for proper health economic estimates.",
+      "In particular, implementation of regulations in the private sector should be taken as a policy opportunity to improve the delivery of health care.",
+      "Parents' own health risk behaviours were correlated with those reported for their children."
     ],
-    "hash_code_list_definition_mean": "1650691542"
+    "hash_code_list_example": "621220377"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/heal_cb_dmean_5000_it.json",
@@ -911,18 +658,12 @@
         "id_image": "heal_6009347"
       }
     ],
-    "hash_code_list_img": "1638891512",
-    "list_definition_mean": [
-      {
-        "mean_english": "hàn gắn; chữa khỏi bệnh",
-        "definition": "(often with up) (especially of cuts, wounds etc) to make or become healthy; to (cause to) return to a normal state or condition",
-        "ex_of_definition_list": [
-          "That scratch will heal (up) in a couple of days",
-          "this ointment will soon heal your cuts."
-        ]
-      }
+    "hash_code_list_img": "955070346",
+    "list_example": [
+      "That scratch will heal (up) in a couple of days",
+      "this ointment will soon heal your cuts."
     ],
-    "hash_code_list_definition_mean": "405804930"
+    "hash_code_list_example": "1614580041"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/heartache_cb_dmean_5000_it.json",
@@ -945,17 +686,16 @@
         "id_image": "heartache_5746494"
       }
     ],
-    "hash_code_list_img": "636945871",
-    "list_definition_mean": [
-      {
-        "mean_english": "nỗi đau buồn",
-        "definition": "(a feeling of) great sadness",
-        "ex_of_definition_list": [
-          "The team suffered the heartache of losing the final in a penalty shootout."
-        ]
-      }
+    "hash_code_list_img": "1025153879",
+    "list_example": [
+      "The team suffered the heartache of losing the final in a penalty shootout.",
+      "It was clumsy and incompetent, and it caused dramatic heartache to the people in local government, for they had to make that difficult system operate.",
+      "I know the heartache and the heartbreak that has come to decent working-class homes as a result of gambling and betting.",
+      "We would save an awful lot of heartache for our old people if we were.",
+      "Some of the proposals that are being brought forward are causing much controversy, heartache and soul-searching north of the border.",
+      "We realise that it causes some heartache to people, but it is unavoidable."
     ],
-    "hash_code_list_definition_mean": "700586730"
+    "hash_code_list_example": "-966195074"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/heartbeat_cb_dmean_5000_it.json",
@@ -988,17 +728,11 @@
         "id_image": "heartbeat_813601"
       }
     ],
-    "hash_code_list_img": "842303624",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhịp tim",
-        "definition": "(the sound of) the regular movement of the heart",
-        "ex_of_definition_list": [
-          "Her heartbeat is regular."
-        ]
-      }
+    "hash_code_list_img": "-626777187",
+    "list_example": [
+      "Her heartbeat is regular."
     ],
-    "hash_code_list_definition_mean": "1170377832"
+    "hash_code_list_example": "-1805913512"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/heartbreak_cb_dmean_5000_it.json",
@@ -1031,17 +765,16 @@
         "id_image": "heartbreak_708617"
       }
     ],
-    "hash_code_list_img": "834430574",
-    "list_definition_mean": [
-      {
-        "mean_english": "nỗi đau buồn xé ruột",
-        "definition": "(something which causes) great sorrow",
-        "ex_of_definition_list": [
-          "I have suffered many heartbreaks in my life."
-        ]
-      }
+    "hash_code_list_img": "33766110",
+    "list_example": [
+      "Much unnecessary heartbreak and loss was caused by that policy.",
+      "Those suffering from heartbreak housing will rejoice that last year an all-time record or 413,000 houses and flats was achieved.",
+      "This is a vast mass of heartbreak housing.",
+      "I know the heartache and the heartbreak that has come to decent working-class homes as a result of gambling and betting.",
+      "These proposals, however, will begin to replace heartbreak with hope.",
+      "His plea for \"the greatest national heartbreak of the fatherless families\" and for those struggling along on low fixed incomes was met with uncomprehending stares."
     ],
-    "hash_code_list_definition_mean": "1231373675"
+    "hash_code_list_example": "735235398"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/heartbroken_cb_dmean_5000_it.json",
@@ -1069,18 +802,18 @@
         "id_image": "heartbroken_5046959"
       }
     ],
-    "hash_code_list_img": "1240147024",
-    "list_definition_mean": [
-      {
-        "mean_english": "rất đau khổ",
-        "definition": "feeling very great sorrow",
-        "ex_of_definition_list": [
-          "She was heartbroken after her husband left her for another woman.",
-          "a heartbroken widow."
-        ]
-      }
+    "hash_code_list_img": "-40388436",
+    "list_example": [
+      "She was heartbroken after her husband left her for another woman.",
+      "a heartbroken widow.",
+      "He is heartbroken at the distress around him and his inability to help.",
+      "There are many heartbroken parents in this country.",
+      "One lady wrote to me saying that she was heartbroken visiting a relative in hospital because the hospital was \"so desperately short of staff\".",
+      "Parents were heartbroken at the death of a child, but mourned an older child more than a young infant.",
+      "I should be heartbroken if we did not get that promise.",
+      "Parents whose children are set on a legal career, but whom they must deny that opportunity, are heartbroken and demoralised."
     ],
-    "hash_code_list_definition_mean": "1795408763"
+    "hash_code_list_example": "-645677313"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hearth_cb_dmean_5000_it.json",
@@ -1108,17 +841,19 @@
         "id_image": "hearth_351895"
       }
     ],
-    "hash_code_list_img": "1213031534",
-    "list_definition_mean": [
-      {
-        "mean_english": "lò sưởi",
-        "definition": "(the part of a room beside) the fireplace",
-        "ex_of_definition_list": [
-          "She was warming herself by the hearth."
-        ]
-      }
+    "hash_code_list_img": "266629827",
+    "list_example": [
+      "She was warming herself by the hearth.",
+      "In view of the fact that conditions have changed much since the original legislation was introduced and that we are now fighting for our hearths and.",
+      "Smelting mills were provided with chimneys to dissipate the fumes from the ore hearths.",
+      "The following excavation found a succession of hearths, with associated structures, dating from the 13th century up to post-medieval period.",
+      "Flues, chimneys and hearths for oil-fired stoves and boilers have to comply with the same provisions as solid fuel appliances, as was the case under the building byelaws.",
+      "You are not entitled to legislate for the domestic hearths of the people of this country at intervals of half an hour.",
+      "Carbonized plant seeds were found in hearths and living areas.",
+      "In the site over a hundred fireplaces and hearths were found and numerous pits, but no solid architecture, except for one wall.",
+      "The tax fell most heavily on those who occupied the houses with the greatest number of hearths."
     ],
-    "hash_code_list_definition_mean": "1867679972"
+    "hash_code_list_example": "791586637"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/heart_cb_dmean_5000_it.json",
@@ -1151,45 +886,25 @@
         "id_image": "heart_286504"
       }
     ],
-    "hash_code_list_img": "-404550778",
-    "list_definition_mean": [
-      {
-        "mean_english": "trái tim",
-        "definition": "the organ which pumps blood through the body",
-        "ex_of_definition_list": [
-          "How fast does a person’s heart beat?",
-          "(also adjective) heart disease",
-          "a heart specialist."
-        ]
-      },
-      {
-        "mean_english": "giữa trung tâm",
-        "definition": "the central part",
-        "ex_of_definition_list": [
-          "I live in the heart of the city",
-          "a hut in the heart of the forest",
-          "the heart of a lettuce",
-          "Let’s get straight to the heart of the matter/problem."
-        ]
-      },
-      {
-        "mean_english": "lòng",
-        "definition": "the part of the body where one’s feelings, especially of love, conscience etc are imagined to arise",
-        "ex_of_definition_list": [
-          "She has a kind heart",
-          "You know in your heart that you ought to go",
-          "She has no heart (= She is not kind)."
-        ]
-      },
-      {
-        "mean_english": "nhiệt tình",
-        "definition": "courage and enthusiasm",
-        "ex_of_definition_list": [
-          "The soldiers were beginning to lose heart."
-        ]
-      }
+    "hash_code_list_img": "-1117973716",
+    "list_example": [
+      "How fast does a person’s heart beat?",
+      "(also adjective) heart disease",
+      "a heart specialist.",
+      "I live in the heart of the city",
+      "a hut in the heart of the forest",
+      "the heart of a lettuce",
+      "Let’s get straight to the heart of the matter/problem.",
+      "You know in your heart that you ought to go",
+      "She has no heart (= She is not kind).",
+      "The heart of the book lies in the maps and the statistics and most of their meanings remain to be explored.",
+      "It is anticipated that heart and lung transplants would be even more restricted to possibly one or at most two centers.",
+      "He returns home and finds the burglar, dead from a heart attack, on the floor.",
+      "A 22-year-old pregnant woman was referred for a detailed fetal echocardiogram because an abnormality of the fetal heart was suspected on routine antenatal scanning.",
+      "This tension, between capitalism, cultural diversity, opportunity, enterprise and community, lies at the heart of what these three scholars wrestle with.",
+      "This question lies at the heart of political representation and democratic responsiveness."
     ],
-    "hash_code_list_definition_mean": "-1701368785"
+    "hash_code_list_example": "-1708649857"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hear_cb_dmean_5000_it.json",
@@ -1224,37 +939,15 @@
         "id_image": "hear_5827885"
       }
     ],
-    "hash_code_list_img": "-1666499169",
-    "list_definition_mean": [
-      {
-        "mean_english": "nghe",
-        "definition": "to (be able to) receive (sounds) by ear",
-        "ex_of_definition_list": [
-          "I don’t hear very well",
-          "Speak louder – I can’t hear you",
-          "I didn’t hear you come in."
-        ]
-      },
-      {
-        "mean_english": "lắng nghe",
-        "definition": "to listen to for some purpose",
-        "ex_of_definition_list": [
-          "A judge hears court cases",
-          "Part of a manager’s job is to hear workers’ complaints."
-        ]
-      },
-      {
-        "mean_english": "nghe nói",
-        "definition": "to receive information, news etc, not only by ear",
-        "ex_of_definition_list": [
-          "I’ve heard that story before",
-          "I hear that you’re leaving",
-          "‘Have you heard from your sister?’ ‘Yes, I got a letter from her today’",
-          "I’ve never heard of him – who is he? This is the first I’ve heard of the plan."
-        ]
-      }
+    "hash_code_list_img": "-945435546",
+    "list_example": [
+      "I don’t hear very well",
+      "Speak louder – I can’t hear you",
+      "I didn’t hear you come in.",
+      "Part of a manager’s job is to hear workers’ complaints.",
+      "I hear that you’re leaving"
     ],
-    "hash_code_list_definition_mean": "1953817912"
+    "hash_code_list_example": "-369037873"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/heater_cb_dmean_5000_it.json",
@@ -1282,17 +975,15 @@
         "id_image": "heater_741358"
       }
     ],
-    "hash_code_list_img": "-425888609",
-    "list_definition_mean": [
-      {
-        "mean_english": "bếp lò; lò",
-        "definition": "an apparatus which gives out heat in order to warm a room etc, or which heats water etc in a water-tank",
-        "ex_of_definition_list": [
-          "an electric heater."
-        ]
-      }
+    "hash_code_list_img": "-375116306",
+    "list_example": [
+      "The heater beam illuminates a 1-mm-diameter target at normal incidence, and the line focus is in the horizontal plane.",
+      "Additionally, the thermostat on the water heater may be turned down so that the water is not hot enough to burn the patient.",
+      "No unprotected heater or exposed pipes in bathroom.",
+      "It has a plenum chamber between the arc heater and the test section.",
+      "Batteries are housed in the end cap, and these supply heaters that warm heater plates in the oil chamber."
     ],
-    "hash_code_list_definition_mean": "181033324"
+    "hash_code_list_example": "1954820785"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/heatwave_cb_dmean_5000_it.json",
@@ -1310,17 +1001,13 @@
         "id_image": "heatwave_2581031"
       }
     ],
-    "hash_code_list_img": "1069568493",
-    "list_definition_mean": [
-      {
-        "mean_english": "đợt nóng",
-        "definition": "a period of very hot weather",
-        "ex_of_definition_list": [
-          "The country was in the middle of a heatwave."
-        ]
-      }
+    "hash_code_list_img": "1797821780",
+    "list_example": [
+      "This was the second major heatwave in the region within 10 months.",
+      "In the morning they arrive at the village just as a heatwave engulfs the village.",
+      "The 2003 heatwave claimed tens of thousands of lives."
     ],
-    "hash_code_list_definition_mean": "903395905"
+    "hash_code_list_example": "-695453914"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/heat_cb_dmean_5000_it.json",
@@ -1353,48 +1040,22 @@
         "id_image": "heat_6182875"
       }
     ],
-    "hash_code_list_img": "1431736819",
-    "list_definition_mean": [
-      {
-        "mean_english": "hơi nóng",
-        "definition": "the warmth from something which is hot",
-        "ex_of_definition_list": [
-          "The heat from the fire will dry your coat",
-          "the effect of heat on metal",
-          "the heat of the sun."
-        ]
-      },
-      {
-        "mean_english": "sự nóng nực",
-        "definition": "the hottest time",
-        "ex_of_definition_list": [
-          "the heat of the day."
-        ]
-      },
-      {
-        "mean_english": "sự hăng hái",
-        "definition": "anger or excitement",
-        "ex_of_definition_list": [
-          "He didn’t mean to be rude – he just said that in the heat of the moment."
-        ]
-      },
-      {
-        "mean_english": "đấu loại",
-        "definition": "in a sports competition etc, one of two or more contests from which the winners go on to take part in later stages of the competition",
-        "ex_of_definition_list": [
-          "Having won his heat, he is going through to the final."
-        ]
-      },
-      {
-        "mean_english": "nóng lên; trở nên nóng",
-        "definition": "(sometimes with up) to make or become hot or warm",
-        "ex_of_definition_list": [
-          "We’ll heat (up) the soup",
-          "The day heats up quickly once the sun has risen."
-        ]
-      }
+    "hash_code_list_img": "-542333398",
+    "list_example": [
+      "Test the heat of the water before you bath the baby.",
+      "The heat from the fire will dry your coat",
+      "the effect of heat on metal",
+      "the heat of the sun.",
+      "the heat of the day.",
+      "He didn’t mean to be rude – he just said that in the heat of the moment.",
+      "We’ll heat (up) the soup",
+      "They concluded that unless this heat was dissipated, it would slow imbibition of vapour.",
+      "From the temperature profiles and the boundary condition, the total power for heat flow was calculated.",
+      "There is renewed interest in adopting heat treatments around the world as a viable insect control alternative to fumigation with methyl bromide.",
+      "In addition, it continuously monitors the heat consumption and sends each minute a report to the redistribution agent of the cluster it belongs to.",
+      "The heat generated in the doped core has to pass the heat impedance of the coating before it reaches the convecting water flow."
     ],
-    "hash_code_list_definition_mean": "-1381194497"
+    "hash_code_list_example": "-408922768"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/heaven_cb_dmean_5000_it.json",
@@ -1419,24 +1080,11 @@
         "id_image": "heaven_2545705"
       }
     ],
-    "hash_code_list_img": "-1358770472",
-    "list_definition_mean": [
-      {
-        "mean_english": "trời",
-        "definition": "the sky",
-        "ex_of_definition_list": [
-          "He raised his eyes to heaven / the heavens."
-        ]
-      },
-      {
-        "mean_english": "niềm hạnh phúc thần tiên",
-        "definition": "(something which brings) great happiness",
-        "ex_of_definition_list": [
-          "‘This is heaven’, she said, lying on the beach in the sun."
-        ]
-      }
+    "hash_code_list_img": "1908686466",
+    "list_example": [
+      "He raised his eyes to heaven / the heavens."
     ],
-    "hash_code_list_definition_mean": "-2037427148"
+    "hash_code_list_example": "47764192"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/heavy_cb_dmean_5000_it.json",
@@ -1460,69 +1108,21 @@
         "id_image": "heavy_1684422"
       }
     ],
-    "hash_code_list_img": "1648225697",
-    "list_definition_mean": [
-      {
-        "mean_english": "nặng nề",
-        "definition": "having great weight; difficult to lift or carry",
-        "ex_of_definition_list": [
-          "a heavy parcel."
-        ]
-      },
-      {
-        "mean_english": "nặng",
-        "definition": "having a particular weight",
-        "ex_of_definition_list": [
-          "I wonder how heavy the suitcase is."
-        ]
-      },
-      {
-        "mean_english": "lượng lớn",
-        "definition": "of very great amount, force etc",
-        "ex_of_definition_list": [
-          "heavy rain",
-          "a heavy blow",
-          "The ship capsized in the heavy seas",
-          "heavy taxes."
-        ]
-      },
-      {
-        "mean_english": "nặng",
-        "definition": "doing something to a great extent",
-        "ex_of_definition_list": [
-          "He’s a heavy smoker/drinker."
-        ]
-      },
-      {
-        "mean_english": "âm u",
-        "definition": "dark and dull; looking or feeling stormy",
-        "ex_of_definition_list": [
-          "a heavy sky/atmosphere."
-        ]
-      },
-      {
-        "mean_english": "khó hiểu",
-        "definition": "difficult to read, do, understand etc",
-        "ex_of_definition_list": [
-          "Books on philosophy are too heavy for me."
-        ]
-      },
-      {
-        "mean_english": "khó tiêu",
-        "definition": "(of food) hard to digest",
-        "ex_of_definition_list": [
-          "It was a rather heavy meal."
-        ]
-      },
-      {
-        "mean_english": "vụng về",
-        "definition": "noisy and clumsy",
-        "ex_of_definition_list": [
-          "heavy footsteps."
-        ]
-      }
+    "hash_code_list_img": "1482177100",
+    "list_example": [
+      "a heavy parcel.",
+      "I wonder how heavy the suitcase is.",
+      "heavy rain",
+      "a heavy blow",
+      "The ship capsized in the heavy seas",
+      "heavy taxes.",
+      "He’s a heavy smoker/drinker.",
+      "a heavy sky/atmosphere.",
+      "Books on philosophy are too heavy for me.",
+      "It was a rather heavy meal.",
+      "heavy footsteps."
     ],
-    "hash_code_list_definition_mean": "-132196388"
+    "hash_code_list_example": "613536256"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hedge_cb_dmean_5000_it.json",
@@ -1542,24 +1142,12 @@
         "id_image": "hedge_2296473"
       }
     ],
-    "hash_code_list_img": "1966079234",
-    "list_definition_mean": [
-      {
-        "mean_english": "bờ giậu",
-        "definition": "a line of bushes etc planted so closely together that their branches form a solid mass, grown round the edges of gardens, fields etc",
-        "ex_of_definition_list": [
-          "The hedge needs cutting."
-        ]
-      },
-      {
-        "mean_english": "nói loanh quanh",
-        "definition": "to avoid giving a clear answer to a question",
-        "ex_of_definition_list": [
-          "Politicians have a tendency to hedge their answers."
-        ]
-      }
+    "hash_code_list_img": "1049295948",
+    "list_example": [
+      "The hedge needs cutting.",
+      "Politicians have a tendency to hedge their answers."
     ],
-    "hash_code_list_definition_mean": "281290385"
+    "hash_code_list_example": "-539021791"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/heel_cb_dmean_5000_it.json",
@@ -1586,38 +1174,12 @@
         "id_image": "heel_6401050"
       }
     ],
-    "hash_code_list_img": "-2051968089",
-    "list_definition_mean": [
-      {
-        "mean_english": "gót chân",
-        "definition": "the back part of the foot",
-        "ex_of_definition_list": [
-          "I have a blister on my heel."
-        ]
-      },
-      {
-        "mean_english": "gót bít tất)",
-        "definition": "the part of a sock etc that covers this part of the foot",
-        "ex_of_definition_list": [
-          "I have a hole in the heel of my sock."
-        ]
-      },
-      {
-        "mean_english": "gót giày",
-        "definition": "the part of a shoe, boot etc under or round the heel of the foot",
-        "ex_of_definition_list": [
-          "The heel has come off this shoe."
-        ]
-      },
-      {
-        "mean_english": "nghiêng đi (tàu thuỷ)",
-        "definition": "(usually with over) (of ships) to lean to one side",
-        "ex_of_definition_list": [
-          "The boat heeled over in the strong wind."
-        ]
-      }
+    "hash_code_list_img": "1757143117",
+    "list_example": [
+      "I have a hole in the heel of my sock.",
+      "The heel has come off this shoe."
     ],
-    "hash_code_list_definition_mean": "919943748"
+    "hash_code_list_example": "-384149009"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/height_cb_dmean_5000_it.json",
@@ -1643,41 +1205,14 @@
         "id_image": "height_5593750"
       }
     ],
-    "hash_code_list_img": "538258339",
-    "list_definition_mean": [
-      {
-        "mean_english": "chiều cao",
-        "definition": "the distance from the bottom to the top of something",
-        "ex_of_definition_list": [
-          "What is the height of this building?",
-          "He is 1.75 metres in height."
-        ]
-      },
-      {
-        "mean_english": "đỉnh cao nhất",
-        "definition": "the highest, greatest, strongest etc point",
-        "ex_of_definition_list": [
-          "He is at the height of his career",
-          "The storm was at its height."
-        ]
-      },
-      {
-        "mean_english": "đỉnh điểm",
-        "definition": "the peak or extreme",
-        "ex_of_definition_list": [
-          "She was dressed in the height of fashion",
-          "His actions were the height of folly."
-        ]
-      },
-      {
-        "mean_english": "điểm cao",
-        "definition": "a high place",
-        "ex_of_definition_list": [
-          "We looked down from the heights at the valley beneath us."
-        ]
-      }
+    "hash_code_list_img": "1917221633",
+    "list_example": [
+      "What is the height of this building?",
+      "He is at the height of his career",
+      "She was dressed in the height of fashion",
+      "His actions were the height of folly."
     ],
-    "hash_code_list_definition_mean": "-1100470856"
+    "hash_code_list_example": "1001962912"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/helmet_cb_dmean_5000_it.json",
@@ -1705,19 +1240,14 @@
         "id_image": "helmet_434024"
       }
     ],
-    "hash_code_list_img": "-44125964",
-    "list_definition_mean": [
-      {
-        "mean_english": "mũ bảo hiểm",
-        "definition": "a metal, leather etc covering to protect the head",
-        "ex_of_definition_list": [
-          "a safety helmet",
-          "Soldiers wear helmets when fighting",
-          "It is compulsory for motorcyclists to wear helmets."
-        ]
-      }
+    "hash_code_list_img": "-1401315053",
+    "list_example": [
+      "His red mask had three eyes, a helmet with five skulls, and was terrifying in appearance.",
+      "Male, with helmet or hairdo having a cylindrical projection.",
+      "Male, with a helmet or hairdo having a crest and a cylindrical projection.",
+      "The third one is a mechanical passive breakaway device that acts as a mechanical link between the helmet and the master robot in normal operation."
     ],
-    "hash_code_list_definition_mean": "1595169067"
+    "hash_code_list_example": "-680928008"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/helm_cb_dmean_5000_it.json",
@@ -1735,17 +1265,11 @@
         "id_image": "helm_169439"
       }
     ],
-    "hash_code_list_img": "1208205202",
-    "list_definition_mean": [
-      {
-        "mean_english": "bánh lái",
-        "definition": "the wheel or handle by which a ship is steered",
-        "ex_of_definition_list": [
-          "He asked me to take the helm (= steer the ship)."
-        ]
-      }
+    "hash_code_list_img": "1887459432",
+    "list_example": [
+      "He asked me to take the helm (= steer the ship)."
     ],
-    "hash_code_list_definition_mean": "645621678"
+    "hash_code_list_example": "-1366278553"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/helpline_cb_dmean_5000_it.json",
@@ -1773,17 +1297,16 @@
         "id_image": "helpline_3892165"
       }
     ],
-    "hash_code_list_img": "-1879230485",
-    "list_definition_mean": [
-      {
-        "mean_english": "đường dây hỗ trợ",
-        "definition": "a telephone service that provides advice and support about particular problems",
-        "ex_of_definition_list": [
-          "They set up a helpline to offer advice to customers."
-        ]
-      }
+    "hash_code_list_img": "1746759105",
+    "list_example": [
+      "They set up a helpline to offer advice to customers.",
+      "A telephone helpline was established to coincide with the press release.",
+      "The helpline provides practical advice in the application of the minimum wage, and it is a focal point for complaints of underpayment.",
+      "The press release will include details of local continence adviser contact numbers and ethnic minority helpline numbers.",
+      "Nearly 2 million posters, leaflets and stickers advertising this helpline and encouraging sufferers to seek treatment were distributed.",
+      "A telephone helpline number was included in all mailshots."
     ],
-    "hash_code_list_definition_mean": "326311955"
+    "hash_code_list_example": "-109095196"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/help_cb_dmean_5000_it.json",
@@ -1819,80 +1342,26 @@
         "id_image": "help_943640"
       }
     ],
-    "hash_code_list_img": "320971888",
-    "list_definition_mean": [
-      {
-        "mean_english": "giúp đỡ",
-        "definition": "to do something with or for someone that he cannot do alone, or that he will find useful",
-        "ex_of_definition_list": [
-          "Will you help me with this translation?",
-          "Will you please help me (to) translate this poem?",
-          "Can I help?",
-          "He fell down and I helped him up."
-        ]
-      },
-      {
-        "mean_english": "giúp ích",
-        "definition": "to play a part in something; to improve or advance",
-        "ex_of_definition_list": [
-          "Bright posters will help to attract the public to the exhibition",
-          "Good exam results will help his chances of a job."
-        ]
-      },
-      {
-        "mean_english": "cải thiện tình hình",
-        "definition": "to make less bad",
-        "ex_of_definition_list": [
-          "An aspirin will help your headache."
-        ]
-      },
-      {
-        "mean_english": "phục vụ trong cửa hàng",
-        "definition": "to serve (a person) in a shop",
-        "ex_of_definition_list": [
-          "Can I help you, sir?"
-        ]
-      },
-      {
-        "mean_english": "không thể ngăn chặn hoặc tránh được cái gì",
-        "definition": "(with can(not), could (not)) to be able not to do something or to prevent something",
-        "ex_of_definition_list": [
-          "He looked so funny that I couldn’t help laughing",
-          "Can I help it if it rains?"
-        ]
-      },
-      {
-        "mean_english": "sự giúp đỡ hoặc được giúp đỡ",
-        "definition": "the act of helping, or the result of this",
-        "ex_of_definition_list": [
-          "Can you give me some help?",
-          "Your digging the garden was a big help",
-          "Can I be of help to you?"
-        ]
-      },
-      {
-        "mean_english": "người giúp đỡ; vật giúp ích",
-        "definition": "someone or something that is useful",
-        "ex_of_definition_list": [
-          "You’re a great help to me."
-        ]
-      },
-      {
-        "mean_english": "người làm",
-        "definition": "a servant, farmworker etc",
-        "ex_of_definition_list": [
-          "She has hired a new help."
-        ]
-      },
-      {
-        "mean_english": "lối thoát",
-        "definition": "(usually with no) a way of preventing something",
-        "ex_of_definition_list": [
-          "Even if you don’t want to do it, the decision has been made – there’s no help for it now."
-        ]
-      }
+    "hash_code_list_img": "403626352",
+    "list_example": [
+      "Will you help me with this translation?",
+      "Will you please help me (to) translate this poem?",
+      "Bright posters will help to attract the public to the exhibition",
+      "Good exam results will help his chances of a job.",
+      "An aspirin will help your headache.",
+      "Can I help you, sir?",
+      "He looked so funny that I couldn’t help laughing",
+      "Can I help it if it rains?",
+      "Can I be of help to you?",
+      "You’re a great help to me.",
+      "Even if you don’t want to do it, the decision has been made – there’s no help for it now.",
+      "The risk is that clinicians increasingly will be reluctant to do quite ordinary procedures to help patients because of existing guidelines.",
+      "Their claim that higher levels of unemployment help extreme right parties is valid given their model.",
+      "These improvements could also complement and even enhance the benefits of drugs that help with the symptoms of dementia.",
+      "You told him that you would help him with writing.",
+      "They were explicitly told that some of the characters have features that could help them choose and some did not."
     ],
-    "hash_code_list_definition_mean": "-611335644"
+    "hash_code_list_example": "-1323847343"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hemisphere_cb_dmean_5000_it.json",
@@ -1915,17 +1384,19 @@
         "id_image": "hemisphere_6181758"
       }
     ],
-    "hash_code_list_img": "-360385614",
-    "list_definition_mean": [
-      {
-        "mean_english": "bán cầu",
-        "definition": "one half of the Earth",
-        "ex_of_definition_list": [
-          "The British Isles are in the northern hemisphere."
-        ]
-      }
+    "hash_code_list_img": "-1687091801",
+    "list_example": [
+      "The British Isles are in the northern hemisphere.",
+      "The choroid plexuses ®ll the lateral borders of the anterior and posterior ventricles,8 which in turn occupy half of the cerebral hemispheres.",
+      "Relatively strong scattering, 0.1, between the hemispheres corresponds to a wave model with resonant scattering or the upper limit of the dynamical turbulence model.",
+      "We acknowledge that mesozoic mammals are characterized by cerebral hemispheres diverging posteriorly.",
+      "The medial portion of both hemispheres, designated the limbic system, which includes the hippocampus and amygdala, is essential for the acquisition and retention of information.",
+      "The left versus right temporal lobe differences during sentence processing may be the result of differences in the way the two hemispheres process verbal material.",
+      "The degree of motor system activation was comparable in both hemispheres, and the effects were independent of the side of language dominance or of handedness.",
+      "Involvement of the cerebellar hemispheres leads to dysrhythmia, dysmetria and intention tremor of the extremities.",
+      "Wolpert thinks that asymmetry may have evolved in the context of complex motor skills such as toolmaking because it permits cooperation rather than competition between the hemispheres."
     ],
-    "hash_code_list_definition_mean": "76024508"
+    "hash_code_list_example": "-405775050"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hen_cb_dmean_5000_it.json",
@@ -1949,25 +1420,16 @@
         "id_image": "hen_2853172"
       }
     ],
-    "hash_code_list_img": "-1124005548",
-    "list_definition_mean": [
-      {
-        "mean_english": "gà mái",
-        "definition": "the female farmyard fowl",
-        "ex_of_definition_list": [
-          "Hens lay eggs."
-        ]
-      },
-      {
-        "mean_english": "chim mái",
-        "definition": "the female of any bird",
-        "ex_of_definition_list": [
-          "The hen is sitting on the nest",
-          "(also adjective) a hen blackbird."
-        ]
-      }
+    "hash_code_list_img": "-19390101",
+    "list_example": [
+      "The hen is sitting on the nest",
+      "(also adjective) a hen blackbird.",
+      "Subsequently, a protein kinase is activated which t hen phosphorylates membrane proteins involved in active ion transport.",
+      "Simulation of the thermal denaturation of hen egg white lysozyme : trapping the molten globule state.",
+      "Computational approaches to study protein unfolding : hen egg white lysozyme as a case study.",
+      "Why else would they ask the foxes to inspect the hen house?"
     ],
-    "hash_code_list_definition_mean": "1191626877"
+    "hash_code_list_example": "262107790"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/herbal_cb_dmean_5000_it.json",
@@ -2000,17 +1462,19 @@
         "id_image": "herbal_4061407"
       }
     ],
-    "hash_code_list_img": "1547892195",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc thảo dược",
-        "definition": "of herbs, especially herbs used to make medicines",
-        "ex_of_definition_list": [
-          "a herbal remedy."
-        ]
-      }
+    "hash_code_list_img": "423707829",
+    "list_example": [
+      "a herbal remedy.",
+      "Usually the procedure is repeated for several days and sometimes herbal drinks are given afterwards.",
+      "In an age when access to physicians was not possible for most people, women often kept ' receipt books ' of popular remedies and herbal cures.",
+      "The world of herbal medicine has recently suffered a plethora of books that are hardly worth the paper they are printed on.",
+      "Since conventional therapy is often of limited help, fatigued patients may use herbal treatments.",
+      "Since it deals with herbal medicine, it describes actions performed on plants.",
+      "Most doctors are aware that herbal medicines have experienced a remarkable revival.",
+      "Table 1 summarizes the evidence for acupuncture, homoeopathy, spinal manipulation and a herbal remedy used in depression.",
+      "There may also be a synergistic relationship between self-care and use of herbal remedies that would warrant further investigation."
     ],
-    "hash_code_list_definition_mean": "555334056"
+    "hash_code_list_example": "2103878698"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/herb_cb_dmean_5000_it.json",
@@ -2038,17 +1502,12 @@
         "id_image": "herb_1902982"
       }
     ],
-    "hash_code_list_img": "1146475419",
-    "list_definition_mean": [
-      {
-        "mean_english": "thảo dược",
-        "definition": "a usually small plant used to flavour/flavor food or to make medicines",
-        "ex_of_definition_list": [
-          "herbs and spices."
-        ]
-      }
+    "hash_code_list_img": "-1522313242",
+    "list_example": [
+      "The last situation is generally observable when re-sprouts are shaded, as under herb cover for instance.",
+      "There are now no fewer than 15 placebo-controlled studies of hypericum, and eight trials test the herb against standard antidepressants."
     ],
-    "hash_code_list_definition_mean": "1087393047"
+    "hash_code_list_example": "1002256460"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/heroin_cb_dmean_5000_it.json",
@@ -2076,17 +1535,11 @@
         "id_image": "heroin_4321678"
       }
     ],
-    "hash_code_list_img": "-550105901",
-    "list_definition_mean": [
-      {
-        "mean_english": "hêrôin",
-        "definition": "a drug obtained from opium",
-        "ex_of_definition_list": [
-          "He’s addicted to heroin."
-        ]
-      }
+    "hash_code_list_img": "1073918804",
+    "list_example": [
+      "He’s addicted to heroin."
     ],
-    "hash_code_list_definition_mean": "306678637"
+    "hash_code_list_example": "1384836360"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hero_cb_dmean_5000_it.json",
@@ -2115,24 +1568,12 @@
         "id_image": "hero_5765523"
       }
     ],
-    "hash_code_list_img": "1977585666",
-    "list_definition_mean": [
-      {
-        "mean_english": "anh hùng",
-        "definition": "a man or boy admired (by many people) for his brave deeds",
-        "ex_of_definition_list": [
-          "The boy was regarded as a hero for saving his friend’s life."
-        ]
-      },
-      {
-        "mean_english": "nhân vật nam chính",
-        "definition": "the chief male person in a story, play etc",
-        "ex_of_definition_list": [
-          "The hero of this book is a young American boy called Tom Sawyer."
-        ]
-      }
+    "hash_code_list_img": "550900973",
+    "list_example": [
+      "The boy was regarded as a hero for saving his friend’s life.",
+      "The hero of this book is a young American boy called Tom Sawyer."
     ],
-    "hash_code_list_definition_mean": "-178980291"
+    "hash_code_list_example": "-1821816967"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hidden_cb_dmean_5000_it.json",
@@ -2160,18 +1601,12 @@
         "id_image": "hidden_508273"
       }
     ],
-    "hash_code_list_img": "-652624914",
-    "list_definition_mean": [
-      {
-        "mean_english": "ẩn giấu",
-        "definition": "(made in such a way as to be) difficult to see or find",
-        "ex_of_definition_list": [
-          "a hidden door",
-          "a hidden meaning."
-        ]
-      }
+    "hash_code_list_img": "-937088838",
+    "list_example": [
+      "a hidden door",
+      "a hidden meaning."
     ],
-    "hash_code_list_definition_mean": "645994621"
+    "hash_code_list_example": "-100942076"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hide_cb_dmean_5000_it.json",
@@ -2206,28 +1641,12 @@
         "id_image": "hide_593517"
       }
     ],
-    "hash_code_list_img": "2130059503",
-    "list_definition_mean": [
-      {
-        "mean_english": "che giấu",
-        "definition": "to put (a person, thing etc) in a place where it cannot be seen or easily found",
-        "ex_of_definition_list": [
-          "I’ll hide the children’s presents",
-          "You hide, and I’ll come and look for you",
-          "She hid from her father",
-          "He tries to hide his feelings."
-        ]
-      },
-      {
-        "mean_english": "da sống",
-        "definition": "the skin of an animal",
-        "ex_of_definition_list": [
-          "He makes coats out of animal hides",
-          "cow-hide."
-        ]
-      }
+    "hash_code_list_img": "-1819239957",
+    "list_example": [
+      "I’ll hide the children’s presents",
+      "He tries to hide his feelings."
     ],
-    "hash_code_list_definition_mean": "1217292410"
+    "hash_code_list_example": "-851147803"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hierarchy_cb_dmean_5000_it.json",
@@ -2255,17 +1674,13 @@
         "id_image": "hierarchy_868864"
       }
     ],
-    "hash_code_list_img": "322005351",
-    "list_definition_mean": [
-      {
-        "mean_english": "hệ thống thứ bậc",
-        "definition": "(an) arrangement (of usually people in a group, also things etc) in order of rank, importance etc",
-        "ex_of_definition_list": [
-          "He was slowly working his way up the corporate hierarchy."
-        ]
-      }
+    "hash_code_list_img": "1295600285",
+    "list_example": [
+      "Returning to our original question, we must consider possible psychological mediators of hierarchy disruption.",
+      "Legalistic proportionality, political consensus, personal betrayal, cultural balkanization, and social hierarchy are underlying themes of both books.",
+      "Without really challenging hierarchy they still squeezed concessions out of village leaders, turning a weakness into strength."
     ],
-    "hash_code_list_definition_mean": "854875700"
+    "hash_code_list_example": "1507929663"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/highlight_cb_dmean_5000_it.json",
@@ -2294,24 +1709,11 @@
         "id_image": "highlight_5720922"
       }
     ],
-    "hash_code_list_img": "-1140677377",
-    "list_definition_mean": [
-      {
-        "mean_english": "điểm nổi bật nhất",
-        "definition": "the best or most memorable event, experience, part of something etc",
-        "ex_of_definition_list": [
-          "The highlight of our holiday was a trip to a waterfall."
-        ]
-      },
-      {
-        "mean_english": "làm nổi bật",
-        "definition": "to draw particular attention to (a person, thing etc)",
-        "ex_of_definition_list": [
-          "The article highlights the need to improve the city’s transport links."
-        ]
-      }
+    "hash_code_list_img": "-1036000714",
+    "list_example": [
+      "The highlight of our holiday was a trip to a waterfall."
     ],
-    "hash_code_list_definition_mean": "-1341923470"
+    "hash_code_list_example": "1415549284"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/high_cb_dmean_5000_it.json",
@@ -2343,90 +1745,27 @@
         "id_image": "high_213304"
       }
     ],
-    "hash_code_list_img": "-278231215",
-    "list_definition_mean": [
-      {
-        "mean_english": "cao",
-        "definition": "at, from, or reaching up to, a great distance from ground-level, sea-level etc",
-        "ex_of_definition_list": [
-          "a high mountain",
-          "a high dive",
-          "a dive from the high diving-board."
-        ]
-      },
-      {
-        "mean_english": "cao",
-        "definition": "having a particular height",
-        "ex_of_definition_list": [
-          "This building is about 20 metres high",
-          "My horse is fifteen hands high."
-        ]
-      },
-      {
-        "mean_english": "mạnh; dữ dội",
-        "definition": "great; large; considerable",
-        "ex_of_definition_list": [
-          "The car was travelling at high speed",
-          "He has a high opinion of her work",
-          "They charge high prices",
-          "high hopes",
-          "The child has a high fever/temperature."
-        ]
-      },
-      {
-        "mean_english": "quan trọng; cao cấp",
-        "definition": "most important; very important",
-        "ex_of_definition_list": [
-          "the high altar in a church",
-          "Important criminal trials are held at the High Court",
-          "a high official."
-        ]
-      },
-      {
-        "mean_english": "cao quý",
-        "definition": "noble; good",
-        "ex_of_definition_list": [
-          "high ideals."
-        ]
-      },
-      {
-        "mean_english": "mạnh",
-        "definition": "(of a wind) strong",
-        "ex_of_definition_list": [
-          "The wind is high tonight."
-        ]
-      },
-      {
-        "mean_english": "nốt cao",
-        "definition": "(of sounds) at or towards the top of a (musical) range",
-        "ex_of_definition_list": [
-          "a high note."
-        ]
-      },
-      {
-        "mean_english": "giọng nói trong trẻo",
-        "definition": "(of voices) like a child’s voice (rather than like a man’s)",
-        "ex_of_definition_list": [
-          "He still speaks in a high voice."
-        ]
-      },
-      {
-        "mean_english": "có giá trị lớn",
-        "definition": "having great value",
-        "ex_of_definition_list": [
-          "Aces and kings are high cards."
-        ]
-      },
-      {
-        "mean_english": "cao; ở mức độ cao",
-        "definition": "at, or to, a great distance from ground-level, sea-level etc",
-        "ex_of_definition_list": [
-          "The plane was flying high in the sky",
-          "He’ll rise high in his profession."
-        ]
-      }
+    "hash_code_list_img": "137759122",
+    "list_example": [
+      "a high mountain",
+      "a high dive",
+      "a dive from the high diving-board.",
+      "The car was travelling at high speed",
+      "He has a high opinion of her work",
+      "They charge high prices",
+      "high hopes",
+      "The child has a high fever/temperature.",
+      "the high altar in a church",
+      "a high official.",
+      "high ideals.",
+      "The wind is high tonight.",
+      "a high note.",
+      "He still speaks in a high voice.",
+      "Aces and kings are high cards.",
+      "The plane was flying high in the sky",
+      "He’ll rise high in his profession."
     ],
-    "hash_code_list_definition_mean": "-847681410"
+    "hash_code_list_example": "69319712"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hijack_cb_dmean_5000_it.json",
@@ -2447,38 +1786,11 @@
         "id_image": "hijack_3067919"
       }
     ],
-    "hash_code_list_img": "1025587786",
-    "list_definition_mean": [
-      {
-        "mean_english": "không tặc",
-        "definition": "to take control of (an aeroplane/airplane) while it is moving and force the pilot to fly to a particular place",
-        "ex_of_definition_list": [
-          "The plane was hijacked by terrorists."
-        ]
-      },
-      {
-        "mean_english": "cướp xe cộ",
-        "definition": "to stop and rob (a vehicle)",
-        "ex_of_definition_list": [
-          "Thieves hijacked a lorry carrying $20,000 worth of whisky."
-        ]
-      },
-      {
-        "mean_english": "cướp (hàng hoá) trên xe cộ",
-        "definition": "to steal (something) from a vehicle",
-        "ex_of_definition_list": [
-          "Thieves hijacked $20,000 worth of whisky from a lorry."
-        ]
-      },
-      {
-        "mean_english": "vụ không tặc",
-        "definition": "the act of hijacking",
-        "ex_of_definition_list": [
-          "The hijack ended and the hostages were released."
-        ]
-      }
+    "hash_code_list_img": "1186076241",
+    "list_example": [
+      "The hijack ended and the hostages were released."
     ],
-    "hash_code_list_definition_mean": "1391639410"
+    "hash_code_list_example": "-283622586"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hike_cb_dmean_5000_it.json",
@@ -2502,24 +1814,16 @@
         "id_image": "hike_3729796"
       }
     ],
-    "hash_code_list_img": "-1202977724",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuộc đi bộ",
-        "definition": "a long walk, usually in the country",
-        "ex_of_definition_list": [
-          "a twenty-mile hike."
-        ]
-      },
-      {
-        "mean_english": "đi bộ",
-        "definition": "to go on a hike or hikes",
-        "ex_of_definition_list": [
-          "He has hiked all over Britain."
-        ]
-      }
+    "hash_code_list_img": "522890420",
+    "list_example": [
+      "a twenty-mile hike.",
+      "He has hiked all over Britain.",
+      "Many cannot switch to shorter leases and face tax hikes of four and 10 times the present level.",
+      "Throughout the post-war years such moderate wage hikes as the workers obtained set the patrons clamouring for higher prices; grudging price rises encouraged the workers to press for higher wages.",
+      "The low long-term oil price—recent but temporary hikes notwithstanding—is also a major contributor.",
+      "Business taxation should not be hiked up separately from the council tax, but there might be some flexibility between the two."
     ],
-    "hash_code_list_definition_mean": "1046351392"
+    "hash_code_list_example": "1644978396"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hill_cb_dmean_5000_it.json",
@@ -2553,23 +1857,19 @@
         "id_image": "hill_721124"
       }
     ],
-    "hash_code_list_img": "-449556030",
-    "list_definition_mean": [
-      {
-        "mean_english": "đồi",
-        "definition": "a piece of high land, smaller than a mountain",
-        "ex_of_definition_list": [
-          "We went for a walk in the hills yesterday."
-        ]
-      },
-      {
-        "mean_english": "dốc",
-        "definition": "a slope on a road",
-        "ex_of_definition_list": [
-          "This car has difficulty going up steep hills."
-        ]
-      }
+    "hash_code_list_img": "-498792320",
+    "list_example": [
+      "We went for a walk in the hills yesterday.",
+      "This car has difficulty going up steep hills.",
+      "The cultivation of cider apples is of great importance and where the hills are not covered with woods, they are planted with apples.",
+      "Lower side of hills, e dges o f rivers, and c reeks.",
+      "Arranged in concentric rings that often shared long retaining walls, the majority of terraces were densely packed on the hill's western face.",
+      "Emergence was assessed 30 days after planting and expressed as the proportion of planted hills with a seedling.",
+      "The mountain at the core had to be dotted with caves and springs, and sometimes surrounded by smaller hills.",
+      "Effects of demographic and related microeconomic change on land quality in hills and mountains of developing countries.",
+      "There are neither hills nor coastline to relate to.",
+      "Road disturbances have the characteristics of large magnitudes at low frequency (such as hills) and small magnitudes at high frequency (such as road roughness)."
     ],
-    "hash_code_list_definition_mean": "-1395024102"
+    "hash_code_list_example": "-594281491"
   }
 ]

@@ -26,25 +26,19 @@
         "id_image": "rotten_5671101"
       }
     ],
-    "hash_code_list_img": "1407514945",
-    "list_definition_mean": [
-      {
-        "mean_english": "thiu; ươn",
-        "definition": "(of meat, fruit etc) having gone bad; decayed",
-        "ex_of_definition_list": [
-          "rotten vegetables."
-        ]
-      },
-      {
-        "mean_english": "tồi tệ",
-        "definition": "bad; mean",
-        "ex_of_definition_list": [
-          "What rotten luck!",
-          "It was a rotten thing to do."
-        ]
-      }
+    "hash_code_list_img": "-993864439",
+    "list_example": [
+      "rotten vegetables.",
+      "What rotten luck!",
+      "It was a rotten thing to do.",
+      "Why tropical trees have rotten cores.",
+      "Perhaps they were, but the truth is that she put forward a rotten policy.",
+      "There are rotten apples in almost every barrel one cares to look into.",
+      "There is no comparable country in the world, with such an advantageous climate, that makes such a rotten and pathetic contribution to its forestry needs.",
+      "Others may develop internally rotten areas.",
+      "In addition, frugivorous butterflies feed obligately on ripe and rotten fruit, and therefore can be efficiently censused using the bait-trapping method (see below)."
     ],
-    "hash_code_list_definition_mean": "1041417128"
+    "hash_code_list_example": "-443496593"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/roundabout_cb_dmean_5000_it.json",
@@ -74,17 +68,15 @@
         "id_image": "roundabout_3752004"
       }
     ],
-    "hash_code_list_img": "2012728470",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc vòng",
-        "definition": "not direct",
-        "ex_of_definition_list": [
-          "a roundabout route."
-        ]
-      }
+    "hash_code_list_img": "-2033652072",
+    "list_example": [
+      "a roundabout route.",
+      "Thus, repress the instantaneous motions of merriment may be seen as a roundabout and obscure way of saying stop laughing.",
+      "I appreciate that the amendment is a roundabout way of meeting our argument.",
+      "The ten essays together manage to achieve most of these objectives, albeit sometimes in a roundabout and discursive way.",
+      "They have wanted war, they have been waging it upon us for three years, but in a clandestine, hypocritical, roundabout manner."
     ],
-    "hash_code_list_definition_mean": "1805445058"
+    "hash_code_list_example": "1433946170"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/round_cb_dmean_5000_it.json",
@@ -130,144 +122,25 @@
         "id_image": "round_6006261"
       }
     ],
-    "hash_code_list_img": "1956752440",
-    "list_definition_mean": [
-      {
-        "mean_english": "tròn",
-        "definition": "shaped like a circle or globe",
-        "ex_of_definition_list": [
-          "a round hole",
-          "a round stone",
-          "This plate isn’t quite round."
-        ]
-      },
-      {
-        "mean_english": "bụ bẫm",
-        "definition": "rather fat; plump",
-        "ex_of_definition_list": [
-          "a round face."
-        ]
-      },
-      {
-        "mean_english": "theo chiều ngược lại",
-        "definition": "in the opposite direction",
-        "ex_of_definition_list": [
-          "He turned round."
-        ]
-      },
-      {
-        "mean_english": "vòng tròn",
-        "definition": "in a circle",
-        "ex_of_definition_list": [
-          "They all stood round and listened",
-          "A wheel goes round",
-          "All (the) year round."
-        ]
-      },
-      {
-        "mean_english": "theo vòng tròn",
-        "definition": "from one person to another",
-        "ex_of_definition_list": [
-          "They passed the letter round",
-          "The news went round."
-        ]
-      },
-      {
-        "mean_english": "đi một vòng",
-        "definition": "from place to place",
-        "ex_of_definition_list": [
-          "We drove round for a while."
-        ]
-      },
-      {
-        "mean_english": "chu vi",
-        "definition": "in circumference",
-        "ex_of_definition_list": [
-          "The tree measured two metres round."
-        ]
-      },
-      {
-        "mean_english": "tới thăm một gia đình",
-        "definition": "to a particular place, usually a person’s home",
-        "ex_of_definition_list": [
-          "Are you coming round (to our house) tonight?"
-        ]
-      },
-      {
-        "mean_english": "xung quanh",
-        "definition": "on all sides of",
-        "ex_of_definition_list": [
-          "There was a wall round the garden",
-          "He looked round the room."
-        ]
-      },
-      {
-        "mean_english": "vòng quanh",
-        "definition": "passing all sides of (and returning to the starting-place)",
-        "ex_of_definition_list": [
-          "They ran round the tree."
-        ]
-      },
-      {
-        "mean_english": "hướng về",
-        "definition": "changing direction at",
-        "ex_of_definition_list": [
-          "He came round the corner."
-        ]
-      },
-      {
-        "mean_english": "khắp nơi",
-        "definition": "in or to all parts of",
-        "ex_of_definition_list": [
-          "The news spread all round the town."
-        ]
-      },
-      {
-        "mean_english": "sự quay vòng",
-        "definition": "a complete circuit",
-        "ex_of_definition_list": [
-          "a round of drinks (= one for everyone present)",
-          "a round of golf."
-        ]
-      },
-      {
-        "mean_english": "chuyến đi",
-        "definition": "a regular journey one takes to do one’s work",
-        "ex_of_definition_list": [
-          "a postman’s round."
-        ]
-      },
-      {
-        "mean_english": "sự tán thưởng",
-        "definition": "a burst of cheering, shooting etc",
-        "ex_of_definition_list": [
-          "They gave him a round of applause",
-          "The soldier fired several rounds."
-        ]
-      },
-      {
-        "mean_english": "viên đạn",
-        "definition": "a single bullet, shell etc",
-        "ex_of_definition_list": [
-          "five hundred rounds of ammunition."
-        ]
-      },
-      {
-        "mean_english": "vòng thi đấu",
-        "definition": "a stage in a competition etc",
-        "ex_of_definition_list": [
-          "The winners of the first round will go through to the next."
-        ]
-      },
-      {
-        "mean_english": "đi vòng quanh",
-        "definition": "to go round",
-        "ex_of_definition_list": [
-          "The car rounded the corner."
-        ]
-      }
+    "hash_code_list_img": "-1479794718",
+    "list_example": [
+      "a round hole",
+      "a round stone",
+      "a round face.",
+      "They all stood round and listened",
+      "We drove round for a while.",
+      "Are you coming round (to our house) tonight?",
+      "There was a wall round the garden",
+      "He looked round the room.",
+      "They ran round the tree.",
+      "He came round the corner.",
+      "The news spread all round the town.",
+      "a round of drinks (= one for everyone present)",
+      "a round of golf.",
+      "They gave him a round of applause",
+      "The winners of the first round will go through to the next."
     ],
-    "hash_code_list_definition_mean": "-734308145"
+    "hash_code_list_example": "1873183544"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/router_cb_dmean_5000_it.json",
@@ -295,17 +168,13 @@
         "id_image": "router_741374"
       }
     ],
-    "hash_code_list_img": "-1842905225",
-    "list_definition_mean": [
-      {
-        "mean_english": "bộ định tuyến",
-        "definition": "an electronic device that enables packets of data to be moved between computers or computer networks in an efficient way",
-        "ex_of_definition_list": [
-          "The router will choose the best route for the data packet so that you receive the information quickly."
-        ]
-      }
+    "hash_code_list_img": "1462167459",
+    "list_example": [
+      "The router will choose the best route for the data packet so that you receive the information quickly.",
+      "The mechanism can be used with a router to cut ellipses from board material.",
+      "This left one router to carry all traffic."
     ],
-    "hash_code_list_definition_mean": "43426671"
+    "hash_code_list_example": "-915827427"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/route_cb_dmean_5000_it.json",
@@ -339,24 +208,11 @@
         "id_image": "route_3579797"
       }
     ],
-    "hash_code_list_img": "-619298247",
-    "list_definition_mean": [
-      {
-        "mean_english": "lộ trình",
-        "definition": "a way of getting somewhere; a road",
-        "ex_of_definition_list": [
-          "Our route took us through the mountains."
-        ]
-      },
-      {
-        "mean_english": "theo lộ trình",
-        "definition": "to arrange a route for",
-        "ex_of_definition_list": [
-          "Heavy traffic was routed round the outside of the town."
-        ]
-      }
+    "hash_code_list_img": "-310470459",
+    "list_example": [
+      "Our route took us through the mountains."
     ],
-    "hash_code_list_definition_mean": "-1812016936"
+    "hash_code_list_example": "-1399696651"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/routine_cb_dmean_5000_it.json",
@@ -385,25 +241,12 @@
         "id_image": "routine_5775316"
       }
     ],
-    "hash_code_list_img": "1335523696",
-    "list_definition_mean": [
-      {
-        "mean_english": "thói quen",
-        "definition": "a regular, fixed way of doing things",
-        "ex_of_definition_list": [
-          "her daily routine",
-          "Everyone needs some routine in their lives."
-        ]
-      },
-      {
-        "mean_english": "thường xuyên",
-        "definition": "regular; ordinary",
-        "ex_of_definition_list": [
-          "routine work."
-        ]
-      }
+    "hash_code_list_img": "690448325",
+    "list_example": [
+      "Everyone needs some routine in their lives.",
+      "routine work."
     ],
-    "hash_code_list_definition_mean": "1253136726"
+    "hash_code_list_example": "1920060458"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/row_cb_dmean_5000_it.json",
@@ -436,55 +279,14 @@
         "id_image": "row_708627"
       }
     ],
-    "hash_code_list_img": "-656532455",
-    "list_definition_mean": [
-      {
-        "mean_english": "hàng; dãy",
-        "definition": "a line",
-        "ex_of_definition_list": [
-          "two rows of houses",
-          "They were sitting in a row",
-          "They sat in the front row in the theatre."
-        ]
-      },
-      {
-        "mean_english": "chèo thuyền",
-        "definition": "to move (a boat) through the water using oars",
-        "ex_of_definition_list": [
-          "He rowed (the dinghy) up the river."
-        ]
-      },
-      {
-        "mean_english": "chèo thuyền chở khách",
-        "definition": "to transport by rowing",
-        "ex_of_definition_list": [
-          "He rowed them across the lake."
-        ]
-      },
-      {
-        "mean_english": "chuyến đi bằng thuyền",
-        "definition": "a trip in a rowing-boat",
-        "ex_of_definition_list": [
-          "They went for a row on the river."
-        ]
-      },
-      {
-        "mean_english": "cuộc cãi vã",
-        "definition": "a noisy quarrel",
-        "ex_of_definition_list": [
-          "They had a terrible row",
-          "a family row."
-        ]
-      },
-      {
-        "mean_english": "sự huyên náo",
-        "definition": "a continuous loud noise",
-        "ex_of_definition_list": [
-          "They heard a row in the street."
-        ]
-      }
+    "hash_code_list_img": "1565432406",
+    "list_example": [
+      "They sat in the front row in the theatre.",
+      "They went for a row on the river.",
+      "They heard a row in the street.",
+      "Within minutes, seven men, several dressed in suits and ties, marched in, one by one, and stood in a row behind us."
     ],
-    "hash_code_list_definition_mean": "761173385"
+    "hash_code_list_example": "1093863523"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/royalty_cb_dmean_5000_it.json",
@@ -503,24 +305,11 @@
         "id_image": "royalty_2653360"
       }
     ],
-    "hash_code_list_img": "2136672581",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhuận bút",
-        "definition": "a payment made to a writer, recording artist etc for every book, record etc sold",
-        "ex_of_definition_list": [
-          "songwriting royalties."
-        ]
-      },
-      {
-        "mean_english": "hoàng tộc",
-        "definition": "the state of being royal, or royal people in general",
-        "ex_of_definition_list": [
-          "The commands of royalty must be obeyed."
-        ]
-      }
+    "hash_code_list_img": "1446220548",
+    "list_example": [
+      "The commands of royalty must be obeyed."
     ],
-    "hash_code_list_definition_mean": "-930469932"
+    "hash_code_list_example": "-548335443"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/royal_cb_dmean_5000_it.json",
@@ -550,25 +339,20 @@
         "id_image": "royal_2653375"
       }
     ],
-    "hash_code_list_img": "-957412498",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc hoàng gia",
-        "definition": "of, concerning etc a king, queen etc",
-        "ex_of_definition_list": [
-          "the royal family",
-          "His Royal Highness Prince Charles."
-        ]
-      },
-      {
-        "mean_english": "nguy nga",
-        "definition": "magnificent",
-        "ex_of_definition_list": [
-          "a royal feast."
-        ]
-      }
+    "hash_code_list_img": "-2071344732",
+    "list_example": [
+      "the royal family",
+      "a royal feast.",
+      "Additionally, however, these structures would have made powerful symbolic statements about royal power and authority.",
+      "The initial royal complex was composed of three architectural groups begun shortly after a. d. 400.",
+      "But the \"manufacture,\" privileged by the state institutions, need not be afraid of competition, for it relies on royal subsidies, import restrictions, and monopolistic privileges.",
+      "Acting as political hostesses was one way in which royal wives could make their mark.",
+      "The religious law persists only through royal authority.",
+      "News of royal displeasure could cause alarm, but usually the king sought consensus, through negotiation and discussion, and achieved it.",
+      "As such, the spatializing and performative rhetorical acts such as state ceremonies, urban spectacles, sacrificial rituals and royal hunts must be included in this definition.",
+      "The king's advisers ordinarily suggested one to two years from the time the royal pardon was published."
     ],
-    "hash_code_list_definition_mean": "-1350239851"
+    "hash_code_list_example": "80822218"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/rubber_cb_dmean_5000_it.json",
@@ -604,25 +388,11 @@
         "id_image": "rubber_5848636"
       }
     ],
-    "hash_code_list_img": "1301914249",
-    "list_definition_mean": [
-      {
-        "mean_english": "cao su",
-        "definition": "(also adjective) (of) a strong elastic substance made from the juice of certain plants (especially the rubber tree), or an artificial substitute for this",
-        "ex_of_definition_list": [
-          "Tyres are made of rubber",
-          "rubber boots."
-        ]
-      },
-      {
-        "mean_english": "cái tẩy",
-        "definition": "a piece of rubber used to rub out pencil etc marks; eraser American",
-        "ex_of_definition_list": [
-          "a pencil, a ruler and a rubber."
-        ]
-      }
+    "hash_code_list_img": "-1161066437",
+    "list_example": [
+      "rubber boots."
     ],
-    "hash_code_list_definition_mean": "2021486481"
+    "hash_code_list_example": "1238087964"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/rubbish_cb_dmean_5000_it.json",
@@ -651,25 +421,16 @@
         "id_image": "rubbish_5848282"
       }
     ],
-    "hash_code_list_img": "-197643630",
-    "list_definition_mean": [
-      {
-        "mean_english": "rác",
-        "definition": "waste material; things that have been or are to be thrown away",
-        "ex_of_definition_list": [
-          "Our rubbish is taken away twice a week",
-          "(also adjective) a rubbish bin/bag."
-        ]
-      },
-      {
-        "mean_english": "những điều vô nghĩa",
-        "definition": "nonsense",
-        "ex_of_definition_list": [
-          "Don’t talk rubbish!"
-        ]
-      }
+    "hash_code_list_img": "-1363400152",
+    "list_example": [
+      "Our rubbish is taken away twice a week",
+      "(also adjective) a rubbish bin/bag.",
+      "And energy recovered from the heterogeneous fuel of rubbish struggles to be economically competitive.",
+      "Experts argued that reuse and utilization of rubbish were ineffective and unhygienic methods of waste disposal.",
+      "Until the 1910s, the rubbish carts did not travel far.",
+      "Put another way, primary deposits such as floors and uncontaminated rubbish middens are comparatively rare."
     ],
-    "hash_code_list_definition_mean": "-1599840008"
+    "hash_code_list_example": "-2055367570"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/ruby_cb_dmean_5000_it.json",
@@ -693,25 +454,14 @@
         "id_image": "ruby_492063"
       }
     ],
-    "hash_code_list_img": "-910318673",
-    "list_definition_mean": [
-      {
-        "mean_english": "hồng ngọc",
-        "definition": "a kind of deep red precious stone",
-        "ex_of_definition_list": [
-          "a ring set with rubies",
-          "(also adjective) a ruby necklace."
-        ]
-      },
-      {
-        "mean_english": "đỏ sẫm",
-        "definition": "(also adjective) (of) its colour/color",
-        "ex_of_definition_list": [
-          "a ruby dress."
-        ]
-      }
+    "hash_code_list_img": "-210249839",
+    "list_example": [
+      "(also adjective) a ruby necklace.",
+      "a ruby dress.",
+      "She has eyes of shining emeralds and ruby red plump lips.",
+      "In the middle of each bar, a large cabochon-cut balas ruby was placed, surrounded by four emeralds forming a square cross."
     ],
-    "hash_code_list_definition_mean": "191488790"
+    "hash_code_list_example": "1135824119"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/rugby_cb_dmean_5000_it.json",
@@ -734,18 +484,18 @@
         "id_image": "rugby_4645886"
       }
     ],
-    "hash_code_list_img": "1890287081",
-    "list_definition_mean": [
-      {
-        "mean_english": "môn bóng bầu dục",
-        "definition": "(also rugby football",
-        "ex_of_definition_list": [
-          "abbreviation ruggerˈragə) a kind of football using an oval ball which can be carried.",
-          "(also adjective) a rugby ball/player/match."
-        ]
-      }
+    "hash_code_list_img": "233467067",
+    "list_example": [
+      "(also adjective) a rugby ball/player/match.",
+      "A sample survey was done on rugby players, asking them about the latest change in the laws.",
+      "Like rugby teams grappling in a scrum, the parties engaged in a struggle for dominance.",
+      "That sort of thing is going on all over the country at rugby and football games.",
+      "Once it was over, rugby league barely mentioned the war.",
+      "I felt that the real trouble was that he was playing rugby and could not therefore understand the rules of either game.",
+      "The value of sport as a binding agent (and the continued performance of the haka in rugby games) has been challenged in recent years.",
+      "In fact, rugby of whatever code occupied a distant second place compared to the popularity of soccer with troops on active service."
     ],
-    "hash_code_list_definition_mean": "1736800831"
+    "hash_code_list_example": "332893726"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/ruin_cb_dmean_5000_it.json",
@@ -772,45 +522,11 @@
         "id_image": "ruin_1594699"
       }
     ],
-    "hash_code_list_img": "1222996026",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự đổ nát",
-        "definition": "a broken, collapsed or decayed state",
-        "ex_of_definition_list": [
-          "The civil war led to the ruin of the city."
-        ]
-      },
-      {
-        "mean_english": "nguyên nhân thất bại",
-        "definition": "a cause of collapse, decay etc",
-        "ex_of_definition_list": [
-          "Drink was his ruin."
-        ]
-      },
-      {
-        "mean_english": "phá sản",
-        "definition": "financial disaster; complete loss of money",
-        "ex_of_definition_list": [
-          "The company is facing ruin."
-        ]
-      },
-      {
-        "mean_english": "làm tiêu tan",
-        "definition": "to cause ruin to",
-        "ex_of_definition_list": [
-          "The scandal ruined his career."
-        ]
-      },
-      {
-        "mean_english": "làm hư hỏng",
-        "definition": "to spoil; to treat too indulgently",
-        "ex_of_definition_list": [
-          "You are ruining that child!"
-        ]
-      }
+    "hash_code_list_img": "80894798",
+    "list_example": [
+      "The civil war led to the ruin of the city."
     ],
-    "hash_code_list_definition_mean": "-42286762"
+    "hash_code_list_example": "1280573271"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/ruler_cb_dmean_5000_it.json",
@@ -834,24 +550,11 @@
         "id_image": "ruler_252500"
       }
     ],
-    "hash_code_list_img": "1868683075",
-    "list_definition_mean": [
-      {
-        "mean_english": "người cai trị",
-        "definition": "a person who governs",
-        "ex_of_definition_list": [
-          "the ruler of the state."
-        ]
-      },
-      {
-        "mean_english": "thước kẻ",
-        "definition": "a long narrow piece of wood, plastic etc for drawing straight lines",
-        "ex_of_definition_list": [
-          "I can’t draw straight lines without a ruler."
-        ]
-      }
+    "hash_code_list_img": "-677440881",
+    "list_example": [
+      "the ruler of the state."
     ],
-    "hash_code_list_definition_mean": "357662622"
+    "hash_code_list_example": "1279251067"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/rule_cb_dmean_5000_it.json",
@@ -886,66 +589,17 @@
         "id_image": "rule_645751"
       }
     ],
-    "hash_code_list_img": "1013764514",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự thống trị",
-        "definition": "government",
-        "ex_of_definition_list": [
-          "The country was under foreign rule for nearly thirty years."
-        ]
-      },
-      {
-        "mean_english": "quy tắc",
-        "definition": "a regulation or order",
-        "ex_of_definition_list": [
-          "school rules."
-        ]
-      },
-      {
-        "mean_english": "lệ thường",
-        "definition": "what usually happens or is done; a general principle",
-        "ex_of_definition_list": [
-          "He is an exception to the rule that fat people are usually happy."
-        ]
-      },
-      {
-        "mean_english": "nguyên tắc",
-        "definition": "a general standard that guides one’s actions",
-        "ex_of_definition_list": [
-          "I make it a rule never to be late for appointments."
-        ]
-      },
-      {
-        "mean_english": "thước đo",
-        "definition": "a marked strip of wood, metal etc for measuring",
-        "ex_of_definition_list": [
-          "He measured the windows with a rule."
-        ]
-      },
-      {
-        "mean_english": "cai trị",
-        "definition": "to govern",
-        "ex_of_definition_list": [
-          "The king ruled (the people) wisely."
-        ]
-      },
-      {
-        "mean_english": "phán quyết",
-        "definition": "to decide officially",
-        "ex_of_definition_list": [
-          "The judge ruled that the witness should be heard."
-        ]
-      },
-      {
-        "mean_english": "kẻ dòng",
-        "definition": "to draw (a straight line)",
-        "ex_of_definition_list": [
-          "He ruled a line across the page."
-        ]
-      }
+    "hash_code_list_img": "704528231",
+    "list_example": [
+      "The country was under foreign rule for nearly thirty years.",
+      "He is an exception to the rule that fat people are usually happy.",
+      "I make it a rule never to be late for appointments.",
+      "Disjunctive logic programs are characterised by permitting disjunctions in rule heads.",
+      "Regularity means, in a strict sense, accountability by a symbolic rule or a recurrent pattern.",
+      "If a rule with such a \"compound\" body is not redundant it might be so in part.",
+      "We developed a diagnostic decision rule for the indication of a lumbar puncture and empirical treatment for bacterial meningitis (9;10)."
     ],
-    "hash_code_list_definition_mean": "440840173"
+    "hash_code_list_example": "-271782151"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/rum_cb_dmean_5000_it.json",
@@ -973,17 +627,16 @@
         "id_image": "rum_920565"
       }
     ],
-    "hash_code_list_img": "-1606906375",
-    "list_definition_mean": [
-      {
-        "mean_english": "rượu rom",
-        "definition": "a type of alcoholic drink, a spirit made from sugar cane",
-        "ex_of_definition_list": [
-          "a bottle of rum."
-        ]
-      }
+    "hash_code_list_img": "1179763535",
+    "list_example": [
+      "This goes for instance for rum and tobacco.",
+      "Production and trade aspects are effectively combined with the social history of rum consumption.",
+      "I think you would do that if you gave the men a fair amount of money for the rum they did not take up.",
+      "They have hitherto got the rum automatically, and alternatively had to ask for the money allowance.",
+      "The timing of the phasing out of the restrictions will be a matter for consultation with the rum interests.",
+      "The only reason for watering down rum to make \"grog\" is that it cannot be kept."
     ],
-    "hash_code_list_definition_mean": "1576706831"
+    "hash_code_list_example": "-759103504"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/runner_cb_dmean_5000_it.json",
@@ -1008,25 +661,13 @@
         "id_image": "runner_6040288"
       }
     ],
-    "hash_code_list_img": "613075577",
-    "list_definition_mean": [
-      {
-        "mean_english": "người chạy",
-        "definition": "a person who runs",
-        "ex_of_definition_list": [
-          "There are five runners in this race."
-        ]
-      },
-      {
-        "mean_english": "đường trượt",
-        "definition": "the long narrow part on which a sledge etc moves",
-        "ex_of_definition_list": [
-          "He polished the runners of the sledge",
-          "an ice-skate runner."
-        ]
-      }
+    "hash_code_list_img": "-325209970",
+    "list_example": [
+      "There are five runners in this race.",
+      "He polished the runners of the sledge",
+      "an ice-skate runner."
     ],
-    "hash_code_list_definition_mean": "-616395823"
+    "hash_code_list_example": "1156773280"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/runway_cb_dmean_5000_it.json",
@@ -1054,17 +695,19 @@
         "id_image": "runway_825958"
       }
     ],
-    "hash_code_list_img": "1868482395",
-    "list_definition_mean": [
-      {
-        "mean_english": "đường băng",
-        "definition": "a wide path from which aircraft take off and on which they land",
-        "ex_of_definition_list": [
-          "The plane landed on the runway."
-        ]
-      }
+    "hash_code_list_img": "-1380669904",
+    "list_example": [
+      "The plane landed on the runway.",
+      "The aircraft continue to go down the runways into the air.",
+      "They did not mean that an airport with two runways would be wanted then.",
+      "We ought to have had an assurance that the runways would be built and the houses demolished.",
+      "In order to accomplish this, two runways must be provided.",
+      "The runways were in existence at the end of the war.",
+      "Whatever else may be unclear, there is no doubt at all as to who is responsible for the runways, taxi-ways and airfield lighting.",
+      "As the ammunition which is there is stored on runways and other hard standings it does not affect the area available for farming.",
+      "However, without more runways, many of their proposals will remain undeliverable."
     ],
-    "hash_code_list_definition_mean": "253648804"
+    "hash_code_list_example": "-384993852"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/run_cb_dmean_5000_it.json",
@@ -1106,155 +749,22 @@
         "id_image": "run_599543"
       }
     ],
-    "hash_code_list_img": "-1840241782",
-    "list_definition_mean": [
-      {
-        "mean_english": "chạy",
-        "definition": "(of a person or animal) to move quickly, faster than walking",
-        "ex_of_definition_list": [
-          "He ran down the road."
-        ]
-      },
-      {
-        "mean_english": "hoạt động",
-        "definition": "to move smoothly",
-        "ex_of_definition_list": [
-          "Trains run on rails."
-        ]
-      },
-      {
-        "mean_english": "chảy",
-        "definition": "(of water etc) to flow",
-        "ex_of_definition_list": [
-          "Rivers run to the sea",
-          "The tap is running."
-        ]
-      },
-      {
-        "mean_english": "vận hành",
-        "definition": "(of a machine etc) to work or operate",
-        "ex_of_definition_list": [
-          "The engine is running",
-          "He ran the motor to see if it was working."
-        ]
-      },
-      {
-        "mean_english": "điều hành",
-        "definition": "to organize or manage",
-        "ex_of_definition_list": [
-          "He runs the business very efficiently."
-        ]
-      },
-      {
-        "mean_english": "chạy đua",
-        "definition": "to race",
-        "ex_of_definition_list": [
-          "Is your horse running this afternoon?"
-        ]
-      },
-      {
-        "mean_english": "chạy theo lộ trình",
-        "definition": "(of buses, trains etc) to travel regularly",
-        "ex_of_definition_list": [
-          "The buses run every half hour",
-          "The train is running late."
-        ]
-      },
-      {
-        "mean_english": "kéo dài",
-        "definition": "to last or continue; to go on",
-        "ex_of_definition_list": [
-          "The play ran for six weeks."
-        ]
-      },
-      {
-        "mean_english": "lái",
-        "definition": "to own and use, especially of cars",
-        "ex_of_definition_list": [
-          "He runs a Rolls Royce."
-        ]
-      },
-      {
-        "mean_english": "phai màu",
-        "definition": "(of colour/color) to spread",
-        "ex_of_definition_list": [
-          "When I washed my new dress the colour ran."
-        ]
-      },
-      {
-        "mean_english": "chở ai đi đâu; cho ai đi nhờ xe",
-        "definition": "to drive (someone); to give (someone) a lift",
-        "ex_of_definition_list": [
-          "He ran me to the station."
-        ]
-      },
-      {
-        "mean_english": "luồn, lướt",
-        "definition": "to move (something)",
-        "ex_of_definition_list": [
-          "She ran her fingers through his hair",
-          "He ran his eyes over the letter."
-        ]
-      },
-      {
-        "mean_english": "trở nên",
-        "definition": "(in certain phrases) to be or become",
-        "ex_of_definition_list": [
-          "The river ran dry",
-          "My blood ran cold (= I was afraid)."
-        ]
-      },
-      {
-        "mean_english": "sự chạy",
-        "definition": "the act of running",
-        "ex_of_definition_list": [
-          "He went for a run before breakfast."
-        ]
-      },
-      {
-        "mean_english": "cuộc tham quan",
-        "definition": "a trip or drive",
-        "ex_of_definition_list": [
-          "We went for a run in the country."
-        ]
-      },
-      {
-        "mean_english": "thời gian liên tục",
-        "definition": "a length of time (for which something continues)",
-        "ex_of_definition_list": [
-          "He’s had a run of bad luck."
-        ]
-      },
-      {
-        "mean_english": "kẽ hở ở bít tất",
-        "definition": "a ladder (in a stocking etc)",
-        "ex_of_definition_list": [
-          "I’ve got a run in my tights."
-        ]
-      },
-      {
-        "mean_english": "sự cho phép sử dụng",
-        "definition": "the free use (of a place)",
-        "ex_of_definition_list": [
-          "He gave me the run of his house."
-        ]
-      },
-      {
-        "mean_english": "ghi điểm trong môn crickit",
-        "definition": "in cricket, a batsman’s act of running from one end of the wicket to the other, representing a single score",
-        "ex_of_definition_list": [
-          "He scored/made 50 runs for his team."
-        ]
-      },
-      {
-        "mean_english": "sân nuôi gà, vịt; bãi rào kín",
-        "definition": "an enclosure or pen",
-        "ex_of_definition_list": [
-          "a chicken-run."
-        ]
-      }
+    "hash_code_list_img": "-2063331696",
+    "list_example": [
+      "Trains run on rails.",
+      "Rivers run to the sea",
+      "The buses run every half hour",
+      "He went for a run before breakfast.",
+      "We went for a run in the country.",
+      "He’s had a run of bad luck.",
+      "I’ve got a run in my tights.",
+      "He gave me the run of his house.",
+      "Many professors run their graduate 'masters' classes as offices in which the students work on their projects.",
+      "The reversal is supposed to start instantaneously and to run at exactly the same speed as the forward simulation.",
+      "The model is run under twelve different conditions - three initial parties and four initial parties, and within each of these six different informational conditions.",
+      "I'm trying to make things that invite people to interact with them and which will run by themselves."
     ],
-    "hash_code_list_definition_mean": "1751999377"
+    "hash_code_list_example": "-1636365249"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/rural_cb_dmean_5000_it.json",
@@ -1277,17 +787,16 @@
         "id_image": "rural_3038937"
       }
     ],
-    "hash_code_list_img": "-1652770918",
-    "list_definition_mean": [
-      {
-        "mean_english": "nông thôn",
-        "definition": "of the countryside",
-        "ex_of_definition_list": [
-          "a rural area."
-        ]
-      }
+    "hash_code_list_img": "-2004528585",
+    "list_example": [
+      "a rural area.",
+      "However, rural reform has not abolished such ruralism but replaced it with its own version.",
+      "In every chapter the narrative is given colour by local case studies from urban and rural congregations, brief vignettes of church leaders and telling incidents.",
+      "Significantly it identified a broader constituency for a rural policy.",
+      "In terms of recreation, culture, education, and even rural industries, the period was characterised as much by development and change as by stagnation and decline.",
+      "In short, \"the nation is an audience to be created by histories, poems, and pictures of a disappearing rural life\" (28)."
     ],
-    "hash_code_list_definition_mean": "1181708920"
+    "hash_code_list_example": "543148736"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/rust_cb_dmean_5000_it.json",
@@ -1316,25 +825,21 @@
         "id_image": "rust_5931427"
       }
     ],
-    "hash_code_list_img": "-866684793",
-    "list_definition_mean": [
-      {
-        "mean_english": "gỉ sắt",
-        "definition": "the reddish-brown substance which forms on iron and steel, caused by air and moisture",
-        "ex_of_definition_list": [
-          "The car was covered with rust."
-        ]
-      },
-      {
-        "mean_english": "làm han gỉ",
-        "definition": "to (cause to) become covered with rust",
-        "ex_of_definition_list": [
-          "The rain has rusted the gate",
-          "There’s a lot of old metal rusting in the garden."
-        ]
-      }
+    "hash_code_list_img": "-963086346",
+    "list_example": [
+      "The car was covered with rust.",
+      "The rain has rusted the gate",
+      "There’s a lot of old metal rusting in the garden.",
+      "During that time a great deal of the metal reinforcement will have rusted and the problem will be four or five times more expensive to correct.",
+      "The iron bar that runs through the concrete slab is often rusted or rotten.",
+      "By this time many of the ship's plates were rusting and her entire water distribution system had to be dismantled for cleaning in 1909.",
+      "Due to rusting, few iron objects have survived from this period.",
+      "In 1926 when the miners went back to work they found that their shovels, hammers and picks had rotted and rusted.",
+      "Expert engineers cannot give an opinion as to when all the mines will be rusted and no longer dangerous.",
+      "T rusts will be free to negotiate new contracts of employment with their staff enabling them to move away from national arrangements.",
+      "In contrast to leaf rust, a highly specialized, wind-borne pathogen with a shallow dispersal gradient, tan spot is residue-borne with a steep dispersal gradient69."
     ],
-    "hash_code_list_definition_mean": "703756109"
+    "hash_code_list_example": "-994228974"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sable_cb_dmean_5000_it.json",
@@ -1353,18 +858,16 @@
         "id_image": "sable_185751"
       }
     ],
-    "hash_code_list_img": "1048340178",
-    "list_definition_mean": [
-      {
-        "mean_english": "bút vẽ bằng lông chồn Zibêlin",
-        "definition": "its fur",
-        "ex_of_definition_list": [
-          "Artists’ brushes are sometimes made of sable",
-          "(also adjective) a sable coat."
-        ]
-      }
+    "hash_code_list_img": "1586917893",
+    "list_example": [
+      "(also adjective) a sable coat.",
+      "In the lower part is a sable anchor that symbolizes the port and the sea.",
+      "Occasionally, hunters also followed sable tracks to their burrows, around which they placed nets, and waited for the sable to emerge.",
+      "Their coat is long and either flat or slightly wavy, and ranges from fawn to dark sable and light to dark grey.",
+      "She just doesn't know how she can be seen if she isn't wearing a new sable coat.",
+      "Natural hair, squirrel, badger or sable are used by watercolorists due to their superior ability to absorb and hold water."
     ],
-    "hash_code_list_definition_mean": "1975888792"
+    "hash_code_list_example": "-791937513"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sachet_cb_dmean_5000_it.json",
@@ -1392,17 +895,13 @@
         "id_image": "sachet_4142980"
       }
     ],
-    "hash_code_list_img": "-2115106253",
-    "list_definition_mean": [
-      {
-        "mean_english": "bao, túi , gói",
-        "definition": "a (small) sealed packet containing a product in liquid or powder form",
-        "ex_of_definition_list": [
-          "a sachet of shampoo."
-        ]
-      }
+    "hash_code_list_img": "-228559907",
+    "list_example": [
+      "a sachet of shampoo.",
+      "For example, one sachet of shampoo might be bought on the occasion of a family wedding, and carefully shared out between the household's young women.",
+      "A single sachet was then retrieved at approximately monthly or bi-monthly intervals throughout the following year, when the number of seeds that remained viable but intact was quantified."
     ],
-    "hash_code_list_definition_mean": "1345286025"
+    "hash_code_list_example": "-276240673"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sack_cb_dmean_5000_it.json",
@@ -1436,24 +935,11 @@
         "id_image": "sack_6359685"
       }
     ],
-    "hash_code_list_img": "-439617703",
-    "list_definition_mean": [
-      {
-        "mean_english": "bao tải",
-        "definition": "a large bag of coarse cloth, strong paper or plastic",
-        "ex_of_definition_list": [
-          "The potatoes were put into sacks."
-        ]
-      },
-      {
-        "mean_english": "sa thải, cách chức",
-        "definition": "to dismiss (a person) from his job",
-        "ex_of_definition_list": [
-          "One of the workmen was sacked for drunkenness."
-        ]
-      }
+    "hash_code_list_img": "-524008555",
+    "list_example": [
+      "It could also be resolved by redesigning the sack changing mechanism."
     ],
-    "hash_code_list_definition_mean": "552274499"
+    "hash_code_list_example": "1689049492"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sacrament_cb_dmean_5000_it.json",
@@ -1471,17 +957,11 @@
         "id_image": "sacrament_280026"
       }
     ],
-    "hash_code_list_img": "1033155772",
-    "list_definition_mean": [
-      {
-        "mean_english": "lễ ban phước",
-        "definition": "in the Christian church, a ceremony regarded as especially sacred, eg marriage, or baptism",
-        "ex_of_definition_list": [
-          "a religious sacrament."
-        ]
-      }
+    "hash_code_list_img": "709613240",
+    "list_example": [
+      "a religious sacrament."
     ],
-    "hash_code_list_definition_mean": "1465333919"
+    "hash_code_list_example": "-911799857"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sacrifice_cb_dmean_5000_it.json",
@@ -1507,45 +987,19 @@
         "id_image": "sacrifice_5521294"
       }
     ],
-    "hash_code_list_img": "-1562673437",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự cúng tế, sự hi sinh",
-        "definition": "the act of offering something (eg an animal that is specially killed) to a god",
-        "ex_of_definition_list": [
-          "A lamb was offered in sacrifice."
-        ]
-      },
-      {
-        "mean_english": "sự hi sinh",
-        "definition": "the thing that is offered in this way",
-        "ex_of_definition_list": [
-          "A slaughtered lamb was offered as a sacrifice."
-        ]
-      },
-      {
-        "mean_english": "sự hi sinh",
-        "definition": "something of value given away or up in order to gain something more important or to benefit another person",
-        "ex_of_definition_list": [
-          "His parents made sacrifices to pay for his education."
-        ]
-      },
-      {
-        "mean_english": "cúng",
-        "definition": "to offer as a sacrifice",
-        "ex_of_definition_list": [
-          "He sacrificed a sheep in the temple."
-        ]
-      },
-      {
-        "mean_english": "hi sinh",
-        "definition": "to give away etc for the sake of something or someone else",
-        "ex_of_definition_list": [
-          "He sacrificed his life trying to save the children from the burning house."
-        ]
-      }
+    "hash_code_list_img": "-141053066",
+    "list_example": [
+      "A lamb was offered in sacrifice.",
+      "A slaughtered lamb was offered as a sacrifice.",
+      "His parents made sacrifices to pay for his education.",
+      "He sacrificed a sheep in the temple.",
+      "He sacrificed his life trying to save the children from the burning house.",
+      "Ridgeologists consider this position unsci atific on the ground that it sacrifices knowledge for the sake of certainty.",
+      "Utilitarianism does not, therefore, do justice to what is lost for the individual who sacrifices her own nonmoral commitments.",
+      "However, perhaps he sacrifices too much by going along with the assumption that ' religious ' experiences occurring in the context of brain pathology are unreliable.",
+      "Excepting perhaps the fetuses that are aborted as a result of such a program, no one would be asked to make sacrifices."
     ],
-    "hash_code_list_definition_mean": "891805455"
+    "hash_code_list_example": "-2049925592"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/saddle_cb_dmean_5000_it.json",
@@ -1569,24 +1023,11 @@
         "id_image": "saddle_878991"
       }
     ],
-    "hash_code_list_img": "-1061764629",
-    "list_definition_mean": [
-      {
-        "mean_english": "yên ngựa, yên xe",
-        "definition": "a seat for a rider",
-        "ex_of_definition_list": [
-          "The bicycle saddle is too high."
-        ]
-      },
-      {
-        "mean_english": "thắng yên ngựa",
-        "definition": "(opposite unsaddle) to put a saddle on",
-        "ex_of_definition_list": [
-          "He saddled his horse and rode away."
-        ]
-      }
+    "hash_code_list_img": "-691344268",
+    "list_example": [
+      "The bicycle saddle is too high."
     ],
-    "hash_code_list_definition_mean": "1861948829"
+    "hash_code_list_example": "592298994"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sad_cb_dmean_5000_it.json",
@@ -1609,18 +1050,12 @@
         "id_image": "sad_599625"
       }
     ],
-    "hash_code_list_img": "1129322139",
-    "list_definition_mean": [
-      {
-        "mean_english": "buồn rầu",
-        "definition": "unhappy or causing unhappiness",
-        "ex_of_definition_list": [
-          "She’s sad because her son is ill",
-          "a sad face."
-        ]
-      }
+    "hash_code_list_img": "-1442250722",
+    "list_example": [
+      "She’s sad because her son is ill",
+      "a sad face."
     ],
-    "hash_code_list_definition_mean": "1976547703"
+    "hash_code_list_example": "1217979779"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/safety_cb_dmean_5000_it.json",
@@ -1648,20 +1083,20 @@
         "id_image": "safety_5939776"
       }
     ],
-    "hash_code_list_img": "-702502620",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự an toàn",
-        "definition": "the state of being safe",
-        "ex_of_definition_list": [
-          "I worry about the children’s safety on these busy roads",
-          "a place of safety",
-          "(also adjective) safety goggles",
-          "safety helmet."
-        ]
-      }
+    "hash_code_list_img": "22896264",
+    "list_example": [
+      "I worry about the children’s safety on these busy roads",
+      "(also adjective) safety goggles",
+      "safety helmet.",
+      "The problems encountered above during type checking and safety checking are similar.",
+      "What do older people know about safety on stairs ?",
+      "The safety of this method, its efficiency to relieve the valve obstruction are established.",
+      "To compare the relative safety of the neoadjuvant treatment regimens in terms of reported adverse events.",
+      "The main reasons for disapproval were anxieties about patient safety and risk.",
+      "The practicality of the open system combined with the safety expected from a closed one.",
+      "There will need to be post-exposure follow-up of staff until percutaneous injury is reduced by the implementation of improved safety devices, or practices."
     ],
-    "hash_code_list_definition_mean": "1121345563"
+    "hash_code_list_example": "-1295932092"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/safe_cb_dmean_5000_it.json",
@@ -1693,53 +1128,17 @@
         "id_image": "safe_5448593"
       }
     ],
-    "hash_code_list_img": "-1552337681",
-    "list_definition_mean": [
-      {
-        "mean_english": "an toàn",
-        "definition": "(opposite unsafe) protected, or free (from danger etc)",
-        "ex_of_definition_list": [
-          "The children are safe from danger in the garden."
-        ]
-      },
-      {
-        "mean_english": "có thể tin cậy",
-        "definition": "providing good protection",
-        "ex_of_definition_list": [
-          "You should keep your money in a safe place."
-        ]
-      },
-      {
-        "mean_english": "an toàn",
-        "definition": "unharmed",
-        "ex_of_definition_list": [
-          "The missing child has been found safe and well."
-        ]
-      },
-      {
-        "mean_english": "vô hại, an toàn",
-        "definition": "not likely to cause harm",
-        "ex_of_definition_list": [
-          "These pills are safe for children."
-        ]
-      },
-      {
-        "mean_english": "an toàn, đáng tin cậy",
-        "definition": "(of a person) reliable",
-        "ex_of_definition_list": [
-          "a safe driver",
-          "He’s a very fast driver, but he’s safe enough."
-        ]
-      },
-      {
-        "mean_english": "tủ sắt , két sắt",
-        "definition": "a heavy metal chest or box in which money etc can be locked away safely",
-        "ex_of_definition_list": [
-          "There is a small safe hidden behind that picture on the wall."
-        ]
-      }
+    "hash_code_list_img": "1197593935",
+    "list_example": [
+      "The children are safe from danger in the garden.",
+      "You should keep your money in a safe place.",
+      "The missing child has been found safe and well.",
+      "These pills are safe for children.",
+      "a safe driver",
+      "He’s a very fast driver, but he’s safe enough.",
+      "There is a small safe hidden behind that picture on the wall."
     ],
-    "hash_code_list_definition_mean": "-1041569783"
+    "hash_code_list_example": "-945349602"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/saffron_cb_dmean_5000_it.json",
@@ -1764,17 +1163,18 @@
         "id_image": "saffron_5930619"
       }
     ],
-    "hash_code_list_img": "562903645",
-    "list_definition_mean": [
-      {
-        "mean_english": "nghệ tây",
-        "definition": "a yellow colouring/coloring and flavouring/flavoring substance used in cooking",
-        "ex_of_definition_list": [
-          "We added some saffron to the rice."
-        ]
-      }
+    "hash_code_list_img": "-1041569792",
+    "list_example": [
+      "We added some saffron to the rice.",
+      "Many Buddhist monks wear saffron robes.",
+      "They are saffron covered parathas made from a dough of flour mixed with milk and ghee and baked in iron tandoors.",
+      "There is also a tradition of the bride carrying a glass of kesara dudha (saffron milk) to the bridegroom.",
+      "The sutras are chanted in unison by monks in saffron robes.",
+      "He wore robes of saffron and wielded a scimitar in battle.",
+      "Influence of the type of dehydration process on the sensory properties of saffron spice.",
+      "The priests give a saffron cloth to every pilgrim and an oath is taken that each would help the other."
     ],
-    "hash_code_list_definition_mean": "883782958"
+    "hash_code_list_example": "-1892624722"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sailor_cb_dmean_5000_it.json",
@@ -1802,17 +1202,11 @@
         "id_image": "sailor_6150489"
       }
     ],
-    "hash_code_list_img": "-274722197",
-    "list_definition_mean": [
-      {
-        "mean_english": "thủy thủ",
-        "definition": "a member of a ship’s crew whose job is helping to sail a ship",
-        "ex_of_definition_list": [
-          "a sailor in the merchant navy."
-        ]
-      }
+    "hash_code_list_img": "75388435",
+    "list_example": [
+      "a sailor in the merchant navy."
     ],
-    "hash_code_list_definition_mean": "1435477609"
+    "hash_code_list_example": "-99927236"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sail_cb_dmean_5000_it.json",
@@ -1843,70 +1237,12 @@
         "id_image": "sail_859139"
       }
     ],
-    "hash_code_list_img": "-1759977206",
-    "list_definition_mean": [
-      {
-        "mean_english": "cánh buồm",
-        "definition": "a sheet of strong cloth spread to catch the wind, by which a ship is driven forward",
-        "ex_of_definition_list": [
-          "They are hoisting the sails."
-        ]
-      },
-      {
-        "mean_english": "chuyến đi xa bằng thuyền buồm",
-        "definition": "a journey in a ship",
-        "ex_of_definition_list": [
-          "a sail in his yacht",
-          "a week’s sail to the island."
-        ]
-      },
-      {
-        "mean_english": "chạy bằng buồm",
-        "definition": "(of a ship) to be moved by sails",
-        "ex_of_definition_list": [
-          "The yacht sailed away."
-        ]
-      },
-      {
-        "mean_english": "điều khiển (thuyền buồm)",
-        "definition": "to steer or navigate a ship or boat",
-        "ex_of_definition_list": [
-          "He sailed (the boat) to the island."
-        ]
-      },
-      {
-        "mean_english": "đi thuyền buồm",
-        "definition": "to go in a ship or boat (with or without sails)",
-        "ex_of_definition_list": [
-          "I’ve never sailed through the Mediterranean."
-        ]
-      },
-      {
-        "mean_english": "đi biển, chạy trên biển",
-        "definition": "to begin a voyage",
-        "ex_of_definition_list": [
-          "The ship sails today",
-          "My aunt sailed today."
-        ]
-      },
-      {
-        "mean_english": "đi (du lịch) bằng đường biển",
-        "definition": "to travel on (the sea etc) in a ship",
-        "ex_of_definition_list": [
-          "He sailed the North Sea."
-        ]
-      },
-      {
-        "mean_english": "lướt, trôi, lao, vượt qua…",
-        "definition": "to move steadily and easily",
-        "ex_of_definition_list": [
-          "Clouds sailed across the sky",
-          "He sailed through his exams",
-          "She sailed into the room."
-        ]
-      }
+    "hash_code_list_img": "537521795",
+    "list_example": [
+      "a sail in his yacht",
+      "a week’s sail to the island."
     ],
-    "hash_code_list_definition_mean": "635581798"
+    "hash_code_list_example": "-74008908"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/saint_cb_dmean_5000_it.json",
@@ -1925,25 +1261,13 @@
         "id_image": "saint_2333251"
       }
     ],
-    "hash_code_list_img": "1484649475",
-    "list_definition_mean": [
-      {
-        "mean_english": "vị thánh",
-        "definition": "(often abbreviated to St, especially when used in the names of places, plants etc) a title given especially by the Roman Catholic and Orthodox churches to a very good or holy person after his death",
-        "ex_of_definition_list": [
-          "Saint Matthew",
-          "St John’s Road."
-        ]
-      },
-      {
-        "mean_english": "người thánh thiện",
-        "definition": "a very good, kind person",
-        "ex_of_definition_list": [
-          "You really are a saint to put up with her."
-        ]
-      }
+    "hash_code_list_img": "664701919",
+    "list_example": [
+      "You really are a saint to put up with her.",
+      "He ran inside to get his brother, whom the saint rebuked.",
+      "Relics embodied the saint in this world and gave patronage to the community that preserved them."
     ],
-    "hash_code_list_definition_mean": "-1113120119"
+    "hash_code_list_example": "432642780"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sake_cb_dmean_5000_it.json",
@@ -1967,24 +1291,19 @@
         "id_image": "sake_2721385"
       }
     ],
-    "hash_code_list_img": "31461917",
-    "list_definition_mean": [
-      {
-        "mean_english": "vì ai/ cái gì",
-        "definition": "in order to benefit",
-        "ex_of_definition_list": [
-          "He bought a house in the country for the sake of his wife’s health."
-        ]
-      },
-      {
-        "mean_english": "vì lợi ích của ai/ cái gì",
-        "definition": "because of a desire for",
-        "ex_of_definition_list": [
-          "For the sake of peace, he said he agreed with her."
-        ]
-      }
+    "hash_code_list_img": "-1860118243",
+    "list_example": [
+      "He bought a house in the country for the sake of his wife’s health.",
+      "For the sake of peace, he said he agreed with her.",
+      "Through social practices, citizens or social agents adhere to these foundational principles for the sake of social recognition and reward, thereby ensuring their reproduction.",
+      "We describe here the latter approach, but, for the sake of simplicity, only the case of normal logic programs.",
+      "The attentiveness of the nurse and the nourishment she prepares is for the sake of a sick person, a patient.",
+      "Surely, early generative phonology in the 1970s provided evidence for preferring deletion to insertion rules for the sake of generality.",
+      "These are just two simple and natural variants that we choose for the sake of examples.",
+      "For the sake of simplicity, we assume 100% compliance with screening in these estimates-lower compliance rates would lower costs pro rata.",
+      "There are interesting tensions between the chapters, which the editors have wisely avoided editing out for the sake of consistency of viewpoint."
     ],
-    "hash_code_list_definition_mean": "-2100108794"
+    "hash_code_list_example": "-638048841"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/salad_cb_dmean_5000_it.json",
@@ -2007,17 +1326,19 @@
         "id_image": "salad_590721"
       }
     ],
-    "hash_code_list_img": "7540377",
-    "list_definition_mean": [
-      {
-        "mean_english": "rau trộn dầu giấm",
-        "definition": "(a dish of) mixed raw vegetables",
-        "ex_of_definition_list": [
-          "a mixed salad."
-        ]
-      }
+    "hash_code_list_img": "-164068554",
+    "list_example": [
+      "a mixed salad.",
+      "Common foods served are sandwich grinders, pizza, and chef salads.",
+      "Burmese noodle salads include wheat noodles or rice noodles.",
+      "Conch is served marinated, in salads, in creamy chowders or in stews.",
+      "Who can say that vegetables and salads are not necessities in these days?",
+      "The fresh fruit is also used in salads, desserts and main dishes.",
+      "Green vegetables and salads were seasonal, and with some exceptions uncommon at the table.",
+      "There may be a change in the weather while lettuces are being transferred to the retailer, resulting in no sale at all for salads.",
+      "My young colleagues in that field have recently shown that it is an advantage to eat salads during the winter."
     ],
-    "hash_code_list_definition_mean": "1725312120"
+    "hash_code_list_example": "1837767929"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/salamander_cb_dmean_5000_it.json",
@@ -2040,17 +1361,15 @@
         "id_image": "salamander_371950"
       }
     ],
-    "hash_code_list_img": "-1524434774",
-    "list_definition_mean": [
-      {
-        "mean_english": "con kỳ giông",
-        "definition": "an animal with a lizard-like appearance, having short legs and a long tail, that lives both on land and in water",
-        "ex_of_definition_list": [
-          "Salamanders and newts are in the amphibian family."
-        ]
-      }
+    "hash_code_list_img": "-1624016550",
+    "list_example": [
+      "One salamander was severely affected with associated tissue changes, including accumulations of melanomacrophages.",
+      "Passive electrical cable proper ties and synaptic excitation of tiger salamander retinal ganglion cells.",
+      "Taken together, we thought that it was important to investigate the number and spatial arrangement of major cell populations in the salamander retina.",
+      "The basis for this sustained current in tiger salamander retinal ganglion cells is unknown; perhaps it reflects a biphasic inactivation behavior of one channel type.",
+      "The spatial distribution of excitatory and inhibitory inputs to ganglion cell dendrites in the tiger salamander retina."
     ],
-    "hash_code_list_definition_mean": "288488732"
+    "hash_code_list_example": "619634087"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/salami_cb_dmean_5000_it.json",
@@ -2073,17 +1392,15 @@
         "id_image": "salami_3390385"
       }
     ],
-    "hash_code_list_img": "1565918755",
-    "list_definition_mean": [
-      {
-        "mean_english": "xúc xích salami",
-        "definition": "a type of large spicy sausage that is cut into thin slices and eaten cold",
-        "ex_of_definition_list": [
-          "pepper salami."
-        ]
-      }
+    "hash_code_list_img": "1382810079",
+    "list_example": [
+      "A coordinated outbreak response allowed for early identification of salami as the cause, and a health advisory and product recall to be initiated.",
+      "The hypothesis-generating questionnaire was administered to 9 (75 %) of these 12 cases and 7 (77 %) reported eating salami prior to symptom onset.",
+      "What we had was salami tactics in reverse.",
+      "We have got into the habit of having salami slices, or even wafer-thin cucumber slices, of legislation.",
+      "Our case-control study found a strong association between illness and consumption of salami made by a single producer."
     ],
-    "hash_code_list_definition_mean": "1386009561"
+    "hash_code_list_example": "671090287"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/salary_cb_dmean_5000_it.json",
@@ -2111,17 +1428,14 @@
         "id_image": "salary_868890"
       }
     ],
-    "hash_code_list_img": "358624884",
-    "list_definition_mean": [
-      {
-        "mean_english": "tiền lương",
-        "definition": "a fixed, regular usually monthly payment for work",
-        "ex_of_definition_list": [
-          "Secretarial salaries in London are quite high."
-        ]
-      }
+    "hash_code_list_img": "-423519414",
+    "list_example": [
+      "Fee-for-service payments and salary payments represent two ends of a spectrum.",
+      "In cases in which an individual has more actual years of salary history than the specified service years, we truncated the known salary history.",
+      "We also find wage-earning profiles to underestimate salary growth for higher-paid employees.",
+      "For the sample, 87 % had 19 or more years of salary history."
     ],
-    "hash_code_list_definition_mean": "1643219382"
+    "hash_code_list_example": "-1597643851"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sale_cb_dmean_5000_it.json",
@@ -2146,33 +1460,11 @@
         "id_image": "sale_2273409"
       }
     ],
-    "hash_code_list_img": "995021324",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự bán",
-        "definition": "the act of giving something to someone in exchange for money",
-        "ex_of_definition_list": [
-          "the sale of a house",
-          "Sales of cars have increased."
-        ]
-      },
-      {
-        "mean_english": "sự bán hạ giá",
-        "definition": "in a shop etc, an offer of goods at lowered prices for a short time",
-        "ex_of_definition_list": [
-          "I bought my dress in a sale."
-        ]
-      },
-      {
-        "mean_english": "việc bán hàng",
-        "definition": "an event at which goods are sold",
-        "ex_of_definition_list": [
-          "an auction sale",
-          "a book sale."
-        ]
-      }
+    "hash_code_list_img": "1307480726",
+    "list_example": [
+      "the sale of a house"
     ],
-    "hash_code_list_definition_mean": "340988547"
+    "hash_code_list_example": "-1941102271"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/saline_cb_dmean_5000_it.json",
@@ -2200,17 +1492,11 @@
         "id_image": "saline_813604"
       }
     ],
-    "hash_code_list_img": "-2080866444",
-    "list_definition_mean": [
-      {
-        "mean_english": "có muối",
-        "definition": "containing salt",
-        "ex_of_definition_list": [
-          "a saline solution."
-        ]
-      }
+    "hash_code_list_img": "1717212959",
+    "list_example": [
+      "a saline solution."
     ],
-    "hash_code_list_definition_mean": "82217021"
+    "hash_code_list_example": "1760899189"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/salmonellosis_cb_dmean_5000_it.json",
@@ -2228,17 +1514,11 @@
         "id_image": "salmonellosis_3411476"
       }
     ],
-    "hash_code_list_img": "1856036809",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngộ độc thực phẩm do salmonella",
-        "definition": "food poisoning caused by eating food contaminated with salmonella bacteria; salmonella",
-        "ex_of_definition_list": [
-          "Salmonellosis is one of the most common foodborne diseases."
-        ]
-      }
+    "hash_code_list_img": "1436082193",
+    "list_example": [
+      "Salmonellosis is one of the most common foodborne diseases."
     ],
-    "hash_code_list_definition_mean": "34526973"
+    "hash_code_list_example": "-1796214791"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/salon_cb_dmean_5000_it.json",
@@ -2271,18 +1551,20 @@
         "id_image": "salon_452705"
       }
     ],
-    "hash_code_list_img": "-152562090",
-    "list_definition_mean": [
-      {
-        "mean_english": "thẩm mỹ viện",
-        "definition": "a name sometimes given to a place where hairdressing etc is done",
-        "ex_of_definition_list": [
-          "a beauty salon",
-          "My hairdresser has opened a new salon."
-        ]
-      }
+    "hash_code_list_img": "1459118705",
+    "list_example": [
+      "a beauty salon",
+      "My hairdresser has opened a new salon.",
+      "He was popular in the salons for his pleasant personality and quick wit.",
+      "The bourgeoisie are pitted against the small aristocracy of the city, and peoples attachment to \"salons\" is crucial to the story.",
+      "Around 230 artists in total presented their works at the salons.",
+      "They are normally performed in beauty salons but are also a common spa treatment.",
+      "Dining opportunities, life enrichment programs, salons, house and lawn maintenance, as well as scheduled transportation also are offered.",
+      "Student hairdressing salons and catering restaurants are both cases in point.",
+      "In-store restaurants and beauty salons have all been shut down, and the stores no longer sell cosmetics and pianos.",
+      "The history of the house, its historic headquarters and its iconic collections were presented in its salons."
     ],
-    "hash_code_list_definition_mean": "1481793659"
+    "hash_code_list_example": "-2123245573"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/saloon_cb_dmean_5000_it.json",
@@ -2312,31 +1594,21 @@
         "id_image": "saloon_683819"
       }
     ],
-    "hash_code_list_img": "-812872324",
-    "list_definition_mean": [
-      {
-        "mean_english": "phòng khách lớn",
-        "definition": "a large public room on a ship",
-        "ex_of_definition_list": [
-          "the dining saloon."
-        ]
-      },
-      {
-        "mean_english": "ca-bin dành cho người lái và hành khách",
-        "definition": "(American sedan) a motor car with enclosed seating space for driver and at least three passengers",
-        "ex_of_definition_list": [
-          "a family saloon."
-        ]
-      },
-      {
-        "mean_english": "quán rượu",
-        "definition": "a place where alcoholic drinks are sold",
-        "ex_of_definition_list": [
-          "The police searched in all the saloons for the thief."
-        ]
-      }
+    "hash_code_list_img": "-805272699",
+    "list_example": [
+      "the dining saloon.",
+      "a family saloon.",
+      "The police searched in all the saloons for the thief.",
+      "The installation included three 70-foot-long luxury railway cars, complete with saloons, dining rooms, and bedrooms.",
+      "Hotels, saloons, a general store, a barber and a post office soon followed.",
+      "Still, it was 85mmin 1 longer and 10mmin 1 wider than the previous model; while the saloon's length was shortened.",
+      "The miners had other grievances; for example, high payments for room and board in company lodging, and check cashing fees at company saloons.",
+      "Flour and saw mills and multiple saloons were also in operation at this time.",
+      "The whole array of different saloons that are on offer means that it does not follow that only one model is appropriate.",
+      "Many saloons on the border of dry areas incorporated the phrase last chance into their name.",
+      "Had the diesel powered version entered production the 402 would have been one of the very first diesel saloons available commercially."
     ],
-    "hash_code_list_definition_mean": "208006446"
+    "hash_code_list_example": "1081987025"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/salty_cb_dmean_5000_it.json",
@@ -2354,17 +1626,18 @@
         "id_image": "salt_4276022"
       }
     ],
-    "hash_code_list_img": "983881140",
-    "list_definition_mean": [
-      {
-        "mean_english": "mặn",
-        "definition": "containing or tasting of salt",
-        "ex_of_definition_list": [
-          "Tears are salty water."
-        ]
-      }
+    "hash_code_list_img": "27632919",
+    "list_example": [
+      "Tears are salty water.",
+      "From a biological perspective, terrestrial high acidic and salty waters hold a phylogenetically wide array of microorganisms13.",
+      "Large in stature and salty of speech, his physical presence and personality made for a hard controversialist and a vigorous reformer.",
+      "The last stretch of the trip, in salty waters, served as an anti-parasite treatment.",
+      "During the drought months, people from different locations descended to the dry playa and harvested the salty crusts.",
+      "From a biological perspective, terrestrial high acidic and salty waters hold a phylogenetically wide array of microorganisms12.",
+      "More recently, the availability of filters, bottled water, and 'spring water' for general use as opposed to more salty mineral water have increased.",
+      "The stratification was made by quickly stirring an initially two-layer system, fresh on top, salty below, then waiting until it settled completely."
     ],
-    "hash_code_list_definition_mean": "1372050577"
+    "hash_code_list_example": "1403961131"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/salt_cb_dmean_5000_it.json",
@@ -2396,39 +1669,16 @@
         "id_image": "salt_877702"
       }
     ],
-    "hash_code_list_img": "-105645856",
-    "list_definition_mean": [
-      {
-        "mean_english": "muối",
-        "definition": "(also common salt) sodium chloride, a white substance frequently used for seasoning",
-        "ex_of_definition_list": [
-          "The soup needs more salt."
-        ]
-      },
-      {
-        "mean_english": "thủy thủ lão luyện",
-        "definition": "a sailor, especially an experienced one",
-        "ex_of_definition_list": [
-          "an old salt."
-        ]
-      },
-      {
-        "mean_english": "tẩm muối, ướp muối",
-        "definition": "containing, tasting of, preserved in salt",
-        "ex_of_definition_list": [
-          "salt water",
-          "salt pork."
-        ]
-      },
-      {
-        "mean_english": "ướp muối, nêm muối",
-        "definition": "to put salt on or in",
-        "ex_of_definition_list": [
-          "Have you salted the potatoes?"
-        ]
-      }
+    "hash_code_list_img": "-387165848",
+    "list_example": [
+      "salt water",
+      "salt pork.",
+      "The sabkhas are covered by a salt crust, 3-5 cm thick, under which there lies 25-150 cm of carbonate sand, gypsum and halite.",
+      "There appears to be no correlation between the fitted relaxation time and the polymer or salt concentrations, as observed in shear rheology measurements.",
+      "They are found in evaporite salt lakes and can be trapped in salt crystals during evaporation.",
+      "Earth prevented salt from being melted away in water."
     ],
-    "hash_code_list_definition_mean": "-1436775264"
+    "hash_code_list_example": "208607739"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/salute_cb_dmean_5000_it.json",
@@ -2453,32 +1703,17 @@
         "id_image": "salute_599540"
       }
     ],
-    "hash_code_list_img": "16941319",
-    "list_definition_mean": [
-      {
-        "mean_english": "chào, chào hỏi",
-        "definition": "(especially in the forces) to raise the (usually right) hand to the forehead to show respect",
-        "ex_of_definition_list": [
-          "They saluted their commanding officer."
-        ]
-      },
-      {
-        "mean_english": "chào mừng",
-        "definition": "to honour by firing eg large guns",
-        "ex_of_definition_list": [
-          "They saluted the Queen by firing one hundred guns."
-        ]
-      },
-      {
-        "mean_english": "việc chào mừng",
-        "definition": "an act of saluting",
-        "ex_of_definition_list": [
-          "The officer gave a salute",
-          "a 21-gun salute."
-        ]
-      }
+    "hash_code_list_img": "-758170060",
+    "list_example": [
+      "They saluted their commanding officer.",
+      "They saluted the Queen by firing one hundred guns.",
+      "The officer gave a salute",
+      "a 21-gun salute.",
+      "The poem's coda salutes the power of the transformative imagination to recover meaning in the world from all we see and remember.",
+      "The greeting namaskar is founded on the principle that one salutes the spark of the divine in the other.",
+      "One remembers being told most carefully that as an officer one is saluted not because of one's position but because of the commission that one holds."
     ],
-    "hash_code_list_definition_mean": "614363636"
+    "hash_code_list_example": "-1145486501"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/salvation_cb_dmean_5000_it.json",
@@ -2497,17 +1732,11 @@
         "id_image": "salvation_252068"
       }
     ],
-    "hash_code_list_img": "180820982",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự cứu tế, sự cứu giúp",
-        "definition": "the cause, means, or act of saving",
-        "ex_of_definition_list": [
-          "This delay was the salvation of the army."
-        ]
-      }
+    "hash_code_list_img": "1504420834",
+    "list_example": [
+      "This delay was the salvation of the army."
     ],
-    "hash_code_list_definition_mean": "1321697319"
+    "hash_code_list_example": "-310781184"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/salver_cb_dmean_5000_it.json",
@@ -2525,16 +1754,13 @@
         "id_image": "salver_4797370"
       }
     ],
-    "hash_code_list_img": "1584080480",
-    "list_definition_mean": [
-      {
-        "mean_english": "khay, mâm",
-        "definition": "a small tray, often made of silver",
-        "ex_of_definition_list": [
-          "He received a silver salver as a retirement present."
-        ]
-      }
+    "hash_code_list_img": "1184092782",
+    "list_example": [
+      "He received a silver salver as a retirement present.",
+      "Beginning in 1978, a silver salver was added as an award for the runner-up.",
+      "In time the business inevitably starts to slide, the chairman finds himself the recipient of the customary silver salver and, if he is lucky, a very small golden handshake.",
+      "Annual champions are entrusted with a silver salver for the length of their reign, before passing the trophy on to the next winner."
     ],
-    "hash_code_list_definition_mean": "1692847564"
+    "hash_code_list_example": "999243005"
   }
 ]

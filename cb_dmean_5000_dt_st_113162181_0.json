@@ -25,18 +25,14 @@
         "id_image": "yacht_6141639"
       }
     ],
-    "hash_code_list_img": "-1453675482",
-    "list_definition_mean": [
-      {
-        "mean_english": "du thuyền",
-        "definition": "a boat or small ship, usually with sails, often with an engine, built and used for racing or cruising",
-        "ex_of_definition_list": [
-          "We spent our holidays on a friend’s yacht",
-          "(also adjective) a yacht race."
-        ]
-      }
+    "hash_code_list_img": "56794235",
+    "list_example": [
+      "(also adjective) a yacht race.",
+      "Prototype selection is especially appropriate in domains such as the yacht domain in which there is a database of previous designs available and the available simulators are noisy.",
+      "To the northeast, they saw the derelict yacht yet again.",
+      "We tested this idea in both the yacht and aircraft domains and found it to be successful in both domains."
     ],
-    "hash_code_list_definition_mean": "848628459"
+    "hash_code_list_example": "-2026405418"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/yard_cb_dmean_5000_it.json",
@@ -66,34 +62,13 @@
         "id_image": "yard_5776764"
       }
     ],
-    "hash_code_list_img": "-382584583",
-    "list_definition_mean": [
-      {
-        "mean_english": "thước Anh (0,914 mét)",
-        "definition": "(often abbreviated to yd) an old unit of length equal to 0.9144 metres",
-        "ex_of_definition_list": [
-          "The field is 50 yards long."
-        ]
-      },
-      {
-        "mean_english": "sân",
-        "definition": "an area of (enclosed) ground beside a building",
-        "ex_of_definition_list": [
-          "Leave your bicycle in the yard",
-          "a schoolyard",
-          "a courtyard."
-        ]
-      },
-      {
-        "mean_english": "kho; xưởng",
-        "definition": "an area of enclosed ground used for a special purpose",
-        "ex_of_definition_list": [
-          "a shipyard",
-          "a dockyard."
-        ]
-      }
+    "hash_code_list_img": "1777878049",
+    "list_example": [
+      "This paper presented a remote crane control system for port container loading/unloading yard cranes.",
+      "When logging themselves, farmers generally used a farm tractor to yard harvested wood.",
+      "The farmhouse and dairy barn were to have been connected by a transitional utility space, with other utility structures forming a yard to the rear."
     ],
-    "hash_code_list_definition_mean": "-1530064317"
+    "hash_code_list_example": "-911778385"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/yarn_cb_dmean_5000_it.json",
@@ -117,25 +92,21 @@
         "id_image": "yarn_588425"
       }
     ],
-    "hash_code_list_img": "-1951539943",
-    "list_definition_mean": [
-      {
-        "mean_english": "sợi",
-        "definition": "wool, cotton etc spun into thread",
-        "ex_of_definition_list": [
-          "knitting yarn",
-          "a length of yarn."
-        ]
-      },
-      {
-        "mean_english": "chuyện huyên thuyên",
-        "definition": "an old word for a story or tale",
-        "ex_of_definition_list": [
-          "He told us interesting yarns about his travels."
-        ]
-      }
+    "hash_code_list_img": "797250200",
+    "list_example": [
+      "knitting yarn",
+      "a length of yarn.",
+      "He told us interesting yarns about his travels.",
+      "Nylon and terylene yarns are not distinguished from other yarns of synthetic fibres in the trade statistics.",
+      "To mislead the country and paint a picture that is not true is not to oppose but to spin yarns.",
+      "I would gladly do a great deal more if there were the yarns available.",
+      "The use of 56/58's crossbred yarns for some garments instead of the yarns previously used is, therefore, desired.",
+      "The same dyed yarns are now 140 pence per pound and this week he cannot get anybody to quote.",
+      "The same is true in regard to yarns, cottons, and wools.",
+      "Figures are not available of the production of nylon, terylene and other man-made fibre spun yarns.",
+      "The first concerns the imposition of surveillance import licencing on all imports of man-made fibre yarns and fabrics imported from both developed and developing countries."
     ],
-    "hash_code_list_definition_mean": "1011793645"
+    "hash_code_list_example": "-1821025325"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/yawn_cb_dmean_5000_it.json",
@@ -164,25 +135,11 @@
         "id_image": "yawn_5509051"
       }
     ],
-    "hash_code_list_img": "-1200120654",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngáp",
-        "definition": "to stretch the mouth wide and take a deep breath when tired or bored",
-        "ex_of_definition_list": [
-          "He yawned and fell asleep."
-        ]
-      },
-      {
-        "mean_english": "sự ngáp",
-        "definition": "an act of yawning",
-        "ex_of_definition_list": [
-          "He tried to stifle a yawn",
-          "She let out a yawn of boredom."
-        ]
-      }
+    "hash_code_list_img": "797070901",
+    "list_example": [
+      "She let out a yawn of boredom."
     ],
-    "hash_code_list_definition_mean": "1417170103"
+    "hash_code_list_example": "-407945959"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/yeah_cb_dmean_5000_it.json",
@@ -205,17 +162,11 @@
         "id_image": "yeah_6322154"
       }
     ],
-    "hash_code_list_img": "-1995647701",
-    "list_definition_mean": [
-      {
-        "mean_english": "ừ, vâng, đúng",
-        "definition": "yes",
-        "ex_of_definition_list": [
-          "‘Did you remember to buy some milk?’ ‘Yeah.’"
-        ]
-      }
+    "hash_code_list_img": "13327748",
+    "list_example": [
+      "The yes category also included well yes (ben si), but yes (si), yeah (ouais), and okay (d'accord)."
     ],
-    "hash_code_list_definition_mean": "37031525"
+    "hash_code_list_example": "1059805638"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/yearbook_cb_dmean_5000_it.json",
@@ -243,17 +194,19 @@
         "id_image": "yearbook_4650656"
       }
     ],
-    "hash_code_list_img": "-1011429725",
-    "list_definition_mean": [
-      {
-        "mean_english": "niên giám",
-        "definition": "a book of information which is updated and published every year",
-        "ex_of_definition_list": [
-          "his high-school yearbook."
-        ]
-      }
+    "hash_code_list_img": "1062271813",
+    "list_example": [
+      "his high-school yearbook.",
+      "Australian yearbooks function as an annual magazine for the school body, with a significant focus on objectively reporting the events that occurred during the schooling year.",
+      "Larger trade associations publish membership directories and yearbooks to promote their association to opinion formers, lawmakers, regulators and other stakeholders.",
+      "As of 2006, the series had 375 volumes, which included 23 yearbooks and 45 documentary volumes.",
+      "The cost was estimated to be $50,000 per year, with only a handful of yearbooks sold in the last year.",
+      "The main library has an extensive genealogy collection including digitized records, microfilm, local histories, yearbooks and other records in paper form.",
+      "To date, two yearbooks (2004 and 2006) have been published.",
+      "The yearbook's website is. launched for the 50th anniversary of the organisation.",
+      "Overfelt has also had a history of producing award-winning yearbooks, although there are no more yearbooks."
     ],
-    "hash_code_list_definition_mean": "872743545"
+    "hash_code_list_example": "-82816110"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/yeast_cb_dmean_5000_it.json",
@@ -281,17 +234,16 @@
         "id_image": "yeast_3447812"
       }
     ],
-    "hash_code_list_img": "1516951502",
-    "list_definition_mean": [
-      {
-        "mean_english": "men",
-        "definition": "a substance which causes fermentation, used in making beer, bread etc",
-        "ex_of_definition_list": [
-          "baker’s yeast."
-        ]
-      }
+    "hash_code_list_img": "1098431910",
+    "list_example": [
+      "Probably other cell surface properties in addition to hydrophobicity also affect the adhesion rate of yeast cells to surfaces.",
+      "For oviposition, a spoon with 2 ml of medium and coated with live yeast paste was placed in each vial.",
+      "Also, high throughput techniques like the yeast two-hybrid method, which identifies protein-protein interactions, cannot be easily applied to membrane proteins.",
+      "Determination of the order of gene function in the yeast nuclear division pathway using cs and ts mutants.",
+      "A novel engineered meganuclease induces homologous recombination in yeast and mammalian cells.",
+      "The long bulk-fermentation involved in traditional breadmaking processes can be eliminated by introducing the work normally performed by the yeast as mechanical work by machine."
     ],
-    "hash_code_list_definition_mean": "993409560"
+    "hash_code_list_example": "1256656947"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/yoghurt_cb_dmean_5000_it.json",
@@ -319,17 +271,11 @@
         "id_image": "yoghurt_6411140"
       }
     ],
-    "hash_code_list_img": "1967327971",
-    "list_definition_mean": [
-      {
-        "mean_english": "sữa chua",
-        "definition": "a type of semi-liquid food made from fermented milk",
-        "ex_of_definition_list": [
-          "a raspberry yoghurt."
-        ]
-      }
+    "hash_code_list_img": "234804971",
+    "list_example": [
+      "a raspberry yoghurt."
     ],
-    "hash_code_list_definition_mean": "1471036461"
+    "hash_code_list_example": "1094534242"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/young_cb_dmean_5000_it.json",
@@ -363,26 +309,12 @@
         "id_image": "young_3576969"
       }
     ],
-    "hash_code_list_img": "-240953427",
-    "list_definition_mean": [
-      {
-        "mean_english": "non; trẻ",
-        "definition": "in the first part of life, growth, development etc; not old",
-        "ex_of_definition_list": [
-          "a young person",
-          "Young babies sleep a great deal",
-          "A young cow is called a calf."
-        ]
-      },
-      {
-        "mean_english": "con non",
-        "definition": "the group of animals or birds produced by parents",
-        "ex_of_definition_list": [
-          "Most animals defend their young."
-        ]
-      }
+    "hash_code_list_img": "-720049830",
+    "list_example": [
+      "a young person",
+      "A young cow is called a calf."
     ],
-    "hash_code_list_definition_mean": "-1175726588"
+    "hash_code_list_example": "705774899"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/youth_cb_dmean_5000_it.json",
@@ -412,32 +344,12 @@
         "id_image": "youth_4901028"
       }
     ],
-    "hash_code_list_img": "-845285571",
-    "list_definition_mean": [
-      {
-        "mean_english": "tuổi trẻ",
-        "definition": "(the state of being in) the early part of life",
-        "ex_of_definition_list": [
-          "Enjoy your youth!",
-          "He spent his youth in America."
-        ]
-      },
-      {
-        "mean_english": "chàng trai trẻ",
-        "definition": "a boy of fifteen to twenty years old approximately",
-        "ex_of_definition_list": [
-          "He and two other youths were kicking a football about."
-        ]
-      },
-      {
-        "mean_english": "thanh niên",
-        "definition": "young people in general",
-        "ex_of_definition_list": [
-          "Some people say that today’s youth has/have no sense of responsibility."
-        ]
-      }
+    "hash_code_list_img": "2004723698",
+    "list_example": [
+      "He spent his youth in America.",
+      "Some people say that today’s youth has/have no sense of responsibility."
     ],
-    "hash_code_list_definition_mean": "-1319053577"
+    "hash_code_list_example": "-2054630324"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/zebra_cb_dmean_5000_it.json",
@@ -470,17 +382,14 @@
         "id_image": "zebra_520080"
       }
     ],
-    "hash_code_list_img": "-194801602",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngựa vằn",
-        "definition": "a kind of striped animal of the horse family, found wild in Africa",
-        "ex_of_definition_list": [
-          "a herd of zebras."
-        ]
-      }
+    "hash_code_list_img": "-2030677221",
+    "list_example": [
+      "For example, no zebra appears in the picture of zebra-shells.",
+      "The analogy referenced in the introduction was that of a child who hears and maps the word ' zebra ' to the striped animal in the zoo.",
+      "Interestingly, a zebra was identified as intermediate host for the cattle strain.",
+      "On naming a giraffe as a zebra : picture naming errors across different categories."
     ],
-    "hash_code_list_definition_mean": "169207068"
+    "hash_code_list_example": "1934842857"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/zigzag_cb_dmean_5000_it.json",
@@ -499,24 +408,12 @@
         "id_image": "zigzag_1655263"
       }
     ],
-    "hash_code_list_img": "1122651083",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngoằn ngèo",
-        "definition": "(of a line, road etc) having sharp bends or angles from side to side",
-        "ex_of_definition_list": [
-          "A zigzag path wound its way through the woods."
-        ]
-      },
-      {
-        "mean_english": "chạy ngoằn ngèo",
-        "definition": "to move in a zigzag manner",
-        "ex_of_definition_list": [
-          "The road zigzagged through the mountains."
-        ]
-      }
+    "hash_code_list_img": "1615264703",
+    "list_example": [
+      "A zigzag path wound its way through the woods.",
+      "The navigator steersman uses zigzag tacks to port and starboard across the wind in order to reach the intended point ahead."
     ],
-    "hash_code_list_definition_mean": "154344733"
+    "hash_code_list_example": "-540852072"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/zodiac_cb_dmean_5000_it.json",
@@ -534,17 +431,15 @@
         "id_image": "zodiac_3570650"
       }
     ],
-    "hash_code_list_img": "1652169878",
-    "list_definition_mean": [
-      {
-        "mean_english": "cung Hoàng đạo",
-        "definition": "an imaginary area of the sky within which the sun, moon, and planets move. It contains 12 constellations known as the signs of the zodiac. Astrologers believe that these influence a person’s character and life depending on the star’s position when he/she was born",
-        "ex_of_definition_list": [
-          "the signs of the zodiac."
-        ]
-      }
+    "hash_code_list_img": "613131547",
+    "list_example": [
+      "Upon this the signs of the zodiac are superimposed.",
+      "At the base a painted figure of a zodiacal man showed the relationship between the signs of the zodiac and parts of the human body.",
+      "The signs of the zodiac are carved in wood on the ceiling.",
+      "While most tourist ships try to co-operate to minimise the disturbance to wildlife, it is difficult when zodiac landing craft are ferrying hundreds of eager tourists to the shoreline.",
+      "The charts are based on the constellations of the twelve zodiac signs."
     ],
-    "hash_code_list_definition_mean": "1307904072"
+    "hash_code_list_example": "344492993"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/zombie_cb_dmean_5000_it.json",
@@ -567,17 +462,11 @@
         "id_image": "zombie_773362"
       }
     ],
-    "hash_code_list_img": "-1302752987",
-    "list_definition_mean": [
-      {
-        "mean_english": "người sống dở chết dở",
-        "definition": "a slow-moving person of very little intelligence",
-        "ex_of_definition_list": [
-          "Films about zombies seem to be very popular at the moment."
-        ]
-      }
+    "hash_code_list_img": "-1172311418",
+    "list_example": [
+      "Films about zombies seem to be very popular at the moment."
     ],
-    "hash_code_list_definition_mean": "449818731"
+    "hash_code_list_example": "-2116853541"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/zone_cb_dmean_5000_it.json",
@@ -596,25 +485,13 @@
         "id_image": "zone_2191451"
       }
     ],
-    "hash_code_list_img": "1910980837",
-    "list_definition_mean": [
-      {
-        "mean_english": "vùng; khu",
-        "definition": "an area or region, usually of a country, town etc, especially one marked off for a special purpose",
-        "ex_of_definition_list": [
-          "a no-parking zone",
-          "a traffic-free zone."
-        ]
-      },
-      {
-        "mean_english": "đới",
-        "definition": "any of the five bands into which the earth’s surface is divided according to temperature",
-        "ex_of_definition_list": [
-          "The tropical zone is the area between the Tropic of Capricorn and the Tropic of Cancer."
-        ]
-      }
+    "hash_code_list_img": "580668755",
+    "list_example": [
+      "The tropical zone is the area between the Tropic of Capricorn and the Tropic of Cancer.",
+      "Many kinematic indicators (primarily - and type fabrics) show that the shear zone has an extensional geometry with respect to the present land surface.",
+      "Time-dependent characterization of the output radiation in a far-field zone was obtained for both free-running and injection-controlled operation with an unstable resonator 1 cavity."
     ],
-    "hash_code_list_definition_mean": "-2147166181"
+    "hash_code_list_example": "498876684"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/zoology_cb_dmean_5000_it.json",
@@ -637,17 +514,17 @@
         "id_image": "zoology_5332923"
       }
     ],
-    "hash_code_list_img": "-1908823403",
-    "list_definition_mean": [
-      {
-        "mean_english": "động vật học",
-        "definition": "the scientific study of animals",
-        "ex_of_definition_list": [
-          "She’s studying zoology at Cambridge University."
-        ]
-      }
+    "hash_code_list_img": "1988835605",
+    "list_example": [
+      "She’s studying zoology at Cambridge University.",
+      "During this period he occupied himself with investigations relating to histology, comparative anatomy, general zoology and biology, and teratology.",
+      "He was an all-round, classical scholar of zoology and could teach any aspect of the subject.",
+      "Viewed this way, linguistics will not be fully comparable to zoology and anthropology until mind research gives way to brain research (if it ever does).",
+      "The zoology is not reliable, but this does not matter.",
+      "It was fossil zoology that interested him more than geology.",
+      "A comparison with zoology and anthropology indicates that it is not necessary, and, in my view, it is not particularly desirable."
     ],
-    "hash_code_list_definition_mean": "1353340997"
+    "hash_code_list_example": "1292220864"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/zoom_cb_dmean_5000_it.json",
@@ -676,24 +553,11 @@
         "id_image": "zoom_4463647"
       }
     ],
-    "hash_code_list_img": "-397102407",
-    "list_definition_mean": [
-      {
-        "mean_english": "tiếng vù vù",
-        "definition": "a loud, low-pitched buzzing noise",
-        "ex_of_definition_list": [
-          "the zoom of cars speeding past them on the racetrack"
-        ]
-      },
-      {
-        "mean_english": "phóng vọt lên",
-        "definition": "to move very quickly with this kind of noise",
-        "ex_of_definition_list": [
-          "The motorbike zoomed past us."
-        ]
-      }
+    "hash_code_list_img": "620172769",
+    "list_example": [
+      "the zoom of cars speeding past them on the racetrack"
     ],
-    "hash_code_list_definition_mean": "379410570"
+    "hash_code_list_example": "-1769907346"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/zoo_cb_dmean_5000_it.json",
@@ -716,16 +580,13 @@
         "id_image": "zoo_848571"
       }
     ],
-    "hash_code_list_img": "1378913337",
-    "list_definition_mean": [
-      {
-        "mean_english": "sở thú",
-        "definition": "(short for zoological garden) a place where wild animals are kept for the public to see, and for study, breeding etc",
-        "ex_of_definition_list": [
-          "I thought I’d take the children to the zoo on Sunday."
-        ]
-      }
+    "hash_code_list_img": "-190438989",
+    "list_example": [
+      "I thought I’d take the children to the zoo on Sunday.",
+      "Furthermore, he had visited a petting zoo 1 week before the onset of symptoms.",
+      "The results substantiate that there is an infection risk for zoo animals.",
+      "Specific antibodies were detected in 154 (10.4 %) out of 1487 zoo animals tested."
     ],
-    "hash_code_list_definition_mean": "993553350"
+    "hash_code_list_example": "2111298285"
   }
 ]

@@ -20,17 +20,16 @@
         "id_image": "waistcoat_1591486"
       }
     ],
-    "hash_code_list_img": "388259953",
-    "list_definition_mean": [
-      {
-        "mean_english": "áo ghi lê",
-        "definition": "a short, usually sleeveless jacket worn immediately under the outer jacket; vest American",
-        "ex_of_definition_list": [
-          "a three-piece suit consists of trousers, jacket, and waistcoat."
-        ]
-      }
+    "hash_code_list_img": "-129287971",
+    "list_example": [
+      "I do not carry it around with me in my waistcoat pocket.",
+      "As his victim was dying in the roadway he leaned over him and put his hand into the dying man's waistcoat pocket.",
+      "There was the brush for brushing down a horse; it did not attract tax; but the brush for brushing a waistcoat did.",
+      "It is rarely worn without a waistcoat or jacket over it.",
+      "The result was that he has got a sore on the other side of his waistcoat which he will carry to his dying day.",
+      "Dinner would consist of a few tablets which would be carried in the waistcoat pocket."
     ],
-    "hash_code_list_definition_mean": "319324239"
+    "hash_code_list_example": "-2061971530"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/waiter_cb_dmean_5000_it.json",
@@ -58,18 +57,13 @@
         "id_image": "waiter_368014"
       }
     ],
-    "hash_code_list_img": "805849083",
-    "list_definition_mean": [
-      {
-        "mean_english": "người phục vụ",
-        "definition": "a person who serves people with food etc at table",
-        "ex_of_definition_list": [
-          "She is a waitress in a café",
-          "Which waiter served you in the restaurant?"
-        ]
-      }
+    "hash_code_list_img": "1742562427",
+    "list_example": [
+      "Which waiter served you in the restaurant?",
+      "The result was a quite satisfying improvement in waiter recognition.",
+      "The waiter brought over a grubby document, creased at the corners and covered with tea stains."
     ],
-    "hash_code_list_definition_mean": "1452845189"
+    "hash_code_list_example": "548710270"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wait_cb_dmean_5000_it.json",
@@ -100,40 +94,12 @@
         "id_image": "wait_4401450"
       }
     ],
-    "hash_code_list_img": "2016989992",
-    "list_definition_mean": [
-      {
-        "mean_english": "đợi",
-        "definition": "(with for) to remain or stay (in the same place or without doing anything)",
-        "ex_of_definition_list": [
-          "Wait (for) two minutes (here) while I go inside",
-          "I’m waiting for John (to arrive)."
-        ]
-      },
-      {
-        "mean_english": "mong mỏi",
-        "definition": "(with for) to expect",
-        "ex_of_definition_list": [
-          "I was just waiting for that pile of dishes to fall!"
-        ]
-      },
-      {
-        "mean_english": "phục vụ",
-        "definition": "(with on) to serve dishes, drinks etc (at table)",
-        "ex_of_definition_list": [
-          "She employed a servant to wait on her guests",
-          "He waits at table."
-        ]
-      },
-      {
-        "mean_english": "sự chờ đợi",
-        "definition": "an act of waiting; a delay",
-        "ex_of_definition_list": [
-          "There was a long wait before they could get on the train."
-        ]
-      }
+    "hash_code_list_img": "-1615568301",
+    "list_example": [
+      "She employed a servant to wait on her guests",
+      "There was a long wait before they could get on the train."
     ],
-    "hash_code_list_definition_mean": "1273773775"
+    "hash_code_list_example": "1659955662"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wake_cb_dmean_5000_it.json",
@@ -152,25 +118,12 @@
         "id_image": "wake_5284836"
       }
     ],
-    "hash_code_list_img": "1196092132",
-    "list_definition_mean": [
-      {
-        "mean_english": "tỉnh giấc",
-        "definition": "to bring or come back to consciousness after being asleep",
-        "ex_of_definition_list": [
-          "He woke to find that it was raining",
-          "Go and wake the others, will you?"
-        ]
-      },
-      {
-        "mean_english": "đường rẽ nước",
-        "definition": "a strip of smooth-looking or foamy water left behind a ship",
-        "ex_of_definition_list": [
-          "We saw dolphins jumping and playing in the wake left by the boat."
-        ]
-      }
+    "hash_code_list_img": "2054926498",
+    "list_example": [
+      "Go and wake the others, will you?",
+      "We saw dolphins jumping and playing in the wake left by the boat."
     ],
-    "hash_code_list_definition_mean": "189821850"
+    "hash_code_list_example": "-1926699864"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/walker_cb_dmean_5000_it.json",
@@ -198,17 +151,14 @@
         "id_image": "walker_5222961"
       }
     ],
-    "hash_code_list_img": "161225263",
-    "list_definition_mean": [
-      {
-        "mean_english": "người đi bộ",
-        "definition": "a person who goes walking for pleasure",
-        "ex_of_definition_list": [
-          "We met a party of walkers as we were going home."
-        ]
-      }
+    "hash_code_list_img": "-974795122",
+    "list_example": [
+      "This needs to be considered when prescribing a walker to meet the specific needs of the user.",
+      "Thus, the passive walker reported here can stand still.",
+      "The drawing shows how the right leg of the walker is freed from the sidewalk, and then it is tied down to a new position.",
+      "This walker has two equal legs, modeled as rigid bodies coupled with a frictionless hinge at the hip."
     ],
-    "hash_code_list_definition_mean": "2092509566"
+    "hash_code_list_example": "427311722"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/walkway_cb_dmean_5000_it.json",
@@ -236,17 +186,13 @@
         "id_image": "walkway_647001"
       }
     ],
-    "hash_code_list_img": "746229334",
-    "list_definition_mean": [
-      {
-        "mean_english": "đường dành cho người đi bộ",
-        "definition": "a path etc for pedestrians only",
-        "ex_of_definition_list": [
-          "a pedestrian walkway."
-        ]
-      }
+    "hash_code_list_img": "1088136238",
+    "list_example": [
+      "At least one subterranean culvert was built into the causeway to divert water under the walkway and thus prevent flooding on the north side.",
+      "Each of the three rooms has a short walkway culminating at a seat before an urn of water and a pool receiving water from a wall-fountain.",
+      "They consist of three covered rooms and a short walkway culminating at a seat before an urn of water and pool receiving water from a fountain attached to the wall."
     ],
-    "hash_code_list_definition_mean": "766290590"
+    "hash_code_list_example": "-494648980"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/walk_cb_dmean_5000_it.json",
@@ -279,55 +225,13 @@
         "id_image": "walk_599542"
       }
     ],
-    "hash_code_list_img": "1116039421",
-    "list_definition_mean": [
-      {
-        "mean_english": "đi bộ",
-        "definition": "(of people or animals) to (cause to) move on foot at a pace slower than running, never having both or all the feet off the ground at once",
-        "ex_of_definition_list": [
-          "He walked across the room and sat down",
-          "How long will it take to walk to the station?",
-          "She walks her dog in the park every morning."
-        ]
-      },
-      {
-        "mean_english": "đi dạo",
-        "definition": "to travel on foot for pleasure",
-        "ex_of_definition_list": [
-          "We’re going walking in the hills for our holidays."
-        ]
-      },
-      {
-        "mean_english": "đi lang thang",
-        "definition": "to move on foot along",
-        "ex_of_definition_list": [
-          "It’s dangerous to walk the streets of the city alone after dark."
-        ]
-      },
-      {
-        "mean_english": "sự đi bộ",
-        "definition": "(the distance covered during) an outing or journey on foot",
-        "ex_of_definition_list": [
-          "She wants to go for / to take a walk",
-          "It’s a long walk to the station."
-        ]
-      },
-      {
-        "mean_english": "dáng đi",
-        "definition": "a way or manner of walking",
-        "ex_of_definition_list": [
-          "I recognised her walk."
-        ]
-      },
-      {
-        "mean_english": "lối đi bộ",
-        "definition": "a route for walking",
-        "ex_of_definition_list": [
-          "There are many pleasant walks in this area."
-        ]
-      }
+    "hash_code_list_img": "1242881210",
+    "list_example": [
+      "How long will it take to walk to the station?",
+      "It’s dangerous to walk the streets of the city alone after dark.",
+      "It’s a long walk to the station."
     ],
-    "hash_code_list_definition_mean": "-92300606"
+    "hash_code_list_example": "1785589215"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wallet_cb_dmean_5000_it.json",
@@ -356,24 +260,14 @@
         "id_image": "wallet_390128"
       }
     ],
-    "hash_code_list_img": "389290942",
-    "list_definition_mean": [
-      {
-        "mean_english": "ví",
-        "definition": "a small (usually folding) case made of soft leather, plastic etc, carried in the pocket and used for holding (especially paper) money, personal papers etc; billfold American",
-        "ex_of_definition_list": [
-          "His wallet has been stolen."
-        ]
-      },
-      {
-        "mean_english": "bao da",
-        "definition": "a similar case containing other things",
-        "ex_of_definition_list": [
-          "a plastic wallet containing a set of small tools."
-        ]
-      }
+    "hash_code_list_img": "408941730",
+    "list_example": [
+      "His wallet has been stolen.",
+      "a plastic wallet containing a set of small tools.",
+      "But before he could make his speech of welcome, they stripped off his suit, taking his watch and wallet into the bargain.",
+      "I remembered that in the school bag there was my wallet with $100 in it, and all my anatomy textbooks."
     ],
-    "hash_code_list_definition_mean": "151159867"
+    "hash_code_list_example": "876533646"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wallpaper_cb_dmean_5000_it.json",
@@ -397,25 +291,11 @@
         "id_image": "wallpaper_5776728"
       }
     ],
-    "hash_code_list_img": "-1521987384",
-    "list_definition_mean": [
-      {
-        "mean_english": "giấy dán tường",
-        "definition": "paper used to decorate interior walls of houses etc",
-        "ex_of_definition_list": [
-          "patterned wallpaper",
-          "My wife wants to put wallpaper on the walls, but I would rather paint them."
-        ]
-      },
-      {
-        "mean_english": "dán tường bằng giấy",
-        "definition": "to put such paper on",
-        "ex_of_definition_list": [
-          "I have wallpapered the front room."
-        ]
-      }
+    "hash_code_list_img": "-1779252097",
+    "list_example": [
+      "My wife wants to put wallpaper on the walls, but I would rather paint them."
     ],
-    "hash_code_list_definition_mean": "-350561122"
+    "hash_code_list_example": "353449673"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wall_cb_dmean_5000_it.json",
@@ -445,33 +325,12 @@
         "id_image": "wall_5234284"
       }
     ],
-    "hash_code_list_img": "-1815894873",
-    "list_definition_mean": [
-      {
-        "mean_english": "bức tường",
-        "definition": "something built of stone, brick, plaster, wood etc and used to separate off or enclose something",
-        "ex_of_definition_list": [
-          "There’s a wall at the bottom of the garden",
-          "The Great Wall of China",
-          "a garden wall."
-        ]
-      },
-      {
-        "mean_english": "tường nhà",
-        "definition": "any of the sides of a building or room",
-        "ex_of_definition_list": [
-          "One wall of the room is yellow – the rest are white."
-        ]
-      },
-      {
-        "mean_english": "xây tường bao quanh",
-        "definition": "(often with in) to enclose (something) with a wall",
-        "ex_of_definition_list": [
-          "We’ve walled in the playground to prevent the children getting out."
-        ]
-      }
+    "hash_code_list_img": "-1142443078",
+    "list_example": [
+      "There’s a wall at the bottom of the garden",
+      "One wall of the room is yellow – the rest are white."
     ],
-    "hash_code_list_definition_mean": "-582290715"
+    "hash_code_list_example": "-1132451484"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/walnut_cb_dmean_5000_it.json",
@@ -501,17 +360,13 @@
         "id_image": "walnut_3944277"
       }
     ],
-    "hash_code_list_img": "-1892545021",
-    "list_definition_mean": [
-      {
-        "mean_english": "gỗ cây óc chó",
-        "definition": "(also adjective) (of) the wood of the tree",
-        "ex_of_definition_list": [
-          "a walnut table."
-        ]
-      }
+    "hash_code_list_img": "2027152735",
+    "list_example": [
+      "a walnut table.",
+      "Whatever terms are used, today the relationship is much more that of the walnut being brutally crushed under the heel of the aggressor.",
+      "However, a company can charge against its profits the most luxurious office accommodation—walnut panelling, cocktail cabinets, etc."
     ],
-    "hash_code_list_definition_mean": "622778005"
+    "hash_code_list_example": "956621247"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wanderlust_cb_dmean_5000_it.json",
@@ -529,17 +384,16 @@
         "id_image": "wanderlust_708670"
       }
     ],
-    "hash_code_list_img": "277393727",
-    "list_definition_mean": [
-      {
-        "mean_english": "sở thích du lịch",
-        "definition": "the wish to travel",
-        "ex_of_definition_list": [
-          "He’s always travelling/traveling – his wanderlust will never be satisfied."
-        ]
-      }
+    "hash_code_list_img": "1034673456",
+    "list_example": [
+      "He’s always travelling/traveling – his wanderlust will never be satisfied.",
+      "He was never far from his wanderlust personality that he had developed from his schooldays.",
+      "His wanderlust in belonging to a musical act was often at odds with his domestic life.",
+      "Because the need to be outdoors and to travel has been eliminated, thoughts of wanderlust are considered perverse.",
+      "The wanderlust of the three is especially notorious.",
+      "Vikings' seaworthiness and wanderlust resulted in new areas being developed."
     ],
-    "hash_code_list_definition_mean": "36717529"
+    "hash_code_list_example": "-288786204"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wand_cb_dmean_5000_it.json",
@@ -572,17 +426,14 @@
         "id_image": "wand_707132"
       }
     ],
-    "hash_code_list_img": "-1573682118",
-    "list_definition_mean": [
-      {
-        "mean_english": "đũa thần",
-        "definition": "a long slender rod eg used as the symbol of magic power by conjurors, fairies etc",
-        "ex_of_definition_list": [
-          "In the story, the fairy waved her magic wand and the frog became a prince."
-        ]
-      }
+    "hash_code_list_img": "355404109",
+    "list_example": [
+      "In the story, the fairy waved her magic wand and the frog became a prince.",
+      "The rate of triggering and duration of the notes can be raised and lowered within a certain range by moving up or down the wand while pressing its button.",
+      "Even if it is an imperative, however, there is no magic wand that can deliver good governance.",
+      "The button of the wand triggers and holds notes."
     ],
-    "hash_code_list_definition_mean": "1799435247"
+    "hash_code_list_example": "-10911739"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wardrobe_cb_dmean_5000_it.json",
@@ -601,24 +452,11 @@
         "id_image": "wardrobe_700116"
       }
     ],
-    "hash_code_list_img": "820157483",
-    "list_definition_mean": [
-      {
-        "mean_english": "tủ treo quần áo",
-        "definition": "a cupboard in which clothes may be hung",
-        "ex_of_definition_list": [
-          "Hang your suit in the wardrobe."
-        ]
-      },
-      {
-        "mean_english": "toàn bộ quần áo của một người",
-        "definition": "a stock of clothing",
-        "ex_of_definition_list": [
-          "She bought a complete new wardrobe in Paris."
-        ]
-      }
+    "hash_code_list_img": "1148337588",
+    "list_example": [
+      "She bought a complete new wardrobe in Paris."
     ],
-    "hash_code_list_definition_mean": "-711957310"
+    "hash_code_list_example": "886113628"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/ward_cb_dmean_5000_it.json",
@@ -637,25 +475,12 @@
         "id_image": "ward_298716"
       }
     ],
-    "hash_code_list_img": "49814942",
-    "list_definition_mean": [
-      {
-        "mean_english": "phòng bệnh",
-        "definition": "a room with a bed or beds for patients in a hospital etc",
-        "ex_of_definition_list": [
-          "an emergency ward",
-          "He is in a surgical ward of the local hospital."
-        ]
-      },
-      {
-        "mean_english": "người được bảo trợ",
-        "definition": "a person who is under the legal control and care of someone who is not his or her parent or (a ward of court) of a court",
-        "ex_of_definition_list": [
-          "She was made a ward of court."
-        ]
-      }
+    "hash_code_list_img": "606882483",
+    "list_example": [
+      "He is in a surgical ward of the local hospital.",
+      "She was made a ward of court."
     ],
-    "hash_code_list_definition_mean": "-744782248"
+    "hash_code_list_example": "1711066110"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/warehouse_cb_dmean_5000_it.json",
@@ -678,17 +503,18 @@
         "id_image": "warehouse_869045"
       }
     ],
-    "hash_code_list_img": "-2141230953",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà kho",
-        "definition": "a building in which goods are stored",
-        "ex_of_definition_list": [
-          "a furniture warehouse."
-        ]
-      }
+    "hash_code_list_img": "-1212962967",
+    "list_example": [
+      "a furniture warehouse.",
+      "The island had buildings for baking, meat dressing, pickling, barrel-making, clothing production, and a number of warehouses.",
+      "The problem to-day is that people cannot buy the goods which they produce, and the warehouses and the shops are overstocked.",
+      "As salesmen and delivery vans enter the fray, the repair men are on hand: and soon the warehouses and suppliers follow.",
+      "I have no information about their interior condition, but they have been used as warehouses.",
+      "One does not need to search far to find many shops and warehouses where conditions are far from being conducive to the community's health.",
+      "First, there is the class of case where already large quantities of goods are lying in bonded warehouses in the various ports of this country.",
+      "In the latter case, the shipowners also have an alternative of duty-free delivery direct from the bonded warehouses or refineries."
     ],
-    "hash_code_list_definition_mean": "643757039"
+    "hash_code_list_example": "1208647275"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/warfare_cb_dmean_5000_it.json",
@@ -706,18 +532,12 @@
         "id_image": "warfare_3380934"
       }
     ],
-    "hash_code_list_img": "543254452",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuộc chiến tranh",
-        "definition": "fighting, as in a war",
-        "ex_of_definition_list": [
-          "the weapons of modern warfare",
-          "He refused to fight, because he has religious objections to warfare."
-        ]
-      }
+    "hash_code_list_img": "313945256",
+    "list_example": [
+      "the weapons of modern warfare",
+      "He refused to fight, because he has religious objections to warfare."
     ],
-    "hash_code_list_definition_mean": "1903221303"
+    "hash_code_list_example": "-1963016700"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/warmth_cb_dmean_5000_it.json",
@@ -745,19 +565,19 @@
         "id_image": "warmth_5783771"
       }
     ],
-    "hash_code_list_img": "-1156529165",
-    "list_definition_mean": [
-      {
-        "mean_english": "hơi ấm",
-        "definition": "the state of being warm",
-        "ex_of_definition_list": [
-          "the warmth of the fire",
-          "The actor was delighted by the warmth of the applause",
-          "The warmth of her smile made me feel welcome."
-        ]
-      }
+    "hash_code_list_img": "-1360788373",
+    "list_example": [
+      "the warmth of the fire",
+      "The actor was delighted by the warmth of the applause",
+      "The warmth of her smile made me feel welcome.",
+      "Although these approaches are somewhat different, it is clear that parenting research focuses primarily on variations in parenting warmth and control.",
+      "The warmth rating was an evaluation of positive affect directed toward the child.",
+      "This symbolises the loneliness of the isolated individual, coming into the warmth of friendship.",
+      "Family conflict would put youth on the path to negative peers and family warmth to positive peers.",
+      "High scores on this composite reflect a combination of high structure and rules, warmth and closeness, and high expectations for child's achievement and prosocial behavior.",
+      "This is like warmth blocking synonymous *warmness, except that the blocked item in the relationship may be a syntactic unit."
     ],
-    "hash_code_list_definition_mean": "1794528"
+    "hash_code_list_example": "156624072"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/warm_cb_dmean_5000_it.json",
@@ -792,69 +612,18 @@
         "id_image": "warm_817790"
       }
     ],
-    "hash_code_list_img": "-1901424414",
-    "list_definition_mean": [
-      {
-        "mean_english": "ấm",
-        "definition": "moderately, or comfortably, hot",
-        "ex_of_definition_list": [
-          "Are you warm enough, or shall I close the window?",
-          "a warm summer’s day."
-        ]
-      },
-      {
-        "mean_english": "có khả năng giữ ấm",
-        "definition": "(of clothes) protecting the wearer from the cold",
-        "ex_of_definition_list": [
-          "a warm jumper."
-        ]
-      },
-      {
-        "mean_english": "nhiệt tình",
-        "definition": "welcoming, friendly, enthusiastic etc",
-        "ex_of_definition_list": [
-          "a warm welcome",
-          "a warm smile."
-        ]
-      },
-      {
-        "mean_english": "làm nóng người",
-        "definition": "tending to make one hot",
-        "ex_of_definition_list": [
-          "This is warm work!"
-        ]
-      },
-      {
-        "mean_english": "gợi lên sự ấm áp",
-        "definition": "(of colours/colors) enriched by a certain quantity of red or pink, or (of red etc) rich and bright",
-        "ex_of_definition_list": [
-          "a warm red",
-          "I don’t want white walls – I want something warmer."
-        ]
-      },
-      {
-        "mean_english": "làm ấm",
-        "definition": "to make moderately hot",
-        "ex_of_definition_list": [
-          "He warmed his hands in front of the fire."
-        ]
-      },
-      {
-        "mean_english": "đối xử tốt với ai",
-        "definition": "to become friendly (towards) or enthusiastic (about)",
-        "ex_of_definition_list": [
-          "She warmed to his charm."
-        ]
-      },
-      {
-        "mean_english": "sự sưởi ấm",
-        "definition": "an act of warming",
-        "ex_of_definition_list": [
-          "Give your hands a warm in front of the fire."
-        ]
-      }
+    "hash_code_list_img": "-1535666223",
+    "list_example": [
+      "Are you warm enough, or shall I close the window?",
+      "a warm summer’s day.",
+      "a warm jumper.",
+      "a warm welcome",
+      "a warm smile.",
+      "This is warm work!",
+      "a warm red",
+      "Give your hands a warm in front of the fire."
     ],
-    "hash_code_list_definition_mean": "-485700113"
+    "hash_code_list_example": "-1944838339"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/warn_cb_dmean_5000_it.json",
@@ -878,26 +647,11 @@
         "id_image": "warn_2598222"
       }
     ],
-    "hash_code_list_img": "606731994",
-    "list_definition_mean": [
-      {
-        "mean_english": "cảnh báo",
-        "definition": "to tell (a person) in advance (about a danger etc)",
-        "ex_of_definition_list": [
-          "Black clouds warned us of the approaching storm",
-          "They warned her that she would be ill if she didn’t rest."
-        ]
-      },
-      {
-        "mean_english": "khuyên",
-        "definition": "to advise (someone against doing something)",
-        "ex_of_definition_list": [
-          "I was warned about/against speeding by the policeman",
-          "They warned him not to be late."
-        ]
-      }
+    "hash_code_list_img": "-1177965807",
+    "list_example": [
+      "We warn the reader that not every equational presentation of a collection monad need be balanced."
     ],
-    "hash_code_list_definition_mean": "-1771431810"
+    "hash_code_list_example": "-2114920027"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/warp_cb_dmean_5000_it.json",
@@ -923,31 +677,20 @@
         "id_image": "warp_2590546"
       }
     ],
-    "hash_code_list_img": "-1554451729",
-    "list_definition_mean": [
-      {
-        "mean_english": "cong",
-        "definition": "to make or become twisted out of shape",
-        "ex_of_definition_list": [
-          "The door has been warped by all the rain we’ve had lately."
-        ]
-      },
-      {
-        "mean_english": "làm lệch lạc",
-        "definition": "to cause to think or act in an abnormal way",
-        "ex_of_definition_list": [
-          "His experiences had warped his judgement/mind."
-        ]
-      },
-      {
-        "mean_english": "vênh",
-        "definition": "the shape into which something is twisted by warping",
-        "ex_of_definition_list": [
-          "The rain has given this wood a permanent warp."
-        ]
-      }
+    "hash_code_list_img": "-987735578",
+    "list_example": [
+      "The door has been warped by all the rain we’ve had lately.",
+      "His experiences had warped his judgement/mind.",
+      "The rain has given this wood a permanent warp.",
+      "The cost of nets, warps and gear generally and stores has also increased.",
+      "Dynamic time warping is an algorithm for measuring similarity between two sequences that may vary in time or speed.",
+      "In this case they are glad to have their warps dressed by someone who is 81 years of age.",
+      "In addition, they appear to run both upslope and downslope, suggesting that the plains were warped by regional tectonism after channel formation.",
+      "The vessel was towed astern for about 10 minutes before the gear was freed by the cutting of one of the warps.",
+      "The amount of money that we spend on defence warps our design and technological development.",
+      "Both aircraft were two-bay tractor biplanes with low-dihedral parallel-chord unstaggered wings with rounded ends, using wing warping for roll control."
     ],
-    "hash_code_list_definition_mean": "1363809729"
+    "hash_code_list_example": "-110930033"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/warrior_cb_dmean_5000_it.json",
@@ -975,18 +718,14 @@
         "id_image": "warrior_4742477"
       }
     ],
-    "hash_code_list_img": "2093441805",
-    "list_definition_mean": [
-      {
-        "mean_english": "chiến binh",
-        "definition": "a soldier or skilled fighting man, especially in primitive societies",
-        "ex_of_definition_list": [
-          "The chief of the tribe called his warriors together",
-          "(also adjective) a warrior prince."
-        ]
-      }
+    "hash_code_list_img": "57996145",
+    "list_example": [
+      "(also adjective) a warrior prince.",
+      "Rather, independence and autonomy were central to warrior manhood.",
+      "Even the initiation rituals continued to include an emphasis on fertility and generational succession rather than on warrior ethos.",
+      "Her stable, warrior stance, extended limbs, and erect torso must convey her inner strength."
     ],
-    "hash_code_list_definition_mean": "2014517862"
+    "hash_code_list_example": "51841573"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wart_cb_dmean_5000_it.json",
@@ -1004,17 +743,11 @@
         "id_image": "wart_3411683"
       }
     ],
-    "hash_code_list_img": "631067288",
-    "list_definition_mean": [
-      {
-        "mean_english": "hột cơm",
-        "definition": "a small hard growth on the skin",
-        "ex_of_definition_list": [
-          "He has a wart on his chin."
-        ]
-      }
+    "hash_code_list_img": "2006005470",
+    "list_example": [
+      "He has a wart on his chin."
     ],
-    "hash_code_list_definition_mean": "845786753"
+    "hash_code_list_example": "973899968"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/war_cb_dmean_5000_it.json",
@@ -1043,27 +776,12 @@
         "id_image": "war_5138667"
       }
     ],
-    "hash_code_list_img": "-1285182613",
-    "list_definition_mean": [
-      {
-        "mean_english": "chiến tranh",
-        "definition": "(an) armed struggle, especially between nations",
-        "ex_of_definition_list": [
-          "Their leader has declared war on Britain",
-          "The larger army will win the war",
-          "the horrors of war",
-          "(also adjective) He is guilty of war crimes."
-        ]
-      },
-      {
-        "mean_english": "gây chiến",
-        "definition": "to fight",
-        "ex_of_definition_list": [
-          "The two countries have been warring with each other for generations."
-        ]
-      }
+    "hash_code_list_img": "-396376760",
+    "list_example": [
+      "Their leader has declared war on Britain",
+      "(also adjective) He is guilty of war crimes."
     ],
-    "hash_code_list_definition_mean": "-2078210697"
+    "hash_code_list_example": "-1229483068"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/washable_cb_dmean_5000_it.json",
@@ -1081,17 +799,14 @@
         "id_image": "washable_5830436"
       }
     ],
-    "hash_code_list_img": "42165139",
-    "list_definition_mean": [
-      {
-        "mean_english": "có thể giặt được",
-        "definition": "able to be washed without being damaged",
-        "ex_of_definition_list": [
-          "Is this dress washable?"
-        ]
-      }
+    "hash_code_list_img": "1294248772",
+    "list_example": [
+      "The term first originated in the late nineteenth century to describe at-home garments designed for maximum practicality and usually made from washable fabrics.",
+      "A sink with a good supply of water, adequate electrical fittings, a waterproof floor and washable walls and ceiling must also be provided.",
+      "Teaching materials can be pre-printed on plastic sheets, upon which the educator can directly write using a non-permanent, washable color marking pen.",
+      "The blue uniform supplied has to be of a strong, but washable material."
     ],
-    "hash_code_list_definition_mean": "514823665"
+    "hash_code_list_example": "-61211034"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/washbasin_cb_dmean_5000_it.json",
@@ -1124,17 +839,14 @@
         "id_image": "washbasin_518986"
       }
     ],
-    "hash_code_list_img": "1522593612",
-    "list_definition_mean": [
-      {
-        "mean_english": "chậu rửa",
-        "definition": "a basin in which to wash one’s face and hands",
-        "ex_of_definition_list": [
-          "We are having a new washbasin installed in the bathroom."
-        ]
-      }
+    "hash_code_list_img": "-1543258095",
+    "list_example": [
+      "We are having a new washbasin installed in the bathroom.",
+      "Problems included no hand washbasin adjacent to the toilets (five), no soap (four), no hot water (four), no toilet paper (two) and no toilet seats in the girls' toilets (one).",
+      "All trainees in these establishments have their own bedrooms with integral sanitation including a toilet, shower and washbasin with hot and cold water.",
+      "Most of the schools are in private homes, which will have a normal-sized loo and washbasin and a towel on the wall."
     ],
-    "hash_code_list_definition_mean": "1566158184"
+    "hash_code_list_example": "-10472105"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/washer_cb_dmean_5000_it.json",
@@ -1163,24 +875,20 @@
         "id_image": "washer_518995"
       }
     ],
-    "hash_code_list_img": "1862361432",
-    "list_definition_mean": [
-      {
-        "mean_english": "người giặt; máy giặt",
-        "definition": "a person or thing (eg a machine) that washes",
-        "ex_of_definition_list": [
-          "They’ve just bought an automatic dish-washer."
-        ]
-      },
-      {
-        "mean_english": "vòng đệm",
-        "definition": "a flat ring of rubber, metal etc to keep nuts or joints tight",
-        "ex_of_definition_list": [
-          "The tap needs a new washer."
-        ]
-      }
+    "hash_code_list_img": "1123049050",
+    "list_example": [
+      "They’ve just bought an automatic dish-washer.",
+      "The tap needs a new washer.",
+      "Many companies charge additional coverage for appliances such as clothes washers and clothes dryers, which are generally not covered.",
+      "After he asks for washers the shopkeeper, out of desperation and annoyance, recites a long list of possible items.",
+      "Such water is of sufficient quality for flushing toilets and operating washing machines and the increasing number of dish washers.",
+      "The total imports of iron and steel rivets and washers amounted to 1,991 tons during the year 1935 and to 3,095 tons during the first 11 months of 1936.",
+      "The local golden ore deposits were rich and the town attracted both miners and gold washers from all the nearby areas.",
+      "On either side of the gear are the thrust washers.",
+      "The primary winding is similar, surrounded by its magnetic core, and its end pieces are like thick washers.",
+      "Thus, it is tempting for staff to repeatedly carry out remedial actions and re-test water samples whilst still using the washer-disinfector."
     ],
-    "hash_code_list_definition_mean": "1351423926"
+    "hash_code_list_example": "-1811106573"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wash_cb_dmean_5000_it.json",
@@ -1227,82 +935,17 @@
         "id_image": "wash_392763"
       }
     ],
-    "hash_code_list_img": "-630931560",
-    "list_definition_mean": [
-      {
-        "mean_english": "rửa; giặt",
-        "definition": "to clean (a thing or person, especially oneself) with (soap and) water or other liquid",
-        "ex_of_definition_list": [
-          "How often do you wash your hair?",
-          "You wash (the dishes) and I’ll dry",
-          "We can wash in the stream."
-        ]
-      },
-      {
-        "mean_english": "có thể giặt được",
-        "definition": "to be able to be washed without being damaged",
-        "ex_of_definition_list": [
-          "This fabric doesn’t wash very well."
-        ]
-      },
-      {
-        "mean_english": "xô vào",
-        "definition": "to flow (against, over etc)",
-        "ex_of_definition_list": [
-          "The waves washed (against) the ship."
-        ]
-      },
-      {
-        "mean_english": "cuốn trôi",
-        "definition": "to sweep (away etc) by means of water",
-        "ex_of_definition_list": [
-          "The floods have washed away hundreds of houses."
-        ]
-      },
-      {
-        "mean_english": "sự giặt",
-        "definition": "an act of washing",
-        "ex_of_definition_list": [
-          "He’s just gone to have a wash."
-        ]
-      },
-      {
-        "mean_english": "nhứng thứ có thể gíặt được",
-        "definition": "things to be washed or being washed",
-        "ex_of_definition_list": [
-          "Your sweater is in the wash."
-        ]
-      },
-      {
-        "mean_english": "tiếng sóng vỗ nước",
-        "definition": "the flowing or lapping (of waves etc)",
-        "ex_of_definition_list": [
-          "the wash of waves against the rocks."
-        ]
-      },
-      {
-        "mean_english": "thuốc đánh răng",
-        "definition": "a liquid with which something is washed",
-        "ex_of_definition_list": [
-          "a mouthwash."
-        ]
-      },
-      {
-        "mean_english": "lớp tráng",
-        "definition": "a thin coat (of water-colour/-color paint etc), especially in a painting",
-        "ex_of_definition_list": [
-          "The background of the picture was a pale blue wash."
-        ]
-      },
-      {
-        "mean_english": "tiếng sóng",
-        "definition": "the waves caused by a moving boat etc",
-        "ex_of_definition_list": [
-          "The rowing boat was tossing about in the wash from the ship’s propellers."
-        ]
-      }
+    "hash_code_list_img": "-1649934767",
+    "list_example": [
+      "How often do you wash your hair?",
+      "You wash (the dishes) and I’ll dry",
+      "We can wash in the stream.",
+      "This fabric doesn’t wash very well.",
+      "the wash of waves against the rocks.",
+      "The rowing boat was tossing about in the wash from the ship’s propellers.",
+      "These kind creatures next turned their attention to our personal appearance, and prevailed upon us to shave and wash ourselves."
     ],
-    "hash_code_list_definition_mean": "-11616845"
+    "hash_code_list_example": "246878858"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wasteful_cb_dmean_5000_it.json",
@@ -1320,17 +963,17 @@
         "id_image": "wasteful_6164912"
       }
     ],
-    "hash_code_list_img": "1998805000",
-    "list_definition_mean": [
-      {
-        "mean_english": "gây lãng phí",
-        "definition": "involving or causing waste",
-        "ex_of_definition_list": [
-          "Throwing away that bread is wasteful."
-        ]
-      }
+    "hash_code_list_img": "6932228",
+    "list_example": [
+      "Our critical response was to the transient and ephemeral nature of shopping which we saw as wasteful and frivolous.",
+      "Parasites and parasitoids often shut down host investment in reproduction which is wasteful from the parasite's point of view.",
+      "Such goals are necessarily critical of the wasteful lifestyle of the rich capitalist market economies and consumer societies.",
+      "Increasingly this optimism has been found to be hollow: wasteful habits of consumption persist, and substitutes for natural inputs have been slow to appear.",
+      "The book is formatted in a technical writing style known as information mapping, which is certainly clear albeit very wasteful of space.",
+      "It is wasteful to throw out a repository of patterns, some of which may have been established over millennia.",
+      "Entrance to a 'community' or a 'pays' is also trying to reduce the tendency to spread wasteful and non-productive investments."
     ],
-    "hash_code_list_definition_mean": "776404980"
+    "hash_code_list_example": "-1657292395"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/waste_cb_dmean_5000_it.json",
@@ -1365,39 +1008,13 @@
         "id_image": "waste_4465658"
       }
     ],
-    "hash_code_list_img": "-1365997422",
-    "list_definition_mean": [
-      {
-        "mean_english": "lãng phí",
-        "definition": "to fail to use (something) fully or in the correct or most useful way",
-        "ex_of_definition_list": [
-          "You’re wasting my time with all these stupid questions."
-        ]
-      },
-      {
-        "mean_english": "rác thải",
-        "definition": "material which is or has been made useless",
-        "ex_of_definition_list": [
-          "industrial waste from the factories",
-          "(also adjective) waste material."
-        ]
-      },
-      {
-        "mean_english": "lãng phí",
-        "definition": "(the) act of wasting",
-        "ex_of_definition_list": [
-          "That was a waste of an opportunity."
-        ]
-      },
-      {
-        "mean_english": "hoang mạc",
-        "definition": "a huge stretch of unused or infertile land, or of water, desert, ice etc",
-        "ex_of_definition_list": [
-          "the Arctic wastes."
-        ]
-      }
+    "hash_code_list_img": "-2006757496",
+    "list_example": [
+      "industrial waste from the factories",
+      "(also adjective) waste material.",
+      "That was a waste of an opportunity."
     ],
-    "hash_code_list_definition_mean": "-1540834218"
+    "hash_code_list_example": "180093751"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/watchman_cb_dmean_5000_it.json",
@@ -1425,17 +1042,11 @@
         "id_image": "watchman_2067150"
       }
     ],
-    "hash_code_list_img": "1156399650",
-    "list_definition_mean": [
-      {
-        "mean_english": "người canh gác",
-        "definition": "(often night-watchman) a man employed to guard a building etc against thieves, especially at night",
-        "ex_of_definition_list": [
-          "The bank robbers shot the (night-)watchman."
-        ]
-      }
+    "hash_code_list_img": "-1927084131",
+    "list_example": [
+      "Will the spy and the watchman ever meet?"
     ],
-    "hash_code_list_definition_mean": "1409855628"
+    "hash_code_list_example": "-2036725295"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/watch_cb_dmean_5000_it.json",
@@ -1465,71 +1076,15 @@
         "id_image": "watch_332054"
       }
     ],
-    "hash_code_list_img": "-921421104",
-    "list_definition_mean": [
-      {
-        "mean_english": "đồng hồ đeo tay",
-        "definition": "a small instrument for telling the time by, worn on the wrist or carried in the pocket of a waistcoat etc",
-        "ex_of_definition_list": [
-          "He wears a gold watch",
-          "a wrist-watch."
-        ]
-      },
-      {
-        "mean_english": "canh gác",
-        "definition": "a period of standing guard during the night",
-        "ex_of_definition_list": [
-          "I’ll take the watch from two o’clock till six."
-        ]
-      },
-      {
-        "mean_english": "đội tuần tra",
-        "definition": "in the navy etc, a group of officers and men who are on duty at a given time",
-        "ex_of_definition_list": [
-          "The night watch come(s) on duty soon."
-        ]
-      },
-      {
-        "mean_english": "nhìn",
-        "definition": "to look at (someone or something)",
-        "ex_of_definition_list": [
-          "He was watching her carefully",
-          "He is watching television."
-        ]
-      },
-      {
-        "mean_english": "để ý",
-        "definition": "to keep a lookout (for)",
-        "ex_of_definition_list": [
-          "They’ve gone to watch for the ship coming in",
-          "Could you watch for the postman?"
-        ]
-      },
-      {
-        "mean_english": "cẩn thận",
-        "definition": "to be careful of (someone or something)",
-        "ex_of_definition_list": [
-          "Watch (that) you don’t fall off!",
-          "Watch him! He’s dangerous."
-        ]
-      },
-      {
-        "mean_english": "trông coi",
-        "definition": "to guard or take care of",
-        "ex_of_definition_list": [
-          "Watch the prisoner and make sure he doesn’t escape",
-          "Please watch the baby while I go shopping."
-        ]
-      },
-      {
-        "mean_english": "chờ đợi",
-        "definition": "to wait for (a chance, opportunity etc)",
-        "ex_of_definition_list": [
-          "Watch your chance, and then run."
-        ]
-      }
+    "hash_code_list_img": "1922060711",
+    "list_example": [
+      "I’ll take the watch from two o’clock till six.",
+      "The night watch come(s) on duty soon.",
+      "They’ve gone to watch for the ship coming in",
+      "Could you watch for the postman?",
+      "Please watch the baby while I go shopping."
     ],
-    "hash_code_list_definition_mean": "-1358438133"
+    "hash_code_list_example": "-1082963932"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/watermelon_cb_dmean_5000_it.json",
@@ -1557,17 +1112,13 @@
         "id_image": "watermelon_437095"
       }
     ],
-    "hash_code_list_img": "-1916336352",
-    "list_definition_mean": [
-      {
-        "mean_english": "quả dưa hấu",
-        "definition": "a type of melon with green skin and red flesh",
-        "ex_of_definition_list": [
-          "a slice of watermelon."
-        ]
-      }
+    "hash_code_list_img": "-410256810",
+    "list_example": [
+      "One last analogy: say you have a watermelon seed and are squeezing it between your thumb and forefinger.",
+      "In the summer, the produce driver would leave a watermelon once every week or two.",
+      "After this, the kitchen staff began to hide the watermelon in the cooler."
     ],
-    "hash_code_list_definition_mean": "2039279297"
+    "hash_code_list_example": "-965170230"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/waterproof_cb_dmean_5000_it.json",
@@ -1597,31 +1148,13 @@
         "id_image": "waterproof_6256102"
       }
     ],
-    "hash_code_list_img": "1682261028",
-    "list_definition_mean": [
-      {
-        "mean_english": "không thấm nước",
-        "definition": "not allowing water to soak through",
-        "ex_of_definition_list": [
-          "waterproof material."
-        ]
-      },
-      {
-        "mean_english": "áo mưa",
-        "definition": "a coat made of waterproof material",
-        "ex_of_definition_list": [
-          "She was wearing a waterproof."
-        ]
-      },
-      {
-        "mean_english": "làm cho không thấm nước",
-        "definition": "to make (material) waterproof",
-        "ex_of_definition_list": [
-          "A wax coating is used to waterproof the jackets."
-        ]
-      }
+    "hash_code_list_img": "-1468178153",
+    "list_example": [
+      "waterproof material.",
+      "A wax coating is used to waterproof the jackets.",
+      "Far too many of our people live in accommodation that is unsatisfactory, unsanitary and not waterproof or windproof."
     ],
-    "hash_code_list_definition_mean": "-2029954458"
+    "hash_code_list_example": "-1259255563"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/water_cb_dmean_5000_it.json",
@@ -1652,42 +1185,17 @@
         "id_image": "water_523386"
       }
     ],
-    "hash_code_list_img": "-244069240",
-    "list_definition_mean": [
-      {
-        "mean_english": "nước",
-        "definition": "a colourless/colorless, transparent liquid compound of hydrogen and oxygen, having no taste or smell, which turns to steam when boiled and to ice when frozen",
-        "ex_of_definition_list": [
-          "She drank two glasses of water",
-          "‘Are you going swimming in the sea?’ ‘No, the water’s too cold’",
-          "Each bedroom in the hotel is supplied with hot and cold running water",
-          "(also adjective) The plumber had to turn off the water supply in order to repair the pipe",
-          "transport by land and water."
-        ]
-      },
-      {
-        "mean_english": "tưới cây; cho uống nước",
-        "definition": "to supply with water",
-        "ex_of_definition_list": [
-          "He watered the plants."
-        ]
-      },
-      {
-        "mean_english": "chảy nước bọt",
-        "definition": "(of the mouth) to produce saliva",
-        "ex_of_definition_list": [
-          "His mouth watered at the sight of all the food."
-        ]
-      },
-      {
-        "mean_english": "làm chảy nước mắt",
-        "definition": "(of the eyes) to fill with tears",
-        "ex_of_definition_list": [
-          "The dense smoke made his eyes water."
-        ]
-      }
+    "hash_code_list_img": "1501644892",
+    "list_example": [
+      "(also adjective) The plumber had to turn off the water supply in order to repair the pipe",
+      "Then the water composition approximately oscillates at each point of the aquifer in phase with the water velocity.",
+      "This is not necessarily so, as is evidenced by the financial problems of the potable water systems in all three states.",
+      "The existence of discrete levels of critical water potential is suggestive of specific stresses that cells must accommodate during the acquisition of desiccation tolerance.",
+      "Removing water from living tissues causes a series of dehydration stresses.",
+      "In addition to the milking, the izinceku also tended to the king's oxen and fetched water for the king in gourds.",
+      "This testa probably reduced the rate of water loss and protected the embryo from physical injury."
     ],
-    "hash_code_list_definition_mean": "186522759"
+    "hash_code_list_example": "-742262061"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wave_cb_dmean_5000_it.json",
@@ -1718,74 +1226,11 @@
         "id_image": "wave_468351"
       }
     ],
-    "hash_code_list_img": "-1461690978",
-    "list_definition_mean": [
-      {
-        "mean_english": "sóng",
-        "definition": "a moving ridge, larger than a ripple, moving on the surface of water",
-        "ex_of_definition_list": [
-          "rolling waves",
-          "The boat was being tossed about on the waves."
-        ]
-      },
-      {
-        "mean_english": "sóng điện từ",
-        "definition": "a vibration travelling eg through the air",
-        "ex_of_definition_list": [
-          "radio waves",
-          "sound waves",
-          "light waves."
-        ]
-      },
-      {
-        "mean_english": "gợn sóng",
-        "definition": "a curve or curves in the hair",
-        "ex_of_definition_list": [
-          "Are those waves natural?"
-        ]
-      },
-      {
-        "mean_english": "sự tăng lên",
-        "definition": "a (usually temporary) rise or increase",
-        "ex_of_definition_list": [
-          "the recent crime wave",
-          "a wave of violence",
-          "The pain came in waves."
-        ]
-      },
-      {
-        "mean_english": "sự vẫy tay",
-        "definition": "an act of waving",
-        "ex_of_definition_list": [
-          "She recognized me, and gave me a wave."
-        ]
-      },
-      {
-        "mean_english": "vẫy nhẹ",
-        "definition": "to move backwards and forwards or flutter",
-        "ex_of_definition_list": [
-          "The flags waved gently in the breeze."
-        ]
-      },
-      {
-        "mean_english": "uốn cong",
-        "definition": "to (cause hair to) curve first one way then the other",
-        "ex_of_definition_list": [
-          "She’s had her hair waved",
-          "Her hair waves naturally."
-        ]
-      },
-      {
-        "mean_english": "vẫy",
-        "definition": "to make a gesture (of greeting etc) with (eg the hand)",
-        "ex_of_definition_list": [
-          "She waved to me across the street",
-          "Everyone was waving handkerchiefs in farewell",
-          "They waved goodbye."
-        ]
-      }
+    "hash_code_list_img": "-1665283442",
+    "list_example": [
+      "a wave of violence"
     ],
-    "hash_code_list_definition_mean": "2044642646"
+    "hash_code_list_example": "1750325787"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wax_cb_dmean_5000_it.json",
@@ -1820,31 +1265,15 @@
         "id_image": "wax_3460304"
       }
     ],
-    "hash_code_list_img": "255236538",
-    "list_definition_mean": [
-      {
-        "mean_english": "sáp để đánh bóng",
-        "definition": "a manufactured, fatty substance used in polishing, to give a good shine",
-        "ex_of_definition_list": [
-          "furniture wax."
-        ]
-      },
-      {
-        "mean_english": "sáp để làm nến",
-        "definition": "(also candle-wax) (of) a substance made from paraffin, used in making candles, models etc, that melts when heated",
-        "ex_of_definition_list": [
-          "(also adjective) a wax model."
-        ]
-      },
-      {
-        "mean_english": "đánh bóng bằng sáp",
-        "definition": "to smear, polish or rub with wax",
-        "ex_of_definition_list": [
-          "He waxes and polishes his car every Sunday morning."
-        ]
-      }
+    "hash_code_list_img": "-145548818",
+    "list_example": [
+      "(also adjective) a wax model.",
+      "There are almost no technological grounds to withhold wax tablets from the hands of composers of polyphony anytime from the eleventh to the fifteenth century.",
+      "The position of the observer's head was maintained by a dental wax impression.",
+      "Consequently, the wax maintains its (volumetric) magnitude while the surface areas of its transformed shape become larger.",
+      "The model is based on the assumption that solid segregated wax and dissolved wax co-exist only at saturation and no super-saturation can occur."
     ],
-    "hash_code_list_definition_mean": "-1525729230"
+    "hash_code_list_example": "-653035724"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/way_cb_dmean_5000_it.json",
@@ -1879,87 +1308,28 @@
         "id_image": "way_661923"
       }
     ],
-    "hash_code_list_img": "-415113721",
-    "list_definition_mean": [
-      {
-        "mean_english": "đường đi",
-        "definition": "an opening or passageway",
-        "ex_of_definition_list": [
-          "This is the way in/out",
-          "There’s no way through."
-        ]
-      },
-      {
-        "mean_english": "đường đi",
-        "definition": "a route, direction etc",
-        "ex_of_definition_list": [
-          "Which way shall we go?",
-          "Which is the way to Princes Street?",
-          "His house is on the way from here to the school",
-          "Will you be able to find your/the way to my house?",
-          "Your house is on my way home",
-          "The errand took me out of my way",
-          "a motorway."
-        ]
-      },
-      {
-        "mean_english": "đường cụ thể",
-        "definition": "used in the names of roads",
-        "ex_of_definition_list": [
-          "His address is 21 Melville Way."
-        ]
-      },
-      {
-        "mean_english": "khoảng cách",
-        "definition": "a distance",
-        "ex_of_definition_list": [
-          "It’s a long way to the school",
-          "The nearest shops are only a short way away."
-        ]
-      },
-      {
-        "mean_english": "cách",
-        "definition": "a method or manner",
-        "ex_of_definition_list": [
-          "What is the best way to make an omelette?",
-          "I know a good way of doing it",
-          "He’s got a funny way of talking",
-          "This is the quickest way to chop onions."
-        ]
-      },
-      {
-        "mean_english": "mức độ",
-        "definition": "an aspect or side of something",
-        "ex_of_definition_list": [
-          "In some ways this job is quite difficult",
-          "In a way I feel sorry for him."
-        ]
-      },
-      {
-        "mean_english": "thói quen",
-        "definition": "a characteristic of behaviour; a habit",
-        "ex_of_definition_list": [
-          "He has some rather unpleasant ways."
-        ]
-      },
-      {
-        "mean_english": "len qua",
-        "definition": "used with many verbs to give the idea of progressing or moving",
-        "ex_of_definition_list": [
-          "He pushed his way through the crowd",
-          "They soon ate their way through the food."
-        ]
-      },
-      {
-        "mean_english": "xa",
-        "definition": "by a long distance or time; far",
-        "ex_of_definition_list": [
-          "The winner finished the race way ahead of the other competitors",
-          "It’s way past your bedtime."
-        ]
-      }
+    "hash_code_list_img": "-795684276",
+    "list_example": [
+      "This is the way in/out",
+      "There’s no way through.",
+      "Which way shall we go?",
+      "Which is the way to Princes Street?",
+      "His house is on the way from here to the school",
+      "Will you be able to find your/the way to my house?",
+      "Your house is on my way home",
+      "It’s a long way to the school",
+      "The nearest shops are only a short way away.",
+      "What is the best way to make an omelette?",
+      "I know a good way of doing it",
+      "He’s got a funny way of talking",
+      "This is the quickest way to chop onions.",
+      "In a way I feel sorry for him.",
+      "He pushed his way through the crowd",
+      "They soon ate their way through the food.",
+      "The winner finished the race way ahead of the other competitors",
+      "It’s way past your bedtime."
     ],
-    "hash_code_list_definition_mean": "-999804465"
+    "hash_code_list_example": "965117331"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/weak_cb_dmean_5000_it.json",
@@ -1981,38 +1351,13 @@
         "id_image": "weak_1616468"
       }
     ],
-    "hash_code_list_img": "995584466",
-    "list_definition_mean": [
-      {
-        "mean_english": "yếu",
-        "definition": "lacking in physical strength",
-        "ex_of_definition_list": [
-          "Her illness has made her very weak."
-        ]
-      },
-      {
-        "mean_english": "thiếu nghị lực",
-        "definition": "not strong in character",
-        "ex_of_definition_list": [
-          "I’m very weak when it comes to giving up cigarettes."
-        ]
-      },
-      {
-        "mean_english": "nhạt",
-        "definition": "(of a liquid) diluted; not strong",
-        "ex_of_definition_list": [
-          "weak tea."
-        ]
-      },
-      {
-        "mean_english": "thiếu thuyết phục",
-        "definition": "(of an explanation etc) not convincing",
-        "ex_of_definition_list": [
-          "a weak argument."
-        ]
-      }
+    "hash_code_list_img": "732526202",
+    "list_example": [
+      "I’m very weak when it comes to giving up cigarettes.",
+      "weak tea.",
+      "a weak argument."
     ],
-    "hash_code_list_definition_mean": "864650973"
+    "hash_code_list_example": "1650712759"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wealthy_cb_dmean_5000_it.json",
@@ -2030,17 +1375,11 @@
         "id_image": "wealthy_3776230"
       }
     ],
-    "hash_code_list_img": "2115496006",
-    "list_definition_mean": [
-      {
-        "mean_english": "giàu có",
-        "definition": "having much money and/or many possessions; rich",
-        "ex_of_definition_list": [
-          "She is a wealthy young widow."
-        ]
-      }
+    "hash_code_list_img": "99759128",
+    "list_example": [
+      "She is a wealthy young widow."
     ],
-    "hash_code_list_definition_mean": "1558852869"
+    "hash_code_list_example": "-1278360300"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wealth_cb_dmean_5000_it.json",
@@ -2074,24 +1413,17 @@
         "id_image": "wealth_6214082"
       }
     ],
-    "hash_code_list_img": "-1458354426",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự giàu có",
-        "definition": "riches",
-        "ex_of_definition_list": [
-          "He is a man of great wealth."
-        ]
-      },
-      {
-        "mean_english": "sự phong phú",
-        "definition": "a great quantity (of)",
-        "ex_of_definition_list": [
-          "a wealth of information."
-        ]
-      }
+    "hash_code_list_img": "-1825372259",
+    "list_example": [
+      "a wealth of information.",
+      "Given the time separabilities in preferences, there are important distinctions between consumption and wealth lotteries.",
+      "The community is based on the shared interest in the circulation of wealth for the purpose of its preservation and expansion (p. 253).",
+      "Finally, let us analyse the relationship between wealth status and remarriage.",
+      "A closer scrutiny of the wealth of some will-makers will allow us to say more.",
+      "Even so, the great strength of this work is the wealth of detailed and clearly presented information that it brings together.",
+      "The net flow of wealth was from child to parent over a lifetime."
     ],
-    "hash_code_list_definition_mean": "450705385"
+    "hash_code_list_example": "-1848754350"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/weapon_cb_dmean_5000_it.json",
@@ -2119,19 +1451,13 @@
         "id_image": "weapon_2670501"
       }
     ],
-    "hash_code_list_img": "-944734829",
-    "list_definition_mean": [
-      {
-        "mean_english": "vũ khí",
-        "definition": "any instrument or means which is used for one’s own defence/defense or for attacking others",
-        "ex_of_definition_list": [
-          "Guns, knives and other weapons were found at the suspect’s house",
-          "The police are looking for the murder weapon",
-          "Surprise is our best weapon."
-        ]
-      }
+    "hash_code_list_img": "-1668476974",
+    "list_example": [
+      "Guns, knives and other weapons were found at the suspect’s house",
+      "The police are looking for the murder weapon",
+      "Surprise is our best weapon."
     ],
-    "hash_code_list_definition_mean": "2052870218"
+    "hash_code_list_example": "-1046843382"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wearable_cb_dmean_5000_it.json",
@@ -2154,17 +1480,18 @@
         "id_image": "wearable_1998151"
       }
     ],
-    "hash_code_list_img": "978444472",
-    "list_definition_mean": [
-      {
-        "mean_english": "có thể mặc được",
-        "definition": "(opposite unwearable) fit to be worn",
-        "ex_of_definition_list": [
-          "My only wearable coat is at the cleaners."
-        ]
-      }
+    "hash_code_list_img": "-1946284858",
+    "list_example": [
+      "My only wearable coat is at the cleaners.",
+      "The advent of advanced electronics has resulted in wearable technology being developed and popularized since the 1980s.",
+      "Today still wearable computing is a topic of active research, with areas of study including user interface design, augmented reality, pattern recognition.",
+      "He is best known for design of the first smartphones, wearable fitness technology and tablet applications.",
+      "In addition to force-plate measurement devices, wearable sensor postural sway systems are becoming more popular due to their portability and low cost.",
+      "Through gateway devices, it is possible to connect the wearable devices on the human body to the internet.",
+      "The communicating systems use e-mail, or wireless devices such as mobile phones, wearable computers or the handheld variety.",
+      "Measures must now be taken by the leading world powers to make the system wearable and bearable."
     ],
-    "hash_code_list_definition_mean": "425149075"
+    "hash_code_list_example": "1478212475"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wear_cb_dmean_5000_it.json",
@@ -2190,85 +1517,16 @@
         "id_image": "wear_4845986"
       }
     ],
-    "hash_code_list_img": "1774922123",
-    "list_definition_mean": [
-      {
-        "mean_english": "mặc; mang; đeo",
-        "definition": "to be dressed in or carry on (a part of) the body",
-        "ex_of_definition_list": [
-          "She wore a white dress",
-          "Does she usually wear glasses?"
-        ]
-      },
-      {
-        "mean_english": "để râu, tóc",
-        "definition": "to arrange (one’s hair) in a particular way",
-        "ex_of_definition_list": [
-          "She wears her hair in a ponytail."
-        ]
-      },
-      {
-        "mean_english": "tỏ thái độ",
-        "definition": "to have or show (a particular expression)",
-        "ex_of_definition_list": [
-          "She wore an angry expression on her face."
-        ]
-      },
-      {
-        "mean_english": "dùng mòn",
-        "definition": "to (cause to) become thinner etc because of use, rubbing etc",
-        "ex_of_definition_list": [
-          "This carpet has worn in several places",
-          "This sweater is wearing thin at the elbows."
-        ]
-      },
-      {
-        "mean_english": "làm rách",
-        "definition": "to make (a bare patch, a hole etc) by rubbing, use etc",
-        "ex_of_definition_list": [
-          "I’ve worn a hole in the elbow of my jacket."
-        ]
-      },
-      {
-        "mean_english": "bền",
-        "definition": "to stand up to use",
-        "ex_of_definition_list": [
-          "This material doesn’t wear very well."
-        ]
-      },
-      {
-        "mean_english": "quần áo mặc",
-        "definition": "use as clothes etc",
-        "ex_of_definition_list": [
-          "I use this suit for everyday wear",
-          "Those shoes won’t stand much wear."
-        ]
-      },
-      {
-        "mean_english": "những thứ để mặc",
-        "definition": "articles for use as clothes",
-        "ex_of_definition_list": [
-          "casual wear",
-          "sportswear",
-          "leisure wear."
-        ]
-      },
-      {
-        "mean_english": "mòn",
-        "definition": "(sometimes wear and tear) damage due to use",
-        "ex_of_definition_list": [
-          "The hall carpet is showing signs of wear."
-        ]
-      },
-      {
-        "mean_english": "bền",
-        "definition": "ability to withstand use",
-        "ex_of_definition_list": [
-          "There’s plenty of wear left in these boots."
-        ]
-      }
+    "hash_code_list_img": "1821550012",
+    "list_example": [
+      "Does she usually wear glasses?",
+      "This material doesn’t wear very well.",
+      "There’s plenty of wear left in these boots.",
+      "Further, 22.6 % of them (7/31) stated that they would not wear a mask when going to public areas, if they had any flu-like symptoms.",
+      "As long as she had something to eat, clothes to wear and somewhere to sleep, she did not consider herself to be poor.",
+      "Everywhere on the globe people watch the same films, eat the same food, and wear the same clothing."
     ],
-    "hash_code_list_definition_mean": "-1495368361"
+    "hash_code_list_example": "712602874"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/weather_cb_dmean_5000_it.json",
@@ -2303,33 +1561,18 @@
         "id_image": "weather_2646793"
       }
     ],
-    "hash_code_list_img": "1400635931",
-    "list_definition_mean": [
-      {
-        "mean_english": "thời tiết",
-        "definition": "conditions in the atmosphere, especially as regards heat or cold, wind, rain, snow etc",
-        "ex_of_definition_list": [
-          "The weather is too hot for me",
-          "stormy weather",
-          "(also adjective) a weather chart/report, the weather forecast."
-        ]
-      },
-      {
-        "mean_english": "làm thay đổi màu sắc, hình dáng",
-        "definition": "to affect or be affected by exposure to the air, resulting in drying, change of colour, shape etc",
-        "ex_of_definition_list": [
-          "The wind and sea have weathered the rocks quite smooth."
-        ]
-      },
-      {
-        "mean_english": "sống sót",
-        "definition": "to survive safely",
-        "ex_of_definition_list": [
-          "The ship weathered the storm although she was badly damaged."
-        ]
-      }
+    "hash_code_list_img": "1187236800",
+    "list_example": [
+      "The weather is too hot for me",
+      "(also adjective) a weather chart/report, the weather forecast.",
+      "In some instances the weather deterred individuals from attending.",
+      "The machine units were converted into weather measurements in order to get a clear understanding of the range of weather activity.",
+      "If the weather is cool, then mating, and subsequent oviposition, are delayed.",
+      "However, the visit had to be postponed to the very end of the season because poor weather conditions delayed the whole programme.",
+      "Results show that farm risk in this environment is in-uenced much more by prices than by weather variability.",
+      "How these parameters vary annually in relation to weather and other factors has received little attention."
     ],
-    "hash_code_list_definition_mean": "-2128810914"
+    "hash_code_list_example": "1778083031"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/weave_cb_dmean_5000_it.json",
@@ -2354,24 +1597,11 @@
         "id_image": "weave_3461831"
       }
     ],
-    "hash_code_list_img": "1613196138",
-    "list_definition_mean": [
-      {
-        "mean_english": "đan",
-        "definition": "to make by crossing strands in a pattern",
-        "ex_of_definition_list": [
-          "A machine was invented that could weave cloth."
-        ]
-      },
-      {
-        "mean_english": "đu đưa",
-        "definition": "(past tense, past participle weaved) to move backwards and forwards or from side to side",
-        "ex_of_definition_list": [
-          "The cyclist weaved in and out of the traffic."
-        ]
-      }
+    "hash_code_list_img": "1309863916",
+    "list_example": [
+      "A machine was invented that could weave cloth."
     ],
-    "hash_code_list_definition_mean": "573564923"
+    "hash_code_list_example": "1862101137"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/webcam_cb_dmean_5000_it.json",
@@ -2399,17 +1629,14 @@
         "id_image": "webcam_517800"
       }
     ],
-    "hash_code_list_img": "915671522",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái webcam",
-        "definition": "a video camera connected to a computer that allows its images to be seen in real time over the Internet",
-        "ex_of_definition_list": [
-          "Webcams are easy to install and straightforward to use."
-        ]
-      }
+    "hash_code_list_img": "-504721762",
+    "list_example": [
+      "They experiment and learn that the parameters of the webcam can be manipulated in various ways.",
+      "The multimedia site was also accompanied by a webcam allowing people to follow the ship's construction up to its launch date.",
+      "The focal range of the webcam restricts communicative space significantly compared to face-to-face signed communication; the camera's visual field is far more limited than an actual interactant's would be.",
+      "Another way computer-mediated video enhances communication is in the way the webcam provides interlocutors with a unique resource - a two-dimensional image of themselves signing - which is available throughout the conversation."
     ],
-    "hash_code_list_definition_mean": "1184673672"
+    "hash_code_list_example": "1232823506"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/web_cb_dmean_5000_it.json",
@@ -2448,17 +1675,13 @@
         "id_image": "web_5767738"
       }
     ],
-    "hash_code_list_img": "876402314",
-    "list_definition_mean": [
-      {
-        "mean_english": "mảng tơ",
-        "definition": "a type of trap for flies etc made of fine silk threads, spun by a spider etc",
-        "ex_of_definition_list": [
-          "a spider’s web."
-        ]
-      }
+    "hash_code_list_img": "917111451",
+    "list_example": [
+      "With the advent of small mobile computing devices like handheld computers and smart mobile phones, the range of possible web displays has increased.",
+      "But her personality and professional contribution ignite a curiosity and touch a multidimensional web of cultural issues.",
+      "The web of these associations constitutes an artistic reflection on the sensibility and experience of the feminine in a patriarchal society."
     ],
-    "hash_code_list_definition_mean": "1805905672"
+    "hash_code_list_example": "1274080559"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wedge_cb_dmean_5000_it.json",
@@ -2483,31 +1706,12 @@
         "id_image": "wedge_3390203"
       }
     ],
-    "hash_code_list_img": "253074117",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái nệm",
-        "definition": "a piece of wood or metal, thick at one end and sloping to a thin edge at the other, used in splitting wood etc or in fixing something tightly in place",
-        "ex_of_definition_list": [
-          "She used a wedge under the door to prevent it swinging shut."
-        ]
-      },
-      {
-        "mean_english": "vật hình cái nệm",
-        "definition": "something similar in shape",
-        "ex_of_definition_list": [
-          "a wedge of cheese."
-        ]
-      },
-      {
-        "mean_english": "chèn",
-        "definition": "to fix or become fixed by, or as if by, a wedge or wedges",
-        "ex_of_definition_list": [
-          "He is so fat that he got wedged in the doorway."
-        ]
-      }
+    "hash_code_list_img": "854243763",
+    "list_example": [
+      "She used a wedge under the door to prevent it swinging shut.",
+      "a wedge of cheese."
     ],
-    "hash_code_list_definition_mean": "282668095"
+    "hash_code_list_example": "1512688311"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/weight_cb_dmean_5000_it.json",
@@ -2536,58 +1740,11 @@
         "id_image": "weight_523819"
       }
     ],
-    "hash_code_list_img": "-1589428937",
-    "list_definition_mean": [
-      {
-        "mean_english": "trọng lượng",
-        "definition": "the amount which a person or thing weighs",
-        "ex_of_definition_list": [
-          "He’s put on a lot of weight (= got much fatter) over the years."
-        ]
-      },
-      {
-        "mean_english": "quả cân",
-        "definition": "a piece of metal etc of a standard weight",
-        "ex_of_definition_list": [
-          "a seven-pound weight."
-        ]
-      },
-      {
-        "mean_english": "quả tạ",
-        "definition": "a heavy object, especially one for lifting as a sport",
-        "ex_of_definition_list": [
-          "He lifts weights to develop his muscles."
-        ]
-      },
-      {
-        "mean_english": "gánh nặng",
-        "definition": "burden; load",
-        "ex_of_definition_list": [
-          "You have taken a weight off my mind."
-        ]
-      },
-      {
-        "mean_english": "tầm quan trọng",
-        "definition": "importance",
-        "ex_of_definition_list": [
-          "Her opinion carries a lot of weight."
-        ]
-      },
-      {
-        "mean_english": "gắn thêm vật nặng",
-        "definition": "to attach, or add, a weight or weights to",
-        "ex_of_definition_list": [
-          "The plane is weighted at the nose so that it balances correctly in flight."
-        ]
-      },
-      {
-        "mean_english": "buộc thêm vật nặng",
-        "definition": "to hold down by attaching weights",
-        "ex_of_definition_list": [
-          "They weighted the balloon to prevent it from flying away."
-        ]
-      }
+    "hash_code_list_img": "235534037",
+    "list_example": [
+      "He’s put on a lot of weight (= got much fatter) over the years.",
+      "You have taken a weight off my mind."
     ],
-    "hash_code_list_definition_mean": "2053593713"
+    "hash_code_list_example": "871605575"
   }
 ]

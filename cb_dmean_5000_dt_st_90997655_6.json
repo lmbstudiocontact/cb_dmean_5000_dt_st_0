@@ -21,25 +21,11 @@
         "id_image": "baby_204646"
       }
     ],
-    "hash_code_list_img": "1956545306",
-    "list_definition_mean": [
-      {
-        "mean_english": "trẻ nhỏ",
-        "definition": "a very young child",
-        "ex_of_definition_list": [
-          "Some babies cry during the night",
-          "(also adjective) a baby boy."
-        ]
-      },
-      {
-        "mean_english": "con",
-        "definition": "a very young animal",
-        "ex_of_definition_list": [
-          "The rabbit is feeding its babies."
-        ]
-      }
+    "hash_code_list_img": "-776871444",
+    "list_example": [
+      "(also adjective) a baby boy."
     ],
-    "hash_code_list_definition_mean": "1144800522"
+    "hash_code_list_example": "-398649443"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bachelor_cb_dmean_5000_it.json",
@@ -57,19 +43,17 @@
         "id_image": "bachelor_5352114"
       }
     ],
-    "hash_code_list_img": "2093139312",
-    "list_definition_mean": [
-      {
-        "mean_english": "người đàn ông độc thân",
-        "definition": "an unmarried man",
-        "ex_of_definition_list": [
-          "I expect he’ll remain a bachelor all his life",
-          "He’s a confirmed bachelor (= he has no intention of ever marrying)",
-          "(also adjective) a bachelor flat (= a flat suitable for one person)."
-        ]
-      }
+    "hash_code_list_img": "1605715807",
+    "list_example": [
+      "I expect he’ll remain a bachelor all his life",
+      "He’s a confirmed bachelor (= he has no intention of ever marrying)",
+      "(also adjective) a bachelor flat (= a flat suitable for one person).",
+      "The bachelor uncle cares about his nieces and nephews.",
+      "What would the shrewd bachelor uncle want for his nephew or niece in such a situation?",
+      "He could happen to be a bachelor and, therefore, could happen to be unmarried.",
+      "Both offer numerous taught programmes, which include certificates, diplomas, bachelor degrees and postgraduate qualifications."
     ],
-    "hash_code_list_definition_mean": "284902804"
+    "hash_code_list_example": "-1380046466"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/backbone_cb_dmean_5000_it.json",
@@ -88,24 +72,15 @@
         "id_image": "backbone_2252843"
       }
     ],
-    "hash_code_list_img": "1778300152",
-    "list_definition_mean": [
-      {
-        "mean_english": "xương sống",
-        "definition": "the spine",
-        "ex_of_definition_list": [
-          "the backbone of a fish."
-        ]
-      },
-      {
-        "mean_english": "trụ cột",
-        "definition": "the chief support",
-        "ex_of_definition_list": [
-          "These players will continue to form the backbone of the team."
-        ]
-      }
+    "hash_code_list_img": "844194568",
+    "list_example": [
+      "the backbone of a fish.",
+      "These players will continue to form the backbone of the team.",
+      "The strength of this approach is that it also takes into account the cost of dehydrating the helix backbone and the energy for salt-bridge formation.",
+      "Precision is the backbone rmsd for ensembles of structures calculated using simulated annealing.",
+      "The phosphodiester backbone is represented by a dot for the strands in a 5k-3k orientation and by a cross for the 3k-5k strands."
     ],
-    "hash_code_list_definition_mean": "-965324404"
+    "hash_code_list_example": "83949405"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/backgammon_cb_dmean_5000_it.json",
@@ -133,17 +108,14 @@
         "id_image": "backgammon_683899"
       }
     ],
-    "hash_code_list_img": "187054470",
-    "list_definition_mean": [
-      {
-        "mean_english": "cờ thỏ cáo",
-        "definition": "a game for two players in which they throw dice and move flat circular pieces around a board marked with long thin triangles",
-        "ex_of_definition_list": [
-          "Two old men were playing backgammon."
-        ]
-      }
+    "hash_code_list_img": "420638204",
+    "list_example": [
+      "Play65 has more than 5,000,000 registered players, making it one of the biggest backgammon communities online.",
+      "It was the first viable computer backgammon program implemented as a neural net, and set a new standard in computer backgammon play.",
+      "You may see young men playing soccer or throwing a football while the old men play backgammon in the shade.",
+      "At this point we move from the rarified atmosphere of the historical background of backgammon and crown and anchor to the more mundane subject of the \"one-armed bandit\"."
     ],
-    "hash_code_list_definition_mean": "58465561"
+    "hash_code_list_example": "-1307873695"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/background_cb_dmean_5000_it.json",
@@ -173,32 +145,18 @@
         "id_image": "background_3997800"
       }
     ],
-    "hash_code_list_img": "1531411",
-    "list_definition_mean": [
-      {
-        "mean_english": "nền",
-        "definition": "the space behind the principal or most important figures or objects of a picture etc",
-        "ex_of_definition_list": [
-          "He always paints ships against a background of stormy skies",
-          "She had drawn some trees in the background of the picture."
-        ]
-      },
-      {
-        "mean_english": "bối cảnh",
-        "definition": "happenings that go before, and help to explain, an event etc",
-        "ex_of_definition_list": [
-          "He explained the background of the current situation."
-        ]
-      },
-      {
-        "mean_english": "thông tin cá nhân",
-        "definition": "a person’s origins, education etc",
-        "ex_of_definition_list": [
-          "She was ashamed of her humble background."
-        ]
-      }
+    "hash_code_list_img": "-1565713820",
+    "list_example": [
+      "He always paints ships against a background of stormy skies",
+      "She had drawn some trees in the background of the picture.",
+      "He explained the background of the current situation.",
+      "This book will be useful to those who, regardless of their background and experience, are involved in caring for dying people.",
+      "It was further assumed that the background turbulence is isotropic.",
+      "In other words, the theoretical background is primarily based on processual history.",
+      "He surveys the sacred meals against a carefully assembled background of ordinary meal-taking and the general philosophy of food in each region.",
+      "This provides the background of our main task."
     ],
-    "hash_code_list_definition_mean": "-121812793"
+    "hash_code_list_example": "-20038172"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/backlog_cb_dmean_5000_it.json",
@@ -231,17 +189,18 @@
         "id_image": "backlog_5360748"
       }
     ],
-    "hash_code_list_img": "-597669087",
-    "list_definition_mean": [
-      {
-        "mean_english": "công việc tồn đọng",
-        "definition": "a pile of uncompleted work etc which has collected",
-        "ex_of_definition_list": [
-          "A backlog of orders had built up because of the strike."
-        ]
-      }
+    "hash_code_list_img": "-171358101",
+    "list_example": [
+      "A backlog of orders had built up because of the strike.",
+      "For all public sector housing, the backlog of such work is estimated at £780 million at 1994 prices.",
+      "Blackouts caused by sunspot activity made communication difficult and sometimes impossible, resulting in a backlog of delayed traffic when the blackout ended.",
+      "These trends did not support the backlog theory, although they did not preclude the idea that an element of backlog had existed in 1955.",
+      "One of the advantages of a young journal is that the backlog is small; the turnaround from first submission to final appearance can be under a year.",
+      "Currently, we are therefore having to decide whether to validate a backlog of 25 years of experience and, if so, how.",
+      "We have of course, a great backlog of unfilled wants in the country.",
+      "However, it is not clear that these estimates include the backlog in the lowest courts."
     ],
-    "hash_code_list_definition_mean": "2000603811"
+    "hash_code_list_example": "725317604"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/backpack_cb_dmean_5000_it.json",
@@ -269,17 +228,11 @@
         "id_image": "backpack_701857"
       }
     ],
-    "hash_code_list_img": "-412315860",
-    "list_definition_mean": [
-      {
-        "mean_english": "balô",
-        "definition": "a bag that walkers, people who go on trips, or students carry on their backs; rucksack",
-        "ex_of_definition_list": [
-          "The tent fits comfortably inside a backpack."
-        ]
-      }
+    "hash_code_list_img": "192243050",
+    "list_example": [
+      "The tent fits comfortably inside a backpack."
     ],
-    "hash_code_list_definition_mean": "65839020"
+    "hash_code_list_example": "135631604"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/backup_cb_dmean_5000_it.json",
@@ -314,32 +267,14 @@
         "id_image": "backup_5827589"
       }
     ],
-    "hash_code_list_img": "-1754233679",
-    "list_definition_mean": [
-      {
-        "mean_english": "lực lượng hỗ trợ",
-        "definition": "additional people who provide help when it is needed",
-        "ex_of_definition_list": [
-          "The police officer requested some backup when the shooting began."
-        ]
-      },
-      {
-        "mean_english": "bản sao dự phòng",
-        "definition": "a copy of a computer file that can be used in case the original is destroyed",
-        "ex_of_definition_list": [
-          "You should always make a backup of the file you are working on."
-        ]
-      },
-      {
-        "mean_english": "dự phòng",
-        "definition": "a piece of equipment, a system etc that can be used when there is a problem with the original one",
-        "ex_of_definition_list": [
-          "We have a generator which we use as a backup if the power fails",
-          "(also adjective) a backup plan."
-        ]
-      }
+    "hash_code_list_img": "577563365",
+    "list_example": [
+      "The police officer requested some backup when the shooting began.",
+      "You should always make a backup of the file you are working on.",
+      "We have a generator which we use as a backup if the power fails",
+      "(also adjective) a backup plan."
     ],
-    "hash_code_list_definition_mean": "-21969500"
+    "hash_code_list_example": "1567183702"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/backward_cb_dmean_5000_it.json",
@@ -359,32 +294,20 @@
         "id_image": "backward_6040174"
       }
     ],
-    "hash_code_list_img": "1914435532",
-    "list_definition_mean": [
-      {
-        "mean_english": "về phía sau",
-        "definition": "aimed or directed backwards",
-        "ex_of_definition_list": [
-          "He left without a backward glance."
-        ]
-      },
-      {
-        "mean_english": "chậm hiểu",
-        "definition": "less advanced in mind or body than is normal for one’s age",
-        "ex_of_definition_list": [
-          "a backward child."
-        ]
-      },
-      {
-        "mean_english": "lạc hậu",
-        "definition": "late in developing a modern culture, mechanization etc",
-        "ex_of_definition_list": [
-          "That part of the country is still very backward",
-          "a backward region."
-        ]
-      }
+    "hash_code_list_img": "757099152",
+    "list_example": [
+      "He left without a backward glance.",
+      "a backward child.",
+      "a backward region.",
+      "A solution of the type (2.8) is only possible if b > 0, in which case (2.5) is backward parabolic.",
+      "As it can be seen the main radiation energy concentrates in the forward direction rather than a symmetrical structure for both forward and backward directions.",
+      "The second solution turns forward jumps into backward jumps by generating a single block before the child's loop with a jump-hole.",
+      "At equilibrium the forward and backward rates match, and consequently (26) must hold.",
+      "Green et al. (1999) related visual backward masking deficits in patients with schizophrenia to a failure to establish cortical oscillations in the gamma range.",
+      "Given a set of forward rate constants, (28) can now be used to calculate the backward rate constants.",
+      "Convergence of backward economies with richer ones seems to be conditional on human capital formation."
     ],
-    "hash_code_list_definition_mean": "925112317"
+    "hash_code_list_example": "385220510"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/backyard_cb_dmean_5000_it.json",
@@ -407,17 +330,19 @@
         "id_image": "backyard_4792180"
       }
     ],
-    "hash_code_list_img": "-715554630",
-    "list_definition_mean": [
-      {
-        "mean_english": "sân sau",
-        "definition": "a garden at the back of a house etc",
-        "ex_of_definition_list": [
-          "He grows vegetables in his backyard."
-        ]
-      }
+    "hash_code_list_img": "-11430969",
+    "list_example": [
+      "He grows vegetables in his backyard.",
+      "The local residents also complain that as the mist condenses greasy water comes down on to the ground and has flooded the backyards of several of their houses.",
+      "During their trial evidence of twelve other babies found buried in the backyards of their previous residences was offered as evidence.",
+      "The three residences are connected at their backyards.",
+      "The houses are so close together that there can only be a single driveway to both backyards.",
+      "Rubbish is often found strewn around the streets and backyards in these districts.",
+      "Moreover, although the water main lines passed through the communitys backyards, there was no offer of water service made to the community.",
+      "I referred to these \"phoney\" cars built in backyards, not to the general run of cars.",
+      "Again, the design of modern council housing provides for small backyards and gardens—and very attractive they are, too."
     ],
-    "hash_code_list_definition_mean": "139653036"
+    "hash_code_list_example": "1917068103"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/back_cb_dmean_5000_it.json",
@@ -456,104 +381,19 @@
         "id_image": "back_4843948"
       }
     ],
-    "hash_code_list_img": "1749448196",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái lưng",
-        "definition": "in humans, the part of the body from the neck to the bottom of the spine",
-        "ex_of_definition_list": [
-          "She lay on her back."
-        ]
-      },
-      {
-        "mean_english": "lưng động vật",
-        "definition": "in animals, the upper part of the body",
-        "ex_of_definition_list": [
-          "She put the saddle on the horse’s back."
-        ]
-      },
-      {
-        "mean_english": "đằng sau",
-        "definition": "that part of anything opposite to or furthest from the front",
-        "ex_of_definition_list": [
-          "the back of the house",
-          "She sat at the back of the hall."
-        ]
-      },
-      {
-        "mean_english": "hậu vệ",
-        "definition": "in soccer, hockey etc a player who plays behind the forwards",
-        "ex_of_definition_list": [
-          "a left/right back."
-        ]
-      },
-      {
-        "mean_english": "đằng sau",
-        "definition": "of or at the back",
-        "ex_of_definition_list": [
-          "the back door."
-        ]
-      },
-      {
-        "mean_english": "trở lại",
-        "definition": "to, or at, the place or person from which a person or thing came",
-        "ex_of_definition_list": [
-          "I went back to the shop",
-          "He gave the watch back to its owner."
-        ]
-      },
-      {
-        "mean_english": "cách xa",
-        "definition": "away (from something); not near (something)",
-        "ex_of_definition_list": [
-          "Move back! Let the ambulance get to the injured man",
-          "Keep back from me or I’ll hit you!"
-        ]
-      },
-      {
-        "mean_english": "quay trở lại",
-        "definition": "towards the back (of something)",
-        "ex_of_definition_list": [
-          "Ted was sitting back in his chair."
-        ]
-      },
-      {
-        "mean_english": "phản ứng lại",
-        "definition": "in return; in response to",
-        "ex_of_definition_list": [
-          "When the teacher is telling you off, don’t answer back."
-        ]
-      },
-      {
-        "mean_english": "nghĩ lại",
-        "definition": "to, or in, the past",
-        "ex_of_definition_list": [
-          "Think back to your childhood."
-        ]
-      },
-      {
-        "mean_english": "lùi",
-        "definition": "to (cause to) move backwards",
-        "ex_of_definition_list": [
-          "He backed (his car) out of the garage."
-        ]
-      },
-      {
-        "mean_english": "ủng hộ",
-        "definition": "to help or support",
-        "ex_of_definition_list": [
-          "Will you back me against the others?"
-        ]
-      },
-      {
-        "mean_english": "đánh cuộc",
-        "definition": "to bet or gamble on",
-        "ex_of_definition_list": [
-          "I backed your horse to win."
-        ]
-      }
+    "hash_code_list_img": "-1218187155",
+    "list_example": [
+      "the back of the house",
+      "She sat at the back of the hall.",
+      "the back door.",
+      "I went back to the shop",
+      "He gave the watch back to its owner.",
+      "Keep back from me or I’ll hit you!",
+      "Ted was sitting back in his chair.",
+      "Think back to your childhood.",
+      "Will you back me against the others?"
     ],
-    "hash_code_list_definition_mean": "143831772"
+    "hash_code_list_example": "758891318"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bacon_cb_dmean_5000_it.json",
@@ -586,18 +426,12 @@
         "id_image": "bacon_590709"
       }
     ],
-    "hash_code_list_img": "140071305",
-    "list_definition_mean": [
-      {
-        "mean_english": "thịt lợn muối xông khói",
-        "definition": "the flesh of the back and sides of a pig, salted and dried, used as food",
-        "ex_of_definition_list": [
-          "eggs and bacon",
-          "(also adjective) a bacon sandwich."
-        ]
-      }
+    "hash_code_list_img": "-1933245618",
+    "list_example": [
+      "(also adjective) a bacon sandwich.",
+      "They bought bread, ready-cooked potatoes and bacon if it could be afforded."
     ],
-    "hash_code_list_definition_mean": "250177669"
+    "hash_code_list_example": "-360802355"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bacteria_cb_dmean_5000_it.json",
@@ -630,17 +464,16 @@
         "id_image": "bacteria_2873787"
       }
     ],
-    "hash_code_list_img": "-866022109",
-    "list_definition_mean": [
-      {
-        "mean_english": "vi khuẩn",
-        "definition": "organisms not able to be seen except under a microscope, found in rotting matter, in air, in soil and in living bodies, some being the germs of disease",
-        "ex_of_definition_list": [
-          "The throat infection was caused by bacteria."
-        ]
-      }
+    "hash_code_list_img": "-1810039773",
+    "list_example": [
+      "Unfortunately, such systems are liquid based, so it is possible that the attachment of bacteria makes very little contribution to the overall bacterial profile.",
+      "In addition to the host's diet at different intervals during the day, oral bacteria in vivo can also obtain nutrients from saliva.",
+      "The collective behavior of bacteria is significant in bioengineering, agriculture, medicine, dentistry and geosciences, among other disciplines.",
+      "Such bacteria are not detected by visual assessment of plant cultures and are propagated together with the plant material.",
+      "On each slide, bacteria were viewed at 630x magnification and 10 square fields measuring 145 m per side.",
+      "From a probabilistic point of view, distributions of bacteria counts are neither continuous nor categorical."
     ],
-    "hash_code_list_definition_mean": "924399147"
+    "hash_code_list_example": "-731959542"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/badger_cb_dmean_5000_it.json",
@@ -664,17 +497,19 @@
         "id_image": "badger_371876"
       }
     ],
-    "hash_code_list_img": "-1647827877",
-    "list_definition_mean": [
-      {
-        "mean_english": "làm phiền",
-        "definition": "to annoy or worry",
-        "ex_of_definition_list": [
-          "He badgered his parents until they agreed to let him borrow the car."
-        ]
-      }
+    "hash_code_list_img": "1491320044",
+    "list_example": [
+      "He badgered his parents until they agreed to let him borrow the car.",
+      "I reiterate that badgers are not rare animals.",
+      "When earthworms are not available badgers are forced to select other food sources and will forage greater distances to obtain these.",
+      "At present there is no reliable live test to check for the disease in badgers.",
+      "There should not be any worry about the welfare of badgers, because it may well be possible to move them from the sites.",
+      "They are vigilant in protecting them from this prevalent practice of unlawful digging for badgers which is going on in many parts of the country.",
+      "The area gassed was determined by the location of infected farms, infected badgers, sett groupings and natural boundaries.",
+      "First, setts would be protected even when vacant or disused, or occupied by foxes rather than badgers.",
+      "Furthermore, cattle feed may provide alternative nutrition for badgers when natural foods are unavailable."
     ],
-    "hash_code_list_definition_mean": "975214903"
+    "hash_code_list_example": "1085437668"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/badge_cb_dmean_5000_it.json",
@@ -707,18 +542,11 @@
         "id_image": "badge_412817"
       }
     ],
-    "hash_code_list_img": "1236338649",
-    "list_definition_mean": [
-      {
-        "mean_english": "huy hiệu",
-        "definition": "a mark, emblem or ornament showing rank, occupation, or membership of a society, team etc",
-        "ex_of_definition_list": [
-          "You have to wear a blazer with the school badge sewn on it",
-          "All new employees will be given a security badge."
-        ]
-      }
+    "hash_code_list_img": "-254348017",
+    "list_example": [
+      "You have to wear a blazer with the school badge sewn on it"
     ],
-    "hash_code_list_definition_mean": "1836777530"
+    "hash_code_list_example": "-1901873518"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/badminton_cb_dmean_5000_it.json",
@@ -747,17 +575,17 @@
         "id_image": "badminton_404656"
       }
     ],
-    "hash_code_list_img": "327917412",
-    "list_definition_mean": [
-      {
-        "mean_english": "cầu lông",
-        "definition": "a game played on a court with a shuttlecock and rackets",
-        "ex_of_definition_list": [
-          "Have you ever played badminton?"
-        ]
-      }
+    "hash_code_list_img": "431260825",
+    "list_example": [
+      "a badminton match",
+      "a badminton court.",
+      "If there were no soccer, it is possible that the hooliganism would spread to badminton and ping pong.",
+      "The local church was teeming with different organisations - concert party, badminton club, ramblers, social club, drama group, and there were lots of other young people to meet.",
+      "In 1950, there were only six classes involved in coaching in badminton and by 1967 there were 609, a dramatic increase.",
+      "This certainly would help to reduce rents for other organisations, many of them voluntary, amateur sports clubs, badminton clubs, and so on.",
+      "Some 8 million people play badminton on a casual basis—a terrific number—and 2 million play regularly."
     ],
-    "hash_code_list_definition_mean": "1712003772"
+    "hash_code_list_example": "1595391505"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bad_cb_dmean_5000_it.json",
@@ -803,78 +631,24 @@
         "id_image": "bad_751812"
       }
     ],
-    "hash_code_list_img": "1118237423",
-    "list_definition_mean": [
-      {
-        "mean_english": "xấu; dở; tồi",
-        "definition": "not good; not efficient",
-        "ex_of_definition_list": [
-          "He is a bad driver",
-          "His eyesight is bad",
-          "He is bad at remembering birthdays and anniversaries."
-        ]
-      },
-      {
-        "mean_english": "ác; xấu",
-        "definition": "wicked; immoral",
-        "ex_of_definition_list": [
-          "a bad man",
-          "He has done some bad things."
-        ]
-      },
-      {
-        "mean_english": "khó chịu",
-        "definition": "unpleasant",
-        "ex_of_definition_list": [
-          "bad news."
-        ]
-      },
-      {
-        "mean_english": "thiu; hỏng",
-        "definition": "rotten",
-        "ex_of_definition_list": [
-          "This meat is bad."
-        ]
-      },
-      {
-        "mean_english": "có hại",
-        "definition": "causing harm or injury",
-        "ex_of_definition_list": [
-          "Smoking is bad for your health."
-        ]
-      },
-      {
-        "mean_english": "đau yếu",
-        "definition": "(of a part of the body) painful, or in a weak state",
-        "ex_of_definition_list": [
-          "She has a bad heart",
-          "I have a bad head (= headache) today."
-        ]
-      },
-      {
-        "mean_english": "không khoẻ",
-        "definition": "unwell",
-        "ex_of_definition_list": [
-          "I am feeling quite bad today."
-        ]
-      },
-      {
-        "mean_english": "nghiêm trọng",
-        "definition": "serious or severe",
-        "ex_of_definition_list": [
-          "a bad accident",
-          "a bad mistake."
-        ]
-      },
-      {
-        "mean_english": "nợ khó đòi",
-        "definition": "(of a debt) not likely to be paid",
-        "ex_of_definition_list": [
-          "The firm loses money every year from bad debts."
-        ]
-      }
+    "hash_code_list_img": "1551001809",
+    "list_example": [
+      "He is a bad driver",
+      "He is bad at remembering birthdays and anniversaries.",
+      "a bad man",
+      "He has done some bad things.",
+      "bad news.",
+      "Smoking is bad for your health.",
+      "She has a bad heart",
+      "I have a bad head (= headache) today.",
+      "I am feeling quite bad today.",
+      "a bad accident",
+      "a bad mistake.",
+      "The firm loses money every year from bad debts.",
+      "It is too bad that this purely internal data structure must be 'mentioned' in the interface.",
+      "He correctly points out that localist representations have unfairly received a bad reputation."
     ],
-    "hash_code_list_definition_mean": "742970512"
+    "hash_code_list_example": "-517566599"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bagel_cb_dmean_5000_it.json",
@@ -912,17 +686,17 @@
         "id_image": "bagel_768150"
       }
     ],
-    "hash_code_list_img": "2031765378",
-    "list_definition_mean": [
-      {
-        "mean_english": "bánh vòng",
-        "definition": "a hard bread roll that is shaped like a ring",
-        "ex_of_definition_list": [
-          "She had a bagel filled with cream cheese for lunch."
-        ]
-      }
+    "hash_code_list_img": "-1325593393",
+    "list_example": [
+      "She had a bagel filled with cream cheese for lunch.",
+      "The appeal of a bagel may change upon being toasted.",
+      "Other perceptually similar objects, such as bagel and slide, are also activated, but only weakly for this particular child.",
+      "A bagel is cut in two.",
+      "The taste of a bagel may additionally be complemented by additions cooked on the bagel, such as onion, garlic, sesame seeds, or poppy seeds.",
+      "A typical bagel has 260-350 calories, 1.0-4.5 grams of fat, 330-660 milligrams of sodium, and 2-5 grams of fiber.",
+      "After sitting empty for a couple years, the base site was used by a bagel manufacturer briefly."
     ],
-    "hash_code_list_definition_mean": "1501624978"
+    "hash_code_list_example": "1071137979"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/baggage_cb_dmean_5000_it.json",
@@ -960,17 +734,16 @@
         "id_image": "baggage_824214"
       }
     ],
-    "hash_code_list_img": "-1736094779",
-    "list_definition_mean": [
-      {
-        "mean_english": "hành lý",
-        "definition": "luggage",
-        "ex_of_definition_list": [
-          "He sent his baggage on in advance."
-        ]
-      }
+    "hash_code_list_img": "-655800380",
+    "list_example": [
+      "He sent his baggage on in advance.",
+      "The words may well carry lots of semantic baggage that is not relevant to an investigation into the properties represented by our visual systems.",
+      "When venturing beyond empirical data, scientists often bring in unnecessary and unnoticed conceptual baggage which can obstruct constructive consensus.",
+      "The work was accessible and lively, and the theoretical baggage was light enough to carry.",
+      "Playfully chasing each other, they ran out of the baggage car and back along the train.",
+      "Reanalysis is a simple term, with no excess baggage of incoherence and critical confusions."
     ],
-    "hash_code_list_definition_mean": "666678476"
+    "hash_code_list_example": "882937006"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/baguette_cb_dmean_5000_it.json",
@@ -998,17 +771,18 @@
         "id_image": "baguette_768151"
       }
     ],
-    "hash_code_list_img": "1509933373",
-    "list_definition_mean": [
-      {
-        "mean_english": "bánh mỳ que",
-        "definition": "a long thin loaf of white bread that is hard on the outside and soft inside; French loaf, French stick",
-        "ex_of_definition_list": [
-          "a freshly baked baguette with a filling of cheese and ham."
-        ]
-      }
+    "hash_code_list_img": "-1329236152",
+    "list_example": [
+      "a freshly baked baguette with a filling of cheese and ham.",
+      "We can buy a half a pound loaf for which we pay 40p, yet a baguette costs £1·50 a lb.",
+      "The chicken sandwich, served on a fresh cooked baguette roll, and came in several varieties, all of which were topped with a series of ingredients that were low in fat.",
+      "The bread was a smaller, specially baked baguette that resembled the hull of the submarines it was named after.",
+      "The fast-baked baguette was not introduced until 1920, so bakers had to work all night to bake the bread for the next day.",
+      "The toasted baguette pieces are dipped in the curry and eaten.",
+      "Though the composition of a bocadillo varies by region, it is usually a baguette filled with salad and a choice of meats, fish (usually tuna), or omelette.",
+      "The sale of baked goods grew rapidly, the baguette in particular."
     ],
-    "hash_code_list_definition_mean": "510873357"
+    "hash_code_list_example": "941915563"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bag_cb_dmean_5000_it.json",
@@ -1044,40 +818,12 @@
         "id_image": "bag_868188"
       }
     ],
-    "hash_code_list_img": "266619723",
-    "list_definition_mean": [
-      {
-        "mean_english": "túi",
-        "definition": "a container made of soft material (eg cloth, animal skin, plastic etc)",
-        "ex_of_definition_list": [
-          "She was carrying a small bag",
-          "a paper/plastic bag",
-          "a shopping bag."
-        ]
-      },
-      {
-        "mean_english": "mẻ săn",
-        "definition": "a quantity of fish or game caught",
-        "ex_of_definition_list": [
-          "Did you get a good bag today?"
-        ]
-      },
-      {
-        "mean_english": "bỏ vào túi",
-        "definition": "to put into a bag",
-        "ex_of_definition_list": [
-          "Some supermarkets will bag your groceries for you."
-        ]
-      },
-      {
-        "mean_english": "săn được",
-        "definition": "to kill (game)",
-        "ex_of_definition_list": [
-          "They bagged several pheasants that afternoon."
-        ]
-      }
+    "hash_code_list_img": "1440506679",
+    "list_example": [
+      "Did you get a good bag today?",
+      "Some supermarkets will bag your groceries for you."
     ],
-    "hash_code_list_definition_mean": "-798863478"
+    "hash_code_list_example": "1561718317"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bail_cb_dmean_5000_it.json",
@@ -1101,25 +847,11 @@
         "id_image": "bail_6222604"
       }
     ],
-    "hash_code_list_img": "2028927366",
-    "list_definition_mean": [
-      {
-        "mean_english": "tiền bảo lãnh",
-        "definition": "a sum of money which is given to a court of law to get an untried prisoner out of prison until the time of his/her trial, and which acts as security for his/her return",
-        "ex_of_definition_list": [
-          "The judge set the bail at $500",
-          "The defendant was refused bail."
-        ]
-      },
-      {
-        "mean_english": "1 trong 2 thanh ngang nằm trên bộ cọc gôn",
-        "definition": "one of the cross-pieces laid on the top of the wicket in cricket",
-        "ex_of_definition_list": [
-          "The wicket keeper knocked off the bails."
-        ]
-      }
+    "hash_code_list_img": "-163671810",
+    "list_example": [
+      "The judge set the bail at $500"
     ],
-    "hash_code_list_definition_mean": "-627119588"
+    "hash_code_list_example": "879182756"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bait_cb_dmean_5000_it.json",
@@ -1158,24 +890,20 @@
         "id_image": "bait_4690404"
       }
     ],
-    "hash_code_list_img": "1279730209",
-    "list_definition_mean": [
-      {
-        "mean_english": "mồi",
-        "definition": "food used to attract fish, animals etc which one wishes to catch, kill etc",
-        "ex_of_definition_list": [
-          "Before he went fishing, he dug up some worms for bait."
-        ]
-      },
-      {
-        "mean_english": "mắc mồi",
-        "definition": "to put bait on or in (a hook, trap etc)",
-        "ex_of_definition_list": [
-          "He baited the mousetrap with cheese."
-        ]
-      }
+    "hash_code_list_img": "-881494023",
+    "list_example": [
+      "Before he went fishing, he dug up some worms for bait.",
+      "He baited the mousetrap with cheese.",
+      "The use of relatively small baits ensured that competition would have occurred even at low beetle densities.",
+      "The presence of ant species and their relative abundances in rice fields during the dry fallow and rice crop seasons were determined using baits.",
+      "The mean numbers of faeces collected every month were 86n0 (57-155) and 103n7 (71-151) in the baited and the non-baited sections, respectively.",
+      "The traps were baited with octenol and compared in paired blocks with 8 replicates.",
+      "Both studies recorded significant decreases in the percentage of coproantigen-positive specimens from baited areas compared to control areas.",
+      "There was no significant difference in captures between traps baited with butyl hexanoate alone and traps baited with both butyl hexanoate and ammonium carbonate.",
+      "All previous studies of blowfly aggregation have used traps baited with carrion.",
+      "Both traps in the fourth chambers were baited with hexane-treated septa."
     ],
-    "hash_code_list_definition_mean": "-2091999907"
+    "hash_code_list_example": "-1898432642"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bakery_cb_dmean_5000_it.json",
@@ -1208,17 +936,15 @@
         "id_image": "bakery_4577552"
       }
     ],
-    "hash_code_list_img": "1336215500",
-    "list_definition_mean": [
-      {
-        "mean_english": "hiệu bánh mì",
-        "definition": "a place where baking is done and / or where bread, cakes etc are sold",
-        "ex_of_definition_list": [
-          "I bought some cakes at the bakery."
-        ]
-      }
+    "hash_code_list_img": "534273894",
+    "list_example": [
+      "This lack of solidarity owed much to the very structure of bakery work.",
+      "With the rumor, creditors immediately surrounded the bakery trying to collect their debts.",
+      "It is likely that one or more food workers at the bakery contaminated the wedding cakes through direct and indirect contact.",
+      "A subset of bakery employees, including all 17 bakery employees who handle food, were asked to submit a specimen for norovirus testing.",
+      "At another level, the dispute revolved around which strategy was best to confront the bakery owners."
     ],
-    "hash_code_list_definition_mean": "268620209"
+    "hash_code_list_example": "-1457039212"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/baker_cb_dmean_5000_it.json",
@@ -1252,25 +978,11 @@
         "id_image": "baker_817282"
       }
     ],
-    "hash_code_list_img": "1765910450",
-    "list_definition_mean": [
-      {
-        "mean_english": "người làm bánh mì",
-        "definition": "a person who bakes",
-        "ex_of_definition_list": [
-          "He is a qualified baker",
-          "She is a good baker."
-        ]
-      },
-      {
-        "mean_english": "người bán bánh mì",
-        "definition": "a baker’s shop",
-        "ex_of_definition_list": [
-          "I need to go to the baker to get some bread."
-        ]
-      }
+    "hash_code_list_img": "1345151954",
+    "list_example": [
+      "I need to go to the baker to get some bread."
     ],
-    "hash_code_list_definition_mean": "-1124445963"
+    "hash_code_list_example": "1205075047"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bake_cb_dmean_5000_it.json",
@@ -1299,25 +1011,11 @@
         "id_image": "bake_3843522"
       }
     ],
-    "hash_code_list_img": "721755113",
-    "list_definition_mean": [
-      {
-        "mean_english": "nướng",
-        "definition": "to cook in an oven",
-        "ex_of_definition_list": [
-          "I’m going to bake (some bread) today",
-          "She baked the potatoes."
-        ]
-      },
-      {
-        "mean_english": "nung",
-        "definition": "to dry or harden by heat",
-        "ex_of_definition_list": [
-          "The sun is baking the ground dry."
-        ]
-      }
+    "hash_code_list_img": "-1893314083",
+    "list_example": [
+      "I’m going to bake (some bread) today"
     ],
-    "hash_code_list_definition_mean": "921092649"
+    "hash_code_list_example": "1764423776"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/balance_cb_dmean_5000_it.json",
@@ -1355,54 +1053,13 @@
         "id_image": "balance_855370"
       }
     ],
-    "hash_code_list_img": "844687574",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự thăng bằng",
-        "definition": "a state of physical steadiness",
-        "ex_of_definition_list": [
-          "The child was walking along the wall when he lost his balance and fell."
-        ]
-      },
-      {
-        "mean_english": "số dư",
-        "definition": "the amount by which the two sides of a financial account (money spent and money received) differ",
-        "ex_of_definition_list": [
-          "I have a balance (= amount remaining) of $100 in my bank account",
-          "a large bank balance."
-        ]
-      },
-      {
-        "mean_english": "cái cân",
-        "definition": "a weighing instrument",
-        "ex_of_definition_list": [
-          "a kitchen balance."
-        ]
-      },
-      {
-        "mean_english": "sự cân bằng",
-        "definition": "state of mental or emotional steadiness",
-        "ex_of_definition_list": [
-          "The balance of her mind was disturbed."
-        ]
-      },
-      {
-        "mean_english": "làm cho cân bằng",
-        "definition": "(of two sides of a financial account) to make or be equal",
-        "ex_of_definition_list": [
-          "I can’t get these accounts to balance."
-        ]
-      },
-      {
-        "mean_english": "giữ thăng bằng",
-        "definition": "to make or keep steady",
-        "ex_of_definition_list": [
-          "She balanced the jug of water on her head",
-          "The girl balanced on her toes."
-        ]
-      }
+    "hash_code_list_img": "-1144464464",
+    "list_example": [
+      "The child was walking along the wall when he lost his balance and fell.",
+      "I have a balance (= amount remaining) of $100 in my bank account",
+      "The balance of her mind was disturbed."
     ],
-    "hash_code_list_definition_mean": "-1325777313"
+    "hash_code_list_example": "-1082833373"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/balcony_cb_dmean_5000_it.json",
@@ -1436,25 +1093,12 @@
         "id_image": "balcony_4577518"
       }
     ],
-    "hash_code_list_img": "59860577",
-    "list_definition_mean": [
-      {
-        "mean_english": "ban công",
-        "definition": "a platform built out from the wall of a building",
-        "ex_of_definition_list": [
-          "Our hotel room had a balcony."
-        ]
-      },
-      {
-        "mean_english": "hàng ghế trên ban công nhà hát",
-        "definition": "in theatres/theaters etc, an upper floor",
-        "ex_of_definition_list": [
-          "We sat in the balcony of the cinema",
-          "(also adjective) balcony seats."
-        ]
-      }
+    "hash_code_list_img": "1044278917",
+    "list_example": [
+      "We sat in the balcony of the cinema",
+      "(also adjective) balcony seats."
     ],
-    "hash_code_list_definition_mean": "1991723348"
+    "hash_code_list_example": "455363037"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bald_cb_dmean_5000_it.json",
@@ -1484,32 +1128,22 @@
         "id_image": "bald_599669"
       }
     ],
-    "hash_code_list_img": "540290734",
-    "list_definition_mean": [
-      {
-        "mean_english": "hói",
-        "definition": "(of people) with little or no hair on the head",
-        "ex_of_definition_list": [
-          "a bald head",
-          "He is going bald (= becoming bald)."
-        ]
-      },
-      {
-        "mean_english": "chim, động vật trụi lông",
-        "definition": "(of birds, animals) without feathers, fur etc",
-        "ex_of_definition_list": [
-          "There was a bald patch on the dog’s back."
-        ]
-      },
-      {
-        "mean_english": "phô bày",
-        "definition": "bare or plain",
-        "ex_of_definition_list": [
-          "a bald statement of the facts."
-        ]
-      }
+    "hash_code_list_img": "1239463260",
+    "list_example": [
+      "a bald head",
+      "He is going bald (= becoming bald).",
+      "There was a bald patch on the dog’s back.",
+      "a bald statement of the facts.",
+      "However, this tells us little as to how individual bald eagles or doves should be treated.",
+      "We seek merely to substitute for this the bald statement that it should be put into trustee securities.",
+      "If ever there were an argument for introducing qualified majority voting to deal with a problem, it lies in those bald figures.",
+      "Another law provides public grants for bald people to pay for treatments to grow hair.",
+      "Stated in that bald way it seems to be quite an indefensible exception.",
+      "They consist of a bald statement to the effect that the person owes £500 in service charge.",
+      "Because bald imperatives are very unmarked in this work setting, other directives are marked and evoke negative or perverse reactions from workers.",
+      "On their own, the figures are merely bald statistics, but nobody can deny that they represent a hefty bill."
     ],
-    "hash_code_list_definition_mean": "-1402822094"
+    "hash_code_list_example": "1466598033"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bale_cb_dmean_5000_it.json",
@@ -1528,24 +1162,14 @@
         "id_image": "bale_123947"
       }
     ],
-    "hash_code_list_img": "433404627",
-    "list_definition_mean": [
-      {
-        "mean_english": "kiện hàng",
-        "definition": "a large bundle of goods or material (cloth, hay etc) tied together",
-        "ex_of_definition_list": [
-          "a bale of cotton."
-        ]
-      },
-      {
-        "mean_english": "đóng thành kiện",
-        "definition": "(also bail) to clear (water out of a boat with buckets etc)",
-        "ex_of_definition_list": [
-          "Several gallons of water were baled out of the boat."
-        ]
-      }
+    "hash_code_list_img": "577592079",
+    "list_example": [
+      "a bale of cotton.",
+      "The increased costs per bale were mainly due to lower yields in the organic system (see below).",
+      "The 'north' microsite was located at the base of the north bale on its north side.",
+      "On landing the pilot reported that he had ordered his engineer to bale out."
     ],
-    "hash_code_list_definition_mean": "-1557345573"
+    "hash_code_list_example": "853030185"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/ballad_cb_dmean_5000_it.json",
@@ -1573,17 +1197,14 @@
         "id_image": "ballad_2178158"
       }
     ],
-    "hash_code_list_img": "-357990636",
-    "list_definition_mean": [
-      {
-        "mean_english": "bài ca balat",
-        "definition": "a simple, often sentimental, song",
-        "ex_of_definition_list": [
-          "Most of the songs on his latest album are romantic ballads."
-        ]
-      }
+    "hash_code_list_img": "-1458543463",
+    "list_example": [
+      "As we have seen, through this singer-chorus relationship, the ballad works not only as a representation of heterosexual love but also of relationships between men.",
+      "It can also draw on the tremendous history of folk music and ballad writing to reinforce understanding of the history of our culture.",
+      "The ballad operas had to be similarly rejected.",
+      "The government and local authorities cracked down on street singers and ballad singers singing and selling potentially subversive material."
     ],
-    "hash_code_list_definition_mean": "1405815786"
+    "hash_code_list_example": "-1032738499"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/ballerina_cb_dmean_5000_it.json",
@@ -1616,17 +1237,14 @@
         "id_image": "ballerina_5776045"
       }
     ],
-    "hash_code_list_img": "-275370038",
-    "list_definition_mean": [
-      {
-        "mean_english": "nữ diễn viên ba lê",
-        "definition": "a female (often principal) ballet-dancer",
-        "ex_of_definition_list": [
-          "Pavlova was a famous Russian ballerina."
-        ]
-      }
+    "hash_code_list_img": "829625194",
+    "list_example": [
+      "An experienced ballerina was strapped down for a brain-scan: as she watched a video of fellow-dancers, the centres of her brain responsible for movement lit up like lightening.",
+      "To be recognised as a \"prima ballerina assoluta\" is a rare honour, traditionally reserved only for the most exceptional dancers of their generation.",
+      "One lone ballerina performed an interpretive dance during the entire duration of the freestyle.",
+      "There is no ballerina so temperamental as the market in a great commodity, and it takes a lifetime to know how to anticipate its changes."
     ],
-    "hash_code_list_definition_mean": "1675471199"
+    "hash_code_list_example": "1607967021"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/ballet_cb_dmean_5000_it.json",
@@ -1660,25 +1278,14 @@
         "id_image": "ballet_5774989"
       }
     ],
-    "hash_code_list_img": "-1775663848",
-    "list_definition_mean": [
-      {
-        "mean_english": "kịch balê",
-        "definition": "a theatrical performance of dancing with set steps and mime, often telling a story",
-        "ex_of_definition_list": [
-          "Swan Lake is my favourite/favorite ballet."
-        ]
-      },
-      {
-        "mean_english": "múa ba lê",
-        "definition": "the art of dancing in this way",
-        "ex_of_definition_list": [
-          "She is taking lessons in ballet",
-          "(also adjective) a ballet class."
-        ]
-      }
+    "hash_code_list_img": "1842945309",
+    "list_example": [
+      "(also adjective) a ballet class.",
+      "Those in charge of the chorus and the corps de ballet wrote memos, on stationery with the same letterhead, about misbehaviour in the ranks.",
+      "Between these two bookends, the music for the ballet remains peculiarly vacant.",
+      "Before, you could learn the actor's craft exactly as a ballet dancer did - that is, automatically, by repeating certain patterns or clichés."
     ],
-    "hash_code_list_definition_mean": "374978218"
+    "hash_code_list_example": "-223242833"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/balloon_cb_dmean_5000_it.json",
@@ -1706,18 +1313,20 @@
         "id_image": "balloon_907391"
       }
     ],
-    "hash_code_list_img": "1314745408",
-    "list_definition_mean": [
-      {
-        "mean_english": "kinh khí cầu",
-        "definition": "a large bag, made of light material and filled with a gas lighter than air",
-        "ex_of_definition_list": [
-          "They decorated the dancehall with balloons",
-          "Could you help me blow up these balloons?"
-        ]
-      }
+    "hash_code_list_img": "113927153",
+    "list_example": [
+      "They decorated the dancehall with balloons",
+      "Could you help me blow up these balloons?",
+      "The availability of balloons which can be passed through small sheaths, for use in small infants, was limited during the early part of this study.",
+      "What is the relative temporal location of the utterance to an occasion for hanging balloons?",
+      "Therapeutic embolization with detachable balloons: factors influencing permanent occlusion.",
+      "The second process basic to ballooning is the frequency, or tenacity (where tenacity is the frequency subtracted from unity), of ballooning events (appendix 5).",
+      "An obvious question is: why have the ancestral lineages that have the ability to produce silk overlooked the possibility of using ballooning dispersal?",
+      "Sizing of the defect using balloons confirmed the stretched diameter at 11 mm.",
+      "The associated peso obligations ballooned followed the devaluation.",
+      "Clearly, a specialist diet makes ballooning altogether more risky, unless these species have a greater ability to withstand starvation than polyphagous ballooners."
     ],
-    "hash_code_list_definition_mean": "1513945239"
+    "hash_code_list_example": "-1637325576"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/ballot_cb_dmean_5000_it.json",
@@ -1755,20 +1364,13 @@
         "id_image": "ballot_927297"
       }
     ],
-    "hash_code_list_img": "261447227",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự bỏ phiếu kín",
-        "definition": "a method of voting in secret by marking a paper and putting it into a box",
-        "ex_of_definition_list": [
-          "They held a ballot to choose a new chairman",
-          "The question was decided by ballot",
-          "(also adjective) a ballot box",
-          "a ballot paper."
-        ]
-      }
+    "hash_code_list_img": "-35305683",
+    "list_example": [
+      "They held a ballot to choose a new chairman",
+      "(also adjective) a ballot box",
+      "a ballot paper."
     ],
-    "hash_code_list_definition_mean": "1548993108"
+    "hash_code_list_example": "1982811939"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/ballpoint_cb_dmean_5000_it.json",
@@ -1791,17 +1393,11 @@
         "id_image": "ballpoint_3553663"
       }
     ],
-    "hash_code_list_img": "-1377236172",
-    "list_definition_mean": [
-      {
-        "mean_english": "bút bi",
-        "definition": "a pen having a tiny ball as the writing point",
-        "ex_of_definition_list": [
-          "The note was written in blue ballpoint."
-        ]
-      }
+    "hash_code_list_img": "-1101498393",
+    "list_example": [
+      "The note was written in blue ballpoint."
     ],
-    "hash_code_list_definition_mean": "2036295328"
+    "hash_code_list_example": "1921870054"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/ballroom_cb_dmean_5000_it.json",
@@ -1820,17 +1416,17 @@
         "id_image": "ballroom_5774994"
       }
     ],
-    "hash_code_list_img": "1950555067",
-    "list_definition_mean": [
-      {
-        "mean_english": "phòng khiêu vũ",
-        "definition": "a large room for a formal dance",
-        "ex_of_definition_list": [
-          "The annual dinner dance will be held in the ballroom."
-        ]
-      }
+    "hash_code_list_img": "649316801",
+    "list_example": [
+      "ballroom dancing.",
+      "The established code of social ballroom dancing, with which many dancers became well acquainted in their youth, is that the man leads at all times.",
+      "Besides the more widespread availability of sequence dancing, there are other reasons for its greater popularity than ballroom dancing.",
+      "It was the presence of men in ballroom drag that is of interest here.",
+      "The complexities of ballroom dance pedagogy created significant obstacles for students who wished to learn the basics quickly.",
+      "At the masquerade, the eight men run into the ballroom at the stroke of midnight and scare the gathered revelers.",
+      "There is, one should note, less scope for mild or hidden subversion of the codes of social ballroom dancing."
     ],
-    "hash_code_list_definition_mean": "1982468309"
+    "hash_code_list_example": "997075987"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/ball_cb_dmean_5000_it.json",
@@ -1866,31 +1462,12 @@
         "id_image": "ball_849023"
       }
     ],
-    "hash_code_list_img": "-1647903362",
-    "list_definition_mean": [
-      {
-        "mean_english": "quả bóng",
-        "definition": "a round object used in games",
-        "ex_of_definition_list": [
-          "a cricket/rugby/tennis ball."
-        ]
-      },
-      {
-        "mean_english": "cuộn",
-        "definition": "anything roughly round in shape",
-        "ex_of_definition_list": [
-          "a ball of wool."
-        ]
-      },
-      {
-        "mean_english": "buổi khiêu vũ",
-        "definition": "a formal dance",
-        "ex_of_definition_list": [
-          "They were invited to a ball at the palace."
-        ]
-      }
+    "hash_code_list_img": "1712409595",
+    "list_example": [
+      "a ball of wool.",
+      "They were invited to a ball at the palace."
     ],
-    "hash_code_list_definition_mean": "939796646"
+    "hash_code_list_example": "971235074"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/balm_cb_dmean_5000_it.json",
@@ -1923,17 +1500,11 @@
         "id_image": "balm_546153"
       }
     ],
-    "hash_code_list_img": "85175356",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự xoa dịu",
-        "definition": "something that soothes",
-        "ex_of_definition_list": [
-          "The music was balm to my ears."
-        ]
-      }
+    "hash_code_list_img": "163595009",
+    "list_example": [
+      "The music was balm to my ears."
     ],
-    "hash_code_list_definition_mean": "1402148570"
+    "hash_code_list_example": "828148514"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bamboo_cb_dmean_5000_it.json",
@@ -1951,18 +1522,17 @@
         "id_image": "bamboo_2448665"
       }
     ],
-    "hash_code_list_img": "846326857",
-    "list_definition_mean": [
-      {
-        "mean_english": "cây tre",
-        "definition": "(of) a type of gigantic grass with hollow, jointed, woody stems",
-        "ex_of_definition_list": [
-          "furniture made of bamboo",
-          "(also adjective) bamboo furniture."
-        ]
-      }
+    "hash_code_list_img": "720242467",
+    "list_example": [
+      "(also adjective) bamboo furniture.",
+      "Within each 10 x 10-m plot, all mature bamboo culms (those with ramified branches and leaves) were measured for diameter at breast height (dbh).",
+      "Catastrophic disturbance has been proposed as an explanation for bamboo mono-dominance.",
+      "When women reach the age at which they start to wear hairpins, a bamboo lodge is built for them in a remote place.",
+      "As regards making irrigation water available to farmers where and when it was wanted, the spread of the bamboo tubewell was a positive story.",
+      "Additional evidence for the impact of bamboo was revealed by an experiment using artificial metal trees.",
+      "An annual rate of downstream range expansion for bamboo was extrapolated."
     ],
-    "hash_code_list_definition_mean": "812708869"
+    "hash_code_list_example": "-155373932"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/banana_cb_dmean_5000_it.json",
@@ -1980,18 +1550,15 @@
         "id_image": "banana_4796209"
       }
     ],
-    "hash_code_list_img": "378098331",
-    "list_definition_mean": [
-      {
-        "mean_english": "quả chuối; cây chuối",
-        "definition": "the long curved fruit, yellow-skinned when ripe, of a type of very large tropical tree",
-        "ex_of_definition_list": [
-          "a bunch of bananas",
-          "(also adjective) a banana cake/dessert/ice cream."
-        ]
-      }
+    "hash_code_list_img": "430290518",
+    "list_example": [
+      "(also adjective) a banana cake/dessert/ice cream.",
+      "Oviposition is in the leaf sheaths or corm periphery at the base of the banana mat.",
+      "Increasing the proportion of banana residue in the mixture (as in the 2: 1: 1 treatments) means lengthening the composting period to 8 weeks.",
+      "Nematodes are a major constraint to banana crop production.",
+      "Therefore, different plant responses to nematode infection exist within current banana germplasm."
     ],
-    "hash_code_list_definition_mean": "1388030265"
+    "hash_code_list_example": "704838766"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bandage_cb_dmean_5000_it.json",
@@ -2025,24 +1592,11 @@
         "id_image": "bandage_5139126"
       }
     ],
-    "hash_code_list_img": "519900550",
-    "list_definition_mean": [
-      {
-        "mean_english": "băng gạc",
-        "definition": "(a piece of) cloth for binding up a wound, or a broken bone",
-        "ex_of_definition_list": [
-          "She had a bandage on her injured finger."
-        ]
-      },
-      {
-        "mean_english": "băng bó",
-        "definition": "to cover with a bandage",
-        "ex_of_definition_list": [
-          "The doctor bandaged the boy’s foot."
-        ]
-      }
+    "hash_code_list_img": "-1194781212",
+    "list_example": [
+      "She had a bandage on her injured finger."
     ],
-    "hash_code_list_definition_mean": "626588781"
+    "hash_code_list_example": "-1629749805"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bandit_cb_dmean_5000_it.json",
@@ -2075,17 +1629,11 @@
         "id_image": "bandit_683817"
       }
     ],
-    "hash_code_list_img": "879085606",
-    "list_definition_mean": [
-      {
-        "mean_english": "kẻ cướp",
-        "definition": "an outlaw or robber, especially as a member of a gang",
-        "ex_of_definition_list": [
-          "They were attacked by bandits in the mountains."
-        ]
-      }
+    "hash_code_list_img": "-1671177388",
+    "list_example": [
+      "They were attacked by bandits in the mountains."
     ],
-    "hash_code_list_definition_mean": "234988170"
+    "hash_code_list_example": "-1878333459"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/band_cb_dmean_5000_it.json",
@@ -2118,53 +1666,12 @@
         "id_image": "band_2037800"
       }
     ],
-    "hash_code_list_img": "1353147460",
-    "list_definition_mean": [
-      {
-        "mean_english": "đai, nẹp",
-        "definition": "a strip of material to put round something",
-        "ex_of_definition_list": [
-          "a rubber band."
-        ]
-      },
-      {
-        "mean_english": "dải băng; đường kẻ",
-        "definition": "a stripe of a colour etc",
-        "ex_of_definition_list": [
-          "Fiona was wearing a white skirt with a band of red in it."
-        ]
-      },
-      {
-        "mean_english": "làn sóng",
-        "definition": "in radio etc, a group of frequencies or wavelengths",
-        "ex_of_definition_list": [
-          "the medium waveband."
-        ]
-      },
-      {
-        "mean_english": "toán; tốp",
-        "definition": "a number of people forming a group",
-        "ex_of_definition_list": [
-          "a band of robbers."
-        ]
-      },
-      {
-        "mean_english": "ban nhạc",
-        "definition": "a group of musicians",
-        "ex_of_definition_list": [
-          "a brass band",
-          "a dance band."
-        ]
-      },
-      {
-        "mean_english": "tụ thành một nhóm",
-        "definition": "to unite or gather together for a purpose",
-        "ex_of_definition_list": [
-          "They banded together to oppose the construction of the factory."
-        ]
-      }
+    "hash_code_list_img": "-470125782",
+    "list_example": [
+      "Fiona was wearing a white skirt with a band of red in it.",
+      "a band of robbers."
     ],
-    "hash_code_list_definition_mean": "784164610"
+    "hash_code_list_example": "1993488941"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bangle_cb_dmean_5000_it.json",
@@ -2187,17 +1694,12 @@
         "id_image": "bangle_4579954"
       }
     ],
-    "hash_code_list_img": "397647285",
-    "list_definition_mean": [
-      {
-        "mean_english": "vòng đeo tay, chân",
-        "definition": "a bracelet worn on the arm or leg",
-        "ex_of_definition_list": [
-          "gold bangles."
-        ]
-      }
+    "hash_code_list_img": "1538527415",
+    "list_example": [
+      "So if a lady has five gold coins on a bangle and does not declare them, will she be committing an offence.",
+      "Married women put a vermillion mark and wear an iron bangle as marriage symbols."
     ],
-    "hash_code_list_definition_mean": "52513740"
+    "hash_code_list_example": "187611369"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bang_cb_dmean_5000_it.json",
@@ -2224,46 +1726,11 @@
         "id_image": "bang_5928138"
       }
     ],
-    "hash_code_list_img": "-468652896",
-    "list_definition_mean": [
-      {
-        "mean_english": "tiếng sập mạnh",
-        "definition": "a sudden loud noise",
-        "ex_of_definition_list": [
-          "The door slammed shut with a loud bang."
-        ]
-      },
-      {
-        "mean_english": "tiếng đập mạnh",
-        "definition": "a blow or knock",
-        "ex_of_definition_list": [
-          "He suffered a bang on the head from a falling branch."
-        ]
-      },
-      {
-        "mean_english": "sập",
-        "definition": "to close with a sudden loud noise",
-        "ex_of_definition_list": [
-          "She banged the door shut."
-        ]
-      },
-      {
-        "mean_english": "nện đau",
-        "definition": "to hit or strike violently, often making a loud noise",
-        "ex_of_definition_list": [
-          "The child banged his drum",
-          "He banged the book down angrily on the table."
-        ]
-      },
-      {
-        "mean_english": "vang lên",
-        "definition": "to make a sudden loud noise",
-        "ex_of_definition_list": [
-          "We could hear the fireworks banging in the distance."
-        ]
-      }
+    "hash_code_list_img": "-880393665",
+    "list_example": [
+      "He suffered a bang on the head from a falling branch."
     ],
-    "hash_code_list_definition_mean": "342767607"
+    "hash_code_list_example": "-79191417"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/banjo_cb_dmean_5000_it.json",
@@ -2281,18 +1748,15 @@
         "id_image": "banjo_1399644"
       }
     ],
-    "hash_code_list_img": "1566578769",
-    "list_definition_mean": [
-      {
-        "mean_english": "đàn banjô",
-        "definition": "a stringed musical instrument similar to the guitar",
-        "ex_of_definition_list": [
-          "He plays the banjo",
-          "Play me a tune on the banjo."
-        ]
-      }
+    "hash_code_list_img": "1214499019",
+    "list_example": [
+      "These techniques are both idiomatic to the banjo in all styles, and their sound is characteristic of bluegrass.",
+      "Inspired by the bluegrass music his father listened to, he soon learned to play banjo as well.",
+      "He is a player of the harmonica, concertina, banjo and jaw harp.",
+      "Lucassen plays a wide variety of instruments: his main instruments are guitar and keyboards, however he also plays bass, banjo and many others.",
+      "Dancing to banjo music had been an important element of the nineteenth century minstrel show, particularly in the circular form of the 'walk-around' finales."
     ],
-    "hash_code_list_definition_mean": "1929955391"
+    "hash_code_list_example": "-1094565978"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/banker_cb_dmean_5000_it.json",
@@ -2325,17 +1789,19 @@
         "id_image": "banker_2365051"
       }
     ],
-    "hash_code_list_img": "154838295",
-    "list_definition_mean": [
-      {
-        "mean_english": "chủ ngân hàng",
-        "definition": "a person who owns or manages a bank",
-        "ex_of_definition_list": [
-          "a wealthy merchant banker."
-        ]
-      }
+    "hash_code_list_img": "-1668976075",
+    "list_example": [
+      "a wealthy merchant banker.",
+      "The others were ecclesiastics, bankers and other commoners.",
+      "Artisans, merchants and even bankers sought to reclaim the losses suffered in such credit transactions at the expense of their employees.",
+      "When events confirmed much of what we said would happen, central bankers began to change.",
+      "Landowners, large industrialists, bankers, and merchants called themselves fuerzas vivas (literally 'living forces '), emphasising their essential contribution to the wellbeing of the nation.",
+      "Therefore, mobility of old bankers (labor demand) is sufficient, without mobility of workers (labor supply).",
+      "Industrialists and bankers, however, appear to have been the exception.",
+      "They are the same for all states, because defecting bankers have the flexibility to represent the state that provides the highest period utility.",
+      "Agents whose histories are a part of the public record are called bankers."
     ],
-    "hash_code_list_definition_mean": "1017215330"
+    "hash_code_list_example": "870923711"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/banknote_cb_dmean_5000_it.json",
@@ -2363,17 +1829,19 @@
         "id_image": "banknote_4633868"
       }
     ],
-    "hash_code_list_img": "-1396773536",
-    "list_definition_mean": [
-      {
-        "mean_english": "giấy bạc",
-        "definition": "a piece of paper issued by a bank, used as money",
-        "ex_of_definition_list": [
-          "The robbers escaped with £54,000 in used banknotes."
-        ]
-      }
+    "hash_code_list_img": "84189360",
+    "list_example": [
+      "The robbers escaped with £54,000 in used banknotes.",
+      "This is to produce sample banknotes for each denomination to be used for reference purposes by those countries participating in production later this year.",
+      "The charging of fees for the exchange of banknotes is a matter for the banks and their customers.",
+      "In terms of security against counterfeiting, these type of banknotes are incompatible with certain traditional and well-proven security features (eg thread and watermark).",
+      "There is no statutory impediment to the development and use of devices to stain banknotes in an emergency.",
+      "But even careful money readers had no sure means of establishing that the banknotes they held were genuine.",
+      "It advises that it has no plans to redesign its banknotes or to use different paper.",
+      "The pictorial images and the promises of negotiability conveyed on coins, banknotes and other financial instruments were repetitively encountered on a daily basis.",
+      "They still prefer the system where suitcases of banknotes are handed over in the dark."
     ],
-    "hash_code_list_definition_mean": "1045622140"
+    "hash_code_list_example": "-384153014"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bankrupt_cb_dmean_5000_it.json",
@@ -2403,30 +1871,19 @@
         "id_image": "bankrupt_536856"
       }
     ],
-    "hash_code_list_img": "2015304221",
-    "list_definition_mean": [
-      {
-        "mean_english": "phá sản",
-        "definition": "unable to pay one’s debts",
-        "ex_of_definition_list": [
-          "He has been declared bankrupt."
-        ]
-      },
-      {
-        "mean_english": "người phá sản",
-        "definition": "a person who is unable to pay his or her debts",
-        "ex_of_definition_list": [
-          "Bankrupts are not allowed to be company directors."
-        ]
-      },
-      {
-        "mean_english": "làm phá sản",
-        "definition": "to make bankrupt",
-        "ex_of_definition_list": [
-          "His wife’s extravagance soon bankrupted him."
-        ]
-      }
+    "hash_code_list_img": "-1676904572",
+    "list_example": [
+      "He has been declared bankrupt.",
+      "His wife’s extravagance soon bankrupted him.",
+      "We are also bankrupting—yes, bankrupting—a lot of people.",
+      "The review will encompass all relevant legislative provisions and bankruptcy case law impacting on the rights to a bankrupt's pension.",
+      "I am not dealing with people who are dishonest bankrupts.",
+      "Companies, if they can help it, will not allow themselves to be bankrupted.",
+      "They may be bankrupted because of their redundancy bill.",
+      "I think he will find that there were probably many more bankrupts in those three years than ever took place in the industry before.",
+      "I hope that the poor bankrupts who find themselves in trouble over a relatively small sum will find the new simplified procedures helpful.",
+      "His proposal, as he must see, at once upsets the whole scheme and bankrupts the fund."
     ],
-    "hash_code_list_definition_mean": "567848694"
+    "hash_code_list_example": "-635806919"
   }
 ]

@@ -15,17 +15,12 @@
         "id_image": "pantry_2934209"
       }
     ],
-    "hash_code_list_img": "729965729",
-    "list_definition_mean": [
-      {
-        "mean_english": "phòng để thức ăn",
-        "definition": "a room for storing food",
-        "ex_of_definition_list": [
-          "The house had a large kitchen with a pantry."
-        ]
-      }
+    "hash_code_list_img": "484801498",
+    "list_example": [
+      "There was never a larder or a pantry in a large number of them.",
+      "I went into the pantry and drew my hand along the pantry shelf until it stopped when it came up against something cold."
     ],
-    "hash_code_list_definition_mean": "144560417"
+    "hash_code_list_example": "1775361507"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pant_cb_dmean_5000_it.json",
@@ -49,24 +44,11 @@
         "id_image": "pant_5507633"
       }
     ],
-    "hash_code_list_img": "1366803008",
-    "list_definition_mean": [
-      {
-        "mean_english": "thở hổn hển",
-        "definition": "to gasp for breath",
-        "ex_of_definition_list": [
-          "He was panting heavily as he ran."
-        ]
-      },
-      {
-        "mean_english": "nói hổn hển",
-        "definition": "to say while gasping for breath",
-        "ex_of_definition_list": [
-          "‘Wait for me!’ she panted."
-        ]
-      }
+    "hash_code_list_img": "2070757326",
+    "list_example": [
+      "I was so hot my pant legs was scorching."
     ],
-    "hash_code_list_definition_mean": "-943905427"
+    "hash_code_list_example": "618027639"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/papacy_cb_dmean_5000_it.json",
@@ -85,24 +67,17 @@
         "id_image": "papacy_280016"
       }
     ],
-    "hash_code_list_img": "143825028",
-    "list_definition_mean": [
-      {
-        "mean_english": "chức giáo hoàng",
-        "definition": "the position or power of the pope",
-        "ex_of_definition_list": [
-          "The papacy is the central authority of the Roman Catholic church."
-        ]
-      },
-      {
-        "mean_english": "chế độ giáo hoàng",
-        "definition": "government by popes",
-        "ex_of_definition_list": [
-          "the history of the papacy."
-        ]
-      }
+    "hash_code_list_img": "112176966",
+    "list_example": [
+      "The papacy is the central authority of the Roman Catholic church.",
+      "In contrast to the speed with which the theses were distributed, the response of the papacy was painstakingly slow.",
+      "The papacy right through the thirteenth century maintained its position that a central bureaucracy had to be paid for.",
+      "Foliot also developed the novel legal filing of \"ad cautelam\", which was an appeal to the papacy against any future action by the archbishop.",
+      "With how the papacy goes back for centuries, flashbacks often mention popes of past times and places.",
+      "This situation prompted the papacy to support the bishopric more actively.",
+      "It is not surprising that the papacy also took great interest in this case."
     ],
-    "hash_code_list_definition_mean": "-1688686959"
+    "hash_code_list_example": "1753812496"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/paperwork_cb_dmean_5000_it.json",
@@ -130,17 +105,17 @@
         "id_image": "paperwork_5902618"
       }
     ],
-    "hash_code_list_img": "-1092968113",
-    "list_definition_mean": [
-      {
-        "mean_english": "công việc giấy tờ",
-        "definition": "the part of a job which consists of keeping files, writing letters etc",
-        "ex_of_definition_list": [
-          "I spend most of my time on paperwork."
-        ]
-      }
+    "hash_code_list_img": "365935806",
+    "list_example": [
+      "An increase in paperwork will change the personal time allocations of proprietors.",
+      "Since there were no funds to accelerate the process, patience was required before paperwork finally reached the right table.",
+      "Few royal patents got issued in a matter of days, or even weeks, and the paperwork proceeded normally.",
+      "Other problems included a forest of controls and paperwork for business.",
+      "In cases where houses were distributed free of cost, informal housing contracts were signed, but in most cases, there was no paperwork at all.",
+      "In most cases, a proprietor would simply have to work longer hours if they had more paperwork to complete.",
+      "Vulnerability to harassment or exploitation if paperwork not accepted."
     ],
-    "hash_code_list_definition_mean": "1218021898"
+    "hash_code_list_example": "-1498714737"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/paper_cb_dmean_5000_it.json",
@@ -177,46 +152,18 @@
         "id_image": "paper_420285"
       }
     ],
-    "hash_code_list_img": "2035482507",
-    "list_definition_mean": [
-      {
-        "mean_english": "giấy",
-        "definition": "the material on which these words are written, made from wood, rags etc and used for writing, printing, wrapping parcels etc",
-        "ex_of_definition_list": [
-          "I need paper and a pen to write a letter",
-          "(also adjective) a paper bag."
-        ]
-      },
-      {
-        "mean_english": "tờ giấy",
-        "definition": "a single (often printed or typed) piece of this",
-        "ex_of_definition_list": [
-          "There were papers all over his desk."
-        ]
-      },
-      {
-        "mean_english": "báo",
-        "definition": "a newspaper",
-        "ex_of_definition_list": [
-          "Have you read the paper?"
-        ]
-      },
-      {
-        "mean_english": "đề bài thi",
-        "definition": "a group of questions for a written examination",
-        "ex_of_definition_list": [
-          "The Latin paper was very difficult."
-        ]
-      },
-      {
-        "mean_english": "giấy tờ",
-        "definition": "documents proving one’s identity, nationality etc",
-        "ex_of_definition_list": [
-          "The policeman demanded to see my papers."
-        ]
-      }
+    "hash_code_list_img": "896883771",
+    "list_example": [
+      "I need paper and a pen to write a letter",
+      "(also adjective) a paper bag.",
+      "The Latin paper was very difficult.",
+      "The structure of this paper is as follows.",
+      "The rest of the paper is organized as follows.",
+      "I am pleased that my paper was accepted.",
+      "The plan of this paper is as follows.",
+      "The rest of the paper is structured as follows."
     ],
-    "hash_code_list_definition_mean": "870001420"
+    "hash_code_list_example": "-974237856"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/paprika_cb_dmean_5000_it.json",
@@ -244,17 +191,12 @@
         "id_image": "paprika_563385"
       }
     ],
-    "hash_code_list_img": "-330250138",
-    "list_definition_mean": [
-      {
-        "mean_english": "ớt Hung",
-        "definition": "a type of red pepper powder used in cooking",
-        "ex_of_definition_list": [
-          "Add a pinch of smoked paprika."
-        ]
-      }
+    "hash_code_list_img": "2029786103",
+    "list_example": [
+      "It is seasoned with salt, pepper and sometimes bay leaf, sugar, paprika and apples.",
+      "These regions have the highest amount of sunny hours a year and paprika plants need lots of sunshine to get ripe and sweet."
     ],
-    "hash_code_list_definition_mean": "1770060376"
+    "hash_code_list_example": "-1567761828"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parachute_cb_dmean_5000_it.json",
@@ -283,25 +225,13 @@
         "id_image": "parachute_4146379"
       }
     ],
-    "hash_code_list_img": "-216523050",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái dù",
-        "definition": "an umbrella-shaped piece of light, strong cloth etc beneath which a person etc is tied with ropes so that he etc can come slowly down to the ground from a great height",
-        "ex_of_definition_list": [
-          "They made the descent from the plane by parachute",
-          "(also adjective) a parachute-jump."
-        ]
-      },
-      {
-        "mean_english": "nhảy dù",
-        "definition": "to come down to the ground using a parachute",
-        "ex_of_definition_list": [
-          "The troops parachuted into France."
-        ]
-      }
+    "hash_code_list_img": "468245000",
+    "list_example": [
+      "The parachute provides a backward force against which his muscles must work.",
+      "The fibrous ring may be an isolated lesion, but more frequently is associated with a parachute or hammock valve.",
+      "Two of them had parachute valves and one developed grade 2 mitral regurgitation."
     ],
-    "hash_code_list_definition_mean": "1622935519"
+    "hash_code_list_example": "-1557765820"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parade_cb_dmean_5000_it.json",
@@ -333,45 +263,22 @@
         "id_image": "parade_352505"
       }
     ],
-    "hash_code_list_img": "1399037879",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuộc diễu hành",
-        "definition": "a line of people, vehicles etc moving forward in order often as a celebration of some event",
-        "ex_of_definition_list": [
-          "a circus parade."
-        ]
-      },
-      {
-        "mean_english": "cuộc duyệt binh",
-        "definition": "an arrangement of soldiers in a particular order",
-        "ex_of_definition_list": [
-          "The troops are on parade."
-        ]
-      },
-      {
-        "mean_english": "diễu hành",
-        "definition": "to march in a line moving forward in order",
-        "ex_of_definition_list": [
-          "They paraded through the town."
-        ]
-      },
-      {
-        "mean_english": "duyệt binh",
-        "definition": "to arrange soldiers in order",
-        "ex_of_definition_list": [
-          "The colonel paraded his soldiers."
-        ]
-      },
-      {
-        "mean_english": "phô trương",
-        "definition": "to show or display in an obvious way",
-        "ex_of_definition_list": [
-          "She paraded her new clothes in front of her friends."
-        ]
-      }
+    "hash_code_list_img": "1441383239",
+    "list_example": [
+      "a circus parade.",
+      "The troops are on parade.",
+      "They paraded through the town.",
+      "The colonel paraded his soldiers.",
+      "She paraded her new clothes in front of her friends.",
+      "They paraded in the central squares.",
+      "The result was a stage, suitable for civil and military parades.",
+      "The argument that we are creating a new tier of government has been paraded.",
+      "I am shocked that large numbers of people have been placed on these parades and have been picked out as guilty persons.",
+      "The image of youth is paraded by totalitarian regimes to extol their innovativeness in comparison with the ageing liberal world.",
+      "Images of the goddess and other important statues from the temple are paraded through the city roads, accompanied by adepts in trance who receive offerings from the townspeople.",
+      "We are doing a great deal about the last two, particularly the pay parades, and we have altered our procedures in recent years."
     ],
-    "hash_code_list_definition_mean": "422626114"
+    "hash_code_list_example": "-474755691"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/paradise_cb_dmean_5000_it.json",
@@ -390,24 +297,15 @@
         "id_image": "paradise_4359804"
       }
     ],
-    "hash_code_list_img": "588574770",
-    "list_definition_mean": [
-      {
-        "mean_english": "nơi lý tưởng",
-        "definition": "a place or state of great happiness",
-        "ex_of_definition_list": [
-          "It’s paradise to be by a warm fire on a cold night."
-        ]
-      },
-      {
-        "mean_english": "thiên đường",
-        "definition": "heaven",
-        "ex_of_definition_list": [
-          "When we die, we go to Paradise."
-        ]
-      }
+    "hash_code_list_img": "2025644515",
+    "list_example": [
+      "It’s paradise to be by a warm fire on a cold night.",
+      "How could we do so if we inhabited a paradise ?",
+      "The second unnatural feature is that the children of paradise grow up without consciousness.",
+      "There are animals in this paradise which look very human, although their offspring grow up without challenges or education, and indeed with very little worth remembering.",
+      "The foundations of paradise were already built."
     ],
-    "hash_code_list_definition_mean": "214205473"
+    "hash_code_list_example": "1327246457"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/paragraph_cb_dmean_5000_it.json",
@@ -435,17 +333,15 @@
         "id_image": "paragraph_930232"
       }
     ],
-    "hash_code_list_img": "-1570775265",
-    "list_definition_mean": [
-      {
-        "mean_english": "đoạn văn",
-        "definition": "a part of a piece of writing, marked by beginning the first sentence on a new line and usually leaving a short space at the beginning of the line",
-        "ex_of_definition_list": [
-          "There are a couple of paragraphs about the bank robbery on page three of today’s paper."
-        ]
-      }
+    "hash_code_list_img": "1029579809",
+    "list_example": [
+      "The remainder of this paragraph is from this source.",
+      "The last paragraph of the note had more than mere formal significance.",
+      "The largest of these corresponds precisely to the growth rate mentioned in the first paragraph of this section.",
+      "Namely, it is the argument that has been updated towards the end of the previous paragraph which needs especial care.",
+      "It begins with a short paragraph of acknowledgements."
     ],
-    "hash_code_list_definition_mean": "1924010022"
+    "hash_code_list_example": "-1861729652"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parallel_cb_dmean_5000_it.json",
@@ -474,59 +370,15 @@
         "id_image": "parallel_5967429"
       }
     ],
-    "hash_code_list_img": "2040772049",
-    "list_definition_mean": [
-      {
-        "mean_english": "song song",
-        "definition": "(of straight lines) going in the same direction and always staying the same distance apart",
-        "ex_of_definition_list": [
-          "The road is parallel to/with the river."
-        ]
-      },
-      {
-        "mean_english": "tương tự",
-        "definition": "alike (in some way)",
-        "ex_of_definition_list": [
-          "There are parallel passages in the two books."
-        ]
-      },
-      {
-        "mean_english": "dọc theo",
-        "definition": "in the same direction but always about the same distance away",
-        "ex_of_definition_list": [
-          "We sailed parallel to the coast for several days."
-        ]
-      },
-      {
-        "mean_english": "đường song song",
-        "definition": "a line parallel to another",
-        "ex_of_definition_list": [
-          "Draw a parallel to this line."
-        ]
-      },
-      {
-        "mean_english": "sự tương đồng",
-        "definition": "a likeness or state of being alike",
-        "ex_of_definition_list": [
-          "Is there a parallel between the British Empire and the Roman Empire?"
-        ]
-      },
-      {
-        "mean_english": "đường vĩ tuyến",
-        "definition": "a line drawn from east to west across a map etc at a fixed distance from the equator",
-        "ex_of_definition_list": [
-          "The border between Canada and the United States follows the forty-ninth parallel."
-        ]
-      },
-      {
-        "mean_english": "so sánh với",
-        "definition": "to be equal to",
-        "ex_of_definition_list": [
-          "His stupidity can’t be paralleled."
-        ]
-      }
+    "hash_code_list_img": "-1939150248",
+    "list_example": [
+      "The road is parallel to/with the river.",
+      "There are parallel passages in the two books.",
+      "We sailed parallel to the coast for several days.",
+      "Draw a parallel to this line.",
+      "Is there a parallel between the British Empire and the Roman Empire?"
     ],
-    "hash_code_list_definition_mean": "-620989741"
+    "hash_code_list_example": "-500855044"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/paramedic_cb_dmean_5000_it.json",
@@ -554,17 +406,13 @@
         "id_image": "paramedic_6036785"
       }
     ],
-    "hash_code_list_img": "1936440905",
-    "list_definition_mean": [
-      {
-        "mean_english": "hộ lý, nhân viên cấp cứu",
-        "definition": "someone who is trained to help people who are ill or injured, especially in emergency situations, but who is not a doctor or a nurse",
-        "ex_of_definition_list": [
-          "Paramedics treated the injured woman at the scene of the accident."
-        ]
-      }
+    "hash_code_list_img": "-247768522",
+    "list_example": [
+      "Although the trust fell into significant arrears with its paramedic re-certification programme in 1996, the panel found that the situation has improved.",
+      "In two cases, the panelists disagreed whether ambulance paramedic personnel would have managed complications that probably would have happened during the alternative transport.",
+      "The intervention vehicle used to convey the nurse and paramedic was a fully equipped emergency response car."
     ],
-    "hash_code_list_definition_mean": "1509270421"
+    "hash_code_list_example": "867614117"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parasite_cb_dmean_5000_it.json",
@@ -587,18 +435,11 @@
         "id_image": "parasite_5266675"
       }
     ],
-    "hash_code_list_img": "1626436270",
-    "list_definition_mean": [
-      {
-        "mean_english": "động/ thực vật ký sinh",
-        "definition": "an animal or plant that lives on another animal or plant without giving anything in return",
-        "ex_of_definition_list": [
-          "Fleas are parasites",
-          "He is a parasite on society."
-        ]
-      }
+    "hash_code_list_img": "-1879410942",
+    "list_example": [
+      "He is a parasite on society."
     ],
-    "hash_code_list_definition_mean": "2047785304"
+    "hash_code_list_example": "523488543"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parcel_cb_dmean_5000_it.json",
@@ -631,17 +472,13 @@
         "id_image": "parcel_4649818"
       }
     ],
-    "hash_code_list_img": "-1991392680",
-    "list_definition_mean": [
-      {
-        "mean_english": "bưu kiện",
-        "definition": "thing(s) wrapped and tied, usually to be sent by post",
-        "ex_of_definition_list": [
-          "I got a parcel in the post today."
-        ]
-      }
+    "hash_code_list_img": "-665161717",
+    "list_example": [
+      "I got a parcel in the post today.",
+      "Part and parcel of the disagreement about the scope of governance is disagreement about what sort of procedures are a reasonable response to this disagreement.",
+      "This consciousness, needless to say, is part and parcel of the nationalist programme of integration, which has gradually been shaped."
     ],
-    "hash_code_list_definition_mean": "202051789"
+    "hash_code_list_example": "-2109402199"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parchment_cb_dmean_5000_it.json",
@@ -674,17 +511,14 @@
         "id_image": "parchment_5327120"
       }
     ],
-    "hash_code_list_img": "-33952730",
-    "list_definition_mean": [
-      {
-        "mean_english": "giấy da",
-        "definition": "a (piece of a) material used for writing on, made from animal skin",
-        "ex_of_definition_list": [
-          "People wrote on parchment in medieval times."
-        ]
-      }
+    "hash_code_list_img": "2053283882",
+    "list_example": [
+      "People wrote on parchment in medieval times.",
+      "The technology of the plastered board, a parchment (or paper) support treated with a white ground, was not quickly abandoned.",
+      "The parchment has been folded over at the bottom and twenty-two seals tabs affixed.",
+      "Among other questions discussed is the nature of evidence, given changes in writing systems and the materiality of the medium, from parchment to e-mail."
     ],
-    "hash_code_list_definition_mean": "2075455676"
+    "hash_code_list_example": "1026003024"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parenthood_cb_dmean_5000_it.json",
@@ -707,17 +541,14 @@
         "id_image": "parenthood_859967"
       }
     ],
-    "hash_code_list_img": "-804773642",
-    "list_definition_mean": [
-      {
-        "mean_english": "bậc cha mẹ",
-        "definition": "the state of being a parent",
-        "ex_of_definition_list": [
-          "unplanned parenthood."
-        ]
-      }
+    "hash_code_list_img": "1268398318",
+    "list_example": [
+      "The respective values if early parenthood is defined as less than 21 years were 16.5%, 34.5%, and 36.8%.",
+      "A variety of other possible benefits are conditional in some measure on contemporary views about parenthood and biology.",
+      "Civil registration provides a direct mechanism through which marriage is distinguished from cohabitation, through which parenthood is defined and by which human life is protected.",
+      "More important than the information-giving provisions are the various elements of the proposals which encourage the active recognition of responsibilities of parenthood and marriage."
     ],
-    "hash_code_list_definition_mean": "1650994925"
+    "hash_code_list_example": "-946849545"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parent_cb_dmean_5000_it.json",
@@ -741,24 +572,20 @@
         "id_image": "parent_6306230"
       }
     ],
-    "hash_code_list_img": "854255076",
-    "list_definition_mean": [
-      {
-        "mean_english": "cha; mẹ",
-        "definition": "one of the two persons etc (one male and one female) who are jointly the cause of one’s birth",
-        "ex_of_definition_list": [
-          "her doting parents."
-        ]
-      },
-      {
-        "mean_english": "cha mẹ nuôi",
-        "definition": "a person with the legal position of a mother or father eg by adoption",
-        "ex_of_definition_list": [
-          "his adoptive parents."
-        ]
-      }
+    "hash_code_list_img": "280646811",
+    "list_example": [
+      "her doting parents.",
+      "his adoptive parents.",
+      "A small core of activists, men and women, came from families in which both parents were active in the labour movement.",
+      "The assumption that parents have some effect on their children's attitudes to learning is one that few educationalists would challenge.",
+      "On the other hand, co-residence with parents may result in either more care or more spousal sharing of the care.",
+      "Seventeenth-century jurisprudence regarded abandonment as lawful, provided that it did not cause the child's death and that the parents were poor or honour was endangered.",
+      "The risk factor is high, teachers and even parents sometimes jealously interfere, orchestras can take umbrage at being asked to work with prodigies.",
+      "However, studies have shown that parents from higher economic and social classes may value the minority language more.",
+      "The level of religious practice was much higher among the activists' parents than it was for the respondents themselves.",
+      "He provides no evidence, however, that the parents made this link."
     ],
-    "hash_code_list_definition_mean": "1409352804"
+    "hash_code_list_example": "777224035"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/park_cb_dmean_5000_it.json",
@@ -793,31 +620,12 @@
         "id_image": "park_553941"
       }
     ],
-    "hash_code_list_img": "-1793787915",
-    "list_definition_mean": [
-      {
-        "mean_english": "công viên",
-        "definition": "a public piece of ground with grass and trees",
-        "ex_of_definition_list": [
-          "The children go to the park every morning to play."
-        ]
-      },
-      {
-        "mean_english": "bãi",
-        "definition": "the land surrounding a large country house",
-        "ex_of_definition_list": [
-          "Deer run wild in the park surrounding the mansion."
-        ]
-      },
-      {
-        "mean_english": "đỗ xe",
-        "definition": "to stop and leave (a motor car etc) for a time",
-        "ex_of_definition_list": [
-          "He parked in front of our house."
-        ]
-      }
+    "hash_code_list_img": "1960206431",
+    "list_example": [
+      "The children go to the park every morning to play.",
+      "Deer run wild in the park surrounding the mansion."
     ],
-    "hash_code_list_definition_mean": "-1353102602"
+    "hash_code_list_example": "-996749304"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parliament_cb_dmean_5000_it.json",
@@ -855,17 +663,18 @@
         "id_image": "parliament_4498495"
       }
     ],
-    "hash_code_list_img": "-58523176",
-    "list_definition_mean": [
-      {
-        "mean_english": "quốc hội",
-        "definition": "the highest law-making council of a nation – in Britain, the House of Commons and the House of Lords, considered together",
-        "ex_of_definition_list": [
-          "an Act of Parliament."
-        ]
-      }
+    "hash_code_list_img": "-1217181123",
+    "list_example": [
+      "The first section of the article outlined the emergence of parliaments as bourgeois institutions.",
+      "How strong or how weak the power of these parliaments is, depends on the constitution of each country.",
+      "Above all, it expects parliaments to adopt legislation and finalise budgets.",
+      "Why then did the ' prince bred up in parliaments ' so mismanage his first as king ?",
+      "Table 6 shows nation-by-nation distortion, bias and responsiveness in the step from voters to parliaments.",
+      "We have seen from the above that export expansions are robustly associated with a rising hazard of early elections as parliaments mature.",
+      "Kings, not parliaments, had issued the charters on which their jurisdiction was based.",
+      "Another possible obstacle would have been the involvement of national parliaments, which might also have challenged the position of indigenous peoples."
     ],
-    "hash_code_list_definition_mean": "186541012"
+    "hash_code_list_example": "369355930"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parole_cb_dmean_5000_it.json",
@@ -884,24 +693,13 @@
         "id_image": "parole_4458921"
       }
     ],
-    "hash_code_list_img": "380077855",
-    "list_definition_mean": [
-      {
-        "mean_english": "lời hứa danh dự để được ân xá",
-        "definition": "permission that is given to someone to leave prison before the end of their sentence if they agree to obey certain rules and behave well",
-        "ex_of_definition_list": [
-          "He is hoping to be released on parole."
-        ]
-      },
-      {
-        "mean_english": "ân xá",
-        "definition": "to permit someone to leave prison before the end of their sentence if they agree to obey certain rules and behave well",
-        "ex_of_definition_list": [
-          "He was paroled after serving three years of his sentence."
-        ]
-      }
+    "hash_code_list_img": "886037923",
+    "list_example": [
+      "They also tightened the parole system and revamped the courts to allow crimes with penalties of less than ten years to be judged summarily.",
+      "I am convinced that the parole system has made a positive and constructive contribution to law and order.",
+      "Changes in the parole system were promised so that serious offenders would serve a longer proportion of their time in jail."
     ],
-    "hash_code_list_definition_mean": "-400515283"
+    "hash_code_list_example": "-735642549"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/paroxysm_cb_dmean_5000_it.json",
@@ -919,17 +717,11 @@
         "id_image": "paroxysm_3998108"
       }
     ],
-    "hash_code_list_img": "987234853",
-    "list_definition_mean": [
-      {
-        "mean_english": "cơn bộc phát",
-        "definition": "a sudden sharp attack (of pain, rage, laughter etc)",
-        "ex_of_definition_list": [
-          "paroxysms of laughter."
-        ]
-      }
+    "hash_code_list_img": "477578464",
+    "list_example": [
+      "This causes movement of the cupula and a brief paroxysm of vertigo and nystagmus."
     ],
-    "hash_code_list_definition_mean": "1770391600"
+    "hash_code_list_example": "-228447882"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parquet_cb_dmean_5000_it.json",
@@ -957,18 +749,19 @@
         "id_image": "parquet_252739"
       }
     ],
-    "hash_code_list_img": "1508971018",
-    "list_definition_mean": [
-      {
-        "mean_english": "sàn gỗ",
-        "definition": "a type of floor-covering made of pieces of wood arranged in a design",
-        "ex_of_definition_list": [
-          "flooring made of parquet",
-          "(also adjective) a parquet floor."
-        ]
-      }
+    "hash_code_list_img": "-1091407929",
+    "list_example": [
+      "(also adjective) a parquet floor.",
+      "For this class of parquet matrices we get the following.",
+      "Nor did they do anything about the soldiers who walked in nailed boots on the lovely parquet floor—although they were very anxious that they should take off their caps.",
+      "It has to do with parquet flooring and wood block flooring.",
+      "However, there is a class of parquet matrices whose inverses are parquet, and these inverses induce the inverse transformations.",
+      "They are unpopular, for the moment, but when wood becomes available let us cover them and thus give the dwellers in rural cottages parquet flooring.",
+      "All the luxuries—parquet flooring, the swimming pools, and so on—we want; but can this nation really afford to spend the money we are spending in local government to-day?",
+      "It was because the object was to bring it into line with parquet flooring that this order has been produced.",
+      "After she sold it she revisited it and reviled the owners for covering her beautiful parquet floor with a carpet."
     ],
-    "hash_code_list_definition_mean": "726038010"
+    "hash_code_list_example": "1264447786"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parrot_cb_dmean_5000_it.json",
@@ -986,17 +779,11 @@
         "id_image": "parrot_1355972"
       }
     ],
-    "hash_code_list_img": "545715029",
-    "list_definition_mean": [
-      {
-        "mean_english": "con vẹt",
-        "definition": "a kind of bird found in warm countries, especially in South America, with a hooked bill and usually brightly-coloured/-colored feathers, that can be taught to imitate human speech",
-        "ex_of_definition_list": [
-          "The parrot was squawking in its cage."
-        ]
-      }
+    "hash_code_list_img": "1215157813",
+    "list_example": [
+      "The parrot was squawking in its cage."
     ],
-    "hash_code_list_definition_mean": "984522414"
+    "hash_code_list_example": "115538028"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/parsley_cb_dmean_5000_it.json",
@@ -1019,17 +806,15 @@
         "id_image": "parsley_1407861"
       }
     ],
-    "hash_code_list_img": "1611804864",
-    "list_definition_mean": [
-      {
-        "mean_english": "cây mùi tây",
-        "definition": "a kind of herb used in cookery to decorate or add flavour to food",
-        "ex_of_definition_list": [
-          "flat-leaf parsley."
-        ]
-      }
+    "hash_code_list_img": "1884037273",
+    "list_example": [
+      "Lastly, green onions, fresh mint and parsley are mixed in.",
+      "Give her a bit of parsley sauce, and she will manage it all right.",
+      "This is then flavoured with salt, pepper, caraway, parsley and sometimes garlic and chives.",
+      "A hollow is made through the cigar and a mixture of minced meat, onions, parsley and cinnamon is packed.",
+      "After the flavors blend it is seasoned with parsley and mixed with fried potato strips just prior to serving."
     ],
-    "hash_code_list_definition_mean": "430414314"
+    "hash_code_list_example": "-1814291701"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/participant_cb_dmean_5000_it.json",
@@ -1052,17 +837,11 @@
         "id_image": "participant_6040649"
       }
     ],
-    "hash_code_list_img": "1791273309",
-    "list_definition_mean": [
-      {
-        "mean_english": "người tham dự",
-        "definition": "a person who participates (in a particular activity)",
-        "ex_of_definition_list": [
-          "the participants in the Olympic Games."
-        ]
-      }
+    "hash_code_list_img": "-550519435",
+    "list_example": [
+      "The participant gets a quick look at the pattern."
     ],
-    "hash_code_list_definition_mean": "348921723"
+    "hash_code_list_example": "254342769"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/particle_cb_dmean_5000_it.json",
@@ -1080,17 +859,11 @@
         "id_image": "particle_1280969"
       }
     ],
-    "hash_code_list_img": "781449532",
-    "list_definition_mean": [
-      {
-        "mean_english": "hạt",
-        "definition": "a very small piece",
-        "ex_of_definition_list": [
-          "a particle of dust."
-        ]
-      }
+    "hash_code_list_img": "1312043652",
+    "list_example": [
+      "a particle of dust."
     ],
-    "hash_code_list_definition_mean": "1523661827"
+    "hash_code_list_example": "-2135230803"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/partition_cb_dmean_5000_it.json",
@@ -1110,31 +883,11 @@
         "id_image": "partition_360129"
       }
     ],
-    "hash_code_list_img": "1989317253",
-    "list_definition_mean": [
-      {
-        "mean_english": "bức vách ngăn",
-        "definition": "something that divides, eg a light, often temporary, wall between rooms",
-        "ex_of_definition_list": [
-          "The office was divided in two by a wooden partition."
-        ]
-      },
-      {
-        "mean_english": "sự phân chia",
-        "definition": "the act of dividing; the state of being divided",
-        "ex_of_definition_list": [
-          "the partition of India."
-        ]
-      },
-      {
-        "mean_english": "phân chia",
-        "definition": "to divide",
-        "ex_of_definition_list": [
-          "They partitioned the room (off) with a curtain."
-        ]
-      }
+    "hash_code_list_img": "1124203096",
+    "list_example": [
+      "the partition of India."
     ],
-    "hash_code_list_definition_mean": "1714371395"
+    "hash_code_list_example": "1990154394"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/partnership_cb_dmean_5000_it.json",
@@ -1168,25 +921,12 @@
         "id_image": "partnership_5138009"
       }
     ],
-    "hash_code_list_img": "-1694909174",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự cộng tác",
-        "definition": "the state of being or becoming partners",
-        "ex_of_definition_list": [
-          "a business partnership",
-          "He entered into partnership with his brother."
-        ]
-      },
-      {
-        "mean_english": "sự liên kết",
-        "definition": "people playing together in a game",
-        "ex_of_definition_list": [
-          "The champions were defeated by the partnership of Rutherford and Carragher in the men’s doubles."
-        ]
-      }
+    "hash_code_list_img": "911633234",
+    "list_example": [
+      "He entered into partnership with his brother.",
+      "The champions were defeated by the partnership of Rutherford and Carragher in the men’s doubles."
     ],
-    "hash_code_list_definition_mean": "4468404"
+    "hash_code_list_example": "-889489071"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/partner_cb_dmean_5000_it.json",
@@ -1221,31 +961,11 @@
         "id_image": "partner_860504"
       }
     ],
-    "hash_code_list_img": "907909135",
-    "list_definition_mean": [
-      {
-        "mean_english": "cộng sự",
-        "definition": "a person who shares the ownership of a business etc with one or more others",
-        "ex_of_definition_list": [
-          "She was made a partner in the firm."
-        ]
-      },
-      {
-        "mean_english": "bạn nhảy/ cùng phe",
-        "definition": "one of two people who dance, play in a game etc together",
-        "ex_of_definition_list": [
-          "a tennis/dancing partner."
-        ]
-      },
-      {
-        "mean_english": "cùng nhảy/ cùng chơi",
-        "definition": "to be a partner to (someone)",
-        "ex_of_definition_list": [
-          "He partnered his wife in the last dance."
-        ]
-      }
+    "hash_code_list_img": "-1957019360",
+    "list_example": [
+      "She was made a partner in the firm."
     ],
-    "hash_code_list_definition_mean": "-2132981416"
+    "hash_code_list_example": "-1056317952"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/party_cb_dmean_5000_it.json",
@@ -1276,40 +996,13 @@
         "id_image": "party_2640240"
       }
     ],
-    "hash_code_list_img": "-570489827",
-    "list_definition_mean": [
-      {
-        "mean_english": "bữa tiệc",
-        "definition": "a meeting of guests for entertainment, celebration etc",
-        "ex_of_definition_list": [
-          "a birthday party",
-          "She’s giving/having a party tonight",
-          "(also adjective) a party dress."
-        ]
-      },
-      {
-        "mean_english": "nhóm",
-        "definition": "a group of people with a particular purpose",
-        "ex_of_definition_list": [
-          "a party of tourists."
-        ]
-      },
-      {
-        "mean_english": "đảng",
-        "definition": "a group of people with the same ideas and purposes, especially political",
-        "ex_of_definition_list": [
-          "a political party."
-        ]
-      },
-      {
-        "mean_english": "tiệc tùng",
-        "definition": "to enjoy yourself by eating, drinking, dancing etc with other people",
-        "ex_of_definition_list": [
-          "She was out all night partying again."
-        ]
-      }
+    "hash_code_list_img": "-612615376",
+    "list_example": [
+      "She’s giving/having a party tonight",
+      "(also adjective) a party dress.",
+      "a party of tourists."
     ],
-    "hash_code_list_definition_mean": "-1541568662"
+    "hash_code_list_example": "1122370673"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/part_cb_dmean_5000_it.json",
@@ -1333,59 +1026,19 @@
         "id_image": "part_5605897"
       }
     ],
-    "hash_code_list_img": "308784605",
-    "list_definition_mean": [
-      {
-        "mean_english": "một phần",
-        "definition": "something which, together with other things, makes a whole; a piece",
-        "ex_of_definition_list": [
-          "We spent part of the time at home and part at the seaside."
-        ]
-      },
-      {
-        "mean_english": "phần",
-        "definition": "an equal division",
-        "ex_of_definition_list": [
-          "He divided the cake into three parts."
-        ]
-      },
-      {
-        "mean_english": "vai diễn",
-        "definition": "a character in a play etc",
-        "ex_of_definition_list": [
-          "She played the part of the queen."
-        ]
-      },
-      {
-        "mean_english": "lời nói của vai kịch",
-        "definition": "the words, actions etc of a character in a play etc",
-        "ex_of_definition_list": [
-          "He learned his part quickly."
-        ]
-      },
-      {
-        "mean_english": "bè",
-        "definition": "in music, the notes to be played or sung by a particular instrument or voice",
-        "ex_of_definition_list": [
-          "the violin part."
-        ]
-      },
-      {
-        "mean_english": "trách nhiệm",
-        "definition": "a person’s share, responsibility etc in doing something",
-        "ex_of_definition_list": [
-          "He played a great part in the company’s success."
-        ]
-      },
-      {
-        "mean_english": "chia; tách",
-        "definition": "to separate; to divide",
-        "ex_of_definition_list": [
-          "They parted (from each other) at the gate."
-        ]
-      }
+    "hash_code_list_img": "1064414878",
+    "list_example": [
+      "We spent part of the time at home and part at the seaside.",
+      "She played the part of the queen.",
+      "He learned his part quickly.",
+      "He played a great part in the company’s success.",
+      "A person can be part of all four populations, or none, or one, or two, or three.",
+      "This realization on the part of the players materalizes in two ways.",
+      "Consumption was part of the ordinary life, still represented, albeit often precariously, by the home front.",
+      "The dotted line represents the part at the part mating frame in the robot workspace.",
+      "Paths permitting additional direct effects are also included as part of the model."
     ],
-    "hash_code_list_definition_mean": "1323076102"
+    "hash_code_list_example": "2092768473"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/passenger_cb_dmean_5000_it.json",
@@ -1418,18 +1071,12 @@
         "id_image": "passenger_2248059"
       }
     ],
-    "hash_code_list_img": "-1698387851",
-    "list_definition_mean": [
-      {
-        "mean_english": "hành khách",
-        "definition": "a person who travels in any vehicle, boat, aeroplane/airplane etc (not the driver or anyone working there)",
-        "ex_of_definition_list": [
-          "a passenger on a train",
-          "(also adjective) a passenger train."
-        ]
-      }
+    "hash_code_list_img": "1601340194",
+    "list_example": [
+      "a passenger on a train",
+      "(also adjective) a passenger train."
     ],
-    "hash_code_list_definition_mean": "1728067438"
+    "hash_code_list_example": "-1523259890"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/passionate_cb_dmean_5000_it.json",
@@ -1457,18 +1104,20 @@
         "id_image": "passionate_5230548"
       }
     ],
-    "hash_code_list_img": "-298012360",
-    "list_definition_mean": [
-      {
-        "mean_english": "nồng nàn",
-        "definition": "having very strong feelings; intense or emotional",
-        "ex_of_definition_list": [
-          "a passionate woman",
-          "passionate hatred."
-        ]
-      }
+    "hash_code_list_img": "-149451387",
+    "list_example": [
+      "a passionate woman",
+      "passionate hatred.",
+      "The literature includes passionate as well as contradictory perspectives on research with hospice and terminally ill patients.",
+      "It was the passionate ideologues, not the cool-headed politiques, who called the tunes of late sixteenth-century international relations.",
+      "Illness that makes you have passionate thoughts about the oceans.",
+      "Unlike in those tales, romantic passionate love in this novel is no longer given the task of performing allegorical patriotic and social-reformist labor.",
+      "Interviewees, when talking about their study, referred to their often passionate interest in the subject as the key reason for studying for a qualification.",
+      "It is humbling to realize just how much creative, thoughtful, and passionate dialogue has been generated by our work.",
+      "This is not because he is antirights, for the book oozes with passionate defences of the rights of the parents.",
+      "Here, importantly, we are not talking about his passionate attacks upon others."
     ],
-    "hash_code_list_definition_mean": "1803977687"
+    "hash_code_list_example": "-1805144421"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/passion_cb_dmean_5000_it.json",
@@ -1501,18 +1150,16 @@
         "id_image": "passion_552429"
       }
     ],
-    "hash_code_list_img": "-1980870840",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự say mê",
-        "definition": "very strong feeling, especially of anger or love",
-        "ex_of_definition_list": [
-          "He argued with great passion",
-          "He has a passion for chocolate."
-        ]
-      }
+    "hash_code_list_img": "-1821602908",
+    "list_example": [
+      "He has a passion for chocolate.",
+      "He also mentioned a bold and confident disposition, though the latter might better be viewed as a passion or disposition enhanced by the former circumstances.",
+      "The first draft is always the best, because that's the one you write with maximum passion and curiosity.",
+      "According to some understandings of human freedom, it makes no sense to speak of a response to appetite or passion as a voluntary act.",
+      "The lyrics are mildly plaintive love poems and the music does not so much excite passion as entertain soothingly.",
+      "This passion for understanding was the product of conjuncture, the simultaneous explosion of global crisis-intellectual, economic, political and moral."
     ],
-    "hash_code_list_definition_mean": "395888488"
+    "hash_code_list_example": "182177561"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/passport_cb_dmean_5000_it.json",
@@ -1540,17 +1187,19 @@
         "id_image": "passport_807674"
       }
     ],
-    "hash_code_list_img": "1954928313",
-    "list_definition_mean": [
-      {
-        "mean_english": "hộ chiếu",
-        "definition": "a document of identification, necessary for foreign travel",
-        "ex_of_definition_list": [
-          "a British passport."
-        ]
-      }
+    "hash_code_list_img": "1327113276",
+    "list_example": [
+      "a British passport.",
+      "At the present time we are not establishing a general system of passports, but we may have to do so.",
+      "The practice relating to the issue of passports to minors will be reviewed when the final form of the proposed legislation is known.",
+      "Control is also exercised in the issue of passports.",
+      "Besides controlling travel, passports and the like often served to identify political suspects.",
+      "We were told that if we wanted to stop people at our frontiers and look at their passports, we could do so.",
+      "However, a range of measures, including secure holding areas and early return of sponsors' passports, is being taken to improve performance.",
+      "We should move toward real-time verification of passports with issuing authorities.",
+      "Even so further initiatives are in place to improve the handling of passports."
     ],
-    "hash_code_list_definition_mean": "913086769"
+    "hash_code_list_example": "1576028683"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/password_cb_dmean_5000_it.json",
@@ -1578,18 +1227,15 @@
         "id_image": "password_406061"
       }
     ],
-    "hash_code_list_img": "-1620654593",
-    "list_definition_mean": [
-      {
-        "mean_english": "mật khẩu",
-        "definition": "a secret word by which those who know it can recognize each other and be allowed to go past, enter etc",
-        "ex_of_definition_list": [
-          "You have to enter your password before you can use the computer.",
-          "He was not allowed into the army camp because he did not know the password."
-        ]
-      }
+    "hash_code_list_img": "-996511972",
+    "list_example": [
+      "You have to enter your password before you can use the computer.",
+      "This item allows you to set your own password which, when spoken, opens the lock.",
+      "In the school system, it will continue to be the password for academic/scientific and technological advancement.",
+      "Electronic dictionaries abound, so a would-be intruder can easily respond to the password prompt with the whole lexicon.",
+      "For example, a user password requires higher protection than a session key, which is only used for a single protocol session."
     ],
-    "hash_code_list_definition_mean": "2026537591"
+    "hash_code_list_example": "413537735"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pass_cb_dmean_5000_it.json",
@@ -1623,103 +1269,13 @@
         "id_image": "pass_6080089"
       }
     ],
-    "hash_code_list_img": "-805918629",
-    "list_definition_mean": [
-      {
-        "mean_english": "đi ngang qua",
-        "definition": "to move towards and then beyond (something, by going past, through, by, over etc)",
-        "ex_of_definition_list": [
-          "I pass the shops on my way to work",
-          "The procession passed along the corridor."
-        ]
-      },
-      {
-        "mean_english": "chuyển/ truyền lại",
-        "definition": "to move, give etc from one person, state etc to another",
-        "ex_of_definition_list": [
-          "They passed the photographs around",
-          "The tradition is passed (on/down) from father to son."
-        ]
-      },
-      {
-        "mean_english": "vượt quá",
-        "definition": "to go or be beyond",
-        "ex_of_definition_list": [
-          "This passes my understanding."
-        ]
-      },
-      {
-        "mean_english": "vượt qua",
-        "definition": "(of vehicles etc on a road) to overtake",
-        "ex_of_definition_list": [
-          "The sports car passed me on a dangerous bend in the road."
-        ]
-      },
-      {
-        "mean_english": "trải qua",
-        "definition": "to spend (time)",
-        "ex_of_definition_list": [
-          "They passed several weeks in the country."
-        ]
-      },
-      {
-        "mean_english": "thông qua",
-        "definition": "(of an official group, government etc) to accept or approve",
-        "ex_of_definition_list": [
-          "The government has passed a resolution."
-        ]
-      },
-      {
-        "mean_english": "tuyên bố",
-        "definition": "to give or announce (a judgement or sentence)",
-        "ex_of_definition_list": [
-          "The magistrate passed judgement on the prisoner."
-        ]
-      },
-      {
-        "mean_english": "kết thúc",
-        "definition": "to end or go away",
-        "ex_of_definition_list": [
-          "His sickness soon passed."
-        ]
-      },
-      {
-        "mean_english": "thi đỗ",
-        "definition": "to (judge to) be successful in (an examination etc)",
-        "ex_of_definition_list": [
-          "I passed my driving test."
-        ]
-      },
-      {
-        "mean_english": "đường đèo",
-        "definition": "a narrow path between mountains",
-        "ex_of_definition_list": [
-          "a mountain pass."
-        ]
-      },
-      {
-        "mean_english": "giấy phép ra vào",
-        "definition": "a ticket or card allowing a person to do something, eg to travel free or to get in to a building",
-        "ex_of_definition_list": [
-          "You must show your pass before entering."
-        ]
-      },
-      {
-        "mean_english": "thi đỗ",
-        "definition": "a successful result in an examination, especially when below a distinction, honours etc",
-        "ex_of_definition_list": [
-          "There were ten passes and no fails."
-        ]
-      },
-      {
-        "mean_english": "sự chuyền bóng",
-        "definition": "(in ball games) a throw, kick, hit etc of the ball from one player to another",
-        "ex_of_definition_list": [
-          "The centre-forward made a pass towards the goal."
-        ]
-      }
+    "hash_code_list_img": "-1750161294",
+    "list_example": [
+      "I pass the shops on my way to work",
+      "You must show your pass before entering.",
+      "The centre-forward made a pass towards the goal."
     ],
-    "hash_code_list_definition_mean": "-115815789"
+    "hash_code_list_example": "1633896634"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pasta_cb_dmean_5000_it.json",
@@ -1747,17 +1303,14 @@
         "id_image": "pasta_872435"
       }
     ],
-    "hash_code_list_img": "-889267764",
-    "list_definition_mean": [
-      {
-        "mean_english": "mì ống",
-        "definition": "a dough used in Italian cooking for making spaghetti, macaroni etc",
-        "ex_of_definition_list": [
-          "a bowl of pasta."
-        ]
-      }
+    "hash_code_list_img": "-1357059540",
+    "list_example": [
+      "The electrode penetrations were matched in both data sets by utilizing the pasta probes, entry sites, and tissue damage.",
+      "The pasta was made with raw eggs, flour, and water.",
+      "The pasta was made of flour, eggs, and water.",
+      "When the pasta is in the pot, he looks out the window, sees some boys playing soccer, and joins them."
     ],
-    "hash_code_list_definition_mean": "1901372007"
+    "hash_code_list_example": "-1928341953"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pastel_cb_dmean_5000_it.json",
@@ -1782,31 +1335,11 @@
         "id_image": "pastel_5854311"
       }
     ],
-    "hash_code_list_img": "-1979840145",
-    "list_definition_mean": [
-      {
-        "mean_english": "màu nhạt",
-        "definition": "(of colours/colors) pale, containing a lot of white",
-        "ex_of_definition_list": [
-          "a soft pastel green."
-        ]
-      },
-      {
-        "mean_english": "phấn màu",
-        "definition": "a kind of coloured/colored pencil, made with chalk, which makes a pale colour/color",
-        "ex_of_definition_list": [
-          "She works mainly in pastels."
-        ]
-      },
-      {
-        "mean_english": "tranh vẽ bằng phấn màu",
-        "definition": "a picture drawn with this kind of pencil",
-        "ex_of_definition_list": [
-          "He began making pastels in 1902."
-        ]
-      }
+    "hash_code_list_img": "237874152",
+    "list_example": [
+      "a soft pastel green."
     ],
-    "hash_code_list_definition_mean": "613303496"
+    "hash_code_list_example": "280448026"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/paste_cb_dmean_5000_it.json",
@@ -1836,32 +1369,16 @@
         "id_image": "paste_391316"
       }
     ],
-    "hash_code_list_img": "175166573",
-    "list_definition_mean": [
-      {
-        "mean_english": "hồ bột",
-        "definition": "a soft, damp mixture, especially one made up of glue and water and used for sticking pieces of paper etc together",
-        "ex_of_definition_list": [
-          "wallpaper paste."
-        ]
-      },
-      {
-        "mean_english": "bột nhão",
-        "definition": "a mixture of flour, fat etc used for making pies, pastry etc",
-        "ex_of_definition_list": [
-          "Add the flour, a little at a time, to make a thick paste."
-        ]
-      },
-      {
-        "mean_english": "patê",
-        "definition": "a mixture made from some types of food",
-        "ex_of_definition_list": [
-          "tomato paste",
-          "almond paste."
-        ]
-      }
+    "hash_code_list_img": "803336337",
+    "list_example": [
+      "Recombination generalizes the notion of copy and apply path argued above as a natural analogue to copy and paste in more conventional systems.",
+      "All the pots are produced with the same clay, paste preparation, and glaze.",
+      "At the same time, this chemical differentiation may be explained by variations in paste recipes reflecting differing functions and /or consumer markets for these vessels.",
+      "Slight variations in resource procurement and / or paste preparation may be inferred to have caused them to diverge from the reference-group profiles.",
+      "They included such variables as paste texture and temper frequency, as well as firing characteristics.",
+      "The proof is a routine diagram paste based on the definitions."
     ],
-    "hash_code_list_definition_mean": "-2061120233"
+    "hash_code_list_example": "-736198061"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pastime_cb_dmean_5000_it.json",
@@ -1884,17 +1401,14 @@
         "id_image": "pastime_2241455"
       }
     ],
-    "hash_code_list_img": "-1286275517",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự giải trí",
-        "definition": "an occupation which one enjoys and takes part in during one’s spare time; hobby",
-        "ex_of_definition_list": [
-          "Playing chess is his favourite pastime."
-        ]
-      }
+    "hash_code_list_img": "2020462064",
+    "list_example": [
+      "Science as fashionable pastime has become a familiar theme in eighteenth-century studies.",
+      "Visiting dance halls had been a very important pastime for many older people.",
+      "Likewise, the singing of folk songs, necessarily easy to perform, became a very popular pastime by the end of the century.",
+      "It is manifest that drinking in bars is a major pastime among some foreigners."
     ],
-    "hash_code_list_definition_mean": "623450400"
+    "hash_code_list_example": "987830394"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pastry_cb_dmean_5000_it.json",
@@ -1928,24 +1442,11 @@
         "id_image": "pastry_6299639"
       }
     ],
-    "hash_code_list_img": "-2083418308",
-    "list_definition_mean": [
-      {
-        "mean_english": "bột nhão",
-        "definition": "flour paste used in making pies, tarts etc",
-        "ex_of_definition_list": [
-          "puff pastry."
-        ]
-      },
-      {
-        "mean_english": "bánh ngọt",
-        "definition": "a pie, tart etc made with this",
-        "ex_of_definition_list": [
-          "Danish pastries."
-        ]
-      }
+    "hash_code_list_img": "460828064",
+    "list_example": [
+      "Any food or clothing that entered the cell was to be scrutinised ; bread, cake, pastry and fowl were to be cut up to ensure they concealed no tools."
     ],
-    "hash_code_list_definition_mean": "-1882500883"
+    "hash_code_list_example": "-1910571805"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pasty_cb_dmean_5000_it.json",
@@ -1963,17 +1464,11 @@
         "id_image": "pasty_641890"
       }
     ],
-    "hash_code_list_img": "925408943",
-    "list_definition_mean": [
-      {
-        "mean_english": "bánh pasty",
-        "definition": "a small pie made by wrapping pastry around meat, vegetables, or cheese and baking it",
-        "ex_of_definition_list": [
-          "a Cornish pasty."
-        ]
-      }
+    "hash_code_list_img": "1468111096",
+    "list_example": [
+      "a Cornish pasty."
     ],
-    "hash_code_list_definition_mean": "1508276791"
+    "hash_code_list_example": "79232975"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/past_cb_dmean_5000_it.json",
@@ -1995,66 +1490,16 @@
         "id_image": "past_6214151"
       }
     ],
-    "hash_code_list_img": "1027347682",
-    "list_definition_mean": [
-      {
-        "mean_english": "quá khứ",
-        "definition": "just finished",
-        "ex_of_definition_list": [
-          "the past year."
-        ]
-      },
-      {
-        "mean_english": "đã qua",
-        "definition": "over, finished or ended, of an earlier time than the present",
-        "ex_of_definition_list": [
-          "The time for discussion is past."
-        ]
-      },
-      {
-        "mean_english": "thời quá khứ",
-        "definition": "(of the tense of a verb) indicating action in the past",
-        "ex_of_definition_list": [
-          "In ‘He did it’, the verb is in the past tense."
-        ]
-      },
-      {
-        "mean_english": "qua",
-        "definition": "up to and beyond; by",
-        "ex_of_definition_list": [
-          "He ran past me."
-        ]
-      },
-      {
-        "mean_english": "quá",
-        "definition": "after",
-        "ex_of_definition_list": [
-          "It’s past six o’clock."
-        ]
-      },
-      {
-        "mean_english": "qua",
-        "definition": "up to and beyond (a particular place, person etc)",
-        "ex_of_definition_list": [
-          "The soldiers marched past."
-        ]
-      },
-      {
-        "mean_english": "quá khứ",
-        "definition": "a person’s earlier life or career, especially if secret or not respectable",
-        "ex_of_definition_list": [
-          "He never spoke about his past."
-        ]
-      },
-      {
-        "mean_english": "thời quá khứ",
-        "definition": "the past tense",
-        "ex_of_definition_list": [
-          "a verb in the past."
-        ]
-      }
+    "hash_code_list_img": "81709719",
+    "list_example": [
+      "the past year.",
+      "In ‘He did it’, the verb is in the past tense.",
+      "He ran past me.",
+      "It’s past six o’clock.",
+      "Then yesterday, and, indeed, any day in the past year, cannot be set in correspondence with a past year beginning subsequently to that day.",
+      "In particular, they form their past tense forms in untypical ways, and they distinguish two types of onset."
     ],
-    "hash_code_list_definition_mean": "49435986"
+    "hash_code_list_example": "-1758425265"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/patchwork_cb_dmean_5000_it.json",
@@ -2077,18 +1522,16 @@
         "id_image": "patchwork_6306788"
       }
     ],
-    "hash_code_list_img": "2117874399",
-    "list_definition_mean": [
-      {
-        "mean_english": "miếng vải chắp vá",
-        "definition": "cloth made by sewing small pieces of material together",
-        "ex_of_definition_list": [
-          "a skirt made of patchwork",
-          "(also adjective) a patchwork quilt."
-        ]
-      }
+    "hash_code_list_img": "-473759312",
+    "list_example": [
+      "(also adjective) a patchwork quilt.",
+      "The resulting patchwork approach achieves optimization at the local level, but ignores benefits gained by taking a systemlevel view.",
+      "Thirdly, we must ensure that the patchwork of divergent national financial sector taxes does not create new obstacles to the single market.",
+      "Despite this, patchwork motifs of sites with high linkage disequilibrium are observed.",
+      "There was a regular patchwork of committees about this time.",
+      "The book resembles a patchwork quilt of quotations - in places, this makes it look more like a popular anthology than a single author volume."
     ],
-    "hash_code_list_definition_mean": "1503636401"
+    "hash_code_list_example": "1541136408"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/patch_cb_dmean_5000_it.json",
@@ -2123,31 +1566,13 @@
         "id_image": "patch_6147341"
       }
     ],
-    "hash_code_list_img": "649460997",
-    "list_definition_mean": [
-      {
-        "mean_english": "miếng vá",
-        "definition": "a piece of material sewn on to cover a hole",
-        "ex_of_definition_list": [
-          "She sewed a patch on the knee of her jeans."
-        ]
-      },
-      {
-        "mean_english": "khoảng đất nhỏ",
-        "definition": "a small piece of ground",
-        "ex_of_definition_list": [
-          "a vegetable patch."
-        ]
-      },
-      {
-        "mean_english": "vá",
-        "definition": "to mend (clothes etc) by sewing on pieces of material",
-        "ex_of_definition_list": [
-          "She patched the (hole in the) child’s trousers."
-        ]
-      }
+    "hash_code_list_img": "498449675",
+    "list_example": [
+      "She sewed a patch on the knee of her jeans.",
+      "Any patch of positive symbols is forced to be surrounded by on the top and bottom and on the left and right.",
+      "The repair consisted of double patch closure of the septal defect, reconstruction of two atrioventricular orifices, and relief of pulmonary stenosis at all levels."
     ],
-    "hash_code_list_definition_mean": "-1227138542"
+    "hash_code_list_example": "-775995937"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/patent_cb_dmean_5000_it.json",
@@ -2181,18 +1606,17 @@
         "id_image": "patent_5352130"
       }
     ],
-    "hash_code_list_img": "-2068358488",
-    "list_definition_mean": [
-      {
-        "mean_english": "bằng sáng chế",
-        "definition": "an official licence/license from the government giving one person or business the right to make and sell a particular article and to prevent others from doing the same",
-        "ex_of_definition_list": [
-          "She took out a patent on her design",
-          "(also adjective) a patent process."
-        ]
-      }
+    "hash_code_list_img": "-383131281",
+    "list_example": [
+      "She took out a patent on her design",
+      "(also adjective) a patent process.",
+      "For pharmaceutical innovations, the existing patent system provides 20 years of patent protection.",
+      "For each problem, the original patent document was used to determine the per formance the invention was supposed to achieve.",
+      "Exclusivity is limited to the 20 years from the date a patent application is filed.",
+      "One tiny residual shunt is still patent (4 weeks follow-up).",
+      "It is important to note that complete closure was achieved in all patients with patent oval foramen after presumed paradoxical embolism."
     ],
-    "hash_code_list_definition_mean": "1597751608"
+    "hash_code_list_example": "777034846"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/paternity_cb_dmean_5000_it.json",
@@ -2210,17 +1634,18 @@
         "id_image": "paternity_5904087"
       }
     ],
-    "hash_code_list_img": "1319381294",
-    "list_definition_mean": [
-      {
-        "mean_english": "cương vị làm cha",
-        "definition": "the fact or state of being a father",
-        "ex_of_definition_list": [
-          "(also adjective) paternity leave."
-        ]
-      }
+    "hash_code_list_img": "1922735196",
+    "list_example": [
+      "(also adjective) paternity leave.",
+      "Cases in which the paternity of children of married women were at stake telescope many of the issues that arise with paternity cases in general.",
+      "Strategies used by late-arriving males to favour their paternity are also mentioned.",
+      "The test for genetic paternity simply does not address the most important consideration.",
+      "There are some other, firmer ways of limiting access to genetic paternity testing.",
+      "In the future, examining paternity and accountability issues seems logical to understand and articulate this aspect of the problem and seek possible solutions.",
+      "The emerging phenomenon of genetic paternity testing shows how good science and useful social reform can run off the rails.",
+      "Instead, they stated that science should not have any voice in these trials, an attitude rarely found in traditional paternity proceeding decisions."
     ],
-    "hash_code_list_definition_mean": "1398464341"
+    "hash_code_list_example": "2103617166"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pathology_cb_dmean_5000_it.json",
@@ -2243,17 +1668,14 @@
         "id_image": "pathology_3974916"
       }
     ],
-    "hash_code_list_img": "-865162185",
-    "list_definition_mean": [
-      {
-        "mean_english": "bệnh lý học",
-        "definition": "the science of diseases",
-        "ex_of_definition_list": [
-          "the Department of Pathology."
-        ]
-      }
+    "hash_code_list_img": "-576648881",
+    "list_example": [
+      "These exclusions obviously limit, to some extent, the range of personality pathology to be found in the current sample.",
+      "Medical symptoms without identified pathology : relationship to psychiatric disorders, childhood and adult trauma, and personality traits.",
+      "Although rare, the possibility of cervical aortic arch and intrathoracic vascular pathology should be considered in patients with a large facial hemangioma.",
+      "Here we again find limitations when the study of pathology is separated from the study of health."
     ],
-    "hash_code_list_definition_mean": "634320082"
+    "hash_code_list_example": "225225128"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pathway_cb_dmean_5000_it.json",
@@ -2276,16 +1698,10 @@
         "id_image": "pathway_5573841"
       }
     ],
-    "hash_code_list_img": "-274868282",
-    "list_definition_mean": [
-      {
-        "mean_english": "đường mòn; đường nhỏ",
-        "definition": "a path",
-        "ex_of_definition_list": [
-          "The pathway led down to the beach."
-        ]
-      }
+    "hash_code_list_img": "-1924941309",
+    "list_example": [
+      "The pathway led down to the beach."
     ],
-    "hash_code_list_definition_mean": "878530282"
+    "hash_code_list_example": "-850614342"
   }
 ]

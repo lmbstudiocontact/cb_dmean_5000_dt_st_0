@@ -26,17 +26,11 @@
         "id_image": "armour_942416"
       }
     ],
-    "hash_code_list_img": "952492785",
-    "list_definition_mean": [
-      {
-        "mean_english": "áo giáp",
-        "definition": "formerly, a metal suit worn by knights etc as a protection while fighting",
-        "ex_of_definition_list": [
-          "a suit of armour."
-        ]
-      }
+    "hash_code_list_img": "1015386981",
+    "list_example": [
+      "a suit of armour."
     ],
-    "hash_code_list_definition_mean": "355977059"
+    "hash_code_list_example": "378844872"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/army_cb_dmean_5000_it.json",
@@ -60,24 +54,11 @@
         "id_image": "army_1750028"
       }
     ],
-    "hash_code_list_img": "1905156677",
-    "list_definition_mean": [
-      {
-        "mean_english": "quân đội",
-        "definition": "a large number of men armed and organized for war",
-        "ex_of_definition_list": [
-          "The two armies met at dawn."
-        ]
-      },
-      {
-        "mean_english": "đám đông",
-        "definition": "a large number (of people etc)",
-        "ex_of_definition_list": [
-          "an army of tourists."
-        ]
-      }
+    "hash_code_list_img": "-1872229214",
+    "list_example": [
+      "an army of tourists."
     ],
-    "hash_code_list_definition_mean": "2038227302"
+    "hash_code_list_example": "-277885357"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/arm_cb_dmean_5000_it.json",
@@ -108,38 +89,15 @@
         "id_image": "arm_6147326"
       }
     ],
-    "hash_code_list_img": "-285410663",
-    "list_definition_mean": [
-      {
-        "mean_english": "cánh tay",
-        "definition": "the part of the body between the shoulder and the hand",
-        "ex_of_definition_list": [
-          "He has broken his arm."
-        ]
-      },
-      {
-        "mean_english": "vật hình cánh tay",
-        "definition": "anything shaped like or similar to this",
-        "ex_of_definition_list": [
-          "She sat on the arm of the chair."
-        ]
-      },
-      {
-        "mean_english": "trang bị vũ khí",
-        "definition": "to give weapons to (a person etc)",
-        "ex_of_definition_list": [
-          "A decision was taken to arm the prison guards."
-        ]
-      },
-      {
-        "mean_english": "chuẩn bị chiến đấu",
-        "definition": "to prepare for battle, war etc",
-        "ex_of_definition_list": [
-          "They armed for battle."
-        ]
-      }
+    "hash_code_list_img": "516312174",
+    "list_example": [
+      "She sat on the arm of the chair.",
+      "A decision was taken to arm the prison guards.",
+      "The microcontroller generates pulses to activate the wheel stepper motors and arm servos.",
+      "In fact, a human-like motion requires that right arm moves forward while right leg moves backward and similarly for the other leg and arm.",
+      "In step (1), the robot arm and the object are located in a random position which belongs to the workspace of the vision system."
     ],
-    "hash_code_list_definition_mean": "439529453"
+    "hash_code_list_example": "-384786906"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/aroma_cb_dmean_5000_it.json",
@@ -172,17 +130,18 @@
         "id_image": "aroma_6180765"
       }
     ],
-    "hash_code_list_img": "1027487224",
-    "list_definition_mean": [
-      {
-        "mean_english": "hương vị",
-        "definition": "the (usually pleasant) smell that a substance has or gives off",
-        "ex_of_definition_list": [
-          "The aroma of coffee filled the room."
-        ]
-      }
+    "hash_code_list_img": "-920155382",
+    "list_example": [
+      "The aroma of coffee filled the room.",
+      "Hammond was never perturbed that his work was often decried as being tainted by the aroma of usefulness.",
+      "The complete analysis of wine aroma is, however, extremely complex and expensive.",
+      "Significant differences were found in the levels of all aroma compounds studied in the wines analysed in two consecutive vintages.",
+      "Effect of some water-soluble components on aroma of heated adipose tissue.",
+      "The later one is more highly wrought and has a haunting aroma of tonal evasion.",
+      "The contribution of these compounds to the final aroma depends on whether their concentration in the wine is above the perception threshold.",
+      "Citronellal was also present, although it did not form part of the initial composition of the aroma of any wine."
     ],
-    "hash_code_list_definition_mean": "789948803"
+    "hash_code_list_example": "-1095427447"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/arrest_cb_dmean_5000_it.json",
@@ -213,39 +172,11 @@
         "id_image": "arrest_2670959"
       }
     ],
-    "hash_code_list_img": "-1622824358",
-    "list_definition_mean": [
-      {
-        "mean_english": "bắt giữ",
-        "definition": "to capture or take hold of (a person) because he or she has broken the law",
-        "ex_of_definition_list": [
-          "The police arrested the thief."
-        ]
-      },
-      {
-        "mean_english": "ngăn lại",
-        "definition": "to stop",
-        "ex_of_definition_list": [
-          "Economic difficulties arrested the growth of industry."
-        ]
-      },
-      {
-        "mean_english": "sự bắt giữ",
-        "definition": "the act of arresting; being arrested",
-        "ex_of_definition_list": [
-          "The police made several arrests",
-          "He was questioned after his arrest."
-        ]
-      },
-      {
-        "mean_english": "sự hãm lại",
-        "definition": "a stopping of action",
-        "ex_of_definition_list": [
-          "Cardiac arrest is another term for heart failure."
-        ]
-      }
+    "hash_code_list_img": "-982699103",
+    "list_example": [
+      "Cardiac arrest is another term for heart failure."
     ],
-    "hash_code_list_definition_mean": "887307735"
+    "hash_code_list_example": "292291499"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/arrival_cb_dmean_5000_it.json",
@@ -284,24 +215,20 @@
         "id_image": "arrival_529929"
       }
     ],
-    "hash_code_list_img": "-6297385",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự đến",
-        "definition": "the act of arriving",
-        "ex_of_definition_list": [
-          "I was greeted by my sister on my arrival."
-        ]
-      },
-      {
-        "mean_english": "người/ vật đến",
-        "definition": "a person, thing etc that has arrived",
-        "ex_of_definition_list": [
-          "I wish he would stop calling our baby the new arrival."
-        ]
-      }
+    "hash_code_list_img": "1575575715",
+    "list_example": [
+      "I was greeted by my sister on my arrival.",
+      "I wish he would stop calling our baby the new arrival.",
+      "Distribution of number of arrivals, nights spent, average length of stay and nationality by touristic provinces, 2002.",
+      "Most arrivals came after the 1960s.",
+      "The new arrivals, knowing little about science, education or culture, look round for similarly misplaced colleagues with whom they can talk about perks and politics.",
+      "The result was that until the new summer-time came into force late arrivals were getting there half-an-hour and three-quarters of an hour after starting time.",
+      "During the past few months supplies have been below normal owing to delay in arrivals.",
+      "A second characterization is involved based on the expected number of arrivals during an interval of time.",
+      "The trouble is that the late arrivals are heavily concentrated in the commuter period.",
+      "Every effort is being and will be made to distribute these arrivals, which should go a considerable way to meeting any shortage."
     ],
-    "hash_code_list_definition_mean": "776938423"
+    "hash_code_list_example": "1288270837"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/arrogant_cb_dmean_5000_it.json",
@@ -324,17 +251,17 @@
         "id_image": "arrogant_260226"
       }
     ],
-    "hash_code_list_img": "-122677778",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngạo mạn",
-        "definition": "extremely proud; thinking that one is much more important than other people",
-        "ex_of_definition_list": [
-          "That kind of arrogant attitude will get him nowhere."
-        ]
-      }
+    "hash_code_list_img": "1308324623",
+    "list_example": [
+      "That kind of arrogant attitude will get him nowhere.",
+      "It sounds arrogant to claim that people do not understand the notion of a life worth living when they think they do.",
+      "It's no mystification to observe that even its syntacticians are seldom so arrogant as to claim they can enumerate its effects on the emotions.",
+      "The building is not just the arrogant and callous mimesis of one particular 'style'.",
+      "Let us then create a new guild of craftsmen without the class distinction that raise an arrogant barrier between craftsman and artist!",
+      "I then recognized how arrogant is the linear 'carrot and stick' metaphor, designed to move donkeys a short distance.",
+      "The reviewer's arrogant tone reveals a desire for distance, and the report served to reassure the readers of the security of segregation, culturally and racially."
     ],
-    "hash_code_list_definition_mean": "419441491"
+    "hash_code_list_example": "-2116300207"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/arrow_cb_dmean_5000_it.json",
@@ -358,17 +285,11 @@
         "id_image": "arrow_2396676"
       }
     ],
-    "hash_code_list_img": "1087862844",
-    "list_definition_mean": [
-      {
-        "mean_english": "vật hình mũi tên",
-        "definition": "a sign shaped like an arrow eg to show which way to go",
-        "ex_of_definition_list": [
-          "You can’t get lost – just follow the arrows."
-        ]
-      }
+    "hash_code_list_img": "539251505",
+    "list_example": [
+      "You can’t get lost – just follow the arrows."
     ],
-    "hash_code_list_definition_mean": "686904555"
+    "hash_code_list_example": "1718127632"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/arson_cb_dmean_5000_it.json",
@@ -391,17 +312,11 @@
         "id_image": "arson_5411130"
       }
     ],
-    "hash_code_list_img": "-1330331905",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự cố ý gây hoả hoạn",
-        "definition": "the crime of setting fire to (a building etc) on purpose",
-        "ex_of_definition_list": [
-          "He was convicted of arson."
-        ]
-      }
+    "hash_code_list_img": "-705379781",
+    "list_example": [
+      "He was convicted of arson."
     ],
-    "hash_code_list_definition_mean": "1859227039"
+    "hash_code_list_example": "-1638676224"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/arthritis_cb_dmean_5000_it.json",
@@ -439,17 +354,16 @@
         "id_image": "arthritis_6349832"
       }
     ],
-    "hash_code_list_img": "1460496247",
-    "list_definition_mean": [
-      {
-        "mean_english": "chứng viêm khớp",
-        "definition": "pain and swelling in the joints of the body",
-        "ex_of_definition_list": [
-          "She suffers from arthritis."
-        ]
-      }
+    "hash_code_list_img": "1759262802",
+    "list_example": [
+      "In this article we discuss the differential diagnosis and management of conditions presenting as inflammatory arthritis in older people.",
+      "They then begin to inflame the body's own cells, causing diseases such as rheumatoid arthritis and inflammatory bowel disease.",
+      "They quite often have other medical problems like arthritis and mobility.",
+      "Although reactive arthritis following campylobacter infection is usually mild, this complication substantially increased the disease burden and use of health services in this outbreak.",
+      "The different criteria used for the diagnosis of arthritis and the extended duration of the disease may explain these variations.",
+      "For all practical purposes, erythema marginatum is seen only when carditis and/or arthritis are also present."
     ],
-    "hash_code_list_definition_mean": "784882244"
+    "hash_code_list_example": "525422510"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/artichoke_cb_dmean_5000_it.json",
@@ -477,18 +391,15 @@
         "id_image": "artichoke_6108976"
       }
     ],
-    "hash_code_list_img": "-340439151",
-    "list_definition_mean": [
-      {
-        "mean_english": "cây atisô",
-        "definition": "a round green vegetable with thick pointed leaves",
-        "ex_of_definition_list": [
-          "an Italian liquor made from artichokes",
-          "(also adjective) artichoke hearts."
-        ]
-      }
+    "hash_code_list_img": "266210979",
+    "list_example": [
+      "(also adjective) artichoke hearts.",
+      "More problematic are drain blockages caused by shredded waste that is fibrous, \"e.g.\", artichoke leaves, or starchy, \"e.g.\", potato peelings.",
+      "It is like the artichoke —one takes one leaf at a time, so that after all the leaves have gone there is nothing left.",
+      "The oil, extracted from the seeds of the cardoon, and called artichoke oil, is similar to safflower and sunflower oil in composition and use.",
+      "Another name for this color is \"artichoke green\"."
     ],
-    "hash_code_list_definition_mean": "323653324"
+    "hash_code_list_example": "1168183765"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/article_cb_dmean_5000_it.json",
@@ -523,25 +434,11 @@
         "id_image": "article_1907447"
       }
     ],
-    "hash_code_list_img": "-1638803485",
-    "list_definition_mean": [
-      {
-        "mean_english": "vật",
-        "definition": "a thing or an object",
-        "ex_of_definition_list": [
-          "This shop sells articles of all kinds",
-          "Articles of clothing were scattered all over the room."
-        ]
-      },
-      {
-        "mean_english": "bài báo",
-        "definition": "a piece of writing in a newspaper or magazine",
-        "ex_of_definition_list": [
-          "He has written an article on the new sports arena for a local magazine."
-        ]
-      }
+    "hash_code_list_img": "2009795986",
+    "list_example": [
+      "He has written an article on the new sports arena for a local magazine."
     ],
-    "hash_code_list_definition_mean": "133861042"
+    "hash_code_list_example": "2061858649"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/artificial_cb_dmean_5000_it.json",
@@ -574,18 +471,12 @@
         "id_image": "artificial_4332419"
       }
     ],
-    "hash_code_list_img": "-1537640446",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhân tạo",
-        "definition": "made by man; not natural; not real",
-        "ex_of_definition_list": [
-          "artificial flowers",
-          "Did you look at the colour in artificial light or in daylight?"
-        ]
-      }
+    "hash_code_list_img": "1770646805",
+    "list_example": [
+      "artificial flowers",
+      "Did you look at the colour in artificial light or in daylight?"
     ],
-    "hash_code_list_definition_mean": "1534340071"
+    "hash_code_list_example": "39317130"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/artistic_cb_dmean_5000_it.json",
@@ -609,24 +500,18 @@
         "id_image": "artistic_5100265"
       }
     ],
-    "hash_code_list_img": "-1749576603",
-    "list_definition_mean": [
-      {
-        "mean_english": "có năng khiếu nghệ thuật",
-        "definition": "liking or skilled in painting, music etc",
-        "ex_of_definition_list": [
-          "She draws and paints – she’s very artistic."
-        ]
-      },
-      {
-        "mean_english": "nghệ thuật",
-        "definition": "created or done with skill and good taste",
-        "ex_of_definition_list": [
-          "That flower arrangement looks very artistic."
-        ]
-      }
+    "hash_code_list_img": "-1581526604",
+    "list_example": [
+      "Here we are treated to a detailed account of the historical and artistic uses of travertines.",
+      "There are many reasons for this, including changes in artistic and business leadership.",
+      "Writers have characterised some relationships as arbitrary, whimsical, awkward or confusing, yet celebrated the carefully studied asymmetry of others as an artistic tour-de-force.",
+      "The addition of illustrations was associated with the general artistic upgrading of songs in the first quarter of the century.",
+      "The material and musical evidence situates at least some motets much further down the scale of artistic hierarchy than many scholars have imagined.",
+      "Like the women whose artistic work these books explore, all three authors are demonstrably as learned as they are virtuosic.",
+      "The risk-taking necessary for artistic enterprise was becoming less common.",
+      "They felt as if they were in a ' toyland ' country, inhabited by artistic people, and decorated with beautiful, easily accessible women."
     ],
-    "hash_code_list_definition_mean": "514189697"
+    "hash_code_list_example": "1136647817"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/artist_cb_dmean_5000_it.json",
@@ -650,24 +535,20 @@
         "id_image": "artist_1911209"
       }
     ],
-    "hash_code_list_img": "1834680593",
-    "list_definition_mean": [
-      {
-        "mean_english": "hoạ sĩ",
-        "definition": "a person who paints pictures or is a sculptor or is skilled at one of the other arts",
-        "ex_of_definition_list": [
-          "a landscape/portrait artist."
-        ]
-      },
-      {
-        "mean_english": "nghệ sĩ",
-        "definition": "a singer, dancer, actor etc; an artiste",
-        "ex_of_definition_list": [
-          "He announced the names of the artists who were taking part in the show."
-        ]
-      }
+    "hash_code_list_img": "242041383",
+    "list_example": [
+      "a landscape/portrait artist.",
+      "He announced the names of the artists who were taking part in the show.",
+      "In recent years, artists and composers have been increasingly drawn to historical archive material.",
+      "Information on artists and materials is given sporadically.",
+      "Écriture refers to the recurring consistencies and developments in an artist's succession of works.",
+      "Despite movements of popular artists, capital and technologies across national boundaries, nation-states still constitute the nexus of global-local exchange.",
+      "The inevitable rise of democracy no doubt would manifest itself in the work of contemporary artists.",
+      "How might we adapt this work to offer it to artists in other genres?",
+      "However, the use of the term in this context appears to have been casual since artists were never an official estate.",
+      "Both grandfathers were scientists - in addition to being artists and fishers of men."
     ],
-    "hash_code_list_definition_mean": "-1876785737"
+    "hash_code_list_example": "116886318"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/art_cb_dmean_5000_it.json",
@@ -707,33 +588,15 @@
         "id_image": "art_705058"
       }
     ],
-    "hash_code_list_img": "-423443476",
-    "list_definition_mean": [
-      {
-        "mean_english": "mỹ thuật",
-        "definition": "painting and sculpture",
-        "ex_of_definition_list": [
-          "I’m studying art at college",
-          "Do you like modern art?",
-          "(also adjective) an art college/exhibition."
-        ]
-      },
-      {
-        "mean_english": "nghệ thuật",
-        "definition": "any of various creative forms of expression",
-        "ex_of_definition_list": [
-          "painting, music, dancing, writing and the other arts."
-        ]
-      },
-      {
-        "mean_english": "tài riêng",
-        "definition": "an ability or skill; the (best) way of doing something",
-        "ex_of_definition_list": [
-          "the art of conversation/war."
-        ]
-      }
+    "hash_code_list_img": "1161979937",
+    "list_example": [
+      "I’m studying art at college",
+      "(also adjective) an art college/exhibition.",
+      "the art of conversation/war.",
+      "The state of the art and the main results in the evaluation of these systems are reported.",
+      "He understood the art of music and tried to practice it."
     ],
-    "hash_code_list_definition_mean": "-1578234214"
+    "hash_code_list_example": "1420206510"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/ascent_cb_dmean_5000_it.json",
@@ -752,24 +615,11 @@
         "id_image": "ascent_4344651"
       }
     ],
-    "hash_code_list_img": "547610923",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự đi lên",
-        "definition": "the act of climbing or going up",
-        "ex_of_definition_list": [
-          "the ascent of Mount Everest."
-        ]
-      },
-      {
-        "mean_english": "đường dốc",
-        "definition": "a slope upwards",
-        "ex_of_definition_list": [
-          "a steep ascent."
-        ]
-      }
+    "hash_code_list_img": "1820545590",
+    "list_example": [
+      "the ascent of Mount Everest."
     ],
-    "hash_code_list_definition_mean": "1455027328"
+    "hash_code_list_example": "-17159554"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/ascetic_cb_dmean_5000_it.json",
@@ -788,17 +638,11 @@
         "id_image": "ascetic_1943981"
       }
     ],
-    "hash_code_list_img": "1579837872",
-    "list_definition_mean": [
-      {
-        "mean_english": "khổ hạnh",
-        "definition": "avoiding pleasure and comfort, especially for religious reasons",
-        "ex_of_definition_list": [
-          "Monks lead ascetic lives."
-        ]
-      }
+    "hash_code_list_img": "72893219",
+    "list_example": [
+      "Monks lead ascetic lives."
     ],
-    "hash_code_list_definition_mean": "1114375333"
+    "hash_code_list_example": "1944066948"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/ashtray_cb_dmean_5000_it.json",
@@ -831,17 +675,11 @@
         "id_image": "ashtray_4462117"
       }
     ],
-    "hash_code_list_img": "2146062811",
-    "list_definition_mean": [
-      {
-        "mean_english": "gạt tàn",
-        "definition": "a dish or other container for cigarette ash",
-        "ex_of_definition_list": [
-          "a glass/marble/plastic ashtray."
-        ]
-      }
+    "hash_code_list_img": "1993604179",
+    "list_example": [
+      "This general tendency toward implicit modalizing is confirmed by the ashtray task."
     ],
-    "hash_code_list_definition_mean": "1342373384"
+    "hash_code_list_example": "309080873"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/ash_cb_dmean_5000_it.json",
@@ -874,18 +712,15 @@
         "id_image": "ash_1650364"
       }
     ],
-    "hash_code_list_img": "981914470",
-    "list_definition_mean": [
-      {
-        "mean_english": "tro",
-        "definition": "the dust etc that remains after anything is burnt",
-        "ex_of_definition_list": [
-          "cigarette ash",
-          "the ashes of the bonfire."
-        ]
-      }
+    "hash_code_list_img": "-1158932454",
+    "list_example": [
+      "Concentrations of accretionary lapilli and diffuse trains of small pumices define bedding in this thick ash bed.",
+      "Once the ash had cooled, it was transferred into plastic bags, which were weighed and labelled for each burn.",
+      "Bedding surfaces may contain relatively coarse, heavily weathered, volcanic clasts, degraded ash particles and mica flakes.",
+      "This is overlain by a thin lenticular ignimbrite flow-unit draped by a fine ash layer, and buried by thick massive lapilli-tuff.",
+      "Most are indurated by vapour phase alteration of the phonolite glass ash matrix."
     ],
-    "hash_code_list_definition_mean": "1587143402"
+    "hash_code_list_example": "1378652283"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/ask_cb_dmean_5000_it.json",
@@ -925,38 +760,14 @@
         "id_image": "ask_4109566"
       }
     ],
-    "hash_code_list_img": "1673399232",
-    "list_definition_mean": [
-      {
-        "mean_english": "hỏi",
-        "definition": "to put a question",
-        "ex_of_definition_list": [
-          "He asked me what the time was",
-          "Ask the price of that scarf",
-          "Ask her where to go",
-          "Ask him about it",
-          "If you don’t know, ask."
-        ]
-      },
-      {
-        "mean_english": "đề nghị",
-        "definition": "to express a wish to someone for something",
-        "ex_of_definition_list": [
-          "I asked her to help me",
-          "I asked (him) for a day off",
-          "He rang and asked for you",
-          "Can I ask a favour of you?"
-        ]
-      },
-      {
-        "mean_english": "mời",
-        "definition": "to invite",
-        "ex_of_definition_list": [
-          "He asked her to his house for lunch."
-        ]
-      }
+    "hash_code_list_img": "1164981251",
+    "list_example": [
+      "Can I ask a favour of you?",
+      "They agree, and then ask where she is planning to go.",
+      "Here we will ask whether such differences in the shape of development are also observed in these measures of structural complexity.",
+      "For our present purpose it is enough to ask what quantity the numerical solution is supposed to approximate, at least to a first-order approximation."
     ],
-    "hash_code_list_definition_mean": "-862120412"
+    "hash_code_list_example": "-2040287886"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/asleep_cb_dmean_5000_it.json",
@@ -975,24 +786,13 @@
         "id_image": "asleep_1320917"
       }
     ],
-    "hash_code_list_img": "476234780",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngủ",
-        "definition": "sleeping",
-        "ex_of_definition_list": [
-          "The baby is asleep."
-        ]
-      },
-      {
-        "mean_english": "tê bại",
-        "definition": "of arms and legs etc, numb",
-        "ex_of_definition_list": [
-          "My foot’s asleep."
-        ]
-      }
+    "hash_code_list_img": "1590292249",
+    "list_example": [
+      "Fifty per cent of drivers have admitted falling asleep at the wheel.",
+      "She was averse to being house-trained, she was a thief, and spent much of her time asleep in our best armchair.",
+      "Older people awaken more frequently but fall back asleep at the same rate as younger people."
     ],
-    "hash_code_list_definition_mean": "-319987771"
+    "hash_code_list_example": "2002108615"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/asparagus_cb_dmean_5000_it.json",
@@ -1030,17 +830,17 @@
         "id_image": "asparagus_433669"
       }
     ],
-    "hash_code_list_img": "1624043276",
-    "list_definition_mean": [
-      {
-        "mean_english": "măng tây",
-        "definition": "a long thin green vegetable with a pointed tip",
-        "ex_of_definition_list": [
-          "Fry the asparagus in butter."
-        ]
-      }
+    "hash_code_list_img": "-685872230",
+    "list_example": [
+      "Fry the asparagus in butter.",
+      "The observation that endo- -mannanase is not active in asparagus seeds prior to the completion of germination is in keeping with the hypothesis that the micropylar endosperm structurally facilitates germination.",
+      "With respect for your fantastic asparagus reception, without the author of the question we cannot proceed.",
+      "When used as a stimulus, male flies were confined within a plastic net cage 2 cm in diameter that was attached to the middle asparagus spear on the upwind side.",
+      "There is no distinctive aleurone layer in asparagus seeds.",
+      "Cell walls in developing and germinated asparagus seed mannanase activity in the skin and outer pericarp of tomato fruits during ripening.",
+      "The volatiles found in green asparagus were radically different from those found in previous studies."
     ],
-    "hash_code_list_definition_mean": "1934418592"
+    "hash_code_list_example": "474069781"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/aspect_cb_dmean_5000_it.json",
@@ -1075,31 +875,15 @@
         "id_image": "aspect_5496654"
       }
     ],
-    "hash_code_list_img": "-2135149820",
-    "list_definition_mean": [
-      {
-        "mean_english": "khía cạnh",
-        "definition": "a part of something to be thought about",
-        "ex_of_definition_list": [
-          "We must consider every aspect of the problem."
-        ]
-      },
-      {
-        "mean_english": "hướng",
-        "definition": "a side of a building etc or the direction it faces in",
-        "ex_of_definition_list": [
-          "the north-facing aspect of the property."
-        ]
-      },
-      {
-        "mean_english": "diện mạo",
-        "definition": "look or appearance",
-        "ex_of_definition_list": [
-          "His face had a frightening aspect."
-        ]
-      }
+    "hash_code_list_img": "1761856858",
+    "list_example": [
+      "We must consider every aspect of the problem.",
+      "the north-facing aspect of the property.",
+      "Ordinary women's inferior rights to land were a key aspect in women's subordination as a whole.",
+      "The squares are replaced by intermittent hexagonal patterns when the aspect ratio is increased.",
+      "This phonetic aspect is the main important difference between the two cases for other reasons as well."
     ],
-    "hash_code_list_definition_mean": "413070919"
+    "hash_code_list_example": "-1078004997"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/asphalt_cb_dmean_5000_it.json",
@@ -1117,18 +901,18 @@
         "id_image": "asphalt_4827119"
       }
     ],
-    "hash_code_list_img": "1794893504",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhựa đường",
-        "definition": "(of) a mixture containing tar, used to make roads, pavements/sidewalks etc",
-        "ex_of_definition_list": [
-          "The workmen are laying asphalt",
-          "an asphalt playground."
-        ]
-      }
+    "hash_code_list_img": "1174599827",
+    "list_example": [
+      "an asphalt playground.",
+      "There is some accumulation, but it is not so bad as it was when there was an asphalt surface.",
+      "Porous asphalt is an open textured road surfacing material that permits surface water to drain through it rather than to remain on the surface.",
+      "Playing-fields are generally considered to be something different from playgrounds, the former having a grass surface and the latter an asphalt one.",
+      "I understand that the police and fire service found no evidence suggesting that the asphalt load contributed to the accident or the ensuing fire.",
+      "If we invested more money in porous asphalt and other road surfaces, noise impact would be reduced.",
+      "The costs for porous asphalt were for resurfacing only.",
+      "Proper compaction is one of many essential requirements of the asphalt specification."
     ],
-    "hash_code_list_definition_mean": "1522550030"
+    "hash_code_list_example": "-246537948"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/aspirin_cb_dmean_5000_it.json",
@@ -1156,17 +940,11 @@
         "id_image": "aspirin_5760067"
       }
     ],
-    "hash_code_list_img": "-1099735244",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuốc giảm đau",
-        "definition": "a (tablet of a) kind of pain-killing drug",
-        "ex_of_definition_list": [
-          "I’ve got a headache so I’m going to take an aspirin."
-        ]
-      }
+    "hash_code_list_img": "948715799",
+    "list_example": [
+      "I’ve got a headache so I’m going to take an aspirin."
     ],
-    "hash_code_list_definition_mean": "340097716"
+    "hash_code_list_example": "1067664224"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/assemble_cb_dmean_5000_it.json",
@@ -1206,31 +984,18 @@
         "id_image": "assembly_2752790"
       }
     ],
-    "hash_code_list_img": "100306071",
-    "list_definition_mean": [
-      {
-        "mean_english": "tụ tập",
-        "definition": "(of people) to come together",
-        "ex_of_definition_list": [
-          "A crowd had assembled in the hall."
-        ]
-      },
-      {
-        "mean_english": "tập hợp",
-        "definition": "to call or bring together",
-        "ex_of_definition_list": [
-          "He assembled his family and told them of his plan."
-        ]
-      },
-      {
-        "mean_english": "lắp ráp",
-        "definition": "to put together (a machine etc)",
-        "ex_of_definition_list": [
-          "He assembled the model aeroplane."
-        ]
-      }
+    "hash_code_list_img": "-96878060",
+    "list_example": [
+      "A crowd had assembled in the hall.",
+      "He assembled his family and told them of his plan.",
+      "He assembled the model aeroplane.",
+      "Such a narrative risks excluding some key events from the sequences of data it assembles.",
+      "Occasional imprecise splicing can generate new proteins assembled from parts of old ones without sacrificing the original genes.",
+      "Individual sample data are assembled on the vertical axis, firstly in terrane order, secondly in stratigraphic order.",
+      "The life stories were assembled over several conversations, and all were taped and transcribed.",
+      "Although the editors have assembled incredibly rich material for these diverse cases, they did not give themselves suf®cient space to explore it."
     ],
-    "hash_code_list_definition_mean": "1852082378"
+    "hash_code_list_example": "107483898"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/assembly_cb_dmean_5000_it.json",
@@ -1269,25 +1034,17 @@
         "id_image": "assembly_2752790"
       }
     ],
-    "hash_code_list_img": "-1770896346",
-    "list_definition_mean": [
-      {
-        "mean_english": "hội nghị",
-        "definition": "a collection of people (usually for a particular purpose)",
-        "ex_of_definition_list": [
-          "a legislative assembly",
-          "The school meets for morning assembly at 8.30."
-        ]
-      },
-      {
-        "mean_english": "sự hội họp",
-        "definition": "the act of assembling or putting together",
-        "ex_of_definition_list": [
-          "instructions for the assembly of the greenhouse."
-        ]
-      }
+    "hash_code_list_img": "-911933681",
+    "list_example": [
+      "The school meets for morning assembly at 8.30.",
+      "instructions for the assembly of the greenhouse.",
+      "This shows that dual pegs fall into dual holes during the assembly process.",
+      "Thus, it does not use such predicates which are assembly specific.",
+      "This reformulation paired with the idea that the assembly of syntactic structure takes place in one step leads to the elimination of the cycle.",
+      "Despite exceptional recent research progress in understanding elastic-fibre assembly and function, many questions remain to be addressed.",
+      "The entire assembly was finally placed in the shear-flow apparatus."
     ],
-    "hash_code_list_definition_mean": "-826687287"
+    "hash_code_list_example": "-1535005060"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/assertive_cb_dmean_5000_it.json",
@@ -1305,17 +1062,18 @@
         "id_image": "assertive_2444170"
       }
     ],
-    "hash_code_list_img": "150135813",
-    "list_definition_mean": [
-      {
-        "mean_english": "xác nhận",
-        "definition": "(too) inclined to assert oneself",
-        "ex_of_definition_list": [
-          "You must learn to be more assertive in meetings to make sure that your opinion is heard."
-        ]
-      }
+    "hash_code_list_img": "977245898",
+    "list_example": [
+      "You must learn to be more assertive in meetings to make sure that your opinion is heard.",
+      "But reputations are also built on the basis of one being an assertive and aggressive negotiator, and the balance to be kept is delicate.",
+      "More able students were more assertive and confident and often used the teachers' suggestions as a starting point for their own changes.",
+      "This work does much to redress that picture and reveals a far more assertive and dynamic ruler.",
+      "The candy stripes gave way to brown brickwork and the assertive winglike roof became an excessively modest double mansard with curious illuminated metal ribs attached.",
+      "It is clear, however, that the more determined and assertive students were able to overcome such obstacles by asking and negotiating.",
+      "However, even if it does take a more assertive position, there is no guarantee that it will gain control over national policy on this issue.",
+      "A more serious concern is the seemingly subjective assertive arguments that simply are not substantiated."
     ],
-    "hash_code_list_definition_mean": "402389793"
+    "hash_code_list_example": "454902720"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/assess_cb_dmean_5000_it.json",
@@ -1334,24 +1092,16 @@
         "id_image": "assess_6159181"
       }
     ],
-    "hash_code_list_img": "619002043",
-    "list_definition_mean": [
-      {
-        "mean_english": "ước định",
-        "definition": "to estimate or judge the quality or quantity of",
-        "ex_of_definition_list": [
-          "Can you assess my chances of winning?"
-        ]
-      },
-      {
-        "mean_english": "định giá",
-        "definition": "to estimate in order to calculate tax due on",
-        "ex_of_definition_list": [
-          "My income has been assessed wrongly."
-        ]
-      }
+    "hash_code_list_img": "1307540821",
+    "list_example": [
+      "Can you assess my chances of winning?",
+      "The second general objective was to assess the impact of the experimental prevention program on developmental trajectories of antisocial behavior.",
+      "According to this definition - ideology-as-shorthand - it should have been no more difficult to assess a party's positions than to formulate one's own ideology.",
+      "Perhaps a clearer way to assess the impact of a pension reform could use ' ' typical ' ' career earnings paths, holding constant overall contributions.",
+      "We attempted to classify the trajectories of individual parents' change in communication over time categorically to assess how the group trends related to individuals' behaviours.",
+      "The study was designed to assess the effects of two-way bilingual education on students' academic development."
     ],
-    "hash_code_list_definition_mean": "-477558883"
+    "hash_code_list_example": "2140498028"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/asset_cb_dmean_5000_it.json",
@@ -1389,17 +1139,15 @@
         "id_image": "asset_3772821"
       }
     ],
-    "hash_code_list_img": "-336880987",
-    "list_definition_mean": [
-      {
-        "mean_english": "vật quí",
-        "definition": "anything useful or valuable; an advantage",
-        "ex_of_definition_list": [
-          "He is a great asset to the school."
-        ]
-      }
+    "hash_code_list_img": "1675475915",
+    "list_example": [
+      "He is a great asset to the school.",
+      "Specifically, we examine asset holdings, labor endowment, and lifecycle measures.",
+      "The asset portfolio can incorporate bad outcomes that are relatively independent of economic wellbeing, such as psychological distress.",
+      "The challenge consists in providing a spectral evaluation of general equilibrium asset pricing models with an explicit production sector.",
+      "The asset accumulation phase for the mandatory part of the second pillar is defined by law to be 40 years."
     ],
-    "hash_code_list_definition_mean": "991363668"
+    "hash_code_list_example": "-1726705551"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/assignment_cb_dmean_5000_it.json",
@@ -1432,17 +1180,11 @@
         "id_image": "assignment_6305590"
       }
     ],
-    "hash_code_list_img": "1499127449",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhiệm vụ",
-        "definition": "a duty assigned to someone",
-        "ex_of_definition_list": [
-          "You must complete this assignment by tomorrow."
-        ]
-      }
+    "hash_code_list_img": "1681085655",
+    "list_example": [
+      "You must complete this assignment by tomorrow."
     ],
-    "hash_code_list_definition_mean": "88286984"
+    "hash_code_list_example": "1172627393"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/assistance_cb_dmean_5000_it.json",
@@ -1475,17 +1217,16 @@
         "id_image": "assistance_4310114"
       }
     ],
-    "hash_code_list_img": "804736953",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự hỗ trợ",
-        "definition": "help",
-        "ex_of_definition_list": [
-          "Do you need any assistance?"
-        ]
-      }
+    "hash_code_list_img": "1957173013",
+    "list_example": [
+      "Their suppor t and assistance in the conduct of this work is greatly appreciated.",
+      "Respondents were interviewed in their homes and personal computer assistance was used in the data collection.",
+      "The boy was treated for his physical injuries, but at the hospital he received no psychological assistance to help him deal with the trauma.",
+      "All the participants used community-based health and social-care services and all needed assistance to attend meetings because they were unable to travel unaided.",
+      "The local farmer identified each of the lots, and provided assistance to participants that could not recall the harvest of subsistence crops.",
+      "The programme also provided technical assistance to the program beneficiaries."
     ],
-    "hash_code_list_definition_mean": "286947730"
+    "hash_code_list_example": "-1226064496"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/assistant_cb_dmean_5000_it.json",
@@ -1519,25 +1260,11 @@
         "id_image": "assistant_6273491"
       }
     ],
-    "hash_code_list_img": "146431918",
-    "list_definition_mean": [
-      {
-        "mean_english": "trợ lý",
-        "definition": "a person who assists; a helper",
-        "ex_of_definition_list": [
-          "a laboratory assistant",
-          "(also adjective) an assistant headmaster."
-        ]
-      },
-      {
-        "mean_english": "người bán hàng",
-        "definition": "a person who serves in a shop",
-        "ex_of_definition_list": [
-          "a shop assistant."
-        ]
-      }
+    "hash_code_list_img": "1675769089",
+    "list_example": [
+      "(also adjective) an assistant headmaster."
     ],
-    "hash_code_list_definition_mean": "-502189818"
+    "hash_code_list_example": "1855562341"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/associate_cb_dmean_5000_it.json",
@@ -1564,45 +1291,13 @@
         "id_image": "association_2517375"
       }
     ],
-    "hash_code_list_img": "1520686882",
-    "list_definition_mean": [
-      {
-        "mean_english": "liên tưởng",
-        "definition": "to connect in the mind",
-        "ex_of_definition_list": [
-          "He always associated the smell of tobacco with his father."
-        ]
-      },
-      {
-        "mean_english": "tụ tập",
-        "definition": "(usually with with) to join (with someone) in friendship or work",
-        "ex_of_definition_list": [
-          "They don’t usually associate (with each other) after office hours."
-        ]
-      },
-      {
-        "mean_english": "phó",
-        "definition": "having a lower position or rank",
-        "ex_of_definition_list": [
-          "an associate professor."
-        ]
-      },
-      {
-        "mean_english": "liên kết",
-        "definition": "joined or connected",
-        "ex_of_definition_list": [
-          "associate organizations."
-        ]
-      },
-      {
-        "mean_english": "cộng tác",
-        "definition": "a colleague or partner; a companion",
-        "ex_of_definition_list": [
-          "Professor Wilson and his associates are carrying out the research."
-        ]
-      }
+    "hash_code_list_img": "1275481208",
+    "list_example": [
+      "They don’t usually associate (with each other) after office hours.",
+      "an associate professor.",
+      "associate organizations."
     ],
-    "hash_code_list_definition_mean": "-2122602455"
+    "hash_code_list_example": "-1130998125"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/association_cb_dmean_5000_it.json",
@@ -1627,31 +1322,12 @@
         "id_image": "association_2517375"
       }
     ],
-    "hash_code_list_img": "411172167",
-    "list_definition_mean": [
-      {
-        "mean_english": "hội",
-        "definition": "a club, society etc",
-        "ex_of_definition_list": [
-          "the Association of British Travel Agents (ABTA)."
-        ]
-      },
-      {
-        "mean_english": "sự hợp tác",
-        "definition": "a friendship or partnership",
-        "ex_of_definition_list": [
-          "A close association developed between the two poets."
-        ]
-      },
-      {
-        "mean_english": "sự liên tưởng",
-        "definition": "a connection in the mind",
-        "ex_of_definition_list": [
-          "The house had associations with her dead husband."
-        ]
-      }
+    "hash_code_list_img": "-300808861",
+    "list_example": [
+      "A close association developed between the two poets.",
+      "Longitudinal covariances help to establish that the reverse association is unlikely."
     ],
-    "hash_code_list_definition_mean": "-803315366"
+    "hash_code_list_example": "-567921406"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/assortment_cb_dmean_5000_it.json",
@@ -1679,17 +1355,18 @@
         "id_image": "assort_2104162"
       }
     ],
-    "hash_code_list_img": "-2086651044",
-    "list_definition_mean": [
-      {
-        "mean_english": "đủ loại",
-        "definition": "a mixture or variety",
-        "ex_of_definition_list": [
-          "an assortment of garments."
-        ]
-      }
+    "hash_code_list_img": "-615486804",
+    "list_example": [
+      "an assortment of garments.",
+      "Postings of officers in each district to be so made as to have a proportionate assortment from all communities.",
+      "Prior to the 1860s, an assortment of other papers appeared and disappeared in rapid succession.",
+      "On the other hand, they might encourage the rational assortment of parental partners and might of themselves add to the sum total of human happiness.",
+      "The most transparent example is provided by the assortment of comments pertaining to the use of a combinatorial auction.",
+      "The survey asked these workers a broad assortment of questions to gauge their understanding and appreciation of their employer-sponsored retirement plans.",
+      "However, it managed to compile an admiringly large assortment of specimens: extensive collections of shells, mammals, skulls, and photographs.",
+      "This case shows the existence of currency assortment where the local rate of exchange was one standard coin against four current ones."
     ],
-    "hash_code_list_definition_mean": "2062667921"
+    "hash_code_list_example": "-478334435"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/assumption_cb_dmean_5000_it.json",
@@ -1707,17 +1384,11 @@
         "id_image": "assumption_3079152"
       }
     ],
-    "hash_code_list_img": "388064804",
-    "list_definition_mean": [
-      {
-        "mean_english": "giả định",
-        "definition": "something assumed",
-        "ex_of_definition_list": [
-          "On the assumption that we can produce four pages an hour, the work will be finished tomorrow."
-        ]
-      }
+    "hash_code_list_img": "1538844443",
+    "list_example": [
+      "On the assumption that we can produce four pages an hour, the work will be finished tomorrow."
     ],
-    "hash_code_list_definition_mean": "1313359436"
+    "hash_code_list_example": "951843814"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/assurance_cb_dmean_5000_it.json",
@@ -1742,31 +1413,12 @@
         "id_image": "assurance_5386984"
       }
     ],
-    "hash_code_list_img": "21573999",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự tự tin",
-        "definition": "confidence",
-        "ex_of_definition_list": [
-          "She had an air of assurance about her."
-        ]
-      },
-      {
-        "mean_english": "sự bảo đảm",
-        "definition": "a promise",
-        "ex_of_definition_list": [
-          "He gave me his assurance that he would help."
-        ]
-      },
-      {
-        "mean_english": "bảo hiểm",
-        "definition": "insurance",
-        "ex_of_definition_list": [
-          "life assurance."
-        ]
-      }
+    "hash_code_list_img": "813165770",
+    "list_example": [
+      "She had an air of assurance about her.",
+      "He gave me his assurance that he would help."
     ],
-    "hash_code_list_definition_mean": "-1121531208"
+    "hash_code_list_example": "716547904"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/asteroid_cb_dmean_5000_it.json",
@@ -1794,17 +1446,13 @@
         "id_image": "asteroid_4698808"
       }
     ],
-    "hash_code_list_img": "1531032843",
-    "list_definition_mean": [
-      {
-        "mean_english": "tiểu hành tinh",
-        "definition": "one of several very small planets that move around the sun",
-        "ex_of_definition_list": [
-          "Asteroids sometimes collide with each other."
-        ]
-      }
+    "hash_code_list_img": "-2090641765",
+    "list_example": [
+      "The jumps take place in an apparently chaotic fashion and lead to random walks across the asteroid belt.",
+      "Imagine that the giant asteroid has missed, and the dinosaurs survive.",
+      "If an asteroid of the smallest size is hit, it disperses into space dust."
     ],
-    "hash_code_list_definition_mean": "1818009813"
+    "hash_code_list_example": "-295861845"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/asthma_cb_dmean_5000_it.json",
@@ -1842,17 +1490,16 @@
         "id_image": "asthma_3782061"
       }
     ],
-    "hash_code_list_img": "-1490456680",
-    "list_definition_mean": [
-      {
-        "mean_english": "bệnh hen",
-        "definition": "an illness which causes difficulty in breathing out, resulting from an allergy etc",
-        "ex_of_definition_list": [
-          "She suffers from asthma."
-        ]
-      }
+    "hash_code_list_img": "-1456633033",
+    "list_example": [
+      "In view of this, perhaps a broader approach is needed in which nurses provide a flexible service for asthma management.",
+      "People with asthma admitted to hospital should be treated in specialist units wherever possible.",
+      "Traditionally, asthma clinics have an educational role, which is highlighted in the training courses attended by the majority of asthma nurses.",
+      "Some people are affected by repeated severe asthma attacks that can be lifethreatening.",
+      "Also, the measure of asthma treatment is limited to self-report of having received treatment.",
+      "It is important to note that asthma is highly heterogeneous, and that the asthmatic inflammatory response does not always correspond closely to classical allergy."
     ],
-    "hash_code_list_definition_mean": "289710154"
+    "hash_code_list_example": "-766012422"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/astrology_cb_dmean_5000_it.json",
@@ -1885,17 +1532,14 @@
         "id_image": "astrology_749496"
       }
     ],
-    "hash_code_list_img": "1881445203",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuật chiêm tinh",
-        "definition": "the study of the stars and their influence on people’s lives",
-        "ex_of_definition_list": [
-          "She doesn’t believe in astrology."
-        ]
-      }
+    "hash_code_list_img": "1232345837",
+    "list_example": [
+      "The catalogue contains about 400 volumes on astrology and astronomy.",
+      "Among such thinkers, astrology and eschatology frequently played an important role.",
+      "Later, from the mid nineteenth century, new modes came in with spiritualism and revamped more urbanised astrology and fortune-telling.",
+      "This astrological treatise concerned mainly with medical astrology appears to have been written, as the other components of the astrological encyclopedia, in two versions."
     ],
-    "hash_code_list_definition_mean": "869413101"
+    "hash_code_list_example": "1307847332"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/astronaut_cb_dmean_5000_it.json",
@@ -1928,17 +1572,14 @@
         "id_image": "astronaut_6195707"
       }
     ],
-    "hash_code_list_img": "-75083590",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà du hành vũ trụ",
-        "definition": "a person who travels in space",
-        "ex_of_definition_list": [
-          "Who was the first astronaut to land on the moon?"
-        ]
-      }
+    "hash_code_list_img": "973700327",
+    "list_example": [
+      "Who was the first astronaut to land on the moon?",
+      "First, in order to engage the child in the procedure, the experimenter told the child to pretend that s/he was an astronaut flying through an asteroid field.",
+      "When the astronaut goes into the computer and takes out the memory modules, the body of the computer is brought into view.",
+      "Such an automated remote sensing system would greatly reduce astronaut time required for monitoring crop productivity."
     ],
-    "hash_code_list_definition_mean": "1310147662"
+    "hash_code_list_example": "-1411518569"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/astronomical_cb_dmean_5000_it.json",
@@ -1962,24 +1603,19 @@
         "id_image": "astronaut_6195707"
       }
     ],
-    "hash_code_list_img": "1979716708",
-    "list_definition_mean": [
-      {
-        "mean_english": "rất lớn",
-        "definition": "(of numbers or amounts) very large",
-        "ex_of_definition_list": [
-          "The cost of the new building was astronomical."
-        ]
-      },
-      {
-        "mean_english": "thuộc về môn vũ trụ học",
-        "definition": "of astronomy",
-        "ex_of_definition_list": [
-          "astronomical observations."
-        ]
-      }
+    "hash_code_list_img": "-100919430",
+    "list_example": [
+      "astronomical observations.",
+      "Many factors are certainly responsible for this astronomical imbalance.",
+      "They engage in what one might call astronomical pilpul (rabbinic analysis).",
+      "In the old astronomical discourse knowledge also acquired authority according to the degree of logical certainty assigned to inferences from observations to first principles.",
+      "A relevant question for astrobiology is: how did all this apparatus evolve and did astronomical effects play a role?",
+      "We are developing a sequence of inquiry-based lesson plans that address astronomical phenomena people can readily see in the sky.",
+      "From which classes of compounds and how might they form in astronomical environments ?",
+      "Most astronomical experts at that time admitted that some of the imported mathematical tools - such as trigonometry, logarithms, and astronomical tables - were useful.",
+      "The resident archbishop had founded an astronomical observatory there as early as 1692, and the local seminary helped to distribute books among the peasantry."
     ],
-    "hash_code_list_definition_mean": "1303811996"
+    "hash_code_list_example": "-829189422"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/astronomy_cb_dmean_5000_it.json",
@@ -2012,17 +1648,17 @@
         "id_image": "astronomy_947664"
       }
     ],
-    "hash_code_list_img": "-291048562",
-    "list_definition_mean": [
-      {
-        "mean_english": "thiên văn học",
-        "definition": "the study of the stars and their movements",
-        "ex_of_definition_list": [
-          "He is studying astronomy."
-        ]
-      }
+    "hash_code_list_img": "1126339100",
+    "list_example": [
+      "Success in mathematics or astronomy represents the contrasting class of case.",
+      "Yet most of his activity as a translator was in the fields of astronomy (practical and theoretical) and mathematics.",
+      "Progress in cosmology and astronomy notwithstanding, science still has little to say on the nature, psychology and intelligence of alien life.",
+      "During his high school years he built a telescope as a science fair project, and maintained an interest in astronomy throughout his life.",
+      "Intellectually, it meant a change in the status of astronomy from a \"subordinate\" to an autonomous science.",
+      "The attempt to establish astronomy as a science of the interpretation of nature did not occur in a cultural void.",
+      "Unfortunately he is not entirely clear about how he understands the relationship between the treatments of astronomy and geometry."
     ],
-    "hash_code_list_definition_mean": "1746790558"
+    "hash_code_list_example": "-1191013629"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/asymmetrical_cb_dmean_5000_it.json",
@@ -2045,17 +1681,16 @@
         "id_image": "asymmetrical_5857069"
       }
     ],
-    "hash_code_list_img": "715660839",
-    "list_definition_mean": [
-      {
-        "mean_english": "bất đối xứng",
-        "definition": "having two sides that are not the same in shape or length",
-        "ex_of_definition_list": [
-          "an asymmetrical shape."
-        ]
-      }
+    "hash_code_list_img": "392729069",
+    "list_example": [
+      "an asymmetrical shape.",
+      "Finally, asymmetrical participation may arise precisely because a majority tries to maximize its power by spreading itself over more legislative terrain than the minority.",
+      "It is unclear how an interpretation in terms of the position of participants on the bilingual continuum can account for these asymmetrical phonological facilitation effects.",
+      "Clearly, similar curves will always be obtained if the perturbation velocity has the asymmetrical form described above.",
+      "Bilingual language switching in naming: asymmetrical costs of language selection.",
+      "It is unclear why it was more adaptive to make symmetrical than asymmetrical tools."
     ],
-    "hash_code_list_definition_mean": "2061865237"
+    "hash_code_list_example": "-61445620"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/atheist_cb_dmean_5000_it.json",
@@ -2073,17 +1708,11 @@
         "id_image": "atheist_2862765"
       }
     ],
-    "hash_code_list_img": "1639463185",
-    "list_definition_mean": [
-      {
-        "mean_english": "người theo thuyết vô thần",
-        "definition": "a person who does not believe in God",
-        "ex_of_definition_list": [
-          "a confirmed atheist."
-        ]
-      }
+    "hash_code_list_img": "339734478",
+    "list_example": [
+      "a confirmed atheist."
     ],
-    "hash_code_list_definition_mean": "923565284"
+    "hash_code_list_example": "303301427"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/athlete_cb_dmean_5000_it.json",
@@ -2111,17 +1740,12 @@
         "id_image": "athlete_6036734"
       }
     ],
-    "hash_code_list_img": "4256149",
-    "list_definition_mean": [
-      {
-        "mean_english": "vận động viên điền kinh",
-        "definition": "a person who is good at sport, especially running, jumping etc",
-        "ex_of_definition_list": [
-          "Hundreds of athletes participated in the games."
-        ]
-      }
+    "hash_code_list_img": "-1074847763",
+    "list_example": [
+      "Not all dive routines are considered to be about just whether the athlete moves from the diving board into the water.",
+      "He doesn't try to understand any of us, the changes in society, the different role of the athlete and the coach."
     ],
-    "hash_code_list_definition_mean": "704949028"
+    "hash_code_list_example": "-772012264"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/athletic_cb_dmean_5000_it.json",
@@ -2155,24 +1779,19 @@
         "id_image": "athletic_5252646"
       }
     ],
-    "hash_code_list_img": "2040365913",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc điền kinh",
-        "definition": "of athletics",
-        "ex_of_definition_list": [
-          "He is taking part in the athletic events."
-        ]
-      },
-      {
-        "mean_english": "khoẻ mạnh",
-        "definition": "good at athletics; strong and able to move easily and quickly",
-        "ex_of_definition_list": [
-          "She looks very athletic."
-        ]
-      }
+    "hash_code_list_img": "-98406729",
+    "list_example": [
+      "He is taking part in the athletic events.",
+      "We have had to distinguish between business and pleasure throughout this consideration of athletic gear.",
+      "There were no differences between the groups in global self-worth or in the domains pertaining to close friendships, physical appearance or romantic appeal, scholastic, social or athletic competence.",
+      "In addition to illustrating the way imaginative construction may serve an instrumental purpose without selfdeception, the athletic analogy may be revealing in another respect as well.",
+      "Both his narrative and athletic tactics not only aim at obstructing but also at redefining the meaning of reality.",
+      "She had done well in her athletic training, and was without cardiovascular symptoms.",
+      "We have 412 athletic tracks and 116 swimming pools, which is a record.",
+      "Better training and dietary regimens have also enhanced goalkeepers' natural athletic ability.",
+      "Clinical instructors' and student athletic trainers' perceptions of helpful clinical instructor characteristics."
     ],
-    "hash_code_list_definition_mean": "-1578790946"
+    "hash_code_list_example": "-1767893721"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/atlas_cb_dmean_5000_it.json",
@@ -2200,16 +1819,13 @@
         "id_image": "atlas_992255"
       }
     ],
-    "hash_code_list_img": "-528572095",
-    "list_definition_mean": [
-      {
-        "mean_english": "sách bản đồ",
-        "definition": "a book of maps",
-        "ex_of_definition_list": [
-          "a world atlas."
-        ]
-      }
+    "hash_code_list_img": "334370500",
+    "list_example": [
+      "If somehow, difficult to believe, this magic has passed you by, then this magnificent atlas is the perfect remedy.",
+      "They were part of a larger atlas of the ancient and modern world.",
+      "The atlas is not merely a treasure of geographical information but also a banquet for the eyes.",
+      "The detailed descriptions and illustrations provide an anatomical atlas that will be of great help to those working on tetrapod evolution and interrelationships."
     ],
-    "hash_code_list_definition_mean": "1552024378"
+    "hash_code_list_example": "2138159705"
   }
 ]

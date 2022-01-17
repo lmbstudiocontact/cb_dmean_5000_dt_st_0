@@ -23,74 +23,14 @@
         "id_image": "bank_1101598"
       }
     ],
-    "hash_code_list_img": "659906970",
-    "list_definition_mean": [
-      {
-        "mean_english": "bờ (sông)",
-        "definition": "the ground at the edge of a river, lake etc",
-        "ex_of_definition_list": [
-          "The river overflowed its banks."
-        ]
-      },
-      {
-        "mean_english": "đống",
-        "definition": "a mound or ridge (of earth etc)",
-        "ex_of_definition_list": [
-          "She climbed up the bank to pick some flowers."
-        ]
-      },
-      {
-        "mean_english": "bãi ngầm",
-        "definition": "a raised area of sand under the sea",
-        "ex_of_definition_list": [
-          "a sandbank."
-        ]
-      },
-      {
-        "mean_english": "chất đống",
-        "definition": "(often with up) to form into a bank or banks",
-        "ex_of_definition_list": [
-          "The earth was banked up against the wall of the house."
-        ]
-      },
-      {
-        "mean_english": "nghiêng đi",
-        "definition": "to tilt (an aircraft etc) while turning",
-        "ex_of_definition_list": [
-          "The plane banked steeply."
-        ]
-      },
-      {
-        "mean_english": "ngân hàng",
-        "definition": "a place where money is lent or exchanged, or put for safety and/or to acquire interest",
-        "ex_of_definition_list": [
-          "He has plenty of money in the bank",
-          "I must go to the bank today."
-        ]
-      },
-      {
-        "mean_english": "kho lưu giữ",
-        "definition": "a place for storing other valuable material",
-        "ex_of_definition_list": [
-          "a blood bank."
-        ]
-      },
-      {
-        "mean_english": "gửi tiền vào ngân hàng",
-        "definition": "to put into a bank",
-        "ex_of_definition_list": [
-          "He banks his wages every Friday."
-        ]
-      },
-      {
-        "mean_english": "hàng loạt",
-        "definition": "a collection of rows (of instruments etc)",
-        "ex_of_definition_list": [
-          "The pilot has to check several banks of instruments before take-off."
-        ]
-      }
+    "hash_code_list_img": "71782973",
+    "list_example": [
+      "She climbed up the bank to pick some flowers.",
+      "I must go to the bank today.",
+      "Otherwise, for its risk-averse nonmoving clientele, the bank will always prefer cash reserves over storage; the latter will then never be used in equilibrium.",
+      "The bank will only use the less costly of the two methods."
     ],
-    "hash_code_list_definition_mean": "-157427255"
+    "hash_code_list_example": "-1857180828"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/banner_cb_dmean_5000_it.json",
@@ -124,17 +64,18 @@
         "id_image": "banner_939238"
       }
     ],
-    "hash_code_list_img": "1207181275",
-    "list_definition_mean": [
-      {
-        "mean_english": "biểu ngữ",
-        "definition": "a large strip of cloth bearing a slogan etc",
-        "ex_of_definition_list": [
-          "Many of the demonstrators were carrying banners."
-        ]
-      }
+    "hash_code_list_img": "747472378",
+    "list_example": [
+      "Many of the demonstrators were carrying banners.",
+      "I therefore ask that these banners be removed.",
+      "Things are coming to a pretty pass when it is suggested that they must now give advance information about pit banners.",
+      "I can envisage the politically correct being so horrified that we have campaigns outside here, with their banners demanding non-registration of that party.",
+      "First, international co-operation is essential for securing and preserving peace; and, secondly—this is inscribed on many of our trade union banners—unity is strength.",
+      "Our demonstration was entirely peaceful; we marched up to the base and hung banners around its edge.",
+      "They are reported as carrying banners and chanting.",
+      "I should not like to say that there is any great distinction between flags and banners."
     ],
-    "hash_code_list_definition_mean": "1703254883"
+    "hash_code_list_example": "-214004015"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/banquet_cb_dmean_5000_it.json",
@@ -157,17 +98,13 @@
         "id_image": "banquet_2037555"
       }
     ],
-    "hash_code_list_img": "-1497616070",
-    "list_definition_mean": [
-      {
-        "mean_english": "tiệc lớn",
-        "definition": "a feast or ceremonial dinner at which speeches are often made",
-        "ex_of_definition_list": [
-          "a state banquet."
-        ]
-      }
+    "hash_code_list_img": "1063164766",
+    "list_example": [
+      "However, the food was delivered to the banquet by a catering service.",
+      "The conflicted meanings surface, for example, in the way the artist chose to depict the banquet as a single rather than a double event.",
+      "Now, for the first time, archaeologists were admitted to this banquet of the senses."
     ],
-    "hash_code_list_definition_mean": "2067233394"
+    "hash_code_list_example": "1109143723"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/ban_cb_dmean_5000_it.json",
@@ -201,24 +138,14 @@
         "id_image": "ban_768384"
       }
     ],
-    "hash_code_list_img": "1388964717",
-    "list_definition_mean": [
-      {
-        "mean_english": "lệnh cấm",
-        "definition": "an order that a certain thing may not be done",
-        "ex_of_definition_list": [
-          "a ban on smoking."
-        ]
-      },
-      {
-        "mean_english": "cấm",
-        "definition": "to forbid",
-        "ex_of_definition_list": [
-          "The government banned publication of his book."
-        ]
-      }
+    "hash_code_list_img": "1308799760",
+    "list_example": [
+      "a ban on smoking.",
+      "The mainstream can ban the public performances, but it cannot banish the belief in spirits.",
+      "Even the most controlled commodity, rice, has seen greater freedom with the relaxing of the import ban and state-controlled distribution system.",
+      "Some independent argument is needed to show why such a ban would be illegitimate."
     ],
-    "hash_code_list_definition_mean": "1881575810"
+    "hash_code_list_example": "483163246"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/baptism_cb_dmean_5000_it.json",
@@ -236,18 +163,12 @@
         "id_image": "baptism_3805636"
       }
     ],
-    "hash_code_list_img": "1446189024",
-    "list_definition_mean": [
-      {
-        "mean_english": "lễ rửa tội",
-        "definition": "(an act of) baptizing",
-        "ex_of_definition_list": [
-          "the baptism of the baby",
-          "(also adjective) a baptism ceremony."
-        ]
-      }
+    "hash_code_list_img": "2132961437",
+    "list_example": [
+      "the baptism of the baby",
+      "(also adjective) a baptism ceremony."
     ],
-    "hash_code_list_definition_mean": "579227793"
+    "hash_code_list_example": "143613184"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/barbarian_cb_dmean_5000_it.json",
@@ -271,17 +192,11 @@
         "id_image": "barbarian_3426206"
       }
     ],
-    "hash_code_list_img": "-777088908",
-    "list_definition_mean": [
-      {
-        "mean_english": "người man rợ",
-        "definition": "an uncultured and uncivilized person",
-        "ex_of_definition_list": [
-          "The rioting soccer fans were accused of behaving like barbarians."
-        ]
-      }
+    "hash_code_list_img": "381321947",
+    "list_example": [
+      "barbarian customs."
     ],
-    "hash_code_list_definition_mean": "1566390907"
+    "hash_code_list_example": "-1420951787"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/barbecue_cb_dmean_5000_it.json",
@@ -321,31 +236,12 @@
         "id_image": "barbecue_878469"
       }
     ],
-    "hash_code_list_img": "-555476663",
-    "list_definition_mean": [
-      {
-        "mean_english": "vỉ để nướng",
-        "definition": "a framework for grilling meat etc over a charcoal fire",
-        "ex_of_definition_list": [
-          "We cooked the steak on a barbecue."
-        ]
-      },
-      {
-        "mean_english": "tiệc ngoài trời",
-        "definition": "a party in the open air, at which food is barbecued",
-        "ex_of_definition_list": [
-          "She invited us to a barbecue"
-        ]
-      },
-      {
-        "mean_english": "nướng quay cả con",
-        "definition": "to cook on a barbecue",
-        "ex_of_definition_list": [
-          "He barbecued a chicken."
-        ]
-      }
+    "hash_code_list_img": "1389933678",
+    "list_example": [
+      "It took them the whole night to barbecue the three hogs.",
+      "In the multivariate model eating doughsticks and eating at a barbecue were no longer significant."
     ],
-    "hash_code_list_definition_mean": "278557851"
+    "hash_code_list_example": "-1658908187"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/barber_cb_dmean_5000_it.json",
@@ -378,17 +274,17 @@
         "id_image": "barber_323978"
       }
     ],
-    "hash_code_list_img": "-2144754020",
-    "list_definition_mean": [
-      {
-        "mean_english": "thợ cắt tóc",
-        "definition": "a person who cuts men’s hair, shaves their beards etc",
-        "ex_of_definition_list": [
-          "You could do with a trip to the barber (= you need a haircut)."
-        ]
-      }
+    "hash_code_list_img": "655044488",
+    "list_example": [
+      "You could do with a trip to the barber (= you need a haircut).",
+      "Suppose my barber prescribes an itch-and-tingling suppression lotion, which she rubs into my hair and scalp.",
+      "This should allow determining a contrast dependent cut-off spatial frequency at which the barber pole illusion is abolished.",
+      "As a consequence, the barber pole illusion should be abolished or reduced in these conditions.",
+      "Moreover, the late tracking direction seemed to be dependent upon some vector combination of the potential different motion signals present in the \"barber pole\" stimulus.",
+      "Open symbols illustrate responses to a \"barber pole\" of aspect ratio 3.",
+      "Note that this latter is the point at which responses to either \"barber pole\" or control stimuli diverge."
     ],
-    "hash_code_list_definition_mean": "849922597"
+    "hash_code_list_example": "-1031451918"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/barefoot_cb_dmean_5000_it.json",
@@ -411,17 +307,11 @@
         "id_image": "barefoot_805530"
       }
     ],
-    "hash_code_list_img": "-2096982633",
-    "list_definition_mean": [
-      {
-        "mean_english": "chân trần",
-        "definition": "not wearing shoes or socks etc",
-        "ex_of_definition_list": [
-          "The children were playing barefoot on the beach."
-        ]
-      }
+    "hash_code_list_img": "2025010555",
+    "list_example": [
+      "The children were playing barefoot on the beach."
     ],
-    "hash_code_list_definition_mean": "1845527454"
+    "hash_code_list_example": "-1221736135"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bargain_cb_dmean_5000_it.json",
@@ -451,31 +341,14 @@
         "id_image": "bargain_1900171"
       }
     ],
-    "hash_code_list_img": "-330780804",
-    "list_definition_mean": [
-      {
-        "mean_english": "món hời",
-        "definition": "something bought cheaply and giving good value for money",
-        "ex_of_definition_list": [
-          "This carpet was a real bargain."
-        ]
-      },
-      {
-        "mean_english": "sự mặc cả",
-        "definition": "an agreement made between people",
-        "ex_of_definition_list": [
-          "I’ll make a bargain with you."
-        ]
-      },
-      {
-        "mean_english": "mặc cả",
-        "definition": "to argue about or discuss a price etc",
-        "ex_of_definition_list": [
-          "I bargained with him and finally got the price down."
-        ]
-      }
+    "hash_code_list_img": "19981880",
+    "list_example": [
+      "I’ll make a bargain with you.",
+      "This power to refuse rather than bargain is familiar in a variety of contexts.",
+      "In the 1970s and 1980s, this bargain was called into doubt.",
+      "Nevertheless, players behaving according to extremal equilibria engage in rounds of costly war to reach a mutually acceptable bargain that is already in plain sight."
     ],
-    "hash_code_list_definition_mean": "420263175"
+    "hash_code_list_example": "470412521"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/barge_cb_dmean_5000_it.json",
@@ -511,38 +384,22 @@
         "id_image": "barge_4984858"
       }
     ],
-    "hash_code_list_img": "311911246",
-    "list_definition_mean": [
-      {
-        "mean_english": "sà lan",
-        "definition": "a flat-bottomed boat for carrying goods etc",
-        "ex_of_definition_list": [
-          "a coal barge."
-        ]
-      },
-      {
-        "mean_english": "đâm sầm vào",
-        "definition": "to move (about) clumsily",
-        "ex_of_definition_list": [
-          "Henry drunkenly barged about the room."
-        ]
-      },
-      {
-        "mean_english": "xô phải",
-        "definition": "to bump (into)",
-        "ex_of_definition_list": [
-          "He barged into me."
-        ]
-      },
-      {
-        "mean_english": "xâm nhập",
-        "definition": "(with in(to)) to push one’s way (into) rudely",
-        "ex_of_definition_list": [
-          "She barged in without knocking."
-        ]
-      }
+    "hash_code_list_img": "1067540310",
+    "list_example": [
+      "a coal barge.",
+      "Henry drunkenly barged about the room.",
+      "He barged into me.",
+      "She barged in without knocking.",
+      "Rivers, canals and railways, all blocked with broken bridges, barges and so on, have been cleared to get communications going.",
+      "We have not as many barges as we should want, nor have we as many bargees.",
+      "Their canals are excellently constructed, and they can carry heavy barges.",
+      "I suppose that it was the falling off of the horse-drawn coal barges in the 1930s which marked the end of the active period.",
+      "They provide accommodation for steamers and facilities for unloading barges and the like.",
+      "Every one agreed that barges would in fact be provided, but the port authorities said they could not accept a statutory obligation to provide them.",
+      "The bargemen and the women employed on the barges work for low wages.",
+      "The cost of the forty-three barges was about £250,000."
     ],
-    "hash_code_list_definition_mean": "152707798"
+    "hash_code_list_example": "2084114150"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bark_cb_dmean_5000_it.json",
@@ -569,45 +426,12 @@
         "id_image": "bark_5660523"
       }
     ],
-    "hash_code_list_img": "-709108071",
-    "list_definition_mean": [
-      {
-        "mean_english": "tiếng sủa",
-        "definition": "the short, sharp cry of a dog, fox etc",
-        "ex_of_definition_list": [
-          "The bark of a dog broke the silence."
-        ]
-      },
-      {
-        "mean_english": "sủa",
-        "definition": "to make this sound",
-        "ex_of_definition_list": [
-          "The dog barked at the stranger."
-        ]
-      },
-      {
-        "mean_english": "quát tháo",
-        "definition": "to utter abruptly",
-        "ex_of_definition_list": [
-          "She barked a reply."
-        ]
-      },
-      {
-        "mean_english": "vỏ cây",
-        "definition": "the covering of the trunk and branches of a tree",
-        "ex_of_definition_list": [
-          "He stripped the bark off the branch."
-        ]
-      },
-      {
-        "mean_english": "lột vỏ",
-        "definition": "to take the skin off (part of the body) by accident",
-        "ex_of_definition_list": [
-          "I barked my shin on the table."
-        ]
-      }
+    "hash_code_list_img": "1479416194",
+    "list_example": [
+      "The bark of a dog broke the silence.",
+      "He stripped the bark off the branch."
     ],
-    "hash_code_list_definition_mean": "882210609"
+    "hash_code_list_example": "-125354268"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/barley_cb_dmean_5000_it.json",
@@ -630,17 +454,16 @@
         "id_image": "barley_2316448"
       }
     ],
-    "hash_code_list_img": "129565121",
-    "list_definition_mean": [
-      {
-        "mean_english": "lúa mạch",
-        "definition": "a type of grain used for food and for making beer and whisky",
-        "ex_of_definition_list": [
-          "The barley is harvested in July."
-        ]
-      }
+    "hash_code_list_img": "1033093747",
+    "list_example": [
+      "The barley is harvested in July.",
+      "At the grain-forming, post-grain-forming and maturity stages, the fraction of above-ground biomass representing grain yield (rice grain with husk, and barley seed) was separately estimated.",
+      "In this case, relative returns to some of the structural measures also improve even when barley is grown in both sites.",
+      "Effects of post-anthesis water stress on the yield and grain protein concentration of barley grown at two levels of nitrogen.",
+      "Influence of variety, row type and time of sowing on the morphology, chemical composition and in vitro digestibility of barley straw.",
+      "Susceptibilities of barley varieties to lodging using two different arbitrary thresholds for significant lodging."
     ],
-    "hash_code_list_definition_mean": "288986471"
+    "hash_code_list_example": "-163265304"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/barmaid_cb_dmean_5000_it.json",
@@ -658,17 +481,14 @@
         "id_image": "barmaid_2278719"
       }
     ],
-    "hash_code_list_img": "172325962",
-    "list_definition_mean": [
-      {
-        "mean_english": "người phục vụ ở quán rượu",
-        "definition": "a person who serves at the bar of a pub or hotel",
-        "ex_of_definition_list": [
-          "She works as a barmaid at the De Freville Arms pub."
-        ]
-      }
+    "hash_code_list_img": "1141492485",
+    "list_example": [
+      "She works as a barmaid at the De Freville Arms pub.",
+      "The barman and the barmaid are at work, and with the traditional \"mine host\" they are entitled to our protection.",
+      "If so, what did the barmaid say to him?",
+      "The same people grumble to the grocer and his staff about a ½p increase on a pound of butter but tip the barmaid every time they buy a drink."
     ],
-    "hash_code_list_definition_mean": "1460346998"
+    "hash_code_list_example": "852150838"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/barn_cb_dmean_5000_it.json",
@@ -701,17 +521,16 @@
         "id_image": "barn_757021"
       }
     ],
-    "hash_code_list_img": "-1954123495",
-    "list_definition_mean": [
-      {
-        "mean_english": "kho thóc",
-        "definition": "a building in which grain, hay etc are stored",
-        "ex_of_definition_list": [
-          "The wheat is stored in the barn."
-        ]
-      }
+    "hash_code_list_img": "-702562662",
+    "list_example": [
+      "Almost every household has a barn of tobacco nearby.",
+      "In winter, animals were housed in a free-stall barn with a concrete slatted floor, and cubicles with wood shavings as bedding material.",
+      "Genetic and environmental effects on morphology and fluctuating asymmetry in nesting barn swallows.",
+      "The farmhouse and dairy barn were to have been connected by a transitional utility space, with other utility structures forming a yard to the rear.",
+      "Ten 3-day-old calves were purchased from a sales barn 2 days prior to the start of the semester.",
+      "Orienting head movements resulting from electrical microstimulation of the brainstem tegmentum in the barn owl."
     ],
-    "hash_code_list_definition_mean": "380034112"
+    "hash_code_list_example": "2086711564"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/barometer_cb_dmean_5000_it.json",
@@ -739,17 +558,12 @@
         "id_image": "barometer_5903601"
       }
     ],
-    "hash_code_list_img": "-1667449149",
-    "list_definition_mean": [
-      {
-        "mean_english": "phong vũ biểu",
-        "definition": "an instrument that measures changes in the air pressure and indicates changes in the weather",
-        "ex_of_definition_list": [
-          "The barometer is falling – that means that it is going to rain."
-        ]
-      }
+    "hash_code_list_img": "122436261",
+    "list_example": [
+      "The barometer is falling – that means that it is going to rain.",
+      "Abbe then invented an anemobarometer to test the effect of chimney and window drafts on barometers in enclosed spaces."
     ],
-    "hash_code_list_definition_mean": "297795538"
+    "hash_code_list_example": "1791300795"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/baron_cb_dmean_5000_it.json",
@@ -768,25 +582,11 @@
         "id_image": "baron_328000"
       }
     ],
-    "hash_code_list_img": "1327907450",
-    "list_definition_mean": [
-      {
-        "mean_english": "nam tước",
-        "definition": "a nobleman",
-        "ex_of_definition_list": [
-          "He was made a baron",
-          "Baron Rothschild."
-        ]
-      },
-      {
-        "mean_english": "ông trùm",
-        "definition": "an important, powerful person",
-        "ex_of_definition_list": [
-          "a newspaper baron."
-        ]
-      }
+    "hash_code_list_img": "57986264",
+    "list_example": [
+      "Early each day, the baron himself would select one out of the twenty-five animals printed on the tickets."
     ],
-    "hash_code_list_definition_mean": "334403415"
+    "hash_code_list_example": "-1780294399"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/barrel_cb_dmean_5000_it.json",
@@ -815,24 +615,11 @@
         "id_image": "barrel_827185"
       }
     ],
-    "hash_code_list_img": "-248768630",
-    "list_definition_mean": [
-      {
-        "mean_english": "thùng",
-        "definition": "a container of curved pieces of wood or of metal",
-        "ex_of_definition_list": [
-          "The barrels contain beer."
-        ]
-      },
-      {
-        "mean_english": "nòng súng",
-        "definition": "a long, hollow, cylindrical shape, especially the tube-shaped part of a gun",
-        "ex_of_definition_list": [
-          "The bullet jammed in the barrel of the gun."
-        ]
-      }
+    "hash_code_list_img": "934264553",
+    "list_example": [
+      "The bullet jammed in the barrel of the gun."
     ],
-    "hash_code_list_definition_mean": "307706942"
+    "hash_code_list_example": "-1002004390"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/barricade_cb_dmean_5000_it.json",
@@ -866,24 +653,19 @@
         "id_image": "barricade_3842755"
       }
     ],
-    "hash_code_list_img": "1798791079",
-    "list_definition_mean": [
-      {
-        "mean_english": "vật chướng ngại",
-        "definition": "a barrier put up to block a street etc",
-        "ex_of_definition_list": [
-          "The police used barricades to keep back the crowds."
-        ]
-      },
-      {
-        "mean_english": "chặn lại",
-        "definition": "to block something (eg a street) with a barricade",
-        "ex_of_definition_list": [
-          "The protesters barricaded the streets."
-        ]
-      }
+    "hash_code_list_img": "1660930945",
+    "list_example": [
+      "The police used barricades to keep back the crowds.",
+      "The protesters barricaded the streets.",
+      "Schoolboys helped to man the barricades, and even the women fought.",
+      "Was there really none or virtually none on the troops' side behind the barricades, to see what was going on there?",
+      "The soldiers had their arms taken away and their vehicles were commandeered and used to build barricades.",
+      "The response should certainly not be to dig in and build more barricades.",
+      "Talks should certainly continue, to cement the improved relationship and prevent a return to the political barricades.",
+      "Just in removing the barricades, 4,000 tons of debris and 200 vehicles, many of them buses, were removed.",
+      "The barricades have gone up with a vengeance."
     ],
-    "hash_code_list_definition_mean": "1844798179"
+    "hash_code_list_example": "1509692909"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/barrier_cb_dmean_5000_it.json",
@@ -917,24 +699,11 @@
         "id_image": "barrier_804579"
       }
     ],
-    "hash_code_list_img": "2076121141",
-    "list_definition_mean": [
-      {
-        "mean_english": "hàng rào",
-        "definition": "something put up as a defence or protection",
-        "ex_of_definition_list": [
-          "a safety barrier."
-        ]
-      },
-      {
-        "mean_english": "trở ngại",
-        "definition": "something that causes difficulty",
-        "ex_of_definition_list": [
-          "His lack of formal qualifications was a barrier to promotion."
-        ]
-      }
+    "hash_code_list_img": "996719236",
+    "list_example": [
+      "His lack of formal qualifications was a barrier to promotion."
     ],
-    "hash_code_list_definition_mean": "1553829638"
+    "hash_code_list_example": "-1834044175"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/barter_cb_dmean_5000_it.json",
@@ -953,24 +722,13 @@
         "id_image": "barter_4313138"
       }
     ],
-    "hash_code_list_img": "1605872571",
-    "list_definition_mean": [
-      {
-        "mean_english": "đổi hàng lấy hàng",
-        "definition": "to trade by giving (one thing) in exchange (for another)",
-        "ex_of_definition_list": [
-          "The bandits used to barter gold for guns."
-        ]
-      },
-      {
-        "mean_english": "sự trao đổi hàng lấy hàng",
-        "definition": "goods used in bartering",
-        "ex_of_definition_list": [
-          "Some tribes used seashells as barter."
-        ]
-      }
+    "hash_code_list_img": "460674291",
+    "list_example": [
+      "The bandits used to barter gold for guns.",
+      "Writing thus becomes a kind of good work that, through a barter system, produces good trade which indirectly facilitates the writer's craft.",
+      "At the same time, exchange relationships permitted each group to complement its diet, through the barter of meat and milk for millet and sorghum."
     ],
-    "hash_code_list_definition_mean": "547672671"
+    "hash_code_list_example": "1487246282"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bar_cb_dmean_5000_it.json",
@@ -1009,97 +767,18 @@
         "id_image": "bar_2334269"
       }
     ],
-    "hash_code_list_img": "-150920818",
-    "list_definition_mean": [
-      {
-        "mean_english": "thanh; chấn song",
-        "definition": "a rod or oblong piece (especially of a solid substance)",
-        "ex_of_definition_list": [
-          "a gold bar",
-          "a bar of chocolate",
-          "There were iron bars on the windows."
-        ]
-      },
-      {
-        "mean_english": "đường kẻ",
-        "definition": "a broad line or band",
-        "ex_of_definition_list": [
-          "a piece of blue material with bars of red running through it."
-        ]
-      },
-      {
-        "mean_english": "cái chốt cửa",
-        "definition": "a bolt",
-        "ex_of_definition_list": [
-          "There was a bar on the door."
-        ]
-      },
-      {
-        "mean_english": "quầy hàng",
-        "definition": "a counter at which or across which articles of a particular kind are sold",
-        "ex_of_definition_list": [
-          "a snack bar",
-          "Your whisky is on the bar."
-        ]
-      },
-      {
-        "mean_english": "quầy bán rượu",
-        "definition": "a place where alcoholic drinks are served",
-        "ex_of_definition_list": [
-          "a cocktail/wine bar."
-        ]
-      },
-      {
-        "mean_english": "nhịp",
-        "definition": "a measured division in music",
-        "ex_of_definition_list": [
-          "They sang the first ten bars of the song."
-        ]
-      },
-      {
-        "mean_english": "sự cản trở",
-        "definition": "something which prevents (something)",
-        "ex_of_definition_list": [
-          "His carelessness could prove to be a bar to his promotion."
-        ]
-      },
-      {
-        "mean_english": "vành móng ngựa",
-        "definition": "the rail at which the prisoner stands in court",
-        "ex_of_definition_list": [
-          "The prisoner at the bar collapsed when he was sentenced to ten years’ imprisonment."
-        ]
-      },
-      {
-        "mean_english": "cài",
-        "definition": "to fasten with a bar",
-        "ex_of_definition_list": [
-          "She barred the door."
-        ]
-      },
-      {
-        "mean_english": "cấm cửa",
-        "definition": "to officially prevent someone from entering a place",
-        "ex_of_definition_list": [
-          "He’s been barred from the club for fighting."
-        ]
-      },
-      {
-        "mean_english": "ngăn cản",
-        "definition": "to prevent (from doing something)",
-        "ex_of_definition_list": [
-          "Her illness barred her from taking part in the race."
-        ]
-      },
-      {
-        "mean_english": "trừ ra",
-        "definition": "except",
-        "ex_of_definition_list": [
-          "All bar one member of the family fell ill after the meal."
-        ]
-      }
+    "hash_code_list_img": "-2123457931",
+    "list_example": [
+      "a bar of chocolate",
+      "There was a bar on the door.",
+      "His carelessness could prove to be a bar to his promotion.",
+      "The prisoner at the bar collapsed when he was sentenced to ten years’ imprisonment.",
+      "All bar one member of the family fell ill after the meal.",
+      "Every aspect bar the initial incision and post-operative stitching was performed by the robot.",
+      "A vertical bar rises the full height of the sash, 4in from the edge of the frame.",
+      "Silking is expressed, as for tassellation, in the vertical white bar chart."
     ],
-    "hash_code_list_definition_mean": "-893524917"
+    "hash_code_list_example": "-1582748107"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/baseball_cb_dmean_5000_it.json",
@@ -1127,18 +806,14 @@
         "id_image": "baseball_4545154"
       }
     ],
-    "hash_code_list_img": "1581501236",
-    "list_definition_mean": [
-      {
-        "mean_english": "bóng chày",
-        "definition": "an American game played with bat and ball",
-        "ex_of_definition_list": [
-          "a game of baseball",
-          "(also adjective) a baseball bat/game/player."
-        ]
-      }
+    "hash_code_list_img": "655318608",
+    "list_example": [
+      "(also adjective) a baseball bat/game/player.",
+      "If the baseball as a whole is also a causal agent, we have too many causal agents.",
+      "There is an allotted number of innings, a life span if you will, but the duration of a baseball game is not fixed.",
+      "Although some teams and leagues were integrated, baseball was never as democratic and meritocratic as its promoters claimed."
     ],
-    "hash_code_list_definition_mean": "1404793348"
+    "hash_code_list_example": "1917874467"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/basement_cb_dmean_5000_it.json",
@@ -1166,18 +841,19 @@
         "id_image": "basement_5775271"
       }
     ],
-    "hash_code_list_img": "-1398518487",
-    "list_definition_mean": [
-      {
-        "mean_english": "tầng hầm",
-        "definition": "the lowest floor of a building, usually below ground level",
-        "ex_of_definition_list": [
-          "There’s a wine cellar in the basement of the house",
-          "(also adjective) a basement flat."
-        ]
-      }
+    "hash_code_list_img": "435975098",
+    "list_example": [
+      "There’s a wine cellar in the basement of the house",
+      "(also adjective) a basement flat.",
+      "In addition, passive bending of the structures, resulting from pinning on the uplifted basement block probably also accounts for the fold-belt curvature.",
+      "Upon reaching the surface, the vacuoles were fused, leading to disruption of the apical region of syncytial tegument along the basement layer.",
+      "The basement is thought to be oceanic crust, generated either at a mid-ocean ridge or by back-arc spreading dependent on the favoured model.",
+      "However, typical geometries are truncated by subsequent generation of basement inherited faults.",
+      "The inner crater in the crystalline basement is often the only part of the concentric structure that is preserved or recognizable.",
+      "Only a few theca cells were still attached to the basement membrane.",
+      "Structurally, the skin consists of epidermis, dermis and basement membrane zone."
     ],
-    "hash_code_list_definition_mean": "443645336"
+    "hash_code_list_example": "472980294"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/base_cb_dmean_5000_it.json",
@@ -1204,48 +880,14 @@
         "id_image": "base_2646763"
       }
     ],
-    "hash_code_list_img": "882102762",
-    "list_definition_mean": [
-      {
-        "mean_english": "đáy; chân đế",
-        "definition": "the foundation, support, or lowest part (of something), or the surface on which something is standing",
-        "ex_of_definition_list": [
-          "the base of the statue",
-          "the base of the triangle",
-          "the base of the tree."
-        ]
-      },
-      {
-        "mean_english": "thành phần chủ yếu",
-        "definition": "the main ingredient of a mixture",
-        "ex_of_definition_list": [
-          "This paint has oil as a base."
-        ]
-      },
-      {
-        "mean_english": "căn cứ",
-        "definition": "a headquarters, starting-point etc",
-        "ex_of_definition_list": [
-          "an army base."
-        ]
-      },
-      {
-        "mean_english": "có trụ sở ở; căn cứ vào",
-        "definition": "(often with on) to use as a foundation, starting-point etc",
-        "ex_of_definition_list": [
-          "Make sure your arguments are based on solid evidence",
-          "a group of artists who were based in Paris."
-        ]
-      },
-      {
-        "mean_english": "hèn hạ; kém giá trị",
-        "definition": "wicked or worthless",
-        "ex_of_definition_list": [
-          "base desires."
-        ]
-      }
+    "hash_code_list_img": "-2011225421",
+    "list_example": [
+      "the base of the statue",
+      "the base of the triangle",
+      "the base of the tree.",
+      "base desires."
     ],
-    "hash_code_list_definition_mean": "-675951584"
+    "hash_code_list_example": "-626364319"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/basil_cb_dmean_5000_it.json",
@@ -1268,18 +910,11 @@
         "id_image": "basil_3944343"
       }
     ],
-    "hash_code_list_img": "1817330638",
-    "list_definition_mean": [
-      {
-        "mean_english": "cây húng quế",
-        "definition": "a plant whose sweet-smelling leaves are used in cooking as a herb",
-        "ex_of_definition_list": [
-          "Finely chop some fresh basil",
-          "(also adjective) a tomato and basil sauce."
-        ]
-      }
+    "hash_code_list_img": "1220205897",
+    "list_example": [
+      "(also adjective) a tomato and basil sauce."
     ],
-    "hash_code_list_definition_mean": "581865598"
+    "hash_code_list_example": "-1566928130"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/basin_cb_dmean_5000_it.json",
@@ -1315,38 +950,11 @@
         "id_image": "basin_6080267"
       }
     ],
-    "hash_code_list_img": "-1073108618",
-    "list_definition_mean": [
-      {
-        "mean_english": "chậu rửa",
-        "definition": "a bowl for washing oneself in",
-        "ex_of_definition_list": [
-          "a washbasin."
-        ]
-      },
-      {
-        "mean_english": "cái chảo",
-        "definition": "a wide, open dish for preparing food in",
-        "ex_of_definition_list": [
-          "a pudding basin."
-        ]
-      },
-      {
-        "mean_english": "lưu vực",
-        "definition": "the area drained by a river",
-        "ex_of_definition_list": [
-          "the basin of the Nile."
-        ]
-      },
-      {
-        "mean_english": "vịnh nhỏ",
-        "definition": "the deep part of a harbour/harbor",
-        "ex_of_definition_list": [
-          "There were four yachts anchored in the harbour basin."
-        ]
-      }
+    "hash_code_list_img": "-292592341",
+    "list_example": [
+      "the basin of the Nile."
     ],
-    "hash_code_list_definition_mean": "1437509843"
+    "hash_code_list_example": "-1224209577"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/basketball_cb_dmean_5000_it.json",
@@ -1375,17 +983,17 @@
         "id_image": "basketball_471448"
       }
     ],
-    "hash_code_list_img": "-945409256",
-    "list_definition_mean": [
-      {
-        "mean_english": "bóng rổ",
-        "definition": "a game in which goals are scored by throwing a ball into a net on a high post",
-        "ex_of_definition_list": [
-          "How often do you play basketball?"
-        ]
-      }
+    "hash_code_list_img": "-339400020",
+    "list_example": [
+      "a basketball court.",
+      "But the basketball club did not recruit new members.",
+      "On top of the deck is a basketball court.",
+      "Three of us did graduate work at schools with great basketball teams and fell in love with the sport.",
+      "The teachers' pleas for calm were greeted with cheers that would not have been out of place at a basketball game.",
+      "However, if boys prefer to play, for example, basketball with other boys, does it mean they are more empathetic towards boys than girls?",
+      "He was about winning basketball and winning as human beings."
     ],
-    "hash_code_list_definition_mean": "130922523"
+    "hash_code_list_example": "-650130733"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/basket_cb_dmean_5000_it.json",
@@ -1413,18 +1021,14 @@
         "id_image": "basket_869006"
       }
     ],
-    "hash_code_list_img": "1195319259",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái rổ",
-        "definition": "a container made of strips of wood, rushes etc woven together",
-        "ex_of_definition_list": [
-          "She was carrying a large basket",
-          "The basket was filled with groceries."
-        ]
-      }
+    "hash_code_list_img": "-1047214005",
+    "list_example": [
+      "The basket was filled with groceries.",
+      "Suppose it is known that in a basket there are only apples (a), only bananas (b) or only pears (c).",
+      "He then ' ' seize[d] ' ' her basket and ' ' tosse[d] it [away], ' ' ' ' grabbing ' ' her arm and ' ' pulling her to him.",
+      "In this sense, all decisions adopted by individuals show their preference for one basket over any other basket available."
     ],
-    "hash_code_list_definition_mean": "2106287864"
+    "hash_code_list_example": "-387968957"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bassoon_cb_dmean_5000_it.json",
@@ -1447,17 +1051,15 @@
         "id_image": "bassoon_5781949"
       }
     ],
-    "hash_code_list_img": "507104941",
-    "list_definition_mean": [
-      {
-        "mean_english": "kèn fagôt",
-        "definition": "a woodwind musical instrument which gives a very low sound",
-        "ex_of_definition_list": [
-          "He plays the bassoon in an orchestra."
-        ]
-      }
+    "hash_code_list_img": "999568101",
+    "list_example": [
+      "He plays the bassoon in an orchestra.",
+      "In the second quintet, the last page-turns for oboe and bassoon require a third hand.",
+      "Not only this, but he would have permitted himself the luxuries of bass clarinet and double bassoon in these four bars, for the only time in the movement.",
+      "Passages for solo bassoon are doubled by strings.",
+      "The teacher modelled one extreme example before they started - a bassoon note made to last sixty seconds."
     ],
-    "hash_code_list_definition_mean": "1686091170"
+    "hash_code_list_example": "-1198216722"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bass_cb_dmean_5000_it.json",
@@ -1486,24 +1088,15 @@
         "id_image": "bass_4625413"
       }
     ],
-    "hash_code_list_img": "-1308164069",
-    "list_definition_mean": [
-      {
-        "mean_english": "giọng nam trầm",
-        "definition": "(a singer having) a male voice of the lowest pitch",
-        "ex_of_definition_list": [
-          "He sings in a rich bass."
-        ]
-      },
-      {
-        "mean_english": "cá vược",
-        "definition": "a type of fish of the perch family",
-        "ex_of_definition_list": [
-          "grilled sea bass."
-        ]
-      }
+    "hash_code_list_img": "1358610049",
+    "list_example": [
+      "Sustained and transient potassium currents of cultured horizontal cells isolated from white bass retina.",
+      "The basso continuo is, in essence, a seguente bass throughout.",
+      "The air is brief and simple, with only continuo bass accompaniment.",
+      "The concerto begins with a brief fusillade of demisemiquavers from the violins, underpinned by the bass drum and capped by flourishes from the soloists.",
+      "The synthesised bass is extremely restless, moving mostly by tritone and half-step, and traversing the chromatic aggregate save for one pitch."
     ],
-    "hash_code_list_definition_mean": "330665007"
+    "hash_code_list_example": "924344793"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/batch_cb_dmean_5000_it.json",
@@ -1531,18 +1124,11 @@
         "id_image": "batch_5132121"
       }
     ],
-    "hash_code_list_img": "-38921042",
-    "list_definition_mean": [
-      {
-        "mean_english": "đợt",
-        "definition": "a number of things made, delivered etc, all at one time",
-        "ex_of_definition_list": [
-          "This batch of bread is ready for baking",
-          "The letters were sent out in batches."
-        ]
-      }
+    "hash_code_list_img": "-1182040094",
+    "list_example": [
+      "This batch of bread is ready for baking"
     ],
-    "hash_code_list_definition_mean": "1528100001"
+    "hash_code_list_example": "777208342"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bathe_cb_dmean_5000_it.json",
@@ -1567,32 +1153,18 @@
         "id_image": "bathe_381218"
       }
     ],
-    "hash_code_list_img": "1489194468",
-    "list_definition_mean": [
-      {
-        "mean_english": "rửa",
-        "definition": "to put into water",
-        "ex_of_definition_list": [
-          "He bathed his feet",
-          "The nurse will bathe your wounds."
-        ]
-      },
-      {
-        "mean_english": "tắm",
-        "definition": "to go swimming",
-        "ex_of_definition_list": [
-          "She bathes in the sea every day."
-        ]
-      },
-      {
-        "mean_english": "sự tắm",
-        "definition": "an act of swimming",
-        "ex_of_definition_list": [
-          "a midnight bathe."
-        ]
-      }
+    "hash_code_list_img": "-549111407",
+    "list_example": [
+      "The nurse will bathe your wounds.",
+      "You can play golf and bathe there and the mine does not frighten people away from it.",
+      "Simultaneously, a range of stromal-tissue-derived tissue repair mediators bathe the inflammatory microenvironment.",
+      "The birds seemed to be attracted by the axis markers (we trialled several types) and tended to bathe near the markers, destroying some moss patches and flooding others.",
+      "Who takes their computer with them on holiday to find out whether they can bathe within microbiological safety limits?",
+      "On the other hand, there were several examples of people with the more innovative devices but without housing adaptations to facilitate access or to enable them to bathe safely.",
+      "So often disabled people have to wait for strangers to bathe them, shave them, feed them and do all kinds of intimate tasks.",
+      "And, to give himself pleasure, he would bathe the concubines with a slippery [pad of] nopal."
     ],
-    "hash_code_list_definition_mean": "1527915265"
+    "hash_code_list_example": "1954535039"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bathrobe_cb_dmean_5000_it.json",
@@ -1625,17 +1197,13 @@
         "id_image": "bathrobe_5569395"
       }
     ],
-    "hash_code_list_img": "226033660",
-    "list_definition_mean": [
-      {
-        "mean_english": "áo choàng tắm",
-        "definition": "a long loose piece of clothing which you wear before or after taking a bath or shower",
-        "ex_of_definition_list": [
-          "She was wearing a cotton bathrobe."
-        ]
-      }
+    "hash_code_list_img": "-2045712208",
+    "list_example": [
+      "Those attending the demonstration were instructed to show up in their bathrobe and slippers, bring their meds, and also bring any legal form of self-medication they have.",
+      "I understand the arguments about belt and braces but this measure adds a bathrobe and curtain, too.",
+      "At these occasions, the singer wore a white bathrobe and performed a choreographied dance with two female dancers."
     ],
-    "hash_code_list_definition_mean": "1559258972"
+    "hash_code_list_example": "1077437998"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bathroom_cb_dmean_5000_it.json",
@@ -1669,24 +1237,15 @@
         "id_image": "bathroom_655894"
       }
     ],
-    "hash_code_list_img": "290820654",
-    "list_definition_mean": [
-      {
-        "mean_english": "buồng tắm",
-        "definition": "a room in a house etc which contains a bath",
-        "ex_of_definition_list": [
-          "an en-suite bathroom (= one that is joined onto a bedroom)."
-        ]
-      },
-      {
-        "mean_english": "nhà vệ sinh",
-        "definition": "a lavatory",
-        "ex_of_definition_list": [
-          "I need to use the bathroom (= use the lavatory)."
-        ]
-      }
+    "hash_code_list_img": "-2134590907",
+    "list_example": [
+      "an en-suite bathroom (= one that is joined onto a bedroom).",
+      "I need to use the bathroom (= use the lavatory).",
+      "The feature node allows the designer to structure share the bathroom solution of the second design with the first.",
+      "The bathroom cabinet and its contents turn out to be revealing from the point of view of grammar and linguistic behaviour.",
+      "Each bathroom was equipped with grab rails, seats and pull cords so that the resident could summon help if it was needed."
     ],
-    "hash_code_list_definition_mean": "732700010"
+    "hash_code_list_example": "900630340"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bathtub_cb_dmean_5000_it.json",
@@ -1724,17 +1283,15 @@
         "id_image": "bathtub_5685632"
       }
     ],
-    "hash_code_list_img": "1394245158",
-    "list_definition_mean": [
-      {
-        "mean_english": "bồn tắm",
-        "definition": "a bath (for washing in); bath British",
-        "ex_of_definition_list": [
-          "He’s sitting in the bathtub."
-        ]
-      }
+    "hash_code_list_img": "1379317330",
+    "list_example": [
+      "Next scene, she is shown in a bathtub singing the song to herself.",
+      "Each bathtub contained 5.5 m3 of water.",
+      "If a man buys a bathtub and installs it in his house, he has to meet a considerable additional cost for installation.",
+      "The assessment of the district scientists was that the subsoil was watertight, while the local authority scientists maintained that the subsoil was as watertight as a bathtub without a plug!",
+      "This should also be incorporated with at least one bathtub or shower for every ten students."
     ],
-    "hash_code_list_definition_mean": "1356614144"
+    "hash_code_list_example": "-1422649067"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bath_cb_dmean_5000_it.json",
@@ -1770,38 +1327,15 @@
         "id_image": "bath_769640"
       }
     ],
-    "hash_code_list_img": "157803798",
-    "list_definition_mean": [
-      {
-        "mean_english": "bồn tắm",
-        "definition": "a large container for holding water in which to wash the whole body",
-        "ex_of_definition_list": [
-          "I’ll fill the bath with water for you."
-        ]
-      },
-      {
-        "mean_english": "sự tắm rửa",
-        "definition": "an act of washing in a bath",
-        "ex_of_definition_list": [
-          "I had a bath last night."
-        ]
-      },
-      {
-        "mean_english": "bình chứa dung dịch hóa chất",
-        "definition": "a container of liquid etc in which something is immersed",
-        "ex_of_definition_list": [
-          "a bird bath."
-        ]
-      },
-      {
-        "mean_english": "tắm",
-        "definition": "to wash in a bath",
-        "ex_of_definition_list": [
-          "I’ll bath the baby."
-        ]
-      }
+    "hash_code_list_img": "-623200379",
+    "list_example": [
+      "I’ll fill the bath with water for you.",
+      "I had a bath last night.",
+      "I’ll bath the baby.",
+      "Virtually complete bath changes could be achieved in a few minutes while holding bath temperature constant.",
+      "This ultrasonic treatment is an invasive technique because surface samples have to be cut out from the plant and studied in bath sonicators."
     ],
-    "hash_code_list_definition_mean": "-1982797221"
+    "hash_code_list_example": "-1969676637"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/batik_cb_dmean_5000_it.json",
@@ -1819,18 +1353,16 @@
         "id_image": "batik_2133937"
       }
     ],
-    "hash_code_list_img": "104105462",
-    "list_definition_mean": [
-      {
-        "mean_english": "lối in hoa batic",
-        "definition": "a method of dyeing patterns on cloth by waxing certain areas so that they remain uncoloured",
-        "ex_of_definition_list": [
-          "Indonesians use batik to decorate items of clothing",
-          "(also adjective) a batik shirt."
-        ]
-      }
+    "hash_code_list_img": "63583847",
+    "list_example": [
+      "Indonesians use batik to decorate items of clothing",
+      "(also adjective) a batik shirt.",
+      "Kebaya usually worn with a sarong or batik \"kain panjang\", or other traditional woven garment such as ikat, songket with a colorful motif.",
+      "The father could deposit his capital with a bank or merchant batik at an agreed special rate of interest.",
+      "The batik material depicts the \"kelarai\" motif, which is a bamboo weave pattern.",
+      "He was widely credited with the promotion of batik designs within the international fashion industry, including its magazines and fashion shows."
     ],
-    "hash_code_list_definition_mean": "731574010"
+    "hash_code_list_example": "-1751376558"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/baton_cb_dmean_5000_it.json",
@@ -1854,24 +1386,18 @@
         "id_image": "baton_387447"
       }
     ],
-    "hash_code_list_img": "67155724",
-    "list_definition_mean": [
-      {
-        "mean_english": "dùi cui",
-        "definition": "a short, heavy stick, carried by a policeman as a weapon",
-        "ex_of_definition_list": [
-          "The riot police used batons to drive back the angry crowd."
-        ]
-      },
-      {
-        "mean_english": "gậy chỉ huy",
-        "definition": "a light, slender stick used when conducting an orchestra or choir",
-        "ex_of_definition_list": [
-          "The conductor raised his baton."
-        ]
-      }
+    "hash_code_list_img": "1653624715",
+    "list_example": [
+      "The riot police used batons to drive back the angry crowd.",
+      "The conductor raised his baton.",
+      "They had not waited a moment but had ridden through the crowd and batoned the people.",
+      "They have been batoned and thrust into concentration camps.",
+      "If the police had insisted upon hauling the men down and had batoned them, a not must have ensued.",
+      "I am informed that there is no foundation for the allegation that some of the persons arrested were batoned and kicked by the police in the police station.",
+      "We have had demonstrations, we have had men batoned into submission—hungry men, desperate men—by officers of the law acting in the interests of law and order.",
+      "Is it true that, while a breach of the magistrates' decision did take place, the police ruthlessly batoned the people down without any warning or request to clear the streets?"
     ],
-    "hash_code_list_definition_mean": "1593871183"
+    "hash_code_list_example": "-971052906"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/battery_cb_dmean_5000_it.json",
@@ -1907,39 +1433,12 @@
         "id_image": "battery_309122"
       }
     ],
-    "hash_code_list_img": "-1832896125",
-    "list_definition_mean": [
-      {
-        "mean_english": "pin; ắc quy",
-        "definition": "a series of two or more electric cells arranged to produce, or store, a current",
-        "ex_of_definition_list": [
-          "a torch/flashlight battery",
-          "I need to change the batteries in this clock."
-        ]
-      },
-      {
-        "mean_english": "khẩu đội pháo",
-        "definition": "a group of large guns (and the people manning them)",
-        "ex_of_definition_list": [
-          "an artillery battery."
-        ]
-      },
-      {
-        "mean_english": "một chuỗi…",
-        "definition": "a long series",
-        "ex_of_definition_list": [
-          "a battery of questions."
-        ]
-      },
-      {
-        "mean_english": "dãy chuồng nuôi gà",
-        "definition": "an arrangement of cages in which laying hens etc are kept",
-        "ex_of_definition_list": [
-          "(also adjective) a battery hen."
-        ]
-      }
+    "hash_code_list_img": "296942983",
+    "list_example": [
+      "a battery of questions.",
+      "(also adjective) a battery hen."
     ],
-    "hash_code_list_definition_mean": "413989709"
+    "hash_code_list_example": "664394055"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/batter_cb_dmean_5000_it.json",
@@ -1968,25 +1467,21 @@
         "id_image": "batter_221847"
       }
     ],
-    "hash_code_list_img": "-2126585459",
-    "list_definition_mean": [
-      {
-        "mean_english": "đập liên hồi",
-        "definition": "to beat with blow after blow",
-        "ex_of_definition_list": [
-          "He was battered to death with an iron bar."
-        ]
-      },
-      {
-        "mean_english": "bột nhão làm bánh",
-        "definition": "a mixture of flour, eggs and milk or water used in cooking",
-        "ex_of_definition_list": [
-          "Fry the fish in batter",
-          "pancake batter."
-        ]
-      }
+    "hash_code_list_img": "1431552144",
+    "list_example": [
+      "He was battered to death with an iron bar.",
+      "Fry the fish in batter",
+      "pancake batter.",
+      "In order to examine how the initiatives against domestic violence were received by their intended beneficiaries, battered women, we have to look at how programmes actually worked.",
+      "We must not forget that they have taken a substantial battering during the past two years.",
+      "Let us assume that a police officer is called because an inspection authority officer is battering the door down.",
+      "All these are so often the characteristics of children who in the end get battered or otherwise maltreated.",
+      "There is a very noticeable difference between a really fresh egg and one which has been battered about.",
+      "Immigrants should not be used as battering rams, but as people with the same rights alongside local workers.",
+      "In both, participants have fans and cheerleaders, learn and practice complex material, and often emerge from their contests battered and bruised.",
+      "The steel industry is taking a tremendous battering at present."
     ],
-    "hash_code_list_definition_mean": "1650403907"
+    "hash_code_list_example": "1704067993"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/battleship_cb_dmean_5000_it.json",
@@ -2019,17 +1514,11 @@
         "id_image": "battleship_4984885"
       }
     ],
-    "hash_code_list_img": "448683858",
-    "list_definition_mean": [
-      {
-        "mean_english": "chiến hạm",
-        "definition": "a heavily armed and armoured warship",
-        "ex_of_definition_list": [
-          "The Bismarck was the largest battleship of the German navy during the 1940s."
-        ]
-      }
+    "hash_code_list_img": "1953497158",
+    "list_example": [
+      "The Bismarck was the largest battleship of the German navy during the 1940s."
     ],
-    "hash_code_list_definition_mean": "1568841487"
+    "hash_code_list_example": "61409455"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/battle_cb_dmean_5000_it.json",
@@ -2058,25 +1547,12 @@
         "id_image": "battle_2671422"
       }
     ],
-    "hash_code_list_img": "992450786",
-    "list_definition_mean": [
-      {
-        "mean_english": "trận đánh",
-        "definition": "a fight between opposing armies or individuals",
-        "ex_of_definition_list": [
-          "the Battle of Britain",
-          "The two sides fought a fierce battle."
-        ]
-      },
-      {
-        "mean_english": "chiến đấu",
-        "definition": "to fight",
-        "ex_of_definition_list": [
-          "Firefighters battled to gain control of the blaze."
-        ]
-      }
+    "hash_code_list_img": "512236799",
+    "list_example": [
+      "The two sides fought a fierce battle.",
+      "Firefighters battled to gain control of the blaze."
     ],
-    "hash_code_list_definition_mean": "-737808663"
+    "hash_code_list_example": "-1781452571"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bat_cb_dmean_5000_it.json",
@@ -2112,38 +1588,13 @@
         "id_image": "bat_375135"
       }
     ],
-    "hash_code_list_img": "-1440974443",
-    "list_definition_mean": [
-      {
-        "mean_english": "gậy bóng chày; vợt (bóng bàn)",
-        "definition": "a shaped piece of wood etc for striking the ball in cricket, baseball, table-tennis etc",
-        "ex_of_definition_list": [
-          "a baseball/cricket/table-tennis bat."
-        ]
-      },
-      {
-        "mean_english": "thi đấu",
-        "definition": "to use a bat",
-        "ex_of_definition_list": [
-          "He bats with his left hand."
-        ]
-      },
-      {
-        "mean_english": "đánh bằng gậy bóng chày",
-        "definition": "to strike (the ball) with a bat",
-        "ex_of_definition_list": [
-          "She batted the ball."
-        ]
-      },
-      {
-        "mean_english": "con dơi",
-        "definition": "a mouse-like animal which flies, usually at night",
-        "ex_of_definition_list": [
-          "The fruit bats were hanging upside down from the branches of a tree."
-        ]
-      }
+    "hash_code_list_img": "-890655762",
+    "list_example": [
+      "Recording commenced at dusk and continued until dawn d uring which we monitored bat activity in 30-min i ntervals.",
+      "Over a period of 8 y, both bat communities showed high rates of species turnover.",
+      "Interestingly, on three inflorescences that had no open flower on the respective night we recorded one, four and three bat visits."
     ],
-    "hash_code_list_definition_mean": "626676246"
+    "hash_code_list_example": "168304706"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bayonet_cb_dmean_5000_it.json",
@@ -2161,17 +1612,11 @@
         "id_image": "bayonet_489966"
       }
     ],
-    "hash_code_list_img": "293285093",
-    "list_definition_mean": [
-      {
-        "mean_english": "lưỡi lê",
-        "definition": "a knife-like instrument of steel fixed to the end of a rifle barrel",
-        "ex_of_definition_list": [
-          "The paratroopers were ordered to fix bayonets (= attach them to their rifles)."
-        ]
-      }
+    "hash_code_list_img": "2043383833",
+    "list_example": [
+      "The paratroopers were ordered to fix bayonets (= attach them to their rifles)."
     ],
-    "hash_code_list_definition_mean": "597399786"
+    "hash_code_list_example": "1557422976"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bay_cb_dmean_5000_it.json",
@@ -2208,39 +1653,15 @@
         "id_image": "bay_6253474"
       }
     ],
-    "hash_code_list_img": "13760220",
-    "list_definition_mean": [
-      {
-        "mean_english": "vịnh",
-        "definition": "a wide inward bend of a coastline",
-        "ex_of_definition_list": [
-          "The ship was anchored in the bay",
-          "Botany Bay."
-        ]
-      },
-      {
-        "mean_english": "gian nhà",
-        "definition": "a separate compartment, area or room etc (usually one of several) set aside for a special purpose",
-        "ex_of_definition_list": [
-          "a bay in a library."
-        ]
-      },
-      {
-        "mean_english": "hồng",
-        "definition": "(of horses) reddish-brown in colour/color",
-        "ex_of_definition_list": [
-          "a bay pony."
-        ]
-      },
-      {
-        "mean_english": "sủa",
-        "definition": "(especially of large dogs) to bark",
-        "ex_of_definition_list": [
-          "The hounds bayed at the fox."
-        ]
-      }
+    "hash_code_list_img": "-1412270162",
+    "list_example": [
+      "a bay in a library.",
+      "a bay pony.",
+      "A six-bay end cluster can be freely planned by removing all screens and par titions, and then by enclosing group and seminar spaces.",
+      "They will reverse into the covered loading bay and the entrance can be secured behind t hem.",
+      "This bay has a completely flooded mangrove forest only accessible by small boat."
     ],
-    "hash_code_list_definition_mean": "1038387788"
+    "hash_code_list_example": "-623982671"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/beach_cb_dmean_5000_it.json",
@@ -2269,25 +1690,11 @@
         "id_image": "beach_4792176"
       }
     ],
-    "hash_code_list_img": "-531646533",
-    "list_definition_mean": [
-      {
-        "mean_english": "bãi biển",
-        "definition": "the sandy or stony shore of a sea or lake",
-        "ex_of_definition_list": [
-          "a sandy beach",
-          "Children love playing on the beach."
-        ]
-      },
-      {
-        "mean_english": "cho tàu (thuyền) lên cạn",
-        "definition": "to drive or pull (a boat etc) up on to a beach",
-        "ex_of_definition_list": [
-          "We’ll beach the boat here and continue on foot."
-        ]
-      }
+    "hash_code_list_img": "-2008851139",
+    "list_example": [
+      "We’ll beach the boat here and continue on foot."
     ],
-    "hash_code_list_definition_mean": "105992061"
+    "hash_code_list_example": "-2113799171"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/beacon_cb_dmean_5000_it.json",
@@ -2306,24 +1713,11 @@
         "id_image": "beacon_2224002"
       }
     ],
-    "hash_code_list_img": "280960744",
-    "list_definition_mean": [
-      {
-        "mean_english": "đèn hiệu",
-        "definition": "a type of light, fire etc that warns of danger, eg the light in a lighthouse",
-        "ex_of_definition_list": [
-          "The captain looked for warning beacons along the shore."
-        ]
-      },
-      {
-        "mean_english": "tính hiệu dẫn đường",
-        "definition": "a radio station or transmitter that sends out signals to guide shipping or aircraft",
-        "ex_of_definition_list": [
-          "a radar beacon."
-        ]
-      }
+    "hash_code_list_img": "1837582004",
+    "list_example": [
+      "To many in the environmental movement, that report still stands as a beacon of sense in the foolish world of economics."
     ],
-    "hash_code_list_definition_mean": "-650370594"
+    "hash_code_list_example": "397006623"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bead_cb_dmean_5000_it.json",
@@ -2361,17 +1755,19 @@
         "id_image": "bead_2472664"
       }
     ],
-    "hash_code_list_img": "844290709",
-    "list_definition_mean": [
-      {
-        "mean_english": "hạt",
-        "definition": "a little ball of glass etc strung with others in a necklace etc",
-        "ex_of_definition_list": [
-          "She’s wearing two strings of wooden beads."
-        ]
-      }
+    "hash_code_list_img": "-1904826436",
+    "list_example": [
+      "She’s wearing two strings of wooden beads.",
+      "Irregularly shaped beads were found on the exterior of the carpi and humeri, and two shell disks were scattered in the burial fill.",
+      "Whilst the magnetic field is in operation, only those cells with beads are retained.",
+      "An alternative explanation is the presence of leftover sediment inbetween the beads after the final wash step.",
+      "Dressed in no more than loin clothes and beaded leather aprons, the records make numerous remarks regarding what was considered to be their undressed state.",
+      "One of the beads is held in an optical trap while the other is held on a micropipette mounted on a piezoelectric flexure stage.",
+      "As another example, the heads in this paper are hydrophilic, and in fact comparable to 'attached water beads'.",
+      "His speech scroll appears ornamented with jade beads, perhaps indicating song or oratory.",
+      "On one level, the beads allegorically reinforce the surface, sentimental story."
     ],
-    "hash_code_list_definition_mean": "863313256"
+    "hash_code_list_example": "1436473267"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/beaker_cb_dmean_5000_it.json",
@@ -2405,16 +1801,10 @@
         "id_image": "beaker_5903813"
       }
     ],
-    "hash_code_list_img": "-431813154",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái cốc vại",
-        "definition": "a large drinking-glass or mug",
-        "ex_of_definition_list": [
-          "a beaker of hot milk."
-        ]
-      }
+    "hash_code_list_img": "1288450927",
+    "list_example": [
+      "a beaker of hot milk."
     ],
-    "hash_code_list_definition_mean": "1980153122"
+    "hash_code_list_example": "1642380797"
   }
 ]

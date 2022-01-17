@@ -26,25 +26,11 @@
         "id_image": "cluster_4882414"
       }
     ],
-    "hash_code_list_img": "1254937823",
-    "list_definition_mean": [
-      {
-        "mean_english": "đám; cụm",
-        "definition": "a closely-packed group (of people or things)",
-        "ex_of_definition_list": [
-          "a cluster of berries",
-          "They stood in a cluster."
-        ]
-      },
-      {
-        "mean_english": "tụ họp lại",
-        "definition": "(often with round) to group together in clusters",
-        "ex_of_definition_list": [
-          "They clustered round the door."
-        ]
-      }
+    "hash_code_list_img": "2093779236",
+    "list_example": [
+      "a cluster of berries"
     ],
-    "hash_code_list_definition_mean": "370538279"
+    "hash_code_list_example": "1695187215"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/clutch_cb_dmean_5000_it.json",
@@ -75,38 +61,13 @@
         "id_image": "clutch_659336"
       }
     ],
-    "hash_code_list_img": "431627813",
-    "list_definition_mean": [
-      {
-        "mean_english": "chộp",
-        "definition": "(with at) to try to take hold of",
-        "ex_of_definition_list": [
-          "I clutched at a floating piece of wood to save myself from drowning."
-        ]
-      },
-      {
-        "mean_english": "giữ chặt",
-        "definition": "to hold tightly (in the hands)",
-        "ex_of_definition_list": [
-          "She was clutching a 50–cent piece."
-        ]
-      },
-      {
-        "mean_english": "nanh vuốt",
-        "definition": "control or power",
-        "ex_of_definition_list": [
-          "He fell into the clutches of the enemy."
-        ]
-      },
-      {
-        "mean_english": "côn",
-        "definition": "(the pedal operating) a device by means of which two moving parts of an engine may be connected or disconnected",
-        "ex_of_definition_list": [
-          "He released the clutch and the car started to move."
-        ]
-      }
+    "hash_code_list_img": "1022121507",
+    "list_example": [
+      "He released the clutch and the car started to move.",
+      "Each clutch was digitally photographed and individually marked.",
+      "For example, consider the following two text spans: given that the clutch was functional, and it is unlikely that the engine was driving the starter."
     ],
-    "hash_code_list_definition_mean": "-1105213939"
+    "hash_code_list_example": "1462702641"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/coach_cb_dmean_5000_it.json",
@@ -144,52 +105,13 @@
         "id_image": "coach_6031985"
       }
     ],
-    "hash_code_list_img": "-1699303313",
-    "list_definition_mean": [
-      {
-        "mean_english": "toa",
-        "definition": "a railway carriage; car American",
-        "ex_of_definition_list": [
-          "The last two coaches of the train were derailed."
-        ]
-      },
-      {
-        "mean_english": "xe buýt đường dài",
-        "definition": "a bus for tourists etc",
-        "ex_of_definition_list": [
-          "also adjective a coach tour."
-        ]
-      },
-      {
-        "mean_english": "huấn luyện viên",
-        "definition": "a trainer in athletics, sport etc",
-        "ex_of_definition_list": [
-          "a tennis coach."
-        ]
-      },
-      {
-        "mean_english": "giáo viên luyện thi",
-        "definition": "a private teacher",
-        "ex_of_definition_list": [
-          "They employed a coach to help their son with his mathematics."
-        ]
-      },
-      {
-        "mean_english": "xe ngựa",
-        "definition": "a four-wheeled horse-drawn vehicle",
-        "ex_of_definition_list": [
-          "a coach and horses."
-        ]
-      },
-      {
-        "mean_english": "dạy",
-        "definition": "to prepare (a person) for an examination, contest etc",
-        "ex_of_definition_list": [
-          "He coached his friend for the Latin exam."
-        ]
-      }
+    "hash_code_list_img": "1202542733",
+    "list_example": [
+      "also adjective a coach tour.",
+      "They employed a coach to help their son with his mathematics.",
+      "a coach and horses."
     ],
-    "hash_code_list_definition_mean": "-1756193453"
+    "hash_code_list_example": "-1868652072"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/coal_cb_dmean_5000_it.json",
@@ -222,17 +144,11 @@
         "id_image": "coal_6027366"
       }
     ],
-    "hash_code_list_img": "1692542970",
-    "list_definition_mean": [
-      {
-        "mean_english": "than đá",
-        "definition": "a black mineral burned for fuel, heat etc",
-        "ex_of_definition_list": [
-          "a lump of coal."
-        ]
-      }
+    "hash_code_list_img": "728735103",
+    "list_example": [
+      "a lump of coal."
     ],
-    "hash_code_list_definition_mean": "1095941422"
+    "hash_code_list_example": "-1811714750"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/coastal_cb_dmean_5000_it.json",
@@ -250,17 +166,17 @@
         "id_image": "coastal_1659987"
       }
     ],
-    "hash_code_list_img": "980458726",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc bờ biển",
-        "definition": "of or near the coast",
-        "ex_of_definition_list": [
-          "a coastal town."
-        ]
-      }
+    "hash_code_list_img": "43402544",
+    "list_example": [
+      "a coastal town.",
+      "Equally, once the students had arrived in the coastal areas there was no systematic machinery of oppression in place.",
+      "His idea of a delegation going to coastal areas for alleged purpose of attracting investment may well be an excuse for a sight-seeing trip.",
+      "This approach is sometimes known as coastal navigation.",
+      "At first, the paths were used by highlanders mining salt in the coastal saltpans.",
+      "Similarly, the development of export markets for mangrove crabs and coastal fish could lead to unsustainable catch levels and a consequent drop in marketable value.",
+      "Concerns about the impacts of coastal sewage discharges have led to the mapping of sewage plumes around outfalls from a number of research stations."
     ],
-    "hash_code_list_definition_mean": "1850322992"
+    "hash_code_list_example": "-1211277046"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/coaster_cb_dmean_5000_it.json",
@@ -279,24 +195,13 @@
         "id_image": "coaster_4223216"
       }
     ],
-    "hash_code_list_img": "1045373727",
-    "list_definition_mean": [
-      {
-        "mean_english": "tàu buôn dọc bờ biển",
-        "definition": "a vessel that sails along near the coast",
-        "ex_of_definition_list": [
-          "We watched a small coaster sailing downstream."
-        ]
-      },
-      {
-        "mean_english": "cái lót cốc",
-        "definition": "a small mat for putting under a drinking glass etc",
-        "ex_of_definition_list": [
-          "beer coasters."
-        ]
-      }
+    "hash_code_list_img": "1855590636",
+    "list_example": [
+      "We watched a small coaster sailing downstream.",
+      "Negotiation has also been likened to a roller-coaster reflecting the exhilaration yet tension of not being in full control as events follow one after another.",
+      "One and the same object can be simultaneously both coaster and ash-tray, because we are dealing here with accidental and compatible properties."
     ],
-    "hash_code_list_definition_mean": "955269746"
+    "hash_code_list_example": "-629630586"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/coat_cb_dmean_5000_it.json",
@@ -338,46 +243,12 @@
         "id_image": "coat_658844"
       }
     ],
-    "hash_code_list_img": "666078285",
-    "list_definition_mean": [
-      {
-        "mean_english": "áo choàng",
-        "definition": "an item of outdoor clothing, with sleeves, that covers from the shoulders usually to the knees",
-        "ex_of_definition_list": [
-          "a winter coat",
-          "a coat and hat."
-        ]
-      },
-      {
-        "mean_english": "áo vét",
-        "definition": "a jacket",
-        "ex_of_definition_list": [
-          "a man’s coat and trousers."
-        ]
-      },
-      {
-        "mean_english": "bộ lông thú",
-        "definition": "the hair or wool of an animal",
-        "ex_of_definition_list": [
-          "Some dogs have smooth coats."
-        ]
-      },
-      {
-        "mean_english": "lớp sơn",
-        "definition": "a covering (eg of paint)",
-        "ex_of_definition_list": [
-          "This wall will need two coats of paint."
-        ]
-      },
-      {
-        "mean_english": "phủ",
-        "definition": "to cover",
-        "ex_of_definition_list": [
-          "She coated the biscuits with chocolate."
-        ]
-      }
+    "hash_code_list_img": "646676392",
+    "list_example": [
+      "a coat and hat.",
+      "a man’s coat and trousers."
     ],
-    "hash_code_list_definition_mean": "-1006657934"
+    "hash_code_list_example": "-1615495557"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cobweb_cb_dmean_5000_it.json",
@@ -415,17 +286,18 @@
         "id_image": "cobweb_5331875"
       }
     ],
-    "hash_code_list_img": "869571057",
-    "list_definition_mean": [
-      {
-        "mean_english": "mạng nhện",
-        "definition": "a spider’s web",
-        "ex_of_definition_list": [
-          "You can’t have cleaned this room – there are cobwebs in the corner."
-        ]
-      }
+    "hash_code_list_img": "-106324162",
+    "list_example": [
+      "A key feature of the cobweb expectations feedback structure is that it is self-reversing in the following sense.",
+      "For example, the convergence of moving-average schemes is smooth without fluctuations, least-squares and cobweb expectations diverge away for the cobweb-unstable case.",
+      "The cobweb model has played an important role in economic dynamics, in particular with respect to the role of expectation formation.",
+      "The second section describes applications of the genetic algorithm to the cobweb model, which has a unique rational-expectations equilibrium.",
+      "It seems reasonable, however, to allow for some learning phase in the unknown, stationary cobweb environment.",
+      "In our cobweb experiments, subjects have to predict the next period's price of a certain unspecified good.",
+      "In the simulations, demand and supply curves are the same as in the strongly unstable treatment of our cobweb experiments.",
+      "In general, significant autocorrelations are rare, and in our cobweb experiments realized market prices exhibit (almost) no linear predictable structure."
     ],
-    "hash_code_list_definition_mean": "1586433975"
+    "hash_code_list_example": "1816042514"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cockpit_cb_dmean_5000_it.json",
@@ -443,17 +315,11 @@
         "id_image": "cockpit_4283023"
       }
     ],
-    "hash_code_list_img": "800026217",
-    "list_definition_mean": [
-      {
-        "mean_english": "khoang lái",
-        "definition": "a compartment in which the pilot of an aeroplane/airplane, driver of a racing car etc sits",
-        "ex_of_definition_list": [
-          "The pilot climbed into the cockpit."
-        ]
-      }
+    "hash_code_list_img": "1037983575",
+    "list_example": [
+      "The article analyzes transcriptions of pilots interacting in the cockpit on actual scheduled passenger flights."
     ],
-    "hash_code_list_definition_mean": "1279369622"
+    "hash_code_list_example": "1833967016"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cockroach_cb_dmean_5000_it.json",
@@ -481,17 +347,15 @@
         "id_image": "cockroach_406448"
       }
     ],
-    "hash_code_list_img": "1801740729",
-    "list_definition_mean": [
-      {
-        "mean_english": "con gián",
-        "definition": "a beetle-like insect which is a household pest",
-        "ex_of_definition_list": [
-          "an infestation of cockroaches."
-        ]
-      }
+    "hash_code_list_img": "-1001040665",
+    "list_example": [
+      "In one project an artificial cockroach has been built that models the original in great detail.",
+      "The aim being to create a cockroach perfume that could be sprayed onto the robot.",
+      "This allows it to infiltrate the cockroach community.",
+      "There was a cockroach and a fly at our house too.",
+      "The properties of such formulations of a number of pyrethroid insecticides used for cockroach control are currently under investigation."
     ],
-    "hash_code_list_definition_mean": "1135281784"
+    "hash_code_list_example": "-1194537551"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cocktail_cb_dmean_5000_it.json",
@@ -525,24 +389,16 @@
         "id_image": "cocktail_545093"
       }
     ],
-    "hash_code_list_img": "-1584351324",
-    "list_definition_mean": [
-      {
-        "mean_english": "cốc tai",
-        "definition": "an alcoholic drink mixed from various spirits etc",
-        "ex_of_definition_list": [
-          "A bloody Mary is a cocktail made from tomato juice, vodka, and Worcester sauce."
-        ]
-      },
-      {
-        "mean_english": "sự pha trộn hợp chất",
-        "definition": "a mixed dish of a number of things",
-        "ex_of_definition_list": [
-          "a fruit cocktail."
-        ]
-      }
+    "hash_code_list_img": "1414759771",
+    "list_example": [
+      "A bloody Mary is a cocktail made from tomato juice, vodka, and Worcester sauce.",
+      "Efficient three-drug cocktail for disease induced by mutant superoxide dismutase.",
+      "She required a cocktail of drugs to compensate, and doctors estimated her life expectancy in months.",
+      "We were unable to consistently obtain stable recordings from spontaneously active retinal neurons that displayed calcium transients in the presence of the cocktail of neurotransmitter antagonists.",
+      "The repertoire of pharmacologically active components in this cocktail is impressive as well as the number of targets they specifically affect.",
+      "A fairly obvious extension of the application to cocktail parties is to the elimination of crosstalk in communication networks."
     ],
-    "hash_code_list_definition_mean": "855573921"
+    "hash_code_list_example": "2038532137"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cock_cb_dmean_5000_it.json",
@@ -575,46 +431,13 @@
         "id_image": "cock_3638425"
       }
     ],
-    "hash_code_list_img": "-415246300",
-    "list_definition_mean": [
-      {
-        "mean_english": "gà trống",
-        "definition": "the male of birds, especially of the domestic fowl",
-        "ex_of_definition_list": [
-          "a cock and three hens",
-          "(also adjective) a cock sparrow."
-        ]
-      },
-      {
-        "mean_english": "cái van",
-        "definition": "a kind of tap for controlling the flow of liquid, gas etc",
-        "ex_of_definition_list": [
-          "Once the stop cock was opened, gas flowed into the empty container."
-        ]
-      },
-      {
-        "mean_english": "dựng đứng lên",
-        "definition": "to cause to stand upright or to lift",
-        "ex_of_definition_list": [
-          "The dog cocked its ears."
-        ]
-      },
-      {
-        "mean_english": "lên cò súng",
-        "definition": "to draw back the hammer of (a gun)",
-        "ex_of_definition_list": [
-          "He cocked his revolver and pointed it at Ted."
-        ]
-      },
-      {
-        "mean_english": "hếch lên",
-        "definition": "to tilt up or sideways (especially a hat)",
-        "ex_of_definition_list": [
-          "He cocked his hat on one side."
-        ]
-      }
+    "hash_code_list_img": "-1112328591",
+    "list_example": [
+      "a cock and three hens",
+      "(also adjective) a cock sparrow.",
+      "Once the stop cock was opened, gas flowed into the empty container."
     ],
-    "hash_code_list_definition_mean": "-938792427"
+    "hash_code_list_example": "169751244"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cocoa_cb_dmean_5000_it.json",
@@ -643,24 +466,17 @@
         "id_image": "cocoa_5236149"
       }
     ],
-    "hash_code_list_img": "35935066",
-    "list_definition_mean": [
-      {
-        "mean_english": "cacao",
-        "definition": "(a powder made from) the crushed seeds of the cacao tree, used in making chocolate",
-        "ex_of_definition_list": [
-          "For this recipe you need dark chocolate containing 85% chocolate."
-        ]
-      },
-      {
-        "mean_english": "nước cacao",
-        "definition": "a drink made from the powder",
-        "ex_of_definition_list": [
-          "a cup of cocoa."
-        ]
-      }
+    "hash_code_list_img": "981878943",
+    "list_example": [
+      "The activities that engaged the villagers' attention included keeping productive food-crop farms, organizing fishing expeditions, hunting, and cultivating cocoa farms.",
+      "All that is required is the clearing of forested land and the planting of cocoa trees.",
+      "Since older cocoa trees generated less and poorer quality cocoa, labour costs increased.",
+      "The cost of replanting cocoa trees is relatively high after several planting cycles.",
+      "At the current stage of cocoa breeding, selection for adaptation to planting density is a higher priority than selection for yield efficiency.",
+      "As rural households found their incomes from cocoa and coffee collapsing, many compensated for those losses by increasing food production.",
+      "Despite vigorous attempts by cocoa farmers to reduce the cost of production, their efforts were not nearly enough to stem the tide of decline."
     ],
-    "hash_code_list_definition_mean": "-747709667"
+    "hash_code_list_example": "503100294"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/coconut_cb_dmean_5000_it.json",
@@ -694,24 +510,18 @@
         "id_image": "coconut_4509320"
       }
     ],
-    "hash_code_list_img": "1489541119",
-    "list_definition_mean": [
-      {
-        "mean_english": "quả dừa",
-        "definition": "a large nut containing a white solid lining and a clear liquid",
-        "ex_of_definition_list": [
-          "a bunch of coconuts."
-        ]
-      },
-      {
-        "mean_english": "cùi dừa",
-        "definition": "its lining, used as food",
-        "ex_of_definition_list": [
-          "dessicated coconut."
-        ]
-      }
+    "hash_code_list_img": "1557520147",
+    "list_example": [
+      "Evolution of mineral elements of coconut husks left in the field.",
+      "With the bare soil practice, regular burning of windrowed coconut waste is a tricky operation.",
+      "The distribution of sucrose in the coconut plant showed a number of topological gradients.",
+      "Traps were baited with shredded coconut and/or fish emulsion.",
+      "The coconut palm is prone to several diseases and disorders that cause a substantial loss of crop.",
+      "Starting from soil covered with ferns and coconut residues.",
+      "In (4), the speaker does not have a particular referent in mind (any coconut would do), and the context is clearly [-specific].",
+      "Each plot comprised 36 coconut palms (six rows of six) of which 16 central palms were useful (four rows of four)."
     ],
-    "hash_code_list_definition_mean": "1662901335"
+    "hash_code_list_example": "-1574543349"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cocoon_cb_dmean_5000_it.json",
@@ -734,17 +544,11 @@
         "id_image": "cocoon_5517057"
       }
     ],
-    "hash_code_list_img": "-1875227994",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái kén",
-        "definition": "a silk covering spun by many insect larvae, and in which they live while turning into butterflies",
-        "ex_of_definition_list": [
-          "Butterflies typically emerge from the cocoon early in the morning."
-        ]
-      }
+    "hash_code_list_img": "1453262776",
+    "list_example": [
+      "Butterflies typically emerge from the cocoon early in the morning."
     ],
-    "hash_code_list_definition_mean": "1234059715"
+    "hash_code_list_example": "-1451162921"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/code_cb_dmean_5000_it.json",
@@ -775,40 +579,16 @@
         "id_image": "code_5322098"
       }
     ],
-    "hash_code_list_img": "-1703018169",
-    "list_definition_mean": [
-      {
-        "mean_english": "bộ luật",
-        "definition": "a collection of laws or rules",
-        "ex_of_definition_list": [
-          "a code of behaviour/behavior."
-        ]
-      },
-      {
-        "mean_english": "mật mã",
-        "definition": "a (secret) system of words, letters, or symbols",
-        "ex_of_definition_list": [
-          "the Morse Code",
-          "The message was in code",
-          "We have deciphered the enemy’s code."
-        ]
-      },
-      {
-        "mean_english": "mã",
-        "definition": "a system of symbols etc for translating one type of language into another",
-        "ex_of_definition_list": [
-          "There are a number of codes for putting English into a form usable by a computer."
-        ]
-      },
-      {
-        "mean_english": "mã hoá",
-        "definition": "to put into (secret, computer etc) code",
-        "ex_of_definition_list": [
-          "Have you coded the material for the computer?"
-        ]
-      }
+    "hash_code_list_img": "1013923695",
+    "list_example": [
+      "a code of behaviour/behavior.",
+      "We now present as follows an approach to representing code involving general pattern matching.",
+      "As standardized payment schedules based upon such codes are being developed, the precise definition of a \"typical\" patient for each code becomes increasingly important.",
+      "We code this variable as 1 in months of surplus coalition government and 0 for months of minimum winning coalition or caretaker government.",
+      "Another, potentially bigger benefit is that the inference can make program code robust against changes of types.",
+      "For example, although we control for case-mix differences in the regressions, differences in the propensity to code comorbidities might influence the volume-outcome relationship."
     ],
-    "hash_code_list_definition_mean": "895042600"
+    "hash_code_list_example": "1836181212"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cod_cb_dmean_5000_it.json",
@@ -836,17 +616,11 @@
         "id_image": "cod_6255740"
       }
     ],
-    "hash_code_list_img": "-1554751905",
-    "list_definition_mean": [
-      {
-        "mean_english": "cá tuyết",
-        "definition": "a type of edible fish found in northern seas",
-        "ex_of_definition_list": [
-          "a pan-roasted fillet of cod."
-        ]
-      }
+    "hash_code_list_img": "-740204051",
+    "list_example": [
+      "a pan-roasted fillet of cod."
     ],
-    "hash_code_list_definition_mean": "1268743931"
+    "hash_code_list_example": "1927006523"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/coffee_cb_dmean_5000_it.json",
@@ -885,24 +659,17 @@
         "id_image": "coffee_703029"
       }
     ],
-    "hash_code_list_img": "-1014223825",
-    "list_definition_mean": [
-      {
-        "mean_english": "cà phê",
-        "definition": "(a drink made from) the ground beans of a shrub grown in eg Brazil",
-        "ex_of_definition_list": [
-          "a cup of coffee."
-        ]
-      },
-      {
-        "mean_english": "màu nâu nhạt",
-        "definition": "the colour of the drink when mixed with milk",
-        "ex_of_definition_list": [
-          "a coffee-coloured/-colored dress."
-        ]
-      }
+    "hash_code_list_img": "2056153379",
+    "list_example": [
+      "By labeling coffee, consumers can now distinguish production methods used for coffee growing, and they can also evaluate its taste relative to the non-labeled coffee.",
+      "Reference to a 'liberation fund' highlights the (relatively) privileged position of the coffee workers on the city's waterfront.",
+      "The discussion is presented in the context of product designs, and in particular, coffee maker grammars.",
+      "Many responded by planting fewer new cocoa and coffee fields and concentrating more on food crops.",
+      "After the pulping the coffee beans are washed and the remaining pulp is usually composted.",
+      "With all herbicides banned, manual weeding is usually a considerable cost factor in organic coffee production.",
+      "The project also entails helping local people near the camps to plant perennials such as coffee trees and oil palms."
     ],
-    "hash_code_list_definition_mean": "1401954258"
+    "hash_code_list_example": "-723234916"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/coffin_cb_dmean_5000_it.json",
@@ -940,17 +707,14 @@
         "id_image": "coffin_3768614"
       }
     ],
-    "hash_code_list_img": "-2133200322",
-    "list_definition_mean": [
-      {
-        "mean_english": "quan tài",
-        "definition": "a box for a dead body to be buried or cremated in; casket American",
-        "ex_of_definition_list": [
-          "The coffin was placed in the grave."
-        ]
-      }
+    "hash_code_list_img": "1401286312",
+    "list_example": [
+      "The coffin was placed in the grave.",
+      "So let us have some symbolism today as well, with another coffin in the plenary.",
+      "It is likely that a single parish coffin was used to transport bodies, with the pauper simply dropped out of the end into the grave.",
+      "Then we went out under the roof outside and onto the lawns, and the coffin was still inside the crematorium."
     ],
-    "hash_code_list_definition_mean": "693211990"
+    "hash_code_list_example": "1608257089"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cognac_cb_dmean_5000_it.json",
@@ -988,17 +752,14 @@
         "id_image": "cognac_6305903"
       }
     ],
-    "hash_code_list_img": "-860244955",
-    "list_definition_mean": [
-      {
-        "mean_english": "rượu cô nhắc",
-        "definition": "a kind of high-quality French brandy",
-        "ex_of_definition_list": [
-          "a glass/bottle of brandy."
-        ]
-      }
+    "hash_code_list_img": "1812287137",
+    "list_example": [
+      "Would we have said: for the sake of consumer information, it is also possible to introduce onto the market cognac made from potatoes or whiskey made from grapes?",
+      "They come in the following finishes: cognac burst, black, and natural.",
+      "In conclusion, we are giving the industry the kind of protection that other products such as port and cognac already have.",
+      "On the top floor is the champagne bar and cognac bar, which have a terrace between them."
     ],
-    "hash_code_list_definition_mean": "980707817"
+    "hash_code_list_example": "-1679266465"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cognitive_cb_dmean_5000_it.json",
@@ -1036,18 +797,20 @@
         "id_image": "cognitive_4525458"
       }
     ],
-    "hash_code_list_img": "316465820",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhận thức",
-        "definition": "connected with the mental processes of recognizing and understanding things",
-        "ex_of_definition_list": [
-          "cognitive psychology",
-          "cognitive skills."
-        ]
-      }
+    "hash_code_list_img": "1681813404",
+    "list_example": [
+      "cognitive psychology",
+      "cognitive skills.",
+      "However, cognitive recovery may not be complete even when depressive symptoms resolve.",
+      "The changing nature of the cognitive representation of words as reading acquisition took place was discussed.",
+      "Rather than either pictorial or symbolic, it might better serve cognitive science to recast this debate into a problem in both pictorial and symbolic terms.",
+      "A cognitive modeling approach to teaching critique to nonnative speakers.",
+      "He is a cognitive neuroscientist studying the roles of sleep and dreaming in off-line memory reprocessing, including off-line memory consolidation, transfer, integration, and erasure.",
+      "Unfortunately, many cognitive scientists have opted for a preferred cognitive paradigm while ignoring or misinterpreting critical technical issues.",
+      "As is too common among cognitive scientists, they equate mental representations with representations of external physical objects.",
+      "Their theoretical model outlines a causal link between various cognitive and social processes and the resulting behaviour."
     ],
-    "hash_code_list_definition_mean": "1010480785"
+    "hash_code_list_example": "41499528"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cog_cb_dmean_5000_it.json",
@@ -1075,17 +838,13 @@
         "id_image": "cog_4752618"
       }
     ],
-    "hash_code_list_img": "1028654873",
-    "list_definition_mean": [
-      {
-        "mean_english": "răng bánh xe",
-        "definition": "one of a series of teeth around the edge of a wheel which fits into one of a similar series in a similar wheel (or into a chain as in a bicycle) causing motion",
-        "ex_of_definition_list": [
-          "The cogs in the gear-wheels of a car get worn down."
-        ]
-      }
+    "hash_code_list_img": "1333381133",
+    "list_example": [
+      "The unsolved problem here is to explain exceptions such as cog (always with the lax vowel) and dog (always with the tense vowel).",
+      "That the capacity exists is enough to suggest that the error theory of morality is an unnecessary cog in evolutionary human psychology.",
+      "Pieter comes across as simply one more cog in the relentlessly grinding colonial machine."
     ],
-    "hash_code_list_definition_mean": "282375570"
+    "hash_code_list_example": "-629477861"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/coil_cb_dmean_5000_it.json",
@@ -1124,32 +883,18 @@
         "id_image": "coil_5387159"
       }
     ],
-    "hash_code_list_img": "1355748167",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuộn",
-        "definition": "to wind into loops",
-        "ex_of_definition_list": [
-          "The snake coiled (itself) round the tree."
-        ]
-      },
-      {
-        "mean_english": "cuộn",
-        "definition": "a length of something wound into a loop or loops",
-        "ex_of_definition_list": [
-          "a coil of rope",
-          "a coil of hair."
-        ]
-      },
-      {
-        "mean_english": "cuộn dây",
-        "definition": "a wound length of wire for conducting electricity",
-        "ex_of_definition_list": [
-          "the coil in an electric fire."
-        ]
-      }
+    "hash_code_list_img": "-640985924",
+    "list_example": [
+      "a coil of rope",
+      "a coil of hair.",
+      "the coil in an electric fire.",
+      "The output of this coil is amplified using a differential amplifier and a scaling amplifier.",
+      "These consisted of loose bundles of fine human hair contained within an open coil of thin aluminium wire about 1 inch long.",
+      "Combining the internal plasma current and external coil currents, we generate twisted magnetic field lines in the plasma.",
+      "The search coil was placed at 10 locations around the coil.",
+      "This reactor has magnetic coil which has similarity to mirror machine of magnetic confinement fusion."
     ],
-    "hash_code_list_definition_mean": "949003955"
+    "hash_code_list_example": "-1873954965"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/coin_cb_dmean_5000_it.json",
@@ -1184,31 +929,11 @@
         "id_image": "coin_868212"
       }
     ],
-    "hash_code_list_img": "1957434466",
-    "list_definition_mean": [
-      {
-        "mean_english": "đồng xu",
-        "definition": "a piece of metal used as money",
-        "ex_of_definition_list": [
-          "a handful of coins."
-        ]
-      },
-      {
-        "mean_english": "đúc tiền",
-        "definition": "to make metal into (money)",
-        "ex_of_definition_list": [
-          "The recently-formed country soon started to coin its own money."
-        ]
-      },
-      {
-        "mean_english": "tạo ra",
-        "definition": "to invent (a word, phrase etc)",
-        "ex_of_definition_list": [
-          "Scientists coined a word for the new process."
-        ]
-      }
+    "hash_code_list_img": "89400291",
+    "list_example": [
+      "The recently-formed country soon started to coin its own money."
     ],
-    "hash_code_list_definition_mean": "259699956"
+    "hash_code_list_example": "-1228983332"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/coke_cb_dmean_5000_it.json",
@@ -1241,17 +966,11 @@
         "id_image": "coke_3917905"
       }
     ],
-    "hash_code_list_img": "628459818",
-    "list_definition_mean": [
-      {
-        "mean_english": "than cốc",
-        "definition": "a type of fuel obtained from coal",
-        "ex_of_definition_list": [
-          "The iron was produced in a blast furnace fuelled/fueled by coke."
-        ]
-      }
+    "hash_code_list_img": "-349414143",
+    "list_example": [
+      "The iron was produced in a blast furnace fuelled/fueled by coke."
     ],
-    "hash_code_list_definition_mean": "1324878122"
+    "hash_code_list_example": "-324261439"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/colander_cb_dmean_5000_it.json",
@@ -1279,17 +998,11 @@
         "id_image": "colander_883692"
       }
     ],
-    "hash_code_list_img": "1139779425",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái chao",
-        "definition": "a bowl with small holes in it for draining water off vegetables etc",
-        "ex_of_definition_list": [
-          "Drain the pasta in a colander."
-        ]
-      }
+    "hash_code_list_img": "1790951084",
+    "list_example": [
+      "A modern establishment is not like a sieve, but more like a colander from which information pours, especially if it is secret or sensitive."
     ],
-    "hash_code_list_definition_mean": "1710201385"
+    "hash_code_list_example": "1033224869"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cold_cb_dmean_5000_it.json",
@@ -1331,49 +1044,20 @@
         "id_image": "cold_645709"
       }
     ],
-    "hash_code_list_img": "476123628",
-    "list_definition_mean": [
-      {
-        "mean_english": "lạnh; nguội",
-        "definition": "low in temperature",
-        "ex_of_definition_list": [
-          "cold water",
-          "cold meat and salad."
-        ]
-      },
-      {
-        "mean_english": "lạnh",
-        "definition": "lower in temperature than is comfortable",
-        "ex_of_definition_list": [
-          "I feel cold."
-        ]
-      },
-      {
-        "mean_english": "lạnh lùng",
-        "definition": "unfriendly",
-        "ex_of_definition_list": [
-          "His manner was cold."
-        ]
-      },
-      {
-        "mean_english": "sự lạnh",
-        "definition": "the state of being cold or of feeling the coldness of one’s surroundings",
-        "ex_of_definition_list": [
-          "She has gone to live in the South of France because she cannot bear the cold in Britain",
-          "He was blue with cold."
-        ]
-      },
-      {
-        "mean_english": "cảm lạnh",
-        "definition": "an illness with running nose, coughing etc",
-        "ex_of_definition_list": [
-          "He has a bad cold",
-          "She has caught a cold",
-          "You might catch cold."
-        ]
-      }
+    "hash_code_list_img": "-382681703",
+    "list_example": [
+      "cold water",
+      "cold meat and salad.",
+      "She has gone to live in the South of France because she cannot bear the cold in Britain",
+      "The remaining parasites were washed 3 times with 12 ml of a cold solution of unlabelled arginine (260 /ig/ml) by centrifugation (1400 g.min).",
+      "Results are also given in bold for cold targets with the same mass thickness as the two plasma targets.",
+      "All cold food requiring handpreparation was excluded from the menu.",
+      "A visual cold tolerance score was always related to better winter survival.",
+      "The screening length is now given by this quantity as compared to the cold atom where it is about the atomic dimension.",
+      "Taking into account the absence of counteracting pressure in the corona plasma, it is possible to expect it pinching onto the cold core plasma.",
+      "Food handlers who acquire a cold and sneeze or cough should be excluded from food handling or should wear a protecting mask."
     ],
-    "hash_code_list_definition_mean": "2117439169"
+    "hash_code_list_example": "304448977"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/coliseum_cb_dmean_5000_it.json",
@@ -1411,17 +1095,11 @@
         "id_image": "coliseum_804329"
       }
     ],
-    "hash_code_list_img": "993178645",
-    "list_definition_mean": [
-      {
-        "mean_english": "khán phòng",
-        "definition": "a large theatre/theater, cinema, stadium or other building for sports events, public meetings etc",
-        "ex_of_definition_list": [
-          "the famous Colosseum in Rome."
-        ]
-      }
+    "hash_code_list_img": "660888883",
+    "list_example": [
+      "the famous Colosseum in Rome."
     ],
-    "hash_code_list_definition_mean": "1934424224"
+    "hash_code_list_example": "1462134789"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/collaborate_cb_dmean_5000_it.json",
@@ -1460,24 +1138,12 @@
         "id_image": "collaboration_5541899"
       }
     ],
-    "hash_code_list_img": "1346609419",
-    "list_definition_mean": [
-      {
-        "mean_english": "cộng tác",
-        "definition": "to work together (with someone) on a piece of work",
-        "ex_of_definition_list": [
-          "He and his brother collaborated on a book about aeroplanes/airplanes."
-        ]
-      },
-      {
-        "mean_english": "cộng tác với địch",
-        "definition": "to work along (with someone) to betray secrets etc",
-        "ex_of_definition_list": [
-          "He was known to have collaborated with the enemy."
-        ]
-      }
+    "hash_code_list_img": "-174818822",
+    "list_example": [
+      "He and his brother collaborated on a book about aeroplanes/airplanes.",
+      "He was known to have collaborated with the enemy."
     ],
-    "hash_code_list_definition_mean": "46958033"
+    "hash_code_list_example": "-1310031610"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/collage_cb_dmean_5000_it.json",
@@ -1495,17 +1161,15 @@
         "id_image": "collage_2400606"
       }
     ],
-    "hash_code_list_img": "2069017001",
-    "list_definition_mean": [
-      {
-        "mean_english": "nghệ thuật cắt dán",
-        "definition": "a design made by pasting pieces of paper, cloth, photographs etc on to a surface",
-        "ex_of_definition_list": [
-          "The collage is displayed in the school entrance hall."
-        ]
-      }
+    "hash_code_list_img": "465134696",
+    "list_example": [
+      "The collage is displayed in the school entrance hall.",
+      "The speakers stand against the curved wall in our midst, and each audience member hears a different collage of whispers and chants.",
+      "Woven into the structure of the music, these echoes form a collage of connotations from which meaning can be inferred.",
+      "The resulting collage of micro-events makes visible the invisible working method used by the composer.",
+      "The plane in the collage could be a toy plane, so close is it to the toy cars."
     ],
-    "hash_code_list_definition_mean": "2087313920"
+    "hash_code_list_example": "1799017116"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/collar_cb_dmean_5000_it.json",
@@ -1545,31 +1209,11 @@
         "id_image": "collar_877111"
       }
     ],
-    "hash_code_list_img": "-691398866",
-    "list_definition_mean": [
-      {
-        "mean_english": "cổ áo",
-        "definition": "the part of a garment at the neck especially of a shirt, jacket etc",
-        "ex_of_definition_list": [
-          "This collar is too tight."
-        ]
-      },
-      {
-        "mean_english": "vòng cổ",
-        "definition": "something worn round the neck",
-        "ex_of_definition_list": [
-          "The dog’s name was on its collar."
-        ]
-      },
-      {
-        "mean_english": "tóm cổ",
-        "definition": "to seize, get hold of",
-        "ex_of_definition_list": [
-          "He collared the speaker as he left the room."
-        ]
-      }
+    "hash_code_list_img": "2081175862",
+    "list_example": [
+      "This collar is too tight."
     ],
-    "hash_code_list_definition_mean": "-777911751"
+    "hash_code_list_example": "-255042224"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/collateral_cb_dmean_5000_it.json",
@@ -1593,25 +1237,19 @@
         "id_image": "collateral_5571336"
       }
     ],
-    "hash_code_list_img": "1944444141",
-    "list_definition_mean": [
-      {
-        "mean_english": "tài sản thế chấp",
-        "definition": "property or other goods that you promise to give someone if you are unable to pay back a loan",
-        "ex_of_definition_list": [
-          "Talk to an attorney, financial advisor, or someone else you trust before you make any decisions about borrowing money using your home as collateral."
-        ]
-      },
-      {
-        "mean_english": "phụ thêm",
-        "definition": "accompanying, additional, or supporting",
-        "ex_of_definition_list": [
-          "collateral benefits",
-          "collateral evidence."
-        ]
-      }
+    "hash_code_list_img": "-1445866660",
+    "list_example": [
+      "collateral benefits",
+      "collateral evidence.",
+      "In the absence of dual vessels, it would then seem reasonable to cede bronchial status to the collateral vessels.",
+      "In other instances, segments of lung can receive supply both from non-communicating collateral arteries and from intrapericardial pulmonary arteries.",
+      "There were two small major aortopulmonary collateral arteries providing dual supply to various individual segments.",
+      "This schedule allows enough time for the patient to accommodate to this physiology, and yet obviate the ingrowth of aortopulmonary collateral arteries.",
+      "The sources of these extracardiac collateral vessels were the bronchial and internal mammary arteries.",
+      "There were three collateral arteries supplying the right lung.",
+      "This is far from the case in the presence of systemic-topulmonary collateral arteries."
     ],
-    "hash_code_list_definition_mean": "-1090229759"
+    "hash_code_list_example": "1303683433"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/collection_cb_dmean_5000_it.json",
@@ -1650,24 +1288,11 @@
         "id_image": "collection_5526145"
       }
     ],
-    "hash_code_list_img": "-654259487",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự thu gom",
-        "definition": "(an) act of collecting",
-        "ex_of_definition_list": [
-          "Your letter won’t get to London tomorrow – you’ve missed the last collection (= of mail from a postbox) for today."
-        ]
-      },
-      {
-        "mean_english": "bộ sưu tầm",
-        "definition": "a set of objects etc collected",
-        "ex_of_definition_list": [
-          "a stamp collection."
-        ]
-      }
+    "hash_code_list_img": "1153881096",
+    "list_example": [
+      "Your letter won’t get to London tomorrow – you’ve missed the last collection (= of mail from a postbox) for today."
     ],
-    "hash_code_list_definition_mean": "-1184813731"
+    "hash_code_list_example": "621264167"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/collective_cb_dmean_5000_it.json",
@@ -1685,31 +1310,12 @@
         "id_image": "collective_1402120"
       }
     ],
-    "hash_code_list_img": "247009350",
-    "list_definition_mean": [
-      {
-        "mean_english": "tập thể",
-        "definition": "of a number of people etc combined into one group",
-        "ex_of_definition_list": [
-          "This success was the result of a collective effort."
-        ]
-      },
-      {
-        "mean_english": "tập thể",
-        "definition": "of a noun, taking a singular verb but standing for many things taken as a whole",
-        "ex_of_definition_list": [
-          "‘Cattle’ is a collective noun."
-        ]
-      },
-      {
-        "mean_english": "tập thể",
-        "definition": "a farm or organization run by a group of workers for the good of all of them",
-        "ex_of_definition_list": [
-          "The peasant farmers worked on collectives."
-        ]
-      }
+    "hash_code_list_img": "2084324698",
+    "list_example": [
+      "This success was the result of a collective effort.",
+      "‘Cattle’ is a collective noun."
     ],
-    "hash_code_list_definition_mean": "3417553"
+    "hash_code_list_example": "107918376"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/collector_cb_dmean_5000_it.json",
@@ -1727,17 +1333,19 @@
         "id_image": "collector_6295456"
       }
     ],
-    "hash_code_list_img": "1396895460",
-    "list_definition_mean": [
-      {
-        "mean_english": "người sưu tầm",
-        "definition": "a person who collects, as a job or as a hobby",
-        "ex_of_definition_list": [
-          "a coin/stamp collector."
-        ]
-      }
+    "hash_code_list_img": "460922345",
+    "list_example": [
+      "a coin/stamp collector.",
+      "I am sure that this book with be popular with collectors and the general public.",
+      "Still, solute concentrations obtained by zero-tension litter percolate collectors and suction cups are not totally comparable.",
+      "Metal collectors pride themselves with such items, it lends status within the scene and amongst other collectors.",
+      "Here theatregoing as an urban privilege sits comfortably with an extended and informal collectors' mailing circle.",
+      "There was much money for the collectors of the land tax.",
+      "The collectors must decide what to collect and how to display it.",
+      "There have been problems over ownership of certain dinosaur specimens and collectors may be perceived as agents of erosion on a small island.",
+      "Isokinetic dust probing and absolute particle sizing with copperoxide whisker collectors."
     ],
-    "hash_code_list_definition_mean": "1167929093"
+    "hash_code_list_example": "-2127560459"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/collect_cb_dmean_5000_it.json",
@@ -1771,27 +1379,12 @@
         "id_image": "collect_1151219"
       }
     ],
-    "hash_code_list_img": "1886794164",
-    "list_definition_mean": [
-      {
-        "mean_english": "tụ tập; sưu tập",
-        "definition": "to bring or come together; to gather",
-        "ex_of_definition_list": [
-          "People are collecting in front of the house",
-          "I collect stamps",
-          "I’m collecting (money) for cancer research",
-          "He’s trying to collect his thoughts."
-        ]
-      },
-      {
-        "mean_english": "đón",
-        "definition": "to call for and take away",
-        "ex_of_definition_list": [
-          "She collects the children from school each day."
-        ]
-      }
+    "hash_code_list_img": "534728052",
+    "list_example": [
+      "I collect stamps",
+      "He’s trying to collect his thoughts."
     ],
-    "hash_code_list_definition_mean": "-507165394"
+    "hash_code_list_example": "867763039"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/college_cb_dmean_5000_it.json",
@@ -1809,17 +1402,19 @@
         "id_image": "college_5352118"
       }
     ],
-    "hash_code_list_img": "992850856",
-    "list_definition_mean": [
-      {
-        "mean_english": "trường cao đẳng",
-        "definition": "(any or all of the buildings housing) a higher-education institution",
-        "ex_of_definition_list": [
-          "He studies at agricultural college."
-        ]
-      }
+    "hash_code_list_img": "318372021",
+    "list_example": [
+      "He studies at agricultural college.",
+      "Girls have been allowed into schools for only a little over a century, and admitted to colleges and universities for only 75 years.",
+      "Most of those who tolerate or even advocate multiculturalism in our schools and colleges have educational, not ideological, intentions.",
+      "There were also dinners with several other masters of colleges.",
+      "The training colleges no longer worked in isolation and two colleges had been created specifically to allow specialisation in music.",
+      "The same was true of institutes and colleges of higher education.",
+      "The medical colleges and hospitals were rigidly controlled by the funding agency (state government or municipal corporation), which had the final say in all matters.",
+      "The other has taught in liberal arts colleges and worked in a variety of nonprofit healthcare delivery organizations.",
+      "The approach outlined here, although innovative, is not unique; similar schemes are in operation in a number of universities and colleges."
     ],
-    "hash_code_list_definition_mean": "369270350"
+    "hash_code_list_example": "-1956517289"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/collision_cb_dmean_5000_it.json",
@@ -1852,17 +1447,11 @@
         "id_image": "collision_4351713"
       }
     ],
-    "hash_code_list_img": "-1710586829",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự va chạm",
-        "definition": "a crash; a violent striking together (of eg two vehicles)",
-        "ex_of_definition_list": [
-          "Ten people were injured in the collision between the bus and the car."
-        ]
-      }
+    "hash_code_list_img": "-1297271241",
+    "list_example": [
+      "Ten people were injured in the collision between the bus and the car."
     ],
-    "hash_code_list_definition_mean": "1173438811"
+    "hash_code_list_example": "-1351981696"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/colonnade_cb_dmean_5000_it.json",
@@ -1880,17 +1469,16 @@
         "id_image": "colonnade_4440048"
       }
     ],
-    "hash_code_list_img": "201168922",
-    "list_definition_mean": [
-      {
-        "mean_english": "dãy cột",
-        "definition": "a row of pillars",
-        "ex_of_definition_list": [
-          "The court is enclosed on the eastern side by a colonnade."
-        ]
-      }
+    "hash_code_list_img": "1863075347",
+    "list_example": [
+      "It will be possible to do it with great economy, since the damaged colonnade has got to be rebuilt and it merely means putting a new room on the top.",
+      "The repeating gables - alternately solid and glazed and entrance colonnade provide the scheme with a formal presence to the lane which belies its miniature scale.",
+      "First, the circular geometry encourages you to pause and admire the view of the chapel and the colonnade leading to it.",
+      "The row of lines in the middle diagram is recognized as a colonnade object.",
+      "The memorial takes the form of a circular colonnade surrounding a sunken court.",
+      "The part nearest to the colonnade would be a problem if the central area were to follow the contour of the yard."
     ],
-    "hash_code_list_definition_mean": "121486916"
+    "hash_code_list_example": "-767015120"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/colony_cb_dmean_5000_it.json",
@@ -1910,31 +1498,12 @@
         "id_image": "colony_749499"
       }
     ],
-    "hash_code_list_img": "1941851388",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc địa",
-        "definition": "(a group of people who form) a settlement in one country etc which is under the rule of another country",
-        "ex_of_definition_list": [
-          "France used to have many colonies in Africa."
-        ]
-      },
-      {
-        "mean_english": "nhóm người cùng nghề",
-        "definition": "a group of people having the same interests, living close together",
-        "ex_of_definition_list": [
-          "a colony of artists."
-        ]
-      },
-      {
-        "mean_english": "đàn",
-        "definition": "a collection of animals, birds etc, of one type, living together",
-        "ex_of_definition_list": [
-          "a colony of gulls."
-        ]
-      }
+    "hash_code_list_img": "1163336987",
+    "list_example": [
+      "a colony of artists.",
+      "a colony of gulls."
     ],
-    "hash_code_list_definition_mean": "-1052870779"
+    "hash_code_list_example": "-2048260440"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/colon_cb_dmean_5000_it.json",
@@ -1963,17 +1532,11 @@
         "id_image": "colon_286488"
       }
     ],
-    "hash_code_list_img": "1574939008",
-    "list_definition_mean": [
-      {
-        "mean_english": "ruột kết",
-        "definition": "a part of the large intestine",
-        "ex_of_definition_list": [
-          "cancer of the colon"
-        ]
-      }
+    "hash_code_list_img": "1125482029",
+    "list_example": [
+      "cancer of the colon"
     ],
-    "hash_code_list_definition_mean": "1964410569"
+    "hash_code_list_example": "1898868134"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/colour_cb_dmean_5000_it.json",
@@ -2016,54 +1579,18 @@
         "id_image": "colour_6301241"
       }
     ],
-    "hash_code_list_img": "305091842",
-    "list_definition_mean": [
-      {
-        "mean_english": "màu sắc",
-        "definition": "a quality which objects have, and which can be seen, only when light falls on them",
-        "ex_of_definition_list": [
-          "What colour/color is her dress?",
-          "Red, blue and yellow are colours/colors."
-        ]
-      },
-      {
-        "mean_english": "thuốc màu",
-        "definition": "paint(s)",
-        "ex_of_definition_list": [
-          "That artist uses watercolours/watercolors."
-        ]
-      },
-      {
-        "mean_english": "màu da",
-        "definition": "(a) skin-colour/-color varying with race",
-        "ex_of_definition_list": [
-          "people of all colours/colors."
-        ]
-      },
-      {
-        "mean_english": "nhiều màu sắc",
-        "definition": "vividness; interest",
-        "ex_of_definition_list": [
-          "There’s plenty of colour/color in his stories."
-        ]
-      },
-      {
-        "mean_english": "có màu",
-        "definition": "(of photographs etc) in colour/color, not black and white",
-        "ex_of_definition_list": [
-          "colour/color film",
-          "colour/color television."
-        ]
-      },
-      {
-        "mean_english": "tô màu",
-        "definition": "to put colour/color on; to paint",
-        "ex_of_definition_list": [
-          "They coloured/colored the walls yellow."
-        ]
-      }
+    "hash_code_list_img": "551816712",
+    "list_example": [
+      "What colour/color is her dress?",
+      "Red, blue and yellow are colours/colors.",
+      "That artist uses watercolours/watercolors.",
+      "people of all colours/colors.",
+      "There’s plenty of colour/color in his stories.",
+      "colour/color film",
+      "colour/color television.",
+      "They coloured/colored the walls yellow."
     ],
-    "hash_code_list_definition_mean": "616496574"
+    "hash_code_list_example": "-2081952630"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/columnist_cb_dmean_5000_it.json",
@@ -2081,17 +1608,19 @@
         "id_image": "columnist_6315945"
       }
     ],
-    "hash_code_list_img": "1227659441",
-    "list_definition_mean": [
-      {
-        "mean_english": "người chuyên giữ một mục báo",
-        "definition": "a person who writes regular articles for a newspaper",
-        "ex_of_definition_list": [
-          "a sports columnist."
-        ]
-      }
+    "hash_code_list_img": "920033226",
+    "list_example": [
+      "a sports columnist.",
+      "It is not my business to instruct columnists as to the merits of accuracy.",
+      "Some widely syndicated columnists get my particular attention.",
+      "There are often close personal ties between politicians and columnists, ties which sometimes bring financial and other benefits to the columnists concerned.",
+      "If he was ever stopped, the fact that he did not have an identity card would immediately reveal him as a fifth columnist.",
+      "Many of the leading papers employ columnists who specialize in sociological commentary.",
+      "I would also hate to leave out the nation's humor columnists.",
+      "Newspapers may be more likely to promote their columnists, since these voices distinguish these outlets from others news sources.",
+      "Why is it that sabbaticals are fashionable only in the newspaper industry, for newspaper columnists to refresh themselves every 10 years or so?"
     ],
-    "hash_code_list_definition_mean": "705126031"
+    "hash_code_list_example": "-1982714150"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/column_cb_dmean_5000_it.json",
@@ -2130,59 +1659,15 @@
         "id_image": "column_708875"
       }
     ],
-    "hash_code_list_img": "639318687",
-    "list_definition_mean": [
-      {
-        "mean_english": "cột",
-        "definition": "a stone or wooden pillar used to support or adorn a building",
-        "ex_of_definition_list": [
-          "the carved columns in the temple."
-        ]
-      },
-      {
-        "mean_english": "hình cột",
-        "definition": "something similar in shape",
-        "ex_of_definition_list": [
-          "a column of smoke."
-        ]
-      },
-      {
-        "mean_english": "cột số",
-        "definition": "a vertical row (of numbers)",
-        "ex_of_definition_list": [
-          "He added up the column (of figures) to find the answer."
-        ]
-      },
-      {
-        "mean_english": "cột báo",
-        "definition": "a vertical section of a page of print",
-        "ex_of_definition_list": [
-          "a newspaper column."
-        ]
-      },
-      {
-        "mean_english": "mục",
-        "definition": "a section in a newspaper, often written regularly by a particular person",
-        "ex_of_definition_list": [
-          "He writes a daily column about sport."
-        ]
-      },
-      {
-        "mean_english": "đội hình hàng dọc",
-        "definition": "a long file of soldiers marching in short rows",
-        "ex_of_definition_list": [
-          "a column of infantry."
-        ]
-      },
-      {
-        "mean_english": "dãy xe dài nối tiếp nhau",
-        "definition": "a long line of vehicles etc, one behind the other",
-        "ex_of_definition_list": [
-          "A column of army trucks slowly made its way along the road."
-        ]
-      }
+    "hash_code_list_img": "-682840894",
+    "list_example": [
+      "a column of smoke.",
+      "He added up the column (of figures) to find the answer.",
+      "He writes a daily column about sport.",
+      "a column of infantry.",
+      "A column of army trucks slowly made its way along the road."
     ],
-    "hash_code_list_definition_mean": "-159730398"
+    "hash_code_list_example": "-879691519"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/combat_cb_dmean_5000_it.json",
@@ -2201,24 +1686,11 @@
         "id_image": "combat_1119868"
       }
     ],
-    "hash_code_list_img": "2032752977",
-    "list_definition_mean": [
-      {
-        "mean_english": "trận đánh",
-        "definition": "(an act of) fighting",
-        "ex_of_definition_list": [
-          "The two knights met each other in single combat."
-        ]
-      },
-      {
-        "mean_english": "chống lại",
-        "definition": "to fight against; to oppose",
-        "ex_of_definition_list": [
-          "The residents of the town tried to combat the government’s plans to build a motorway."
-        ]
-      }
+    "hash_code_list_img": "1783738011",
+    "list_example": [
+      "The residents of the town tried to combat the government’s plans to build a motorway."
     ],
-    "hash_code_list_definition_mean": "-1233241219"
+    "hash_code_list_example": "260795098"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/combination_cb_dmean_5000_it.json",
@@ -2242,25 +1714,15 @@
         "id_image": "combination_5052338"
       }
     ],
-    "hash_code_list_img": "705921315",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự kết hợp",
-        "definition": "(the result of) combining or being combined",
-        "ex_of_definition_list": [
-          "The town was a combination of old and new architecture."
-        ]
-      },
-      {
-        "mean_english": "dãy mã số mở ổ khoá",
-        "definition": "a set of numbers used to open certain types of lock",
-        "ex_of_definition_list": [
-          "He couldn’t open the safe as he had forgotten the combination",
-          "(also adjective) a combination lock."
-        ]
-      }
+    "hash_code_list_img": "-2059975559",
+    "list_example": [
+      "The town was a combination of old and new architecture.",
+      "(also adjective) a combination lock.",
+      "The generalizations are advanced on the basis of statistical data from the population census of 1897 in combination with other quantitative and qualitative sources.",
+      "Moreover, to ignore this combination of linguistic and sociocultural factors would degrade psychological research.",
+      "It is a problem that most electroacoustic educators seek to address in combination with the provision of extensive practical composition skills."
     ],
-    "hash_code_list_definition_mean": "-538165658"
+    "hash_code_list_example": "2111575675"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/combine_cb_dmean_5000_it.json",
@@ -2289,25 +1751,19 @@
         "id_image": "combine_5379833"
       }
     ],
-    "hash_code_list_img": "-2109595321",
-    "list_definition_mean": [
-      {
-        "mean_english": "kết hợp",
-        "definition": "to join together in one whole; to unite",
-        "ex_of_definition_list": [
-          "They combined (forces) to fight the enemy",
-          "The chemist combined calcium and carbon."
-        ]
-      },
-      {
-        "mean_english": "một hiệp hội các công ty thương mại",
-        "definition": "an association of trading companies",
-        "ex_of_definition_list": [
-          "a large manufacturing combine."
-        ]
-      }
+    "hash_code_list_img": "-1619390463",
+    "list_example": [
+      "They combined (forces) to fight the enemy",
+      "The chemist combined calcium and carbon.",
+      "a large manufacturing combine.",
+      "As a result, the data sets of the two studies were combined and analysed jointly.",
+      "Binary classifiers are combined into multiclass classifiers using a voting scheme.",
+      "Even these lifestyle options can be combined in various ways by an individual.",
+      "To further explore this question we combined sequences of all 11 proteins with a full representation of eubacterial taxa (11 species).",
+      "When homonymy is combined with contrast, it results in a \"one form/one meaning\" view of language.",
+      "We discuss the structure of the grammar, and a model for robust parsing which combines linguistic sources of information and statistical sources of information."
     ],
-    "hash_code_list_definition_mean": "1349314780"
+    "hash_code_list_example": "1347756419"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/comb_cb_dmean_5000_it.json",
@@ -2345,31 +1801,15 @@
         "id_image": "comb_456667"
       }
     ],
-    "hash_code_list_img": "-1156818826",
-    "list_definition_mean": [
-      {
-        "mean_english": "tổ ong",
-        "definition": "the honey cells made by bees",
-        "ex_of_definition_list": [
-          "a honeycomb."
-        ]
-      },
-      {
-        "mean_english": "chải đầu",
-        "definition": "to arrange and smooth with a comb",
-        "ex_of_definition_list": [
-          "Comb your hair!"
-        ]
-      },
-      {
-        "mean_english": "sục sạo",
-        "definition": "to search (a place) thoroughly (for something)",
-        "ex_of_definition_list": [
-          "They combed the hills for the missing climber."
-        ]
-      }
+    "hash_code_list_img": "-1767721335",
+    "list_example": [
+      "Several basic sound transformation devices are provided - dynamic shaping, transposition, comb filtering, several banks of band-pass filters, amplitude modulation, and granulation.",
+      "The birds' feathers appear ruffled, the comb pale; the birds cease to perch, and, as the disease advances, they lie prostrate upon the ground.",
+      "Note that, in the cases m = 0 and m = 1, this agrees with our previous definitions of comb and once-iterated comb.",
+      "Filaments are forming dense, interconnected fibrous cylinders around each comb cell (fc).",
+      "The dorsal spines of the comb are nearly as long as the ventral portion of the pronotum, while the lateral spines are quite short."
     ],
-    "hash_code_list_definition_mean": "600657165"
+    "hash_code_list_example": "1252484931"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/comedy_cb_dmean_5000_it.json",
@@ -2408,24 +1848,12 @@
         "id_image": "comedy_6347555"
       }
     ],
-    "hash_code_list_img": "419472862",
-    "list_definition_mean": [
-      {
-        "mean_english": "hài kịch",
-        "definition": "a play of a pleasant or amusing kind",
-        "ex_of_definition_list": [
-          "We went to see a comedy last night."
-        ]
-      },
-      {
-        "mean_english": "tính hài hước",
-        "definition": "humour/humor",
-        "ex_of_definition_list": [
-          "They all saw the comedy of the situation."
-        ]
-      }
+    "hash_code_list_img": "-1302326623",
+    "list_example": [
+      "We went to see a comedy last night.",
+      "They all saw the comedy of the situation."
     ],
-    "hash_code_list_definition_mean": "1459934569"
+    "hash_code_list_example": "366476527"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/come_cb_dmean_5000_it.json",
@@ -2454,61 +1882,13 @@
         "id_image": "come_6401042"
       }
     ],
-    "hash_code_list_img": "851725558",
-    "list_definition_mean": [
-      {
-        "mean_english": "đi đến",
-        "definition": "to move etc towards the person speaking or writing, or towards the place being referred to by him",
-        "ex_of_definition_list": [
-          "Come here!",
-          "Are you coming to the dance?",
-          "John has come to see me",
-          "Have any letters come for me?"
-        ]
-      },
-      {
-        "mean_english": "sắp tới",
-        "definition": "to become near or close to something in time or space",
-        "ex_of_definition_list": [
-          "Christmas is coming soon."
-        ]
-      },
-      {
-        "mean_english": "đứng giữa",
-        "definition": "to happen or be situated",
-        "ex_of_definition_list": [
-          "The letter ‘d’ comes between ‘c’ and ‘e’ in the alphabet."
-        ]
-      },
-      {
-        "mean_english": "làm thế nào",
-        "definition": "(often with to) to happen (by accident)",
-        "ex_of_definition_list": [
-          "How did you come to break your leg?"
-        ]
-      },
-      {
-        "mean_english": "đạt tới một điều gì",
-        "definition": "to arrive at (a certain state etc)",
-        "ex_of_definition_list": [
-          "What are things coming to? We have come to an agreement."
-        ]
-      },
-      {
-        "mean_english": "lên tới",
-        "definition": "(with to) (of numbers, prices etc) to amount (to)",
-        "ex_of_definition_list": [
-          "The total comes to 51."
-        ]
-      },
-      {
-        "mean_english": "đề nghị chú ý",
-        "definition": "expressing disapproval, drawing attention etc",
-        "ex_of_definition_list": [
-          "Come, come! That was very rude of you!"
-        ]
-      }
+    "hash_code_list_img": "586294364",
+    "list_example": [
+      "John has come to see me",
+      "Have any letters come for me?",
+      "How did you come to break your leg?",
+      "What are things coming to? We have come to an agreement."
     ],
-    "hash_code_list_definition_mean": "1373655339"
+    "hash_code_list_example": "1929070409"
   }
 ]

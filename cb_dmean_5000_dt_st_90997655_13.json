@@ -20,17 +20,12 @@
         "id_image": "butler_843314"
       }
     ],
-    "hash_code_list_img": "-1205918228",
-    "list_definition_mean": [
-      {
-        "mean_english": "quản gia",
-        "definition": "the most important male servant of a household, whose jobs include organizing other servants, receiving guests, organizing the serving of food and wine at meals, and other personal services",
-        "ex_of_definition_list": [
-          "a royal butler."
-        ]
-      }
+    "hash_code_list_img": "1238752392",
+    "list_example": [
+      "The relationship between the butler and his master has been most fruitful in this respect.",
+      "As they collect these items of evidence (as the police take them to be), the police, quite properly, begin to think that the butler did it."
     ],
-    "hash_code_list_definition_mean": "621844007"
+    "hash_code_list_example": "726349307"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/butter_cb_dmean_5000_it.json",
@@ -54,24 +49,13 @@
         "id_image": "butter_5816145"
       }
     ],
-    "hash_code_list_img": "-1233975868",
-    "list_definition_mean": [
-      {
-        "mean_english": "bơ",
-        "definition": "a fatty substance made from cream by churning",
-        "ex_of_definition_list": [
-          "a slice of bread and butter."
-        ]
-      },
-      {
-        "mean_english": "phết bơ",
-        "definition": "to spread with butter",
-        "ex_of_definition_list": [
-          "She buttered the bread."
-        ]
-      }
+    "hash_code_list_img": "-450745160",
+    "list_example": [
+      "He hopes that his butter and honeycups will prove a big success in the next few years.",
+      "Worldly people speak soft words like butter and those who have not wisdom to discern what they are after are deceived and fall.",
+      "The masses of all packs of butter may be assumed to have a normal distribution with mean grams and standard deviation 2.7 grams."
     ],
-    "hash_code_list_definition_mean": "1295451662"
+    "hash_code_list_example": "-638336216"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/buttonhole_cb_dmean_5000_it.json",
@@ -90,17 +74,13 @@
         "id_image": "buttonhole_1718242"
       }
     ],
-    "hash_code_list_img": "1496396980",
-    "list_definition_mean": [
-      {
-        "mean_english": "níu ai lại",
-        "definition": "to catch someone’s attention and hold him in conversation",
-        "ex_of_definition_list": [
-          "He buttonholed me and began telling me the story of his life."
-        ]
-      }
+    "hash_code_list_img": "751605408",
+    "list_example": [
+      "The zona orbicularis acts like a buttonhole on the femoral head and assists in maintaining the contact in the joint.",
+      "Occasionally bars of buttonhole stitches are worked over fabric and net before both are cut away.",
+      "The fabric is simply folded over and the buttonhole stitching secures the two layers (or three layers if there is an interlining)."
     ],
-    "hash_code_list_definition_mean": "2111019069"
+    "hash_code_list_example": "-1115822939"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/button_cb_dmean_5000_it.json",
@@ -135,31 +115,12 @@
         "id_image": "button_917236"
       }
     ],
-    "hash_code_list_img": "-758350425",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái khuy áo",
-        "definition": "a knob or disc used as a fastening",
-        "ex_of_definition_list": [
-          "I lost a button off my coat."
-        ]
-      },
-      {
-        "mean_english": "cái nút",
-        "definition": "a small knob pressed to operate something",
-        "ex_of_definition_list": [
-          "This button turns the radio on."
-        ]
-      },
-      {
-        "mean_english": "cài khuy",
-        "definition": "(often with up) to fasten by means of buttons",
-        "ex_of_definition_list": [
-          "He buttoned up his jacket."
-        ]
-      }
+    "hash_code_list_img": "-1541018736",
+    "list_example": [
+      "I lost a button off my coat.",
+      "This button turns the radio on."
     ],
-    "hash_code_list_definition_mean": "1726378624"
+    "hash_code_list_example": "-678098160"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/buy_cb_dmean_5000_it.json",
@@ -192,18 +153,15 @@
         "id_image": "buy_6342968"
       }
     ],
-    "hash_code_list_img": "-966879523",
-    "list_definition_mean": [
-      {
-        "mean_english": "mua",
-        "definition": "to get (something) by exchanging it for money",
-        "ex_of_definition_list": [
-          "He has bought a car",
-          "Where did you buy that tie?"
-        ]
-      }
+    "hash_code_list_img": "-1999680236",
+    "list_example": [
+      "Where did you buy that tie?",
+      "Every midday there was a long queue of people waiting to buy the excellent value, homemade food.",
+      "The article illustrates that it is more costly for a safe candidate to buy extra votes than a marginal candidate.",
+      "As was mentioned earlier, newcomers who buy supplemental insurance must bear a waiting period, which is expected to discourage moves.",
+      "It is expressly designed for photocopying, however, so there is no need to buy pupil sets."
     ],
-    "hash_code_list_definition_mean": "1074128036"
+    "hash_code_list_example": "211128277"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/buzzer_cb_dmean_5000_it.json",
@@ -226,17 +184,18 @@
         "id_image": "buzzer_5387094"
       }
     ],
-    "hash_code_list_img": "-756364996",
-    "list_definition_mean": [
-      {
-        "mean_english": "còi",
-        "definition": "an electrical or other apparatus producing a buzzing sound",
-        "ex_of_definition_list": [
-          "Press the buzzer if you require help."
-        ]
-      }
+    "hash_code_list_img": "1962518059",
+    "list_example": [
+      "Press the buzzer if you require help.",
+      "Finally, the controller can drive a buzzer to generate signals during operation and in error conditions.",
+      "The light and buzzer were used to attract infants' attention between trials when necessary.",
+      "Here the pilots have noted that they are approaching their assigned altitude, and the altitude progress was confirmed by an altitude alert buzzer (there are also alert lights).",
+      "They work from the moment the whistle blows in the morning to when the buzzer goes at five o'clock at night.",
+      "If feeding was regularly preceded by some \"indifferent stimulus,\" such as a buzzer or a light or an electric shock, the dog would learn to salivate at that signal.",
+      "There is the buzzer type that is far more universally fitted and that does not do these things.",
+      "A buzzer sounded when they had not looked to the left for fifteen seconds."
     ],
-    "hash_code_list_definition_mean": "150385866"
+    "hash_code_list_example": "-1875024817"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cabbage_cb_dmean_5000_it.json",
@@ -269,17 +228,11 @@
         "id_image": "cabbage_3823343"
       }
     ],
-    "hash_code_list_img": "-470303854",
-    "list_definition_mean": [
-      {
-        "mean_english": "cải bắp",
-        "definition": "a type of vegetable with edible (usually green) leaves",
-        "ex_of_definition_list": [
-          "Slice the cabbage finely."
-        ]
-      }
+    "hash_code_list_img": "-1501103935",
+    "list_example": [
+      "Slice the cabbage finely."
     ],
-    "hash_code_list_definition_mean": "1991615864"
+    "hash_code_list_example": "809070858"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cabinet_cb_dmean_5000_it.json",
@@ -313,25 +266,19 @@
         "id_image": "cabinet_700082"
       }
     ],
-    "hash_code_list_img": "1903424984",
-    "list_definition_mean": [
-      {
-        "mean_english": "tủ có ngăn kéo",
-        "definition": "a piece of furniture with shelves and doors or drawers",
-        "ex_of_definition_list": [
-          "a filing cabinet."
-        ]
-      },
-      {
-        "mean_english": "nội các",
-        "definition": "in Britain and some other countries the group of chief ministers who govern a country",
-        "ex_of_definition_list": [
-          "The Prime Minister has chosen a new Cabinet",
-          "(also adjective) a Cabinet meeting."
-        ]
-      }
+    "hash_code_list_img": "-351978413",
+    "list_example": [
+      "a filing cabinet.",
+      "The simplest is that the dissension reflected ideological disagreements with the cabinet's legislative programme.",
+      "Further, it is often the case that no individual party commands a majority of legislative seats and so coalition cabinets are formed.",
+      "Divided cabinets are unable to reshape the state.",
+      "Finally, coalition governments are more likely to be plagued by internal disagreements that would shorten their life (relative to one-party cabinets).",
+      "The cabinets were connected to each other with a 0.8-m-long duct with 0.2 m diameter.",
+      "During the commissioning period, a problem arose during the air-stripping operation, when large quantities of biofilm occluded air and water flow through the stripping cabinets.",
+      "Reducing airborne pathogens and dust in commercial hatching cabinets with an electrostatic space charge system.",
+      "All of this complicated the cabinet's proceedings in terms of timing and appearance."
     ],
-    "hash_code_list_definition_mean": "670478765"
+    "hash_code_list_example": "1638405196"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cabin_cb_dmean_5000_it.json",
@@ -366,31 +313,11 @@
         "id_image": "cabin_613855"
       }
     ],
-    "hash_code_list_img": "-1472444535",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà gỗ nhỏ",
-        "definition": "a small house or hut (made eg of logs)",
-        "ex_of_definition_list": [
-          "a log cabin."
-        ]
-      },
-      {
-        "mean_english": "cabin",
-        "definition": "a (small) room in a ship for sleeping in",
-        "ex_of_definition_list": [
-          "We’ve reserved a four-berth cabin."
-        ]
-      },
-      {
-        "mean_english": "khoang",
-        "definition": "the part of an aircraft containing seating for passengers",
-        "ex_of_definition_list": [
-          "(also adjective) the cabin staff."
-        ]
-      }
+    "hash_code_list_img": "-4020302",
+    "list_example": [
+      "(also adjective) the cabin staff."
     ],
-    "hash_code_list_definition_mean": "-365322425"
+    "hash_code_list_example": "-1314130974"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cable_cb_dmean_5000_it.json",
@@ -422,52 +349,13 @@
         "id_image": "cable_4275708"
       }
     ],
-    "hash_code_list_img": "1245424990",
-    "list_definition_mean": [
-      {
-        "mean_english": "dây neo",
-        "definition": "(a) strong rope or chain for hauling or tying anything, especially a ship",
-        "ex_of_definition_list": [
-          "The train is pulled by cables up the mountain."
-        ]
-      },
-      {
-        "mean_english": "dây cáp",
-        "definition": "(a set of) wires for carrying electric current or signals",
-        "ex_of_definition_list": [
-          "They are laying a new electricity cable under the street."
-        ]
-      },
-      {
-        "mean_english": "dây cáp",
-        "definition": "(a rope made of) strands of metal wound together for supporting a bridge etc",
-        "ex_of_definition_list": [
-          "A total of 18 steel cables support the suspension bridge."
-        ]
-      },
-      {
-        "mean_english": "điện tín",
-        "definition": "(also cablegram) a telegram sent by cable",
-        "ex_of_definition_list": [
-          "Richard had sent her a cable from Istanbul."
-        ]
-      },
-      {
-        "mean_english": "truyền hình cáp",
-        "definition": "cable television",
-        "ex_of_definition_list": [
-          "Do you have cable in your apartment?"
-        ]
-      },
-      {
-        "mean_english": "đánh điện",
-        "definition": "to telegraph by cable",
-        "ex_of_definition_list": [
-          "I cabled news of my mother’s death to our relations in Canada."
-        ]
-      }
+    "hash_code_list_img": "-357990636",
+    "list_example": [
+      "They are laying a new electricity cable under the street.",
+      "Richard had sent her a cable from Istanbul.",
+      "Do you have cable in your apartment?"
     ],
-    "hash_code_list_definition_mean": "-866217765"
+    "hash_code_list_example": "1401008443"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cab_cb_dmean_5000_it.json",
@@ -501,24 +389,13 @@
         "id_image": "cab_4391518"
       }
     ],
-    "hash_code_list_img": "1952278943",
-    "list_definition_mean": [
-      {
-        "mean_english": "xe tắc xi",
-        "definition": "a taxi",
-        "ex_of_definition_list": [
-          "Could you call a cab for me?"
-        ]
-      },
-      {
-        "mean_english": "cabin",
-        "definition": "the driver’s compartment of a railway/railroad engine, lorry/truck etc",
-        "ex_of_definition_list": [
-          "On long-distance journeys the truck drivers sleep in their cabs."
-        ]
-      }
+    "hash_code_list_img": "1655917314",
+    "list_example": [
+      "Could you call a cab for me?",
+      "It does, however, come equipped with a cab so that it can be driven by the farmers themselves.",
+      "They tried to eke out a living by engaging in home industries, setting up small workshops and grocery stores, working as street peddlers, or becoming cab drivers."
     ],
-    "hash_code_list_definition_mean": "-1357935845"
+    "hash_code_list_example": "-580668743"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cafeteria_cb_dmean_5000_it.json",
@@ -546,17 +423,13 @@
         "id_image": "cafeteria_4650602"
       }
     ],
-    "hash_code_list_img": "-1331161418",
-    "list_definition_mean": [
-      {
-        "mean_english": "quán ăn tự phục vụ",
-        "definition": "a self-service restaurant",
-        "ex_of_definition_list": [
-          "Some department stores have a cafeteria."
-        ]
-      }
+    "hash_code_list_img": "1315076530",
+    "list_example": [
+      "In addition, there was a toilet for the food handlers next to the cafeteria kitchen which did not have a separate washbasin.",
+      "Following this, a constant level of cafeteria noise was digitally mixed with the stimuli.",
+      "Moving objects are easily programmed - we have doors that open on proximity, functional elevators, drinks machines in the cafeteria and the odd computer."
     ],
-    "hash_code_list_definition_mean": "320577572"
+    "hash_code_list_example": "842229525"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/caffeine_cb_dmean_5000_it.json",
@@ -584,17 +457,16 @@
         "id_image": "caffeine_6316184"
       }
     ],
-    "hash_code_list_img": "2070991980",
-    "list_definition_mean": [
-      {
-        "mean_english": "caphêin",
-        "definition": "a drug found in coffee and tea",
-        "ex_of_definition_list": [
-          "Many over-the-counter medications contain caffeine."
-        ]
-      }
+    "hash_code_list_img": "-816224375",
+    "list_example": [
+      "Participants were permitted to use their typical amounts of tobacco and caffeine in order to avoid confounds associated with nicotine or caffeine withdrawal.",
+      "The initial fertility consultation: recommendations concerning cigarette smoking, body mass index, and alcohol and caffeine consumption.",
+      "These results clearly indicate that caffeine treatment during prolonged maturation culture decreases the frequency of development to the blastocyst stage but not embryo quality.",
+      "The authors found that doses of caffeine higher than 450 g/ml in the culture medium inhibited oocyte maturation.",
+      "However, slightly increased penetration activity was shown also in spermatozoa incubated with heparin and caffeine (42.3% and 37.3%, respectively).",
+      "However, no study of the effect of caffeine on the meiotic process of porcine oocytes has been performed."
     ],
-    "hash_code_list_definition_mean": "1213485559"
+    "hash_code_list_example": "904148900"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cage_cb_dmean_5000_it.json",
@@ -629,32 +501,12 @@
         "id_image": "cage_877127"
       }
     ],
-    "hash_code_list_img": "820199967",
-    "list_definition_mean": [
-      {
-        "mean_english": "chuồng",
-        "definition": "a box of wood, wire etc for holding birds or animals",
-        "ex_of_definition_list": [
-          "The lion has escaped from its cage",
-          "a birdcage."
-        ]
-      },
-      {
-        "mean_english": "thang máy trong mỏ",
-        "definition": "a lift in a mine",
-        "ex_of_definition_list": [
-          "The miners enter a steel cage which descends down the mineshaft."
-        ]
-      },
-      {
-        "mean_english": "nhốt vào chuồng",
-        "definition": "to put in a cage",
-        "ex_of_definition_list": [
-          "Some people think that it is cruel to cage wild animals."
-        ]
-      }
+    "hash_code_list_img": "-669089538",
+    "list_example": [
+      "The miners enter a steel cage which descends down the mineshaft.",
+      "Some people think that it is cruel to cage wild animals."
     ],
-    "hash_code_list_definition_mean": "-1911169075"
+    "hash_code_list_example": "-1706264374"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cake_cb_dmean_5000_it.json",
@@ -690,41 +542,11 @@
         "id_image": "cake_333423"
       }
     ],
-    "hash_code_list_img": "331904083",
-    "list_definition_mean": [
-      {
-        "mean_english": "bánh ngọt",
-        "definition": "a food made by baking a mixture of flour, fat, eggs, sugar etc",
-        "ex_of_definition_list": [
-          "a piece of cake",
-          "a plate of cream cakes",
-          "a Christmas cake."
-        ]
-      },
-      {
-        "mean_english": "miếng bánh",
-        "definition": "a piece of other food pressed into shape",
-        "ex_of_definition_list": [
-          "fishcakes",
-          "oatcakes."
-        ]
-      },
-      {
-        "mean_english": "bánh",
-        "definition": "a flattened hard mass",
-        "ex_of_definition_list": [
-          "a cake of soap."
-        ]
-      },
-      {
-        "mean_english": "đóng bánh",
-        "definition": "to cover in the form of a dried mass",
-        "ex_of_definition_list": [
-          "His shoes were caked with mud."
-        ]
-      }
+    "hash_code_list_img": "-1995549185",
+    "list_example": [
+      "a cake of soap."
     ],
-    "hash_code_list_definition_mean": "451304444"
+    "hash_code_list_example": "-277381630"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/calculate_cb_dmean_5000_it.json",
@@ -757,17 +579,11 @@
         "id_image": "calculate_6388895"
       }
     ],
-    "hash_code_list_img": "-149521812",
-    "list_definition_mean": [
-      {
-        "mean_english": "tính toán",
-        "definition": "to count or estimate, using numbers",
-        "ex_of_definition_list": [
-          "Calculate the number of days in a century."
-        ]
-      }
+    "hash_code_list_img": "1657117622",
+    "list_example": [
+      "Efforts to calculate the level of price support for rice required the government to elicit cost of production data from the agricultural associations."
     ],
-    "hash_code_list_definition_mean": "1855229755"
+    "hash_code_list_example": "-2010361092"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/calculator_cb_dmean_5000_it.json",
@@ -800,17 +616,13 @@
         "id_image": "calculator_546649"
       }
     ],
-    "hash_code_list_img": "-1023071864",
-    "list_definition_mean": [
-      {
-        "mean_english": "máy tính",
-        "definition": "a machine for calculating",
-        "ex_of_definition_list": [
-          "Use a calculator to add up all those numbers."
-        ]
-      }
+    "hash_code_list_img": "-1691471910",
+    "list_example": [
+      "Use a calculator to add up all those numbers.",
+      "One accusation is that the calculator is left only with the gallows at the end of every visto.",
+      "Figure 13.1 uses a calculator analogy to describe how one characterizable matrix can be constructed from another."
     ],
-    "hash_code_list_definition_mean": "556272858"
+    "hash_code_list_example": "1724171067"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/calendar_cb_dmean_5000_it.json",
@@ -834,24 +646,12 @@
         "id_image": "calendar_183292"
       }
     ],
-    "hash_code_list_img": "1769521624",
-    "list_definition_mean": [
-      {
-        "mean_english": "lịch",
-        "definition": "a table showing the months and days of the year",
-        "ex_of_definition_list": [
-          "Look at the calendar and tell me which day of the week November 22nd is."
-        ]
-      },
-      {
-        "mean_english": "lịch trình",
-        "definition": "a list of important dates or events",
-        "ex_of_definition_list": [
-          "The football team’s calendar is complete now."
-        ]
-      }
+    "hash_code_list_img": "-280355497",
+    "list_example": [
+      "Look at the calendar and tell me which day of the week November 22nd is.",
+      "The football team’s calendar is complete now."
     ],
-    "hash_code_list_definition_mean": "-993675210"
+    "hash_code_list_example": "-585269373"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/calf_cb_dmean_5000_it.json",
@@ -871,32 +671,11 @@
         "id_image": "calf_5726967"
       }
     ],
-    "hash_code_list_img": "1196877291",
-    "list_definition_mean": [
-      {
-        "mean_english": "con bê",
-        "definition": "the young of a cow, elephant, whale etc",
-        "ex_of_definition_list": [
-          "seal calves."
-        ]
-      },
-      {
-        "mean_english": "da bê thuộc",
-        "definition": "(also calfskin) leather made from the skin of the young of a cow",
-        "ex_of_definition_list": [
-          "a bag made of calf."
-        ]
-      },
-      {
-        "mean_english": "bắp chân",
-        "definition": "the thick fleshy back part of the leg below the knee",
-        "ex_of_definition_list": [
-          "She has slim ankles, but fat calves",
-          "(also adjective) a calf muscle."
-        ]
-      }
+    "hash_code_list_img": "1040882492",
+    "list_example": [
+      "(also adjective) a calf muscle."
     ],
-    "hash_code_list_definition_mean": "1035598363"
+    "hash_code_list_example": "-1095536798"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/calibrate_cb_dmean_5000_it.json",
@@ -920,24 +699,11 @@
         "id_image": "calibrate_4395059"
       }
     ],
-    "hash_code_list_img": "-1005749252",
-    "list_definition_mean": [
-      {
-        "mean_english": "định cỡ",
-        "definition": "to mark out the scale on (a measuring instrument)",
-        "ex_of_definition_list": [
-          "Do you know how to calibrate a barometer?"
-        ]
-      },
-      {
-        "mean_english": "căn chỉnh dụng cụ",
-        "definition": "to correct or adjust (the scale or instrument)",
-        "ex_of_definition_list": [
-          "He calibrated the weighing machine."
-        ]
-      }
+    "hash_code_list_img": "746129601",
+    "list_example": [
+      "Do you know how to calibrate a barometer?"
     ],
-    "hash_code_list_definition_mean": "-702921530"
+    "hash_code_list_example": "294385375"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/calligraphy_cb_dmean_5000_it.json",
@@ -965,17 +731,13 @@
         "id_image": "calligraphy_673519"
       }
     ],
-    "hash_code_list_img": "598832483",
-    "list_definition_mean": [
-      {
-        "mean_english": "thư pháp",
-        "definition": "(the art of) beautiful, decorative handwriting",
-        "ex_of_definition_list": [
-          "Arabic/Chinese/Japanese calligraphy."
-        ]
-      }
+    "hash_code_list_img": "365595069",
+    "list_example": [
+      "What repeated listening also shows is that his exquisite craftsmanship, which is reflected visually in the calligraphy of the facsimiles, can blind one to the real intensity underneath.",
+      "The calligraphy translates as: 'diligent, rigorous, practical and realistic, and creative'.",
+      "The knowledge of how to appreciate painting and calligraphy was no longer the privilege of the literati."
     ],
-    "hash_code_list_definition_mean": "318052996"
+    "hash_code_list_example": "-804515139"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/call_cb_dmean_5000_it.json",
@@ -1021,104 +783,21 @@
         "id_image": "call_3255237"
       }
     ],
-    "hash_code_list_img": "1927385393",
-    "list_definition_mean": [
-      {
-        "mean_english": "gọi",
-        "definition": "to give a name to",
-        "ex_of_definition_list": [
-          "My name is Alexander, but I’m called Sandy by my friends."
-        ]
-      },
-      {
-        "mean_english": "xem là",
-        "definition": "to regard (something) as",
-        "ex_of_definition_list": [
-          "I saw you turn that card over – I call that cheating."
-        ]
-      },
-      {
-        "mean_english": "gọi to",
-        "definition": "to speak loudly (to someone) to attract attention etc",
-        "ex_of_definition_list": [
-          "Call everyone over here",
-          "She called louder so as to get his attention."
-        ]
-      },
-      {
-        "mean_english": "thông báo",
-        "definition": "to summon; to ask (someone) to come (by letter, telephone etc)",
-        "ex_of_definition_list": [
-          "They called him for an interview for the job",
-          "He called a doctor."
-        ]
-      },
-      {
-        "mean_english": "ghé thăm",
-        "definition": "to make a visit",
-        "ex_of_definition_list": [
-          "I shall call at your house this evening",
-          "You were out when I called."
-        ]
-      },
-      {
-        "mean_english": "gọi điện",
-        "definition": "to telephone",
-        "ex_of_definition_list": [
-          "I’ll call you at 6 p.m."
-        ]
-      },
-      {
-        "mean_english": "lời kêu gọi",
-        "definition": "an exclamation or shout",
-        "ex_of_definition_list": [
-          "a call for help."
-        ]
-      },
-      {
-        "mean_english": "tiếng chim",
-        "definition": "the song of a bird",
-        "ex_of_definition_list": [
-          "the call of a blackbird."
-        ]
-      },
-      {
-        "mean_english": "chuyến ghé thăm",
-        "definition": "a (usually short) visit",
-        "ex_of_definition_list": [
-          "The teacher made a call on the boy’s parents."
-        ]
-      },
-      {
-        "mean_english": "cuộc gọi điện thoại",
-        "definition": "the act of calling on the telephone",
-        "ex_of_definition_list": [
-          "I’ve just had a call from the police."
-        ]
-      },
-      {
-        "mean_english": "tiếng gọi",
-        "definition": "(usually with the) attraction",
-        "ex_of_definition_list": [
-          "the call of the sea."
-        ]
-      },
-      {
-        "mean_english": "yêu cầu",
-        "definition": "a demand",
-        "ex_of_definition_list": [
-          "There’s less call for coachmen nowadays."
-        ]
-      },
-      {
-        "mean_english": "sự cần thiết",
-        "definition": "a need or reason",
-        "ex_of_definition_list": [
-          "You’ve no call to say such things!"
-        ]
-      }
+    "hash_code_list_img": "85175356",
+    "list_example": [
+      "I saw you turn that card over – I call that cheating.",
+      "I shall call at your house this evening",
+      "I’ll call you at 6 p.m.",
+      "a call for help.",
+      "the call of a blackbird.",
+      "The teacher made a call on the boy’s parents.",
+      "I’ve just had a call from the police.",
+      "the call of the sea.",
+      "There’s less call for coachmen nowadays.",
+      "You’ve no call to say such things!",
+      "His final curtain call was the tumble he took off his toilet, naked and with the hypodermic needle still stuck in his arm."
     ],
-    "hash_code_list_definition_mean": "-469276913"
+    "hash_code_list_example": "1241137975"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/calm_cb_dmean_5000_it.json",
@@ -1149,47 +828,14 @@
         "id_image": "calm_6000760"
       }
     ],
-    "hash_code_list_img": "-878407376",
-    "list_definition_mean": [
-      {
-        "mean_english": "êm đềm",
-        "definition": "still or quiet",
-        "ex_of_definition_list": [
-          "a calm sea",
-          "The weather was calm."
-        ]
-      },
-      {
-        "mean_english": "bình tĩnh",
-        "definition": "not anxious or excited",
-        "ex_of_definition_list": [
-          "a calm person/expression",
-          "Please keep calm!"
-        ]
-      },
-      {
-        "mean_english": "sự êm ả",
-        "definition": "(a period of) absence of wind and large waves",
-        "ex_of_definition_list": [
-          "the calm before a storm."
-        ]
-      },
-      {
-        "mean_english": "sự yên tĩnh",
-        "definition": "peace and quiet",
-        "ex_of_definition_list": [
-          "He enjoyed the calm of the library."
-        ]
-      },
-      {
-        "mean_english": "bình tĩnh",
-        "definition": "to make calm",
-        "ex_of_definition_list": [
-          "Calm yourself!"
-        ]
-      }
+    "hash_code_list_img": "1183533301",
+    "list_example": [
+      "a calm sea",
+      "a calm person/expression",
+      "the calm before a storm.",
+      "He enjoyed the calm of the library."
     ],
-    "hash_code_list_definition_mean": "-388354910"
+    "hash_code_list_example": "-1157299741"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/calorie_cb_dmean_5000_it.json",
@@ -1228,24 +874,20 @@
         "id_image": "calorie_2860821"
       }
     ],
-    "hash_code_list_img": "-1755752620",
-    "list_definition_mean": [
-      {
-        "mean_english": "đơn vị đo nhiệt lượng, calo",
-        "definition": "a unit of heat",
-        "ex_of_definition_list": [
-          "It takes 1.0 calories of heat to warm 1 g of water up by 1°C."
-        ]
-      },
-      {
-        "mean_english": "đơn vị đo giá trị năng lượng của thức ăn calo",
-        "definition": "a unit of energy given by food",
-        "ex_of_definition_list": [
-          "My diet allows me 1,200 calories per day."
-        ]
-      }
+    "hash_code_list_img": "98983781",
+    "list_example": [
+      "It takes 1.0 calories of heat to warm 1 g of water up by 1°C.",
+      "My diet allows me 1,200 calories per day.",
+      "The evidence which he, or those who quote him, give is that we cannot judge the calories by statistics and must judge them by results.",
+      "They were previously 1,050 calories, and they have been increased to 1,550.",
+      "He attacked my contention that the average actual intake of this country is not 2,900 calories or anything like it.",
+      "Their daily ration amounts to 2,200 calories, not counting fresh fruit and vegetables.",
+      "The saccharin would provide the flavor; the liquid diet, the calories.",
+      "The two foods have the same number of calories (we'll assume) so they increase weight the same amount.",
+      "The prison diet provides a man with more than 4,000 calories a day.",
+      "Figure 26 shows why two foods with the same number of calories can raise the set point by different amounts."
     ],
-    "hash_code_list_definition_mean": "-435902719"
+    "hash_code_list_example": "181151991"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/camcorder_cb_dmean_5000_it.json",
@@ -1273,17 +915,15 @@
         "id_image": "camcorder_4853058"
       }
     ],
-    "hash_code_list_img": "-83364538",
-    "list_definition_mean": [
-      {
-        "mean_english": "máy quay video",
-        "definition": "a video camera",
-        "ex_of_definition_list": [
-          "She used a camcorder to record her daughter’s birthday party."
-        ]
-      }
+    "hash_code_list_img": "894100163",
+    "list_example": [
+      "She used a camcorder to record her daughter’s birthday party.",
+      "The camcorder was mounted on a tripod unobtrusively in the corner of the room and had an unobstructed view of the experimental situation.",
+      "A camcorder with a time-stamped video image was used for recording infants' behaviour during the experimental session.",
+      "He commended the film's ambiance of panic, assisted by the relative intimacy of a handheld camcorder as the principal instrument of filming.",
+      "The home television recording market, as well as the camcorder market, has transitioned to digital video based recording."
     ],
-    "hash_code_list_definition_mean": "668742521"
+    "hash_code_list_example": "-756072286"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/camel_cb_dmean_5000_it.json",
@@ -1311,17 +951,19 @@
         "id_image": "camel_3798645"
       }
     ],
-    "hash_code_list_img": "1309591983",
-    "list_definition_mean": [
-      {
-        "mean_english": "lạc đà",
-        "definition": "a desert animal with one (dromedaryˈdromədəri) or two (bactrian (camel)ˈbӕktriən) humps on its back, used for carrying goods and/or people",
-        "ex_of_definition_list": [
-          "Have you ever had a ride on a camel?"
-        ]
-      }
+    "hash_code_list_img": "1940498103",
+    "list_example": [
+      "Have you ever had a ride on a camel?",
+      "He said that we were like camels and have a grievance, and that when we saw an oasis we made for it.",
+      "I then thought he was referring to camels!",
+      "The extra blow to manufacturing this year has been the straw that broke the camel's back.",
+      "To add to these problems is, to my mind, the straw which breaks the camel's back.",
+      "Breaking the camel's back : proline-induced turns in a model transmembrane helix.",
+      "With no camels ready for service, the company was forced into immediate liquidation.",
+      "The camels fulfil a variety of functions including transport and social security.",
+      "They had tried to be like camels, but failed miserably and one has to deal carefully but strictly when they are like this."
     ],
-    "hash_code_list_definition_mean": "1662235744"
+    "hash_code_list_example": "-968115089"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/camera_cb_dmean_5000_it.json",
@@ -1355,24 +997,12 @@
         "id_image": "camera_502310"
       }
     ],
-    "hash_code_list_img": "-1806385006",
-    "list_definition_mean": [
-      {
-        "mean_english": "máy chụp ảnh, quay phim",
-        "definition": "an apparatus for taking still or (movie-camera) moving photographs",
-        "ex_of_definition_list": [
-          "a digital camera."
-        ]
-      },
-      {
-        "mean_english": "sự quay phim",
-        "definition": "in television, an apparatus which receives a picture and turns it into electrical impulses for transmitting",
-        "ex_of_definition_list": [
-          "He’s a natural in front of the studio cameras."
-        ]
-      }
+    "hash_code_list_img": "2034101897",
+    "list_example": [
+      "a digital camera.",
+      "He’s a natural in front of the studio cameras."
     ],
-    "hash_code_list_definition_mean": "-1991870743"
+    "hash_code_list_example": "179661924"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/camouflage_cb_dmean_5000_it.json",
@@ -1395,25 +1025,11 @@
         "id_image": "camouflage_2621708"
       }
     ],
-    "hash_code_list_img": "-248728938",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngụy trang",
-        "definition": "something, eg protective colouring/coloring, that makes an animal, person, building etc difficult for enemies to see against the background",
-        "ex_of_definition_list": [
-          "The tiger’s stripes are an effective camouflage in the jungle",
-          "The soldiers wound leaves and twigs round their helmets as camouflage."
-        ]
-      },
-      {
-        "mean_english": "ngụy trang",
-        "definition": "to conceal with camouflage",
-        "ex_of_definition_list": [
-          "The marines camouflaged their helmets with leaves and grass."
-        ]
-      }
+    "hash_code_list_img": "-2049173915",
+    "list_example": [
+      "The tiger’s stripes are an effective camouflage in the jungle"
     ],
-    "hash_code_list_definition_mean": "1445480374"
+    "hash_code_list_example": "635800410"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/campaign_cb_dmean_5000_it.json",
@@ -1448,31 +1064,16 @@
         "id_image": "campaign_5605843"
       }
     ],
-    "hash_code_list_img": "817880052",
-    "list_definition_mean": [
-      {
-        "mean_english": "chiến dịch",
-        "definition": "the operations of an army while fighting in one area or for one purpose",
-        "ex_of_definition_list": [
-          "the Burma campaign in the Second World War."
-        ]
-      },
-      {
-        "mean_english": "cuộc vận động",
-        "definition": "a series of organized actions in support of a cause",
-        "ex_of_definition_list": [
-          "a campaign against smoking."
-        ]
-      },
-      {
-        "mean_english": "tham gia một chiến dịch",
-        "definition": "to take part in a campaign",
-        "ex_of_definition_list": [
-          "He has campaigned against animal cruelty for years."
-        ]
-      }
+    "hash_code_list_img": "-861455620",
+    "list_example": [
+      "the Burma campaign in the Second World War.",
+      "a campaign against smoking.",
+      "However, the main campaign issue was on promoting economic development and reducing the high unemployment rate.",
+      "To encourage donations, newspapers published the campaign registers showing donors' names and donation amounts.",
+      "Taking the campaign to some parts of the country proved especially difficult for parties without a presence in those areas.",
+      "This time, however, the campaign was directed toward a neo-corporate ordering of the trade."
     ],
-    "hash_code_list_definition_mean": "-215328021"
+    "hash_code_list_example": "250767733"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/camper_cb_dmean_5000_it.json",
@@ -1511,25 +1112,11 @@
         "id_image": "camper_853496"
       }
     ],
-    "hash_code_list_img": "-1912773957",
-    "list_definition_mean": [
-      {
-        "mean_english": "người cắm trại",
-        "definition": "a person who goes camping",
-        "ex_of_definition_list": [
-          "weekend campers."
-        ]
-      },
-      {
-        "mean_english": "xe lưu động",
-        "definition": "(also camper vanBritish) a motor-caravan",
-        "ex_of_definition_list": [
-          "a two-berth camper",
-          "They are touring Australia in a camper van."
-        ]
-      }
+    "hash_code_list_img": "167149379",
+    "list_example": [
+      "They are touring Australia in a camper van."
     ],
-    "hash_code_list_definition_mean": "1261563456"
+    "hash_code_list_example": "1454739132"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/campsite_cb_dmean_5000_it.json",
@@ -1552,17 +1139,18 @@
         "id_image": "campsite_5238608"
       }
     ],
-    "hash_code_list_img": "-1476392443",
-    "list_definition_mean": [
-      {
-        "mean_english": "nơi cắm trại",
-        "definition": "a piece of land on which tents may be pitched",
-        "ex_of_definition_list": [
-          "an official campsite."
-        ]
-      }
+    "hash_code_list_img": "1699994481",
+    "list_example": [
+      "an official campsite.",
+      "The equestrian campground contains 32 campsites and non-modern rest room facilities.",
+      "The incident allegedly took place in one of the campsites.",
+      "Thur is also a holiday destination, with two popular sandy beaches, three campsites and a number of houses for rent.",
+      "Affects local recreational facilities, parks, playgrounds, and campsites.",
+      "There are five campgrounds in the park with a total of 350 campsites.",
+      "There are 12 recreation areas with 677 campsites along with 7 full-service commercial marina concessions, which hold 1,750 rental slips.",
+      "Many rental agencies have established themselves in town and there are two official campsites."
     ],
-    "hash_code_list_definition_mean": "1827686382"
+    "hash_code_list_example": "1098969360"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/campus_cb_dmean_5000_it.json",
@@ -1595,18 +1183,14 @@
         "id_image": "campus_5352115"
       }
     ],
-    "hash_code_list_img": "1671945029",
-    "list_definition_mean": [
-      {
-        "mean_english": "khu trường sở",
-        "definition": "college or university grounds",
-        "ex_of_definition_list": [
-          "The new library was built in the centre/center of the campus",
-          "(also adjective) campus life."
-        ]
-      }
+    "hash_code_list_img": "931558999",
+    "list_example": [
+      "(also adjective) campus life.",
+      "It creates edges that, in turn, form a semblance of a campus where only ad hoc sprawl once existed.",
+      "These elementary school children were tested on the university campus in the same facility as the one used to test the preschool children.",
+      "In many instances, hate speech codes were adopted at least partly in response to specific campus incidents."
     ],
-    "hash_code_list_definition_mean": "387366998"
+    "hash_code_list_example": "-606016191"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/camp_cb_dmean_5000_it.json",
@@ -1638,46 +1222,11 @@
         "id_image": "camp_2688330"
       }
     ],
-    "hash_code_list_img": "-202518328",
-    "list_definition_mean": [
-      {
-        "mean_english": "chỗ cắm trại",
-        "definition": "a piece of ground with tents pitched on it",
-        "ex_of_definition_list": [
-          "a Scout camp."
-        ]
-      },
-      {
-        "mean_english": "trại",
-        "definition": "a collection of buildings, huts or tents in which people stay temporarily for a certain purpose",
-        "ex_of_definition_list": [
-          "a holiday/vacation camp."
-        ]
-      },
-      {
-        "mean_english": "doanh trại",
-        "definition": "a military station, barracks etc",
-        "ex_of_definition_list": [
-          "The Romans set up a military camp called Vindobona."
-        ]
-      },
-      {
-        "mean_english": "phe phái",
-        "definition": "a party or side",
-        "ex_of_definition_list": [
-          "The two men belong to completely different political camps."
-        ]
-      },
-      {
-        "mean_english": "đi cắm trại",
-        "definition": "(also go camping) to set up, and live in, a tent / tents",
-        "ex_of_definition_list": [
-          "We camped on the beach",
-          "We go camping every year."
-        ]
-      }
+    "hash_code_list_img": "1096095897",
+    "list_example": [
+      "The Romans set up a military camp called Vindobona."
     ],
-    "hash_code_list_definition_mean": "1311611463"
+    "hash_code_list_example": "-923600269"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/canal_cb_dmean_5000_it.json",
@@ -1711,25 +1260,13 @@
         "id_image": "canal_3701310"
       }
     ],
-    "hash_code_list_img": "1294448563",
-    "list_definition_mean": [
-      {
-        "mean_english": "kênh đào",
-        "definition": "a (usually narrow) man-made waterway",
-        "ex_of_definition_list": [
-          "barges on the canal",
-          "the Panama Canal."
-        ]
-      },
-      {
-        "mean_english": "ống",
-        "definition": "a passage in the body carrying fluids, food etc",
-        "ex_of_definition_list": [
-          "the alimentary canal."
-        ]
-      }
+    "hash_code_list_img": "97433117",
+    "list_example": [
+      "He concluded that infection might result from the insects regurgitating the contents of their alimentary canal into the wound in the act of feeding.",
+      "Irrigation with canal water resulted in a 115 % increase in forage yield compared with the saline drainage water.",
+      "The major limiting factor is the drainage conditions for upland crops, the area near the canal being the most suitable for these crops."
     ],
-    "hash_code_list_definition_mean": "1904848378"
+    "hash_code_list_example": "902845928"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cancel_cb_dmean_5000_it.json",
@@ -1759,31 +1296,11 @@
         "id_image": "cancel_3037086"
       }
     ],
-    "hash_code_list_img": "222186569",
-    "list_definition_mean": [
-      {
-        "mean_english": "hủy bỏ",
-        "definition": "to decide or announce that (something already arranged etc) will not be done etc",
-        "ex_of_definition_list": [
-          "He cancelled his appointment."
-        ]
-      },
-      {
-        "mean_english": "đóng dấu",
-        "definition": "to mark (stamps) with a postmark",
-        "ex_of_definition_list": [
-          "He used an electric stamp cancelling machine to cancel the mail."
-        ]
-      },
-      {
-        "mean_english": "thanh toán",
-        "definition": "to stop payment of (a cheque/check, subscription etc)",
-        "ex_of_definition_list": [
-          "Banks usually charge for cancelling a cheque."
-        ]
-      }
+    "hash_code_list_img": "-1396773536",
+    "list_example": [
+      "He used an electric stamp cancelling machine to cancel the mail."
     ],
-    "hash_code_list_definition_mean": "-1941558821"
+    "hash_code_list_example": "-152362358"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/candidate_cb_dmean_5000_it.json",
@@ -1821,18 +1338,11 @@
         "id_image": "candidate_927293"
       }
     ],
-    "hash_code_list_img": "431583194",
-    "list_definition_mean": [
-      {
-        "mean_english": "thí sinh",
-        "definition": "a person who enters for a competition or examination (for a job, prize etc)",
-        "ex_of_definition_list": [
-          "a candidate for the job of manager",
-          "a parliamentary candidate."
-        ]
-      }
+    "hash_code_list_img": "1412487909",
+    "list_example": [
+      "a candidate for the job of manager"
     ],
-    "hash_code_list_definition_mean": "1859459427"
+    "hash_code_list_example": "101562920"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/candlestick_cb_dmean_5000_it.json",
@@ -1870,17 +1380,13 @@
         "id_image": "candlestick_3958387"
       }
     ],
-    "hash_code_list_img": "2072263370",
-    "list_definition_mean": [
-      {
-        "mean_english": "giá đỡ nến",
-        "definition": "a holder for a candle",
-        "ex_of_definition_list": [
-          "glass/silver candlesticks."
-        ]
-      }
+    "hash_code_list_img": "-50309581",
+    "list_example": [
+      "You cannot tot these things up mathematically, and say how many butchers, bakers and candlestick makers and so on you need in each particular town.",
+      "One wonders whether it also includes a candlestick maker and a butcher.",
+      "I inquired why there were lovely supermarkets but no greengrocer, no butcher, no baker, not even a candlestick maker."
     ],
-    "hash_code_list_definition_mean": "1226347543"
+    "hash_code_list_example": "-1286971921"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/candle_cb_dmean_5000_it.json",
@@ -1913,18 +1419,13 @@
         "id_image": "candle_648806"
       }
     ],
-    "hash_code_list_img": "-1320771382",
-    "list_definition_mean": [
-      {
-        "mean_english": "cây nến",
-        "definition": "a moulded/molded piece of wax with a wick in the centre, for giving light",
-        "ex_of_definition_list": [
-          "We had to use candles when the electric lights went out",
-          "She blew out all the candles on her birthday cake."
-        ]
-      }
+    "hash_code_list_img": "403241691",
+    "list_example": [
+      "While a robot finds a candle-flame, it will approach the candle step by step to avoid colliding with it.",
+      "Unlike the headlamp, the candle is independent of the tortoise's current behaviour pattern.",
+      "She gives the example of not leaving a room with a candle burning."
     ],
-    "hash_code_list_definition_mean": "521022459"
+    "hash_code_list_example": "1791891841"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/candy_cb_dmean_5000_it.json",
@@ -1962,18 +1463,15 @@
         "id_image": "candy_6347610"
       }
     ],
-    "hash_code_list_img": "339037943",
-    "list_definition_mean": [
-      {
-        "mean_english": "kẹo",
-        "definition": "a sweet or sweets; (a piece of) confectionery",
-        "ex_of_definition_list": [
-          "That child eats too much candy",
-          "Have a candy!"
-        ]
-      }
+    "hash_code_list_img": "344686262",
+    "list_example": [
+      "Coughing fits, rustling candy wrappers - auditory interference which can bedevil any theatrical experience - are, in-the-round, aggravated by visual 'noise'.",
+      "The child was asked to hold a small piece of candy on his 0 her tongue, without chewing, eating, or swallowing it.",
+      "The child was required to wait while the examiner rang a bell before retrieving a small piece of candy from under a glass cup.",
+      "She opens up a plastic bag with some candy in it.",
+      "In addition, the parent may give the child a candy bar in those circumstances even if he or she is not tired either."
     ],
-    "hash_code_list_definition_mean": "389367591"
+    "hash_code_list_example": "-1284995111"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cane_cb_dmean_5000_it.json",
@@ -2013,31 +1511,11 @@
         "id_image": "cane_707279"
       }
     ],
-    "hash_code_list_img": "-225533",
-    "list_definition_mean": [
-      {
-        "mean_english": "cây mía; cây tre",
-        "definition": "the stem of certain types of plant (eg sugar plant, bamboo etc)",
-        "ex_of_definition_list": [
-          "The workers were given scythes to cut down the cane with."
-        ]
-      },
-      {
-        "mean_english": "gậy; roi",
-        "definition": "a stick used as an aid to walking or as an instrument of punishment",
-        "ex_of_definition_list": [
-          "He beat the child with a cane."
-        ]
-      },
-      {
-        "mean_english": "phạt đánh roi",
-        "definition": "to beat with a cane",
-        "ex_of_definition_list": [
-          "The schoolmaster caned the boy."
-        ]
-      }
+    "hash_code_list_img": "1652912308",
+    "list_example": [
+      "The workers were given scythes to cut down the cane with."
     ],
-    "hash_code_list_definition_mean": "1398158363"
+    "hash_code_list_example": "-1383934013"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/canine_cb_dmean_5000_it.json",
@@ -2055,17 +1533,12 @@
         "id_image": "canine_1386919"
       }
     ],
-    "hash_code_list_img": "1823390293",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc chó",
-        "definition": "like, or of, a dog or dogs",
-        "ex_of_definition_list": [
-          "canine diseases/illnesses."
-        ]
-      }
+    "hash_code_list_img": "1703169205",
+    "list_example": [
+      "canine diseases/illnesses.",
+      "Junctional communication between isolated pairs of canine atrial cells mediated by homogeneous and heterogeneous gap junction channels."
     ],
-    "hash_code_list_definition_mean": "1604326462"
+    "hash_code_list_example": "-117869886"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/canister_cb_dmean_5000_it.json",
@@ -2103,17 +1576,13 @@
         "id_image": "canister_6255508"
       }
     ],
-    "hash_code_list_img": "2052623281",
-    "list_definition_mean": [
-      {
-        "mean_english": "hộp nhỏ",
-        "definition": "a box or case usually of metal",
-        "ex_of_definition_list": [
-          "a gas canister."
-        ]
-      }
+    "hash_code_list_img": "-236564318",
+    "list_example": [
+      "The new owners may start building operations and come across the canister or a mass of this radioactive material without knowing what it is.",
+      "At the end of the day there is a canister with film in it; somebody has made it.",
+      "The enlarged capacity of the canister necessitated an increase in the length of the receiving table that held the pipes while they were cut."
     ],
-    "hash_code_list_definition_mean": "145510733"
+    "hash_code_list_example": "1398793299"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cannon_cb_dmean_5000_it.json",
@@ -2152,24 +1621,11 @@
         "id_image": "cannon_4718029"
       }
     ],
-    "hash_code_list_img": "-352515042",
-    "list_definition_mean": [
-      {
-        "mean_english": "súng đại bác",
-        "definition": "a type of large gun used formerly, mounted on a carriage",
-        "ex_of_definition_list": [
-          "Cannons were fired at the fort."
-        ]
-      },
-      {
-        "mean_english": "va vào",
-        "definition": "(with into) to hit or collide with",
-        "ex_of_definition_list": [
-          "He came rushing round the corner and cannoned into me."
-        ]
-      }
+    "hash_code_list_img": "1329169599",
+    "list_example": [
+      "He came rushing round the corner and cannoned into me."
     ],
-    "hash_code_list_definition_mean": "62399042"
+    "hash_code_list_example": "-1004595069"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/canoe_cb_dmean_5000_it.json",
@@ -2208,24 +1664,11 @@
         "id_image": "canoe_4984981"
       }
     ],
-    "hash_code_list_img": "1119874257",
-    "list_definition_mean": [
-      {
-        "mean_english": "xuồng",
-        "definition": "a light narrow boat driven by a paddle or paddles",
-        "ex_of_definition_list": [
-          "The canoe capsized (= turned over)."
-        ]
-      },
-      {
-        "mean_english": "đi bằng xuồng",
-        "definition": "to travel by canoe",
-        "ex_of_definition_list": [
-          "He canoed over the rapids."
-        ]
-      }
+    "hash_code_list_img": "-1417559885",
+    "list_example": [
+      "The canoe capsized (= turned over)."
     ],
-    "hash_code_list_definition_mean": "-1176302989"
+    "hash_code_list_example": "-559289705"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/canon_cb_dmean_5000_it.json",
@@ -2262,45 +1705,12 @@
         "id_image": "canon_942374"
       }
     ],
-    "hash_code_list_img": "355238819",
-    "list_definition_mean": [
-      {
-        "mean_english": "quy tắc",
-        "definition": "a rule (especially of the church)",
-        "ex_of_definition_list": [
-          "The Pope’s decision is in line with the canons of the Catholic Church."
-        ]
-      },
-      {
-        "mean_english": "giáo sĩ",
-        "definition": "a clergyman belonging to a cathedral",
-        "ex_of_definition_list": [
-          "He served as the Canon of St. Alban’s Church in Toronto."
-        ]
-      },
-      {
-        "mean_english": "danh mục các tên thánh",
-        "definition": "a list of saints",
-        "ex_of_definition_list": [
-          "It was John Paul II who asserted that Sister Benedicta belonged in the canon of Christian saints."
-        ]
-      },
-      {
-        "mean_english": "luân khúc",
-        "definition": "a musical composition in which one part enters after another in imitation",
-        "ex_of_definition_list": [
-          "Pachelbel’s canon in D major."
-        ]
-      },
-      {
-        "mean_english": "danh sách tác phẩm của một tác giả",
-        "definition": "all the writings of an author that are accepted as genuine",
-        "ex_of_definition_list": [
-          "the Shakespeare canon."
-        ]
-      }
+    "hash_code_list_img": "1816976197",
+    "list_example": [
+      "It was John Paul II who asserted that Sister Benedicta belonged in the canon of Christian saints.",
+      "Pachelbel’s canon in D major."
     ],
-    "hash_code_list_definition_mean": "-571464095"
+    "hash_code_list_example": "-1999957277"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/canopy_cb_dmean_5000_it.json",
@@ -2323,17 +1733,11 @@
         "id_image": "canopy_3806660"
       }
     ],
-    "hash_code_list_img": "-1547285420",
-    "list_definition_mean": [
-      {
-        "mean_english": "trướng; vòm",
-        "definition": "a covering hung over a throne, bed etc or (on poles) as a shelter",
-        "ex_of_definition_list": [
-          "We sheltered under a canvas canopy in front of the restaurant entrance."
-        ]
-      }
+    "hash_code_list_img": "2057846026",
+    "list_example": [
+      "We sheltered under a canvas canopy in front of the restaurant entrance."
     ],
-    "hash_code_list_definition_mean": "1264031969"
+    "hash_code_list_example": "-1439596769"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/canteen_cb_dmean_5000_it.json",
@@ -2368,31 +1772,12 @@
         "id_image": "canteen_4728676"
       }
     ],
-    "hash_code_list_img": "-1249300219",
-    "list_definition_mean": [
-      {
-        "mean_english": "căng-tin",
-        "definition": "a place where meals are sold in a factory, barracks etc",
-        "ex_of_definition_list": [
-          "We usually eat in the staff canteen."
-        ]
-      },
-      {
-        "mean_english": "hộp đựng dao dĩa",
-        "definition": "a case for, or of, cutlery",
-        "ex_of_definition_list": [
-          "a canteen of silver cutlery."
-        ]
-      },
-      {
-        "mean_english": "bi đông",
-        "definition": "a small container used by soldiers for holding water",
-        "ex_of_definition_list": [
-          "He refilled his canteen from the tap/faucet."
-        ]
-      }
+    "hash_code_list_img": "-1886514239",
+    "list_example": [
+      "a canteen of silver cutlery.",
+      "He refilled his canteen from the tap/faucet."
     ],
-    "hash_code_list_definition_mean": "118767195"
+    "hash_code_list_example": "1335092103"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/canvas_cb_dmean_5000_it.json",
@@ -2431,24 +1816,11 @@
         "id_image": "canvas_4697428"
       }
     ],
-    "hash_code_list_img": "1068927026",
-    "list_definition_mean": [
-      {
-        "mean_english": "vải bạt",
-        "definition": "a coarse cloth made of hemp or flax etc, used for sails, tents etc, and for painting on",
-        "ex_of_definition_list": [
-          "(also adjective) canvas sails."
-        ]
-      },
-      {
-        "mean_english": "bức toan",
-        "definition": "(a piece of canvas for) a painting",
-        "ex_of_definition_list": [
-          "He painted twenty canvases."
-        ]
-      }
+    "hash_code_list_img": "-796241617",
+    "list_example": [
+      "(also adjective) canvas sails."
     ],
-    "hash_code_list_definition_mean": "2047596822"
+    "hash_code_list_example": "-1142935292"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/canyon_cb_dmean_5000_it.json",
@@ -2486,17 +1858,12 @@
         "id_image": "canyon_307814"
       }
     ],
-    "hash_code_list_img": "938115619",
-    "list_definition_mean": [
-      {
-        "mean_english": "hẽm núi",
-        "definition": "a deep valley between high steep banks, usually containing a river",
-        "ex_of_definition_list": [
-          "the Grand Canyon."
-        ]
-      }
+    "hash_code_list_img": "62962048",
+    "list_example": [
+      "Note extensive canyon incision providing the opportunity for section correlation in three dimensions.",
+      "This is his yin-yang talisman of figure-ground polarities: one half built with intermittent canyon streets, the other half open with intermittent obj ect buildings."
     ],
-    "hash_code_list_definition_mean": "836023303"
+    "hash_code_list_example": "-1305117971"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/can_cb_dmean_5000_it.json",
@@ -2534,53 +1901,12 @@
         "id_image": "can_3005162"
       }
     ],
-    "hash_code_list_img": "377871703",
-    "list_definition_mean": [
-      {
-        "mean_english": "khả năng",
-        "definition": "to be able to",
-        "ex_of_definition_list": [
-          "You can do it if you try hard."
-        ]
-      },
-      {
-        "mean_english": "chỉ khả năng",
-        "definition": "to know how to",
-        "ex_of_definition_list": [
-          "Can you drive a car?"
-        ]
-      },
-      {
-        "mean_english": "chỉ sự cho phép",
-        "definition": "(usually may) to have permission to",
-        "ex_of_definition_list": [
-          "You can go on the trip if you behave yourself."
-        ]
-      },
-      {
-        "mean_english": "sử dụng trong câu hỏi ám chỉ sự ngạc nhiên",
-        "definition": "used in questions to indicate surprise, disbelief etc",
-        "ex_of_definition_list": [
-          "What can he be doing all this time?"
-        ]
-      },
-      {
-        "mean_english": "cái hộp",
-        "definition": "a metal container for liquids and many types of food",
-        "ex_of_definition_list": [
-          "an oil can",
-          "a tin can",
-          "six cans of beer."
-        ]
-      },
-      {
-        "mean_english": "đóng hộp",
-        "definition": "to put (especially food) into cans, usually to preserve it",
-        "ex_of_definition_list": [
-          "a factory for canning tomatoes."
-        ]
-      }
+    "hash_code_list_img": "492046726",
+    "list_example": [
+      "You can do it if you try hard.",
+      "You can go on the trip if you behave yourself.",
+      "What can he be doing all this time?"
     ],
-    "hash_code_list_definition_mean": "1772077623"
+    "hash_code_list_example": "-1821446500"
   }
 ]

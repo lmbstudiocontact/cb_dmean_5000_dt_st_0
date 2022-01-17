@@ -27,31 +27,13 @@
         "id_image": "hug_5065458"
       }
     ],
-    "hash_code_list_img": "-1520090027",
-    "list_definition_mean": [
-      {
-        "mean_english": "ôm chặt; ghì chặt",
-        "definition": "to hold close to oneself with the arms, especially to show love",
-        "ex_of_definition_list": [
-          "She hugged her son when he returned from the war."
-        ]
-      },
-      {
-        "mean_english": "đi sát",
-        "definition": "to keep close to",
-        "ex_of_definition_list": [
-          "During the storm, the ships all hugged the shore."
-        ]
-      },
-      {
-        "mean_english": "sự ôm chặt; ghì chặt",
-        "definition": "a tight grasp with the arms, especially to show love",
-        "ex_of_definition_list": [
-          "As they said good-bye she gave him a hug."
-        ]
-      }
+    "hash_code_list_img": "307190037",
+    "list_example": [
+      "A spontaneous hug can cause excruciating pain, resulting in tension in the relationship.",
+      "For example, one patient described that she could no longer lift her arms so that she could hug family members or close friends.",
+      "Finally, there was the \"let's hug each other\" arrangement, whereby the parties agree to blame one another and say that that is a bipartisan approach."
     ],
-    "hash_code_list_definition_mean": "-360938263"
+    "hash_code_list_example": "37192194"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/humanitarian_cb_dmean_5000_it.json",
@@ -80,17 +62,17 @@
         "id_image": "humanitarian_5102260"
       }
     ],
-    "hash_code_list_img": "543820353",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhân đạo",
-        "definition": "concerned with helping people who are living in very bad conditions or who are suffering because of a war or natural disaster",
-        "ex_of_definition_list": [
-          "humanitarian aid."
-        ]
-      }
+    "hash_code_list_img": "2065947795",
+    "list_example": [
+      "humanitarian aid.",
+      "Alongside humanitarian work for the most needy, the organisation also runs projects directed towards socially more stable and well-established groups.",
+      "Economic and political motives seemed to take precedence over humanitarian considerations.",
+      "The series seemed to instil documentary and humanitarian characteristics into each film of its own accord, as though a matter of course.",
+      "Resource flows to support ' humanitarian ' imperatives, are then used by these warriers for political purposes.",
+      "This humanitarian reform philosophy was to have lasting effects on the treatment of children.",
+      "This assertion supports the view that principles of humanitarian law remain applicable to refugees who are caught in the midst of armed conflicts."
     ],
-    "hash_code_list_definition_mean": "129730251"
+    "hash_code_list_example": "752625096"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/humanity_cb_dmean_5000_it.json",
@@ -114,24 +96,14 @@
         "id_image": "human_2640779"
       }
     ],
-    "hash_code_list_img": "619806046",
-    "list_definition_mean": [
-      {
-        "mean_english": "lòng nhân đạo",
-        "definition": "kindness",
-        "ex_of_definition_list": [
-          "a man of great humanity."
-        ]
-      },
-      {
-        "mean_english": "loài người",
-        "definition": "people in general",
-        "ex_of_definition_list": [
-          "Knowledge should be freely available for all humanity."
-        ]
-      }
+    "hash_code_list_img": "-1121407437",
+    "list_example": [
+      "a man of great humanity.",
+      "Knowledge should be freely available for all humanity.",
+      "Instead, the clump's existing could help explain humanity's being instanced at all.",
+      "She appears as an avatar concerned first and foremost with alleviating humanity's everyday suffering."
     ],
-    "hash_code_list_definition_mean": "1646377616"
+    "hash_code_list_example": "820448117"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/human_cb_dmean_5000_it.json",
@@ -160,25 +132,11 @@
         "id_image": "human_3382602"
       }
     ],
-    "hash_code_list_img": "187361443",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc con người",
-        "definition": "of, natural to, concerning, or belonging to, mankind",
-        "ex_of_definition_list": [
-          "human nature",
-          "The dog was so clever that he seemed almost human."
-        ]
-      },
-      {
-        "mean_english": "con người",
-        "definition": "a person",
-        "ex_of_definition_list": [
-          "Humans are not as different from animals as we might think."
-        ]
-      }
+    "hash_code_list_img": "992308731",
+    "list_example": [
+      "human nature"
     ],
-    "hash_code_list_definition_mean": "655202550"
+    "hash_code_list_example": "1588545305"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/humour_cb_dmean_5000_it.json",
@@ -198,31 +156,15 @@
         "id_image": "humour_2178177"
       }
     ],
-    "hash_code_list_img": "1010091184",
-    "list_definition_mean": [
-      {
-        "mean_english": "biết đùa",
-        "definition": "the ability to amuse people; quickness to spot a joke",
-        "ex_of_definition_list": [
-          "He has a great sense of humour."
-        ]
-      },
-      {
-        "mean_english": "sự hài hước",
-        "definition": "the quality of being amusing",
-        "ex_of_definition_list": [
-          "the humour of the situation."
-        ]
-      },
-      {
-        "mean_english": "làm vừa lòng",
-        "definition": "to please (someone) by agreeing with him or doing as he wishes",
-        "ex_of_definition_list": [
-          "There is no point in telling him he is wrong – just humour him instead."
-        ]
-      }
+    "hash_code_list_img": "2022055357",
+    "list_example": [
+      "the humour of the situation.",
+      "There is no point in telling him he is wrong – just humour him instead.",
+      "The humour originates from the fact that you will often be convinced that you know, or have been taught by, the precise teacher being described.",
+      "Further analysis revealed that all subjects (patients and controls) were susceptible regarding humour (minimum laughing frequency=3).",
+      "They focus on its absurdities and the humour to be derived from seeking to regulate human behaviour by means of formal rules."
     ],
-    "hash_code_list_definition_mean": "-2043246042"
+    "hash_code_list_example": "2967136"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hump_cb_dmean_5000_it.json",
@@ -246,17 +188,11 @@
         "id_image": "hump_4344740"
       }
     ],
-    "hash_code_list_img": "-569461941",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái bướu (lạc đà…)",
-        "definition": "a large lump on the back of an animal, person etc",
-        "ex_of_definition_list": [
-          "a camel’s hump."
-        ]
-      }
+    "hash_code_list_img": "85288478",
+    "list_example": [
+      "a camel’s hump."
     ],
-    "hash_code_list_definition_mean": "1352550689"
+    "hash_code_list_example": "211913710"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hunger_cb_dmean_5000_it.json",
@@ -297,38 +233,11 @@
         "id_image": "hunger_708678"
       }
     ],
-    "hash_code_list_img": "931884096",
-    "list_definition_mean": [
-      {
-        "mean_english": "tình trạng đói",
-        "definition": "the desire for food",
-        "ex_of_definition_list": [
-          "A cheese roll won’t satisfy my hunger."
-        ]
-      },
-      {
-        "mean_english": "sự đói",
-        "definition": "the state of not having enough food",
-        "ex_of_definition_list": [
-          "Poor people in many parts of the world are dying of hunger."
-        ]
-      },
-      {
-        "mean_english": "sự khao khát",
-        "definition": "any strong desire",
-        "ex_of_definition_list": [
-          "a hunger for love."
-        ]
-      },
-      {
-        "mean_english": "khao khát",
-        "definition": "(usually with for) to long for (eg affection, love)",
-        "ex_of_definition_list": [
-          "He hungered for a bit of peace and quiet."
-        ]
-      }
+    "hash_code_list_img": "1163081874",
+    "list_example": [
+      "a hunger for love."
     ],
-    "hash_code_list_definition_mean": "1044144558"
+    "hash_code_list_example": "307931574"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hungry_cb_dmean_5000_it.json",
@@ -361,19 +270,17 @@
         "id_image": "hungry_5046973"
       }
     ],
-    "hash_code_list_img": "-190134832",
-    "list_definition_mean": [
-      {
-        "mean_english": "đói",
-        "definition": "wanting or needing food etc",
-        "ex_of_definition_list": [
-          "a hungry baby",
-          "I’m hungry – I haven’t eaten all day",
-          "He’s hungry for adventure."
-        ]
-      }
+    "hash_code_list_img": "-841163100",
+    "list_example": [
+      "a hungry baby",
+      "I’m hungry – I haven’t eaten all day",
+      "He’s hungry for adventure.",
+      "Nonnative speakers (and their teachers) are hungry to know the rules and regularities of the written language they are learning and teaching.",
+      "They portrayed hungry victims wandering from saloon to saloon, looking for father.",
+      "Equally, another might move earlier and risk the chance of going hungry to experience higher quality hosts over a larger area.",
+      "The prototypes are either incomplete, or too slow or space hungry to be used as a real application."
     ],
-    "hash_code_list_definition_mean": "130629256"
+    "hash_code_list_example": "-417970540"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hunt_cb_dmean_5000_it.json",
@@ -399,38 +306,11 @@
         "id_image": "hunt_784387"
       }
     ],
-    "hash_code_list_img": "-194163749",
-    "list_definition_mean": [
-      {
-        "mean_english": "săn bắn",
-        "definition": "to chase (animals etc) for food or for sport",
-        "ex_of_definition_list": [
-          "He spent the whole day hunting (deer)."
-        ]
-      },
-      {
-        "mean_english": "săn đuổi; tìm kiếm",
-        "definition": "to pursue or drive out",
-        "ex_of_definition_list": [
-          "The murderer was hunted from town to town."
-        ]
-      },
-      {
-        "mean_english": "cuộc đi săn",
-        "definition": "the act of hunting animals etc",
-        "ex_of_definition_list": [
-          "a fox hunt."
-        ]
-      },
-      {
-        "mean_english": "cuộc tìm kiếm",
-        "definition": "a search",
-        "ex_of_definition_list": [
-          "I’ll have a hunt for that lost necklace."
-        ]
-      }
+    "hash_code_list_img": "436649820",
+    "list_example": [
+      "I’ll have a hunt for that lost necklace."
     ],
-    "hash_code_list_definition_mean": "-657257860"
+    "hash_code_list_example": "-150537417"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hurdle_cb_dmean_5000_it.json",
@@ -450,24 +330,20 @@
         "id_image": "hurdle_2042607"
       }
     ],
-    "hash_code_list_img": "1331428329",
-    "list_definition_mean": [
-      {
-        "mean_english": "khó khăn cần vượt qua",
-        "definition": "a problem or difficulty",
-        "ex_of_definition_list": [
-          "There are several hurdles to be got over in this project."
-        ]
-      },
-      {
-        "mean_english": "chạy vượt rào",
-        "definition": "to run in a race in which hurdles are used",
-        "ex_of_definition_list": [
-          "He has hurdled since he was twelve."
-        ]
-      }
+    "hash_code_list_img": "1188469955",
+    "list_example": [
+      "There are several hurdles to be got over in this project.",
+      "He has hurdled since he was twelve.",
+      "A healthy education system does not consist simply of a series of hurdles.",
+      "While the former power can by no means guarantee the final adoption of a proposed piece of legislation, the latter entails two hurdles.",
+      "One of those hurdles, according to some stem cell scientists, is research involving the creation of part-human chimeras.",
+      "Many people allege that a degree in either politics or law is required to succeed in leaping these hurdles.",
+      "There is a series of hurdles to be overcome in legal claims, whether one is defending or promoting.",
+      "Generating an attraction for and enjoyment of a subject is one of the first hurdles any teacher faces.",
+      "However, there are several technical hurdles to be overcome before an antimatter rocket can be built.",
+      "One of the big hurdles that we have to overcome is that dentists distrust the present set-up."
     ],
-    "hash_code_list_definition_mean": "440810178"
+    "hash_code_list_example": "1457453368"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hurricane_cb_dmean_5000_it.json",
@@ -500,17 +376,16 @@
         "id_image": "hurricane_798347"
       }
     ],
-    "hash_code_list_img": "-1504160917",
-    "list_definition_mean": [
-      {
-        "mean_english": "bão",
-        "definition": "a violent storm with winds blowing at over 120 kilometres/kilometers per hour",
-        "ex_of_definition_list": [
-          "They forecast a hurricane for the Southeastern US."
-        ]
-      }
+    "hash_code_list_img": "-550583651",
+    "list_example": [
+      "They forecast a hurricane for the Southeastern US.",
+      "The effect of a hurricane covers a greater area and produces many gaps comprising multiple treefalls, and may therefore produce more noticeable or different effects.",
+      "One is taken by the hurricane or the currents and is shipwrecked.",
+      "Relative variability of the total snail assemblage was unaffected by either hurricane identity or time since disturbance.",
+      "In all but the hurricane domains the dominant issue on the agenda changes when an event is specifically mentioned.",
+      "The dominant issue in the hurricane domain - disaster relief - remains constant because there is no obvious advocacy coalition in the hurricane domain."
     ],
-    "hash_code_list_definition_mean": "1428887061"
+    "hash_code_list_example": "1945128738"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hurry_cb_dmean_5000_it.json",
@@ -536,39 +411,14 @@
         "id_image": "hurry_6066638"
       }
     ],
-    "hash_code_list_img": "-597751456",
-    "list_definition_mean": [
-      {
-        "mean_english": "thúc giục",
-        "definition": "to (cause to) move or act quickly, often too quickly",
-        "ex_of_definition_list": [
-          "You’d better hurry if you want to catch that bus",
-          "If you hurry me, I’ll make mistakes."
-        ]
-      },
-      {
-        "mean_english": "vội vã",
-        "definition": "to convey quickly",
-        "ex_of_definition_list": [
-          "After the accident, the injured man was hurried to the hospital."
-        ]
-      },
-      {
-        "mean_english": "sự vội vàng",
-        "definition": "the act of doing something quickly, often too quickly",
-        "ex_of_definition_list": [
-          "In his hurry to leave, he fell and broke his arm."
-        ]
-      },
-      {
-        "mean_english": "hối hả",
-        "definition": "the need to do something quickly",
-        "ex_of_definition_list": [
-          "Is there any hurry for this job?"
-        ]
-      }
+    "hash_code_list_img": "1854277984",
+    "list_example": [
+      "You’d better hurry if you want to catch that bus",
+      "If you hurry me, I’ll make mistakes.",
+      "In his hurry to leave, he fell and broke his arm.",
+      "Is there any hurry for this job?"
     ],
-    "hash_code_list_definition_mean": "631297068"
+    "hash_code_list_example": "139452383"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hurt_cb_dmean_5000_it.json",
@@ -601,53 +451,15 @@
         "id_image": "hurt_3561448"
       }
     ],
-    "hash_code_list_img": "790671236",
-    "list_definition_mean": [
-      {
-        "mean_english": "làm bị thương",
-        "definition": "to injure or cause pain to",
-        "ex_of_definition_list": [
-          "I hurt my hand on that broken glass."
-        ]
-      },
-      {
-        "mean_english": "xúc phạm",
-        "definition": "to upset (a person or his feelings)",
-        "ex_of_definition_list": [
-          "He hurt me / my feelings by ignoring me."
-        ]
-      },
-      {
-        "mean_english": "bị đau",
-        "definition": "to be painful",
-        "ex_of_definition_list": [
-          "My tooth hurts."
-        ]
-      },
-      {
-        "mean_english": "làm hại",
-        "definition": "to do harm (to) or have a bad effect (on)",
-        "ex_of_definition_list": [
-          "It wouldn’t hurt you to work late just once."
-        ]
-      },
-      {
-        "mean_english": "buồn; tổn thương",
-        "definition": "upset; distressed",
-        "ex_of_definition_list": [
-          "She felt very hurt at/by his behaviour",
-          "her hurt feelings."
-        ]
-      },
-      {
-        "mean_english": "bị thương",
-        "definition": "injured",
-        "ex_of_definition_list": [
-          "Are you badly hurt?"
-        ]
-      }
+    "hash_code_list_img": "138465575",
+    "list_example": [
+      "I hurt my hand on that broken glass.",
+      "He hurt me / my feelings by ignoring me.",
+      "It wouldn’t hurt you to work late just once.",
+      "She felt very hurt at/by his behaviour",
+      "her hurt feelings."
     ],
-    "hash_code_list_definition_mean": "-1960570594"
+    "hash_code_list_example": "-2073560820"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/husband_cb_dmean_5000_it.json",
@@ -676,17 +488,11 @@
         "id_image": "husband_5526243"
       }
     ],
-    "hash_code_list_img": "1249690807",
-    "list_definition_mean": [
-      {
-        "mean_english": "tiết kiệm",
-        "definition": "to spend or use carefully, a little at a time",
-        "ex_of_definition_list": [
-          "He needs to husband his strength."
-        ]
-      }
+    "hash_code_list_img": "1274034851",
+    "list_example": [
+      "He needs to husband his strength."
     ],
-    "hash_code_list_definition_mean": "108946090"
+    "hash_code_list_example": "421325210"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/husky_cb_dmean_5000_it.json",
@@ -705,17 +511,17 @@
         "id_image": "husky_6236513"
       }
     ],
-    "hash_code_list_img": "1025281876",
-    "list_definition_mean": [
-      {
-        "mean_english": "giọng khàn",
-        "definition": "(of a voice) rough in sound and difficult to hear",
-        "ex_of_definition_list": [
-          "You sound husky – have you got a cold?"
-        ]
-      }
+    "hash_code_list_img": "1367071999",
+    "list_example": [
+      "You sound husky – have you got a cold?",
+      "A scuffle in it occurs until the beard falls off, and the husky is exposed.",
+      "Her voice was husky from singing in smoky bars before she achieved fame.",
+      "A husky lad, he looked older than he was and as such was permitted into such establishments.",
+      "On the way, a hungry husky spots and starts to pursue the dog.",
+      "With their husky and attractive voices, the girls express the feelings of a female, who longs after her previous lover.",
+      "In 1922, the university adopted the husky as its mascot and athletic nickname."
     ],
-    "hash_code_list_definition_mean": "250488540"
+    "hash_code_list_example": "2000682049"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hut_cb_dmean_5000_it.json",
@@ -753,17 +559,13 @@
         "id_image": "hut_434559"
       }
     ],
-    "hash_code_list_img": "332140803",
-    "list_definition_mean": [
-      {
-        "mean_english": "túp lều",
-        "definition": "a small house or shelter, usually made of wood",
-        "ex_of_definition_list": [
-          "a wooden hut."
-        ]
-      }
+    "hash_code_list_img": "1831444127",
+    "list_example": [
+      "This is an entrance gate watchman's shelter hut at the commencement of an avenue of trees, with shrubberies on three sides of it.",
+      "This country retreat included a rather primitive hut surrounded by acres of property owned by the family.",
+      "Each hut was surrounded by a water-filled moat to exclude ants and spiders."
     ],
-    "hash_code_list_definition_mean": "1234130759"
+    "hash_code_list_example": "-813899092"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hybrid_cb_dmean_5000_it.json",
@@ -788,24 +590,12 @@
         "id_image": "hybrid_4796163"
       }
     ],
-    "hash_code_list_img": "597550507",
-    "list_definition_mean": [
-      {
-        "mean_english": "cây, vật lai tạo",
-        "definition": "an animal or plant produced from parents of different species or varieties",
-        "ex_of_definition_list": [
-          "A liger is a hybrid of a lion and a tiger."
-        ]
-      },
-      {
-        "mean_english": "sự lai tạo",
-        "definition": "something that is the result of mixing two or more different things or styles",
-        "ex_of_definition_list": [
-          "The band plays a hybrid of rock and jazz."
-        ]
-      }
+    "hash_code_list_img": "746383601",
+    "list_example": [
+      "A liger is a hybrid of a lion and a tiger.",
+      "The band plays a hybrid of rock and jazz."
     ],
-    "hash_code_list_definition_mean": "144816357"
+    "hash_code_list_example": "-1770178069"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hydrant_cb_dmean_5000_it.json",
@@ -828,17 +618,11 @@
         "id_image": "hydrant_231953"
       }
     ],
-    "hash_code_list_img": "-911162254",
-    "list_definition_mean": [
-      {
-        "mean_english": "họng nước",
-        "definition": "a pipe connected to the main water supply especially in a street, to which a hose can be attached in order to draw water off eg to put out a fire",
-        "ex_of_definition_list": [
-          "a fire hydrant."
-        ]
-      }
+    "hash_code_list_img": "-1629636933",
+    "list_example": [
+      "There was delay in getting the hydrant system working."
     ],
-    "hash_code_list_definition_mean": "768894642"
+    "hash_code_list_example": "-947664257"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hydraulic_cb_dmean_5000_it.json",
@@ -857,24 +641,20 @@
         "id_image": "hydraulic_2387907"
       }
     ],
-    "hash_code_list_img": "1529468600",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuỷ lực",
-        "definition": "worked by the pressure of water or some other liquid",
-        "ex_of_definition_list": [
-          "hydraulic brakes."
-        ]
-      },
-      {
-        "mean_english": "thuộc thuỷ lực",
-        "definition": "relating to hydraulics",
-        "ex_of_definition_list": [
-          "a hydraulic engineer."
-        ]
-      }
+    "hash_code_list_img": "570434680",
+    "list_example": [
+      "hydraulic brakes.",
+      "a hydraulic engineer.",
+      "The latter may seem somewhat specialized, but is important because hydraulic actuators are critical components of robotic devices that enter hazardous environments.",
+      "Each hole connected by nylon hydraulic tubing to a ' fluid commutator ', a manifold containing a rotatable, ported centre-body.",
+      "Further improvement was sometimes achieved by trial-and-error adjustment of the valves controlling the oil pressures in the hydraulic system.",
+      "Nevertheless, the development and enlargement of an integrated hydraulic network in the thirteenth century inclined proprietors to take precautions against usurpers.",
+      "Melted paraffin wax was poured over the agar to provide an effective hydraulic seal.",
+      "Also, the actuator is equipped with two pressure sensors in the hydraulic circuit; they monitor the output torque.",
+      "But conventional hydraulic jumps form only upstream of some obstruction in the channel, while in the present case there is no obstruction.",
+      "The present day humanoid robots are stiff-legged, have complex structures, and do not use energy restoring element like pneumatic hydraulic cylinders or mechanical springs."
     ],
-    "hash_code_list_definition_mean": "1117520618"
+    "hash_code_list_example": "1825613296"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hygiene_cb_dmean_5000_it.json",
@@ -907,17 +687,14 @@
         "id_image": "hygiene_3035083"
       }
     ],
-    "hash_code_list_img": "-988568979",
-    "list_definition_mean": [
-      {
-        "mean_english": "vệ sinh",
-        "definition": "(the rules or science of) cleanliness whose aim is to preserve health and prevent the spread of disease",
-        "ex_of_definition_list": [
-          "dental hygiene."
-        ]
-      }
+    "hash_code_list_img": "693383705",
+    "list_example": [
+      "The resulting typhoid ('enteric fever ' or maagkoors) epidemics claimed victims annually and the tenants' ignorance of basic hygiene perpetuated the cycle.",
+      "Yet their operation was shaped by the conditions and acute clinical needs of the regions involved rather than any general aspirations to mental hygiene ideals.",
+      "Compost now sold from the farm carries a quite clear health warning and the basic hygiene precautions which should be observed during its handling.",
+      "In addition to hygiene problems, maintenance of the distribution system proved to be crucial for the delivery of good-quality drinking water."
     ],
-    "hash_code_list_definition_mean": "1515886427"
+    "hash_code_list_example": "-845352513"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hygienic_cb_dmean_5000_it.json",
@@ -950,17 +727,17 @@
         "id_image": "hygienic_3663434"
       }
     ],
-    "hash_code_list_img": "1543454859",
-    "list_definition_mean": [
-      {
-        "mean_english": "hợp vệ sinh",
-        "definition": "(opposite unhygienic) free from germs or dirt",
-        "ex_of_definition_list": [
-          "Hygienic conditions are essential in a hospital."
-        ]
-      }
+    "hash_code_list_img": "-1195485921",
+    "list_example": [
+      "Maternalist objectives led to the creation of charitable, educational, and hygienic institutions that improved the general welfare of the citizen.",
+      "Only to perceive and never to exude odors may not be, after all, as hygienic as one might have thought.",
+      "This project to ' control water ' always involved a parallel campaign of citizen improvement, that is, to create a ' hygienic instinct ' among the lower classes.",
+      "The association of ascariasis with several risk factors, such as socio-economic level, hygienic habits and housing factors, is also discussed.",
+      "On the surface, colonial hygienic drives seemed to differ little from metropolitan ones.",
+      "Before the outbreak of war, serum hosts were kept under excellent hygienic conditions.",
+      "Calculation of an equitability index revealed that the specific richness was less equitable once socioeconomic conditions and hygienic practices were improved."
     ],
-    "hash_code_list_definition_mean": "1640224715"
+    "hash_code_list_example": "1954185131"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hypnosis_cb_dmean_5000_it.json",
@@ -988,17 +765,14 @@
         "id_image": "hypnosis_4897570"
       }
     ],
-    "hash_code_list_img": "2141644800",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự thôi miên",
-        "definition": "a sleep-like state caused by the action of another person who can then make the sleeper obey his commands",
-        "ex_of_definition_list": [
-          "His act involves putting people under hypnosis."
-        ]
-      }
+    "hash_code_list_img": "928379693",
+    "list_example": [
+      "No hypnosis control group was included in our study and hypnotic induction of ' blindness ' has not, to our knowledge, been reported.",
+      "Attempts to identify predictors of hypnosis success were not fruitful with one exception.",
+      "The hypnosis hypothesis assigns a higher degree of probability to that observation than does the witness hypothesis.",
+      "Now, it is clear that the hypnosis hypothesis could be a better explanation than the witness hypothesis."
     ],
-    "hash_code_list_definition_mean": "2044812393"
+    "hash_code_list_example": "-977244683"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hypnotize_cb_dmean_5000_it.json",
@@ -1017,23 +791,19 @@
         "id_image": "hypnotize_3834110"
       }
     ],
-    "hash_code_list_img": "1815772067",
-    "list_definition_mean": [
-      {
-        "mean_english": "thôi miên",
-        "definition": "to put in a state of hypnosis",
-        "ex_of_definition_list": [
-          "The hypnotist hypnotized three people from the audience."
-        ]
-      },
-      {
-        "mean_english": "làm mê mẩn",
-        "definition": "to fascinate completely",
-        "ex_of_definition_list": [
-          "Her beauty hypnotized him."
-        ]
-      }
+    "hash_code_list_img": "503319094",
+    "list_example": [
+      "The hypnotist hypnotized three people from the audience.",
+      "Her beauty hypnotized him.",
+      "She was hypnotized four times throughout the series.",
+      "He hypnotized kids to be under his control.",
+      "The plot concerns an insurance investigator and an efficiency expert who are both hypnotized by a crooked hypnotist into stealing jewels.",
+      "The necromancer offers the clergyman a dinner of partridges and promptly hypnotizes him into believing he ascends to the papacy in a matter of a few years.",
+      "The detective tries to blackmail her, but she hypnotizes him and forces him to leave.",
+      "We were never hypnotized to tell our stories.",
+      "Many professionals think that these tests produce results because they involve attentional control and a certain level of concentration is required to be hypnotized.",
+      "The wedding guests are hypnotized by the rosebush cane straw-wraps (\"chochoy\") who came to life and joined the party, from the farmhouse garden."
     ],
-    "hash_code_list_definition_mean": "716748660"
+    "hash_code_list_example": "1588205966"
   }
 ]

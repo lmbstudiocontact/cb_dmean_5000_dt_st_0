@@ -20,17 +20,14 @@
         "id_image": "simplify_5398110"
       }
     ],
-    "hash_code_list_img": "2130116652",
-    "list_definition_mean": [
-      {
-        "mean_english": "đơn giản hoá",
-        "definition": "to make simpler",
-        "ex_of_definition_list": [
-          "Can you simplify your language a little?"
-        ]
-      }
+    "hash_code_list_img": "-1678046812",
+    "list_example": [
+      "Can you simplify your language a little?",
+      "Variables within time points were permitted to correlate; however, these relations are not shown to simplify presentation.",
+      "The use of bounding volumes allows to simplify the mathematical representation and reduces the computational complexity.",
+      "The application of these assays to the current prevention strategies will simplify the prevention practice and rationalise the use of antibiotics."
     ],
-    "hash_code_list_definition_mean": "172595582"
+    "hash_code_list_example": "1821593011"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/simulation_cb_dmean_5000_it.json",
@@ -59,17 +56,11 @@
         "id_image": "simulation_4795547"
       }
     ],
-    "hash_code_list_img": "1830945283",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự bắt chước",
-        "definition": "something made to resemble something else",
-        "ex_of_definition_list": [
-          "a computer simulation of aircraft flight."
-        ]
-      }
+    "hash_code_list_img": "-730633553",
+    "list_example": [
+      "a computer simulation of aircraft flight."
     ],
-    "hash_code_list_definition_mean": "505742680"
+    "hash_code_list_example": "-44234935"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/simulator_cb_dmean_5000_it.json",
@@ -102,17 +93,13 @@
         "id_image": "simulator_950700"
       }
     ],
-    "hash_code_list_img": "2088954467",
-    "list_definition_mean": [
-      {
-        "mean_english": "thiết bị mô phỏng",
-        "definition": "a machine that is used for training people by artificially creating the conditions they will have to operate a plane, train etc in",
-        "ex_of_definition_list": [
-          "A flight simulator is used to train the pilots."
-        ]
-      }
+    "hash_code_list_img": "-1162013622",
+    "list_example": [
+      "A flight simulator is used to train the pilots.",
+      "However, by definition, a simulator represents an abstract representation of the real-world environment and it is desirable to validate simulation results with real-world hardware.",
+      "Such simulator software allows one to generate virtual worlds where the dynamic objects can be manipulated, and the reaction forces are calculated."
     ],
-    "hash_code_list_definition_mean": "982180641"
+    "hash_code_list_example": "395740453"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/since_cb_dmean_5000_it.json",
@@ -141,66 +128,20 @@
         "id_image": "since_5361023"
       }
     ],
-    "hash_code_list_img": "-553751806",
-    "list_definition_mean": [
-      {
-        "mean_english": "từ khi",
-        "definition": "(often with ever) from a certain time onwards",
-        "ex_of_definition_list": [
-          "I have been at home (ever) since I returned from Italy."
-        ]
-      },
-      {
-        "mean_english": "kể từ",
-        "definition": "at a time after",
-        "ex_of_definition_list": [
-          "Since he agreed to come, he has become ill."
-        ]
-      },
-      {
-        "mean_english": "bởi vì, vì lẽ rằng",
-        "definition": "because",
-        "ex_of_definition_list": [
-          "Since you are going, I will go too."
-        ]
-      },
-      {
-        "mean_english": "từ lúc ấy",
-        "definition": "(usually with ever) from that time onwards",
-        "ex_of_definition_list": [
-          "We fought and I have avoided him ever since."
-        ]
-      },
-      {
-        "mean_english": "từ đó",
-        "definition": "at a later time",
-        "ex_of_definition_list": [
-          "We have since become friends."
-        ]
-      },
-      {
-        "mean_english": "từ một thời điểm trong quá khứ đến nay",
-        "definition": "from the time of (something in the past) until the present time",
-        "ex_of_definition_list": [
-          "She has been very unhappy ever since her quarrel with her boyfriend."
-        ]
-      },
-      {
-        "mean_english": "kể từ",
-        "definition": "at a time between (something in the past) and the present time",
-        "ex_of_definition_list": [
-          "I’ve changed my address since last year."
-        ]
-      },
-      {
-        "mean_english": "kể từ khi",
-        "definition": "from the time of (the invention, discovery etc of)",
-        "ex_of_definition_list": [
-          "the greatest invention since the wheel."
-        ]
-      }
+    "hash_code_list_img": "-1425385101",
+    "list_example": [
+      "I have been at home (ever) since I returned from Italy.",
+      "We have since become friends.",
+      "She has been very unhappy ever since her quarrel with her boyfriend.",
+      "I’ve changed my address since last year.",
+      "the greatest invention since the wheel.",
+      "Indeed, they cannot do so, since a debt cannot be paid twice, and their own reparation - their repentance and apology - sufficiently pays it.",
+      "They do care about the methodology since it affects the efficiency of their software development process and their revenue.",
+      "His condition had worsened since his last visit 1 week earlier.",
+      "Basically, farmers and businessmen are opposed to green taxes because they increase production costs and are burdensome since they create uncertainty about future tax levels.",
+      "She has been continuously hospitalized since she was in her teens."
     ],
-    "hash_code_list_definition_mean": "-1200569710"
+    "hash_code_list_example": "1503373978"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/singer_cb_dmean_5000_it.json",
@@ -228,18 +169,11 @@
         "id_image": "singer_5167402"
       }
     ],
-    "hash_code_list_img": "91654675",
-    "list_definition_mean": [
-      {
-        "mean_english": "ca sĩ",
-        "definition": "a person who sings, eg as a profession",
-        "ex_of_definition_list": [
-          "Are you a good singer?",
-          "He’s a trained singer."
-        ]
-      }
+    "hash_code_list_img": "-1672844731",
+    "list_example": [
+      "There are no lyrics; rather the singer uses neo-syllables2 to complement lyrical sounds on the saxophone."
     ],
-    "hash_code_list_definition_mean": "204836689"
+    "hash_code_list_example": "-1448726928"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/single_cb_dmean_5000_it.json",
@@ -267,52 +201,23 @@
         "id_image": "single_5509321"
       }
     ],
-    "hash_code_list_img": "-1094009818",
-    "list_definition_mean": [
-      {
-        "mean_english": "đơn độc",
-        "definition": "one only",
-        "ex_of_definition_list": [
-          "The spider hung on a single thread."
-        ]
-      },
-      {
-        "mean_english": "đơn",
-        "definition": "for one person only",
-        "ex_of_definition_list": [
-          "a single bed/mattress."
-        ]
-      },
-      {
-        "mean_english": "độc thân",
-        "definition": "unmarried",
-        "ex_of_definition_list": [
-          "a single person."
-        ]
-      },
-      {
-        "mean_english": "một chiều",
-        "definition": "for or in one direction only",
-        "ex_of_definition_list": [
-          "a single ticket/journey/fare."
-        ]
-      },
-      {
-        "mean_english": "đĩa ghi âm mỗi mặt chỉ có ghi một bài hát ngắn",
-        "definition": "a gramophone record with only one tune or song on each side",
-        "ex_of_definition_list": [
-          "This group have just brought out a new single."
-        ]
-      },
-      {
-        "mean_english": "vé một chiều",
-        "definition": "a one-way ticket",
-        "ex_of_definition_list": [
-          "A single to Cambridge, please."
-        ]
-      }
+    "hash_code_list_img": "-320761232",
+    "list_example": [
+      "The spider hung on a single thread.",
+      "a single bed/mattress.",
+      "a single person.",
+      "a single ticket/journey/fare.",
+      "A single to Cambridge, please.",
+      "The census returns indicate that many of those single solitaries - though some of the married ones also - were inmigrants.",
+      "Analysis of single channel records indicate that the effect is to favor transition to a substate rather than to physically alter the conductance pathway.",
+      "The mapping between surface and lexical levels is reduced to a single function call and two simple conversions from text to binary, and vice versa.",
+      "The net free energy change then represents the difference between several large-value terms, and no single component can be said to dominate.",
+      "Within a single state and society, by contrast, politics was supposed to be about the common good.",
+      "I believe that the normative responses to reasoning tasks as well as the systematic deviations from them can be explained within a single reasoning system.",
+      "If there is no such syllable, the syllable with a single coda consonant is stressed.",
+      "To conduct such work, information derived from single census-type listings is not sufficient."
     ],
-    "hash_code_list_definition_mean": "1789463449"
+    "hash_code_list_example": "-1036999723"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sink_cb_dmean_5000_it.json",
@@ -345,55 +250,13 @@
         "id_image": "sink_780818"
       }
     ],
-    "hash_code_list_img": "-118164719",
-    "list_definition_mean": [
-      {
-        "mean_english": "chìm",
-        "definition": "to (cause to) go down below the surface of water etc",
-        "ex_of_definition_list": [
-          "The torpedo sank the battleship immediately",
-          "The ship sank in deep water."
-        ]
-      },
-      {
-        "mean_english": "lặn xuống dưới chân trời",
-        "definition": "to go down or become lower (slowly)",
-        "ex_of_definition_list": [
-          "The sun sank slowly behind the hills",
-          "Her voice sank to a whisper."
-        ]
-      },
-      {
-        "mean_english": "xuyên vào, ngập sâu vào",
-        "definition": "to (cause to) go deeply (into something)",
-        "ex_of_definition_list": [
-          "The ink sank into the paper",
-          "He sank his teeth into an apple."
-        ]
-      },
-      {
-        "mean_english": "xuống thấp, lắng xuống",
-        "definition": "(of one’s spirits etc) to become depressed or less hopeful",
-        "ex_of_definition_list": [
-          "My heart sinks when I think of the difficulties ahead."
-        ]
-      },
-      {
-        "mean_english": "đầu tư",
-        "definition": "to invest (money)",
-        "ex_of_definition_list": [
-          "He sank all his savings in the business."
-        ]
-      },
-      {
-        "mean_english": "bồn rửa bát, chậu rửa bát",
-        "definition": "a kind of basin with a drain and a water supply connected to it",
-        "ex_of_definition_list": [
-          "He washed the dishes in the sink."
-        ]
-      }
+    "hash_code_list_img": "-1043362909",
+    "list_example": [
+      "A projection is applied whenever an inward directed wave-front occurs as the immediate super-term of a sink term.",
+      "In these localities, eggs which sink to the bottom are likely to survive for successful transmission to potential intermediate hosts, such as benthic copepods.",
+      "This inclusion is in fact simple because the source/sink terms enter with opposite signs in the equations for ions and neutrals."
     ],
-    "hash_code_list_definition_mean": "1128346640"
+    "hash_code_list_example": "-1959117472"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sinus_cb_dmean_5000_it.json",
@@ -411,18 +274,19 @@
         "id_image": "sinus_2332814"
       }
     ],
-    "hash_code_list_img": "1050046086",
-    "list_definition_mean": [
-      {
-        "mean_english": "xoang",
-        "definition": "an air-filled hollow in the bones of the skull, connected with the nose",
-        "ex_of_definition_list": [
-          "His sinuses frequently become blocked in the winter",
-          "(also adjective) He suffers from sinus trouble."
-        ]
-      }
+    "hash_code_list_img": "769686646",
+    "list_example": [
+      "(also adjective) He suffers from sinus trouble.",
+      "An electrocardiogram showed sinus rhythm with first degree atrioventricular block that advanced intermittently to second degree atrioventricular block.",
+      "The sinus impulse is distributed through the plain working myocardium of the atrial walls to reach the atrioventricular junction.",
+      "There was no evidence of impaired sinoatrial conduction, sinus nodal dysfunction or incomplete sinus node suppression during overdrive stimulation.",
+      "In left isomerism, the venous sinus fails to incorporate into the right-sided atrium.",
+      "In patients with large pericardial effusions, however, clear identification of the site of drainage of the coronary sinus was difficult.",
+      "All patients reached the intensive care unit in sinus rhythm and received standard doses of (5-10 urn/kg/ min) dopamine.",
+      "In seven percent of the cases, the sinus nodal artery took origin from a separate orifice within the same sinus as a major coronary artery.",
+      "This rotation moves the right coronary sinus leftwards and superiorly beneath the outlet septum, which misses its lower attachment."
     ],
-    "hash_code_list_definition_mean": "2115270727"
+    "hash_code_list_example": "-1156033940"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sin_cb_dmean_5000_it.json",
@@ -441,25 +305,11 @@
         "id_image": "sin_4727683"
       }
     ],
-    "hash_code_list_img": "590398948",
-    "list_definition_mean": [
-      {
-        "mean_english": "tội lỗi",
-        "definition": "wickedness, or a wicked act, especially one that breaks a religious law",
-        "ex_of_definition_list": [
-          "It is a sin to envy the possessions of other people",
-          "Lying and cheating are both sins."
-        ]
-      },
-      {
-        "mean_english": "phạm tội",
-        "definition": "to do wrong; to commit a sin, especially in the religious sense",
-        "ex_of_definition_list": [
-          "Forgive me, Father, for I have sinned."
-        ]
-      }
+    "hash_code_list_img": "1993076274",
+    "list_example": [
+      "It is a sin to envy the possessions of other people"
     ],
-    "hash_code_list_definition_mean": "-204213732"
+    "hash_code_list_example": "538050514"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/siphon_cb_dmean_5000_it.json",
@@ -489,24 +339,11 @@
         "id_image": "siphon_5158861"
       }
     ],
-    "hash_code_list_img": "965181063",
-    "list_definition_mean": [
-      {
-        "mean_english": "ống xi-phông, ống truyền nước",
-        "definition": "a bent pipe or tube through which liquid can be drawn off from one container to another at a lower level",
-        "ex_of_definition_list": [
-          "He used a siphon to get some petrol out of the car’s tank."
-        ]
-      },
-      {
-        "mean_english": "hút bằng xi-phông",
-        "definition": "(with off, into etc) to draw (off) through a siphon",
-        "ex_of_definition_list": [
-          "They siphoned the petrol into a can."
-        ]
-      }
+    "hash_code_list_img": "1148101209",
+    "list_example": [
+      "He used a siphon to get some petrol out of the car’s tank."
     ],
-    "hash_code_list_definition_mean": "-746764484"
+    "hash_code_list_example": "1591343306"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/siren_cb_dmean_5000_it.json",
@@ -534,17 +371,11 @@
         "id_image": "siren_427193"
       }
     ],
-    "hash_code_list_img": "-1913910576",
-    "list_definition_mean": [
-      {
-        "mean_english": "còi báo động",
-        "definition": "a kind of instrument that gives out a loud hooting noise as a (warning) signal",
-        "ex_of_definition_list": [
-          "a factory siren."
-        ]
-      }
+    "hash_code_list_img": "1920278744",
+    "list_example": [
+      "a factory siren."
     ],
-    "hash_code_list_definition_mean": "1287012804"
+    "hash_code_list_example": "-171212835"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sir_cb_dmean_5000_it.json",
@@ -563,25 +394,19 @@
         "id_image": "sir_1464047"
       }
     ],
-    "hash_code_list_img": "306285918",
-    "list_definition_mean": [
-      {
-        "mean_english": "thưa ông, ngài, tiên sinh!",
-        "definition": "a polite form of address (spoken or written) to a man",
-        "ex_of_definition_list": [
-          "Excuse me, sir!",
-          "He started his letter ‘Dear Sirs, …’."
-        ]
-      },
-      {
-        "mean_english": "tước hiệu dùng trước tên đầu của một hầu tước hoặc tòng nam tước",
-        "definition": "in the United Kingdom, the title of a knight or baronet",
-        "ex_of_definition_list": [
-          "Sir Francis Drake."
-        ]
-      }
+    "hash_code_list_img": "98264802",
+    "list_example": [
+      "Excuse me, sir!",
+      "Surely that is a point that you can address, sir.",
+      "How privileged we are, sir, to have you with us.",
+      "The best way send one to come and check this small thing quickly sir.",
+      "My dear sir, it would be an excellent substitute for a sleeping draught.",
+      "Yes sir; so far as the official information is concerned, it is correct.",
+      "Yes, sir; it has been thought that another method can be substituted for the portfolios: the men will have a book given them.",
+      "Why is it, sir, that the 10-minute rule comes into force only at 6 pm?",
+      "And that is a matter of figures, sir!"
     ],
-    "hash_code_list_definition_mean": "-1240626346"
+    "hash_code_list_example": "-2047147028"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sister_cb_dmean_5000_it.json",
@@ -603,39 +428,12 @@
         "id_image": "sister_4842391"
       }
     ],
-    "hash_code_list_img": "162083523",
-    "list_definition_mean": [
-      {
-        "mean_english": "chị, em gái",
-        "definition": "the title given to a female child to describe her relationship to the other children of her parents",
-        "ex_of_definition_list": [
-          "She’s my sister",
-          "my father’s sister."
-        ]
-      },
-      {
-        "mean_english": "bà xơ",
-        "definition": "a type of senior nurse",
-        "ex_of_definition_list": [
-          "She’s a sister on Ward 5."
-        ]
-      },
-      {
-        "mean_english": "chị em",
-        "definition": "a female fellow member of any group",
-        "ex_of_definition_list": [
-          "We must fight for equal opportunities, sisters!"
-        ]
-      },
-      {
-        "mean_english": "có tính chất chị em",
-        "definition": "closely similar in design, function etc",
-        "ex_of_definition_list": [
-          "sister ships."
-        ]
-      }
+    "hash_code_list_img": "1664879232",
+    "list_example": [
+      "She’s a sister on Ward 5.",
+      "sister ships."
     ],
-    "hash_code_list_definition_mean": "1751331789"
+    "hash_code_list_example": "-1748258511"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/site_cb_dmean_5000_it.json",
@@ -664,25 +462,13 @@
         "id_image": "site_821639"
       }
     ],
-    "hash_code_list_img": "1379718722",
-    "list_definition_mean": [
-      {
-        "mean_english": "chỗ xây dựng, địa điểm",
-        "definition": "a place where a building, town etc is, was, or is to be, built",
-        "ex_of_definition_list": [
-          "He’s got a job on a building-site",
-          "The site for the new factory has not been decided."
-        ]
-      },
-      {
-        "mean_english": "chỗ, vị trí",
-        "definition": "(also Web site) a site on the Internet that gives information about a particular subject or person",
-        "ex_of_definition_list": [
-          "This site has a lot of useful links for finding out more about the subject."
-        ]
-      }
+    "hash_code_list_img": "2100789267",
+    "list_example": [
+      "The site for the new factory has not been decided.",
+      "This site has a lot of useful links for finding out more about the subject.",
+      "It's really straightforward: you talk about the site as a whole."
     ],
-    "hash_code_list_definition_mean": "1710864695"
+    "hash_code_list_example": "1518495787"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sit_cb_dmean_5000_it.json",
@@ -711,60 +497,12 @@
         "id_image": "sit_6401005"
       }
     ],
-    "hash_code_list_img": "-430587724",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngồi",
-        "definition": "to (cause to) rest on the buttocks; to (cause to) be seated",
-        "ex_of_definition_list": [
-          "He likes sitting on the floor",
-          "They sat me in the chair and started asking questions."
-        ]
-      },
-      {
-        "mean_english": "ở vào vị trí nào đó",
-        "definition": "to lie or rest; to have a certain position",
-        "ex_of_definition_list": [
-          "The parcel is sitting on the table."
-        ]
-      },
-      {
-        "mean_english": "là thành viên chính thức của",
-        "definition": "(with on) to be an official member of (a board, committee etc)",
-        "ex_of_definition_list": [
-          "He sat on several committees."
-        ]
-      },
-      {
-        "mean_english": "đậu",
-        "definition": "(of birds) to perch",
-        "ex_of_definition_list": [
-          "An owl was sitting in the tree by the window."
-        ]
-      },
-      {
-        "mean_english": "là thí sinh của một kì thi",
-        "definition": "to undergo (an examination)",
-        "ex_of_definition_list": [
-          "Beth sits her geography exam today."
-        ]
-      },
-      {
-        "mean_english": "ngồi làm mẫu để vẽ chân dung",
-        "definition": "to take up a position, or act as a model, in order to have one’s picture painted or one’s photograph taken",
-        "ex_of_definition_list": [
-          "She is sitting for a portrait/photograph."
-        ]
-      },
-      {
-        "mean_english": "họp",
-        "definition": "(of a committee, parliament etc) to be in session",
-        "ex_of_definition_list": [
-          "Parliament sits from now until Christmas."
-        ]
-      }
+    "hash_code_list_img": "-1903002758",
+    "list_example": [
+      "An icy wind blows through your cotton shirt while you sit outside the hospital door, waiting for your wife to bring up the car.",
+      "But, whatever editorial framework is adopted, let us make sure the generalisations sit more firmly on both their theories and their evidence."
     ],
-    "hash_code_list_definition_mean": "-246225289"
+    "hash_code_list_example": "-797420099"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/size_cb_dmean_5000_it.json",
@@ -798,25 +536,13 @@
         "id_image": "size_5458488"
       }
     ],
-    "hash_code_list_img": "-477519058",
-    "list_definition_mean": [
-      {
-        "mean_english": "quy mô, kích cỡ",
-        "definition": "largeness",
-        "ex_of_definition_list": [
-          "an area the size of a football pitch",
-          "The size of the problem alarmed us."
-        ]
-      },
-      {
-        "mean_english": "cỡ, số, khổ",
-        "definition": "one of a number of classes in which shoes, dresses etc are grouped according to measurements",
-        "ex_of_definition_list": [
-          "I take size 5 in shoes."
-        ]
-      }
+    "hash_code_list_img": "-12613806",
+    "list_example": [
+      "an area the size of a football pitch",
+      "The size of the problem alarmed us.",
+      "I take size 5 in shoes."
     ],
-    "hash_code_list_definition_mean": "-1351828339"
+    "hash_code_list_example": "1316765414"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skate_cb_dmean_5000_it.json",
@@ -854,24 +580,18 @@
         "id_image": "skate_984285"
       }
     ],
-    "hash_code_list_img": "-1011072013",
-    "list_definition_mean": [
-      {
-        "mean_english": "giầy trượt băng",
-        "definition": "a boot with a steel blade fixed to it for moving on ice etc",
-        "ex_of_definition_list": [
-          "I can move very fast across the ice on skates."
-        ]
-      },
-      {
-        "mean_english": "đi patanh",
-        "definition": "to move on skates",
-        "ex_of_definition_list": [
-          "She skates beautifully."
-        ]
-      }
+    "hash_code_list_img": "-700722482",
+    "list_example": [
+      "I can move very fast across the ice on skates.",
+      "She skates beautifully.",
+      "He found the ice so thin that he immediately skated to safety on firm ground.",
+      "My description has only skated over the surface of the problem.",
+      "No wonder the document skates over that subject.",
+      "He had lost both legs and what remained of his thighs was strapped to a rough wooden board mounted on roller skates.",
+      "He skated over it when he told us the subsidy would be somewhere about £4,500,000.",
+      "I thought he skated over it rather lightly."
     ],
-    "hash_code_list_definition_mean": "-2086239379"
+    "hash_code_list_example": "-883410163"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skeleton_cb_dmean_5000_it.json",
@@ -890,24 +610,12 @@
         "id_image": "skeleton_421619"
       }
     ],
-    "hash_code_list_img": "335825400",
-    "list_definition_mean": [
-      {
-        "mean_english": "bộ xương",
-        "definition": "the bony framework of an animal or person",
-        "ex_of_definition_list": [
-          "The archaeologists dug up the skeleton of a dinosaur."
-        ]
-      },
-      {
-        "mean_english": "khung, sườn",
-        "definition": "any framework or outline",
-        "ex_of_definition_list": [
-          "the steel skeleton of a building."
-        ]
-      }
+    "hash_code_list_img": "1552014794",
+    "list_example": [
+      "The archaeologists dug up the skeleton of a dinosaur.",
+      "the steel skeleton of a building."
     ],
-    "hash_code_list_definition_mean": "448428561"
+    "hash_code_list_example": "1776522571"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sketch_cb_dmean_5000_it.json",
@@ -939,45 +647,11 @@
         "id_image": "sketch_448718"
       }
     ],
-    "hash_code_list_img": "774249284",
-    "list_definition_mean": [
-      {
-        "mean_english": "bức phác họa",
-        "definition": "a rough plan, drawing or painting",
-        "ex_of_definition_list": [
-          "He made several sketches before starting the portrait."
-        ]
-      },
-      {
-        "mean_english": "bảng tóm tắt",
-        "definition": "a short (written or spoken) account without many details",
-        "ex_of_definition_list": [
-          "The book began with a sketch of the author’s life."
-        ]
-      },
-      {
-        "mean_english": "vở ca kịch ngắn",
-        "definition": "a short play, dramatic scene etc",
-        "ex_of_definition_list": [
-          "a comedy sketch."
-        ]
-      },
-      {
-        "mean_english": "vẽ phác",
-        "definition": "to draw, describe, or plan without completing the details",
-        "ex_of_definition_list": [
-          "She sketched a number of possible future scenarios."
-        ]
-      },
-      {
-        "mean_english": "phác thảo, phác họa",
-        "definition": "to make rough drawings, paintings etc",
-        "ex_of_definition_list": [
-          "She sketches as a hobby."
-        ]
-      }
+    "hash_code_list_img": "-498047419",
+    "list_example": [
+      "The book began with a sketch of the author’s life."
     ],
-    "hash_code_list_definition_mean": "-1738733484"
+    "hash_code_list_example": "-1732811140"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skewer_cb_dmean_5000_it.json",
@@ -1005,17 +679,19 @@
         "id_image": "skewer_532374"
       }
     ],
-    "hash_code_list_img": "1170235658",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái xiên",
-        "definition": "a long pin of wood or metal for keeping meat together while roasting",
-        "ex_of_definition_list": [
-          "Put the cubes of meat on a skewer."
-        ]
-      }
+    "hash_code_list_img": "-1197715938",
+    "list_example": [
+      "Put the cubes of meat on a skewer.",
+      "Talk show guests were not the only ones the show skewered.",
+      "Buried with her were skeletons of various food-animals, jujubes, lotus soup, grains and a complete meal including soup, rice and meat skewers on a lacquer set.",
+      "The main one is koobideh kabob, which is seasoned ground beef that is skewered and barbecued outside on a charcoal flame.",
+      "Variants include smaller sticks of wood of 15 cm or less are called skewers of meat.",
+      "With the two most common kababs, \"barg\" and \"koobideh\", two skewers are always served.",
+      "The parodic aspect of the film takes so much precedence that the clichs of baseball films are skewered more than baseball itself.",
+      "Typically, meats and vegetables are put on a brochette, but small pieces of bread can also be skewered along with the other ingredients as well.",
+      "I was dancing delicately on the end of a skewer."
     ],
-    "hash_code_list_definition_mean": "833568577"
+    "hash_code_list_example": "-1285087505"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skid_cb_dmean_5000_it.json",
@@ -1035,24 +711,14 @@
         "id_image": "skid_5727806"
       }
     ],
-    "hash_code_list_img": "835787191",
-    "list_definition_mean": [
-      {
-        "mean_english": "chèn ,chặn",
-        "definition": "to slide accidentally sideways",
-        "ex_of_definition_list": [
-          "His back wheel skidded and he fell off his bike."
-        ]
-      },
-      {
-        "mean_english": "sự trượt",
-        "definition": "an accidental slide sideways",
-        "ex_of_definition_list": [
-          "He lost control of the car and it went into a skid."
-        ]
-      }
+    "hash_code_list_img": "261089341",
+    "list_example": [
+      "That minimum surface depth is to ensure that there is sufficient skid resistance.",
+      "Each skid incorporates a transmitter, which is essential for the manufacturing facility to monitor the location of each car body.",
+      "The new robotic skid wash system was designed to take away the need to outsource the cleaning process and fit neatly and unobtrusively into the paint shop cycle.",
+      "Logging gaps were found by walking the skid trails and locating old tree stumps."
     ],
-    "hash_code_list_definition_mean": "24076853"
+    "hash_code_list_example": "323830719"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skill_cb_dmean_5000_it.json",
@@ -1081,24 +747,12 @@
         "id_image": "skill_6214158"
       }
     ],
-    "hash_code_list_img": "151369212",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự khéo léo, sự tinh xảo",
-        "definition": "cleverness at doing something, resulting either from practice or from natural ability",
-        "ex_of_definition_list": [
-          "This job requires a lot of skill."
-        ]
-      },
-      {
-        "mean_english": "kĩ năng, kĩ xảo",
-        "definition": "a job or activity that requires training and practice; an art or craft",
-        "ex_of_definition_list": [
-          "the basic skills of reading and writing."
-        ]
-      }
+    "hash_code_list_img": "-1202300112",
+    "list_example": [
+      "The skill of the orchestration is such that the closing fanfare, that makes the loudest noise in the score, involves a mere 12 players.",
+      "By teaching useful strategies in the four skill areas, students will have the ability and confidence needed to decode the target language."
     ],
-    "hash_code_list_definition_mean": "2012401877"
+    "hash_code_list_example": "1484886417"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skinhead_cb_dmean_5000_it.json",
@@ -1116,17 +770,11 @@
         "id_image": "skinhead_1881176"
       }
     ],
-    "hash_code_list_img": "2029831438",
-    "list_definition_mean": [
-      {
-        "mean_english": "đầu trọc",
-        "definition": "a young man whose hair is completely shaven off, especially one who is violent and racist",
-        "ex_of_definition_list": [
-          "Chris was the leader of a gang of right-wing skinheads."
-        ]
-      }
+    "hash_code_list_img": "266273465",
+    "list_example": [
+      "The police had advance intelligence that there would be skinhead trouble."
     ],
-    "hash_code_list_definition_mean": "894046808"
+    "hash_code_list_example": "1987274401"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skin_cb_dmean_5000_it.json",
@@ -1152,40 +800,18 @@
         "id_image": "skin_2269004"
       }
     ],
-    "hash_code_list_img": "-1545350634",
-    "list_definition_mean": [
-      {
-        "mean_english": "da, bì",
-        "definition": "the natural outer covering of an animal or person",
-        "ex_of_definition_list": [
-          "She couldn’t stand the feel of wool against her skin",
-          "A snake can shed its skin."
-        ]
-      },
-      {
-        "mean_english": "vỏ",
-        "definition": "a thin outer layer, as on a fruit",
-        "ex_of_definition_list": [
-          "a banana skin",
-          "onion skins."
-        ]
-      },
-      {
-        "mean_english": "lớp vỏ, lớp phủ",
-        "definition": "a (thin) film or layer that forms on a liquid",
-        "ex_of_definition_list": [
-          "Boiled milk often has a skin on it."
-        ]
-      },
-      {
-        "mean_english": "lột da, bóc vỏ",
-        "definition": "to remove the skin from",
-        "ex_of_definition_list": [
-          "He skinned and cooked the rabbit."
-        ]
-      }
+    "hash_code_list_img": "1294448156",
+    "list_example": [
+      "Boiled milk often has a skin on it.",
+      "Three patients believed that the gel caused sedation; no troubles with skin irritation or muscle spasms were reported.",
+      "The relative proportions of the area of acidic compartments/schistosomulum were almost half in the skin forms as compared to that in the mechanical forms.",
+      "It is also considered a useful adjunct to all other treatments as part of skin cancer prevention.",
+      "The first skin panel will then be tacked in place and mechanically fastened.",
+      "We included all articles with a primary emphasis on health, such as articles focusing on breast cancer screening or skin cancer prevention.",
+      "Bodies here are a porous material where skin is less a limit than a portal.",
+      "Myelinating cells were visualized through the transparent skin with an inverted confocal laser-scanning microscope."
     ],
-    "hash_code_list_definition_mean": "442438460"
+    "hash_code_list_example": "1150750249"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skip_cb_dmean_5000_it.json",
@@ -1225,25 +851,15 @@
         "id_image": "skip_4631777"
       }
     ],
-    "hash_code_list_img": "140752688",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhảy",
-        "definition": "to go along with a hop on each foot in turn",
-        "ex_of_definition_list": [
-          "The little girl skipped up the path."
-        ]
-      },
-      {
-        "mean_english": "bỏ qua",
-        "definition": "to miss out (a meal, part of a book etc)",
-        "ex_of_definition_list": [
-          "I skipped lunch and went shopping instead",
-          "Skip chapter two."
-        ]
-      }
+    "hash_code_list_img": "-1596209850",
+    "list_example": [
+      "Newspapers can afford to offer stories with limited appeal, since uninterested consumers can simply skip them.",
+      "We will skip the technical details of the solution and proceed to evaluate condition (28).",
+      "Again we skip the details of the proof, which is straightforward but notationally heavy.",
+      "On first reading it is advisable to skip to section 6 which shows the rules in action.",
+      "Of course, not everyone had access to such powerful patrons, so it is no surprise that only the most famous musicians could skip the broker."
     ],
-    "hash_code_list_definition_mean": "913184489"
+    "hash_code_list_example": "-1543886241"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skirt_cb_dmean_5000_it.json",
@@ -1267,24 +883,12 @@
         "id_image": "skirt_407323"
       }
     ],
-    "hash_code_list_img": "1266715787",
-    "list_definition_mean": [
-      {
-        "mean_english": "váy, áo đầm của phụ nữ",
-        "definition": "a garment, worn by women, that hangs from the waist",
-        "ex_of_definition_list": [
-          "Was she wearing trousers or a skirt?"
-        ]
-      },
-      {
-        "mean_english": "vạt áo",
-        "definition": "the lower part of a dress, coat etc",
-        "ex_of_definition_list": [
-          "a dress with a flared skirt."
-        ]
-      }
+    "hash_code_list_img": "-1537977102",
+    "list_example": [
+      "Was she wearing trousers or a skirt?",
+      "a dress with a flared skirt."
     ],
-    "hash_code_list_definition_mean": "-1827492849"
+    "hash_code_list_example": "-119810254"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/ski_cb_dmean_5000_it.json",
@@ -1309,25 +913,12 @@
         "id_image": "ski_4669581"
       }
     ],
-    "hash_code_list_img": "1878249986",
-    "list_definition_mean": [
-      {
-        "mean_english": "trượt tuyết",
-        "definition": "to travel on or use skis especially as a leisure activity",
-        "ex_of_definition_list": [
-          "He broke his leg when he was skiing."
-        ]
-      },
-      {
-        "mean_english": "liên quan đến xki",
-        "definition": "of or for the activity of skiing",
-        "ex_of_definition_list": [
-          "ski-suits",
-          "ski-jump."
-        ]
-      }
+    "hash_code_list_img": "1605178948",
+    "list_example": [
+      "Schematic illustration of a snowboard or ski compressing a thin layer of fresh powder.",
+      "A third cohort study was performed with the 107 skiers belonging to the above-mentioned ski group."
     ],
-    "hash_code_list_definition_mean": "-2054372461"
+    "hash_code_list_example": "379863189"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skull_cb_dmean_5000_it.json",
@@ -1350,17 +941,11 @@
         "id_image": "skull_1171183"
       }
     ],
-    "hash_code_list_img": "-684966859",
-    "list_definition_mean": [
-      {
-        "mean_english": "sọ, đầu lâu",
-        "definition": "the bony case that encloses the brain",
-        "ex_of_definition_list": [
-          "He’s fractured his skull."
-        ]
-      }
+    "hash_code_list_img": "-575139194",
+    "list_example": [
+      "Is that the real physical skull that you feel or is that just a phenomenal skull inside your brain?"
     ],
-    "hash_code_list_definition_mean": "495886145"
+    "hash_code_list_example": "-1082708846"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/skyline_cb_dmean_5000_it.json",
@@ -1393,18 +978,12 @@
         "id_image": "skyline_4613401"
       }
     ],
-    "hash_code_list_img": "-925494174",
-    "list_definition_mean": [
-      {
-        "mean_english": "hình dáng in lên nền trời",
-        "definition": "the outline of buildings, hills etc seen against the sky",
-        "ex_of_definition_list": [
-          "the New York skyline",
-          "I could see something moving on the skyline."
-        ]
-      }
+    "hash_code_list_img": "1741612479",
+    "list_example": [
+      "Mining activities have significantly altered the landscape, the skyline is dominated by smokestacks and buildings towering over the stark area where silver and lead had been extracted.",
+      "The effect of the scheme on the skyline of the building should be scarcely noticeable."
     ],
-    "hash_code_list_definition_mean": "2021799866"
+    "hash_code_list_example": "640150111"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sky_cb_dmean_5000_it.json",
@@ -1432,19 +1011,13 @@
         "id_image": "sky_673897"
       }
     ],
-    "hash_code_list_img": "-1374661016",
-    "list_definition_mean": [
-      {
-        "mean_english": "trời, bầu trời",
-        "definition": "the part of space above the earth, in which the sun, moon etc can be seen; the heavens",
-        "ex_of_definition_list": [
-          "The sky was blue and cloudless",
-          "We had grey skies and rain throughout our holiday",
-          "The skies were grey all week."
-        ]
-      }
+    "hash_code_list_img": "-2060963314",
+    "list_example": [
+      "The sky was blue and cloudless",
+      "All indirect measurements were only taken during uniformly overcast sky conditions or after sunset (mostly after 1700 h).",
+      "But this time, there was a short rain, and the sky was clouded."
     ],
-    "hash_code_list_definition_mean": "1839688656"
+    "hash_code_list_example": "-121387185"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slack_cb_dmean_5000_it.json",
@@ -1465,38 +1038,13 @@
         "id_image": "slack_2111611"
       }
     ],
-    "hash_code_list_img": "1760347693",
-    "list_definition_mean": [
-      {
-        "mean_english": "chùng , lỏng",
-        "definition": "loose; not firmly stretched",
-        "ex_of_definition_list": [
-          "Leave the rope slack."
-        ]
-      },
-      {
-        "mean_english": "lỏng, không chắc chắn",
-        "definition": "not firmly in position",
-        "ex_of_definition_list": [
-          "He tightened a few slack screws."
-        ]
-      },
-      {
-        "mean_english": "bê trễ, chểnh mảng",
-        "definition": "not strict; careless",
-        "ex_of_definition_list": [
-          "He is very slack about getting things done."
-        ]
-      },
-      {
-        "mean_english": "uể oải, chậm chạp",
-        "definition": "in industry etc, not busy; inactive",
-        "ex_of_definition_list": [
-          "Business has been rather slack lately."
-        ]
-      }
+    "hash_code_list_img": "2089456129",
+    "list_example": [
+      "He tightened a few slack screws.",
+      "He is very slack about getting things done.",
+      "Business has been rather slack lately."
     ],
-    "hash_code_list_definition_mean": "86929059"
+    "hash_code_list_example": "1087509628"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slalom_cb_dmean_5000_it.json",
@@ -1524,18 +1072,19 @@
         "id_image": "slalom_661942"
       }
     ],
-    "hash_code_list_img": "2096854247",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuộc thi trượt băng",
-        "definition": "a ski race down a winding course marked by flags; a similar race for canoes in water",
-        "ex_of_definition_list": [
-          "(also adjective) a slalom race",
-          "a slalom course."
-        ]
-      }
+    "hash_code_list_img": "799504166",
+    "list_example": [
+      "(also adjective) a slalom race",
+      "a slalom course.",
+      "In 1962, he became double world student champion in alpine skiing's slalom and alpine combined event.",
+      "The aim is to maneuver a skier through a downhill ski course, a slalom course, and a ski jumping competition in the shortest time possible.",
+      "In the slalom, he coincided with his brother in eighth place in the giant slalom and in eleventh.",
+      "He won a gold medal in the giant slalom with a combined run time of 2:03.15, 0.43 seconds faster than the silver medallists.",
+      "Up to six players compete individually on either a downhill or slalom course to see who can complete the course the fastest.",
+      "Among the most popular are ice hockey, football, tennis, handball, basketball, volleyball, whitewater slalom or athletics.",
+      "Figure 6 shows a slalom maneuver steered by a human driver trying to avoid three obstacles."
     ],
-    "hash_code_list_definition_mean": "616321773"
+    "hash_code_list_example": "393056721"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slash_cb_dmean_5000_it.json",
@@ -1562,38 +1111,14 @@
         "id_image": "slash_4334081"
       }
     ],
-    "hash_code_list_img": "48245584",
-    "list_definition_mean": [
-      {
-        "mean_english": "rạch, cắt",
-        "definition": "to make long cuts in (cloth etc)",
-        "ex_of_definition_list": [
-          "He slashed his victim’s face with a razor."
-        ]
-      },
-      {
-        "mean_english": "quất, quật",
-        "definition": "(with at) to strike out violently at (something)",
-        "ex_of_definition_list": [
-          "He slashed at the bush angrily with a stick."
-        ]
-      },
-      {
-        "mean_english": "giảm, hạ bớt",
-        "definition": "to reduce greatly",
-        "ex_of_definition_list": [
-          "A notice in the shop window read ‘Prices slashed!’"
-        ]
-      },
-      {
-        "mean_english": "vết chém , vết rạch",
-        "definition": "a long cut or slit",
-        "ex_of_definition_list": [
-          "The murder victim had several knife slashes across his chest."
-        ]
-      }
+    "hash_code_list_img": "2030393493",
+    "list_example": [
+      "He slashed his victim’s face with a razor.",
+      "He slashed at the bush angrily with a stick.",
+      "A notice in the shop window read ‘Prices slashed!’",
+      "The murder victim had several knife slashes across his chest."
     ],
-    "hash_code_list_definition_mean": "1283464236"
+    "hash_code_list_example": "-1247436122"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slate_cb_dmean_5000_it.json",
@@ -1613,25 +1138,11 @@
         "id_image": "slate_2473171"
       }
     ],
-    "hash_code_list_img": "1760682624",
-    "list_definition_mean": [
-      {
-        "mean_english": "đá phiến, đá acđoa",
-        "definition": "(a piece of) a type of easily split rock of a dull blue-grey/-gray colour/color, used for roofing etc",
-        "ex_of_definition_list": [
-          "Slates fell off the roof in the wind",
-          "(also adjective) a slate roof."
-        ]
-      },
-      {
-        "mean_english": "công kích, đả kích",
-        "definition": "to say harsh things to or about",
-        "ex_of_definition_list": [
-          "The new play was slated by the critics."
-        ]
-      }
+    "hash_code_list_img": "1897093043",
+    "list_example": [
+      "(also adjective) a slate roof."
     ],
-    "hash_code_list_definition_mean": "-1198124505"
+    "hash_code_list_example": "1704425156"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slavery_cb_dmean_5000_it.json",
@@ -1666,24 +1177,14 @@
         "id_image": "slavery_4484310"
       }
     ],
-    "hash_code_list_img": "-1453645159",
-    "list_definition_mean": [
-      {
-        "mean_english": "tình trạng nô lệ",
-        "definition": "the state of being a slave",
-        "ex_of_definition_list": [
-          "He was sold into slavery."
-        ]
-      },
-      {
-        "mean_english": "công việc được trả công rẻ mạt",
-        "definition": "very hard and badly-paid work",
-        "ex_of_definition_list": [
-          "Her job is sheer slavery."
-        ]
-      }
+    "hash_code_list_img": "-2021267118",
+    "list_example": [
+      "He was sold into slavery.",
+      "Her job is sheer slavery.",
+      "This includes an analysis of the legacies of plantation slavery, immigration and a frontier-society for social structures, race relations, and the use of land.",
+      "The interplay of hierarchy and independence occurs in all of the incidents of employment attached to the offices charged with the enforcement of slavery."
     ],
-    "hash_code_list_definition_mean": "1124382313"
+    "hash_code_list_example": "1102059197"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slave_cb_dmean_5000_it.json",
@@ -1713,31 +1214,11 @@
         "id_image": "slave_6146655"
       }
     ],
-    "hash_code_list_img": "1954361078",
-    "list_definition_mean": [
-      {
-        "mean_english": "người nô lệ",
-        "definition": "a person who works for a master to whom he belongs",
-        "ex_of_definition_list": [
-          "In the nineteenth century many Africans were sold as slaves in the United States."
-        ]
-      },
-      {
-        "mean_english": "người làm việc đầu tắt, mặt tối",
-        "definition": "a person who works very hard for someone else",
-        "ex_of_definition_list": [
-          "He has a slave who types his letters and organizes his life for him."
-        ]
-      },
-      {
-        "mean_english": "làm việc quần quật",
-        "definition": "to work very hard, often for another person",
-        "ex_of_definition_list": [
-          "I’ve been slaving away for you all day while you sit and watch television."
-        ]
-      }
+    "hash_code_list_img": "1724602125",
+    "list_example": [
+      "He has a slave who types his letters and organizes his life for him."
     ],
-    "hash_code_list_definition_mean": "-565700591"
+    "hash_code_list_example": "-263355558"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sledgehammer_cb_dmean_5000_it.json",
@@ -1760,17 +1241,17 @@
         "id_image": "sledgehammer_3468408"
       }
     ],
-    "hash_code_list_img": "-905614552",
-    "list_definition_mean": [
-      {
-        "mean_english": "búa tạ",
-        "definition": "a large heavy hammer",
-        "ex_of_definition_list": [
-          "He used a sledgehammer to break up the rocks."
-        ]
-      }
+    "hash_code_list_img": "1976319941",
+    "list_example": [
+      "He used a sledgehammer to break up the rocks.",
+      "Once again, local government will have a sledgehammer taken to it.",
+      "I wish that the books on language were as easy to follow, but at the same time am relieved that they lack the pile-it-on sledgehammer polemic.",
+      "It is no use facing them with a sledgehammer and confrontation.",
+      "It is a sledgehammer which is unpopular with everybody.",
+      "The sledgehammer hit our main export and growth sectors.",
+      "The occasional sledgehammer may not be enough to overcome what is a pervasive practice."
     ],
-    "hash_code_list_definition_mean": "909778348"
+    "hash_code_list_example": "-1051280546"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sledge_cb_dmean_5000_it.json",
@@ -1804,17 +1285,15 @@
         "id_image": "sledge_6263048"
       }
     ],
-    "hash_code_list_img": "95539771",
-    "list_definition_mean": [
-      {
-        "mean_english": "đi bằng xe trượt tuyết",
-        "definition": "to ride on a sledge",
-        "ex_of_definition_list": [
-          "The children were sledging all afternoon."
-        ]
-      }
+    "hash_code_list_img": "-278126439",
+    "list_example": [
+      "You'll get dexterity with a sledge with time.",
+      "Tents, cookers, clothing, food for dogs, and dogs for food as well as the streamlined, light-weight sledge were all part of the system.",
+      "Perhaps the most important part of the sledgetraveller's outfit is the sledge itself.",
+      "The distance between these attachment points is 810mm, indicating the width of the sledge when assembled.",
+      "The written record described what it was to undertake sledge travelling but not how to do it."
     ],
-    "hash_code_list_definition_mean": "773602222"
+    "hash_code_list_example": "-940008624"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sleepy_cb_dmean_5000_it.json",
@@ -1844,31 +1323,19 @@
         "id_image": "sleepy_4860802"
       }
     ],
-    "hash_code_list_img": "1658724598",
-    "list_definition_mean": [
-      {
-        "mean_english": "buồn ngủ",
-        "definition": "inclined to sleep; drowsy",
-        "ex_of_definition_list": [
-          "I feel very sleepy after that long walk."
-        ]
-      },
-      {
-        "mean_english": "ngái ngủ",
-        "definition": "not (seeming to be) alert",
-        "ex_of_definition_list": [
-          "She always has a sleepy expression on her face."
-        ]
-      },
-      {
-        "mean_english": "im lìm",
-        "definition": "(of places etc) very quiet; lacking entertainment and excitement",
-        "ex_of_definition_list": [
-          "a sleepy town."
-        ]
-      }
+    "hash_code_list_img": "1330086001",
+    "list_example": [
+      "I feel very sleepy after that long walk.",
+      "She always has a sleepy expression on her face.",
+      "a sleepy town.",
+      "However, it is not a sleepy backwater, as has been suggested.",
+      "The vice-chancellors of higher education institutions exist in sleepy hollows and do not interact with local communities.",
+      "Certain sleepy lines will have a considerable increase in their traffic.",
+      "They are not small, sleepy hamlets, but sizeable villages that could be seen as small country towns.",
+      "The arguments that such takeovers shake up sleepy management do not hold water.",
+      "I hope that we shall end up on a peaceful and sleepy note."
     ],
-    "hash_code_list_definition_mean": "-287333038"
+    "hash_code_list_example": "135362480"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sleep_cb_dmean_5000_it.json",
@@ -1897,26 +1364,19 @@
         "id_image": "sleep_392786"
       }
     ],
-    "hash_code_list_img": "838989720",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngủ",
-        "definition": "to rest with the eyes closed and in a state of natural unconsciousness",
-        "ex_of_definition_list": [
-          "Goodnight – sleep well!",
-          "I can’t sleep – my mind is too active."
-        ]
-      },
-      {
-        "mean_english": "giấc, sự ngủ",
-        "definition": "(a) rest in a state of natural unconsciousness",
-        "ex_of_definition_list": [
-          "It is bad for you to have too little sleep, since it makes you tired",
-          "I had only four hours’ sleep last night."
-        ]
-      }
+    "hash_code_list_img": "692123480",
+    "list_example": [
+      "Goodnight – sleep well!",
+      "I can’t sleep – my mind is too active.",
+      "I had only four hours’ sleep last night.",
+      "Among other sleep disorders, four patients noticed difficulties in falling asleep in each group, and one patient had excessive daytime sleepiness in the modafinil group.",
+      "Treatment can be a single or repeated sleep deprivation, total (all night) or partial (second half of the night).",
+      "She reported being very afraid and not wanting to sleep with her husband, but having no place to run away.",
+      "Answering this question will help provide us with an understanding of what produces both the similarities and differences in sleep mentation across sleep stages.",
+      "Effects of catecholamine depletion on alertness and mood in rested and sleep deprived normal volunteers.",
+      "The positive affect, eating, and sleep domains were entirely eliminated because of failing at least one of these tests."
     ],
-    "hash_code_list_definition_mean": "-803950998"
+    "hash_code_list_example": "-28655621"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sleet_cb_dmean_5000_it.json",
@@ -1945,24 +1405,13 @@
         "id_image": "sleet_3755313"
       }
     ],
-    "hash_code_list_img": "1420063248",
-    "list_definition_mean": [
-      {
-        "mean_english": "cơn mưa tuyết, mưa đá",
-        "definition": "rain mixed with snow or hail",
-        "ex_of_definition_list": [
-          "That isn’t snow – it’s just sleet."
-        ]
-      },
-      {
-        "mean_english": "mưa tuyết, mưa đá",
-        "definition": "to hail or snow, with a mixture of rain",
-        "ex_of_definition_list": [
-          "It seems to be sleeting outside."
-        ]
-      }
+    "hash_code_list_img": "-1798173267",
+    "list_example": [
+      "Drifting snow, sleet and biting winds paralysed movement and communications on the ground while cloud ceiling and visibility fell to nil and grounded the airforce.",
+      "Hail, sleet and snow are rare, though will sometimes be experienced during particularly cold winters.",
+      "L149, a ballast motor car, replaced the sleet locomotives in 1979."
     ],
-    "hash_code_list_definition_mean": "177973559"
+    "hash_code_list_example": "1103759360"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sleeveless_cb_dmean_5000_it.json",
@@ -1990,17 +1439,18 @@
         "id_image": "sleeveless_2965267"
       }
     ],
-    "hash_code_list_img": "1039671433",
-    "list_definition_mean": [
-      {
-        "mean_english": "không có ống tay",
-        "definition": "without sleeves",
-        "ex_of_definition_list": [
-          "a sleeveless dress."
-        ]
-      }
+    "hash_code_list_img": "956402261",
+    "list_example": [
+      "a sleeveless dress.",
+      "The women wear a collarless and sleeveless cloth to cover them from the shoulders to the knees.",
+      "By 1964, \"discotheque\" and the shorthand \"disco\" were used to describe a type of sleeveless dress used when going out to nightclubs.",
+      "A quilted sleeveless jacket was worn in cold weather.",
+      "The waistcoat could be sleeveless or have long sleeves.",
+      "In the early period of the game's development players often wore sleeveless lace-up tops which gradually disappeared between the 1960s and early 1980s.",
+      "Additionally, the sleeveless jerseys were abandoned for more traditional shirts.",
+      "Wearing shorts, sleeveless shirts or tanktops should be avoided."
     ],
-    "hash_code_list_definition_mean": "722999536"
+    "hash_code_list_example": "-1443671995"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sleeve_cb_dmean_5000_it.json",
@@ -2025,18 +1475,18 @@
         "id_image": "sleeve_580550"
       }
     ],
-    "hash_code_list_img": "1591200955",
-    "list_definition_mean": [
-      {
-        "mean_english": "ống tay áo",
-        "definition": "the part of a garment that covers the arm",
-        "ex_of_definition_list": [
-          "He tore the sleeve of his jacket",
-          "a dress with long/short sleeves."
-        ]
-      }
+    "hash_code_list_img": "703062242",
+    "list_example": [
+      "He tore the sleeve of his jacket",
+      "The map provided in a sleeve in the back cover is also well produced and in full colour.",
+      "In the other case the wrapper sticks to his sleeve and falls back out of his pocket, or he has a hole in his pocket.",
+      "The brass sleeve was in contact with lead.",
+      "The inflated aerofoil consisted of an impervious sleeve supported by thin steel wedges a t the leading and trailing edges.",
+      "The tank is supported through a mounting sleeve that has gear teeth along its circumference.",
+      "The sleeve could record all 32 sites without repositioning.",
+      "Fourthly, there is an important sense in which an album sleeve can be seen as a commodity in its own right."
     ],
-    "hash_code_list_definition_mean": "1927921855"
+    "hash_code_list_example": "1163166570"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slice_cb_dmean_5000_it.json",
@@ -2068,45 +1518,11 @@
         "id_image": "slice_448754"
       }
     ],
-    "hash_code_list_img": "1533630752",
-    "list_definition_mean": [
-      {
-        "mean_english": "miếng mỏng, lát mỏng",
-        "definition": "a thin broad piece (of something)",
-        "ex_of_definition_list": [
-          "How many slices of meat would you like?"
-        ]
-      },
-      {
-        "mean_english": "phần, phần chia",
-        "definition": "a part or share",
-        "ex_of_definition_list": [
-          "Who got the largest slice of the profits?"
-        ]
-      },
-      {
-        "mean_english": "cắt ra từng miếng mỏng",
-        "definition": "to cut into slices",
-        "ex_of_definition_list": [
-          "He sliced the sausage/cucumber."
-        ]
-      },
-      {
-        "mean_english": "lạng",
-        "definition": "to cut (as) with a sharp blade or knife",
-        "ex_of_definition_list": [
-          "The blade slipped and sliced off the tip of his forefinger."
-        ]
-      },
-      {
-        "mean_english": "đánh xoáy",
-        "definition": "in golf etc, to hit (a ball) in such a way that it curves away to the right (or in the case of a left-handed player, to the left)",
-        "ex_of_definition_list": [
-          "She sliced her shot and the ball went into the bunker."
-        ]
-      }
+    "hash_code_list_img": "945833608",
+    "list_example": [
+      "Who got the largest slice of the profits?"
     ],
-    "hash_code_list_definition_mean": "-1052197129"
+    "hash_code_list_example": "-1421877200"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slide_cb_dmean_5000_it.json",
@@ -2140,40 +1556,12 @@
         "id_image": "slide_950754"
       }
     ],
-    "hash_code_list_img": "1173188491",
-    "list_definition_mean": [
-      {
-        "mean_english": "trượt, chuyển động nhẹ nhàng",
-        "definition": "to (cause to) move or pass along smoothly",
-        "ex_of_definition_list": [
-          "He slid the drawer open",
-          "Children must not slide in the school corridors."
-        ]
-      },
-      {
-        "mean_english": "lướt qua, đi lướt",
-        "definition": "to move quietly or secretly",
-        "ex_of_definition_list": [
-          "I slid hurriedly past the window",
-          "He slid the book quickly out of sight under his pillow."
-        ]
-      },
-      {
-        "mean_english": "ván trượt",
-        "definition": "a slippery track, or apparatus with a smooth sloping surface, on which people or things can slide",
-        "ex_of_definition_list": [
-          "The children were taking turns on the slide in the playground."
-        ]
-      },
-      {
-        "mean_english": "bản kính dương (ở đèn chiếu)",
-        "definition": "a small transparent photograph for projecting on to a screen etc",
-        "ex_of_definition_list": [
-          "The lecture was illustrated with slides."
-        ]
-      }
+    "hash_code_list_img": "-2034308385",
+    "list_example": [
+      "Children must not slide in the school corridors.",
+      "The children were taking turns on the slide in the playground."
     ],
-    "hash_code_list_definition_mean": "1536150319"
+    "hash_code_list_example": "844611639"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slime_cb_dmean_5000_it.json",
@@ -2201,17 +1589,15 @@
         "id_image": "slime_5507730"
       }
     ],
-    "hash_code_list_img": "1533413051",
-    "list_definition_mean": [
-      {
-        "mean_english": "chất lỏng đặc, chất nhờn",
-        "definition": "thin, slippery mud or other matter that is soft, sticky and half-liquid",
-        "ex_of_definition_list": [
-          "There was a layer of slime at the bottom of the pond."
-        ]
-      }
+    "hash_code_list_img": "491703613",
+    "list_example": [
+      "There was a layer of slime at the bottom of the pond.",
+      "In the main they were aesthetically crude constructions, corroded in their slime green or battleship grey paint.",
+      "They get covered in slime from the fish and are liable to slip off and get lost in the course of his work.",
+      "Our approach was designed to enhance the removal of slime on closed surfaces in order to assess the effectiveness of sanitation in food plant.",
+      "Hurley cites the slime mold as a biological example of collective agency."
     ],
-    "hash_code_list_definition_mean": "1107146171"
+    "hash_code_list_example": "1199659180"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slim_cb_dmean_5000_it.json",
@@ -2236,32 +1622,11 @@
         "id_image": "slim_6381877"
       }
     ],
-    "hash_code_list_img": "953761601",
-    "list_definition_mean": [
-      {
-        "mean_english": "mảnh khảnh, thon thả",
-        "definition": "not thick or fat; thin",
-        "ex_of_definition_list": [
-          "She has a slim, graceful figure",
-          "Taking exercise is one way of keeping slim."
-        ]
-      },
-      {
-        "mean_english": "sơ sài, nghèo nàn",
-        "definition": "not good; slight",
-        "ex_of_definition_list": [
-          "There’s still a slim chance that we’ll find the child alive."
-        ]
-      },
-      {
-        "mean_english": "làm cho người thon nhỏ",
-        "definition": "to use means (such as eating less) in order to become slimmer",
-        "ex_of_definition_list": [
-          "I mustn’t eat cakes – I’m trying to slim."
-        ]
-      }
+    "hash_code_list_img": "-27227324",
+    "list_example": [
+      "There’s still a slim chance that we’ll find the child alive."
     ],
-    "hash_code_list_definition_mean": "1397836039"
+    "hash_code_list_example": "-1290499986"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slippery_cb_dmean_5000_it.json",
@@ -2300,24 +1665,19 @@
         "id_image": "slippery_4745351"
       }
     ],
-    "hash_code_list_img": "-1239246232",
-    "list_definition_mean": [
-      {
-        "mean_english": "trơn, khó nắm giữ",
-        "definition": "so smooth as to cause slipping",
-        "ex_of_definition_list": [
-          "The path is slippery – watch out!"
-        ]
-      },
-      {
-        "mean_english": "không đáng tin cậy",
-        "definition": "not trustworthy",
-        "ex_of_definition_list": [
-          "He’s rather a slippery character."
-        ]
-      }
+    "hash_code_list_img": "-21870488",
+    "list_example": [
+      "The path is slippery – watch out!",
+      "He’s rather a slippery character.",
+      "I tremble to think of children forced to bicycle or walk all that way on a cold, slippery morning.",
+      "A patch of sidewalk briefly turns slippery even though it is dry and clean - causing the man running away with a stolen briefcase to slip.",
+      "We are holding a slippery fish, in my view, and it is getting out of our hands.",
+      "Indeed, the book is polemical - but any reader will recognize that it is a very good critical synthesis of a slippery ideology.",
+      "The family remains a slippery thing : hard to define and yet pregnant with possibility for the historian of almost any aspect of social, cultural and economic life.",
+      "My information shows that the arrangements for dealing with roads made slippery by wintry conditions are generally satisfactory in the recent cold weather.",
+      "I agree that these are slippery notions and a standard of comparison would be extremely useful here."
     ],
-    "hash_code_list_definition_mean": "2143004337"
+    "hash_code_list_example": "-1595359636"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slipper_cb_dmean_5000_it.json",
@@ -2340,17 +1700,13 @@
         "id_image": "slipper_412012"
       }
     ],
-    "hash_code_list_img": "952983525",
-    "list_definition_mean": [
-      {
-        "mean_english": "dép lê",
-        "definition": "a loose, soft kind of shoe for wearing indoors",
-        "ex_of_definition_list": [
-          "He was wearing a pair of bedroom slippers."
-        ]
-      }
+    "hash_code_list_img": "-689317643",
+    "list_example": [
+      "These figures do not include slipper baths, plunge baths, swimming baths, or any bathing accommodation reserved for the use of officials only.",
+      "That is one reason why the lady's slipper orchid still survives, when it was down to only one plant in 1976.",
+      "Let us suppose that, for example, a slipper is assisting at and that, if he has an assistant, the assistant is assisting the slipper."
     ],
-    "hash_code_list_definition_mean": "1893078595"
+    "hash_code_list_example": "-1289499698"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/slip_cb_dmean_5000_it.json",
@@ -2383,72 +1739,11 @@
         "id_image": "slip_4482334"
       }
     ],
-    "hash_code_list_img": "780824590",
-    "list_definition_mean": [
-      {
-        "mean_english": "trượt, tuột",
-        "definition": "to slide accidentally and lose one’s balance or footing",
-        "ex_of_definition_list": [
-          "I slipped and fell on the path."
-        ]
-      },
-      {
-        "mean_english": "thoát, tuột ra khỏi",
-        "definition": "to slide, or drop, out of the right position or out of control",
-        "ex_of_definition_list": [
-          "The plate slipped out of my grasp."
-        ]
-      },
-      {
-        "mean_english": "không được khỏe, nhanh nhẹn, tỉnh táo như mọi ngày",
-        "definition": "to drop in standard",
-        "ex_of_definition_list": [
-          "I’m sorry about my mistake – I must be slipping!"
-        ]
-      },
-      {
-        "mean_english": "chạy qua",
-        "definition": "to move quietly especially without being noticed",
-        "ex_of_definition_list": [
-          "She slipped out of the room."
-        ]
-      },
-      {
-        "mean_english": "lẻn, lủi, lẩn",
-        "definition": "to escape from",
-        "ex_of_definition_list": [
-          "The dog had slipped its lead and disappeared."
-        ]
-      },
-      {
-        "mean_english": "đút nhanh, nhét gọn",
-        "definition": "to put or pass (something) with a quick, light movement",
-        "ex_of_definition_list": [
-          "She slipped the letter back in its envelope."
-        ]
-      },
-      {
-        "mean_english": "sự trượt chân",
-        "definition": "an act of slipping",
-        "ex_of_definition_list": [
-          "Her sprained ankle was a result of a slip on the path."
-        ]
-      },
-      {
-        "mean_english": "sự sơ suất",
-        "definition": "a usually small mistake",
-        "ex_of_definition_list": [
-          "Everyone makes the occasional slip."
-        ]
-      },
-      {
-        "mean_english": "miếng giấy nhỏ",
-        "definition": "a strip or narrow piece of paper",
-        "ex_of_definition_list": [
-          "She wrote down his telephone number on a slip of paper."
-        ]
-      }
+    "hash_code_list_img": "237291649",
+    "list_example": [
+      "Her sprained ankle was a result of a slip on the path.",
+      "She wrote down his telephone number on a slip of paper."
     ],
-    "hash_code_list_definition_mean": "861759089"
+    "hash_code_list_example": "-630698238"
   }
 ]

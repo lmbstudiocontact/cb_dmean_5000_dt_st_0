@@ -26,62 +26,14 @@
         "id_image": "reverse_5869874"
       }
     ],
-    "hash_code_list_img": "1006934392",
-    "list_definition_mean": [
-      {
-        "mean_english": "chạy lùi; đảo ngược",
-        "definition": "to move backwards or in the opposite direction to normal",
-        "ex_of_definition_list": [
-          "He reversed (the car) into the garage",
-          "He reversed the film through the projector."
-        ]
-      },
-      {
-        "mean_english": "đảo lộn",
-        "definition": "to put into the opposite position, state, order etc",
-        "ex_of_definition_list": [
-          "This jacket can be reversed (= worn inside out)."
-        ]
-      },
-      {
-        "mean_english": "thay đổi quyết định",
-        "definition": "to change (a decision, policy etc) to the exact opposite",
-        "ex_of_definition_list": [
-          "The man was found guilty, but the judges in the appeal court reversed the decision."
-        ]
-      },
-      {
-        "mean_english": "ngược lại",
-        "definition": "(also adjective) (the) opposite",
-        "ex_of_definition_list": [
-          "‘Are you hungry?’ ‘Quite the reverse – I’ve eaten far too much!’",
-          "I take the reverse point of view."
-        ]
-      },
-      {
-        "mean_english": "sự bất hạnh",
-        "definition": "a defeat; a piece of bad luck",
-        "ex_of_definition_list": [
-          "Liverpool suffered a 3-0 reverse."
-        ]
-      },
-      {
-        "mean_english": "sự chạy lùi",
-        "definition": "(a mechanism eg one of the gears of a car etc which makes something move in) a backwards direction or a direction opposite to normal",
-        "ex_of_definition_list": [
-          "He put the car into reverse",
-          "(also adjective) a reverse gear."
-        ]
-      },
-      {
-        "mean_english": "mặt trái của đồng tiền",
-        "definition": "(also adjective) (of) the back of a coin, medal etc",
-        "ex_of_definition_list": [
-          "the reverse (side) of a coin."
-        ]
-      }
+    "hash_code_list_img": "-2119216085",
+    "list_example": [
+      "‘Are you hungry?’ ‘Quite the reverse – I’ve eaten far too much!’",
+      "I take the reverse point of view.",
+      "(also adjective) a reverse gear.",
+      "the reverse (side) of a coin."
     ],
-    "hash_code_list_definition_mean": "-692319926"
+    "hash_code_list_example": "1803467705"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/reviewer_cb_dmean_5000_it.json",
@@ -104,17 +56,19 @@
         "id_image": "reviewer_4301735"
       }
     ],
-    "hash_code_list_img": "226926599",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà phê bình sách",
-        "definition": "a person who reviews books etc",
-        "ex_of_definition_list": [
-          "a film reviewer."
-        ]
-      }
+    "hash_code_list_img": "-872795900",
+    "list_example": [
+      "a film reviewer.",
+      "The project also found that the nurse reviewers made more referrals to other healthcare professionals than previously made by the clinical oncologist.",
+      "If two reviewers disagreed, a third echocardiographer was consulted.",
+      "The authors would also like to thank the anonymous reviewers for their helpful comments.",
+      "We thank t h e anonymous peer reviewers for their comments.",
+      "We use standard functional programming techniques and code reviewers find that style more comprehensible.",
+      "We thank the peer reviewers for their comments.",
+      "Articles will be submitted to two anonymous reviewers.",
+      "I also wish to thank four anonymous reviewers whose penetrating questions led to two fairly radical rethinks of the arguments and organization."
     ],
-    "hash_code_list_definition_mean": "1255164708"
+    "hash_code_list_example": "236054431"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/review_cb_dmean_5000_it.json",
@@ -147,47 +101,18 @@
         "id_image": "review_448720"
       }
     ],
-    "hash_code_list_img": "826453033",
-    "list_definition_mean": [
-      {
-        "mean_english": "bài phê bình",
-        "definition": "a written report on a book, play etc giving the writer’s opinion of it",
-        "ex_of_definition_list": [
-          "a film/book review."
-        ]
-      },
-      {
-        "mean_english": "sự xem xét lại",
-        "definition": "revision; studying or going over one’s notes",
-        "ex_of_definition_list": [
-          "I have just enough time for a quick review of my speech",
-          "I made a quick review of my notes before the test."
-        ]
-      },
-      {
-        "mean_english": "xem xét; duyệt binh",
-        "definition": "to make or have a review of",
-        "ex_of_definition_list": [
-          "The book was reviewed in yesterday’s paper",
-          "The Queen reviewed the troops."
-        ]
-      },
-      {
-        "mean_english": "xem xét lại",
-        "definition": "to reconsider",
-        "ex_of_definition_list": [
-          "We’ll review the situation at the end of the month."
-        ]
-      },
-      {
-        "mean_english": "xem lại",
-        "definition": "to revise; to go over one’s notes, lessons etc in preparation for an examination",
-        "ex_of_definition_list": [
-          "I have to review (my notes) for the test tomorrow."
-        ]
-      }
+    "hash_code_list_img": "1738613342",
+    "list_example": [
+      "I have just enough time for a quick review of my speech",
+      "I made a quick review of my notes before the test.",
+      "We’ll review the situation at the end of the month.",
+      "I have to review (my notes) for the test tomorrow.",
+      "This review examines the roles of the major fibrinolytic factors involved in clot lysis.",
+      "This review of assessment research might be organized around assessment or curriculum themes.",
+      "The authors review evidence indicating that dynamic structural interactions between astrocytes and synapses affect hippocampal synaptic physiology, behavior, and disease.",
+      "Based on this definition, life review is a particularly structured form of reminiscence."
     ],
-    "hash_code_list_definition_mean": "141555110"
+    "hash_code_list_example": "-1169245927"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/revive_cb_dmean_5000_it.json",
@@ -216,27 +141,13 @@
         "id_image": "revive_4334125"
       }
     ],
-    "hash_code_list_img": "584363694",
-    "list_definition_mean": [
-      {
-        "mean_english": "sống lại; tỉnh lại",
-        "definition": "to come, or bring, back to consciousness, strength, health etc",
-        "ex_of_definition_list": [
-          "They attempted to revive the woman who had fainted",
-          "She soon revived",
-          "The flowers revived in water",
-          "His hopes of seeing her again were revived."
-        ]
-      },
-      {
-        "mean_english": "khôi phục lại",
-        "definition": "to come or bring back to use etc",
-        "ex_of_definition_list": [
-          "This old custom has recently (been) revived."
-        ]
-      }
+    "hash_code_list_img": "-467857425",
+    "list_example": [
+      "They attempted to revive the woman who had fainted",
+      "It is much more feasible for a community to revive the symbolic functions of a language, without necessarily changing their language of communicative function.",
+      "In order to revive private renting, rents were deregulated on new tenancies."
     ],
-    "hash_code_list_definition_mean": "-1154805815"
+    "hash_code_list_example": "-977615544"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/revolution_cb_dmean_5000_it.json",
@@ -271,24 +182,16 @@
         "id_image": "revolution_3919324"
       }
     ],
-    "hash_code_list_img": "1702658769",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuộc cách mạng",
-        "definition": "(the act of making) a successful, violent attempt to change or remove a government etc",
-        "ex_of_definition_list": [
-          "the American Revolution."
-        ]
-      },
-      {
-        "mean_english": "cuộc cách mạng hoàn toàn",
-        "definition": "a complete change in ideas, methods etc",
-        "ex_of_definition_list": [
-          "There’s been a complete revolution in the way things are done in this office."
-        ]
-      }
+    "hash_code_list_img": "1326185668",
+    "list_example": [
+      "There’s been a complete revolution in the way things are done in this office.",
+      "The selection process has been mainly concerned with the size and pulses / revolution of the shaft encoder.",
+      "It dodges the ' military revolution ' question in favour of exploring the size, behaviour and experiences of armies and fighting.",
+      "Whether this calls for a new and \"universally acceptable definition\" of revolution that encompasses all that the author suggests is neither obvious nor realistic.",
+      "If many of the findings of the archival revolution confirm what had already been argued in the academic literature, what have we learned?",
+      "Rather, he stressed that the more people, the greater the energy for socialist revolution and construction."
     ],
-    "hash_code_list_definition_mean": "-203868577"
+    "hash_code_list_example": "-281600927"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/revolver_cb_dmean_5000_it.json",
@@ -316,17 +219,11 @@
         "id_image": "revolver_6074002"
       }
     ],
-    "hash_code_list_img": "-112002139",
-    "list_definition_mean": [
-      {
-        "mean_english": "súng ngắn",
-        "definition": "a type of pistol",
-        "ex_of_definition_list": [
-          "She shot him with a revolver."
-        ]
-      }
+    "hash_code_list_img": "-483415404",
+    "list_example": [
+      "She shot him with a revolver."
     ],
-    "hash_code_list_definition_mean": "477373754"
+    "hash_code_list_example": "-921478821"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/reward_cb_dmean_5000_it.json",
@@ -356,33 +253,12 @@
         "id_image": "reward_6299622"
       }
     ],
-    "hash_code_list_img": "1212099788",
-    "list_definition_mean": [
-      {
-        "mean_english": "phần thưởng",
-        "definition": "something given in return for or got from work done, good behaviour/behavior etc",
-        "ex_of_definition_list": [
-          "He was given a gold watch as a reward for his services to the firm",
-          "Apart from the salary, teaching children has its own particular rewards."
-        ]
-      },
-      {
-        "mean_english": "tiền thưởng",
-        "definition": "a sum of money offered for finding a criminal, lost or stolen property etc",
-        "ex_of_definition_list": [
-          "A reward of $100 has been offered to the person who finds the diamond brooch."
-        ]
-      },
-      {
-        "mean_english": "thưởng",
-        "definition": "to give a reward to someone for something",
-        "ex_of_definition_list": [
-          "He was rewarded for his services",
-          "His services were rewarded."
-        ]
-      }
+    "hash_code_list_img": "341690348",
+    "list_example": [
+      "He was given a gold watch as a reward for his services to the firm",
+      "A reward of $100 has been offered to the person who finds the diamond brooch."
     ],
-    "hash_code_list_definition_mean": "794705960"
+    "hash_code_list_example": "-649422437"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/rhythm_cb_dmean_5000_it.json",
@@ -407,32 +283,11 @@
         "id_image": "rhythm_3475357"
       }
     ],
-    "hash_code_list_img": "766541324",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhịp điệu",
-        "definition": "a regular, repeated pattern of sounds, stresses or beats in music, poetry etc",
-        "ex_of_definition_list": [
-          "Just listen to the rhythm of those drums",
-          "complicated rhythms."
-        ]
-      },
-      {
-        "mean_english": "sự nhịp nhàng",
-        "definition": "a regular, repeated pattern of movements",
-        "ex_of_definition_list": [
-          "The rowers lost their rhythm."
-        ]
-      },
-      {
-        "mean_english": "khả năng hát có nhịp điệu",
-        "definition": "an ability to sing, move etc with rhythm",
-        "ex_of_definition_list": [
-          "That girl has got rhythm."
-        ]
-      }
+    "hash_code_list_img": "1931243371",
+    "list_example": [
+      "Just listen to the rhythm of those drums"
     ],
-    "hash_code_list_definition_mean": "171836366"
+    "hash_code_list_example": "-414134613"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/ribbon_cb_dmean_5000_it.json",
@@ -455,18 +310,20 @@
         "id_image": "ribbon_532028"
       }
     ],
-    "hash_code_list_img": "-749572843",
-    "list_definition_mean": [
-      {
-        "mean_english": "dải ruy-băng",
-        "definition": "a long narrow strip of material used in decorating clothes, tying hair etc",
-        "ex_of_definition_list": [
-          "a blue ribbon",
-          "four metres of red ribbon."
-        ]
-      }
+    "hash_code_list_img": "1479646398",
+    "list_example": [
+      "a blue ribbon",
+      "four metres of red ribbon.",
+      "Constructing a similar function for vertical ribbons, we can deform the original wellsupported measure into - in a d -continuous manner.",
+      "Differences in visual threshold may in par t reflect the efficiency of synaptic vesicle exocytosis controlled by the length of the synaptic ribbons.",
+      "Villages are scattered along the roads which thus form ribbons of human disturbance.",
+      "Although no complete battens were found, their sizes suggest that they were small and probably used to weave sashes or hair ribbons.",
+      "The 1% wide, 0.0035 in. thick, spring phosphor bronze ribbons are placed in tension which is adjusted t o match their natural frequencies away from operating frequencies.",
+      "792 tation only, each group of digitized ribbons were collected into a square-panel format and merged as one plate.",
+      "The precast concrete ribbons were the only items specially designed for the project and had a strategic significance in achieving coherence.",
+      "The lace was taken from her wedding gown and the ribbons were ' old ' and came from her wearing apparel."
     ],
-    "hash_code_list_definition_mean": "1589251300"
+    "hash_code_list_example": "-50629506"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/rib_cb_dmean_5000_it.json",
@@ -492,17 +349,11 @@
         "id_image": "rib_4829181"
       }
     ],
-    "hash_code_list_img": "1417962324",
-    "list_definition_mean": [
-      {
-        "mean_english": "xương sườn",
-        "definition": "any one of the bones which curve round and forward from the backbone, enclosing the heart and lungs",
-        "ex_of_definition_list": [
-          "She suffered a broken rib in the accident."
-        ]
-      }
+    "hash_code_list_img": "1788057804",
+    "list_example": [
+      "She suffered a broken rib in the accident."
     ],
-    "hash_code_list_definition_mean": "1649563032"
+    "hash_code_list_example": "788615859"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/rice_cb_dmean_5000_it.json",
@@ -525,17 +376,14 @@
         "id_image": "rice_909147"
       }
     ],
-    "hash_code_list_img": "-233412265",
-    "list_definition_mean": [
-      {
-        "mean_english": "cây lúa",
-        "definition": "a plant, grown in well-watered ground in tropical countries, whose seeds are used as food",
-        "ex_of_definition_list": [
-          "fried rice."
-        ]
-      }
+    "hash_code_list_img": "707305894",
+    "list_example": [
+      "Efforts to calculate the level of price support for rice required the government to elicit cost of production data from the agricultural associations.",
+      "Infection is characterized by white segments resembling rice grains in the host's faeces.",
+      "Most of the agriculture practiced here is short-term rice and manioc followed by 4- 7 y of fallow.",
+      "One of the major challenges is to grow zero-till direct dry seeded rice with agronomic practices already developed for wheat and other crops."
     ],
-    "hash_code_list_definition_mean": "440708533"
+    "hash_code_list_example": "-2088426522"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/rich_cb_dmean_5000_it.json",
@@ -562,39 +410,15 @@
         "id_image": "rich_983008"
       }
     ],
-    "hash_code_list_img": "-1656211264",
-    "list_definition_mean": [
-      {
-        "mean_english": "giàu có",
-        "definition": "wealthy; having a lot of money, possessions etc",
-        "ex_of_definition_list": [
-          "a rich man/country."
-        ]
-      },
-      {
-        "mean_english": "nhiều",
-        "definition": "(with in) having a lot (of something)",
-        "ex_of_definition_list": [
-          "This part of the country is rich in coal."
-        ]
-      },
-      {
-        "mean_english": "có giá trị",
-        "definition": "valuable",
-        "ex_of_definition_list": [
-          "a rich reward",
-          "rich materials."
-        ]
-      },
-      {
-        "mean_english": "giàu chất dinh dưỡng",
-        "definition": "containing a lot of fat, eggs, spices etc",
-        "ex_of_definition_list": [
-          "a rich sauce."
-        ]
-      }
+    "hash_code_list_img": "1278595825",
+    "list_example": [
+      "a rich man/country.",
+      "This part of the country is rich in coal.",
+      "a rich reward",
+      "rich materials.",
+      "a rich sauce."
     ],
-    "hash_code_list_definition_mean": "-1256050953"
+    "hash_code_list_example": "-1188822040"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/ride_cb_dmean_5000_it.json",
@@ -627,53 +451,13 @@
         "id_image": "ride_950748"
       }
     ],
-    "hash_code_list_img": "1345886289",
-    "list_definition_mean": [
-      {
-        "mean_english": "đi; cưỡi",
-        "definition": "to travel or be carried (in a car, train etc or on a bicycle, horse etc)",
-        "ex_of_definition_list": [
-          "He rides to work every day on an old bicycle",
-          "The horsemen rode past."
-        ]
-      },
-      {
-        "mean_english": "lái; đi",
-        "definition": "to (be able to) ride on and control (a horse, bicycle etc)",
-        "ex_of_definition_list": [
-          "Can you ride a bicycle?"
-        ]
-      },
-      {
-        "mean_english": "tham gia",
-        "definition": "to take part (in a horse-race etc)",
-        "ex_of_definition_list": [
-          "He’s riding in the first race."
-        ]
-      },
-      {
-        "mean_english": "cưỡi ngựa",
-        "definition": "to go out regularly on horseback (eg as a hobby)",
-        "ex_of_definition_list": [
-          "My daughter rides every Saturday morning."
-        ]
-      },
-      {
-        "mean_english": "chuyến đi",
-        "definition": "a journey on horseback, on a bicycle etc",
-        "ex_of_definition_list": [
-          "He likes to go for a long ride on a Sunday afternoon."
-        ]
-      },
-      {
-        "mean_english": "sự lái",
-        "definition": "a usually short period of riding on or in something",
-        "ex_of_definition_list": [
-          "Can I have a ride on your bike?"
-        ]
-      }
+    "hash_code_list_img": "-1305048610",
+    "list_example": [
+      "Can you ride a bicycle?",
+      "He likes to go for a long ride on a Sunday afternoon.",
+      "Can I have a ride on your bike?"
     ],
-    "hash_code_list_definition_mean": "1748813022"
+    "hash_code_list_example": "1804369689"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/rifle_cb_dmean_5000_it.json",
@@ -698,31 +482,13 @@
         "id_image": "rifle_5322294"
       }
     ],
-    "hash_code_list_img": "1540216007",
-    "list_definition_mean": [
-      {
-        "mean_english": "súng trường",
-        "definition": "a gun with a long barrel, fired from the shoulder",
-        "ex_of_definition_list": [
-          "The soldiers are being taught to shoot with rifles."
-        ]
-      },
-      {
-        "mean_english": "lục lọi",
-        "definition": "to search (through something)",
-        "ex_of_definition_list": [
-          "The thief rifled through the drawers."
-        ]
-      },
-      {
-        "mean_english": "ăn trộm",
-        "definition": "to steal",
-        "ex_of_definition_list": [
-          "The document had been rifled."
-        ]
-      }
+    "hash_code_list_img": "-1169856786",
+    "list_example": [
+      "The soldiers are being taught to shoot with rifles.",
+      "The thief rifled through the drawers.",
+      "The document had been rifled."
     ],
-    "hash_code_list_definition_mean": "-1900316544"
+    "hash_code_list_example": "484697422"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/right_cb_dmean_5000_it.json",
@@ -765,136 +531,24 @@
         "id_image": "right_5678244"
       }
     ],
-    "hash_code_list_img": "-1215501028",
-    "list_definition_mean": [
-      {
-        "mean_english": "bên phải",
-        "definition": "on or related to the side of the body which in most people has the more skilful hand, or to the side of a person or thing which is toward the east when that person or thing is facing north (opposite to left)",
-        "ex_of_definition_list": [
-          "When I’m writing, I hold my pen in my right hand."
-        ]
-      },
-      {
-        "mean_english": "chính xác",
-        "definition": "correct",
-        "ex_of_definition_list": [
-          "Put that book back in the right place",
-          "Is that the right answer to the question?"
-        ]
-      },
-      {
-        "mean_english": "hợp đạo đức",
-        "definition": "morally correct; good",
-        "ex_of_definition_list": [
-          "It’s not right to let thieves keep what they have stolen."
-        ]
-      },
-      {
-        "mean_english": "thích hợp",
-        "definition": "suitable; appropriate",
-        "ex_of_definition_list": [
-          "He’s not the right man for this job",
-          "When would be the right time to ask him?"
-        ]
-      },
-      {
-        "mean_english": "quyền",
-        "definition": "something a person is, or ought to be, allowed to have, do etc",
-        "ex_of_definition_list": [
-          "Everyone has the right to a fair trial",
-          "You must fight for your rights",
-          "You have no right to say that."
-        ]
-      },
-      {
-        "mean_english": "đúng",
-        "definition": "that which is correct or good",
-        "ex_of_definition_list": [
-          "Who’s in the right in this argument?"
-        ]
-      },
-      {
-        "mean_english": "phía bên phải",
-        "definition": "the right side, part or direction",
-        "ex_of_definition_list": [
-          "Turn to the right",
-          "Take the second road on the right."
-        ]
-      },
-      {
-        "mean_english": "cánh hữu",
-        "definition": "in politics, the people, group, party or parties holding the more traditional beliefs etc",
-        "ex_of_definition_list": [
-          "the extreme right."
-        ]
-      },
-      {
-        "mean_english": "chính xác",
-        "definition": "exactly",
-        "ex_of_definition_list": [
-          "He was standing right here."
-        ]
-      },
-      {
-        "mean_english": "ngay lập tức",
-        "definition": "immediately",
-        "ex_of_definition_list": [
-          "I’ll go right after lunch",
-          "I’ll come right down."
-        ]
-      },
-      {
-        "mean_english": "gần",
-        "definition": "close",
-        "ex_of_definition_list": [
-          "He was standing right beside me."
-        ]
-      },
-      {
-        "mean_english": "ngay; chính",
-        "definition": "completely; all the way",
-        "ex_of_definition_list": [
-          "The bullet went right through his arm."
-        ]
-      },
-      {
-        "mean_english": "về phía bên phải",
-        "definition": "to the right",
-        "ex_of_definition_list": [
-          "Turn right."
-        ]
-      },
-      {
-        "mean_english": "đchính xác",
-        "definition": "correctly",
-        "ex_of_definition_list": [
-          "Have I done that right?",
-          "I don’t think this sum is going to turn out right."
-        ]
-      },
-      {
-        "mean_english": "lấy lại cho thẳng (hướng đi của ô tô, tàu thủy…)",
-        "definition": "to bring back to the correct, usually upright, position",
-        "ex_of_definition_list": [
-          "The boat tipped over, but righted itself again."
-        ]
-      },
-      {
-        "mean_english": "đền bù",
-        "definition": "to put an end to and make up for something wrong that has been done",
-        "ex_of_definition_list": [
-          "He’s like a medieval knight, going about the country looking for wrongs to right."
-        ]
-      },
-      {
-        "mean_english": "đúng; hiểu",
-        "definition": "I understand; I’ll do what you say etc",
-        "ex_of_definition_list": [
-          "‘I want you to type some letters for me.’ ‘Right, I’ll do them now.’"
-        ]
-      }
+    "hash_code_list_img": "1305103825",
+    "list_example": [
+      "When I’m writing, I hold my pen in my right hand.",
+      "Put that book back in the right place",
+      "Is that the right answer to the question?",
+      "It’s not right to let thieves keep what they have stolen.",
+      "He’s not the right man for this job",
+      "When would be the right time to ask him?",
+      "Everyone has the right to a fair trial",
+      "You have no right to say that.",
+      "Who’s in the right in this argument?",
+      "He was standing right here.",
+      "I’ll go right after lunch",
+      "I’ll come right down.",
+      "He was standing right beside me.",
+      "The bullet went right through his arm."
     ],
-    "hash_code_list_definition_mean": "-449258737"
+    "hash_code_list_example": "-1764534445"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/rim_cb_dmean_5000_it.json",
@@ -912,18 +566,18 @@
         "id_image": "rim_6246410"
       }
     ],
-    "hash_code_list_img": "673430863",
-    "list_definition_mean": [
-      {
-        "mean_english": "vành; mép",
-        "definition": "an edge or border",
-        "ex_of_definition_list": [
-          "the rim of a wheel",
-          "the rim of a cup."
-        ]
-      }
+    "hash_code_list_img": "967425771",
+    "list_example": [
+      "the rim of a wheel",
+      "the rim of a cup.",
+      "Proximal defects had little or no inferior rim separating the window from the arterial valves at the level of the commissures.",
+      "An image perpendicular to the aorta through the most inferior part of the absent rim was created (lower image).",
+      "But the rim of the left-sided disc reaches only 7 mm outside the stent.",
+      "The retinal rim in rat is rich in short wavelength sensitive cones.",
+      "In order to allow an accurate examination of the retinal periphery, particular care was taken to maintain the integrity of the retinal rim during dissection.",
+      "To avoid this potentially fatal complication, the inferior rim of an iatrogenic lateral pericardial defect should be tacked down to preclude cardiac herniation."
     ],
-    "hash_code_list_definition_mean": "484166053"
+    "hash_code_list_example": "1678080681"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/rinse_cb_dmean_5000_it.json",
@@ -959,38 +613,11 @@
         "id_image": "rinse_525824"
       }
     ],
-    "hash_code_list_img": "-1922160758",
-    "list_definition_mean": [
-      {
-        "mean_english": "giặt",
-        "definition": "to wash (clothes etc) in clean water to remove soap etc",
-        "ex_of_definition_list": [
-          "He was rinsing a plate under the tap."
-        ]
-      },
-      {
-        "mean_english": "súc; rửa",
-        "definition": "to clean (a cup, one’s mouth etc) by filling with clean water etc and then emptying the water out",
-        "ex_of_definition_list": [
-          "The dentist asked me to rinse my mouth out."
-        ]
-      },
-      {
-        "mean_english": "sự súc rửa",
-        "definition": "the act of rinsing",
-        "ex_of_definition_list": [
-          "Give the cup a rinse."
-        ]
-      },
-      {
-        "mean_english": "thuốc nhuộm tóc",
-        "definition": "a liquid used for changing the colour of hair",
-        "ex_of_definition_list": [
-          "a blue rinse."
-        ]
-      }
+    "hash_code_list_img": "1653013581",
+    "list_example": [
+      "The dentist asked me to rinse my mouth out."
     ],
-    "hash_code_list_definition_mean": "454387763"
+    "hash_code_list_example": "-290867068"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/riot_cb_dmean_5000_it.json",
@@ -1019,24 +646,12 @@
         "id_image": "riot_6009698"
       }
     ],
-    "hash_code_list_img": "-1036491653",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuộc bạo loạn",
-        "definition": "a noisy disturbance created by a usually large group of people",
-        "ex_of_definition_list": [
-          "The protest march developed into a riot."
-        ]
-      },
-      {
-        "mean_english": "nổi loạn",
-        "definition": "to form or take part in a riot",
-        "ex_of_definition_list": [
-          "The protesters were rioting in the street."
-        ]
-      }
+    "hash_code_list_img": "1635491752",
+    "list_example": [
+      "The protest march developed into a riot.",
+      "The protesters were rioting in the street."
     ],
-    "hash_code_list_definition_mean": "-1883692854"
+    "hash_code_list_example": "-1290413267"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/rip_cb_dmean_5000_it.json",
@@ -1061,34 +676,12 @@
         "id_image": "rip_5664161"
       }
     ],
-    "hash_code_list_img": "-2067063497",
-    "list_definition_mean": [
-      {
-        "mean_english": "xé toạc",
-        "definition": "to make or get a hole or tear in by pulling, tearing etc",
-        "ex_of_definition_list": [
-          "He ripped his shirt on a branch",
-          "His shirt ripped."
-        ]
-      },
-      {
-        "mean_english": "xé rách",
-        "definition": "to pull (off, up etc) by breaking or tearing",
-        "ex_of_definition_list": [
-          "The roof of the car was ripped off in the crash",
-          "to rip up floorboards",
-          "He ripped open the envelope."
-        ]
-      },
-      {
-        "mean_english": "lỗ thủng",
-        "definition": "a tear or hole",
-        "ex_of_definition_list": [
-          "a rip in my shirt."
-        ]
-      }
+    "hash_code_list_img": "-1507845113",
+    "list_example": [
+      "to rip up floorboards",
+      "a rip in my shirt."
     ],
-    "hash_code_list_definition_mean": "1542964854"
+    "hash_code_list_example": "-319902984"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/rise_cb_dmean_5000_it.json",
@@ -1131,131 +724,18 @@
         "id_image": "rise_5184252"
       }
     ],
-    "hash_code_list_img": "-844443351",
-    "list_definition_mean": [
-      {
-        "mean_english": "tăng lên; mọc lên",
-        "definition": "to become greater, larger, higher etc; to increase",
-        "ex_of_definition_list": [
-          "Food prices are still rising",
-          "His temperature rose",
-          "If the river rises much more, there will be a flood",
-          "Her voice rose to a scream",
-          "Bread rises when it is baked",
-          "His spirits rose at the good news."
-        ]
-      },
-      {
-        "mean_english": "chuyển động lên trên",
-        "definition": "to move upwards",
-        "ex_of_definition_list": [
-          "Smoke was rising from the chimney",
-          "The birds rose into the air",
-          "The curtain rose to reveal an empty stage."
-        ]
-      },
-      {
-        "mean_english": "thức dậy",
-        "definition": "to get up from bed",
-        "ex_of_definition_list": [
-          "He rises every morning at six o’clock."
-        ]
-      },
-      {
-        "mean_english": "đứng dậy",
-        "definition": "to stand up",
-        "ex_of_definition_list": [
-          "The children all rose when the headmaster came in."
-        ]
-      },
-      {
-        "mean_english": "mọc (mặt trời)",
-        "definition": "(of the sun etc) to appear above the horizon",
-        "ex_of_definition_list": [
-          "The sun rises in the east and sets in the west."
-        ]
-      },
-      {
-        "mean_english": "trải dài lên phía trên",
-        "definition": "to slope upwards",
-        "ex_of_definition_list": [
-          "Hills rose in the distance",
-          "The ground rises at this point."
-        ]
-      },
-      {
-        "mean_english": "nổi loạn",
-        "definition": "to rebel",
-        "ex_of_definition_list": [
-          "The people rose (up) in revolt against the dictator."
-        ]
-      },
-      {
-        "mean_english": "thăng chức",
-        "definition": "to move to a higher rank, a more important position etc",
-        "ex_of_definition_list": [
-          "He rose to the rank of colonel."
-        ]
-      },
-      {
-        "mean_english": "xuất hiện",
-        "definition": "(of a river) to begin or appear",
-        "ex_of_definition_list": [
-          "The Rhône rises in the Alps."
-        ]
-      },
-      {
-        "mean_english": "thổi mạnh",
-        "definition": "(of wind) to begin; to become stronger",
-        "ex_of_definition_list": [
-          "Don’t go out in the boat – the wind has risen."
-        ]
-      },
-      {
-        "mean_english": "đang được xây dựng",
-        "definition": "to be built",
-        "ex_of_definition_list": [
-          "Office blocks are rising all over the town."
-        ]
-      },
-      {
-        "mean_english": "hồi sinh",
-        "definition": "to come back to life",
-        "ex_of_definition_list": [
-          "Jesus has risen."
-        ]
-      },
-      {
-        "mean_english": "sự tăng lên",
-        "definition": "(the) act of rising",
-        "ex_of_definition_list": [
-          "He had a rapid rise to fame",
-          "a rise in prices."
-        ]
-      },
-      {
-        "mean_english": "sự tăng lương",
-        "definition": "an increase in salary or wages",
-        "ex_of_definition_list": [
-          "She asked her boss for a rise."
-        ]
-      },
-      {
-        "mean_english": "sườn dốc",
-        "definition": "a slope or hill",
-        "ex_of_definition_list": [
-          "The house is just beyond the next rise."
-        ]
-      },
-      {
-        "mean_english": "sự nổi lên",
-        "definition": "the beginning and early development of something",
-        "ex_of_definition_list": [
-          "the rise of the Roman Empire."
-        ]
-      }
+    "hash_code_list_img": "897641186",
+    "list_example": [
+      "He had a rapid rise to fame",
+      "a rise in prices.",
+      "the rise of the Roman Empire.",
+      "This construction gives rise to an environment in which the supposedly resumptive strategy is possible even in the absence of the requisite overt morphological agreement.",
+      "When physical capital is complementary with human capital in production, returns on and the demand for skills rise with capital intensity.",
+      "The rise of labour militancy was perhaps the most important trend towards successful utilisation of non-violent action.",
+      "This application gives rise to a number of practical morphological and orthographic issues which we also discuss.",
+      "The schooling choices that the parents make give rise to a distribution of parents in the next generation."
     ],
-    "hash_code_list_definition_mean": "1657245390"
+    "hash_code_list_example": "1865684833"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/risky_cb_dmean_5000_it.json",
@@ -1273,17 +753,15 @@
         "id_image": "risky_1877101"
       }
     ],
-    "hash_code_list_img": "2075833485",
-    "list_definition_mean": [
-      {
-        "mean_english": "mạo hiểm",
-        "definition": "possibly causing or bringing loss, injury etc",
-        "ex_of_definition_list": [
-          "Motor-racing is a risky business."
-        ]
-      }
+    "hash_code_list_img": "2033117957",
+    "list_example": [
+      "Motor-racing is a risky business.",
+      "The risk-taking scale reflects the extent to which the respondent's reported behaviour reflects a willingness to engage in risky activities.",
+      "However, under the assumption of homogeneous beliefs about the covariance matrix of future payoffs, short-sale constraints will only increase risky asset prices.",
+      "It is fair to require individuals who engage in certain risky actions that result in costly medical needs to pay higher premiums or taxes.",
+      "Further, these funds may distort compensation profiles and create incentives for the inclusion of overly risky assets in a pension portfolio."
     ],
-    "hash_code_list_definition_mean": "203148992"
+    "hash_code_list_example": "312789365"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/risk_cb_dmean_5000_it.json",
@@ -1313,33 +791,20 @@
         "id_image": "risk_648987"
       }
     ],
-    "hash_code_list_img": "-904145908",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự rủi ro",
-        "definition": "(a person, thing etc which causes or could cause) danger or possible loss or injury",
-        "ex_of_definition_list": [
-          "He thinks we shouldn’t go ahead with the plan because of the risks involved / because of the risk of failure."
-        ]
-      },
-      {
-        "mean_english": "liều",
-        "definition": "to expose to danger; to lay open to the possibility of loss",
-        "ex_of_definition_list": [
-          "He would risk his life for his friend",
-          "He risked all his money on betting on that horse."
-        ]
-      },
-      {
-        "mean_english": "có nguy cơ phải chịu sự rủi ro",
-        "definition": "to take the chance of (something bad happening)",
-        "ex_of_definition_list": [
-          "He was willing to risk death to save his friend",
-          "I’d better leave early as I don’t want to risk being late for the play."
-        ]
-      }
+    "hash_code_list_img": "-1330011351",
+    "list_example": [
+      "He thinks we shouldn’t go ahead with the plan because of the risks involved / because of the risk of failure.",
+      "He would risk his life for his friend",
+      "He was willing to risk death to save his friend",
+      "I’d better leave early as I don’t want to risk being late for the play.",
+      "But far too often there is risk of serious direct harm when a rigorous assessment of benefits and harms is undertaken.",
+      "As a result, the realworld risk of physical demonstration was reduced.",
+      "Pragmatic randomized trial of antenatal intervention to prevent postnatal depression by reducing psychosocial risk factors.",
+      "In contrast, women with initially low levels that recovered through the course of pregnancy had children at less risk of later impairment.",
+      "These improvements in the outcome of pregnancy, nonetheless, concomitantly increase the genetic risk in the surviving population.",
+      "This low diversification represents substantial risk exposure to participants."
     ],
-    "hash_code_list_definition_mean": "-147119226"
+    "hash_code_list_example": "649060416"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/ritual_cb_dmean_5000_it.json",
@@ -1363,25 +828,15 @@
         "id_image": "ritual_2136575"
       }
     ],
-    "hash_code_list_img": "908452348",
-    "list_definition_mean": [
-      {
-        "mean_english": "nghi thức",
-        "definition": "(a particular set of) traditional or fixed actions etc used in a religious etc ceremony",
-        "ex_of_definition_list": [
-          "Christian rituals",
-          "the ritual of the Roman Catholic church."
-        ]
-      },
-      {
-        "mean_english": "mang tính nghi thức",
-        "definition": "forming (part of) a ritual or ceremony",
-        "ex_of_definition_list": [
-          "a ritual dance/sacrifice."
-        ]
-      }
+    "hash_code_list_img": "-120223231",
+    "list_example": [
+      "the ritual of the Roman Catholic church.",
+      "a ritual dance/sacrifice.",
+      "The awe and fear are internally related to what the ritual shows or says.",
+      "These graves are an indication that the burial ritual lost its egalitarian outlook, stressing the significance of particular persons.",
+      "Most fruitful to that study is understanding the ' fundamental symbolic system underlying the whole range of ritual institutions ' (145)."
     ],
-    "hash_code_list_definition_mean": "713080798"
+    "hash_code_list_example": "-853317127"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/rivalry_cb_dmean_5000_it.json",
@@ -1399,17 +854,11 @@
         "id_image": "rivalry_708661"
       }
     ],
-    "hash_code_list_img": "518017045",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự kình địch; sự ganh đua",
-        "definition": "the state of or an instance of being rivals",
-        "ex_of_definition_list": [
-          "the rivalry/rivalries between business companies."
-        ]
-      }
+    "hash_code_list_img": "1124683307",
+    "list_example": [
+      "Democracies are less likely to be rivals and democratization pushes rivalry resolution."
     ],
-    "hash_code_list_definition_mean": "952610146"
+    "hash_code_list_example": "-81952859"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/river_cb_dmean_5000_it.json",
@@ -1442,20 +891,15 @@
         "id_image": "river_642120"
       }
     ],
-    "hash_code_list_img": "541665171",
-    "list_definition_mean": [
-      {
-        "mean_english": "dòng sông",
-        "definition": "a large stream of water flowing across country",
-        "ex_of_definition_list": [
-          "The Thames is a river",
-          "the river Thames",
-          "the Hudson River",
-          "(also adjective) a river animal."
-        ]
-      }
+    "hash_code_list_img": "2086563210",
+    "list_example": [
+      "the river Thames",
+      "(also adjective) a river animal.",
+      "The bird fauna is dominated by plovers and passerines while waterfowl (geese, ducks, and loons) are found only in river valleys and on lakes.",
+      "The parasite species with indirect life cycles recorded in the river have mostly benthic molluscs and crustaceans as intermediate hosts.",
+      "The train's speed caused me to consider earlier forms of river transport."
     ],
-    "hash_code_list_definition_mean": "855571461"
+    "hash_code_list_example": "-1756302274"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/rivet_cb_dmean_5000_it.json",
@@ -1475,32 +919,22 @@
         "id_image": "rivet_1638543"
       }
     ],
-    "hash_code_list_img": "1161388534",
-    "list_definition_mean": [
-      {
-        "mean_english": "đinh tán",
-        "definition": "a sort of metal nail; a bolt for fastening plates of metal together eg when building the sides of a ship",
-        "ex_of_definition_list": [
-          "The handles are fixed on with brass rivets."
-        ]
-      },
-      {
-        "mean_english": "đóng đinh tán",
-        "definition": "to fasten with rivets",
-        "ex_of_definition_list": [
-          "They riveted the sheets of metal together."
-        ]
-      },
-      {
-        "mean_english": "gắn chặt",
-        "definition": "to fix firmly",
-        "ex_of_definition_list": [
-          "He stood riveted to the spot with fear",
-          "His eyes were riveted on the television."
-        ]
-      }
+    "hash_code_list_img": "1548031755",
+    "list_example": [
+      "The handles are fixed on with brass rivets.",
+      "They riveted the sheets of metal together.",
+      "He stood riveted to the spot with fear",
+      "His eyes were riveted on the television.",
+      "From the riveting to the mundane, much of adult conversation concerns talk about the absent : for example, scheming in world politics, planning trips abroad, or gossiping with friends.",
+      "To hear a song again is not only to hear structure but that structure as totally fixed and riveted to larger auditory scaffolding.",
+      "However, oil companies are taxed differently from companies that make rivets, for example.",
+      "The surveyor ordered a doubling plate to be riveted over the hole in the hull, and the ship was allowed to go to sea.",
+      "During my apprenticeship we progressed from using rivets to join plates together to welded sections, built in a shed.",
+      "I went into the shed where the platers worked and saw a machine punching out holes for the rivets to go into the plates.",
+      "In my local authority, it is the second type, the ones which are fixed with rivets.",
+      "The riveter used to be the kingpin of the yards, concerned with hammering in the rivets which held the plates and sections together."
     ],
-    "hash_code_list_definition_mean": "1417257632"
+    "hash_code_list_example": "-246442712"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/roadblock_cb_dmean_5000_it.json",
@@ -1518,17 +952,15 @@
         "id_image": "roadblock_3207595"
       }
     ],
-    "hash_code_list_img": "1039865413",
-    "list_definition_mean": [
-      {
-        "mean_english": "rào chắn",
-        "definition": "a barrier put across a road (eg by the police) in order to stop or slow down traffic",
-        "ex_of_definition_list": [
-          "The police have set up a roadblock."
-        ]
-      }
+    "hash_code_list_img": "401226719",
+    "list_example": [
+      "This wrangle is an essentially political roadblock and there are a number of ways around it.",
+      "It is a roadblock in the path of integrating the social and natural sciences, and weaning sociology and anthropology from its social constructivist traditions.",
+      "One possible roadblock to more research into incidental vocabulary acquisition from oral input may be the lack of a rough map of where such research may need to go.",
+      "The roadblock as a central form of protest perfectly fits the characteristics of contentious collective action described so far.",
+      "Neurocognitive dysfunction in dually-diagnosed patients: a potential roadblock to motivating behavior change."
     ],
-    "hash_code_list_definition_mean": "1348429104"
+    "hash_code_list_example": "1549553124"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/roadside_cb_dmean_5000_it.json",
@@ -1546,18 +978,18 @@
         "id_image": "roadside_6253992"
       }
     ],
-    "hash_code_list_img": "1550904771",
-    "list_definition_mean": [
-      {
-        "mean_english": "hè phố",
-        "definition": "the ground beside a road",
-        "ex_of_definition_list": [
-          "flowers growing by the roadside",
-          "(also adjective) a roadside café."
-        ]
-      }
+    "hash_code_list_img": "1301538270",
+    "list_example": [
+      "(also adjective) a roadside café.",
+      "Local markets, such as roadside stands and 'pick-your-own' operations, play an important role in the preservation of heirloom varieties of apples.",
+      "Lawbreakers were essentially those who left the public highways and trespassed or ripped wood from the roadside hedges and fences.",
+      "And it is true that in the roadside environment, individual and social behaviour is strangely modified in many small but worrying ways.",
+      "Other retail outlets for eggs include kiosks, roadside vendors, supermarkets (small, medium or large) selling table eggs where few had refrigeration facilities for the eggs.",
+      "The latter includes 'pickyour-own' (u-pick) sales, farm markets and roadside stands; this distinction is echoed by other studies37,38.",
+      "But the repertoire of roadside building types is constantly being added to and most of us are spending more time in the environment it creates.",
+      "It is argued that roadside collection is a manner of producing hybrid knowledge and establishing relations between locals and scientists."
     ],
-    "hash_code_list_definition_mean": "1388911122"
+    "hash_code_list_example": "-1562111060"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/roadway_cb_dmean_5000_it.json",
@@ -1575,17 +1007,13 @@
         "id_image": "roadway_1743259"
       }
     ],
-    "hash_code_list_img": "310578754",
-    "list_definition_mean": [
-      {
-        "mean_english": "đường dành cho ô tô",
-        "definition": "the part of a road on which cars etc travel",
-        "ex_of_definition_list": [
-          "Don’t walk on the roadway."
-        ]
-      }
+    "hash_code_list_img": "473344833",
+    "list_example": [
+      "The angular position of the steering wheel controls the lateral position of the car image on the generated roadway scene.",
+      "The scene is made to appear threedimensional and the rate at which the roadway appears to move towards the driver is a function of speed.",
+      "Our initial focus is on simple roadway driving scenarios where the controlled vehicle encounters objects in its path."
     ],
-    "hash_code_list_definition_mean": "2007792885"
+    "hash_code_list_example": "-1837836224"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/road_cb_dmean_5000_it.json",
@@ -1611,40 +1039,20 @@
         "id_image": "road_777567"
       }
     ],
-    "hash_code_list_img": "287469777",
-    "list_definition_mean": [
-      {
-        "mean_english": "đường giao thông",
-        "definition": "a strip of ground usually with a hard level surface for people, vehicles etc to travel on",
-        "ex_of_definition_list": [
-          "This road takes you past the school",
-          "(also adjective) road safety."
-        ]
-      },
-      {
-        "mean_english": "phố",
-        "definition": "(often abbreviated to Rdwhen written) used in the names of roads or streets",
-        "ex_of_definition_list": [
-          "His address is 24 School Road."
-        ]
-      },
-      {
-        "mean_english": "tuyến đường",
-        "definition": "a route; the correct road(s) to follow in order to arrive somewhere",
-        "ex_of_definition_list": [
-          "We’d better look at the map because I’m not sure of the road."
-        ]
-      },
-      {
-        "mean_english": "con đường dẫn tới",
-        "definition": "a way that leads to something",
-        "ex_of_definition_list": [
-          "the road to peace",
-          "He’s on the road to ruin."
-        ]
-      }
+    "hash_code_list_img": "-862351866",
+    "list_example": [
+      "This road takes you past the school",
+      "(also adjective) road safety.",
+      "the road to peace",
+      "He’s on the road to ruin.",
+      "The road to understanding continues to reward the persistent investigator.",
+      "They include structural adjustment reforms, road sector reform, banking sector reform, agricultural sector reform, land sector reform, and tax reform.",
+      "One familiar debate concerns the contrasting situations of rail and road safety.",
+      "Long-term historical change, however, should not be treated in terms of routes, incentives and destinations, with their implicit accompaniment of cul-de-sacs, diversions, and road blocks.",
+      "Competition is against the clock on road courses over distances between 10 and 100 miles or for periods of 12 or 24 hours.",
+      "After calculating road construction cost in terms of $/m3, the sum of road construction and skidding costs for different road densities are determined."
     ],
-    "hash_code_list_definition_mean": "2593440"
+    "hash_code_list_example": "1252892349"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/roast_cb_dmean_5000_it.json",
@@ -1685,33 +1093,11 @@
         "id_image": "roast_782265"
       }
     ],
-    "hash_code_list_img": "-1202987036",
-    "list_definition_mean": [
-      {
-        "mean_english": "nướng",
-        "definition": "to cook or be cooked in an oven, or over or in front of a fire etc",
-        "ex_of_definition_list": [
-          "They are roasting a chicken over the fire",
-          "The beef was roasting in the oven."
-        ]
-      },
-      {
-        "mean_english": "được nướng; sấy khô",
-        "definition": "roasted",
-        "ex_of_definition_list": [
-          "roast beef/chestnuts."
-        ]
-      },
-      {
-        "mean_english": "thịt nướng",
-        "definition": "meat that has been roasted or is for roasting",
-        "ex_of_definition_list": [
-          "She bought a roast",
-          "a delicious roast."
-        ]
-      }
+    "hash_code_list_img": "436237487",
+    "list_example": [
+      "roast beef/chestnuts."
     ],
-    "hash_code_list_definition_mean": "-683694440"
+    "hash_code_list_example": "1211700214"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/robbery_cb_dmean_5000_it.json",
@@ -1739,18 +1125,13 @@
         "id_image": "robbery_4351782"
       }
     ],
-    "hash_code_list_img": "-1824699258",
-    "list_definition_mean": [
-      {
-        "mean_english": "tội ăn cướp",
-        "definition": "the act of robbing",
-        "ex_of_definition_list": [
-          "Robbery is a serious crime",
-          "He was charged with four robberies."
-        ]
-      }
+    "hash_code_list_img": "-342964713",
+    "list_example": [
+      "It could be more lucrative to subsist by robbery than to seek work.",
+      "The rural population was already living in a society where administrative chaos was a minor inconvenience compared to robbery and general lawlessness.",
+      "While local people recognised that such brutality was undesirable, in the context of rampant armed robbery and police corruption, it was better than the alternatives."
     ],
-    "hash_code_list_definition_mean": "104844352"
+    "hash_code_list_example": "1146151591"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/robe_cb_dmean_5000_it.json",
@@ -1775,34 +1156,11 @@
         "id_image": "robe_3943665"
       }
     ],
-    "hash_code_list_img": "1598290662",
-    "list_definition_mean": [
-      {
-        "mean_english": "áo choàng",
-        "definition": "a long, loose piece of clothing",
-        "ex_of_definition_list": [
-          "Many Arabs still wear robes",
-          "a baby’s christening robe."
-        ]
-      },
-      {
-        "mean_english": "áo choàng trong một số nghề nghiệp",
-        "definition": "a long, loose piece of clothing worn as a sign of a person’s rank eg on official occasions",
-        "ex_of_definition_list": [
-          "a judge’s robes."
-        ]
-      },
-      {
-        "mean_english": "áo choàng mặc ở nhà",
-        "definition": "a loose garment worn casually; a dressing-gown",
-        "ex_of_definition_list": [
-          "She wore a robe over her nightdress",
-          "a bath-robe",
-          "a beach-robe."
-        ]
-      }
+    "hash_code_list_img": "-1065664531",
+    "list_example": [
+      "She wore a robe over her nightdress"
     ],
-    "hash_code_list_definition_mean": "1385359227"
+    "hash_code_list_example": "-2091171687"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/robot_cb_dmean_5000_it.json",
@@ -1825,17 +1183,11 @@
         "id_image": "robot_191531"
       }
     ],
-    "hash_code_list_img": "-551042799",
-    "list_definition_mean": [
-      {
-        "mean_english": "người máy",
-        "definition": "a machine which behaves, works, and often looks like a human being",
-        "ex_of_definition_list": [
-          "These days the cars are built almost entirely by robots."
-        ]
-      }
+    "hash_code_list_img": "1329929219",
+    "list_example": [
+      "These days the cars are built almost entirely by robots."
     ],
-    "hash_code_list_definition_mean": "1507371399"
+    "hash_code_list_example": "-1578685857"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/rocket_cb_dmean_5000_it.json",
@@ -1860,24 +1212,11 @@
         "id_image": "rocket_203221"
       }
     ],
-    "hash_code_list_img": "896369724",
-    "list_definition_mean": [
-      {
-        "mean_english": "tên lửa",
-        "definition": "a spacecraft launched in this way",
-        "ex_of_definition_list": [
-          "The Americans have sent a rocket to Mars."
-        ]
-      },
-      {
-        "mean_english": "tăng vùn vụt",
-        "definition": "to rise or increase very quickly",
-        "ex_of_definition_list": [
-          "Bread prices have rocketed."
-        ]
-      }
+    "hash_code_list_img": "1088838610",
+    "list_example": [
+      "The Americans have sent a rocket to Mars."
     ],
-    "hash_code_list_definition_mean": "-576036887"
+    "hash_code_list_example": "491018324"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/rocky_cb_dmean_5000_it.json",
@@ -1896,17 +1235,16 @@
         "id_image": "rocky_327427"
       }
     ],
-    "hash_code_list_img": "1389766108",
-    "list_definition_mean": [
-      {
-        "mean_english": "không an toàn",
-        "definition": "which rocks or shakes; unsteady; unsafe",
-        "ex_of_definition_list": [
-          "a rocky ride along the muddy track."
-        ]
-      }
+    "hash_code_list_img": "236753388",
+    "list_example": [
+      "a rocky coastline.",
+      "a rocky ride along the muddy track.",
+      "The landscape is a combination of rocky outcrop, rolling hills and long coastlines.",
+      "In the meantime, the city authorities had to build on the rocky forest areas to the east, which was much more complicated.",
+      "A prominent portion of the reef wall or a rocky outcropping might also be classified as a point feature.",
+      "The study area is dominated by stony and rocky land (39%) and rangeland (33%)."
     ],
-    "hash_code_list_definition_mean": "1334272307"
+    "hash_code_list_example": "90870323"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/rock_cb_dmean_5000_it.json",
@@ -1945,63 +1283,12 @@
         "id_image": "rock_881190"
       }
     ],
-    "hash_code_list_img": "-1756083800",
-    "list_definition_mean": [
-      {
-        "mean_english": "đá",
-        "definition": "(a large lump or mass of) the solid parts of the surface of the Earth",
-        "ex_of_definition_list": [
-          "The ship struck a rock and sank",
-          "the rocks on the seashore",
-          "He built his house on solid rock."
-        ]
-      },
-      {
-        "mean_english": "đá tảng",
-        "definition": "a large stone",
-        "ex_of_definition_list": [
-          "The climber was killed by a falling rock."
-        ]
-      },
-      {
-        "mean_english": "thanh kẹo cứng",
-        "definition": "a type of hard sweet made in sticks",
-        "ex_of_definition_list": [
-          "a stick of Edinburgh rock."
-        ]
-      },
-      {
-        "mean_english": "đung đưa",
-        "definition": "to (cause to) swing gently backwards and forwards or from side to side",
-        "ex_of_definition_list": [
-          "The mother rocked the cradle",
-          "This cradle rocks."
-        ]
-      },
-      {
-        "mean_english": "đung đưa cho cho một đứa bé ngủ trên tay",
-        "definition": "to swing (a baby) gently in one’s arms to comfort it or make it sleep",
-        "ex_of_definition_list": [
-          "She rocked the baby to sleep in her arms."
-        ]
-      },
-      {
-        "mean_english": "lắc mạnh",
-        "definition": "to shake or move violently",
-        "ex_of_definition_list": [
-          "The earthquake rocked the building."
-        ]
-      },
-      {
-        "mean_english": "nhạc rốc",
-        "definition": "(also rock music) music or songs with a strong, heavy beat and usually a simple melody",
-        "ex_of_definition_list": [
-          "She likes rock",
-          "(also adjective) a rock band."
-        ]
-      }
+    "hash_code_list_img": "-629200070",
+    "list_example": [
+      "The ship struck a rock and sank",
+      "(also adjective) a rock band."
     ],
-    "hash_code_list_definition_mean": "1441051213"
+    "hash_code_list_example": "-531353380"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/rod_cb_dmean_5000_it.json",
@@ -2024,19 +1311,14 @@
         "id_image": "rod_1600598"
       }
     ],
-    "hash_code_list_img": "-722070592",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái que; cái gậy",
-        "definition": "a long thin stick or piece of wood, metal etc",
-        "ex_of_definition_list": [
-          "an iron rod",
-          "a fishing rod",
-          "a measuring rod."
-        ]
-      }
+    "hash_code_list_img": "-1798420051",
+    "list_example": [
+      "Studies of the effects of bleaching amphibian rod pigments in situ.",
+      "Thus, we can conclude with confidence that rod cells do not contain a circadian oscillator.",
+      "Characterization of the rod photoresponse isolated from the dark-adapted primate retina.",
+      "A visual pigment expressed in both rod and cone photoreceptors."
     ],
-    "hash_code_list_definition_mean": "882402480"
+    "hash_code_list_example": "-2061776798"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/roe_cb_dmean_5000_it.json",
@@ -2055,17 +1337,16 @@
         "id_image": "roe_185745"
       }
     ],
-    "hash_code_list_img": "861720656",
-    "list_definition_mean": [
-      {
-        "mean_english": "trứng cá",
-        "definition": "the eggs of fish",
-        "ex_of_definition_list": [
-          "cod roe."
-        ]
-      }
+    "hash_code_list_img": "798111479",
+    "list_example": [
+      "As one can probably imagine, it is somewhat difficult to show the difference between salmon roe from farmed salmon and salmon roe from wild salmon.",
+      "In the smaller roe deer, there is only a hook-shaped patch at the temporal end of the visual streak.",
+      "The habits of roe deer are completely different.",
+      "Next is the smaller and perhaps more familiar roe deer, also believed to be indigenous to this country.",
+      "Nevertheless, there are plenty of months in the year when the roe deer can be controlled.",
+      "The fences were highly effective at excluding rabbits but larger vertebrates, for example roe and muntjac deer, occasionally jumped over them."
     ],
-    "hash_code_list_definition_mean": "1142397165"
+    "hash_code_list_example": "-401125346"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/roller_cb_dmean_5000_it.json",
@@ -2091,25 +1372,15 @@
         "id_image": "roller_408416"
       }
     ],
-    "hash_code_list_img": "1885472587",
-    "list_definition_mean": [
-      {
-        "mean_english": "con lăn",
-        "definition": "any of a number of tube-shaped objects, or machines fitted with one or more such objects, for flattening, crushing, printing etc",
-        "ex_of_definition_list": [
-          "a garden roller",
-          "a road-roller."
-        ]
-      },
-      {
-        "mean_english": "ống cuộn",
-        "definition": "a small tube-shaped object on which hair is wound to curl it",
-        "ex_of_definition_list": [
-          "Her hair was in rollers."
-        ]
-      }
+    "hash_code_list_img": "-1042472684",
+    "list_example": [
+      "Oxygenated blood was infused into a carotid artery via roller pump.",
+      "The direction of relative motion of the shafts is reversed when the roller is moved past the center of the disk.",
+      "Most of the performances of the structure now depend on the sphere diameter and no longer on the roller diameter.",
+      "A force is applied to the adjustable roller in order to change its position on the splined shaft.",
+      "The rotation of the adjustable roller that is in contact with the friction disk."
     ],
-    "hash_code_list_definition_mean": "1555954815"
+    "hash_code_list_example": "-643545914"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/roll_cb_dmean_5000_it.json",
@@ -2157,156 +1428,19 @@
         "id_image": "roll_4809552"
       }
     ],
-    "hash_code_list_img": "631353001",
-    "list_definition_mean": [
-      {
-        "mean_english": "súc; cuộn",
-        "definition": "anything flat (eg a piece of paper, a carpet) rolled into the shape of a tube, wound round a tube etc",
-        "ex_of_definition_list": [
-          "a roll of kitchen foil",
-          "a toilet roll."
-        ]
-      },
-      {
-        "mean_english": "ổ bánh mỳ nhỏ",
-        "definition": "a small piece of baked bread dough, used eg for sandwiches",
-        "ex_of_definition_list": [
-          "a cheese roll."
-        ]
-      },
-      {
-        "mean_english": "sự cuộn mình",
-        "definition": "an act of rolling",
-        "ex_of_definition_list": [
-          "Our dog loves a roll on the grass."
-        ]
-      },
-      {
-        "mean_english": "sự lắc lư",
-        "definition": "a ship’s action of rocking from side to side",
-        "ex_of_definition_list": [
-          "She said that the roll of the ship made her feel ill."
-        ]
-      },
-      {
-        "mean_english": "tiếng sấm vang rền",
-        "definition": "a long low sound",
-        "ex_of_definition_list": [
-          "the roll of thunder."
-        ]
-      },
-      {
-        "mean_english": "lằn thịt",
-        "definition": "a thick mass of flesh",
-        "ex_of_definition_list": [
-          "I’d like to get rid of these rolls of fat round my waist."
-        ]
-      },
-      {
-        "mean_english": "lăn",
-        "definition": "to move by turning over like a wheel or ball",
-        "ex_of_definition_list": [
-          "The coin/pencil rolled under the table",
-          "He rolled the ball towards the puppy",
-          "The ball rolled away."
-        ]
-      },
-      {
-        "mean_english": "đẩy; lăn",
-        "definition": "to move on wheels, rollers etc",
-        "ex_of_definition_list": [
-          "The children rolled the cart up the hill, then let it roll back down again."
-        ]
-      },
-      {
-        "mean_english": "cuộn thành ống",
-        "definition": "to form (a piece of paper, a carpet) into the shape of a tube by winding",
-        "ex_of_definition_list": [
-          "Help me to roll the carpet back."
-        ]
-      },
-      {
-        "mean_english": "cuộn; đẩy",
-        "definition": "(of a person or animal in a lying position) to turn over",
-        "ex_of_definition_list": [
-          "The doctor rolled the patient (over) on to his side",
-          "The dog rolled on to its back."
-        ]
-      },
-      {
-        "mean_english": "nặn",
-        "definition": "to shape (clay etc) into a ball or cylinder by turning it about between the hands",
-        "ex_of_definition_list": [
-          "He rolled the clay into a ball."
-        ]
-      },
-      {
-        "mean_english": "quấn",
-        "definition": "to cover with something by rolling",
-        "ex_of_definition_list": [
-          "When the little girl’s dress caught fire, they rolled her in a blanket."
-        ]
-      },
-      {
-        "mean_english": "làm phẳng",
-        "definition": "to make (something) flat or flatter by rolling something heavy over it",
-        "ex_of_definition_list": [
-          "The lawn needs rolling",
-          "Roll the pastry (out) into a rectangle about 5mm thick."
-        ]
-      },
-      {
-        "mean_english": "lắc lư",
-        "definition": "(of a ship) to rock from side to side while travelling forwards",
-        "ex_of_definition_list": [
-          "The storm made the ship roll."
-        ]
-      },
-      {
-        "mean_english": "tiếng vang rền",
-        "definition": "to make a series of low sounds",
-        "ex_of_definition_list": [
-          "The thunder rolled",
-          "The drums rolled."
-        ]
-      },
-      {
-        "mean_english": "trợn tròn mắt",
-        "definition": "to move (one’s eyes) round in a circle to express fear, surprise etc",
-        "ex_of_definition_list": [
-          "She rolled her eyes in consternation."
-        ]
-      },
-      {
-        "mean_english": "đi du lịch bằng xe hơi",
-        "definition": "to travel in a car etc",
-        "ex_of_definition_list": [
-          "We were rolling along merrily when a tyre burst."
-        ]
-      },
-      {
-        "mean_english": "sóng cuồn cuộn",
-        "definition": "(of waves, rivers etc) to move gently and steadily",
-        "ex_of_definition_list": [
-          "The waves rolled in to the shore."
-        ]
-      },
-      {
-        "mean_english": "trôi qua",
-        "definition": "(of time) to pass",
-        "ex_of_definition_list": [
-          "Months rolled by."
-        ]
-      },
-      {
-        "mean_english": "danh sách",
-        "definition": "a list of names, eg of pupils in a school etc",
-        "ex_of_definition_list": [
-          "There are nine hundred pupils on the roll."
-        ]
-      }
+    "hash_code_list_img": "-592115778",
+    "list_example": [
+      "a roll of kitchen foil",
+      "Our dog loves a roll on the grass.",
+      "She said that the roll of the ship made her feel ill.",
+      "the roll of thunder.",
+      "The children rolled the cart up the hill, then let it roll back down again.",
+      "Help me to roll the carpet back.",
+      "Curves 1 and 2 are two extremes of observed trajectories stabilizing to roll cells with a negative flow direction.",
+      "This general criterion not only allows one to optimize the force distribution but also indirectly insures the stability by minimizing roll and pitch angles.",
+      "By sheer accident, an empty trolley, nobody aboard, is starting to roll down a certain track."
     ],
-    "hash_code_list_definition_mean": "590658629"
+    "hash_code_list_example": "834022701"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/romance_cb_dmean_5000_it.json",
@@ -2336,31 +1470,13 @@
         "id_image": "romance_2702237"
       }
     ],
-    "hash_code_list_img": "777677031",
-    "list_definition_mean": [
-      {
-        "mean_english": "không khí lãng mạn",
-        "definition": "the relationship, actions etc of people who are in love",
-        "ex_of_definition_list": [
-          "It was a beautiful romance, but it didn’t last."
-        ]
-      },
-      {
-        "mean_english": "câu chuyện về tình cảm lãng mạn",
-        "definition": "a story about such a relationship etc, especially one in which the people, events etc are more exciting etc than in normal life",
-        "ex_of_definition_list": [
-          "She writes romances."
-        ]
-      },
-      {
-        "mean_english": "tính lãng mạn",
-        "definition": "this kind of excitement",
-        "ex_of_definition_list": [
-          "She felt her life was lacking in romance."
-        ]
-      }
+    "hash_code_list_img": "1675771776",
+    "list_example": [
+      "It was a beautiful romance, but it didn’t last.",
+      "She writes romances.",
+      "She felt her life was lacking in romance."
     ],
-    "hash_code_list_definition_mean": "1044532778"
+    "hash_code_list_example": "-82839576"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/romantic_cb_dmean_5000_it.json",
@@ -2398,39 +1514,15 @@
         "id_image": "romantic_325628"
       }
     ],
-    "hash_code_list_img": "-1613084836",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc lãng mạn",
-        "definition": "(opposite unromantic) (of a story) about people who are in love",
-        "ex_of_definition_list": [
-          "a romantic novel."
-        ]
-      },
-      {
-        "mean_english": "có tính lãng mạn",
-        "definition": "causing or feeling love, especially the beautiful love described in a romance",
-        "ex_of_definition_list": [
-          "Her husband is very romantic – he brings her flowers every day",
-          "romantic music."
-        ]
-      },
-      {
-        "mean_english": "mơ mộng",
-        "definition": "too concerned with love and excitement",
-        "ex_of_definition_list": [
-          "Her head is full of romantic notions."
-        ]
-      },
-      {
-        "mean_english": "người bay bổng",
-        "definition": "someone who is not practical and who has hopes that are not realistic, but are based on an imagined world in which things are better than they really are",
-        "ex_of_definition_list": [
-          "an incurable romantic who dreamt of changing the world."
-        ]
-      }
+    "hash_code_list_img": "832221326",
+    "list_example": [
+      "a romantic novel.",
+      "Her husband is very romantic – he brings her flowers every day",
+      "romantic music.",
+      "Her head is full of romantic notions.",
+      "an incurable romantic who dreamt of changing the world."
     ],
-    "hash_code_list_definition_mean": "55049657"
+    "hash_code_list_example": "1834761588"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/roof_cb_dmean_5000_it.json",
@@ -2459,26 +1551,11 @@
         "id_image": "roof_313074"
       }
     ],
-    "hash_code_list_img": "-1610269974",
-    "list_definition_mean": [
-      {
-        "mean_english": "mái nhà",
-        "definition": "the top covering of a building etc",
-        "ex_of_definition_list": [
-          "a flat roof",
-          "a tiled roof",
-          "the roof of a car."
-        ]
-      },
-      {
-        "mean_english": "lợp mái nhà",
-        "definition": "to cover with a roof",
-        "ex_of_definition_list": [
-          "They’ll finish roofing the house next week."
-        ]
-      }
+    "hash_code_list_img": "344696541",
+    "list_example": [
+      "the roof of a car."
     ],
-    "hash_code_list_definition_mean": "869212647"
+    "hash_code_list_example": "882969860"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/room_cb_dmean_5000_it.json",
@@ -2508,35 +1585,13 @@
         "id_image": "room_578008"
       }
     ],
-    "hash_code_list_img": "1640673580",
-    "list_definition_mean": [
-      {
-        "mean_english": "phòng",
-        "definition": "one part of a house or building, usually used for a particular purpose",
-        "ex_of_definition_list": [
-          "This house has six rooms",
-          "a bedroom",
-          "a dining-room."
-        ]
-      },
-      {
-        "mean_english": "nơi chỗ",
-        "definition": "the space or area in which a person, thing etc is or could be put etc",
-        "ex_of_definition_list": [
-          "The bed takes up a lot of room",
-          "There’s no room for you in our car",
-          "We’ll move the bookcase to make room for the television."
-        ]
-      },
-      {
-        "mean_english": "sự cần thiết",
-        "definition": "a need or possibility (for something)",
-        "ex_of_definition_list": [
-          "There is room for improvement in his work."
-        ]
-      }
+    "hash_code_list_img": "1496010424",
+    "list_example": [
+      "There’s no room for you in our car",
+      "We’ll move the bookcase to make room for the television.",
+      "There is room for improvement in his work."
     ],
-    "hash_code_list_definition_mean": "647898798"
+    "hash_code_list_example": "465062984"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/root_cb_dmean_5000_it.json",
@@ -2570,62 +1625,19 @@
         "id_image": "root_969361"
       }
     ],
-    "hash_code_list_img": "1192635263",
-    "list_definition_mean": [
-      {
-        "mean_english": "rễ cây",
-        "definition": "the part of a plant that grows under the ground and draws food and water from the soil",
-        "ex_of_definition_list": [
-          "Trees often have deep roots",
-          "Carrots and turnips are edible roots."
-        ]
-      },
-      {
-        "mean_english": "chân tóc; chân răng",
-        "definition": "the base of something growing in the body",
-        "ex_of_definition_list": [
-          "the roots of one’s hair/teeth."
-        ]
-      },
-      {
-        "mean_english": "nguồn gốc",
-        "definition": "cause; origin",
-        "ex_of_definition_list": [
-          "Love of money is the root of all evil",
-          "We must get at the root of the trouble."
-        ]
-      },
-      {
-        "mean_english": "tổ tiên",
-        "definition": "(in plural) family origins",
-        "ex_of_definition_list": [
-          "Our roots are in Scotland."
-        ]
-      },
-      {
-        "mean_english": "làm bắt rễ",
-        "definition": "to (make something) grow roots",
-        "ex_of_definition_list": [
-          "These plants aren’t rooting very well",
-          "He rooted the plants in compost."
-        ]
-      },
-      {
-        "mean_english": "dũi đất",
-        "definition": "to poke about in the ground",
-        "ex_of_definition_list": [
-          "The pigs were rooting about for food."
-        ]
-      },
-      {
-        "mean_english": "sục sạo",
-        "definition": "to search by turning things over etc",
-        "ex_of_definition_list": [
-          "She rooted about in the cupboard."
-        ]
-      }
+    "hash_code_list_img": "-1503237246",
+    "list_example": [
+      "Love of money is the root of all evil",
+      "We must get at the root of the trouble.",
+      "Here is the non-restricted root restricting to we fixed earlier.",
+      "Pairs of terms based on a single root have been avoided.",
+      "The constraint hierarchy in (9) exemplifies the root phonology.",
+      "Just in case the root is monosyllabic, as in (9), the subject prefix is lengthened.",
+      "Nasalisation in the 1st person form is more limited when the root contains an obstruent.",
+      "Let us consider the correspondence relations in (34) in terms of root and affix faith.",
+      "The difficulty with employing a labelled transition system as a specification has its root in the way that negative capabilities are portrayed."
     ],
-    "hash_code_list_definition_mean": "695721734"
+    "hash_code_list_example": "1830894880"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/rope_cb_dmean_5000_it.json",
@@ -2650,32 +1662,22 @@
         "id_image": "rope_4020425"
       }
     ],
-    "hash_code_list_img": "-755381831",
-    "list_definition_mean": [
-      {
-        "mean_english": "dây chão",
-        "definition": "(a) thick cord, made by twisting together lengths of hemp, nylon etc",
-        "ex_of_definition_list": [
-          "He tied it with a (piece of) rope",
-          "a skipping rope."
-        ]
-      },
-      {
-        "mean_english": "buộc bằng dây chão",
-        "definition": "to tie or fasten with a rope",
-        "ex_of_definition_list": [
-          "He roped the suitcase to the roof of the car."
-        ]
-      },
-      {
-        "mean_english": "bắt bằng dây thòng lọng",
-        "definition": "to catch with a rope; to lasso",
-        "ex_of_definition_list": [
-          "He roped a calf."
-        ]
-      }
+    "hash_code_list_img": "1426854013",
+    "list_example": [
+      "He tied it with a (piece of) rope",
+      "a skipping rope.",
+      "He roped the suitcase to the roof of the car.",
+      "He roped a calf.",
+      "All young, upcoming talent needs people expert in their fields to show them the ropes.",
+      "Neither he nor any man has-been bound with ropes and dragged along the ground.",
+      "Traps were made of square pieces of large-mesh polyethylene fabric tied by ropes to four neighbouring live trees, at about 1.5 m above ground to avoid disturbances by large mammals.",
+      "I should like to see them all roped in.",
+      "The cost of nets, buoys, ropes and all the rest of the equipment used by fishermen has gone up enormously.",
+      "During his exercise lessons, he used jump ropes along with the chest expanders and clubs and scepters for helping students strengthen their arms and hands.",
+      "My information on that relates to two parts of the industry— tubes and steel wire ropes.",
+      "Readers, roped together behind their erstwhile guides, set off with confidence that the route is well-prepared and that new topographical features will be drawn to their attention."
     ],
-    "hash_code_list_definition_mean": "-1515388614"
+    "hash_code_list_example": "449513934"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/rosette_cb_dmean_5000_it.json",
@@ -2693,17 +1695,17 @@
         "id_image": "rosette_4633944"
       }
     ],
-    "hash_code_list_img": "909682801",
-    "list_definition_mean": [
-      {
-        "mean_english": "nơ hoa hồng; hình hoa hồng",
-        "definition": "a badge or decoration in the shape of a rose, made of coloured/colored ribbon etc",
-        "ex_of_definition_list": [
-          "Her poodle won a rosette in the dog show."
-        ]
-      }
+    "hash_code_list_img": "979818909",
+    "list_example": [
+      "Her poodle won a rosette in the dog show.",
+      "An early pregnancy factor detected in human serum by the rosette inhibition test.",
+      "One's gaze is captured by a ceiling rosette or the framing of a window.",
+      "But the proportion of plants with gall damage initiated at the rosette stage was significantly greater in 1996-97 and 1998-99 than in other years.",
+      "This biomass increment, however, only accounts for the largest, and generally oldest, rosette and the investment in offshoots differed strongly.",
+      "At both sites, 11-24% of plants had gall damage initiated at the rosette stage, the damage being similar from 1996 to 1999.",
+      "The reason for the variation in gall damage levels at the rosette stage is not known."
     ],
-    "hash_code_list_definition_mean": "1448866266"
+    "hash_code_list_example": "-883688253"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/rotary_cb_dmean_5000_it.json",
@@ -2736,17 +1738,19 @@
         "id_image": "rotary_4646869"
       }
     ],
-    "hash_code_list_img": "653255034",
-    "list_definition_mean": [
-      {
-        "mean_english": "quay",
-        "definition": "turning like a wheel",
-        "ex_of_definition_list": [
-          "a rotary movement."
-        ]
-      }
+    "hash_code_list_img": "638305884",
+    "list_example": [
+      "a rotary movement.",
+      "Each intermediate link has rotary joints at its ends connecting to the platform and a slider.",
+      "However, wet spring weather caused the number of rotary hoeings and cultivations to vary among farms in the no herbicide treatment.",
+      "Shear deformation, rotary inertia and effect of axial force are assumed to be negligible.",
+      "Structure of the peripheral domains of neurofilaments revealed by low angle rotary shadowing.",
+      "One is the element of reciprocal rotational movement within the limited angle, such as on a rotary actuator with limited travel.",
+      "Also, if there is a rotary actuator to drive a rotational degree of freedom, its reaction torque acts on the preceding rotational movability.",
+      "Chapter 4 describes tape-based storage and retrieval, summarising rotary and stationary head recording systems.",
+      "Simulation results with three-link rotary robot are presented and performances of different compensating locations are compared."
     ],
-    "hash_code_list_definition_mean": "128655558"
+    "hash_code_list_example": "416365219"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/rotate_cb_dmean_5000_it.json",
@@ -2774,17 +1778,15 @@
         "id_image": "rotate_4542652"
       }
     ],
-    "hash_code_list_img": "1063164043",
-    "list_definition_mean": [
-      {
-        "mean_english": "quay tròn",
-        "definition": "to turn like a wheel",
-        "ex_of_definition_list": [
-          "He rotated the handle",
-          "The earth rotates."
-        ]
-      }
+    "hash_code_list_img": "-801856125",
+    "list_example": [
+      "He rotated the handle",
+      "The earth rotates.",
+      "Thus, each condition was rotated systematically across participants.",
+      "Emergence trays were rotated regularly through the greenhouse.",
+      "In the third site this responsibility was rotated around the individual team members.",
+      "After the base rotates about 8 degrees (clockwise) over the front edge, the implement retracts back to regain the stability."
     ],
-    "hash_code_list_definition_mean": "801445249"
+    "hash_code_list_example": "-1571516323"
   }
 ]

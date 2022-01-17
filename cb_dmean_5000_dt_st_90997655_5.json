@@ -31,24 +31,12 @@
         "id_image": "atmosphere_5570607"
       }
     ],
-    "hash_code_list_img": "31868000",
-    "list_definition_mean": [
-      {
-        "mean_english": "lớp khí quyển",
-        "definition": "the air surrounding the earth",
-        "ex_of_definition_list": [
-          "The atmosphere above the city is heavily polluted."
-        ]
-      },
-      {
-        "mean_english": "không khí",
-        "definition": "any surrounding feeling",
-        "ex_of_definition_list": [
-          "There was a friendly atmosphere in the village."
-        ]
-      }
+    "hash_code_list_img": "-273392723",
+    "list_example": [
+      "The atmosphere above the city is heavily polluted.",
+      "There was a friendly atmosphere in the village."
     ],
-    "hash_code_list_definition_mean": "-1650348454"
+    "hash_code_list_example": "-576393601"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/atom_cb_dmean_5000_it.json",
@@ -72,17 +60,13 @@
         "id_image": "atom_4455456"
       }
     ],
-    "hash_code_list_img": "-1041370015",
-    "list_definition_mean": [
-      {
-        "mean_english": "vật nhỏ",
-        "definition": "anything very small",
-        "ex_of_definition_list": [
-          "There’s not an atom of truth in what she says."
-        ]
-      }
+    "hash_code_list_img": "-1583783647",
+    "list_example": [
+      "There’s not an atom of truth in what she says.",
+      "A simulated experiment with an atom trap was planned with five sections, and then let run to generate the composition.",
+      "First, generalisation induces precision loss, even to the extent that the generalised atom has a different characteristic tree."
     ],
-    "hash_code_list_definition_mean": "1406340418"
+    "hash_code_list_example": "1150497022"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/attachment_cb_dmean_5000_it.json",
@@ -111,24 +95,11 @@
         "id_image": "attachment_1806617"
       }
     ],
-    "hash_code_list_img": "-540416239",
-    "list_definition_mean": [
-      {
-        "mean_english": "phụ tùng",
-        "definition": "something extra attached",
-        "ex_of_definition_list": [
-          "There are several attachments for this food mixer."
-        ]
-      },
-      {
-        "mean_english": "sự gắn bó",
-        "definition": "(with for/to) liking or affection",
-        "ex_of_definition_list": [
-          "She felt a great deal of attachment to her home town."
-        ]
-      }
+    "hash_code_list_img": "-1165576878",
+    "list_example": [
+      "She felt a great deal of attachment to her home town."
     ],
-    "hash_code_list_definition_mean": "-1968318803"
+    "hash_code_list_example": "1750919197"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/attach_cb_dmean_5000_it.json",
@@ -156,17 +127,11 @@
         "id_image": "attach_5512622"
       }
     ],
-    "hash_code_list_img": "847772679",
-    "list_definition_mean": [
-      {
-        "mean_english": "gắn",
-        "definition": "to fasten or join",
-        "ex_of_definition_list": [
-          "I attached a label to my bag."
-        ]
-      }
+    "hash_code_list_img": "1828740004",
+    "list_example": [
+      "I attached a label to my bag."
     ],
-    "hash_code_list_definition_mean": "1990652004"
+    "hash_code_list_example": "-758202940"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/attack_cb_dmean_5000_it.json",
@@ -193,55 +158,13 @@
         "id_image": "attack_4736051"
       }
     ],
-    "hash_code_list_img": "-389922551",
-    "list_definition_mean": [
-      {
-        "mean_english": "tấn công",
-        "definition": "to make a sudden, violent attempt to hurt or damage",
-        "ex_of_definition_list": [
-          "He attacked me with a knife",
-          "The village was attacked from the air."
-        ]
-      },
-      {
-        "mean_english": "chỉ trích",
-        "definition": "to speak or write against",
-        "ex_of_definition_list": [
-          "The Prime Minister’s policy was attacked in the newspapers."
-        ]
-      },
-      {
-        "mean_english": "tấn công",
-        "definition": "(in games) to attempt to score a goal",
-        "ex_of_definition_list": [
-          "Real Madrid were attacking the Barcelona goal."
-        ]
-      },
-      {
-        "mean_english": "bắt đầu giải quyết",
-        "definition": "to make a vigorous start on",
-        "ex_of_definition_list": [
-          "It’s time we attacked that pile of work."
-        ]
-      },
-      {
-        "mean_english": "sự tấn công",
-        "definition": "an act or the action of attacking",
-        "ex_of_definition_list": [
-          "The brutal attack killed the old man",
-          "They made an air attack on the town."
-        ]
-      },
-      {
-        "mean_english": "cơn bột phát",
-        "definition": "a sudden bout of illness",
-        "ex_of_definition_list": [
-          "heart attack",
-          "an attack of ‘flu."
-        ]
-      }
+    "hash_code_list_img": "-789917384",
+    "list_example": [
+      "The brutal attack killed the old man",
+      "They made an air attack on the town.",
+      "an attack of ‘flu."
     ],
-    "hash_code_list_definition_mean": "-332017696"
+    "hash_code_list_example": "646821940"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/attendant_cb_dmean_5000_it.json",
@@ -259,17 +182,19 @@
         "id_image": "attendant_6413463"
       }
     ],
-    "hash_code_list_img": "558576718",
-    "list_definition_mean": [
-      {
-        "mean_english": "người phục vụ",
-        "definition": "a person employed to look after someone or something",
-        "ex_of_definition_list": [
-          "a car-park attendant."
-        ]
-      }
+    "hash_code_list_img": "701526246",
+    "list_example": [
+      "a car-park attendant.",
+      "I thank also the officers, staff and attendants for the help they have given me in trying to find my way around.",
+      "The director believes that it will worsen because as civil servants' pay goes up the cost of attendants goes up.",
+      "Waiters, council officers, swimming pool attendants, nurses, doctors and people in the voluntary service all need such awareness.",
+      "The other attendants are also registered disabled persons.",
+      "By viewing these visual representations, they broke away from their claustrophobic life forever surrounded by people, kinsmen, attendants and foes.",
+      "In some areas, however, the employment of attendants is not justified by the number of stretcher cases carried.",
+      "Patrons returned their volumes to the appropriate desk, and requested new volumes at the same place, which the attendants then retrieved from the shelves all around them.",
+      "The application of the museum attendants raised issues which required careful and detailed investigation."
     ],
-    "hash_code_list_definition_mean": "154522648"
+    "hash_code_list_example": "-187214437"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/attention_cb_dmean_5000_it.json",
@@ -305,39 +230,20 @@
         "id_image": "attention_526800"
       }
     ],
-    "hash_code_list_img": "-469983676",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự chú ý",
-        "definition": "notice",
-        "ex_of_definition_list": [
-          "He tried to attract my attention",
-          "Pay attention to your teacher!"
-        ]
-      },
-      {
-        "mean_english": "sự chăm sóc",
-        "definition": "care",
-        "ex_of_definition_list": [
-          "That injury needs urgent attention."
-        ]
-      },
-      {
-        "mean_english": "sự tập trung",
-        "definition": "concentration of the mind",
-        "ex_of_definition_list": [
-          "His attention wanders."
-        ]
-      },
-      {
-        "mean_english": "tư thế đứng nghiêm",
-        "definition": "(in the army etc) a position in which one stands very straight with hands by the sides and feet together",
-        "ex_of_definition_list": [
-          "He stood to attention."
-        ]
-      }
+    "hash_code_list_img": "-570092530",
+    "list_example": [
+      "Pay attention to your teacher!",
+      "His attention wanders.",
+      "The best way to elicit a schwa is to direct attention away from it and on to the stressed syllable of the word.",
+      "This is of no theoretical interest and could be cured, for instance, by adding a warning feature drawing attention to skipped words.",
+      "To this end it is disappointing that the book has paid only scant attention to the psychological processes in the disorder.",
+      "As the study of developmental psychology devotes virtually no attention to the adult years, the assumption is that development has ceased by this time.",
+      "The meaning of tables and figures and the argument in general demand close attention to the text, whose style tends to the abstract and convoluted.",
+      "This paper examines reactive focus on for m as a way of focusing students' attention on their own output.",
+      "Future research should pay particular attention to the disruption of values, roles and social relationships.",
+      "In order to avoid some technical details, for the hypergraph case we restrict our attention to the lower bound only."
     ],
-    "hash_code_list_definition_mean": "1653803201"
+    "hash_code_list_example": "-1650452435"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/attic_cb_dmean_5000_it.json",
@@ -355,17 +261,13 @@
         "id_image": "attic_3650793"
       }
     ],
-    "hash_code_list_img": "689375846",
-    "list_definition_mean": [
-      {
-        "mean_english": "phòng áp mái",
-        "definition": "a room at the top of a house under the roof",
-        "ex_of_definition_list": [
-          "They store old furniture in the attic."
-        ]
-      }
+    "hash_code_list_img": "910658541",
+    "list_example": [
+      "The form had advantages both in providing a useful space in the attic and reducing the height of the overall roof.",
+      "It is quite clear that he has not been crawling around in an attic trying to install an aerial.",
+      "I was one of the first up - save, of course, my host as well as one of the video production guys sharing a futon in the attic corner."
     ],
-    "hash_code_list_definition_mean": "149647289"
+    "hash_code_list_example": "-2025300098"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/attitude_cb_dmean_5000_it.json",
@@ -384,24 +286,14 @@
         "id_image": "attitude_6213219"
       }
     ],
-    "hash_code_list_img": "334462912",
-    "list_definition_mean": [
-      {
-        "mean_english": "quan điểm",
-        "definition": "a way of thinking or acting etc",
-        "ex_of_definition_list": [
-          "What is your attitude to politics?"
-        ]
-      },
-      {
-        "mean_english": "tư thế",
-        "definition": "a position of the body",
-        "ex_of_definition_list": [
-          "The artist painted the model in various attitudes."
-        ]
-      }
+    "hash_code_list_img": "206091618",
+    "list_example": [
+      "What is your attitude to politics?",
+      "In other words, this analysis does not negate previous findings that opinion change and attitude stability vary by political sophistication.",
+      "If central powers tended to do the same for opposite reasons, their attitude towards non-bureaucratic opinion alternated between indifference and hostility.",
+      "One of the underlying cognitive factors is the person's attitude towards performing the behaviour."
     ],
-    "hash_code_list_definition_mean": "1737259149"
+    "hash_code_list_example": "977293496"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/attorney_cb_dmean_5000_it.json",
@@ -430,17 +322,14 @@
         "id_image": "attorney_6333136"
       }
     ],
-    "hash_code_list_img": "219951259",
-    "list_definition_mean": [
-      {
-        "mean_english": "luật sư",
-        "definition": "a lawyer",
-        "ex_of_definition_list": [
-          "You have a right to an attorney in a criminal case."
-        ]
-      }
+    "hash_code_list_img": "-856843845",
+    "list_example": [
+      "You have a right to an attorney in a criminal case.",
+      "But the attorney general could and sometimes did require the accused to post securities for good behaviour before admitting him to bail.",
+      "We encourage families to obtain durable power of attorney for health care for their demented relatives and avoid the cost and procedures of guardianship.",
+      "In the autumn of 1764 he seemed likely to return to office, either as attorney general or master of the rolls."
     ],
-    "hash_code_list_definition_mean": "37427912"
+    "hash_code_list_example": "-981931556"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/attraction_cb_dmean_5000_it.json",
@@ -479,24 +368,12 @@
         "id_image": "attraction_708675"
       }
     ],
-    "hash_code_list_img": "1716078167",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự hấp dẫn",
-        "definition": "the act or power of attracting",
-        "ex_of_definition_list": [
-          "magnetic attraction."
-        ]
-      },
-      {
-        "mean_english": "cái thu hút",
-        "definition": "something that attracts",
-        "ex_of_definition_list": [
-          "The attractions of the hotel include a golf course."
-        ]
-      }
+    "hash_code_list_img": "-1977188060",
+    "list_example": [
+      "magnetic attraction.",
+      "The attractions of the hotel include a golf course."
     ],
-    "hash_code_list_definition_mean": "2032661004"
+    "hash_code_list_example": "-455192189"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/attractive_cb_dmean_5000_it.json",
@@ -515,26 +392,12 @@
         "id_image": "attractive_272473"
       }
     ],
-    "hash_code_list_img": "1838584655",
-    "list_definition_mean": [
-      {
-        "mean_english": "hấp dẫn",
-        "definition": "pleasant and good- looking",
-        "ex_of_definition_list": [
-          "an attractive girl",
-          "She was young and attractive."
-        ]
-      },
-      {
-        "mean_english": "quyến rũ",
-        "definition": "likeable; tempting",
-        "ex_of_definition_list": [
-          "She has an attractive personality",
-          "He found the proposition attractive."
-        ]
-      }
+    "hash_code_list_img": "2019482043",
+    "list_example": [
+      "an attractive girl",
+      "She has an attractive personality"
     ],
-    "hash_code_list_definition_mean": "-696137552"
+    "hash_code_list_example": "1555098321"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/attract_cb_dmean_5000_it.json",
@@ -563,25 +426,11 @@
         "id_image": "attract_4433145"
       }
     ],
-    "hash_code_list_img": "-1323704716",
-    "list_definition_mean": [
-      {
-        "mean_english": "thu hút",
-        "definition": "to cause (someone or something) to come towards",
-        "ex_of_definition_list": [
-          "A magnet attracts iron",
-          "I tried to attract her attention."
-        ]
-      },
-      {
-        "mean_english": "hấp dẫn",
-        "definition": "to arouse (someone’s) liking or interest",
-        "ex_of_definition_list": [
-          "What was it that attracted you to him?"
-        ]
-      }
+    "hash_code_list_img": "-327790034",
+    "list_example": [
+      "I tried to attract her attention."
     ],
-    "hash_code_list_definition_mean": "812062719"
+    "hash_code_list_example": "1642578993"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/attribute_cb_dmean_5000_it.json",
@@ -600,24 +449,13 @@
         "id_image": "attribute_1441343"
       }
     ],
-    "hash_code_list_img": "288537282",
-    "list_definition_mean": [
-      {
-        "mean_english": "gán cho là",
-        "definition": "to think of as being written, made etc by",
-        "ex_of_definition_list": [
-          "The play is attributed to Shakespeare."
-        ]
-      },
-      {
-        "mean_english": "qui cho là",
-        "definition": "to think of as being caused by",
-        "ex_of_definition_list": [
-          "He attributed his illness to the cold weather."
-        ]
-      }
+    "hash_code_list_img": "656898253",
+    "list_example": [
+      "They attribute this result to certain reforms of the party's nominating process.",
+      "What this protective attribute is relates to the second question, that of what mechanisms underlie the protective effect.",
+      "In other words, in refusing to attribute any role to crime, these studies are forced into the same zero-sum framework they attempt to challenge."
     ],
-    "hash_code_list_definition_mean": "151039779"
+    "hash_code_list_example": "-1783424873"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/aubergine_cb_dmean_5000_it.json",
@@ -640,17 +478,12 @@
         "id_image": "aubergine_413288"
       }
     ],
-    "hash_code_list_img": "2097563344",
-    "list_definition_mean": [
-      {
-        "mean_english": "cà tím",
-        "definition": "a purple vegetable; eggplant American",
-        "ex_of_definition_list": [
-          "grilled/stuffed aubergine."
-        ]
-      }
+    "hash_code_list_img": "1888666191",
+    "list_example": [
+      "Tomato, cucumber and aubergine are the most important crops.",
+      "For some reason she always seems to need a small aubergine to be able to do so."
     ],
-    "hash_code_list_definition_mean": "803152662"
+    "hash_code_list_example": "840044229"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/auction_cb_dmean_5000_it.json",
@@ -679,25 +512,21 @@
         "id_image": "auction_411716"
       }
     ],
-    "hash_code_list_img": "-707829523",
-    "list_definition_mean": [
-      {
-        "mean_english": "cuộc bán đấu giá",
-        "definition": "a public sale in which each thing is sold to the person who offers the highest price",
-        "ex_of_definition_list": [
-          "They held an auction",
-          "He sold the house by auction."
-        ]
-      },
-      {
-        "mean_english": "bán đấu giá",
-        "definition": "to sell something in this way",
-        "ex_of_definition_list": [
-          "He auctioned all his furniture before emigrating."
-        ]
-      }
+    "hash_code_list_img": "426121482",
+    "list_example": [
+      "They held an auction",
+      "He sold the house by auction.",
+      "He auctioned all his furniture before emigrating.",
+      "The first is the potential complexity required to both reason about the bidding process and determine the auction's outcome.",
+      "Such auctions are known to have taken place as far back as the 1830s, if not before.",
+      "We suggest that providing better information to the beneficiaries, as well as allowing for market auctions where appropriate (for large tracts of land, for example) may also help.",
+      "In contrast, suppose that the process of biological evolution would select bidding strategies for auctions that take place generation after generation in a population in which strategies are genetically inherited.",
+      "However, the variegated and inconsistent lessons drawn from their participation indicate that the role game theorists actually played in the auctions is not well understood.",
+      "One of the issues in the private rented sector is that properties with sitting [regulated] tenants can be sold off, passed on, or auctioned many times.",
+      "Typical examples of complex distributed applications are social simulations, supply-chain management, electronic auctions, e-institutions, or business-to-business applications.",
+      "When human or arti®cial agents negotiate in auctions they do not necessarily require speech acts and logic to carry out sophisticated transactions."
     ],
-    "hash_code_list_definition_mean": "1994024610"
+    "hash_code_list_example": "1403929295"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/audience_cb_dmean_5000_it.json",
@@ -736,25 +565,12 @@
         "id_image": "audience_6347240"
       }
     ],
-    "hash_code_list_img": "-586495888",
-    "list_definition_mean": [
-      {
-        "mean_english": "khán thính giả",
-        "definition": "a group of people watching or listening to a performance etc",
-        "ex_of_definition_list": [
-          "There was an audience of at least 4000 people at the concert",
-          "a television audience."
-        ]
-      },
-      {
-        "mean_english": "sự tiếp kiến",
-        "definition": "a formal interview with someone important eg a king",
-        "ex_of_definition_list": [
-          "He was granted an audience with the Pope."
-        ]
-      }
+    "hash_code_list_img": "1617076116",
+    "list_example": [
+      "There was an audience of at least 4000 people at the concert",
+      "He was granted an audience with the Pope."
     ],
-    "hash_code_list_definition_mean": "377620957"
+    "hash_code_list_example": "-332820244"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/audition_cb_dmean_5000_it.json",
@@ -778,17 +594,11 @@
         "id_image": "audition_4514876"
       }
     ],
-    "hash_code_list_img": "-1433504925",
-    "list_definition_mean": [
-      {
-        "mean_english": "thử giọng",
-        "definition": "a trial performance for an actor, singer, musician etc",
-        "ex_of_definition_list": [
-          "She had an audition for a part in the television play."
-        ]
-      }
+    "hash_code_list_img": "1643454884",
+    "list_example": [
+      "She had an audition for a part in the television play."
     ],
-    "hash_code_list_definition_mean": "787033756"
+    "hash_code_list_example": "99581283"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/auditorium_cb_dmean_5000_it.json",
@@ -806,17 +616,11 @@
         "id_image": "auditorium_4799523"
       }
     ],
-    "hash_code_list_img": "1933965724",
-    "list_definition_mean": [
-      {
-        "mean_english": "thính phòng",
-        "definition": "the part of a theatre/theater etc where the audience sits",
-        "ex_of_definition_list": [
-          "The auditorium was packed with cheering fans."
-        ]
-      }
+    "hash_code_list_img": "112026722",
+    "list_example": [
+      "The auditorium was packed with cheering fans."
     ],
-    "hash_code_list_definition_mean": "347645808"
+    "hash_code_list_example": "716844121"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/auditory_cb_dmean_5000_it.json",
@@ -839,17 +643,15 @@
         "id_image": "auditory_4789372"
       }
     ],
-    "hash_code_list_img": "-1852747697",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc thính giác",
-        "definition": "relating to hearing",
-        "ex_of_definition_list": [
-          "the auditory nerve."
-        ]
-      }
+    "hash_code_list_img": "-592135262",
+    "list_example": [
+      "the auditory nerve.",
+      "For the purposes of this article, this task is referred to as an accent auditory lexical decision task.",
+      "If auditory temporal resolution is poor, then breakdown in ability to detect glide direction should occur at a relatively long stimulus duration.",
+      "In this way, the exterior world of music and the internal processes of listening echo through life the replaying of an original auditory bliss.",
+      "Sonification uses the auditory icon as a sort of container in which information of an extramusical kind is enclosed."
     ],
-    "hash_code_list_definition_mean": "1430611655"
+    "hash_code_list_example": "617448361"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/auditor_cb_dmean_5000_it.json",
@@ -872,17 +674,11 @@
         "id_image": "auditor_4308065"
       }
     ],
-    "hash_code_list_img": "-273503468",
-    "list_definition_mean": [
-      {
-        "mean_english": "kiểm toán viên",
-        "definition": "a person who audits accounts",
-        "ex_of_definition_list": [
-          "the company’s auditors."
-        ]
-      }
+    "hash_code_list_img": "-961874715",
+    "list_example": [
+      "These actions indicate to the auditor of trust the validity of the base for trust through signs and signals."
     ],
-    "hash_code_list_definition_mean": "1803756912"
+    "hash_code_list_example": "1393674915"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/audit_cb_dmean_5000_it.json",
@@ -920,24 +716,11 @@
         "id_image": "audit_4308089"
       }
     ],
-    "hash_code_list_img": "-1505265359",
-    "list_definition_mean": [
-      {
-        "mean_english": "kiểm toán",
-        "definition": "an official examination of financial accounts",
-        "ex_of_definition_list": [
-          "An audit of the company’s finances is currently being carried out."
-        ]
-      },
-      {
-        "mean_english": "kiểm toán",
-        "definition": "to examine financial accounts officially",
-        "ex_of_definition_list": [
-          "The organization’s financial statements have been audited."
-        ]
-      }
+    "hash_code_list_img": "-668366938",
+    "list_example": [
+      "An audit of the company’s finances is currently being carried out."
     ],
-    "hash_code_list_definition_mean": "-166533894"
+    "hash_code_list_example": "-753571224"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/aunt_cb_dmean_5000_it.json",
@@ -960,18 +743,13 @@
         "id_image": "aunt_859953"
       }
     ],
-    "hash_code_list_img": "-699688215",
-    "list_definition_mean": [
-      {
-        "mean_english": "cô",
-        "definition": "the sister of one’s father or mother, or the wife of one’s uncle",
-        "ex_of_definition_list": [
-          "My Aunt Anne died last week",
-          "The child went to the circus with her aunt."
-        ]
-      }
+    "hash_code_list_img": "588454680",
+    "list_example": [
+      "The aunt reciprocates her niece's call for complicity.",
+      "The neighbors of ' aunt ' are ' uncle ', 'relative ' and ' relation'.",
+      "Certainly it was easiest when the grandmother or aunt lived in the same house, but there were also striking instances when they lived close by."
     ],
-    "hash_code_list_definition_mean": "1835022846"
+    "hash_code_list_example": "442080347"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/authentic_cb_dmean_5000_it.json",
@@ -994,17 +772,16 @@
         "id_image": "authentic_5966666"
       }
     ],
-    "hash_code_list_img": "-277589086",
-    "list_definition_mean": [
-      {
-        "mean_english": "đích thực",
-        "definition": "true, real or genuine",
-        "ex_of_definition_list": [
-          "an authentic signature."
-        ]
-      }
+    "hash_code_list_img": "1081952803",
+    "list_example": [
+      "an authentic signature.",
+      "First, students were able to read a full-length authentic text in the first semester.",
+      "Take the most up-to-date computerized collection of authentic texts to produce realistic and useful examples.",
+      "But the theatre can and has played many other, deeper, and more important roles in the quest for authentic democracy.",
+      "These results indicate that simplified texts exhibited more semantic similarity within sentences and within paragraphs than did authentic texts.",
+      "Most importantly, authentic country exhibited a 'live' feel and spontaneity in recorded performance."
     ],
-    "hash_code_list_definition_mean": "2067578509"
+    "hash_code_list_example": "-637343520"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/authoritarian_cb_dmean_5000_it.json",
@@ -1022,17 +799,11 @@
         "id_image": "authoritarian_5101281"
       }
     ],
-    "hash_code_list_img": "448084095",
-    "list_definition_mean": [
-      {
-        "mean_english": "độc tài",
-        "definition": "considering obedience to authority more important than personal freedom",
-        "ex_of_definition_list": [
-          "an authoritarian government."
-        ]
-      }
+    "hash_code_list_img": "1890881234",
+    "list_example": [
+      "an authoritarian government."
     ],
-    "hash_code_list_definition_mean": "82065787"
+    "hash_code_list_example": "166254072"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/authority_cb_dmean_5000_it.json",
@@ -1053,38 +824,12 @@
         "id_image": "authority_2720642"
       }
     ],
-    "hash_code_list_img": "1822045824",
-    "list_definition_mean": [
-      {
-        "mean_english": "quyền lực",
-        "definition": "the power or right to do something",
-        "ex_of_definition_list": [
-          "He gave me authority to act on his behalf."
-        ]
-      },
-      {
-        "mean_english": "chuyên gia",
-        "definition": "a person who is an expert, or a book that can be referred to, on a particular subject",
-        "ex_of_definition_list": [
-          "He is an authority on Roman history."
-        ]
-      },
-      {
-        "mean_english": "người có thẩm quyền",
-        "definition": "the person or people who have power in an administration etc",
-        "ex_of_definition_list": [
-          "The authorities would not allow public meetings."
-        ]
-      },
-      {
-        "mean_english": "có uy tín",
-        "definition": "a natural quality in a person which makes him able to control and influence people",
-        "ex_of_definition_list": [
-          "a man of authority."
-        ]
-      }
+    "hash_code_list_img": "2072945146",
+    "list_example": [
+      "He gave me authority to act on his behalf.",
+      "He is an authority on Roman history."
     ],
-    "hash_code_list_definition_mean": "1529070927"
+    "hash_code_list_example": "-283242921"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/authorize_cb_dmean_5000_it.json",
@@ -1102,18 +847,19 @@
         "id_image": "authorize_4133338"
       }
     ],
-    "hash_code_list_img": "369141953",
-    "list_definition_mean": [
-      {
-        "mean_english": "uỷ quyền",
-        "definition": "to give the power or right to do something",
-        "ex_of_definition_list": [
-          "I authorized him to sign the documents",
-          "I authorized the payment of $100 to John Anderson."
-        ]
-      }
+    "hash_code_list_img": "177279418",
+    "list_example": [
+      "I authorized him to sign the documents",
+      "I authorized the payment of $100 to John Anderson.",
+      "Collectivities of this aggregate kind will not be answerable in the same way to words previously authorized or deeds previously per formed.",
+      "Only a privileged few papers were authorized to publish political news at all.",
+      "The office authorized him to exercise the power of management over the local shoe market on the office's behalf.",
+      "Furthermore, computer networks provide authorized individuals with rapid access to complementary information concerning the patient, in particular their address.",
+      "Transient overflight or landing may be allowed if specifically authorized by permit.",
+      "They were authorized to install office holders and hand out their corresponding seats on the stuccoed benches in the longhouse structures.",
+      "In the process, they made use of newly authorized institutions and discourses, from elections to notions of equality."
     ],
-    "hash_code_list_definition_mean": "1920566988"
+    "hash_code_list_example": "2138662419"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/authorship_cb_dmean_5000_it.json",
@@ -1131,17 +877,17 @@
         "id_image": "authorship_4391575"
       }
     ],
-    "hash_code_list_img": "1454499142",
-    "list_definition_mean": [
-      {
-        "mean_english": "tư cách một tác giả",
-        "definition": "the state or fact of being an author",
-        "ex_of_definition_list": [
-          "The authorship of the play is disputed."
-        ]
-      }
+    "hash_code_list_img": "1997028960",
+    "list_example": [
+      "The authorship of the play is disputed.",
+      "But we can also move away from an approach to female authorship that privileges difference as located in the work.",
+      "Despite a century of research, statistical and computational methods for authorship attribution are neither reliable, well-regarded, widely used nor well-understood.",
+      "In authorship identification, it is assumed that both the target text and the attested corpus are reasonably large.",
+      "In some cases, however, authorship is clear from evidence in diaries, letters, or annotations made on the newspaper.",
+      "In developing this argument, the author leaves many questions unanswered about the notion of authorship in architecture, and the nature and meaning of the immaterial.",
+      "The authorship is impressive, including as it does a number of international leaders in their respective areas of interest."
     ],
-    "hash_code_list_definition_mean": "1797648187"
+    "hash_code_list_example": "-1524286905"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/author_cb_dmean_5000_it.json",
@@ -1174,18 +920,11 @@
         "id_image": "author_4736290"
       }
     ],
-    "hash_code_list_img": "-572153788",
-    "list_definition_mean": [
-      {
-        "mean_english": "tác giả",
-        "definition": "the writer of a book, article, play etc",
-        "ex_of_definition_list": [
-          "He used to be a well-known author but his books are out of print now",
-          "a best-selling author."
-        ]
-      }
+    "hash_code_list_img": "-1671225842",
+    "list_example": [
+      "He used to be a well-known author but his books are out of print now"
     ],
-    "hash_code_list_definition_mean": "1757629905"
+    "hash_code_list_example": "1149260330"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/autism_cb_dmean_5000_it.json",
@@ -1218,17 +957,11 @@
         "id_image": "autism_4243468"
       }
     ],
-    "hash_code_list_img": "498557314",
-    "list_definition_mean": [
-      {
-        "mean_english": "bệnh tự kỷ",
-        "definition": "a mental condition which makes it difficult to communicate or form relationships with other people",
-        "ex_of_definition_list": [
-          "He was diagnosed with severe autism."
-        ]
-      }
+    "hash_code_list_img": "1283680756",
+    "list_example": [
+      "He was diagnosed with severe autism."
     ],
-    "hash_code_list_definition_mean": "1111460498"
+    "hash_code_list_example": "-772096540"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/autocrat_cb_dmean_5000_it.json",
@@ -1246,17 +979,13 @@
         "id_image": "autocrat_2472922"
       }
     ],
-    "hash_code_list_img": "1065774959",
-    "list_definition_mean": [
-      {
-        "mean_english": "người chuyên quyền",
-        "definition": "a ruler who has total control",
-        "ex_of_definition_list": [
-          "The Tsars of Russia were autocrats."
-        ]
-      }
+    "hash_code_list_img": "786722956",
+    "list_example": [
+      "They have always supported any reactionary general any militarist, any autocrat or reformed brigand, or unreformed, as the ease may be.",
+      "Hart is generally criticized as an autocrat who was unable to share the limelight with anyone.",
+      "The present sultan does not believe in democracy, and is an autocrat at best."
     ],
-    "hash_code_list_definition_mean": "1074993087"
+    "hash_code_list_example": "-1184404898"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/autograph_cb_dmean_5000_it.json",
@@ -1290,24 +1019,20 @@
         "id_image": "autograph_826254"
       }
     ],
-    "hash_code_list_img": "1371550920",
-    "list_definition_mean": [
-      {
-        "mean_english": "bút tích",
-        "definition": "a person’s signature, especially as a souvenir",
-        "ex_of_definition_list": [
-          "She collected autographs of film stars."
-        ]
-      },
-      {
-        "mean_english": "đề tên",
-        "definition": "to write one’s name on (especially for a souvenir)",
-        "ex_of_definition_list": [
-          "The actor autographed a photo for her."
-        ]
-      }
+    "hash_code_list_img": "-880894819",
+    "list_example": [
+      "She collected autographs of film stars.",
+      "The actor autographed a photo for her.",
+      "She not only travelled the road down to the coal face but, when at the coal face, signed autographs for half an hour.",
+      "The four finalists arrived on the back of convertible cars and signed autographs.",
+      "Block asked only that the offending bat be autographed and given to her.",
+      "He answered more mail than other band members, and often added messages to his autographs.",
+      "He turned down honours and awards offered to him, and refused to give interviews or autographs.",
+      "The event attracted 3,000 teenagers, mostly girls, who met the group and obtained autographs.",
+      "Many items are autographed by the expedition members who wrote them.",
+      "Hamasaki persisted on signing autographs despite her staff urging her to leave; thus she kept signing autographs as she walked."
     ],
-    "hash_code_list_definition_mean": "-1034866259"
+    "hash_code_list_example": "1015455088"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/automatic_cb_dmean_5000_it.json",
@@ -1349,45 +1074,21 @@
         "id_image": "automatic_5612467"
       }
     ],
-    "hash_code_list_img": "-1027158472",
-    "list_definition_mean": [
-      {
-        "mean_english": "tự động",
-        "definition": "(of a machine etc) working by itself",
-        "ex_of_definition_list": [
-          "an automatic washing machine."
-        ]
-      },
-      {
-        "mean_english": "vô ý thức",
-        "definition": "(of an action) without thinking",
-        "ex_of_definition_list": [
-          "an automatic response."
-        ]
-      },
-      {
-        "mean_english": "tất yếu",
-        "definition": "always happening because of a rule or system",
-        "ex_of_definition_list": [
-          "Failure of the test is automatic if you don’t complete all the questions."
-        ]
-      },
-      {
-        "mean_english": "súng tự động",
-        "definition": "a self-loading gun",
-        "ex_of_definition_list": [
-          "He has two automatics and a rifle."
-        ]
-      },
-      {
-        "mean_english": "xe tự động",
-        "definition": "a car with a system of gears that works by itself without the driver having to do anything",
-        "ex_of_definition_list": [
-          "He drives an automatic."
-        ]
-      }
+    "hash_code_list_img": "1112896511",
+    "list_example": [
+      "an automatic washing machine.",
+      "an automatic response.",
+      "Failure of the test is automatic if you don’t complete all the questions.",
+      "Often, however, authors operationally define automatic processing simply as very fast responding.",
+      "The encoding is automatic in the case of auditory presentation, but effortful for visual items.",
+      "Massing states that the notion of underconstrained perception runs into automatic difficulties when faced with the spectrum of psychotic symptoms.",
+      "An automatic search of the spoken part of the corpus generated 88 tokens of the word please.",
+      "Salaries and stipends must be pegged to the actual cost of living with automatic raises to compensate for inflation.",
+      "The techniques are syntactic and can easily be implemented in a fully automatic optimizing compiler.",
+      "In order to overcome these problems, techniques such as data discretization, automatic rule extraction, and rule simplification and pruning are needed.",
+      "In the mean time, the automatic cleaning mechanism will be designed into the stirring-fry and dispersing mechanism."
     ],
-    "hash_code_list_definition_mean": "-1935547570"
+    "hash_code_list_example": "2140534914"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/automation_cb_dmean_5000_it.json",
@@ -1420,17 +1121,15 @@
         "id_image": "automation_2825945"
       }
     ],
-    "hash_code_list_img": "1301501466",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự tự động hoá",
-        "definition": "(in factories etc) the use of machines, especially to work other machines",
-        "ex_of_definition_list": [
-          "Automation has resulted in people losing their jobs."
-        ]
-      }
+    "hash_code_list_img": "1390619075",
+    "list_example": [
+      "One is based predominantly on user interaction, while the other is automation oriented.",
+      "However, automation will not be feasible to the same extent when evaluating more complex systems such as grammar checkers.",
+      "Our goal is to develop a generally applicable feedback method that is better suited for the flexible automation of microassembly processes.",
+      "Serious automation means that a system should make the core contribution to its overall task, or exhibit core competence in it.",
+      "Because the grammar rules encapsulate the feasible additions that can be made, the automation is based simply on choosing a series of applicable rules."
     ],
-    "hash_code_list_definition_mean": "886693822"
+    "hash_code_list_example": "1961372492"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/automotive_cb_dmean_5000_it.json",
@@ -1448,17 +1147,19 @@
         "id_image": "automotive_551270"
       }
     ],
-    "hash_code_list_img": "38179300",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc động cơ",
-        "definition": "relating to cars and other vehicles driven by engines",
-        "ex_of_definition_list": [
-          "the automotive industry."
-        ]
-      }
+    "hash_code_list_img": "1487131968",
+    "list_example": [
+      "the automotive industry.",
+      "Our second aim is to develop our automated system using modular components that can be immediately applied in the automotive industry.",
+      "In this sense, the automotive industry, involving large-scale productions, will definitely contribute to the availability of low-cost and efficient fieldbuses.",
+      "There might be some shared strategies, conscious or unconscious, among signboard producers for disseminating spatial information to automotive travelers.",
+      "His unique experience with product development and design comes from 18 years of work involving the automotive and peripheral industries.",
+      "An example of a family of automotive underbodies illustrates the application of the discrete design space approach to develop a common platform.",
+      "In automotive applications, temperature oscillations are undesirable, and, by controlling them, better cooling systems may be designed.",
+      "An automotive body is an integral structure that makes it difficult to assign any specific function to an individual component.",
+      "This brought about high levels of investment by automotive parts suppliers in 2004, which has apparently been continuing into 2005."
     ],
-    "hash_code_list_definition_mean": "1633375391"
+    "hash_code_list_example": "1637496789"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/autonomous_cb_dmean_5000_it.json",
@@ -1481,17 +1182,17 @@
         "id_image": "autonomous_5901702"
       }
     ],
-    "hash_code_list_img": "1197690377",
-    "list_definition_mean": [
-      {
-        "mean_english": "tự trị",
-        "definition": "self-governing",
-        "ex_of_definition_list": [
-          "the Autonomous Republic of Abkhazia."
-        ]
-      }
+    "hash_code_list_img": "93152635",
+    "list_example": [
+      "He is not an egoist, nor does he place emphasis on the autonomous individual moral decisionmaker; he acknowledges the intrinsically social nature of human beings.",
+      "Consumption does not 're-ect' trends that can be detected in other ®elds, but rather constitutes an autonomous environment that fuses economics and culture.",
+      "They emphasized the role of the prefrontal cortex as the functional locus of executive or coordinating functions that would be necessary for autonomous regulation.",
+      "In the longer term, the prospects for the conference are closely tied to the prospects for the autonomous agent ®eld itself.",
+      "First, autonomous regulation draws upon information that is different from the information necessary for controlling regulation.",
+      "Demanding our attention, it aspires to the status of an autonomous aesthetic object.",
+      "Alternatively, the autonomous changes create a drift in the program."
     ],
-    "hash_code_list_definition_mean": "129572286"
+    "hash_code_list_example": "1980078767"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/autonomy_cb_dmean_5000_it.json",
@@ -1514,17 +1215,17 @@
         "id_image": "autonomy_6213282"
       }
     ],
-    "hash_code_list_img": "-2120681022",
-    "list_definition_mean": [
-      {
-        "mean_english": "quyền tự trị",
-        "definition": "the power or right of a country etc to govern itself",
-        "ex_of_definition_list": [
-          "Residents desired autonomy for the islands."
-        ]
-      }
+    "hash_code_list_img": "92567524",
+    "list_example": [
+      "Residents desired autonomy for the islands.",
+      "The neo-baroque architectural autonomy and symbolism of theatres reflected the autonomy and hegemony of the big world.",
+      "He was, however, bothered by the potential loss of moral autonomy once they did so.",
+      "How was a man to negotiate his relations with others precariously but ineluctably situated between the poles of autonomy and dependence?",
+      "Since the turn of the century, however, interest in autonomy has grown considerably.",
+      "Lacking a firm political base, he tried to maintain autonomy and centralise power once in office.",
+      "The counterpart of bureaucratic autonomy is bureaucratic creativity."
     ],
-    "hash_code_list_definition_mean": "232782475"
+    "hash_code_list_example": "-35614343"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/auto_cb_dmean_5000_it.json",
@@ -1554,17 +1255,11 @@
         "id_image": "auto_5982567"
       }
     ],
-    "hash_code_list_img": "968174706",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc về chính mình",
-        "definition": "for or by oneself or itself",
-        "ex_of_definition_list": [
-          "an autobiography."
-        ]
-      }
+    "hash_code_list_img": "-832033028",
+    "list_example": [
+      "Populists called for free textbooks, a less expensive auto license fee, and pensions for state employees."
     ],
-    "hash_code_list_definition_mean": "1556201279"
+    "hash_code_list_example": "1213375841"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/autumn_cb_dmean_5000_it.json",
@@ -1597,17 +1292,11 @@
         "id_image": "autumn_5392259"
       }
     ],
-    "hash_code_list_img": "-419954648",
-    "list_definition_mean": [
-      {
-        "mean_english": "mùa thu",
-        "definition": "the season of the year when leaves change colour and fall and fruits ripen; fall American",
-        "ex_of_definition_list": [
-          "Daylight gets shorter in the autumn."
-        ]
-      }
+    "hash_code_list_img": "1264807643",
+    "list_example": [
+      "Daylight gets shorter in the autumn."
     ],
-    "hash_code_list_definition_mean": "1522494136"
+    "hash_code_list_example": "-1571159999"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/available_cb_dmean_5000_it.json",
@@ -1625,18 +1314,19 @@
         "id_image": "available_408314"
       }
     ],
-    "hash_code_list_img": "952393991",
-    "list_definition_mean": [
-      {
-        "mean_english": "sẵn sàng",
-        "definition": "able or ready to be used",
-        "ex_of_definition_list": [
-          "The hall is available on Saturday night",
-          "All the available money has been used."
-        ]
-      }
+    "hash_code_list_img": "1352294580",
+    "list_example": [
+      "The hall is available on Saturday night",
+      "All the available money has been used.",
+      "An important part of planning slurry utilization and management system is estimating the amount of nutrients available for land application.",
+      "Frustration remained a predictor of internalizing, externalizing, and total symptoms (data available on request).",
+      "Fathers were less available for participation as they remained working during the child's illness due to financial necessity.",
+      "A synthesis of this sort inevitably builds on the available materials.",
+      "One possibility is that the capacity of focal attention differs for simultaneously available elements arrayed in space, and for representations encountered over time.",
+      "A complete table of all reported rank types is available upon request.",
+      "Is the productivity of organic farms restricted by supply of available nitrogen?"
     ],
-    "hash_code_list_definition_mean": "184667052"
+    "hash_code_list_example": "-1248017370"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/avalanche_cb_dmean_5000_it.json",
@@ -1664,17 +1354,18 @@
         "id_image": "avalanche_661968"
       }
     ],
-    "hash_code_list_img": "757449019",
-    "list_definition_mean": [
-      {
-        "mean_english": "tuyết lở",
-        "definition": "a fall of snow and ice down a mountain",
-        "ex_of_definition_list": [
-          "Two skiers were buried by the avalanche."
-        ]
-      }
+    "hash_code_list_img": "-2033346162",
+    "list_example": [
+      "Two skiers were buried by the avalanche.",
+      "Large volcanic debris avalanches; characteristics of source areas, deposits, and associated eruptions.",
+      "As a result, the region includes some of the world's snowiest spots at the same latitudes, many localities are also frequently visited by avalanches.",
+      "We do not have volcanoes, avalanches, earthquakes or forest fires, and even our worst floods are not comparable to those experienced in other countries.",
+      "Natural disasters such as floods, landslides, drought, hail, avalanches etc. are common.",
+      "Summer flash floods, mudslides, winter avalanches, snowstorms, etc. are common, and poor facilities makes it vulnerable to disaster.",
+      "Though he did not mention landslides, no doubt he had them in mind in view of his reference to avalanches.",
+      "Without it, you will experience yet more avalanches, and this time they will hit populated areas."
     ],
-    "hash_code_list_definition_mean": "2055291695"
+    "hash_code_list_example": "699390138"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/average_cb_dmean_5000_it.json",
@@ -1709,40 +1400,14 @@
         "id_image": "average_5680050"
       }
     ],
-    "hash_code_list_img": "-1914052096",
-    "list_definition_mean": [
-      {
-        "mean_english": "trung bình",
-        "definition": "the result of adding several amounts together and dividing the total by the number of amounts",
-        "ex_of_definition_list": [
-          "The average of 3, 7, 9 and 13 is 8."
-        ]
-      },
-      {
-        "mean_english": "trung bình",
-        "definition": "obtained by finding the average of amounts etc",
-        "ex_of_definition_list": [
-          "The average price is 40 euros",
-          "the average temperature for the week."
-        ]
-      },
-      {
-        "mean_english": "theo chuẩn mực thông thường",
-        "definition": "ordinary; not exceptional",
-        "ex_of_definition_list": [
-          "The average person cannot afford to buy such an expensive car",
-          "His work is average."
-        ]
-      },
-      {
-        "mean_english": "tính trung bình",
-        "definition": "to form an average",
-        "ex_of_definition_list": [
-          "His expenses averaged (out at) 15 dollars a day."
-        ]
-      }
+    "hash_code_list_img": "356396033",
+    "list_example": [
+      "The average of 3, 7, 9 and 13 is 8.",
+      "The average price is 40 euros",
+      "the average temperature for the week.",
+      "The average person cannot afford to buy such an expensive car"
     ],
-    "hash_code_list_definition_mean": "-2039372875"
+    "hash_code_list_example": "1066253315"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/avoid_cb_dmean_5000_it.json",
@@ -1775,18 +1440,11 @@
         "id_image": "avoid_3426107"
       }
     ],
-    "hash_code_list_img": "-1410538490",
-    "list_definition_mean": [
-      {
-        "mean_english": "tránh",
-        "definition": "to keep away from (a place, person or thing)",
-        "ex_of_definition_list": [
-          "He drove carefully to avoid the holes in the road",
-          "Avoid the subject of money."
-        ]
-      }
+    "hash_code_list_img": "1699856103",
+    "list_example": [
+      "He drove carefully to avoid the holes in the road"
     ],
-    "hash_code_list_definition_mean": "427615110"
+    "hash_code_list_example": "-543516713"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/award_cb_dmean_5000_it.json",
@@ -1821,31 +1479,21 @@
         "id_image": "award_5132995"
       }
     ],
-    "hash_code_list_img": "-2087133087",
-    "list_definition_mean": [
-      {
-        "mean_english": "thưởng",
-        "definition": "to give (someone something that he has won or deserved)",
-        "ex_of_definition_list": [
-          "They awarded her first prize."
-        ]
-      },
-      {
-        "mean_english": "phạt",
-        "definition": "to give",
-        "ex_of_definition_list": [
-          "He was awarded damages of $5,000."
-        ]
-      },
-      {
-        "mean_english": "giải thưởng",
-        "definition": "a prize etc awarded",
-        "ex_of_definition_list": [
-          "The Cannes film awards are presented annually."
-        ]
-      }
+    "hash_code_list_img": "-912435734",
+    "list_example": [
+      "They awarded her first prize.",
+      "He was awarded damages of $5,000.",
+      "The Cannes film awards are presented annually.",
+      "The results we present here show that compulsory retirement rules require more attention from a policy design perspective than previously awarded in the literature.",
+      "He won many distinguished awards but this seems particularly resonant and appropriate.",
+      "Between 1981 and 1990, the government awarded scholarships to a total of 167 students.",
+      "The j ob will likely be awarded on the basis of interviews and your ostensible qualifications, such as experience with similar projects.",
+      "The awards for this section were of 6000 and 3000 marks, raising the total available prize money to the substantial sum of 20,000 marks.",
+      "One or zero points were awarded depending on the accuracy of each targeted item identified for a possible total of 10.",
+      "Because women were new to the system, however, and very few were qualified for professorships, most professorships continued to be awarded to men.",
+      "A number of them received top international awards for magic, were hailed as national heroes and seen on a par with their western counterparts."
     ],
-    "hash_code_list_definition_mean": "-972516315"
+    "hash_code_list_example": "194992915"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/aware_cb_dmean_5000_it.json",
@@ -1868,18 +1516,20 @@
         "id_image": "aware_4799080"
       }
     ],
-    "hash_code_list_img": "-1143057203",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhận thức",
-        "definition": "knowing; informed; conscious (of)",
-        "ex_of_definition_list": [
-          "Is he aware of the problem?",
-          "Are they aware that I’m coming?"
-        ]
-      }
+    "hash_code_list_img": "1169907313",
+    "list_example": [
+      "Is he aware of the problem?",
+      "Are they aware that I’m coming?",
+      "Those responsible for the staging were fully aware of how the stage could be used to underline the dramatic values of the work.",
+      "We become more aware of authorial expertise on a variety of subjects rather than a deeply observed or dramatically cogent scene.",
+      "At the same time, people were well aware that a number of social, economic and political issues relevant for themselves needed to find collective solutions.",
+      "Additionally, peacefully aware patients had the highest overall quality of death as reported by their caretakers in a postmortem evaluation.",
+      "We are aware that any attempt at defining a concept potentially closes off other possibilities and therefore dialogue.",
+      "These included difficulty in obtaining prescription pads, lack of electronic prescribing, pharmacists not being aware of supplementary prescribing, and the restrictions on antibiotic prescribing.",
+      "There are certain differences between the two stages that we are fully aware of.",
+      "I am not aware of any shared history or even if the artists are aware of each other's work."
     ],
-    "hash_code_list_definition_mean": "1993403638"
+    "hash_code_list_example": "1083161344"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/awkward_cb_dmean_5000_it.json",
@@ -1913,26 +1563,20 @@
         "id_image": "awkward_6000710"
       }
     ],
-    "hash_code_list_img": "441689199",
-    "list_definition_mean": [
-      {
-        "mean_english": "vụng về",
-        "definition": "not graceful or elegant",
-        "ex_of_definition_list": [
-          "an awkward movement."
-        ]
-      },
-      {
-        "mean_english": "lúng túng/ ngượng nghịu",
-        "definition": "difficult or causing difficulty, embarrassment etc",
-        "ex_of_definition_list": [
-          "He kept asking her awkward questions",
-          "There was an awkward silence when he mentioned her ex-husband",
-          "The electric socket is in an awkward place."
-        ]
-      }
+    "hash_code_list_img": "-1612344049",
+    "list_example": [
+      "an awkward movement.",
+      "He kept asking her awkward questions",
+      "There was an awkward silence when he mentioned her ex-husband",
+      "The electric socket is in an awkward place.",
+      "We find that these features are necessary to avoid awkward designs, poor maintainability, and painfully verbose code.",
+      "When read by itself, this weaker statement appears awkward and ad hoc.",
+      "Words like awkward and coyote can be described as having informative beginnings, because they start with uncommon trigrams.",
+      "Some of the clients reported, however, that asking aiders to do extra could put them in an awkward position.",
+      "The pronoun it might have been a bit awkward here followed by plus.",
+      "The opening phrases' serrated profile thematises awkward melodic disjunctures."
     ],
-    "hash_code_list_definition_mean": "2125321259"
+    "hash_code_list_example": "-968585608"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/axe_cb_dmean_5000_it.json",
@@ -1962,31 +1606,13 @@
         "id_image": "axe_1846004"
       }
     ],
-    "hash_code_list_img": "-1228655618",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái rìu",
-        "definition": "a tool with a (long) handle and a metal blade for cutting down trees and cutting wood etc into pieces",
-        "ex_of_definition_list": [
-          "He used an axe/ax to chop up the firewood."
-        ]
-      },
-      {
-        "mean_english": "sa thải",
-        "definition": "to get rid of; to dismiss",
-        "ex_of_definition_list": [
-          "They’ve axed 50% of their staff."
-        ]
-      },
-      {
-        "mean_english": "giảm bớt",
-        "definition": "to reduce (costs, services etc)",
-        "ex_of_definition_list": [
-          "Government spending on education has been axed."
-        ]
-      }
+    "hash_code_list_img": "2136650314",
+    "list_example": [
+      "He used an axe/ax to chop up the firewood.",
+      "They’ve axed 50% of their staff.",
+      "Government spending on education has been axed."
     ],
-    "hash_code_list_definition_mean": "54189534"
+    "hash_code_list_example": "-264677063"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/axis_cb_dmean_5000_it.json",
@@ -2015,24 +1641,17 @@
         "id_image": "axis_3330661"
       }
     ],
-    "hash_code_list_img": "947309203",
-    "list_definition_mean": [
-      {
-        "mean_english": "trục",
-        "definition": "the real or imaginary line on which a thing turns (as the axis of the earth, from North Pole to South Pole, around which the earth turns)",
-        "ex_of_definition_list": [
-          "The globe rotates on its axis."
-        ]
-      },
-      {
-        "mean_english": "trục đồ thị",
-        "definition": "a fixed line used as a reference, as in a graph",
-        "ex_of_definition_list": [
-          "He plotted the temperatures on the horizontal axis."
-        ]
-      }
+    "hash_code_list_img": "-50322686",
+    "list_example": [
+      "Integral to the pricing mechanism behind residential property was an east-west axis not re-ected in the distribution of businesses.",
+      "Figure 5 depicts the maximum wave amplitude around the coast of an elliptical island whose major axis is twice the minor axis.",
+      "Solubility of axis cell walls differed from solubility of cotyledon cell walls.",
+      "The pinch stagnates on the axis of the primary hohlraum.",
+      "The atrioventricular conduction axis is marked by the broken line.",
+      "It seems reasonable to suggest that gender was not the most important dimension or axis for internal differentiation of identity or function.",
+      "The third monitor measured the vertical axis and was placed on the sacrum."
     ],
-    "hash_code_list_definition_mean": "-1063191825"
+    "hash_code_list_example": "-1665401661"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/axle_cb_dmean_5000_it.json",
@@ -2055,17 +1674,17 @@
         "id_image": "axle_6344270"
       }
     ],
-    "hash_code_list_img": "-1604070140",
-    "list_definition_mean": [
-      {
-        "mean_english": "trục bánh xe",
-        "definition": "the rod on which a wheel turns",
-        "ex_of_definition_list": [
-          "the back axle of the car."
-        ]
-      }
+    "hash_code_list_img": "-1128861853",
+    "list_example": [
+      "the back axle of the car.",
+      "The axle is fabricated using one layer of polysilicon.",
+      "However, the molded frame and axle design entities have more complex behaviors.",
+      "One month after harvest, the naked caryopses were brown and the length of their lateral axle was 6-8 mm.",
+      "Swedish experiments on the persistence of subsoil compaction caused by vehicles with high axle load.",
+      "The reason is that the rotor axle starts to slide.",
+      "When the primary axle is spinning and is in such contact with the track, it can be either rolling or sliding on the track."
     ],
-    "hash_code_list_definition_mean": "806721701"
+    "hash_code_list_example": "-1035007678"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/baboon_cb_dmean_5000_it.json",
@@ -2088,16 +1707,14 @@
         "id_image": "baboon_427412"
       }
     ],
-    "hash_code_list_img": "-468721626",
-    "list_definition_mean": [
-      {
-        "mean_english": "khỉ đầu chó",
-        "definition": "a kind of large monkey with a dog-like face",
-        "ex_of_definition_list": [
-          "An adult male baboon can weigh 30kg or more."
-        ]
-      }
+    "hash_code_list_img": "-64960207",
+    "list_example": [
+      "An adult male baboon can weigh 30kg or more.",
+      "The baboon parasites are polymorphic at several loci, while single alleles have become fixed in the murine population.",
+      "Trade-offs between foraging and predation risk determine habitat use in a desert baboon population.",
+      "In three dark-adapted baboon ganglion cells, light-evoked responses were analyzed using a 30-s full-field stimulus while recording continuously, as described above for maintained activity.",
+      "Trade-offs between foraging and predation risks determine habitat use in a desert baboon population."
     ],
-    "hash_code_list_definition_mean": "269685416"
+    "hash_code_list_example": "1207761295"
   }
 ]

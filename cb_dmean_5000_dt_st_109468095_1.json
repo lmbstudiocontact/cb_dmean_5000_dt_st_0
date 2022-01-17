@@ -31,24 +31,12 @@
         "id_image": "vacancy_5272947"
       }
     ],
-    "hash_code_list_img": "-2122223631",
-    "list_definition_mean": [
-      {
-        "mean_english": "chỗ khuyết",
-        "definition": "an unoccupied post",
-        "ex_of_definition_list": [
-          "We have a vacancy for a typist."
-        ]
-      },
-      {
-        "mean_english": "tình trạng lơ đãng",
-        "definition": "the condition of being vacant; emptiness",
-        "ex_of_definition_list": [
-          "The vacancy of his expression made me doubt if he was listening."
-        ]
-      }
+    "hash_code_list_img": "-371121710",
+    "list_example": [
+      "We have a vacancy for a typist.",
+      "The vacancy of his expression made me doubt if he was listening."
     ],
-    "hash_code_list_definition_mean": "1414211934"
+    "hash_code_list_example": "-1262412414"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vacant_cb_dmean_5000_it.json",
@@ -67,25 +55,20 @@
         "id_image": "vacant_5272930"
       }
     ],
-    "hash_code_list_img": "1189870632",
-    "list_definition_mean": [
-      {
-        "mean_english": "bỏ không, khuyết",
-        "definition": "empty or unoccupied",
-        "ex_of_definition_list": [
-          "a vacant chair",
-          "Are there any rooms vacant in this hotel?"
-        ]
-      },
-      {
-        "mean_english": "trống rỗng",
-        "definition": "showing no thought, intelligence, or interest",
-        "ex_of_definition_list": [
-          "a vacant stare."
-        ]
-      }
+    "hash_code_list_img": "778469044",
+    "list_example": [
+      "a vacant chair",
+      "Are there any rooms vacant in this hotel?",
+      "a vacant stare.",
+      "As a result of these room changes, room #1 now becomes vacant and the new guest gratefully checks in.",
+      "They show unresolved spectral features with the corresponding transitions of the next charge state 1s-vacant ion.",
+      "Actually, his stanza might more accurately be described as an anti-soliloquy, since it represents his interior entirely in negative terms - vacant and emotionless.",
+      "Similarly, the lack of a \"nuclear\" position entails a fortiori the lack of vacant nuclear position, and hence the absence of any movement to fill such a position.",
+      "Only one vacant position had to be filled, whereas handing over to a son could involve the complete restructuring of a household.",
+      "At nature's mighty feast there is no vacant cover for him.",
+      "A vacant triangular site had to be developed."
     ],
-    "hash_code_list_definition_mean": "679452894"
+    "hash_code_list_example": "-677129119"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vacation_cb_dmean_5000_it.json",
@@ -114,24 +97,13 @@
         "id_image": "vacation_5965707"
       }
     ],
-    "hash_code_list_img": "1766170735",
-    "list_definition_mean": [
-      {
-        "mean_english": "kì nghỉ lễ",
-        "definition": "a holiday",
-        "ex_of_definition_list": [
-          "a summer vacation."
-        ]
-      },
-      {
-        "mean_english": "đi nghỉ",
-        "definition": "to take a holiday",
-        "ex_of_definition_list": [
-          "He vacationed in Paris last year."
-        ]
-      }
+    "hash_code_list_img": "-1603790537",
+    "list_example": [
+      "Individuals do not use personal vacation time but rather the hospital views the week as a regular work week.",
+      "If the purpose of the vacation is cultural, then the user would like to visit a museum in each vacation stop, if this is possible.",
+      "The activities of the vacation package should be chosen completely before assignment and configuration of the vacation stops."
     ],
-    "hash_code_list_definition_mean": "2038254490"
+    "hash_code_list_example": "1641670315"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vaccination_cb_dmean_5000_it.json",
@@ -154,18 +126,18 @@
         "id_image": "vaccination_4745690"
       }
     ],
-    "hash_code_list_img": "985468242",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự tiêm chủng",
-        "definition": "(an) act of vaccinating or process of being vaccinated",
-        "ex_of_definition_list": [
-          "I’m going to have a vaccination tomorrow",
-          "Vaccination was introduced in the eighteenth century."
-        ]
-      }
+    "hash_code_list_img": "290089055",
+    "list_example": [
+      "I’m going to have a vaccination tomorrow",
+      "We adopted a meta-population framework to model local aggregation of populations, and used this to investigate the effects of vaccination heterogeneity.",
+      "The level of influenza and pneumococcal vaccination varied with the level of deprivation.",
+      "Virtually none has been evaluated in vaccination trials.",
+      "In the majority of patients (influenza vaccine, 98 % and pneumococcal vaccine, 94 %), vaccination was carried out in general practice.",
+      "This allows for identification of areas with ongoing poliovirus transmission and implementation of appropriate vaccination responses.",
+      "The vaccination was administered by deep intramuscular injection in the deltoid muscle.",
+      "Unfortunately, not all horses react in the same way to the vaccines, with some ' poor responders ' showing low levels of antibody after vaccination [1]."
     ],
-    "hash_code_list_definition_mean": "919427334"
+    "hash_code_list_example": "582052973"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vaccine_cb_dmean_5000_it.json",
@@ -193,17 +165,14 @@
         "id_image": "vaccine_549106"
       }
     ],
-    "hash_code_list_img": "-782747825",
-    "list_definition_mean": [
-      {
-        "mean_english": "vắc xin",
-        "definition": "a substance made from the germs that cause a particular disease, especially smallpox, and given to a person or animal to prevent him from catching that disease",
-        "ex_of_definition_list": [
-          "a flu vaccine."
-        ]
-      }
+    "hash_code_list_img": "1728305722",
+    "list_example": [
+      "Factors affecting the immunogenicity of oral poliovirus vaccine in developing countries : review.",
+      "Finally, the vaccine could be shown to have some measurable efficacy.",
+      "The second dose of vaccine is given to immunize children with primary vaccine failure, and those children that did not receive the first dose.",
+      "Potential health and economic impact of adding a human papillomavirus vaccine to screening programs."
     ],
-    "hash_code_list_definition_mean": "876835657"
+    "hash_code_list_example": "-927231806"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vacuum_cb_dmean_5000_it.json",
@@ -233,24 +202,12 @@
         "id_image": "vacuum_578001"
       }
     ],
-    "hash_code_list_img": "1594925396",
-    "list_definition_mean": [
-      {
-        "mean_english": "chân không",
-        "definition": "a space from which (almost) all air or other gas has been removed",
-        "ex_of_definition_list": [
-          "Nature abhors a vacuum."
-        ]
-      },
-      {
-        "mean_english": "hút bụi",
-        "definition": "to clean (something) using a vacuum cleaner",
-        "ex_of_definition_list": [
-          "She vacuumed the carpet."
-        ]
-      }
+    "hash_code_list_img": "816831369",
+    "list_example": [
+      "Nature abhors a vacuum.",
+      "She vacuumed the carpet."
     ],
-    "hash_code_list_definition_mean": "-886201462"
+    "hash_code_list_example": "-873964675"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vain_cb_dmean_5000_it.json",
@@ -270,32 +227,17 @@
         "id_image": "vain_260230"
       }
     ],
-    "hash_code_list_img": "1783185664",
-    "list_definition_mean": [
-      {
-        "mean_english": "kiêu ngạo, tự phụ",
-        "definition": "having too much pride in one’s appearance, achievements etc; conceited",
-        "ex_of_definition_list": [
-          "She’s very vain about her looks."
-        ]
-      },
-      {
-        "mean_english": "không thành công",
-        "definition": "unsuccessful",
-        "ex_of_definition_list": [
-          "He made a vain attempt to reach the drowning woman."
-        ]
-      },
-      {
-        "mean_english": "rỗng tuếch, vô nghĩa",
-        "definition": "empty; meaningless",
-        "ex_of_definition_list": [
-          "vain threats",
-          "vain promises."
-        ]
-      }
+    "hash_code_list_img": "1851047701",
+    "list_example": [
+      "She’s very vain about her looks.",
+      "He made a vain attempt to reach the drowning woman.",
+      "vain threats",
+      "vain promises.",
+      "List archives are a goldmine for the specialist tracing his or her memory in vain at the moment of need.",
+      "Still, one looks in vain for scholarship which takes union decline in this field to be a serious issue.",
+      "The reader will also look in vain for broad, explorative theoretical discussions of the possible determinants of societal value in health care."
     ],
-    "hash_code_list_definition_mean": "1835694574"
+    "hash_code_list_example": "356768224"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/valentine_cb_dmean_5000_it.json",
@@ -318,18 +260,13 @@
         "id_image": "valentine_4220642"
       }
     ],
-    "hash_code_list_img": "519344353",
-    "list_definition_mean": [
-      {
-        "mean_english": "người yêu; thiệp chúc mừng",
-        "definition": "a sweetheart chosen, or a card, love letter etc sent, on St. Valentine’s Day, February 14",
-        "ex_of_definition_list": [
-          "Will you be my valentine?",
-          "He sent her a valentine."
-        ]
-      }
+    "hash_code_list_img": "-1488725049",
+    "list_example": [
+      "This she does by pulling out her heart (which looks somewhere between a valentine and a bland representation of a heart without any vessels) and coating it with ice.",
+      "The mischievous valentine becomes an e-mail, while death in childbirth becomes death from a drug overdose.",
+      "Angry and desperate, the ladies purposely planned a vacation for the men where they are brought to a hotel for their valentine celebration."
     ],
-    "hash_code_list_definition_mean": "825426787"
+    "hash_code_list_example": "1074897313"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/valet_cb_dmean_5000_it.json",
@@ -352,17 +289,13 @@
         "id_image": "valet_1367201"
       }
     ],
-    "hash_code_list_img": "117987682",
-    "list_definition_mean": [
-      {
-        "mean_english": "người phục vụ",
-        "definition": "a manservant who looks after his master’s clothes etc",
-        "ex_of_definition_list": [
-          "Lord Henderson’s valet laid out his evening suit."
-        ]
-      }
+    "hash_code_list_img": "-483200703",
+    "list_example": [
+      "Lord Henderson’s valet laid out his evening suit.",
+      "They may also be trained for services to the client beyond the car itself, such as for a personal valet or bodyguard.",
+      "She ranked in the top 12 of her year, thus qualifying her to be a valet of an elite swordsman."
     ],
-    "hash_code_list_definition_mean": "1621513835"
+    "hash_code_list_example": "1418833231"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/valley_cb_dmean_5000_it.json",
@@ -390,17 +323,13 @@
         "id_image": "valley_721099"
       }
     ],
-    "hash_code_list_img": "418558782",
-    "list_definition_mean": [
-      {
-        "mean_english": "thung lũng",
-        "definition": "a stretch of flat, low land between hills or mountains, usually drained by a river and its tributaries",
-        "ex_of_definition_list": [
-          "a beautiful green valley between the mountains."
-        ]
-      }
+    "hash_code_list_img": "732667453",
+    "list_example": [
+      "a beautiful green valley between the mountains.",
+      "Likewise, the lowest value between the two peaks could be in a single point (the tip of a sharp ' v ') or a flatbottomed valley floor.",
+      "Those observations with values above the \"valley point\" will belong to the upper regime, whereas those with values below will belong to the lower regime."
     ],
-    "hash_code_list_definition_mean": "434715223"
+    "hash_code_list_example": "-145196528"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/value_cb_dmean_5000_it.json",
@@ -438,53 +367,18 @@
         "id_image": "value_5235573"
       }
     ],
-    "hash_code_list_img": "2069244863",
-    "list_definition_mean": [
-      {
-        "mean_english": "giá trị",
-        "definition": "worth, importance or usefulness",
-        "ex_of_definition_list": [
-          "His specialist knowledge was of great value during the project",
-          "She places little value on material wealth."
-        ]
-      },
-      {
-        "mean_english": "giá cả",
-        "definition": "price",
-        "ex_of_definition_list": [
-          "What is the value of that stamp?"
-        ]
-      },
-      {
-        "mean_english": "giá trị",
-        "definition": "purchasing power",
-        "ex_of_definition_list": [
-          "Are those old coins of any value?"
-        ]
-      },
-      {
-        "mean_english": "trao đổi công bằng",
-        "definition": "fairness of exchange (for one’s money etc)",
-        "ex_of_definition_list": [
-          "You get good value for money at that supermarket."
-        ]
-      },
-      {
-        "mean_english": "định giá, ước giá",
-        "definition": "to suggest a suitable price for",
-        "ex_of_definition_list": [
-          "The painting has been valued at $50,000."
-        ]
-      },
-      {
-        "mean_english": "coi trọng",
-        "definition": "to regard as good or important",
-        "ex_of_definition_list": [
-          "He values your advice very highly."
-        ]
-      }
+    "hash_code_list_img": "397094581",
+    "list_example": [
+      "His specialist knowledge was of great value during the project",
+      "She places little value on material wealth.",
+      "What is the value of that stamp?",
+      "You get good value for money at that supermarket.",
+      "Viewed on a per holding basis the net present value of mean economic returns per holding come to $500/ha.",
+      "The value of a case study lies in providing evidence to advance broader generalizations; the relationship should not be reversed.",
+      "Yet the attempt to account for the value of happiness in purely hedonic terms seems to miss something.",
+      "The value of this volume at present is clear in that it permits geoscientists to view the potential of three-dimensional seismic data."
     ],
-    "hash_code_list_definition_mean": "842325643"
+    "hash_code_list_example": "118580482"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/valve_cb_dmean_5000_it.json",
@@ -514,31 +408,11 @@
         "id_image": "valve_4752231"
       }
     ],
-    "hash_code_list_img": "-1018656524",
-    "list_definition_mean": [
-      {
-        "mean_english": "van",
-        "definition": "a device for allowing a liquid or gas to pass through an opening in one direction only",
-        "ex_of_definition_list": [
-          "a safety valve."
-        ]
-      },
-      {
-        "mean_english": "van tim",
-        "definition": "a structure with the same effect in an animal body",
-        "ex_of_definition_list": [
-          "Valves in the heart control the flow of blood in the human body."
-        ]
-      },
-      {
-        "mean_english": "đèn chân không",
-        "definition": "a type of electronic component found in many, especially older, types of television, radio etc",
-        "ex_of_definition_list": [
-          "a valve amplifier."
-        ]
-      }
+    "hash_code_list_img": "1364990350",
+    "list_example": [
+      "a valve amplifier."
     ],
-    "hash_code_list_definition_mean": "-385575057"
+    "hash_code_list_example": "-1558456725"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vandalism_cb_dmean_5000_it.json",
@@ -561,17 +435,15 @@
         "id_image": "vandalism_5411121"
       }
     ],
-    "hash_code_list_img": "-940720658",
-    "list_definition_mean": [
-      {
-        "mean_english": "hành động cố ý phá hoại",
-        "definition": "the behaviour/behavior of a vandal",
-        "ex_of_definition_list": [
-          "All the telephones are out of order owing to vandalism."
-        ]
-      }
+    "hash_code_list_img": "840069421",
+    "list_example": [
+      "Statistical analyses did not show any significant differences between the intervention and the control group for physical aggression (7.1 vs. 10.4%), vandalism (4.8 vs. 12.2%), and theft (14.3 vs. 18.3%).",
+      "In this way, circulation spaces become the vital connective tissue of these new schools, rather than a hinterland of vandalism and bullying.",
+      "The number of subjects on a declining trajectory for vandalism (17.0%) and theft (21.1%) is also important.",
+      "Similar results were observed for the vandalism and theft trajectories.",
+      "I know that acts of vandalism can damage small businesses."
     ],
-    "hash_code_list_definition_mean": "2072538098"
+    "hash_code_list_example": "-1778817553"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vane_cb_dmean_5000_it.json",
@@ -594,17 +466,13 @@
         "id_image": "vane_391547"
       }
     ],
-    "hash_code_list_img": "-908366372",
-    "list_definition_mean": [
-      {
-        "mean_english": "cánh quạt máy",
-        "definition": "a flat blade which is moved by water or wind to generate power for a machine such as a windmill or turbine",
-        "ex_of_definition_list": [
-          "The open degree of the vanes of the windmill can be controlled automatically according to the local wind power."
-        ]
-      }
+    "hash_code_list_img": "-1227813535",
+    "list_example": [
+      "Nevertheless, it is important to remember here that the vane was of k i t e size; a 1.0 cm square.",
+      "This is a very thin vane, normally 1 x 1cm, mounted on a spindle so that the vane can rotate.",
+      "The soundbite and sentence become the weather vane in the opposite."
     ],
-    "hash_code_list_definition_mean": "1105964589"
+    "hash_code_list_example": "-1369506231"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vanilla_cb_dmean_5000_it.json",
@@ -632,17 +500,16 @@
         "id_image": "vanilla_2218696"
       }
     ],
-    "hash_code_list_img": "-1946368458",
-    "list_definition_mean": [
-      {
-        "mean_english": "quả vani",
-        "definition": "a flavouring/flavoring obtained from a tropical orchid, and used in ice-cream and other foods",
-        "ex_of_definition_list": [
-          "(also adjective) vanilla ice-cream."
-        ]
-      }
+    "hash_code_list_img": "-2019619839",
+    "list_example": [
+      "(also adjective) vanilla ice-cream.",
+      "Why isn't it just as consistent with all the evidence that chocolate tastes to him the way vanilla tastes to you, and vice versa?",
+      "The vanilla filling was cooked in large containers (more than 12 l) in ovens with peripheral heat sources.",
+      "He loves pudding up to the point of an unhealthy obsession, and will go crazy if he gets it from someone (especially vanilla flavored).",
+      "The chemical secretion has a strong coffee-vanilla odor and composed of a complex mixture of synthesized phenolics and plant toxins produced from the grasshoppers diet.",
+      "The crisis came as merchants faced fiercer competition for markets and the price for green vanilla declined."
     ],
-    "hash_code_list_definition_mean": "50305573"
+    "hash_code_list_example": "-1554500463"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vanity_cb_dmean_5000_it.json",
@@ -666,24 +533,11 @@
         "id_image": "vanity_699304"
       }
     ],
-    "hash_code_list_img": "26847031",
-    "list_definition_mean": [
-      {
-        "mean_english": "tính kiêu ngạo, tự phụ",
-        "definition": "excessive admiration of oneself; conceit",
-        "ex_of_definition_list": [
-          "Vanity is her chief fault."
-        ]
-      },
-      {
-        "mean_english": "chuyện phù hoa",
-        "definition": "worthlessness or pointlessness",
-        "ex_of_definition_list": [
-          "the vanity of human ambition."
-        ]
-      }
+    "hash_code_list_img": "-1893851654",
+    "list_example": [
+      "the vanity of human ambition."
     ],
-    "hash_code_list_definition_mean": "1371465106"
+    "hash_code_list_example": "1867253584"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/van_cb_dmean_5000_it.json",
@@ -721,19 +575,18 @@
         "id_image": "van_6183850"
       }
     ],
-    "hash_code_list_img": "-2056079413",
-    "list_definition_mean": [
-      {
-        "mean_english": "xe tải",
-        "definition": "a small vehicle for carrying goods on roads",
-        "ex_of_definition_list": [
-          "He drives a van",
-          "(also adjective) a van driver",
-          "a vanload of waste paper."
-        ]
-      }
+    "hash_code_list_img": "1081789760",
+    "list_example": [
+      "(also adjective) a van driver",
+      "The van was driven to waiting trenches.",
+      "A mobile recruiting van accompanied the procession and a fluent bilingual individual acted as broadcaster to spread the message.",
+      "They all had loud background noise and at first none save the neutron van seemed to have much intrinsic liveliness and complexity.",
+      "In this analysis, we excluded instances where van 'is' occurred in obligatory null contexts; similarly, the absence of van when required was not coded in this analysis.",
+      "Household car access identifies whether the respondent lives in a household where there is a car or van available for his personal use.",
+      "The 20-min reactivity protocol was completed in a por table laboratory built into a van parked outside the child's home.",
+      "Less than a mile from the house, the van gently eased off the road and fell on its side in a shallow ditch."
     ],
-    "hash_code_list_definition_mean": "2852379"
+    "hash_code_list_example": "1414406963"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/variable_cb_dmean_5000_it.json",
@@ -758,31 +611,21 @@
         "id_image": "variable_2620328"
       }
     ],
-    "hash_code_list_img": "-1628113745",
-    "list_definition_mean": [
-      {
-        "mean_english": "có thể thay đổi/biến đổi",
-        "definition": "that may be varied",
-        "ex_of_definition_list": [
-          "The speed of the food mixer is variable."
-        ]
-      },
-      {
-        "mean_english": "hay thay đổi",
-        "definition": "(of eg winds, weather etc) liable or likely to change",
-        "ex_of_definition_list": [
-          "British weather is very variable."
-        ]
-      },
-      {
-        "mean_english": "biến số",
-        "definition": "something that varies, eg in quantity, value, effect etc",
-        "ex_of_definition_list": [
-          "Have you taken all the variables into account in your calculations?"
-        ]
-      }
+    "hash_code_list_img": "2040747936",
+    "list_example": [
+      "The speed of the food mixer is variable.",
+      "British weather is very variable.",
+      "Have you taken all the variables into account in your calculations?",
+      "The next group of variables in the regression concerns the financial situation of the surveyed households.",
+      "Of course, ours is a metropolitan sample and, therefore, for variables affected by the urban-rural distinction, the outcomes will be specific to a city sample.",
+      "We have here made a design choice to choose the use of nameless variables in code representation.",
+      "Examination of interactions among the other physiological variables measured provided little evidence for more pronounced effects as a result of the combined administration of compounds.",
+      "We recognize that these variables could have important effects on the level of stock holdings.",
+      "All variables are coded with the hypothesized pro-multicultural response high.",
+      "A term with no free variables is closed.",
+      "When two or more independent variables (treatment conditions) are manipulated at the same time, we are dealing with factorial experiments."
     ],
-    "hash_code_list_definition_mean": "-1437227980"
+    "hash_code_list_example": "-574423501"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/variant_cb_dmean_5000_it.json",
@@ -801,24 +644,11 @@
         "id_image": "variant_5264994"
       }
     ],
-    "hash_code_list_img": "1247037073",
-    "list_definition_mean": [
-      {
-        "mean_english": "khác",
-        "definition": "something that is a slightly different form of another form",
-        "ex_of_definition_list": [
-          "Softball is a variant of baseball played with a larger ball."
-        ]
-      },
-      {
-        "mean_english": "cách đọc khác",
-        "definition": "a slightly different form of a word or phrase",
-        "ex_of_definition_list": [
-          "an American spelling variant."
-        ]
-      }
+    "hash_code_list_img": "359596704",
+    "list_example": [
+      "Softball is a variant of baseball played with a larger ball."
     ],
-    "hash_code_list_definition_mean": "-1112661834"
+    "hash_code_list_example": "639584529"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/variety_cb_dmean_5000_it.json",
@@ -839,39 +669,19 @@
         "id_image": "variety_5139806"
       }
     ],
-    "hash_code_list_img": "735020430",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự đa dạng",
-        "definition": "the quality of being of many different kinds or of being varied",
-        "ex_of_definition_list": [
-          "There’s a great deal of variety in this job."
-        ]
-      },
-      {
-        "mean_english": "nhiều thứ",
-        "definition": "a mixed collection or range",
-        "ex_of_definition_list": [
-          "The children got a variety of toys on their birthdays."
-        ]
-      },
-      {
-        "mean_english": "thứ, loại",
-        "definition": "a sort or kind",
-        "ex_of_definition_list": [
-          "They grow fourteen different varieties of rose."
-        ]
-      },
-      {
-        "mean_english": "chương trình tạp kỹ",
-        "definition": "a type of mixed theatrical entertainment including dances, songs, short sketches etc",
-        "ex_of_definition_list": [
-          "I much prefer operas to variety",
-          "(also adjective) a variety show."
-        ]
-      }
+    "hash_code_list_img": "503584871",
+    "list_example": [
+      "There’s a great deal of variety in this job.",
+      "The children got a variety of toys on their birthdays.",
+      "(also adjective) a variety show.",
+      "The study found most musicians to be wholly or partly self-employed, and to work in a variety of often interdependent roles throughout their careers.",
+      "In our context, their suggestions imply that a likelihood approach with random variety effects reduces bias in the estimation of (fixed) year effects.",
+      "The unit-based ethicist may fulfill a variety of functions through his participation in the working or teaching rounds of the unit.",
+      "A variety of other abstract surfaces may be covered by following the same approach.",
+      "Notwithstanding the wide variety of experiences from the respondents, some themes emerged.",
+      "On teaching the standard variety to speakers of dialectal or sociolectal varieties."
     ],
-    "hash_code_list_definition_mean": "950380856"
+    "hash_code_list_example": "1698934612"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/varnish_cb_dmean_5000_it.json",
@@ -891,31 +701,11 @@
         "id_image": "varnish_3468348"
       }
     ],
-    "hash_code_list_img": "99823938",
-    "list_definition_mean": [
-      {
-        "mean_english": "véc ni",
-        "definition": "a usually clear sticky liquid which gives protection and a glossy surface to wood, paint etc",
-        "ex_of_definition_list": [
-          "nail varnish."
-        ]
-      },
-      {
-        "mean_english": "sơn dầu",
-        "definition": "the glossy surface given by this liquid",
-        "ex_of_definition_list": [
-          "Be careful or you’ll take the varnish off the table!"
-        ]
-      },
-      {
-        "mean_english": "đánh véc ni",
-        "definition": "to cover with varnish",
-        "ex_of_definition_list": [
-          "Don’t sit on that chair – I’ve just varnished it."
-        ]
-      }
+    "hash_code_list_img": "1889004277",
+    "list_example": [
+      "Be careful or you’ll take the varnish off the table!"
     ],
-    "hash_code_list_definition_mean": "-1348398800"
+    "hash_code_list_example": "863268073"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vascular_cb_dmean_5000_it.json",
@@ -943,17 +733,19 @@
         "id_image": "vascular_4799045"
       }
     ],
-    "hash_code_list_img": "1190223824",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc mạch",
-        "definition": "(of animals or plants) relating to or containing veins",
-        "ex_of_definition_list": [
-          "the vascular system."
-        ]
-      }
+    "hash_code_list_img": "-1577906802",
+    "list_example": [
+      "the vascular system.",
+      "Placental vascular resistance was then calculated from steady state pressure and flow data.",
+      "Stereological evaluation of vascular adaptations of human placental villi to differing forms of hypoxic stress.",
+      "Frontal views of inner and outer coat surfaces showed that the dorsal vascular tissue and lateral tube-cell layer partitioned between both coats.",
+      "The composition for these sites was 121 vascular plant species grouped in 96 genera and 60 families.",
+      "Such vascular occlusion could lead to white matter damage such as periventricular leukomalacia, with subsequent development of cerebral palsy.",
+      "Any factor which decreases either cardiac output or peripheral vascular resistance diminishes systemic arterial pressure and hence cerebral perfusion.",
+      "These circulating factors would promote vascular inflammation and endothelial dysfunction, and result in insulin resistance and hypertension as described above.",
+      "Only 35 vascular plant species occur on the island, 12 of which were introduced by man."
     ],
-    "hash_code_list_definition_mean": "664170892"
+    "hash_code_list_example": "-165100855"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vase_cb_dmean_5000_it.json",
@@ -981,17 +773,19 @@
         "id_image": "vase_673563"
       }
     ],
-    "hash_code_list_img": "323985674",
-    "list_definition_mean": [
-      {
-        "mean_english": "bình, lọ",
-        "definition": "a type of jar or jug used mainly as an ornament or for holding cut flowers",
-        "ex_of_definition_list": [
-          "a vase of flowers."
-        ]
-      }
+    "hash_code_list_img": "640822652",
+    "list_example": [
+      "a vase of flowers.",
+      "These words were used in reference to a vase but the words were not produced immediately sequentially.",
+      "Furthermore, many sorts of visual imagery do not obviously involve any sort of motor component, as when one simply imagines a vase of flowers.",
+      "It would be constant, and yield the more-or-less constant mock sensory input of a vase of flowers.",
+      "The relativist says that arguing about ethics is like arguing whether a vase of flowers appears in the mirror in an empty room.",
+      "They are the following: window (connoting 'communication', 1.1c), twilight (1.1b), wind (1.2), cave (1.11), mirror (1.15), milk (1.20), dove (1.24), and vase (1.55).",
+      "The vase was broken by the clumsy child.",
+      "Furthermore, the scale borders on this vase are not typically associated with feline handles.",
+      "Finally, in mere size, this vase is larger than most."
     ],
-    "hash_code_list_definition_mean": "324700209"
+    "hash_code_list_example": "-775931161"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vast_cb_dmean_5000_it.json",
@@ -1009,17 +803,18 @@
         "id_image": "vast_2472369"
       }
     ],
-    "hash_code_list_img": "880391404",
-    "list_definition_mean": [
-      {
-        "mean_english": "rộng lớn, mênh mông",
-        "definition": "of very great size or amount",
-        "ex_of_definition_list": [
-          "He inherited a vast fortune."
-        ]
-      }
+    "hash_code_list_img": "963561302",
+    "list_example": [
+      "He inherited a vast fortune.",
+      "As a result, vast financial resources were increasingly secured and redeployed to construct military and naval machines of unprecedented size, complexity, and cost.",
+      "The press, streets, monuments, transportation, and countryside became a vast set on to which aperitif brands and their imagery could be projected.",
+      "The vast majority of respondents indicated that they had never engaged in this particular form of political participation.",
+      "The vast majority are due to random noise fluctuations.",
+      "Beyond this, there were vast areas of the book world where the vernacular made comparatively little impact.",
+      "If hemodynamic stability can be achieved, sinus rhythm returns in the vast majority of patients spontaneously within a few days after surgery.",
+      "Between these two extremes lies the vast domain where behavioral scientists toil."
     ],
-    "hash_code_list_definition_mean": "1031631633"
+    "hash_code_list_example": "-108142497"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vault_cb_dmean_5000_it.json",
@@ -1051,46 +846,24 @@
         "id_image": "vault_3898040"
       }
     ],
-    "hash_code_list_img": "2129357171",
-    "list_definition_mean": [
-      {
-        "mean_english": "vòm, mái vòm",
-        "definition": "(a room, especially a cellar, with) an arched roof or ceiling",
-        "ex_of_definition_list": [
-          "the castle vaults."
-        ]
-      },
-      {
-        "mean_english": "hầm",
-        "definition": "an underground room, especially for storing valuables",
-        "ex_of_definition_list": [
-          "The thieves broke into the bank vaults."
-        ]
-      },
-      {
-        "mean_english": "hầm mộ",
-        "definition": "a burial chamber, often for all the members of a family",
-        "ex_of_definition_list": [
-          "He was buried in the family vault."
-        ]
-      },
-      {
-        "mean_english": "cái nhảy qua (hàng rào)",
-        "definition": "a leap aided by the hands or by a pole",
-        "ex_of_definition_list": [
-          "the pole vault",
-          "With an athletic vault, he was over the fence and away."
-        ]
-      },
-      {
-        "mean_english": "nhảy qua",
-        "definition": "to leap (over)",
-        "ex_of_definition_list": [
-          "He vaulted (over) the fence."
-        ]
-      }
+    "hash_code_list_img": "2144980414",
+    "list_example": [
+      "the castle vaults.",
+      "The thieves broke into the bank vaults.",
+      "He was buried in the family vault.",
+      "the pole vault",
+      "With an athletic vault, he was over the fence and away.",
+      "He vaulted (over) the fence.",
+      "Children play around in this area, but there are broken vaults and fallen gravestones.",
+      "In lateral view, larvae slightly and almost symmetrically vaulted; glabella and protopygidial axis inflated.",
+      "The churches are wide and are generally vaulted.",
+      "Similarly, tierceron and lierne ribs may be stripped away to leave the underlying vaults structurally intact.",
+      "The roof rests directly on the church vaults.",
+      "Overall, the larva is less vaulted in lateral view.",
+      "The house has brick membrane walls and complicated vaults of brick and concrete.",
+      "They have cellars and vaults full of pictures for which no display space is available."
     ],
-    "hash_code_list_definition_mean": "-496646713"
+    "hash_code_list_example": "425770030"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vector_cb_dmean_5000_it.json",
@@ -1114,24 +887,20 @@
         "id_image": "vector_345992"
       }
     ],
-    "hash_code_list_img": "1140214753",
-    "list_definition_mean": [
-      {
-        "mean_english": "vectơ",
-        "definition": "a quantity such as velocity that has both size and direction",
-        "ex_of_definition_list": [
-          "the direction of the acceleration vector."
-        ]
-      },
-      {
-        "mean_english": "vectơ",
-        "definition": "an insect or animal that carries a disease from one living thing to another",
-        "ex_of_definition_list": [
-          "Anopheles mosquitoes are the main vectors of malaria."
-        ]
-      }
+    "hash_code_list_img": "-83616350",
+    "list_example": [
+      "the direction of the acceleration vector.",
+      "Anopheles mosquitoes are the main vectors of malaria.",
+      "Mechanical systems control transformed generalized force vectors, a considerable part of the canonical transformations cannot be applied for deformation purposes.",
+      "Probable hosts and vectors are listed to the right of the phylogram.",
+      "The functions linplus and lintens are the functions corresponding to the sum and tensor product on vectors.",
+      "The upward vectors represent the supporting leg, and the downward vectors represent the swing leg.",
+      "The articles in this volume represent an introduction to those systems, their vectors, actors and structures.",
+      "They construct upon that set of states the results of observations that may be represented as vectors in a suitable space.",
+      "In some areas, multiple malaria vectors occur sympatrically.",
+      "The velocity vectors used are computed in an upstream moving frame."
     ],
-    "hash_code_list_definition_mean": "1926836479"
+    "hash_code_list_example": "-1049576847"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vegan_cb_dmean_5000_it.json",
@@ -1164,17 +933,12 @@
         "id_image": "vegan_6194123"
       }
     ],
-    "hash_code_list_img": "1111196642",
-    "list_definition_mean": [
-      {
-        "mean_english": "người ăn chay",
-        "definition": "someone who does not eat any animal products such as meat, milk, cheese, or eggs",
-        "ex_of_definition_list": [
-          "(also adjective) a vegan diet."
-        ]
-      }
+    "hash_code_list_img": "-1514748257",
+    "list_example": [
+      "(also adjective) a vegan diet.",
+      "The cafe serves an all-vegan menu and hosts community-based events, including local benefits, political teach-ins and anarchist infoshop-based classes."
     ],
-    "hash_code_list_definition_mean": "217653854"
+    "hash_code_list_example": "-1555324268"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vegetable_cb_dmean_5000_it.json",
@@ -1203,25 +967,11 @@
         "id_image": "vegetable_549126"
       }
     ],
-    "hash_code_list_img": "-297577259",
-    "list_definition_mean": [
-      {
-        "mean_english": "rau",
-        "definition": "a plant or part of a plant, other than a fruit, used as food",
-        "ex_of_definition_list": [
-          "We grow potatoes, beans, and other vegetables",
-          "(also adjective) vegetable oil."
-        ]
-      },
-      {
-        "mean_english": "thực vật",
-        "definition": "a plant",
-        "ex_of_definition_list": [
-          "Grass is a vegetable, gold is a mineral and a human being is an animal."
-        ]
-      }
+    "hash_code_list_img": "138836503",
+    "list_example": [
+      "(also adjective) vegetable oil."
     ],
-    "hash_code_list_definition_mean": "-876774670"
+    "hash_code_list_example": "835850281"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vegetarian_cb_dmean_5000_it.json",
@@ -1249,18 +999,11 @@
         "id_image": "vegetarian_5635512"
       }
     ],
-    "hash_code_list_img": "200367939",
-    "list_definition_mean": [
-      {
-        "mean_english": "người ăn chay",
-        "definition": "a person who does not eat meat of any kind",
-        "ex_of_definition_list": [
-          "Has he always been a vegetarian?",
-          "(also adjective) This is a vegetarian dish."
-        ]
-      }
+    "hash_code_list_img": "-2060685774",
+    "list_example": [
+      "(also adjective) This is a vegetarian dish."
     ],
-    "hash_code_list_definition_mean": "744077843"
+    "hash_code_list_example": "-899061005"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vegetation_cb_dmean_5000_it.json",
@@ -1283,17 +1026,14 @@
         "id_image": "vegetation_5302965"
       }
     ],
-    "hash_code_list_img": "1110983964",
-    "list_definition_mean": [
-      {
-        "mean_english": "thực vật",
-        "definition": "plants in general; plants of a particular region or type",
-        "ex_of_definition_list": [
-          "tropical vegetation."
-        ]
-      }
+    "hash_code_list_img": "-1700007960",
+    "list_example": [
+      "These results represent strong evidence of increased seed mass in the vegetation of north-facing grasslands, when compared to their south-facing counterparts.",
+      "With the end of the rainy season, the soil and the vegetation quickly dry out.",
+      "The species occupies a diversity of habitat and vegetation types.",
+      "As farmers began to grow crops in former conservation areas, they increased evaporation and decreased the ability of vegetation to intercept rainfall and inhibit erosion."
     ],
-    "hash_code_list_definition_mean": "1930959295"
+    "hash_code_list_example": "-713406031"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vehicle_cb_dmean_5000_it.json",
@@ -1326,17 +1066,15 @@
         "id_image": "vehicle_550907"
       }
     ],
-    "hash_code_list_img": "1064144751",
-    "list_definition_mean": [
-      {
-        "mean_english": "xe cộ",
-        "definition": "any means of transport on land, especially on wheels, eg a car, bus, bicycle etc",
-        "ex_of_definition_list": [
-          "a heavy goods vehicle."
-        ]
-      }
+    "hash_code_list_img": "-1978210253",
+    "list_example": [
+      "Shape grammars offer the ability to quickly produce multiple vehicle designs that fall within desired constraints.",
+      "They serve as a vehicle for mobilising support and most importantly perhaps, as agents of elite recruitment.",
+      "For simplicity, each vehicle is assumed to be symmetric about the longitudinal plane, so only half of the front and rear view is drawn.",
+      "The vehicle agent then proceeds to generate the individual route plan as travel-service directed.",
+      "The vertical behaviours that run on the vehicle include maintain minimal depth, maintain minimum altitude, maintain depth and maintain altitude."
     ],
-    "hash_code_list_definition_mean": "306087916"
+    "hash_code_list_example": "215487784"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/veil_cb_dmean_5000_it.json",
@@ -1355,26 +1093,17 @@
         "id_image": "veil_5262991"
       }
     ],
-    "hash_code_list_img": "1007760332",
-    "list_definition_mean": [
-      {
-        "mean_english": "mạng che mặt; khăn trùm đầu",
-        "definition": "a piece of thin cloth worn over the face or head to hide, cover, or protect it",
-        "ex_of_definition_list": [
-          "Some women wear veils for religious reasons, to prevent strangers from seeing their faces",
-          "a veil of mist over the mountains",
-          "a veil of secrecy."
-        ]
-      },
-      {
-        "mean_english": "che mạng; trùm đầu",
-        "definition": "to cover with a veil",
-        "ex_of_definition_list": [
-          "The clouds veiled the sky in grey."
-        ]
-      }
+    "hash_code_list_img": "2099922359",
+    "list_example": [
+      "a veil of mist over the mountains",
+      "a veil of secrecy.",
+      "This is quite a different approach to justice than postulating a veil of ignorance.",
+      "The veil of prudery and so-called good taste must be torn aside from this subject.",
+      "Why do these values translate only to bias-neutralizing, aversion to uncertainty, the veil of ignorance, and equality?",
+      "Behind the veil of ignorance, would not we all agree to limited, humane preemptive strikes for the safety of all?",
+      "The veil of ignorance is a useful theoretical tool because bias toward oneself can potentially subvert understanding of social justice."
     ],
-    "hash_code_list_definition_mean": "234370058"
+    "hash_code_list_example": "-1958756931"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/velocity_cb_dmean_5000_it.json",
@@ -1402,17 +1131,17 @@
         "id_image": "velocity_408319"
       }
     ],
-    "hash_code_list_img": "1338574659",
-    "list_definition_mean": [
-      {
-        "mean_english": "vận tốc, tốc độ",
-        "definition": "speed, especially in a given direction",
-        "ex_of_definition_list": [
-          "Water velocity is measured in feet per second."
-        ]
-      }
+    "hash_code_list_img": "1920806918",
+    "list_example": [
+      "Water velocity is measured in feet per second.",
+      "The evolution of the turbulent velocity field in these air data is far more coherent than were such measurements in water.",
+      "The usual technique for analysing the problem defined above starts with the derivation of a single equation for the vertical velocity component.",
+      "Consider, for example, a horizontally homogeneous situation with a vertical gradient in the vertical velocity variance uk.",
+      "There was also a reduction in the vertical phase velocity of the instabilities.",
+      "The stereoscopic relations which convert the images of the bead trajectories to the three-dimensional velocity field are given in the appendix.",
+      "Respiratory excursions substantially modify the velocity profile and should be avoided during standard recording."
     ],
-    "hash_code_list_definition_mean": "821635614"
+    "hash_code_list_example": "2135968631"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/venom_cb_dmean_5000_it.json",
@@ -1431,24 +1160,14 @@
         "id_image": "venom_5671603"
       }
     ],
-    "hash_code_list_img": "1245032181",
-    "list_definition_mean": [
-      {
-        "mean_english": "nọc độc",
-        "definition": "the poison produced by some snakes, scorpions etc, transmitted by biting or stinging",
-        "ex_of_definition_list": [
-          "the venom of a cobra."
-        ]
-      },
-      {
-        "mean_english": "sự căm ghét",
-        "definition": "great ill-feeling, anger etc",
-        "ex_of_definition_list": [
-          "He spoke with venom."
-        ]
-      }
+    "hash_code_list_img": "1251935103",
+    "list_example": [
+      "the venom of a cobra.",
+      "As already noted, stingray spines apparently continue to retain venom for some time after becoming detached from the animal.",
+      "Differences in venom composition may play a role in the effectiveness of the medicinal plants used for snakebites.",
+      "He further believed that the viper inoculates its venom at the moment it reverses itself."
     ],
-    "hash_code_list_definition_mean": "1343807831"
+    "hash_code_list_example": "665189097"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/ventilate_cb_dmean_5000_it.json",
@@ -1466,17 +1185,18 @@
         "id_image": "ventilate_2726370"
       }
     ],
-    "hash_code_list_img": "1224454619",
-    "list_definition_mean": [
-      {
-        "mean_english": "làm cho thông gió, hơi",
-        "definition": "to allow fresh air to enter (eg a room)",
-        "ex_of_definition_list": [
-          "The room was ventilated by a ceiling fan."
-        ]
-      }
+    "hash_code_list_img": "1863497302",
+    "list_example": [
+      "The room was ventilated by a ceiling fan.",
+      "After exposure to the parasitoids, the cup was covered with a clear, ventilated plastic lid and randomly assigned to one of the temperature treatments.",
+      "Following tracheotomy and stereotaxic placement, animals were ventilated artificially and anesthesia maintained with isoflurane (1 - 1.5%) in oxygen and nitrous oxide (2:1).",
+      "The physicians intubated, ventilated, and diuresed her aggressively over the next 10 days.",
+      "Second, and perhaps equally impor tant, the wind usually comes from the east and nor theast, so that the tops of all of these structures are all pleasantly ventilated.",
+      "The balloon size was either equal to 1-6 mm less, or 1-2 mm larger than the aortic valve ring. 7/29 patients were ventilated during the procedure.",
+      "The trachea was intubated and the animals ventilated with 100% oxygen.",
+      "In some parts of the state the buildings in which animals were kept were small and poorly ventilated."
     ],
-    "hash_code_list_definition_mean": "1422355522"
+    "hash_code_list_example": "-495071179"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/ventilation_cb_dmean_5000_it.json",
@@ -1504,17 +1224,15 @@
         "id_image": "ventilation_5650588"
       }
     ],
-    "hash_code_list_img": "-1634791167",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự thông gió, hơi",
-        "definition": "the act or means of ventilating or the state of being ventilated",
-        "ex_of_definition_list": [
-          "There was no window in the room, and no other (means of) ventilation."
-        ]
-      }
+    "hash_code_list_img": "125314129",
+    "list_example": [
+      "Smoke tests and measurements of air velocity indicated that a mild north-easterly wind (0.5 1.5m/s) generated very effective cross ventilation (see section).",
+      "The cave's entrance became buried, and inadequate ventilation caused an episode of hypoxia and carbon monoxide poisoning.",
+      "Neither classrooms nor common living spaces were provided with sufficient daylight or adequate ventilation systems.",
+      "The horse also has a very stiff chest wall that limits the thoracic displacement to ventilation during exercise86 and mandates a proportionally greater diaphragmatic displacement.",
+      "His condition improved so that he was weaned from ventilation within next day."
     ],
-    "hash_code_list_definition_mean": "1224143505"
+    "hash_code_list_example": "-931892142"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/ventilator_cb_dmean_5000_it.json",
@@ -1547,17 +1265,12 @@
         "id_image": "ventilator_923854"
       }
     ],
-    "hash_code_list_img": "1853476814",
-    "list_definition_mean": [
-      {
-        "mean_english": "máy thông gió",
-        "definition": "a device for ventilating a room etc",
-        "ex_of_definition_list": [
-          "The hum of the ventilator kept him awake."
-        ]
-      }
+    "hash_code_list_img": "-1349533400",
+    "list_example": [
+      "The hum of the ventilator kept him awake.",
+      "Would it be morally acceptable to remove the ventilator rather than wean the baby as was done in the case?"
     ],
-    "hash_code_list_definition_mean": "719475575"
+    "hash_code_list_example": "1093820615"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/ventriloquist_cb_dmean_5000_it.json",
@@ -1575,17 +1288,14 @@
         "id_image": "ventriloquist_320489"
       }
     ],
-    "hash_code_list_img": "2063096657",
-    "list_definition_mean": [
-      {
-        "mean_english": "người có tài nói tiếng bụng",
-        "definition": "a professional entertainer who can speak so that his voice seems to come from some other person or place, especially from a dummy which he controls",
-        "ex_of_definition_list": [
-          "a ventriloquist’s doll."
-        ]
-      }
+    "hash_code_list_img": "2099052214",
+    "list_example": [
+      "All of them have been edited digitally so that they have mouths similar to ventriloquist dummies.",
+      "His only clue is an old ventriloquist dummy.",
+      "The ventriloquist dummy is controlled by the one hand of the ventriloquist.",
+      "Another feature to the show was the addition of giant trees on each side of the stage from which hung ventriloquist dummies from the branches."
     ],
-    "hash_code_list_definition_mean": "1291852339"
+    "hash_code_list_example": "1304254776"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/venture_cb_dmean_5000_it.json",
@@ -1606,39 +1316,14 @@
         "id_image": "venture_2329919"
       }
     ],
-    "hash_code_list_img": "1362474104",
-    "list_definition_mean": [
-      {
-        "mean_english": "việc mạo hiểm",
-        "definition": "an undertaking or scheme that involves some risk",
-        "ex_of_definition_list": [
-          "his latest business venture."
-        ]
-      },
-      {
-        "mean_english": "mạo hiểm, cả gan",
-        "definition": "to dare to go",
-        "ex_of_definition_list": [
-          "Every day the child ventured further into the forest."
-        ]
-      },
-      {
-        "mean_english": "dám nói, đánh bạo",
-        "definition": "to dare (to do (something), especially to say (something))",
-        "ex_of_definition_list": [
-          "He ventured to kiss her hand",
-          "I ventured (to remark) that her skirt was too short."
-        ]
-      },
-      {
-        "mean_english": "liều, mạo hiểm",
-        "definition": "to risk",
-        "ex_of_definition_list": [
-          "He decided to venture all his money on the scheme."
-        ]
-      }
+    "hash_code_list_img": "1723212625",
+    "list_example": [
+      "He decided to venture all his money on the scheme.",
+      "Unlike the personal desire for the realization of an ideal, approval of democracy as a collective venture is more circumstantially than diffusely determined.",
+      "One might venture that the new science either responded to or was influenced by trends in opera houses and concert rooms.",
+      "For, serious doubts may be raised about the viability of the doxastic venture model."
     ],
-    "hash_code_list_definition_mean": "517917745"
+    "hash_code_list_example": "-668747463"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/verdict_cb_dmean_5000_it.json",
@@ -1657,24 +1342,16 @@
         "id_image": "verdict_2861325"
       }
     ],
-    "hash_code_list_img": "1296445179",
-    "list_definition_mean": [
-      {
-        "mean_english": "lời phán quyết",
-        "definition": "the decision of a jury at the end of a trial",
-        "ex_of_definition_list": [
-          "The jury returned a verdict of guilty."
-        ]
-      },
-      {
-        "mean_english": "sự nhận định",
-        "definition": "an opinion or decision reached after consideration",
-        "ex_of_definition_list": [
-          "The competitors are still waiting for the verdict of the judges."
-        ]
-      }
+    "hash_code_list_img": "404923962",
+    "list_example": [
+      "The jury returned a verdict of guilty.",
+      "The competitors are still waiting for the verdict of the judges.",
+      "This issue has come up in a variety of contexts-for example, re the question of possible verdict differences between so-called death-qualified and not-death-qualified jurors.",
+      "The decision of each court, then, amounted to a verdict about the family's history and identity.",
+      "When the jury produces a liability verdict and a damages award, it plays a direct role in the creation of an entitlement.",
+      "We showed that juror bias is not necessarily the most important element of a juror's verdict determination calculus."
     ],
-    "hash_code_list_definition_mean": "-1945583954"
+    "hash_code_list_example": "-59234849"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/verify_cb_dmean_5000_it.json",
@@ -1707,17 +1384,15 @@
         "id_image": "verify_5151183"
       }
     ],
-    "hash_code_list_img": "-434436385",
-    "list_definition_mean": [
-      {
-        "mean_english": "thẩm tra , xác minh",
-        "definition": "to confirm the truth or correctness of (something)",
-        "ex_of_definition_list": [
-          "Can you verify her statement?"
-        ]
-      }
+    "hash_code_list_img": "324389590",
+    "list_example": [
+      "Can you verify her statement?",
+      "Her sample of progressive constructions seems to verify this hypothesis for the eighteenth century.",
+      "In the present work we wanted to verify whether oocytes recovered from preantral follicles were able to acquire calcium activity during follicle culture.",
+      "One is to verify whether the number of co-occurrences of different species differs from what would be expected by chance alone.",
+      "Figure 12 displays the local mobility distribution within workspace, where we can verify the mobility of more than 100 within workspace."
     ],
-    "hash_code_list_definition_mean": "825089136"
+    "hash_code_list_example": "-1696846659"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/versatile_cb_dmean_5000_it.json",
@@ -1736,26 +1411,20 @@
         "id_image": "versatile_3645286"
       }
     ],
-    "hash_code_list_img": "1168765939",
-    "list_definition_mean": [
-      {
-        "mean_english": "tháo vát",
-        "definition": "(of people etc) able to turn easily and successfully from one task, activity or occupation to another",
-        "ex_of_definition_list": [
-          "a versatile entertainer",
-          "a versatile footballer who can play in many different positions",
-          "He will easily get another job – he is so versatile."
-        ]
-      },
-      {
-        "mean_english": "đa năng",
-        "definition": "(of a material etc) capable of being used for many purposes",
-        "ex_of_definition_list": [
-          "a versatile tool."
-        ]
-      }
+    "hash_code_list_img": "1002650360",
+    "list_example": [
+      "a versatile entertainer",
+      "a versatile footballer who can play in many different positions",
+      "a versatile tool.",
+      "To carry out its versatile roles it has been equipped with sensing devices and elaborate software systems.",
+      "The books reviewed here show that there are still many more facets of this most versatile of statesmen to be studied and interpreted.",
+      "Sutermeister was one of the most versatile composers of his day, turning his gifts just as easily to choral and absolute music.",
+      "The versatile farm economy required a minimum amount of adults to be successful.",
+      "The technique is rapid, versatile and simple, and can be used as part of a sequential set of tests to fully characterize an organism.",
+      "These creatures are versatile feeders, but each troop is liable to have its own preferences from among all the foods available.",
+      "The optimal grasping capabilities of a human hand allow versatile functionality and interaction with several environments."
     ],
-    "hash_code_list_definition_mean": "-400287129"
+    "hash_code_list_example": "-193735705"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/version_cb_dmean_5000_it.json",
@@ -1783,17 +1452,17 @@
         "id_image": "version_3098184"
       }
     ],
-    "hash_code_list_img": "-234446659",
-    "list_definition_mean": [
-      {
-        "mean_english": "bài dịch",
-        "definition": "an account from one point of view",
-        "ex_of_definition_list": [
-          "The boy gave his version of what had occurred."
-        ]
-      }
+    "hash_code_list_img": "71004321",
+    "list_example": [
+      "The boy gave his version of what had occurred.",
+      "It is compact, as it is a significantly cut-down version of the full list of identified terms.",
+      "Here was a version of philosophical commerce closer to our own definition of the word \"commerce,\" yet one intimately related to practice.",
+      "It is not possible to find a degraded version to realise the service; it has to be stopped.",
+      "The author would like to thank the referee for valuable comments and suggestions on the first version of this paper.",
+      "We use a more precise version of the expansion (3.10c).",
+      "It is a straightforward reprint of the original version with printing errors corrected."
     ],
-    "hash_code_list_definition_mean": "611247863"
+    "hash_code_list_example": "-1825687255"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/versus_cb_dmean_5000_it.json",
@@ -1821,17 +1490,11 @@
         "id_image": "versus_4968315"
       }
     ],
-    "hash_code_list_img": "-12199539",
-    "list_definition_mean": [
-      {
-        "mean_english": "đấu với",
-        "definition": "(often abbreviated to vor vswhen written) against",
-        "ex_of_definition_list": [
-          "the England v Wales rugby match."
-        ]
-      }
+    "hash_code_list_img": "-340616457",
+    "list_example": [
+      "the England v Wales rugby match."
     ],
-    "hash_code_list_definition_mean": "539853784"
+    "hash_code_list_example": "-488604275"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vertical_cb_dmean_5000_it.json",
@@ -1864,17 +1527,15 @@
         "id_image": "vertical_3103209"
       }
     ],
-    "hash_code_list_img": "-425492521",
-    "list_definition_mean": [
-      {
-        "mean_english": "thẳng đứng, dọc",
-        "definition": "standing straight up at right angles to the earth’s surface, or to a horizontal plane or line; upright",
-        "ex_of_definition_list": [
-          "The hillside looked almost vertical."
-        ]
-      }
+    "hash_code_list_img": "-1306088443",
+    "list_example": [
+      "The use of vertical rules should be avoided.",
+      "The point to emphasize is that we assume the permeability k to vary in the vertical direction.",
+      "The height of each bar is read from the vertical axis.",
+      "Then a horizontal top plane and some form of vertical plane or step are cut.",
+      "Here we assume that the wave propagates in the vertical direction."
     ],
-    "hash_code_list_definition_mean": "179976020"
+    "hash_code_list_example": "1101953216"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vessel_cb_dmean_5000_it.json",
@@ -1908,24 +1569,11 @@
         "id_image": "vessel_4463319"
       }
     ],
-    "hash_code_list_img": "-1125475762",
-    "list_definition_mean": [
-      {
-        "mean_english": "bình, chậu, lọ vại",
-        "definition": "a container, usually for liquid",
-        "ex_of_definition_list": [
-          "a plastic vessel containing acid."
-        ]
-      },
-      {
-        "mean_english": "tàu lớn",
-        "definition": "a ship",
-        "ex_of_definition_list": [
-          "a 10,000-ton grain-carrying vessel."
-        ]
-      }
+    "hash_code_list_img": "-1597036551",
+    "list_example": [
+      "a plastic vessel containing acid."
     ],
-    "hash_code_list_definition_mean": "188966561"
+    "hash_code_list_example": "-1293859191"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/vest_cb_dmean_5000_it.json",
@@ -1944,25 +1592,13 @@
         "id_image": "vest_1373396"
       }
     ],
-    "hash_code_list_img": "237005828",
-    "list_definition_mean": [
-      {
-        "mean_english": "áo lót",
-        "definition": "a kind of sleeveless shirt worn under a shirt, blouse etc",
-        "ex_of_definition_list": [
-          "He was dressed only in (a) vest and underpants."
-        ]
-      },
-      {
-        "mean_english": "áo gi lê",
-        "definition": "a waistcoat",
-        "ex_of_definition_list": [
-          "jacket, vest and trousers",
-          "(also adjective) a vest pocket."
-        ]
-      }
+    "hash_code_list_img": "757047010",
+    "list_example": [
+      "He was dressed only in (a) vest and underpants.",
+      "jacket, vest and trousers",
+      "(also adjective) a vest pocket."
     ],
-    "hash_code_list_definition_mean": "-295581788"
+    "hash_code_list_example": "-2016199437"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/veteran_cb_dmean_5000_it.json",
@@ -1986,24 +1622,11 @@
         "id_image": "veteran_4850575"
       }
     ],
-    "hash_code_list_img": "-1106401880",
-    "list_definition_mean": [
-      {
-        "mean_english": "người kỳ cựu",
-        "definition": "a person who is (old and) experienced as a soldier etc or in some other occupation",
-        "ex_of_definition_list": [
-          "a veteran footballer/entertainer."
-        ]
-      },
-      {
-        "mean_english": "cựu chiến binh",
-        "definition": "a person who has been in the army etc",
-        "ex_of_definition_list": [
-          "war veterans."
-        ]
-      }
+    "hash_code_list_img": "-1401625874",
+    "list_example": [
+      "a veteran footballer/entertainer."
     ],
-    "hash_code_list_definition_mean": "-1499964829"
+    "hash_code_list_example": "-2139383093"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/veterinary_cb_dmean_5000_it.json",
@@ -2036,18 +1659,20 @@
         "id_image": "veterinary_5745198"
       }
     ],
-    "hash_code_list_img": "-296833497",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc thú y",
-        "definition": "of, or concerning, the treatment of diseases in animals",
-        "ex_of_definition_list": [
-          "veterinary medicine",
-          "veterinary care."
-        ]
-      }
+    "hash_code_list_img": "-1965793316",
+    "list_example": [
+      "veterinary medicine",
+      "veterinary care.",
+      "All the sacrifices were not subject to veterinary control.",
+      "Once captured, animals were individually housed in plastic cages and transferred to the veterinary facility.",
+      "For instance, the state's veterinary measures probably caused intradistrict trade to gain in significance.",
+      "Late entrants' dairy herds had higher inputs of concentrates, achieved higher milk yields, and had a higher incidence of veterinary treatments.",
+      "The data for the veterinary personnel were too small to allow risk factor analysis.",
+      "This has led to the increased recognition of the genus as emerging pathogens of both medical and veterinary importance.",
+      "It has been noted by veterinary officers but has no obvious explanation.",
+      "We focus on zoonotic infections, although the principles that serve as the basis for this review certainly apply to emerging tick-borne infections of veterinary importance."
     ],
-    "hash_code_list_definition_mean": "608821268"
+    "hash_code_list_example": "-1356684237"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/veto_cb_dmean_5000_it.json",
@@ -2066,23 +1691,19 @@
         "id_image": "veto_2473207"
       }
     ],
-    "hash_code_list_img": "1309535275",
-    "list_definition_mean": [
-      {
-        "mean_english": "phủ quyết, bác bỏ",
-        "definition": "to forbid, or refuse to consent to",
-        "ex_of_definition_list": [
-          "They vetoed your suggestion."
-        ]
-      },
-      {
-        "mean_english": "quyền phủ quyết, sự bác bỏ",
-        "definition": "(also power of veto) the power or right to refuse or forbid",
-        "ex_of_definition_list": [
-          "the chairman’s (power of) veto."
-        ]
-      }
+    "hash_code_list_img": "1398063085",
+    "list_example": [
+      "They vetoed your suggestion.",
+      "the chairman’s (power of) veto.",
+      "There should be no question of vetoing these arrangements.",
+      "There was not a word about the promises he made about the statutory incomes policy and freeze which he had vetoed before 1970.",
+      "One-sided attempts at deregulation or curtailing benefits (labour law 1996, unemployment insurance 1997) as well as expanding social security (health and maternity insurance 1987) were successfully vetoed.",
+      "However, if the feasible set is empty, legislative action is not politically feasible since any proposal will be vetoed.",
+      "If all took up the invitation, there would be a grand coalition, but the constitution provided for no group vetoes, no ethnic autonomy, and no other consociational features.",
+      "By their nature, they require major institutional and legal changes and involve a much broader range of actors, which make them more vulnerable to vetoes, dilutions, delays and derailments.",
+      "On social policy, we have vetoed an anti-racism directive.",
+      "If the sceptic acts irrationally when vetoing the religious affirmation of others, he is for the same reasons acting irrationally when vetoing his own belief."
     ],
-    "hash_code_list_definition_mean": "1916070576"
+    "hash_code_list_example": "-1390631389"
   }
 ]

@@ -38,74 +38,22 @@
         "id_image": "fair_950744"
       }
     ],
-    "hash_code_list_img": "510285818",
-    "list_definition_mean": [
-      {
-        "mean_english": "vàng hoe (tóc); trắng (da)",
-        "definition": "light-coloured/light-colored; with light-coloured/light-colored hair and skin",
-        "ex_of_definition_list": [
-          "fair hair",
-          "Scandinavian people are often fair."
-        ]
-      },
-      {
-        "mean_english": "công bằng",
-        "definition": "just; not favouring/favoring one side",
-        "ex_of_definition_list": [
-          "a fair result."
-        ]
-      },
-      {
-        "mean_english": "thời tiết đẹp",
-        "definition": "(of weather) fine; without rain",
-        "ex_of_definition_list": [
-          "a fair afternoon."
-        ]
-      },
-      {
-        "mean_english": "khá; khá tốt",
-        "definition": "quite good; neither bad nor good",
-        "ex_of_definition_list": [
-          "Her work is only fair."
-        ]
-      },
-      {
-        "mean_english": "rất lớn; rất dài",
-        "definition": "quite big, long etc",
-        "ex_of_definition_list": [
-          "The box is a fair size."
-        ]
-      },
-      {
-        "mean_english": "đẹp",
-        "definition": "beautiful",
-        "ex_of_definition_list": [
-          "a fair maiden."
-        ]
-      },
-      {
-        "mean_english": "hội chợ vui chơi giải trí",
-        "definition": "a collection of entertainments that travels from town to town",
-        "ex_of_definition_list": [
-          "She won a large doll at the fair."
-        ]
-      },
-      {
-        "mean_english": "chợ phiên",
-        "definition": "a large market held at fixed times",
-        "ex_of_definition_list": [
-          "A fair is held here every spring."
-        ]
-      },
-      {
-        "mean_english": "hội chợ",
-        "definition": "an exhibition of goods from different countries, firms etc",
-        "ex_of_definition_list": [
-          "a trade fair."
-        ]
-      }
+    "hash_code_list_img": "-1140620642",
+    "list_example": [
+      "fair hair",
+      "a fair result.",
+      "a fair afternoon.",
+      "The box is a fair size.",
+      "a fair maiden.",
+      "A fair is held here every spring.",
+      "One of the clear differences between fair employment and the s75 mainstreaming intervention lies in their focus.",
+      "Of the 38 bilingual children participating in the study, 13 (38%) were rated as beginning readers and 4 (11%) were considered fair readers.",
+      "To some extent, the difference between the types of antigen used makes a fair comparison between results difficult.",
+      "Reasonable people might disagree whether someone had her fair innings.",
+      "They also conclude (p. 677) 'that the linear inter-component energy transfer hypothesis is unlikely to be even a fair approximation'.",
+      "I have compared the eighteenth-century libretti, which give a fair approximation of the changes made in 1754."
     ],
-    "hash_code_list_definition_mean": "-1481408752"
+    "hash_code_list_example": "830764012"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/faith_cb_dmean_5000_it.json",
@@ -140,31 +88,12 @@
         "id_image": "faith_6396814"
       }
     ],
-    "hash_code_list_img": "-534161018",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự tin tưởng",
-        "definition": "trust or belief",
-        "ex_of_definition_list": [
-          "She had faith in his ability."
-        ]
-      },
-      {
-        "mean_english": "đức tin",
-        "definition": "religious belief",
-        "ex_of_definition_list": [
-          "Years of hardship had not caused him to lose his faith."
-        ]
-      },
-      {
-        "mean_english": "lời hứa",
-        "definition": "loyalty to one’s promise",
-        "ex_of_definition_list": [
-          "She was determined to keep faith with him."
-        ]
-      }
+    "hash_code_list_img": "1672860228",
+    "list_example": [
+      "She had faith in his ability.",
+      "She was determined to keep faith with him."
     ],
-    "hash_code_list_definition_mean": "28356424"
+    "hash_code_list_example": "1400883799"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fake_cb_dmean_5000_it.json",
@@ -196,45 +125,12 @@
         "id_image": "fake_2742130"
       }
     ],
-    "hash_code_list_img": "2025233590",
-    "list_definition_mean": [
-      {
-        "mean_english": "đồ giả",
-        "definition": "a worthless imitation (especially intended to deceive); forgery",
-        "ex_of_definition_list": [
-          "That picture is a fake."
-        ]
-      },
-      {
-        "mean_english": "kẻ mạo nhận",
-        "definition": "a person who pretends to be something he/she is not",
-        "ex_of_definition_list": [
-          "He pretended to be a doctor, but he was a fake."
-        ]
-      },
-      {
-        "mean_english": "giả",
-        "definition": "made in imitation of something more valuable, especially with the intention of deceiving",
-        "ex_of_definition_list": [
-          "fake diamonds."
-        ]
-      },
-      {
-        "mean_english": "giả danh",
-        "definition": "pretending to be something one is not",
-        "ex_of_definition_list": [
-          "a fake clergyman."
-        ]
-      },
-      {
-        "mean_english": "giả mạo",
-        "definition": "to pretend or imitate in order to deceive",
-        "ex_of_definition_list": [
-          "He faked his father’s signature on the cheque/check."
-        ]
-      }
+    "hash_code_list_img": "-1517388307",
+    "list_example": [
+      "fake diamonds.",
+      "a fake clergyman."
     ],
-    "hash_code_list_definition_mean": "2144310160"
+    "hash_code_list_example": "1567164709"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fall_cb_dmean_5000_it.json",
@@ -281,82 +177,15 @@
         "id_image": "fall_5903644"
       }
     ],
-    "hash_code_list_img": "-599874561",
-    "list_definition_mean": [
-      {
-        "mean_english": "rơi; rơi xuống",
-        "definition": "to go down from a higher level usually unintentionally",
-        "ex_of_definition_list": [
-          "The apple fell from the tree",
-          "Her eye fell on an old book."
-        ]
-      },
-      {
-        "mean_english": "ngã",
-        "definition": "(often with over) to go down to the ground etc from an upright position, usually by accident",
-        "ex_of_definition_list": [
-          "She tripped and fell (over)."
-        ]
-      },
-      {
-        "mean_english": "hạ thấp; nguôi đi",
-        "definition": "to become lower or less",
-        "ex_of_definition_list": [
-          "The temperature is falling."
-        ]
-      },
-      {
-        "mean_english": "xảy ra",
-        "definition": "to happen or occur",
-        "ex_of_definition_list": [
-          "Easter falls early this year."
-        ]
-      },
-      {
-        "mean_english": "trở nên",
-        "definition": "to enter a certain state or condition",
-        "ex_of_definition_list": [
-          "She fell asleep",
-          "They fell in love."
-        ]
-      },
-      {
-        "mean_english": "trở thành nhiệm vụ của ai",
-        "definition": "(only with it as subject) to come as one’s duty etc",
-        "ex_of_definition_list": [
-          "It falls to me to take care of the children."
-        ]
-      },
-      {
-        "mean_english": "sự rơi; sự ngã",
-        "definition": "the act of falling",
-        "ex_of_definition_list": [
-          "He had a fall."
-        ]
-      },
-      {
-        "mean_english": "số lượng của cái gì đang hoặc đã rơi",
-        "definition": "(a quantity of) something that has fallen",
-        "ex_of_definition_list": [
-          "a fall of snow."
-        ]
-      },
-      {
-        "mean_english": "(nhất là chính trị) thất bại; sụp đổ",
-        "definition": "capture or (political) defeat",
-        "ex_of_definition_list": [
-          "the fall of Rome."
-        ]
-      },
-      {
-        "mean_english": "mùa thu",
-        "definition": "the autumn",
-        "ex_of_definition_list": [
-          "Leaves change color in the fall."
-        ]
-      }
+    "hash_code_list_img": "-2085709907",
+    "list_example": [
+      "a fall of snow.",
+      "the fall of Rome.",
+      "Unlike the fall conference, each committee discussed the same four topics.",
+      "At this point, things started to fall into place.",
+      "Firstly, one might hold that philosophical ideas should stand or fall on their content, rather than upon the reputation of the philosopher concerned."
     ],
-    "hash_code_list_definition_mean": "-1850321219"
+    "hash_code_list_example": "-684899166"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/false_cb_dmean_5000_it.json",
@@ -382,38 +211,14 @@
         "id_image": "false_5706113"
       }
     ],
-    "hash_code_list_img": "2135307221",
-    "list_definition_mean": [
-      {
-        "mean_english": "sai; nhầm",
-        "definition": "not true; not correct",
-        "ex_of_definition_list": [
-          "He made a false statement to the police."
-        ]
-      },
-      {
-        "mean_english": "cố tình làm sai để đánh lừa",
-        "definition": "not genuine; intended to deceive",
-        "ex_of_definition_list": [
-          "She has a false passport."
-        ]
-      },
-      {
-        "mean_english": "không thật",
-        "definition": "artificial",
-        "ex_of_definition_list": [
-          "false teeth."
-        ]
-      },
-      {
-        "mean_english": "phản trắc",
-        "definition": "not loyal",
-        "ex_of_definition_list": [
-          "false friends."
-        ]
-      }
+    "hash_code_list_img": "1901623052",
+    "list_example": [
+      "He made a false statement to the police.",
+      "She has a false passport.",
+      "false teeth.",
+      "false friends."
     ],
-    "hash_code_list_definition_mean": "-125292472"
+    "hash_code_list_example": "-904904531"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fame_cb_dmean_5000_it.json",
@@ -431,17 +236,14 @@
         "id_image": "fame_1787424"
       }
     ],
-    "hash_code_list_img": "1689840565",
-    "list_definition_mean": [
-      {
-        "mean_english": "danh tiếng",
-        "definition": "the quality of being well-known",
-        "ex_of_definition_list": [
-          "Her novels brought her fame."
-        ]
-      }
+    "hash_code_list_img": "1720072544",
+    "list_example": [
+      "Last but not least, this mode of argument is tied to a fame quotient and to periodicity.",
+      "A sojourn in the colonies could, in fact, be a means of acquiring fame and wealth.",
+      "The distorting effect of 15 minutes of fame outweighs all other considerations.",
+      "No other composer has seen his home town capitalize on his posthumous fame in such a shameless manner."
     ],
-    "hash_code_list_definition_mean": "1019746268"
+    "hash_code_list_example": "-599233671"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/family_cb_dmean_5000_it.json",
@@ -467,41 +269,16 @@
         "id_image": "family_599547"
       }
     ],
-    "hash_code_list_img": "-625066176",
-    "list_definition_mean": [
-      {
-        "mean_english": "gia đình",
-        "definition": "(singular or plural) a man, his wife and their children",
-        "ex_of_definition_list": [
-          "These houses were built for families",
-          "The (members of the) Clark family are all very athletic",
-          "(also adjective) a family holiday."
-        ]
-      },
-      {
-        "mean_english": "gia tộc",
-        "definition": "a group of people related to each other, including cousins, grandchildren etc",
-        "ex_of_definition_list": [
-          "He comes from a wealthy family",
-          "(also adjective) the family home."
-        ]
-      },
-      {
-        "mean_english": "con cái",
-        "definition": "the children of a man and his wife",
-        "ex_of_definition_list": [
-          "When I get married, I would like a large family."
-        ]
-      },
-      {
-        "mean_english": "(sinh vật học), (ngôn ngữ học) họ",
-        "definition": "a group of plants, animals, languages etc that are connected in some way",
-        "ex_of_definition_list": [
-          "In spite of its name, a koala bear is not a member of the bear family."
-        ]
-      }
+    "hash_code_list_img": "364920222",
+    "list_example": [
+      "The (members of the) Clark family are all very athletic",
+      "(also adjective) a family holiday.",
+      "(also adjective) the family home.",
+      "Some surrogates need to review what the patient and/or family has experienced in the past with end of life issues.",
+      "Psychological therapies, family treatments and vocational rehabilitation are described.",
+      "The morbid risk represents the percentage of family members who develop the specific disorder."
     ],
-    "hash_code_list_definition_mean": "1524545921"
+    "hash_code_list_example": "-1752949813"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/famine_cb_dmean_5000_it.json",
@@ -524,17 +301,13 @@
         "id_image": "famine_5208443"
       }
     ],
-    "hash_code_list_img": "-1622928266",
-    "list_definition_mean": [
-      {
-        "mean_english": "nạn đói kém",
-        "definition": "(a) great lack or shortage especially of food",
-        "ex_of_definition_list": [
-          "Some parts of the world suffer regularly from famine."
-        ]
-      }
+    "hash_code_list_img": "664883627",
+    "list_example": [
+      "However, human migrations, landless people, famine and fragmented landscapes speak for themselves.",
+      "Certainly some of the prints showed starvation and famine so severe that money and supplies must have been wanted.",
+      "At this point, villages were teetering on the brink of famine as locust invasions threatened to consume the limited food crops that had been planted."
     ],
-    "hash_code_list_definition_mean": "1712524378"
+    "hash_code_list_example": "1593782803"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/famous_cb_dmean_5000_it.json",
@@ -567,18 +340,20 @@
         "id_image": "famous_6347717"
       }
     ],
-    "hash_code_list_img": "195082475",
-    "list_definition_mean": [
-      {
-        "mean_english": "nổi tiếng/ nổi danh vì cái gì",
-        "definition": "well-known (for good or worthy reasons)",
-        "ex_of_definition_list": [
-          "a famous actor",
-          "She is famous for her determination to win."
-        ]
-      }
+    "hash_code_list_img": "-1766454397",
+    "list_example": [
+      "a famous actor",
+      "She is famous for her determination to win.",
+      "Everyone who recognizes his most famous name will readily acknowledge their importance.",
+      "A famous combinatorial formula describes this number in term of hook lengths.",
+      "Such a claim seems admittedly problematic when considering the 'famous fire cause', because it appears to be a striking example of unequal treatment.",
+      "Of course, not everyone had access to such powerful patrons, so it is no surprise that only the most famous musicians could skip the broker.",
+      "In the ambiance of these drawings the famous moon watercolors are not in the dark.",
+      "Unlike that famous liberal thinker, royalists propagated a way to preserve liberty that did not necessitate an appeal to a public spirit at all.",
+      "Many famous hard optimization problems, such as the travelling salesman problem or the protein folding problem, are global optimization problems.",
+      "Very unlike the ideal suggested by that famous newspaper controversy is she."
     ],
-    "hash_code_list_definition_mean": "988315223"
+    "hash_code_list_example": "-1751940502"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fancy_cb_dmean_5000_it.json",
@@ -607,52 +382,19 @@
         "id_image": "fancy_1808026"
       }
     ],
-    "hash_code_list_img": "-1758409644",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự mê thích nhất thời",
-        "definition": "a sudden (often unexpected) liking or desire",
-        "ex_of_definition_list": [
-          "The child had many peculiar fancies."
-        ]
-      },
-      {
-        "mean_english": "sức tưởng tượng",
-        "definition": "the power of the mind to imagine things",
-        "ex_of_definition_list": [
-          "She had a tendency to indulge in flights of fancy."
-        ]
-      },
-      {
-        "mean_english": "được làm cho đẹp mắt",
-        "definition": "decorated; not plain",
-        "ex_of_definition_list": [
-          "fancy cakes."
-        ]
-      },
-      {
-        "mean_english": "mong ước; muốn",
-        "definition": "to like the idea of having or doing something",
-        "ex_of_definition_list": [
-          "I fancy a cup of tea."
-        ]
-      },
-      {
-        "mean_english": "tưởng tượng; cho rằng",
-        "definition": "to think or have a certain feeling or impression (that)",
-        "ex_of_definition_list": [
-          "I fancied (that) you were angry."
-        ]
-      },
-      {
-        "mean_english": "mến; thích",
-        "definition": "to have strong sexual interest in (a person)",
-        "ex_of_definition_list": [
-          "He fancies her a lot."
-        ]
-      }
+    "hash_code_list_img": "770815425",
+    "list_example": [
+      "fancy cakes.",
+      "I fancy a cup of tea.",
+      "The old woman would not listen to such fancy stuff.",
+      "Imaginative fancy or indirect knowledge was rarely enough.",
+      "A fancy procedure and pretty pictures are not needed, critics will add, to know that brain activity differs between the two groups.",
+      "We may fancy an exotic past that contrasts with a humdrum or unhappy present, but we forge it with modern tools.",
+      "Rethinking a classic doesn't mean gussying it up with fancy folderol and extraneous trimming so that it no longer bears any resemblance to the original.",
+      "The constraint is that the binary tree should be atiguously marked, a fancy name for a non-contiguous marking.",
+      "We must remember that masque performances were great occasions, replete with distractions - royalty, nobility, fancy dress, beautiful women, glorious jewellery."
     ],
-    "hash_code_list_definition_mean": "-1932537601"
+    "hash_code_list_example": "195214651"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fang_cb_dmean_5000_it.json",
@@ -676,17 +418,12 @@
         "id_image": "fang_5939426"
       }
     ],
-    "hash_code_list_img": "-1801180647",
-    "list_definition_mean": [
-      {
-        "mean_english": "răng nanh",
-        "definition": "a long pointed tooth especially of a fierce animal",
-        "ex_of_definition_list": [
-          "The wolf bared its fangs."
-        ]
-      }
+    "hash_code_list_img": "322966904",
+    "list_example": [
+      "No harm can be done because the fang of the settlement has been drawn and it cannot sting during its surviving life.",
+      "Lambs with their heads ripped completely off and fang marks of a width that no dog could produce are part of the evidence."
     ],
-    "hash_code_list_definition_mean": "1030999447"
+    "hash_code_list_example": "292936322"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fantasy_cb_dmean_5000_it.json",
@@ -714,18 +451,16 @@
         "id_image": "fantasy_3839827"
       }
     ],
-    "hash_code_list_img": "-304753269",
-    "list_definition_mean": [
-      {
-        "mean_english": "hình ảnh tưởng tượng",
-        "definition": "an imaginary (especially not realistic) scene, story etc",
-        "ex_of_definition_list": [
-          "He was always having fantasies about becoming rich and famous",
-          "(also adjective) He lived in a fantasy world."
-        ]
-      }
+    "hash_code_list_img": "-728665183",
+    "list_example": [
+      "(also adjective) He lived in a fantasy world.",
+      "We believe that one reason for this difficulty is that fantasy is a background mental state which has to compete with foreground input-output processing.",
+      "This chapter explores the flipside of the symbolist fantasy that voices might float free from bodies.",
+      "Readers, it appears, were invited to engage in reflexive fantasy by associating their desired state of being with that of a trained psychologist.",
+      "But rejecting the fantasy in favour of realistic stagings and speech-like intonations, it cuts itself off from its very essence.",
+      "But this fantasy also exacts a price in fear."
     ],
-    "hash_code_list_definition_mean": "791528486"
+    "hash_code_list_example": "1464455559"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fan_cb_dmean_5000_it.json",
@@ -757,47 +492,14 @@
         "id_image": "fan_689332"
       }
     ],
-    "hash_code_list_img": "449568809",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái quạt",
-        "definition": "a flat instrument held in the hand and waved to direct a current of air across the face in hot weather",
-        "ex_of_definition_list": [
-          "Ladies used to carry fans to keep themselves cool."
-        ]
-      },
-      {
-        "mean_english": "quạt máy",
-        "definition": "a mechanical instrument causing a current of air",
-        "ex_of_definition_list": [
-          "He has had a fan fitted in the kitchen for extracting cooking smells."
-        ]
-      },
-      {
-        "mean_english": "quạt",
-        "definition": "to cool (as if) with a fan",
-        "ex_of_definition_list": [
-          "She sat in the corner, fanning herself."
-        ]
-      },
-      {
-        "mean_english": "thổi bùng",
-        "definition": "to increase or strengthen (a fire) by directing air towards it with a fan etc",
-        "ex_of_definition_list": [
-          "They fanned the fire until it burst into flames."
-        ]
-      },
-      {
-        "mean_english": "người hâm mộ; người say mê",
-        "definition": "an enthusiastic admirer of a sport, hobby or well-known person",
-        "ex_of_definition_list": [
-          "I’m a great fan of his",
-          "football fans",
-          "(also adjective) fan mail/letters (= letters etc sent by admirers)."
-        ]
-      }
+    "hash_code_list_img": "-15356693",
+    "list_example": [
+      "He has had a fan fitted in the kitchen for extracting cooking smells.",
+      "I’m a great fan of his",
+      "(also adjective) fan mail/letters (= letters etc sent by admirers).",
+      "These networks are paths to employment, peer assessment and fan pleasure all at the same time in ways that seem impossible to untangle."
     ],
-    "hash_code_list_definition_mean": "1792485956"
+    "hash_code_list_example": "1681637850"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/farewell_cb_dmean_5000_it.json",
@@ -816,25 +518,17 @@
         "id_image": "farewell_2165932"
       }
     ],
-    "hash_code_list_img": "780043543",
-    "list_definition_mean": [
-      {
-        "mean_english": "lời chào tạm biệt",
-        "definition": "an act of saying goodbye",
-        "ex_of_definition_list": [
-          "They said their farewells at the station",
-          "(also adjective) a farewell dinner."
-        ]
-      },
-      {
-        "mean_english": "tạm biệt",
-        "definition": "goodbye",
-        "ex_of_definition_list": [
-          "‘Farewell for ever!’ she cried."
-        ]
-      }
+    "hash_code_list_img": "439576869",
+    "list_example": [
+      "(also adjective) a farewell dinner.",
+      "It wasn't a formal procession, instead everybody bade him farewell as the mood took them.",
+      "They were opportunities to both bid farewell and to celebrate their collective work.",
+      "Each time they moved away, a farewell dinner was prepared.",
+      "Some of the memorabilia, such as newspaper articles or photographs, were set aside for use later in the farewell ritual.",
+      "We know the remainder of this grave farewell from the first lines of this essay.",
+      "To him, certainly, retirement does not mean a farewell to intellectual production."
     ],
-    "hash_code_list_definition_mean": "-2013780329"
+    "hash_code_list_example": "-932275057"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/farmer_cb_dmean_5000_it.json",
@@ -862,17 +556,12 @@
         "id_image": "farmer_949560"
       }
     ],
-    "hash_code_list_img": "-1860769721",
-    "list_definition_mean": [
-      {
-        "mean_english": "người nông dân; người chủ trại",
-        "definition": "the owner or tenant of a farm who works on the land etc",
-        "ex_of_definition_list": [
-          "a dairy farmer."
-        ]
-      }
+    "hash_code_list_img": "1538838417",
+    "list_example": [
+      "As a simplified representation of the farm labour force, the farmer carries out tasks on both sows and batches.",
+      "The processes and successes of two farmer research projects were studied."
     ],
-    "hash_code_list_definition_mean": "581639081"
+    "hash_code_list_example": "-2013485245"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/farmland_cb_dmean_5000_it.json",
@@ -890,17 +579,15 @@
         "id_image": "farmland_307798"
       }
     ],
-    "hash_code_list_img": "1852790881",
-    "list_definition_mean": [
-      {
-        "mean_english": "đất nông nghiệp",
-        "definition": "land which is used for farming",
-        "ex_of_definition_list": [
-          "The family owns 300 acres of farmland."
-        ]
-      }
+    "hash_code_list_img": "554441660",
+    "list_example": [
+      "First, farmland consolidation and large-scale infrastructure projects made rotation irrigation on a large-scale possible.",
+      "The predator was more abundant on farmland willows and is probably the main reason for the difference in egg survival between the two habitats.",
+      "The survival of eggs exposed to natural enemies was examined to see if predation could explain the low abundance of leaf beetles on farmland willows.",
+      "Predatory beetles contribute to the control of crop pests and are an important food resource for farmland birds.",
+      "The fallow period, ranging from 3-15 y, depends strongly on the size of the individually-owned farmland (in general, 3-20 ha)."
     ],
-    "hash_code_list_definition_mean": "1734811088"
+    "hash_code_list_example": "1027125281"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/farm_cb_dmean_5000_it.json",
@@ -940,32 +627,15 @@
         "id_image": "farm_804587"
       }
     ],
-    "hash_code_list_img": "-1050264975",
-    "list_definition_mean": [
-      {
-        "mean_english": "trại; trang trại",
-        "definition": "an area of land, including buildings, used for growing crops, breeding and keeping cows, sheep, pigs etc",
-        "ex_of_definition_list": [
-          "Much of England is good agricultural land and there are many farms."
-        ]
-      },
-      {
-        "mean_english": "nhà ở trong trang trại",
-        "definition": "the farmer’s house and the buildings near it in such a place",
-        "ex_of_definition_list": [
-          "We visited the farm",
-          "(also adjective) a farm kitchen."
-        ]
-      },
-      {
-        "mean_english": "cày cấy; trồng trọt",
-        "definition": "to cultivate (the land) in order to grow crops, breed and keep animals etc",
-        "ex_of_definition_list": [
-          "He farms (5,000 acres) in the south."
-        ]
-      }
+    "hash_code_list_img": "-1426181675",
+    "list_example": [
+      "(also adjective) a farm kitchen.",
+      "Most governments are loath to increase water prices for fear of political retribution from an active farm lobby.",
+      "Thus, attributes of farm fields, and particularly the number of planted trees, are important determinants of household choices.",
+      "This is under the assumption that farmers are risk neutral and that net farm returns () represent wealth.",
+      "For all farm categories, current acreage increased from 5 years in the past, and farmers predicted further increases in the future."
     ],
-    "hash_code_list_definition_mean": "-570729505"
+    "hash_code_list_example": "769947837"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/far_cb_dmean_5000_it.json",
@@ -986,45 +656,20 @@
         "id_image": "far_2165949"
       }
     ],
-    "hash_code_list_img": "469053231",
-    "list_definition_mean": [
-      {
-        "mean_english": "xa; xa xưa;",
-        "definition": "indicating distance, progress etc",
-        "ex_of_definition_list": [
-          "How far is it from here to his house?"
-        ]
-      },
-      {
-        "mean_english": "xa",
-        "definition": "at or to a long way away",
-        "ex_of_definition_list": [
-          "She went far away/off."
-        ]
-      },
-      {
-        "mean_english": "rất nhiều",
-        "definition": "very much",
-        "ex_of_definition_list": [
-          "She was a far better swimmer than her friend (was)."
-        ]
-      },
-      {
-        "mean_english": "xa",
-        "definition": "distant; a long way away",
-        "ex_of_definition_list": [
-          "a far country."
-        ]
-      },
-      {
-        "mean_english": "xa hơn",
-        "definition": "more distant (usually of two things)",
-        "ex_of_definition_list": [
-          "He lives on the far side of the lake."
-        ]
-      }
+    "hash_code_list_img": "519879199",
+    "list_example": [
+      "How far is it from here to his house?",
+      "She went far away/off.",
+      "She was a far better swimmer than her friend (was).",
+      "a far country.",
+      "He lives on the far side of the lake.",
+      "It was an attempt to get his support for their plans so far as they themselves understood them.",
+      "To sum up, we have thus far established a sufficient condition for eradication to be optimal, and we have characterized the other possible qualitative solutions.",
+      "In the end this elaborate process has so far sustained the electoral dominance of the two national parties.",
+      "Improving nitrogen-®xing systems and integrating them into sustainable rice far ming.",
+      "How far can the number of working languages be reduced?"
     ],
-    "hash_code_list_definition_mean": "-1695135893"
+    "hash_code_list_example": "232458459"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fashion_cb_dmean_5000_it.json",
@@ -1059,33 +704,11 @@
         "id_image": "fashion_5825559"
       }
     ],
-    "hash_code_list_img": "-2091487531",
-    "list_definition_mean": [
-      {
-        "mean_english": "thời trang",
-        "definition": "the style and design of clothes",
-        "ex_of_definition_list": [
-          "women’s fashions",
-          "Are you interested in fashion?",
-          "(also adjective) a fashion magazine."
-        ]
-      },
-      {
-        "mean_english": "mốt thời thượng",
-        "definition": "the way of behaving, dressing etc which is popular at a certain time",
-        "ex_of_definition_list": [
-          "Fashions in music and art are always changing."
-        ]
-      },
-      {
-        "mean_english": "lề thói hay cách làm cái gì",
-        "definition": "a way of doing something",
-        "ex_of_definition_list": [
-          "She spoke in a very strange fashion."
-        ]
-      }
+    "hash_code_list_img": "2012320928",
+    "list_example": [
+      "(also adjective) a fashion magazine."
     ],
-    "hash_code_list_definition_mean": "-20428915"
+    "hash_code_list_example": "1754458979"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fast_cb_dmean_5000_it.json",
@@ -1129,59 +752,15 @@
         "id_image": "fast_6316099"
       }
     ],
-    "hash_code_list_img": "1237777213",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhanh",
-        "definition": "quick-moving",
-        "ex_of_definition_list": [
-          "a fast car."
-        ]
-      },
-      {
-        "mean_english": "nhanh",
-        "definition": "quick",
-        "ex_of_definition_list": [
-          "a fast worker."
-        ]
-      },
-      {
-        "mean_english": "(đồng hồ) chạy nhanh",
-        "definition": "(of a clock, watch etc) showing a time in advance of the correct time",
-        "ex_of_definition_list": [
-          "My watch is five minutes fast."
-        ]
-      },
-      {
-        "mean_english": "vững vàng; chắc chắn",
-        "definition": "quickly",
-        "ex_of_definition_list": [
-          "She speaks so fast I can’t understand her."
-        ]
-      },
-      {
-        "mean_english": "ăn chay; nhịn đói",
-        "definition": "to go without food, especially for religious or medical reasons",
-        "ex_of_definition_list": [
-          "Muslims fast during the festival of Ramadan."
-        ]
-      },
-      {
-        "mean_english": "thời kỳ nhịn ăn, ăn chay, ăn kiêng",
-        "definition": "a time or act of fasting",
-        "ex_of_definition_list": [
-          "She has just finished two days’ fast."
-        ]
-      },
-      {
-        "mean_english": "chắc chắn",
-        "definition": "firm; fixed",
-        "ex_of_definition_list": [
-          "She made her end of the rope fast to a tree."
-        ]
-      }
+    "hash_code_list_img": "-1336816101",
+    "list_example": [
+      "a fast car.",
+      "a fast worker.",
+      "She speaks so fast I can’t understand her.",
+      "Muslims fast during the festival of Ramadan.",
+      "She made her end of the rope fast to a tree."
     ],
-    "hash_code_list_definition_mean": "481613361"
+    "hash_code_list_example": "-773017691"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fatherhood_cb_dmean_5000_it.json",
@@ -1214,17 +793,11 @@
         "id_image": "fatherhood_859980"
       }
     ],
-    "hash_code_list_img": "1989143432",
-    "list_definition_mean": [
-      {
-        "mean_english": "cương vị làm bố",
-        "definition": "the state or condition of being a father",
-        "ex_of_definition_list": [
-          "Now that the children are older I am enjoying fatherhood."
-        ]
-      }
+    "hash_code_list_img": "14775270",
+    "list_example": [
+      "We must not, however, forget that motherhood and fatherhood are essential rights if we are to ensure the possibility of achieving a work-life balance."
     ],
-    "hash_code_list_definition_mean": "2014166774"
+    "hash_code_list_example": "1137886488"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/father_cb_dmean_5000_it.json",
@@ -1250,31 +823,12 @@
         "id_image": "father_437504"
       }
     ],
-    "hash_code_list_img": "-934262152",
-    "list_definition_mean": [
-      {
-        "mean_english": "cha; bố",
-        "definition": "a male parent, especially human",
-        "ex_of_definition_list": [
-          "Peter is her father."
-        ]
-      },
-      {
-        "mean_english": "cha cố",
-        "definition": "the title of a (usually Roman Catholic) priest",
-        "ex_of_definition_list": [
-          "I met Father Sullivan this morning."
-        ]
-      },
-      {
-        "mean_english": "là cha của (ai); sinh ra",
-        "definition": "to be the father of",
-        "ex_of_definition_list": [
-          "King Charles II fathered a number of children."
-        ]
-      }
+    "hash_code_list_img": "418137772",
+    "list_example": [
+      "Peter is her father.",
+      "King Charles II fathered a number of children."
     ],
-    "hash_code_list_definition_mean": "-11255318"
+    "hash_code_list_example": "1011717584"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fatigue_cb_dmean_5000_it.json",
@@ -1313,24 +867,11 @@
         "id_image": "fatigue_4412652"
       }
     ],
-    "hash_code_list_img": "1615258093",
-    "list_definition_mean": [
-      {
-        "mean_english": "mệt nhọc",
-        "definition": "great tiredness (caused especially by hard work or effort)",
-        "ex_of_definition_list": [
-          "He was suffering from fatigue."
-        ]
-      },
-      {
-        "mean_english": "sự giảm sức chịu đựng của kim loại",
-        "definition": "(especially in metals) weakness caused by continual use",
-        "ex_of_definition_list": [
-          "metal fatigue."
-        ]
-      }
+    "hash_code_list_img": "-84572066",
+    "list_example": [
+      "At 6 months, fatigue was best predicted by female gender and illness perceptions, and at 12 months by female gender and a symptoms-disability factor."
     ],
-    "hash_code_list_definition_mean": "-1413788969"
+    "hash_code_list_example": "-464278664"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fatty_cb_dmean_5000_it.json",
@@ -1348,17 +889,11 @@
         "id_image": "fatty_3411775"
       }
     ],
-    "hash_code_list_img": "2033490816",
-    "list_definition_mean": [
-      {
-        "mean_english": "như mỡ; có nhiều mỡ",
-        "definition": "containing, or like, fat",
-        "ex_of_definition_list": [
-          "This meat is very fatty."
-        ]
-      }
+    "hash_code_list_img": "92262058",
+    "list_example": [
+      "This meat is very fatty."
     ],
-    "hash_code_list_definition_mean": "417816864"
+    "hash_code_list_example": "-249063050"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fat_cb_dmean_5000_it.json",
@@ -1389,39 +924,20 @@
         "id_image": "fat_3703381"
       }
     ],
-    "hash_code_list_img": "1702116641",
-    "list_definition_mean": [
-      {
-        "mean_english": "mỡ; chất béo",
-        "definition": "an oily substance made by the bodies of animals and by some plants",
-        "ex_of_definition_list": [
-          "This meat has got a lot of fat on it."
-        ]
-      },
-      {
-        "mean_english": "dầu; mỡ ăn",
-        "definition": "a kind of such substance, used especially for cooking",
-        "ex_of_definition_list": [
-          "There are several good cooking fats on the market."
-        ]
-      },
-      {
-        "mean_english": "béo mập",
-        "definition": "having a lot of fat on one’s body; large, heavy and round in shape",
-        "ex_of_definition_list": [
-          "He was a very fat child."
-        ]
-      },
-      {
-        "mean_english": "nhiều về số lượng; giá trị",
-        "definition": "large or abundant",
-        "ex_of_definition_list": [
-          "Her business made a fat profit",
-          "A fat lot of good that is! (= That is no good at all)"
-        ]
-      }
+    "hash_code_list_img": "1384924148",
+    "list_example": [
+      "This meat has got a lot of fat on it.",
+      "He was a very fat child.",
+      "Her business made a fat profit",
+      "A fat lot of good that is! (= That is no good at all)",
+      "After treatment, dosed birds showed higher values for fat index, pectoral angle and residual body weights than control birds (fig. 2).",
+      "There were no differences between pupae from control and selection lines in fat reserves (measured by ether extraction ; unpublished data).",
+      "We measured 5 variables in each experimental animal - haemocyte concentration, anti-bacterial activity, phenoloxidase activity, fat body size and ovary development.",
+      "The fat element holds ei entries, and we assume that our tree lookup algorithm takes at most kr log ei amortized time.",
+      "The effect of the transgene was dependent on the genetic background for almost all body weights and relative gonadal-fat-pad weights, but less for fat content.",
+      "Some workers had their body cavities filled with iridescent fat globules, a condition suggesting the presence of an iridescent virus."
     ],
-    "hash_code_list_definition_mean": "-1177534886"
+    "hash_code_list_example": "-110795489"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/faucet_cb_dmean_5000_it.json",
@@ -1454,17 +970,16 @@
         "id_image": "faucet_2933841"
       }
     ],
-    "hash_code_list_img": "1195805022",
-    "list_definition_mean": [
-      {
-        "mean_english": "vòi",
-        "definition": "a device which you turn on and off to control the flow of water from a pipe; tap British",
-        "ex_of_definition_list": [
-          "the hot/cold faucet."
-        ]
-      }
+    "hash_code_list_img": "1266745422",
+    "list_example": [
+      "This is normally done at a small faucet or shower located in the same room as the tub, while seated on a small stool.",
+      "The flow into the bathtub is water flowing through the faucet while the outflow is water flowing down the drain.",
+      "The man begins sniffling while cutting onions, and goes to the bathroom to wash his eyes, silently standing while letting the faucet run.",
+      "The model of non-conserved spread can best be represented by a continuously running faucet running through a series of funnels connected by tubes.",
+      "The faucet closes its valve again after a few seconds or when it no longer detects the presence of hands.",
+      "She tells him to get an apartment and install the faucet there to remind him that he is capable of being a huge phony again."
     ],
-    "hash_code_list_definition_mean": "656977394"
+    "hash_code_list_example": "-1611261502"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fault_cb_dmean_5000_it.json",
@@ -1485,39 +1000,17 @@
         "id_image": "fault_2867347"
       }
     ],
-    "hash_code_list_img": "1453795494",
-    "list_definition_mean": [
-      {
-        "mean_english": "khuyết điểm",
-        "definition": "a mistake; something for which one is to blame",
-        "ex_of_definition_list": [
-          "The accident was your fault."
-        ]
-      },
-      {
-        "mean_english": "tội; lỗi",
-        "definition": "an imperfection; something wrong",
-        "ex_of_definition_list": [
-          "There is a fault in this machine",
-          "a fault in his character."
-        ]
-      },
-      {
-        "mean_english": "(địa chất) phay; sự đứt đoạn",
-        "definition": "a crack in the rock surface of the earth",
-        "ex_of_definition_list": [
-          "faults in the earth’s crust."
-        ]
-      },
-      {
-        "mean_english": "phát hiện khuyết điểm",
-        "definition": "to find fault with",
-        "ex_of_definition_list": [
-          "I couldn’t fault him / his piano-playing."
-        ]
-      }
+    "hash_code_list_img": "2142521174",
+    "list_example": [
+      "There is a fault in this machine",
+      "a fault in his character.",
+      "I couldn’t fault him / his piano-playing.",
+      "But then he could not have been at fault for not using stronger cables in the first place.",
+      "Sub-horizontal irregular grooves across fault surface are excavator marks, not primary features.",
+      "Such algorithms are referred to as robust fault diagnosis schemes.",
+      "If these relatively minor fold and fault trends are oblique to the major fault, this has suggested obliqueness in the stress field that formed them."
     ],
-    "hash_code_list_definition_mean": "-753031820"
+    "hash_code_list_example": "1143445452"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/favourite_cb_dmean_5000_it.json",
@@ -1551,24 +1044,15 @@
         "id_image": "favourite_4780253"
       }
     ],
-    "hash_code_list_img": "-2058284690",
-    "list_definition_mean": [
-      {
-        "mean_english": "được ưa thích nhất",
-        "definition": "best-liked; preferred",
-        "ex_of_definition_list": [
-          "His favourite city is Paris."
-        ]
-      },
-      {
-        "mean_english": "người hoặc vật được yêu thích hơn những người hoặc vật khác",
-        "definition": "a person or thing that one likes best",
-        "ex_of_definition_list": [
-          "Of all her paintings that is my favourite."
-        ]
-      }
+    "hash_code_list_img": "-1288626722",
+    "list_example": [
+      "His favourite city is Paris.",
+      "To be more precise, he runs away from the law by defiantly refusing to win the race as the favourite competitor.",
+      "It must be added that young listeners are not always concerned as to which genres their favourite music belongs.",
+      "Both these standpoints are popular, though convergence appears to be the favourite at present.",
+      "During the 1950s, audiovisual material became the favourite toy of most colonial officials responsible for welfare and development programs."
     ],
-    "hash_code_list_definition_mean": "-1597289964"
+    "hash_code_list_example": "1434210234"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fawn_cb_dmean_5000_it.json",
@@ -1589,24 +1073,17 @@
         "id_image": "fawn_5150889"
       }
     ],
-    "hash_code_list_img": "1722366788",
-    "list_definition_mean": [
-      {
-        "mean_english": "có màu nâu vàng nhạt",
-        "definition": "(also adjective) (of) its colour/color, a light yellowish brown",
-        "ex_of_definition_list": [
-          "a fawn sweater."
-        ]
-      },
-      {
-        "mean_english": "xun xoe; bợ đỡ",
-        "definition": "(with upon) to be too humble or to flatter (someone) in a servile way",
-        "ex_of_definition_list": [
-          "The courtiers fawned upon the queen."
-        ]
-      }
+    "hash_code_list_img": "56757962",
+    "list_example": [
+      "a fawn sweater.",
+      "I thought fawn colour was called mauve.",
+      "They are fawn with small lateral dots on each side.",
+      "A red deer fawn lies down and keeps absolutely still and will not be found unless the wolf actually treads on it.",
+      "They will fawn all over him and act all touchy-feely-cuddly.",
+      "The short, smooth coat is a light grey to fawn colour, fading quickly to white on the undersides and legs.",
+      "I represent, for a time at any rate, a city which has had a great record as the forerunner of regional fawn planning."
     ],
-    "hash_code_list_definition_mean": "-247713844"
+    "hash_code_list_example": "-337431163"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fax_cb_dmean_5000_it.json",
@@ -1637,38 +1114,18 @@
         "id_image": "fax_3447631"
       }
     ],
-    "hash_code_list_img": "45275446",
-    "list_definition_mean": [
-      {
-        "mean_english": "bản phắc",
-        "definition": "a facsimile; a written message sent by a special telephone system",
-        "ex_of_definition_list": [
-          "I’ll send you a fax."
-        ]
-      },
-      {
-        "mean_english": "máy fax",
-        "definition": "(also fax machine) a machine for transmitting and receiving faxes",
-        "ex_of_definition_list": [
-          "Our new fax has a separate telephone line."
-        ]
-      },
-      {
-        "mean_english": "số fax",
-        "definition": "a fax number",
-        "ex_of_definition_list": [
-          "fax 8139007."
-        ]
-      },
-      {
-        "mean_english": "gửi fax",
-        "definition": "to send someone a fax",
-        "ex_of_definition_list": [
-          "I’ll fax you the document tomorrow."
-        ]
-      }
+    "hash_code_list_img": "2108688617",
+    "list_example": [
+      "Our new fax has a separate telephone line.",
+      "fax 8139007.",
+      "I’ll fax you the document tomorrow.",
+      "This trend is explained by lower postage and administration costs when using the e-fax capabilities of the automated documentation system.",
+      "In 1990, a firm would have sliced its drawings into strips to be fed through a fax machine for reassembly at the receiving end.",
+      "A few years later that situation had changed dramatically with many academic departments and various administrative offices, along with individual faculty members, possessing fax machines.",
+      "A follow-up reminder questionnaire was send by fax to those that did not reply within 3 weeks after sending the first questionnaire.",
+      "Pastors who cannot afford electricity in their own houses have access to electronic mail and fax machines in their missionaries' residences."
     ],
-    "hash_code_list_definition_mean": "161783086"
+    "hash_code_list_example": "710602113"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fear_cb_dmean_5000_it.json",
@@ -1703,33 +1160,13 @@
         "id_image": "fear_817782"
       }
     ],
-    "hash_code_list_img": "-1446369817",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự sợ hãi",
-        "definition": "(a) feeling of great worry or anxiety caused by the knowledge of danger",
-        "ex_of_definition_list": [
-          "The soldier tried not to show his fear",
-          "She has a deep-seated fear of spiders."
-        ]
-      },
-      {
-        "mean_english": "sợ (ai/cái gì)",
-        "definition": "to feel fear because of (something)",
-        "ex_of_definition_list": [
-          "She feared her father when he was angry",
-          "I fear for my father’s safety (= I am worried because I think he is in danger)."
-        ]
-      },
-      {
-        "mean_english": "lo ngại",
-        "definition": "to regret",
-        "ex_of_definition_list": [
-          "I fear you will not be able to see him today."
-        ]
-      }
+    "hash_code_list_img": "-391444846",
+    "list_example": [
+      "She has a deep-seated fear of spiders.",
+      "I fear for my father’s safety (= I am worried because I think he is in danger).",
+      "I fear you will not be able to see him today."
     ],
-    "hash_code_list_definition_mean": "-1935369396"
+    "hash_code_list_example": "335057738"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/feast_cb_dmean_5000_it.json",
@@ -1749,31 +1186,12 @@
         "id_image": "feast_2077102"
       }
     ],
-    "hash_code_list_img": "1379031391",
-    "list_definition_mean": [
-      {
-        "mean_english": "bữa tiệc",
-        "definition": "a large and rich meal, usually eaten to celebrate some occasion",
-        "ex_of_definition_list": [
-          "The king invited them to a feast in the palace."
-        ]
-      },
-      {
-        "mean_english": "ngày lễ hội",
-        "definition": "a particular day on which some (especially religious) person or event is remembered and celebrated",
-        "ex_of_definition_list": [
-          "Today is the feast of St Stephen."
-        ]
-      },
-      {
-        "mean_english": "ăn cỗ",
-        "definition": "to eat (as if) at a feast",
-        "ex_of_definition_list": [
-          "We feasted all day."
-        ]
-      }
+    "hash_code_list_img": "1824877393",
+    "list_example": [
+      "The king invited them to a feast in the palace.",
+      "Today is the feast of St Stephen."
     ],
-    "hash_code_list_definition_mean": "-1818471762"
+    "hash_code_list_example": "1704570027"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/feather_cb_dmean_5000_it.json",
@@ -1797,24 +1215,20 @@
         "id_image": "feather_5833251"
       }
     ],
-    "hash_code_list_img": "-364881807",
-    "list_definition_mean": [
-      {
-        "mean_english": "lông vũ; lông (chim)",
-        "definition": "one of the things that grow from a bird’s skin that form the covering of its body",
-        "ex_of_definition_list": [
-          "They cleaned the oil off the seagull’s feathers."
-        ]
-      },
-      {
-        "mean_english": "trang hoàng bằng lông",
-        "definition": "to line, cover or decorate with feathers",
-        "ex_of_definition_list": [
-          "The eagle feathers its nest with down from its own breast."
-        ]
-      }
+    "hash_code_list_img": "-1863200024",
+    "list_example": [
+      "They cleaned the oil off the seagull’s feathers.",
+      "The eagle feathers its nest with down from its own breast.",
+      "On the other hand, reviews of such massive works cannot be of equal nature (or length) or the reviewers risk the academic equivalent of tar and feathers.",
+      "The north masonry facade of the causeway, capped by a parapet, was significantly more formal than the southern edge of the causeway, where the ballast feathered out.",
+      "In and of itself the normative critique ruffles relatively few liberal feathers.",
+      "He smelt strongly of perfumed oil and carried with him a number of peacock feathers and a bundle of grubby charms.",
+      "Suddenly, out of the sky slid two, four, 10, 20 teal, the wind whistling through their feathers as they side-slipped into the flash.",
+      "Edible birds' nests, beeswax, feathers of birds of paradise, and hornbill ivory were also in demand as were products from the mangrove forests such as cutch and nipah.",
+      "When feathers were a primary exaptation, they presumably did not possess such design.",
+      "Birds of many feathers: the formation and structure of mixed species flocks of forest birds."
     ],
-    "hash_code_list_definition_mean": "-1970587063"
+    "hash_code_list_example": "1658251249"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/feature_cb_dmean_5000_it.json",
@@ -1841,46 +1255,14 @@
         "id_image": "feature_6133670"
       }
     ],
-    "hash_code_list_img": "1884714165",
-    "list_definition_mean": [
-      {
-        "mean_english": "đặc trưng",
-        "definition": "a mark by which anything is known; a quality",
-        "ex_of_definition_list": [
-          "The use of bright colours/colors is one of the features of her painting."
-        ]
-      },
-      {
-        "mean_english": "nét (mặt)",
-        "definition": "one of the parts of one’s face (eyes, nose etc)",
-        "ex_of_definition_list": [
-          "She has very regular features."
-        ]
-      },
-      {
-        "mean_english": "bài đặc biệt (trong một tờ báo)",
-        "definition": "a special article in a newspaper",
-        "ex_of_definition_list": [
-          "‘The Times’ is doing a feature on winter holidays."
-        ]
-      },
-      {
-        "mean_english": "tiết mục chủ chốt; bộ phim chính",
-        "definition": "the main film in a cinema / movie theater programme/program etc",
-        "ex_of_definition_list": [
-          "The feature begins at 7.30",
-          "(also adjective) a feature film."
-        ]
-      },
-      {
-        "mean_english": "dành vai nổi bật cho",
-        "definition": "to give or have a part (especially an important one)",
-        "ex_of_definition_list": [
-          "That film features the best of the British actresses."
-        ]
-      }
+    "hash_code_list_img": "222485346",
+    "list_example": [
+      "‘The Times’ is doing a feature on winter holidays.",
+      "The feature begins at 7.30",
+      "(also adjective) a feature film.",
+      "A second common feature of qualitative research is the emphasis upon the description of the setting being investigated."
     ],
-    "hash_code_list_definition_mean": "-2130602905"
+    "hash_code_list_example": "1106175773"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/feedback_cb_dmean_5000_it.json",
@@ -1914,17 +1296,11 @@
         "id_image": "feedback_813357"
       }
     ],
-    "hash_code_list_img": "-812534785",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự phản hồi",
-        "definition": "advice or criticism about how successful something or someone’s work is",
-        "ex_of_definition_list": [
-          "After the lesson, the observer provides feedback to the teacher."
-        ]
-      }
+    "hash_code_list_img": "559481983",
+    "list_example": [
+      "After the lesson, the observer provides feedback to the teacher."
     ],
-    "hash_code_list_definition_mean": "370196571"
+    "hash_code_list_example": "412637750"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fee_cb_dmean_5000_it.json",
@@ -1952,19 +1328,21 @@
         "id_image": "fee_5455911"
       }
     ],
-    "hash_code_list_img": "1577847943",
-    "list_definition_mean": [
-      {
-        "mean_english": "tiền thù lao",
-        "definition": "the price paid for work done by a doctor, lawyer fee or for some special service or right",
-        "ex_of_definition_list": [
-          "the lawyer’s fee",
-          "an entrance fee",
-          "university fees."
-        ]
-      }
+    "hash_code_list_img": "-1701960922",
+    "list_example": [
+      "the lawyer’s fee",
+      "an entrance fee",
+      "university fees.",
+      "When fees are relatively high, it is feasible for care-home providers to bear such risks.",
+      "This involves thinking about occupancy fees, staff morale, and the contentment of residents, as well as her own well-being and ability to cope.",
+      "They spoke of \"deciding on a fee,\" but had it been a fixed fee, there would have been no need for negotiation.",
+      "There are also suggestions to integrate the fee-for-service payment system for hospital doctors with the hospital budget (cf., infra).",
+      "For example, in order to discourage physicians from dispensing medicines, fees are increased if the physician writes prescriptions for outside pharmacies.",
+      "Considerable rent arrears had built up, and unauthorized fees were being exacted.",
+      "For every paper and writ filed, warrant served, abolitionist jailed, fees 20.",
+      "Figure 2 shows bankruptcy fees earned by lawyers; fees increased by a factor of five over the decade."
     ],
-    "hash_code_list_definition_mean": "427340020"
+    "hash_code_list_example": "1850616537"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/female_cb_dmean_5000_it.json",
@@ -1988,18 +1366,12 @@
         "id_image": "female_2680973"
       }
     ],
-    "hash_code_list_img": "-383195731",
-    "list_definition_mean": [
-      {
-        "mean_english": "đàn bà; con vật giống cái",
-        "definition": "(a person, animal etc) of the sex that gives birth to children, produces eggs etc",
-        "ex_of_definition_list": [
-          "a female blackbird",
-          "the female of the species."
-        ]
-      }
+    "hash_code_list_img": "1031434873",
+    "list_example": [
+      "a female blackbird",
+      "the female of the species."
     ],
-    "hash_code_list_definition_mean": "544865563"
+    "hash_code_list_example": "-730778237"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/feminist_cb_dmean_5000_it.json",
@@ -2017,17 +1389,19 @@
         "id_image": "feminist_1425419"
       }
     ],
-    "hash_code_list_img": "860285221",
-    "list_definition_mean": [
-      {
-        "mean_english": "người ủng hộ thuyết nam nữ bình quyền",
-        "definition": "a supporter of feminism",
-        "ex_of_definition_list": [
-          "a radical feminist."
-        ]
-      }
+    "hash_code_list_img": "1253691775",
+    "list_example": [
+      "a radical feminist.",
+      "To a certain extent they were clear with judicial authorities on one side and feminists on the other.",
+      "The second voice of opposition to the conceptualisation of children as rights-bearing individuals has come from feminists.",
+      "Today radical feminists decry what is seen as the biological determinism exemplified by such misunderstood statements as 'anatomy is destiny'.",
+      "The article examines the conceptual frameworks developed by feminists who argue for an ethics of care as a central analytic referent in social policy.",
+      "The 1980s were a period of intense activity for feminists.",
+      "As more truly global connections develop, feminists are working to move beyond these differences.",
+      "I spoke to a number of feminists, both black and white.",
+      "Early feminists had both to denaturalize the feminization of fashion and to degender virtue."
     ],
-    "hash_code_list_definition_mean": "1555521679"
+    "hash_code_list_example": "607869094"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fence_cb_dmean_5000_it.json",
@@ -2053,31 +1427,13 @@
         "id_image": "fence_899187"
       }
     ],
-    "hash_code_list_img": "412086506",
-    "list_definition_mean": [
-      {
-        "mean_english": "hàng rào",
-        "definition": "a line of wooden or metal posts joined by wood, wire etc to stop people, animals etc moving on to or off a piece of land",
-        "ex_of_definition_list": [
-          "The garden was surrounded by a wooden fence."
-        ]
-      },
-      {
-        "mean_english": "rào lại",
-        "definition": "to enclose (an area of land) with a fence eg to prevent people, animals etc from getting in",
-        "ex_of_definition_list": [
-          "We fenced off the field."
-        ]
-      },
-      {
-        "mean_english": "lảng tránh; đánh trống lảng",
-        "definition": "to avoid answering questions",
-        "ex_of_definition_list": [
-          "He fenced with me for half an hour before I got the truth."
-        ]
-      }
+    "hash_code_list_img": "-1829308010",
+    "list_example": [
+      "The garden was surrounded by a wooden fence.",
+      "We fenced off the field.",
+      "He fenced with me for half an hour before I got the truth."
     ],
-    "hash_code_list_definition_mean": "-787284124"
+    "hash_code_list_example": "323814966"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fender_cb_dmean_5000_it.json",
@@ -2102,17 +1458,15 @@
         "id_image": "fender_1924247"
       }
     ],
-    "hash_code_list_img": "-226968150",
-    "list_definition_mean": [
-      {
-        "mean_english": "đệm chắn",
-        "definition": "anything used to protect a boat from touching another, a pier etc",
-        "ex_of_definition_list": [
-          "She hung old car tyres/tires over the side of the boat to act as fenders."
-        ]
-      }
+    "hash_code_list_img": "571202038",
+    "list_example": [
+      "I ask: what burglarious offence of a home can justify a prison sentence of 14 years, unless it is aggravated burglary in which the of fender has committed violence?",
+      "The court would have to consider the options for punishing the of fender in the community which would be set out in a report from the probation service.",
+      "The mashed front fender and broken rear spring had softened everybody's concern for the automobile ' ' (153).",
+      "As previously discussed, pose perturbations to the grasped fender location were introduced by moving the robot tool frame by the known amounts about the quarter panel desired mating location.",
+      "The fender was dented in an accident."
     ],
-    "hash_code_list_definition_mean": "434495791"
+    "hash_code_list_example": "375691289"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fermentation_cb_dmean_5000_it.json",
@@ -2150,17 +1504,14 @@
         "id_image": "fermentation_6286417"
       }
     ],
-    "hash_code_list_img": "-1949790546",
-    "list_definition_mean": [
-      {
-        "mean_english": "(hành động hoặc quá trình) lên men",
-        "definition": "the chemical change occurring when something ferments or is fermented",
-        "ex_of_definition_list": [
-          "the fermentation of beer."
-        ]
-      }
+    "hash_code_list_img": "-670236546",
+    "list_example": [
+      "the fermentation of beer.",
+      "The changes in black leaf quality due to variations of plucking standard and fermentation time.",
+      "400 using a mixture of biological and advanced engineering technologies: an initial and quite standard anaerobic fermentation process would have been used to obtain biogas.",
+      "The methods used were : multiple tube fermentation method for faecal contamination indicators and membrane filtration techniques for salmonella, aeromonas and vibrio."
     ],
-    "hash_code_list_definition_mean": "619864234"
+    "hash_code_list_example": "-1949115988"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/ferry_cb_dmean_5000_it.json",
@@ -2194,24 +1545,11 @@
         "id_image": "ferry_3117953"
       }
     ],
-    "hash_code_list_img": "-502424921",
-    "list_definition_mean": [
-      {
-        "mean_english": "chuyên chở (bằng phà)",
-        "definition": "to carry (people, cars etc) from one place to another by boat (or plane)",
-        "ex_of_definition_list": [
-          "She ferried us across the river in a small boat."
-        ]
-      },
-      {
-        "mean_english": "phà",
-        "definition": "a boat which ferries people, cars etc from one place to another",
-        "ex_of_definition_list": [
-          "We took the cross-channel ferry."
-        ]
-      }
+    "hash_code_list_img": "1357470062",
+    "list_example": [
+      "We took the cross-channel ferry."
     ],
-    "hash_code_list_definition_mean": "1610294770"
+    "hash_code_list_example": "1598249571"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fertility_cb_dmean_5000_it.json",
@@ -2234,17 +1572,16 @@
         "id_image": "fertility_527028"
       }
     ],
-    "hash_code_list_img": "-1436419011",
-    "list_definition_mean": [
-      {
-        "mean_english": "tình trạng màu mỡ; khả năng sinh sản",
-        "definition": "the state or condition of being fertile",
-        "ex_of_definition_list": [
-          "Diet among girls can affect fertility."
-        ]
-      }
+    "hash_code_list_img": "1446670589",
+    "list_example": [
+      "The decline of fertility during the war contributed to the further expansion of the percentage of employed persons.",
+      "On many occasions attempts have been made to explain differences in fertility levels between different populations in terms of different breastfeeding practices.",
+      "As a result, they cannot consider the impact of cropping activities on the natural processes that support fertility recovery.",
+      "Farmers tend to reduce planting density as soil fertility decreases so that they obtain ears of a reasonable size.",
+      "Note that our definition of child quality is somewhat different from the common definition used in the fertility literature.",
+      "Legumes for sustaining soil fertility in lowland rice."
     ],
-    "hash_code_list_definition_mean": "305646333"
+    "hash_code_list_example": "-724400291"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fertilizer_cb_dmean_5000_it.json",
@@ -2277,17 +1614,15 @@
         "id_image": "fertilizer_5264906"
       }
     ],
-    "hash_code_list_img": "1340065835",
-    "list_definition_mean": [
-      {
-        "mean_english": "phân bón",
-        "definition": "a substance (manure, chemicals etc) used to make land (more) fertile",
-        "ex_of_definition_list": [
-          "artificial fertilizers."
-        ]
-      }
+    "hash_code_list_img": "2060508117",
+    "list_example": [
+      "Each rotation type was managed using either conventional management (pesticide and fertilizer applied according to standard recommendations) or organic management.",
+      "The implications of restricting use of fertilizer nitrogen for the productivity of arable crops, their profitability and potential pollution by nitrate.",
+      "These energy values assumed only fertilizer production costs; fertilizer application energy costs were included in machinery and fuel use.",
+      "The politically popular fertilizer subsidies are generally disappointing and should be replaced by market-smart grants or by institutional reforms.",
+      "The rich developed economies have achieved huge increases in agricultural output in the last 50 years, but with profligate inputs of energy, fertilizer and water."
     ],
-    "hash_code_list_definition_mean": "1911619681"
+    "hash_code_list_example": "19901464"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/festival_cb_dmean_5000_it.json",
@@ -2316,25 +1651,12 @@
         "id_image": "festival_3892281"
       }
     ],
-    "hash_code_list_img": "723481917",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngày hội; đại hội liên hoan",
-        "definition": "an occasion of public celebration",
-        "ex_of_definition_list": [
-          "In Italy, each village holds a festival once a year."
-        ]
-      },
-      {
-        "mean_english": "liên hoan",
-        "definition": "a season of musical, theatrical etc performances",
-        "ex_of_definition_list": [
-          "Every three years the city puts on a drama festival",
-          "(also adjective) a festival programme."
-        ]
-      }
+    "hash_code_list_img": "209498466",
+    "list_example": [
+      "In Italy, each village holds a festival once a year.",
+      "(also adjective) a festival programme."
     ],
-    "hash_code_list_definition_mean": "-889813174"
+    "hash_code_list_example": "-1641020140"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/festive_cb_dmean_5000_it.json",
@@ -2357,17 +1679,19 @@
         "id_image": "festive_6347838"
       }
     ],
-    "hash_code_list_img": "-1818257757",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc hoặc thích hợp với ngày lễ, ngày hội",
-        "definition": "happy and (as if) celebrating",
-        "ex_of_definition_list": [
-          "a festive atmosphere."
-        ]
-      }
+    "hash_code_list_img": "1905287959",
+    "list_example": [
+      "a festive atmosphere.",
+      "Before proceeding with this discussion, let us turn once more to our festive song.",
+      "Its utility in food and medicine, and its pleasing aesthetic contribution to gardens, landscapes, and festive occasions, crown its stature in the plant world.",
+      "On saint-day celebrations (mawlids) and other festive occasions, public recitations make the poetry available to a larger audience.",
+      "Africanisation of music, dance and other spiritual, aesthetic and festive expressions followed.",
+      "Despite a throwaway ending that does not really come off, as a festive concert overture this is, in modern political parlance, thoroughly 'fit for purpose'.",
+      "A short argument ensued between the women; some complied and some did not, and the festive mood was gone (plate 18).",
+      "In the event, most bands simply joined in with the festive spirit of their audience and helped to maintain the day's celebratory atmosphere.",
+      "Like a poet laureate, this professor often had to write poems and speeches for festive occasions, such as the king's birthday or the university's birthday."
     ],
-    "hash_code_list_definition_mean": "4400231"
+    "hash_code_list_example": "1069031791"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fetch_cb_dmean_5000_it.json",
@@ -2386,25 +1710,20 @@
         "id_image": "fetch_6401089"
       }
     ],
-    "hash_code_list_img": "149388410",
-    "list_definition_mean": [
-      {
-        "mean_english": "tìm về, đem về",
-        "definition": "to go and get (something or someone) and bring it",
-        "ex_of_definition_list": [
-          "He threw a stick for the dog to fetch.",
-          "Fetch me some bread."
-        ]
-      },
-      {
-        "mean_english": "bán được với (cái giá là)",
-        "definition": "to be sold for (a certain price)",
-        "ex_of_definition_list": [
-          "The picture fetched $100."
-        ]
-      }
+    "hash_code_list_img": "298939261",
+    "list_example": [
+      "He threw a stick for the dog to fetch.",
+      "The picture fetched $100.",
+      "As it is, this fruit only just fetches enough to produce a small profit over and above freight charges.",
+      "Then came a tube railway, and eventually that land was fetching £3,000 an acre, ten times-the original price.",
+      "In some cases the grower conveyed them to the market himself and in others the wholesaler in the market fetched them from the grower.",
+      "We know that at present houses which are 20 or 30 years old are fetching three or four times as much as their pre-war value.",
+      "Two-bedroom houses which prewar cost between £450 and £600 freehold are now fetching £20,000 to £25,000.",
+      "He might buy it and sell it a couple of months later and be surprised to find that what he paid £80 for fetches £24,000.",
+      "They fetched prices between, at the one extreme, £21 million, and, at the other.",
+      "First, she invents a key, encrypts the known body with it, and checks whether the result matches the encrypted authenticator fetched from the network."
     ],
-    "hash_code_list_definition_mean": "1547447559"
+    "hash_code_list_example": "1720511516"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fever_cb_dmean_5000_it.json",
@@ -2427,17 +1746,14 @@
         "id_image": "fever_3154453"
       }
     ],
-    "hash_code_list_img": "-1564483449",
-    "list_definition_mean": [
-      {
-        "mean_english": "cơn sốt",
-        "definition": "(an illness causing) high body temperature and quick heart-beat",
-        "ex_of_definition_list": [
-          "She is in bed with a fever"
-        ]
-      }
+    "hash_code_list_img": "1017348000",
+    "list_example": [
+      "In many developing regions of the world, typhoid fever remains a significant cause of morbidity and mortality at a substantial cost to health-care systems.",
+      "It was also used to study risk factors of haemorrhagic fever with renal syndrome and gave similar results as a concurrent case-control study [12].",
+      "Two mice ; intra-peritoneal injection of 0'5 c. c. defibrinated relapsing fever blood in 1*5 c. c. saline.",
+      "A model to estimate the financial consequences of classical swine fever outbreaks : principles and outcomes."
     ],
-    "hash_code_list_definition_mean": "2003448708"
+    "hash_code_list_example": "518818458"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fiction_cb_dmean_5000_it.json",
@@ -2455,17 +1771,19 @@
         "id_image": "fiction_2178098"
       }
     ],
-    "hash_code_list_img": "1002541067",
-    "list_definition_mean": [
-      {
-        "mean_english": "tiểu thuyết hư cấu",
-        "definition": "stories etc which tell of imagined, not real, characters and events (see also non-fiction)",
-        "ex_of_definition_list": [
-          "a work of fiction."
-        ]
-      }
+    "hash_code_list_img": "2018719323",
+    "list_example": [
+      "a work of fiction.",
+      "The contradictions and overdeterminations of their construction as stereotypes in the newspapers, cartoons, fictions, and polemics of the period are obvious.",
+      "In my view, it would have helped to clear up the myth and the fictions that abound in the area at the moment.",
+      "In almost every case, the fictions were gone through.",
+      "To be sure, we still know little about the affordability of non-scholarly works - songbooks, tracts, short fictions, medical manuals, household encyclopedias, and so forth.",
+      "Other, more successful humanistic works share the goal of transcending material existences through unabashedly creating fictions, and the focus on the pronoun is invaluable in these endeavors.",
+      "My own heart sank at the contents page, with chapters on sick beds and therapy, the home, women and the land, social welfare, and ' ' fictions for the village.",
+      "When development plans fail, new fictions are constructed to justify new interventions.",
+      "People know or assume that public fictions (novels, movies, cartoons, etc.) were created by specific people who had particular intentions for doing so."
     ],
-    "hash_code_list_definition_mean": "488011343"
+    "hash_code_list_example": "1648355723"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fiddle_cb_dmean_5000_it.json",
@@ -2497,44 +1815,17 @@
         "id_image": "fiddle_352491"
       }
     ],
-    "hash_code_list_img": "82035365",
-    "list_definition_mean": [
-      {
-        "mean_english": "đàn viôlông",
-        "definition": "a violin",
-        "ex_of_definition_list": [
-          "She played the fiddle."
-        ]
-      },
-      {
-        "mean_english": "ngón lừa bịp; sự gian lận",
-        "definition": "a dishonest business arrangement",
-        "ex_of_definition_list": [
-          "a tax fiddle."
-        ]
-      },
-      {
-        "mean_english": "chơi viôlông",
-        "definition": "to play a violin",
-        "ex_of_definition_list": [
-          "He fiddled while they danced."
-        ]
-      },
-      {
-        "mean_english": "chơi đùa không cẩn thận cái gì trong tay",
-        "definition": "(with with) to make restless, aimless movements",
-        "ex_of_definition_list": [
-          "Stop fiddling with your pencil!"
-        ]
-      },
-      {
-        "mean_english": "gian lận",
-        "definition": "to manage (money, accounts etc) dishonestly",
-        "ex_of_definition_list": [
-          "She has been fiddling the accounts for years."
-        ]
-      }
+    "hash_code_list_img": "1833260815",
+    "list_example": [
+      "She played the fiddle.",
+      "a tax fiddle.",
+      "He fiddled while they danced.",
+      "We must suspect that these figures have been \"fiddled\", as every other figure had been \"fiddled\".",
+      "There are many fiddles possible to reduce the borrowing requirement that have either a substantial effect on real resources or no effect on real resources.",
+      "We all know that these \"fiddles\" go on and that there is no secret about them.",
+      "We have fiddled figures on the reclassification of the working families tax credit and a series of other things.",
+      "However, some economic organisations believe that although the figures are not fiddled, they are not necessarily accurate."
     ],
-    "hash_code_list_definition_mean": "817785212"
+    "hash_code_list_example": "319689228"
   }
 ]

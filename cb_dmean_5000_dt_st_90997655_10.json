@@ -25,17 +25,11 @@
         "id_image": "blood_2904539"
       }
     ],
-    "hash_code_list_img": "228386226",
-    "list_definition_mean": [
-      {
-        "mean_english": "máu",
-        "definition": "the red fluid pumped through the body by the heart",
-        "ex_of_definition_list": [
-          "Blood poured from the wound in his side."
-        ]
-      }
+    "hash_code_list_img": "933258844",
+    "list_example": [
+      "Blood poured from the wound in his side."
     ],
-    "hash_code_list_definition_mean": "976935174"
+    "hash_code_list_example": "-279672928"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bloom_cb_dmean_5000_it.json",
@@ -56,38 +50,12 @@
         "id_image": "bloom_1749794"
       }
     ],
-    "hash_code_list_img": "1542252",
-    "list_definition_mean": [
-      {
-        "mean_english": "hoa",
-        "definition": "a flower",
-        "ex_of_definition_list": [
-          "These blooms are withering now."
-        ]
-      },
-      {
-        "mean_english": "sự ra hoa",
-        "definition": "the state of flowering",
-        "ex_of_definition_list": [
-          "The flowers are in bloom."
-        ]
-      },
-      {
-        "mean_english": "tuổi thanh xuân",
-        "definition": "freshness",
-        "ex_of_definition_list": [
-          "Irene is in the bloom of youth."
-        ]
-      },
-      {
-        "mean_english": "nở hoa",
-        "definition": "to flower or flourish",
-        "ex_of_definition_list": [
-          "Daffodils bloom in the spring."
-        ]
-      }
+    "hash_code_list_img": "1587279715",
+    "list_example": [
+      "Irene is in the bloom of youth.",
+      "Daffodils bloom in the spring."
     ],
-    "hash_code_list_definition_mean": "-164779336"
+    "hash_code_list_example": "-1552430575"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/blossom_cb_dmean_5000_it.json",
@@ -117,31 +85,21 @@
         "id_image": "blossom_1772129"
       }
     ],
-    "hash_code_list_img": "-324770030",
-    "list_definition_mean": [
-      {
-        "mean_english": "hoa",
-        "definition": "flowers, especially of a fruit tree",
-        "ex_of_definition_list": [
-          "apple blossom."
-        ]
-      },
-      {
-        "mean_english": "ra hoa",
-        "definition": "to develop flowers",
-        "ex_of_definition_list": [
-          "The cherry tree has blossomed."
-        ]
-      },
-      {
-        "mean_english": "trổ hoa",
-        "definition": "to flourish",
-        "ex_of_definition_list": [
-          "She blossomed into a beautiful woman."
-        ]
-      }
+    "hash_code_list_img": "1858392007",
+    "list_example": [
+      "apple blossom.",
+      "The cherry tree has blossomed.",
+      "She blossomed into a beautiful woman.",
+      "What was once the scraggly effort of a few odd individuals has now blossomed into a major field.",
+      "Cultural arguments have always been considered an important explanatory variable in the development literature that blossomed since the 1960s.",
+      "The focus of chemical-pharmaceutical practice was the extraction of aqueous and oily distillates from vegetable materials such as spices, herbs, blossoms, fruits, seeds, woods, husks, and barks.",
+      "You moved on exactly when this was blossoming.",
+      "He blossomed again, found work, became a very good officer worker earning a high salary.",
+      "Following almost every privatisation, we have seen boardroom share options blossoming and people ripping off public funds like there was no tomorrow.",
+      "The same children have blossomed in the special school environment.",
+      "The thought blossomed like a magician's bouquet."
     ],
-    "hash_code_list_definition_mean": "-2009521530"
+    "hash_code_list_example": "401738881"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/blouse_cb_dmean_5000_it.json",
@@ -174,17 +132,12 @@
         "id_image": "blouse_658837"
       }
     ],
-    "hash_code_list_img": "1984540694",
-    "list_definition_mean": [
-      {
-        "mean_english": "áo cánh",
-        "definition": "a woman’s (often loose) garment for the upper half of the body",
-        "ex_of_definition_list": [
-          "She was wearing a skirt and blouse."
-        ]
-      }
+    "hash_code_list_img": "783689152",
+    "list_example": [
+      "In this reckoning, one may see how wearing the blouse is thus 'sanitised'.",
+      "I wouldn't wear the blouse during day-time."
     ],
-    "hash_code_list_definition_mean": "841681401"
+    "hash_code_list_example": "-1985338772"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/blowout_cb_dmean_5000_it.json",
@@ -203,24 +156,11 @@
         "id_image": "blowout_2289519"
       }
     ],
-    "hash_code_list_img": "1005063917",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự nổ lốp xe",
-        "definition": "the bursting of a car tyre/tire",
-        "ex_of_definition_list": [
-          "That’s the second blowout I’ve had with this car."
-        ]
-      },
-      {
-        "mean_english": "biến cố lớn",
-        "definition": "(on eg an oil rig) a violent escape of gas etc",
-        "ex_of_definition_list": [
-          "the Deepwater Horizon oil blowout."
-        ]
-      }
+    "hash_code_list_img": "645435870",
+    "list_example": [
+      "That’s the second blowout I’ve had with this car."
     ],
-    "hash_code_list_definition_mean": "1747467843"
+    "hash_code_list_example": "-688843819"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/blowpipe_cb_dmean_5000_it.json",
@@ -238,17 +178,11 @@
         "id_image": "blowpipe_1069600"
       }
     ],
-    "hash_code_list_img": "1325077520",
-    "list_definition_mean": [
-      {
-        "mean_english": "ống thổi phi tiêu",
-        "definition": "a tube from which a dart (often poisonous) is blown",
-        "ex_of_definition_list": [
-          "The tribesmen were armed with blowpipes."
-        ]
-      }
+    "hash_code_list_img": "974168086",
+    "list_example": [
+      "The tribesmen were armed with blowpipes."
     ],
-    "hash_code_list_definition_mean": "101319146"
+    "hash_code_list_example": "-322603538"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/blowtorch_cb_dmean_5000_it.json",
@@ -271,17 +205,11 @@
         "id_image": "blowtorch_479309"
       }
     ],
-    "hash_code_list_img": "1616160537",
-    "list_definition_mean": [
-      {
-        "mean_english": "đèn hàn",
-        "definition": "a lamp for aiming a very hot flame at a particular spot",
-        "ex_of_definition_list": [
-          "He burned off the old paint with a blowtorch."
-        ]
-      }
+    "hash_code_list_img": "744238166",
+    "list_example": [
+      "Are we seriously saying that we want a new generation of plumbers who have an aptitude for using a blowtorch but no ability to fix a leak?"
     ],
-    "hash_code_list_definition_mean": "2075454864"
+    "hash_code_list_example": "-1242968222"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/blow_cb_dmean_5000_it.json",
@@ -309,59 +237,12 @@
         "id_image": "blow_4845861"
       }
     ],
-    "hash_code_list_img": "211223687",
-    "list_definition_mean": [
-      {
-        "mean_english": "cú đánh",
-        "definition": "a stroke or knock",
-        "ex_of_definition_list": [
-          "She suffered a blow to the head."
-        ]
-      },
-      {
-        "mean_english": "tai hoạ",
-        "definition": "a sudden misfortune",
-        "ex_of_definition_list": [
-          "Her husband’s death was a real blow."
-        ]
-      },
-      {
-        "mean_english": "thổi",
-        "definition": "(of a current of air) to be moving",
-        "ex_of_definition_list": [
-          "The wind blew more strongly."
-        ]
-      },
-      {
-        "mean_english": "thổi",
-        "definition": "(of eg wind) to cause (something) to move in a given way",
-        "ex_of_definition_list": [
-          "The explosion blew off the roof of the house."
-        ]
-      },
-      {
-        "mean_english": "cuốn đi",
-        "definition": "to be moved by the wind etc",
-        "ex_of_definition_list": [
-          "The door must have blown shut."
-        ]
-      },
-      {
-        "mean_english": "hà hơi vào",
-        "definition": "to drive air (upon or into)",
-        "ex_of_definition_list": [
-          "Please blow into this tube!"
-        ]
-      },
-      {
-        "mean_english": "thổi (kèn…)",
-        "definition": "to make a sound by means of (a musical instrument etc)",
-        "ex_of_definition_list": [
-          "He blew the horn loudly."
-        ]
-      }
+    "hash_code_list_img": "-473052477",
+    "list_example": [
+      "She suffered a blow to the head.",
+      "Please blow into this tube!"
     ],
-    "hash_code_list_definition_mean": "1079209409"
+    "hash_code_list_example": "1633894941"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/blueberry_cb_dmean_5000_it.json",
@@ -389,17 +270,12 @@
         "id_image": "blueberry_771852"
       }
     ],
-    "hash_code_list_img": "107560142",
-    "list_definition_mean": [
-      {
-        "mean_english": "cây việt quất",
-        "definition": "a dark blue edible berry that grows on a bush",
-        "ex_of_definition_list": [
-          "also adjective blueberry pie."
-        ]
-      }
+    "hash_code_list_img": "1926059206",
+    "list_example": [
+      "also adjective blueberry pie.",
+      "The flowers of infected blueberry plants may have a pink tinge or reddish streaks on the petals."
     ],
-    "hash_code_list_definition_mean": "967631302"
+    "hash_code_list_example": "-2069209716"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/blueprint_cb_dmean_5000_it.json",
@@ -427,17 +303,19 @@
         "id_image": "blueprint_786815"
       }
     ],
-    "hash_code_list_img": "-1887418167",
-    "list_definition_mean": [
-      {
-        "mean_english": "bản kế hoạch",
-        "definition": "a detailed photographic plan of work to be carried out",
-        "ex_of_definition_list": [
-          "the blueprints for a new aircraft."
-        ]
-      }
+    "hash_code_list_img": "1108150630",
+    "list_example": [
+      "the blueprints for a new aircraft.",
+      "His words about how international arrangements grow up, as opposed to all the blueprints about them, were most striking.",
+      "Very often those rigid blueprints simply reflect the views of those who are going to work in them initially.",
+      "Their studies can embrace the wider prospects for improving harbour facilities so that blueprints will exist should further commercial development seem justified.",
+      "In the end, as some of us have learned from parliamentary experience, grandiose designs often remain blueprints while less ambitious schemes such as this oft-times reach total fulfilment.",
+      "What use then will there be in blueprints for a hospital ship?",
+      "As long as the provider uses systematically developed blueprints flexibly, they can be useful guides to assessment and intervention at particular stages for particular problems.",
+      "In contemporary economies, the most important assets are immaterial: blueprints and production methods are often much more costly1 and valuable than machinery and land.",
+      "There are no blueprints available on the management of the planning process, including the regional research priority-setting approaches and methods to be used."
     ],
-    "hash_code_list_definition_mean": "1501976556"
+    "hash_code_list_example": "-975687923"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/blur_cb_dmean_5000_it.json",
@@ -461,24 +339,11 @@
         "id_image": "blur_751361"
       }
     ],
-    "hash_code_list_img": "-1365602157",
-    "list_definition_mean": [
-      {
-        "mean_english": "mờ nhạt, cảnh mờ",
-        "definition": "something not clearly seen",
-        "ex_of_definition_list": [
-          "Everything is just a blur when I take my spectacles off."
-        ]
-      },
-      {
-        "mean_english": "làm mờ đi",
-        "definition": "to make or become unclear",
-        "ex_of_definition_list": [
-          "The rain blurred my vision."
-        ]
-      }
+    "hash_code_list_img": "1148995315",
+    "list_example": [
+      "Everything is just a blur when I take my spectacles off."
     ],
-    "hash_code_list_definition_mean": "-1363236129"
+    "hash_code_list_example": "-1726692330"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/blush_cb_dmean_5000_it.json",
@@ -502,24 +367,20 @@
         "id_image": "blush_3874499"
       }
     ],
-    "hash_code_list_img": "-1654789256",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự đỏ mặt",
-        "definition": "a red glow on the skin caused by shame, embarrassment etc",
-        "ex_of_definition_list": [
-          "She tried in vain to hide her blushes."
-        ]
-      },
-      {
-        "mean_english": "đỏ mặt",
-        "definition": "to show shame, embarrassment etc by growing red in the face",
-        "ex_of_definition_list": [
-          "She blushed with embarrassment."
-        ]
-      }
+    "hash_code_list_img": "-282372630",
+    "list_example": [
+      "She tried in vain to hide her blushes.",
+      "She blushed with embarrassment.",
+      "The tentative values assigned for the variables in each of the scenarios may seem a bit problematic at first blush.",
+      "At first blush, there appear to be two claims in this passage: one about rules and one about legal validity.",
+      "At first blush, the history of the discipline and profession called psychology would not seem like promising research territory.",
+      "At first blush, premise (2) seems trivially true.",
+      "At f irst blush, it all seems very strange.",
+      "Thankfully the operator could not see my blushes.",
+      "At first blush, this claim might seem to contrast with the view that states are peripheral unaccusatives, since verbs of existence are stative predicates.",
+      "It quickens the pulse, puts you to sleep, makes you blush, and takes your breath away."
     ],
-    "hash_code_list_definition_mean": "255097262"
+    "hash_code_list_example": "1010763554"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/board_cb_dmean_5000_it.json",
@@ -552,53 +413,17 @@
         "id_image": "board_4371357"
       }
     ],
-    "hash_code_list_img": "11205361",
-    "list_definition_mean": [
-      {
-        "mean_english": "tấm ván",
-        "definition": "a strip of timber",
-        "ex_of_definition_list": [
-          "The floorboards of the old house were rotten."
-        ]
-      },
-      {
-        "mean_english": "bảng",
-        "definition": "a flat piece of wood etc for a special purpose",
-        "ex_of_definition_list": [
-          "noticeboard",
-          "chessboard."
-        ]
-      },
-      {
-        "mean_english": "bàn ăn",
-        "definition": "meals",
-        "ex_of_definition_list": [
-          "board and lodging."
-        ]
-      },
-      {
-        "mean_english": "ban",
-        "definition": "an official group of persons administering an organization etc",
-        "ex_of_definition_list": [
-          "the board of directors."
-        ]
-      },
-      {
-        "mean_english": "lên tàu, xe",
-        "definition": "to enter, or get on to (a vehicle, ship, plane etc)",
-        "ex_of_definition_list": [
-          "This is where we board the bus."
-        ]
-      },
-      {
-        "mean_english": "ăn ở trọ",
-        "definition": "to live temporarily and take meals (in someone else’s house)",
-        "ex_of_definition_list": [
-          "He boards at Mrs Taylor’s during the week."
-        ]
-      }
+    "hash_code_list_img": "623011829",
+    "list_example": [
+      "board and lodging.",
+      "the board of directors.",
+      "This is where we board the bus.",
+      "This board would be the precursor to the local advisory boards that would later play a key role in managing the public grasslands.",
+      "The first, chronologically, is the 'feud' that opposed a group of secretaries of the board to its presidency regarding their access to 7th rank positions.",
+      "They conclude that acquisition announcement date returns are significantly less negative when a majority of the bidding firm's board is independent outsiders.",
+      "Although the basic pattern is the same in 1995 as in 1975, recruitment of board chairmen has still changed significantly for both types of organizations."
     ],
-    "hash_code_list_definition_mean": "2018738298"
+    "hash_code_list_example": "-1988624404"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/boar_cb_dmean_5000_it.json",
@@ -631,17 +456,15 @@
         "id_image": "boar_884091"
       }
     ],
-    "hash_code_list_img": "699462760",
-    "list_definition_mean": [
-      {
-        "mean_english": "lợn lòi đực",
-        "definition": "a male pig (especially the wild variety)",
-        "ex_of_definition_list": [
-          "Wild boar roam the forest."
-        ]
-      }
+    "hash_code_list_img": "2129041450",
+    "list_example": [
+      "Wild boar roam the forest.",
+      "Young individuals were all reddish-brown coated or strayed wild boar and were assumed to be aged <12 months.",
+      "The first involves a community-based scheme with boar rotation, while the second is a commercially run nucleus breeding scheme.",
+      "An increase in the proportion of wild boar alleles across the genome increased length versus width of femur and reduced the prevalence of osteochondrosis.",
+      "These findings indicate that freezing does not necessarily induce capacitation of boar spermatozoa."
     ],
-    "hash_code_list_definition_mean": "2099793716"
+    "hash_code_list_example": "223454431"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/boat_cb_dmean_5000_it.json",
@@ -672,38 +495,22 @@
         "id_image": "boat_372094"
       }
     ],
-    "hash_code_list_img": "-43573161",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuyền",
-        "definition": "a small vessel for travelling/traveling over water",
-        "ex_of_definition_list": [
-          "a rowing boat."
-        ]
-      },
-      {
-        "mean_english": "tàu",
-        "definition": "a larger vessel for the same purpose; a ship",
-        "ex_of_definition_list": [
-          "Passenger boats began to cross the Atlantic regularly."
-        ]
-      },
-      {
-        "mean_english": "đĩa hình thuyền",
-        "definition": "a serving-dish shaped like a boat",
-        "ex_of_definition_list": [
-          "a gravy boat."
-        ]
-      },
-      {
-        "mean_english": "đi chơi bằng thuyền",
-        "definition": "to sail about in a small boat for pleasure",
-        "ex_of_definition_list": [
-          "They spent the afternoon boating on the river."
-        ]
-      }
+    "hash_code_list_img": "1924103179",
+    "list_example": [
+      "a rowing boat.",
+      "Passenger boats began to cross the Atlantic regularly.",
+      "a gravy boat.",
+      "They spent the afternoon boating on the river.",
+      "From the anecdotes of the informants, we infer that anglophones were also a non-negligible presence on the fishing boats.",
+      "Fish were caught by trammel or bottom trawling by artisanal fishing boats.",
+      "In some they were on ships but in others they were in boats.",
+      "The chapter concludes by noting the increasing costs of boats, which like the building costs ending chapter 5, points us toward more general problems of resources scarcities.",
+      "The local forecasts were important for the safety of the ship during relief operations, and of the boats when landing field parties or making plankton hauls.",
+      "The absence of services and ownership rights, however, discouraged investment in housing and denied tenants the collateral to raise loans for ®shing boats and gear.",
+      "The boats would then proceed along the coast some 600 to 800 m apart.",
+      "Ropes and tackle for the boats were put into barrels of brine."
     ],
-    "hash_code_list_definition_mean": "374771616"
+    "hash_code_list_example": "-847544012"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bobbin_cb_dmean_5000_it.json",
@@ -731,17 +538,19 @@
         "id_image": "bobbin_6306761"
       }
     ],
-    "hash_code_list_img": "1662279952",
-    "list_definition_mean": [
-      {
-        "mean_english": "ống chỉ",
-        "definition": "a (usually wooden) reel or spool for winding thread etc",
-        "ex_of_definition_list": [
-          "There’s no thread left on the bobbin."
-        ]
-      }
+    "hash_code_list_img": "-2086651044",
+    "list_example": [
+      "There’s no thread left on the bobbin.",
+      "The spun yarn is wound onto bobbins to provide the ingredients of weft (left to right threads) and warp (vertical threads) supplied to the weavers.",
+      "Reeling is the process where the silk that has been wound into skeins, is cleaned, receives a twist and is wound onto bobbins.",
+      "Most hold between three and four bobbins.",
+      "The mule consisted of a fixed frame containing a creel of bobbins holding the roving, connected through the headstock to a parallel carriage containing the spindles.",
+      "Most hobby spinners (who use spinning wheels) ply from bobbins.",
+      "The bobbins, turned from wood, bone, or plastic, hold threads which are woven together and held in place with pins stuck in the pattern on the pillow.",
+      "Materials required include multiple colours of yarn, standard needles, and \"bobbins\".",
+      "Depending on the pattern, as few as two dozen or as many as several hundred bobbins may be used."
     ],
-    "hash_code_list_definition_mean": "663317850"
+    "hash_code_list_example": "-186473894"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bodyguard_cb_dmean_5000_it.json",
@@ -774,17 +583,12 @@
         "id_image": "bodyguard_4441669"
       }
     ],
-    "hash_code_list_img": "1539193424",
-    "list_definition_mean": [
-      {
-        "mean_english": "vệ sĩ",
-        "definition": "a guard or guards to protect (especially an important person)",
-        "ex_of_definition_list": [
-          "the president’s bodyguard."
-        ]
-      }
+    "hash_code_list_img": "-13039751",
+    "list_example": [
+      "If all we are looking for is protection, we could pay a private security firm to act as a bodyguard for us, individually and collectively.",
+      "For this reason there is a bodyguard of people, even in politics, who in the interests of their clients want to prevent stricter laws."
     ],
-    "hash_code_list_definition_mean": "1855590636"
+    "hash_code_list_example": "-556450650"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/body_cb_dmean_5000_it.json",
@@ -816,46 +620,14 @@
         "id_image": "body_4601133"
       }
     ],
-    "hash_code_list_img": "1500992562",
-    "list_definition_mean": [
-      {
-        "mean_english": "thân thể",
-        "definition": "the whole frame of a human being or animal including the bones and flesh",
-        "ex_of_definition_list": [
-          "Athletes have to look after their bodies."
-        ]
-      },
-      {
-        "mean_english": "thi thể",
-        "definition": "a dead person",
-        "ex_of_definition_list": [
-          "The battlefield was covered with bodies",
-          "The body of a local woman has been found in the woods."
-        ]
-      },
-      {
-        "mean_english": "phần chính yếu",
-        "definition": "the main part of anything",
-        "ex_of_definition_list": [
-          "the body of the hall."
-        ]
-      },
-      {
-        "mean_english": "số lượng lớn",
-        "definition": "a mass",
-        "ex_of_definition_list": [
-          "The police have gathered a huge body of evidence against him."
-        ]
-      },
-      {
-        "mean_english": "nhóm; đoàn",
-        "definition": "a group of people acting as one",
-        "ex_of_definition_list": [
-          "The Law Society is the professional body that represents lawyers in England and Wales."
-        ]
-      }
+    "hash_code_list_img": "-304931162",
+    "list_example": [
+      "The body of a local woman has been found in the woods.",
+      "the body of the hall.",
+      "The police have gathered a huge body of evidence against him.",
+      "The Law Society is the professional body that represents lawyers in England and Wales."
     ],
-    "hash_code_list_definition_mean": "-517171377"
+    "hash_code_list_example": "-290067976"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/boiler_cb_dmean_5000_it.json",
@@ -893,17 +665,19 @@
         "id_image": "boiler_4427218"
       }
     ],
-    "hash_code_list_img": "-1347537037",
-    "list_definition_mean": [
-      {
-        "mean_english": "nồi nấu",
-        "definition": "a vessel in which water is heated or steam is produced",
-        "ex_of_definition_list": [
-          "a hot water boiler."
-        ]
-      }
+    "hash_code_list_img": "-688807084",
+    "list_example": [
+      "a hot water boiler.",
+      "Finally, a comparative study of the station incinerator emissions with respect to other station emission sources (powerhouse generators, boilers, and vehicles) was conducted.",
+      "Selling the steam from your refuse destructor boilers is one way.",
+      "The above data, along with the data on the efficiency of the new boilers, are used to calculate the production and the emission parameters for the high-efficiency boilers.",
+      "Table 4 shows the total private costs of the high-efficiency boilers at each level of tax.",
+      "To this there are some exceptions in the case of low-capacity boilers for which estimates are drawn from emission factors.",
+      "They refused to put in the right kind of boilers and so on.",
+      "However, blending is constrained by the existing boilers used by the thermal power plants.",
+      "If the boilers serve the whole hospital, is that included?"
     ],
-    "hash_code_list_definition_mean": "105856197"
+    "hash_code_list_example": "-2705133"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/boil_cb_dmean_5000_it.json",
@@ -938,32 +712,22 @@
         "id_image": "boil_6192642"
       }
     ],
-    "hash_code_list_img": "638738534",
-    "list_definition_mean": [
-      {
-        "mean_english": "sôi",
-        "definition": "to turn rapidly from liquid to vapour when heated",
-        "ex_of_definition_list": [
-          "I’m boiling the water",
-          "The water’s boiling."
-        ]
-      },
-      {
-        "mean_english": "luộc",
-        "definition": "to cook by boiling in water etc",
-        "ex_of_definition_list": [
-          "I’ve boiled the potatoes."
-        ]
-      },
-      {
-        "mean_english": "mụn nhọt",
-        "definition": "an inflamed swelling on the skin",
-        "ex_of_definition_list": [
-          "His neck is covered with boils."
-        ]
-      }
+    "hash_code_list_img": "722211454",
+    "list_example": [
+      "I’m boiling the water",
+      "The water’s boiling.",
+      "I’ve boiled the potatoes.",
+      "His neck is covered with boils.",
+      "The water used in lime treatment is not boiled, but subsequent tor tilla cooking reduces the concentrations of pathogenic microorganisms to safe levels.",
+      "The lack of sheep residues in the pottery suggests that sheep, if being eaten, were not boiled.",
+      "Seeds made water-permeable by boiling imbibed water, and thus germinated, at a much slower rate than those made water-permeable by mechanical scarification.",
+      "The samples were boiled for 20 min before being centrifuged briefly.",
+      "Using downside deviation as a risk measure boils down to taking quadratic shortfall.",
+      "There were no reports of patients with boils or other deep-skin infections or pneumonia.",
+      "Fish: the bones, skin and offal may be boiled to produce glue.",
+      "Algebraically, the distinction between the variables and the names boils down to the distinction between the transcendental and the algebraic elements."
     ],
-    "hash_code_list_definition_mean": "-1112328591"
+    "hash_code_list_example": "-1414534057"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bold_cb_dmean_5000_it.json",
@@ -983,31 +747,19 @@
         "id_image": "bold_1833900"
       }
     ],
-    "hash_code_list_img": "2114553576",
-    "list_definition_mean": [
-      {
-        "mean_english": "táo bạo",
-        "definition": "daring or fearless",
-        "ex_of_definition_list": [
-          "a bold plan of attack."
-        ]
-      },
-      {
-        "mean_english": "nổi bật",
-        "definition": "striking and well-marked",
-        "ex_of_definition_list": [
-          "a dress with bold stripes."
-        ]
-      },
-      {
-        "mean_english": "rõ nét",
-        "definition": "(of type) thick and clear, like this",
-        "ex_of_definition_list": [
-          "a bold font."
-        ]
-      }
+    "hash_code_list_img": "1890792053",
+    "list_example": [
+      "a bold plan of attack.",
+      "a dress with bold stripes.",
+      "a bold font.",
+      "This used for the self-ratings a large (216r 279 mm) visual aid with lettering in a large (20 pt) bold font and two-step instructions.",
+      "Matrices and sets in the current paper are designated by bold letters.",
+      "The figures in parentheses indicate the tenures of employment (the bold lines) expressed in months.",
+      "The most important addition is the insertion of short highlights and conclusions in bold letters throughout the text, on almost every page.",
+      "Locations identified in bold type used the same tillage in the cropping system (other than no till).",
+      "Only the attended-speech condition matches the normal ogive (bold solid line)."
     ],
-    "hash_code_list_definition_mean": "1865097014"
+    "hash_code_list_example": "1006375451"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bollard_cb_dmean_5000_it.json",
@@ -1031,17 +783,18 @@
         "id_image": "bollard_648717"
       }
     ],
-    "hash_code_list_img": "-117658528",
-    "list_definition_mean": [
-      {
-        "mean_english": "cọc ngăn xe cộ",
-        "definition": "a post for controlling traffic",
-        "ex_of_definition_list": [
-          "The pedestrian shopping area has been closed off with bollards."
-        ]
-      }
+    "hash_code_list_img": "2086353595",
+    "list_example": [
+      "The pedestrian shopping area has been closed off with bollards.",
+      "Vehicular access to the area is limited by rising bollards.",
+      "Surely that depends upon the width of the bollards?",
+      "A recent variation of limiting traffic is the managed closure by using retractable bollards which are activated by designated card holders only.",
+      "Security bollards outside the entrance stopped the car from entering the terminal, although the doors were damaged.",
+      "They have an incentive to drive quickly and to take short cuts, often going round the wrong side of bollards or islands in the centre of the road.",
+      "People are met there by bollards and lane restrictions and the ultimate insult of a toll charge.",
+      "Commercial properties in areas prone to ram-raids often erect strong barriers or obstructions, such as bollards, to discourage such attacks."
     ],
-    "hash_code_list_definition_mean": "326611391"
+    "hash_code_list_example": "1515855571"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bolster_cb_dmean_5000_it.json",
@@ -1070,17 +823,11 @@
         "id_image": "bolster_6214710"
       }
     ],
-    "hash_code_list_img": "-740204051",
-    "list_definition_mean": [
-      {
-        "mean_english": "củng cố",
-        "definition": "(often with up) to prop up",
-        "ex_of_definition_list": [
-          "a plan to bolster (up) the economy."
-        ]
-      }
+    "hash_code_list_img": "-1612358855",
+    "list_example": [
+      "a plan to bolster (up) the economy."
     ],
-    "hash_code_list_definition_mean": "366370798"
+    "hash_code_list_example": "-1539075432"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bolt_cb_dmean_5000_it.json",
@@ -1124,59 +871,12 @@
         "id_image": "bolt_6196102"
       }
     ],
-    "hash_code_list_img": "-1831765652",
-    "list_definition_mean": [
-      {
-        "mean_english": "then cửa",
-        "definition": "a bar to fasten a door etc",
-        "ex_of_definition_list": [
-          "We have a bolt as well as a lock on the door."
-        ]
-      },
-      {
-        "mean_english": "bu lông",
-        "definition": "a round bar of metal, often with a screw thread for a nut",
-        "ex_of_definition_list": [
-          "nuts and bolts."
-        ]
-      },
-      {
-        "mean_english": "chớp",
-        "definition": "a flash of lightning",
-        "ex_of_definition_list": [
-          "He was struck by a lightning bolt."
-        ]
-      },
-      {
-        "mean_english": "súc vải",
-        "definition": "a roll (of cloth)",
-        "ex_of_definition_list": [
-          "a bolt of silk."
-        ]
-      },
-      {
-        "mean_english": "cài then",
-        "definition": "to fasten with a bolt",
-        "ex_of_definition_list": [
-          "He bolted the door."
-        ]
-      },
-      {
-        "mean_english": "nuốt chửng",
-        "definition": "to swallow hastily",
-        "ex_of_definition_list": [
-          "The child bolted her food."
-        ]
-      },
-      {
-        "mean_english": "lao đi",
-        "definition": "to go away very fast",
-        "ex_of_definition_list": [
-          "The horse bolted in terror."
-        ]
-      }
+    "hash_code_list_img": "681092743",
+    "list_example": [
+      "We have a bolt as well as a lock on the door.",
+      "a bolt of silk."
     ],
-    "hash_code_list_definition_mean": "1038548227"
+    "hash_code_list_example": "1258183387"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bomber_cb_dmean_5000_it.json",
@@ -1195,24 +895,20 @@
         "id_image": "bomber_4611905"
       }
     ],
-    "hash_code_list_img": "1830261097",
-    "list_definition_mean": [
-      {
-        "mean_english": "máy bay ném bom",
-        "definition": "an aeroplane/airplane built for bombing",
-        "ex_of_definition_list": [
-          "The Lancaster bombers flew missions at night."
-        ]
-      },
-      {
-        "mean_english": "người phụ trách cắt bom",
-        "definition": "a person who bombs",
-        "ex_of_definition_list": [
-          "terrorist bombers."
-        ]
-      }
+    "hash_code_list_img": "130740740",
+    "list_example": [
+      "The Lancaster bombers flew missions at night.",
+      "terrorist bombers.",
+      "Our general line will, therefore, be to improve these two bombers by stretching out their performance in the next few years.",
+      "If there is a case, if we are to have dive bombers, how are we to get them?",
+      "If so, it is important that it should be made quite clear, because of the discouraging effect on men engaged in manufacturing dive-bombers.",
+      "The other is the existing bombers, whatever nuclear rôle they have, and, as we have said, these also should and must be internationalised.",
+      "We are giving up much in order that we may have these jet medium bombers.",
+      "Then there is the advent of jet bombers and fighters.",
+      "As the speed of bombers constantly increases, however, so it becomes increasingly vital to get greater range for the early warning system.",
+      "Was it a speech calculated to encourage the personnel of the bombers who fight these great battles?"
     ],
-    "hash_code_list_definition_mean": "-1679477595"
+    "hash_code_list_example": "1905157375"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bomb_cb_dmean_5000_it.json",
@@ -1247,31 +943,11 @@
         "id_image": "bomb_942405"
       }
     ],
-    "hash_code_list_img": "1969657456",
-    "list_definition_mean": [
-      {
-        "mean_english": "quả bom",
-        "definition": "a hollow case containing explosives etc",
-        "ex_of_definition_list": [
-          "The enemy dropped a bomb on the factory and blew it up."
-        ]
-      },
-      {
-        "mean_english": "ném bom",
-        "definition": "to drop bombs on",
-        "ex_of_definition_list": [
-          "London was bombed several times."
-        ]
-      },
-      {
-        "mean_english": "thất bại thảm hại",
-        "definition": "to fail miserably",
-        "ex_of_definition_list": [
-          "The play bombed on the first night."
-        ]
-      }
+    "hash_code_list_img": "-530012515",
+    "list_example": [
+      "The enemy dropped a bomb on the factory and blew it up."
     ],
-    "hash_code_list_definition_mean": "-969480196"
+    "hash_code_list_example": "711098666"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bondage_cb_dmean_5000_it.json",
@@ -1289,17 +965,11 @@
         "id_image": "bondage_2473208"
       }
     ],
-    "hash_code_list_img": "952172975",
-    "list_definition_mean": [
-      {
-        "mean_english": "cảnh nô lệ",
-        "definition": "slavery",
-        "ex_of_definition_list": [
-          "The slaves were kept in bondage."
-        ]
-      }
+    "hash_code_list_img": "783402548",
+    "list_example": [
+      "The slaves were kept in bondage."
     ],
-    "hash_code_list_definition_mean": "242833980"
+    "hash_code_list_example": "1072349012"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bond_cb_dmean_5000_it.json",
@@ -1328,24 +998,11 @@
         "id_image": "bond_6159162"
       }
     ],
-    "hash_code_list_img": "-98164465",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự ràng buộc",
-        "definition": "something that unites or joins people together",
-        "ex_of_definition_list": [
-          "a bond of friendship."
-        ]
-      },
-      {
-        "mean_english": "giao kèo",
-        "definition": "something used for tying (especially a person)",
-        "ex_of_definition_list": [
-          "They released the prisoner from his bonds."
-        ]
-      }
+    "hash_code_list_img": "215960225",
+    "list_example": [
+      "a bond of friendship."
     ],
-    "hash_code_list_definition_mean": "-1505880783"
+    "hash_code_list_example": "-210328152"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bone_cb_dmean_5000_it.json",
@@ -1380,31 +1037,11 @@
         "id_image": "bone_1123917"
       }
     ],
-    "hash_code_list_img": "-349414143",
-    "list_definition_mean": [
-      {
-        "mean_english": "bộ xương",
-        "definition": "the hard substance forming the skeleton of man, animals etc",
-        "ex_of_definition_list": [
-          "Bone decays far more slowly than flesh."
-        ]
-      },
-      {
-        "mean_english": "xương",
-        "definition": "a piece of this substance",
-        "ex_of_definition_list": [
-          "She broke two of the bones in her foot."
-        ]
-      },
-      {
-        "mean_english": "gỡ xương",
-        "definition": "to take the bones out of (fish etc)",
-        "ex_of_definition_list": [
-          "The trainee chefs are taught how to bone various types of fish."
-        ]
-      }
+    "hash_code_list_img": "39193066",
+    "list_example": [
+      "The trainee chefs are taught how to bone various types of fish."
     ],
-    "hash_code_list_definition_mean": "1342644750"
+    "hash_code_list_example": "-878644034"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bonfire_cb_dmean_5000_it.json",
@@ -1437,17 +1074,17 @@
         "id_image": "bonfire_437102"
       }
     ],
-    "hash_code_list_img": "-288711011",
-    "list_definition_mean": [
-      {
-        "mean_english": "lửa mừng",
-        "definition": "a large fire in the open air, often built to celebrate something",
-        "ex_of_definition_list": [
-          "Harry lit the bonfire."
-        ]
-      }
+    "hash_code_list_img": "-75221030",
+    "list_example": [
+      "I undertook to visit all these cities prior to this bonfire night to promote safety awareness.",
+      "Go on, make a bonfire of another 100 000 pieces of legislation!",
+      "In my opinion, this is not a glimmer—it is a bonfire, a blazing bonfire of public cash.",
+      "What is lacking is the match to set the bonfire alight, or it may be the detonator to cause the dynamite to explode.",
+      "In some cases, anticlericals painted churches red, heaped religious images on the bonfire and performed liturgical burlesques in which bulls were crowned bishop.",
+      "Concern about the matter has been very strongly expressed by carnival committees, bonfire societies and other organisers of voluntary events.",
+      "In 2001, there were 1,362 injuries and no fatalities during the period of bonfire celebrations."
     ],
-    "hash_code_list_definition_mean": "178163136"
+    "hash_code_list_example": "420426411"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bonnet_cb_dmean_5000_it.json",
@@ -1481,24 +1118,11 @@
         "id_image": "bonnet_4632412"
       }
     ],
-    "hash_code_list_img": "1165522903",
-    "list_definition_mean": [
-      {
-        "mean_english": "mũ sơ sinh",
-        "definition": "(usually baby’s or (old) woman’s) head-dress fastened under the chin eg by strings",
-        "ex_of_definition_list": [
-          "a lace bonnet."
-        ]
-      },
-      {
-        "mean_english": "mui xe",
-        "definition": "the cover of a motor-car engine; hood American I",
-        "ex_of_definition_list": [
-          "I opened the bonnet to see what was wrong with the engine."
-        ]
-      }
+    "hash_code_list_img": "1963089523",
+    "list_example": [
+      "I opened the bonnet to see what was wrong with the engine."
     ],
-    "hash_code_list_definition_mean": "703695347"
+    "hash_code_list_example": "-936930997"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bonus_cb_dmean_5000_it.json",
@@ -1527,24 +1151,20 @@
         "id_image": "bonus_6043415"
       }
     ],
-    "hash_code_list_img": "-1694987838",
-    "list_definition_mean": [
-      {
-        "mean_english": "lợi tức chia thêm",
-        "definition": "an addition to the sum due as interest, dividend, or wages",
-        "ex_of_definition_list": [
-          "If we meet our productivity targets, we will get a bonus."
-        ]
-      },
-      {
-        "mean_english": "tiền thưởng",
-        "definition": "something unexpected or extra",
-        "ex_of_definition_list": [
-          "The extra two days holiday was a real bonus."
-        ]
-      }
+    "hash_code_list_img": "522910274",
+    "list_example": [
+      "If we meet our productivity targets, we will get a bonus.",
+      "The extra two days holiday was a real bonus.",
+      "Yes, but a reduction in the number of bonuses is unavoidable.",
+      "Such bonuses should be inversely related in amount to the man's age.",
+      "Contrastingly, bonuses are transfer payments and not resource costs, so that their payment does not subtract from national output (except for costs of administration).",
+      "The preferred role of bonuses depends very much on the stage a family planning programme has reached.",
+      "Any government that offers bonuses wishes to ensure that it is in fact obtaining the fertility reductions for which it is ostensibly paying.",
+      "In contrast, life companies have their capital as a cushion against errors, and also non-guaranteed bonuses on variable policies.",
+      "If they lose only their bonuses, they will find themselves in a substandard situation in terms of take-home pay, and back in the past.",
+      "However, according to calculations presented below, bonuses for having a vasectomy could well be many times larger than now offered by most government programmes."
     ],
-    "hash_code_list_definition_mean": "70660835"
+    "hash_code_list_example": "129045009"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bookcase_cb_dmean_5000_it.json",
@@ -1577,17 +1197,12 @@
         "id_image": "bookcase_417436"
       }
     ],
-    "hash_code_list_img": "-968517053",
-    "list_definition_mean": [
-      {
-        "mean_english": "tủ sách",
-        "definition": "a set of shelves for books",
-        "ex_of_definition_list": [
-          "a self-assembly bookcase."
-        ]
-      }
+    "hash_code_list_img": "506701672",
+    "list_example": [
+      "When the robot arrives in front of the bookcase that should contain the book, it does not know the exact position of the book.",
+      "He never contemplated marriage after that, remaining a lifelong bachelor, and her photograph remained on his bookcase until his death."
     ],
-    "hash_code_list_definition_mean": "1358917762"
+    "hash_code_list_example": "194331737"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bookshelf_cb_dmean_5000_it.json",
@@ -1615,17 +1230,14 @@
         "id_image": "bookshelf_530005"
       }
     ],
-    "hash_code_list_img": "-85158653",
-    "list_definition_mean": [
-      {
-        "mean_english": "giá sách",
-        "definition": "a shelf on which books are kept",
-        "ex_of_definition_list": [
-          "He’s putting up a new bookshelf in the study."
-        ]
-      }
+    "hash_code_list_img": "1491279774",
+    "list_example": [
+      "He’s putting up a new bookshelf in the study.",
+      "The nature of the book clearly belongs on the bookshelf of anyone interested in the history of the book and\\or the history of science.",
+      "I remember it as a pretty large, bare room, with a couple of tables and no doubt a bookshelf or two.",
+      "It is not expensive and might justify a place on the bookshelf as an 'alternative view', but only if accompanied by more comprehensive accounts."
     ],
-    "hash_code_list_definition_mean": "801634957"
+    "hash_code_list_example": "1482415927"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/book_cb_dmean_5000_it.json",
@@ -1657,38 +1269,14 @@
         "id_image": "book_170584"
       }
     ],
-    "hash_code_list_img": "1869980481",
-    "list_definition_mean": [
-      {
-        "mean_english": "sách",
-        "definition": "a piece of writing, bound and covered",
-        "ex_of_definition_list": [
-          "I’ve written a book on Shakespeare."
-        ]
-      },
-      {
-        "mean_english": "vở; sổ",
-        "definition": "a number of sheets of paper (especially printed) bound together",
-        "ex_of_definition_list": [
-          "an exercise book."
-        ]
-      },
-      {
-        "mean_english": "đặt vé trước",
-        "definition": "to buy or reserve (a ticket, seat etc) for a play etc",
-        "ex_of_definition_list": [
-          "I’ve booked four seats for Friday’s concert."
-        ]
-      },
-      {
-        "mean_english": "đặt chỗ trước",
-        "definition": "to hire in advance",
-        "ex_of_definition_list": [
-          "We’ve booked the hall for Saturday."
-        ]
-      }
+    "hash_code_list_img": "-1723121930",
+    "list_example": [
+      "I’ve written a book on Shakespeare.",
+      "A key issue in the book is an analysis of the experience with the application of economic instruments, such as charges and tradable discharge permits.",
+      "To this end it is disappointing that the book has paid only scant attention to the psychological processes in the disorder.",
+      "The book was in two parts, the first part philosophical, the second dealing with mathematics and the natural sciences."
     ],
-    "hash_code_list_definition_mean": "-2113681931"
+    "hash_code_list_example": "1222227360"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/booster_cb_dmean_5000_it.json",
@@ -1723,24 +1311,19 @@
         "id_image": "booster_4631145"
       }
     ],
-    "hash_code_list_img": "1707673647",
-    "list_definition_mean": [
-      {
-        "mean_english": "người/ vật nâng đỡ",
-        "definition": "a person or thing that boosts",
-        "ex_of_definition_list": [
-          "That was a real morale booster for me (= That made me feel more cheerful and optimistic)."
-        ]
-      },
-      {
-        "mean_english": "máy tăng thế",
-        "definition": "a device for increasing power, force etc",
-        "ex_of_definition_list": [
-          "I’ve fixed a booster on the TV aerial to improve the signal."
-        ]
-      }
+    "hash_code_list_img": "1262150173",
+    "list_example": [
+      "That was a real morale booster for me (= That made me feel more cheerful and optimistic).",
+      "I’ve fixed a booster on the TV aerial to improve the signal.",
+      "The laser consists of a four-pass cavity amplifier section followed by a double-pass booster amplifier section.",
+      "These differences were due to the fact that men receive a booster dose against tetanus toxoid on entering military service.",
+      "The booster dose at age 1 year also determines a slight increase in the number of secondary infections when compared to the prevaccine era (3.3 %).",
+      "But even strictly medical concerns such as route of administration, dosages, and booster administrations became subject to diverging opinions.",
+      "Long-term monitoring of women currently participating in the vaccine trials will be needed to determine whether and when a booster should be given.",
+      "The subjects with increased titres of 1- to 3-fold, which had a booster effect from the subclinical rubella infection, were 14.3 and 19.4 %, respectively.",
+      "With most of the other forms listed above, it is almost impossible to decide whether we have an adverbial booster or a booster prefix."
     ],
-    "hash_code_list_definition_mean": "1767285260"
+    "hash_code_list_example": "-581846260"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/boost_cb_dmean_5000_it.json",
@@ -1769,25 +1352,11 @@
         "id_image": "boost_4674816"
       }
     ],
-    "hash_code_list_img": "261402414",
-    "list_definition_mean": [
-      {
-        "mean_english": "làm tăng",
-        "definition": "to expand; to make greater; to improve",
-        "ex_of_definition_list": [
-          "We’ve succeeding in boosting the sales figures",
-          "Winning the game helped to boost his confidence."
-        ]
-      },
-      {
-        "mean_english": "sự tăng lên",
-        "definition": "a piece of help, encouragement etc",
-        "ex_of_definition_list": [
-          "This publicity will give our sales a real boost."
-        ]
-      }
+    "hash_code_list_img": "1798260954",
+    "list_example": [
+      "Winning the game helped to boost his confidence."
     ],
-    "hash_code_list_definition_mean": "-2077055246"
+    "hash_code_list_example": "-1318024348"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/booth_cb_dmean_5000_it.json",
@@ -1821,25 +1390,21 @@
         "id_image": "booth_5593675"
       }
     ],
-    "hash_code_list_img": "-1588323425",
-    "list_definition_mean": [
-      {
-        "mean_english": "quán; lều",
-        "definition": "a tent or stall, especially at a fair",
-        "ex_of_definition_list": [
-          "the fortuneteller’s booth."
-        ]
-      },
-      {
-        "mean_english": "buồng",
-        "definition": "a small compartment for a given purpose",
-        "ex_of_definition_list": [
-          "a phone booth",
-          "a polling booth."
-        ]
-      }
+    "hash_code_list_img": "-683222999",
+    "list_example": [
+      "the fortuneteller’s booth.",
+      "a phone booth",
+      "a polling booth.",
+      "There are quantities of objections, and also there are people in the polling booths to see that there is no dual voting.",
+      "Once all the new toll booths are open, delays will be due to the limited capacity of the tunnel.",
+      "The precise allocation of these polling booths in each electoral district will be decided in the next few days.",
+      "Is it expected that the proposed booths should give guidance to these young people on that matter?",
+      "Of course, they rolled them back when they came into the women-only polling booths.",
+      "There is a similar problem in booths in town and throughout the country.",
+      "Access to democracy too—access to the vote itself—is denied because of inaccessible polling booths and lack of adequate facilities in polling stations.",
+      "At present 20 booths are in action, 12 for southbound traffic and eight for northbound traffic."
     ],
-    "hash_code_list_definition_mean": "1966819516"
+    "hash_code_list_example": "1109435673"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/boot_cb_dmean_5000_it.json",
@@ -1869,31 +1434,11 @@
         "id_image": "boot_343328"
       }
     ],
-    "hash_code_list_img": "-187982077",
-    "list_definition_mean": [
-      {
-        "mean_english": "ủng",
-        "definition": "a covering for the foot and lower part of the leg, usually made of leather etc",
-        "ex_of_definition_list": [
-          "a pair of suede boots."
-        ]
-      },
-      {
-        "mean_english": "cốp ô tô",
-        "definition": "a place for luggage in a motor car etc; trunk American",
-        "ex_of_definition_list": [
-          "We put our suitcases in the boot and drove off."
-        ]
-      },
-      {
-        "mean_english": "đá ai",
-        "definition": "to kick",
-        "ex_of_definition_list": [
-          "He booted the ball out of the goal."
-        ]
-      }
+    "hash_code_list_img": "1696909146",
+    "list_example": [
+      "We put our suitcases in the boot and drove off."
     ],
-    "hash_code_list_definition_mean": "726046703"
+    "hash_code_list_example": "-1844234308"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/border_cb_dmean_5000_it.json",
@@ -1929,38 +1474,11 @@
         "id_image": "border_5208307"
       }
     ],
-    "hash_code_list_img": "-701362171",
-    "list_definition_mean": [
-      {
-        "mean_english": "đường viền",
-        "definition": "the edge of a particular thing",
-        "ex_of_definition_list": [
-          "the border of a picture/handkerchief."
-        ]
-      },
-      {
-        "mean_english": "biên giới",
-        "definition": "the boundary of a country",
-        "ex_of_definition_list": [
-          "They’ll ask for your passport at the border."
-        ]
-      },
-      {
-        "mean_english": "viền hoa",
-        "definition": "a flower bed round the edge of a lawn etc",
-        "ex_of_definition_list": [
-          "a flower border."
-        ]
-      },
-      {
-        "mean_english": "tiếp giáp",
-        "definition": "(with on) to come near to or lie on the border of",
-        "ex_of_definition_list": [
-          "Germany borders on France."
-        ]
-      }
+    "hash_code_list_img": "-1305286030",
+    "list_example": [
+      "the border of a picture/handkerchief."
     ],
-    "hash_code_list_definition_mean": "1412947635"
+    "hash_code_list_example": "-2093255459"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/born_cb_dmean_5000_it.json",
@@ -1983,18 +1501,11 @@
         "id_image": "born_5375936"
       }
     ],
-    "hash_code_list_img": "533697280",
-    "list_definition_mean": [
-      {
-        "mean_english": "đầu lòng; cả",
-        "definition": "one’s oldest child",
-        "ex_of_definition_list": [
-          "Daniel was our first-born",
-          "(also adjective) Their first-born child was Rosa."
-        ]
-      }
+    "hash_code_list_img": "-389922551",
+    "list_example": [
+      "(also adjective) Their first-born child was Rosa."
     ],
-    "hash_code_list_definition_mean": "1635975182"
+    "hash_code_list_example": "1291831842"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/borrow_cb_dmean_5000_it.json",
@@ -2022,17 +1533,19 @@
         "id_image": "borrow_2417791"
       }
     ],
-    "hash_code_list_img": "-1961289462",
-    "list_definition_mean": [
-      {
-        "mean_english": "mượn",
-        "definition": "to take (something, often money) temporarily with the intention of returning it",
-        "ex_of_definition_list": [
-          "He borrowed a book from the library."
-        ]
-      }
+    "hash_code_list_img": "-119767034",
+    "list_example": [
+      "He borrowed a book from the library.",
+      "Second, the fact that generic models and blueprints are borrowed does not presuppose the borrowing of all resources typically associated with the model.",
+      "A combination of large nominal interest-rate hikes and high government borrowing then caused a major contraction of credit to the private sector.",
+      "All such borrowed words serve to fill the inevitable gaps in all languages.",
+      "They were borrowed with short vowels constrained by the prosodic structure and remained as such.",
+      "Generally, the models used to help interpret the archaeological data are borrowed from other societies and other times.",
+      "However, they can give us some insights into students' borrowing behaviour and, by inference, which student groups (and potential students) may be debt averse.",
+      "Even after a word has been borrowed, it is still available for codeswitching.",
+      "I have borrowed the label ' pauperization ' from this source, although the authors do not treat it as a formal approach or school of thought."
     ],
-    "hash_code_list_definition_mean": "819790037"
+    "hash_code_list_example": "148778712"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/boss_cb_dmean_5000_it.json",
@@ -2061,24 +1574,11 @@
         "id_image": "boss_3603770"
       }
     ],
-    "hash_code_list_img": "-2048208692",
-    "list_definition_mean": [
-      {
-        "mean_english": "ông chủ; thủ trưởng",
-        "definition": "the master or manager",
-        "ex_of_definition_list": [
-          "the boss of the factory."
-        ]
-      },
-      {
-        "mean_english": "chỉ huy",
-        "definition": "(usually with about/around) to order",
-        "ex_of_definition_list": [
-          "Stop bossing everyone about!"
-        ]
-      }
+    "hash_code_list_img": "-568743172",
+    "list_example": [
+      "the boss of the factory."
     ],
-    "hash_code_list_definition_mean": "-1993795624"
+    "hash_code_list_example": "1441793175"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/botanist_cb_dmean_5000_it.json",
@@ -2101,17 +1601,11 @@
         "id_image": "botanist_4695705"
       }
     ],
-    "hash_code_list_img": "1243353841",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà thực vật học",
-        "definition": "a person who studies botany",
-        "ex_of_definition_list": [
-          "Joseph Banks was a famous English botanist."
-        ]
-      }
+    "hash_code_list_img": "1352542833",
+    "list_example": [
+      "The evolution of the botanist can be traced through many pages."
     ],
-    "hash_code_list_definition_mean": "1977656683"
+    "hash_code_list_example": "685228757"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/botany_cb_dmean_5000_it.json",
@@ -2144,17 +1638,15 @@
         "id_image": "botany_5969573"
       }
     ],
-    "hash_code_list_img": "-1624296011",
-    "list_definition_mean": [
-      {
-        "mean_english": "thực vật học",
-        "definition": "the scientific study of plants",
-        "ex_of_definition_list": [
-          "He is Professor of Botany at McGill University."
-        ]
-      }
+    "hash_code_list_img": "-314296127",
+    "list_example": [
+      "Cameralism's claims on chemistry and botany in particular tended to provoke consternation among professors of medicine.",
+      "Horticultural societies brought theoretical botany into the practice of gardening.",
+      "He appears consistently to have believed in the intimate connection between botany and capitalism, and in the concurrent advance of civilisation and science.",
+      "Integral to this new landscape was its incorporation of botany and the invention of a botanical aesthetics.",
+      "He was appointed as a lecturer in botany and specialized in bananas."
     ],
-    "hash_code_list_definition_mean": "1653318277"
+    "hash_code_list_example": "-921849503"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bottle_cb_dmean_5000_it.json",
@@ -2178,25 +1670,11 @@
         "id_image": "bottle_272752"
       }
     ],
-    "hash_code_list_img": "-1143211166",
-    "list_definition_mean": [
-      {
-        "mean_english": "chai lọ",
-        "definition": "a hollow narrow-necked container for holding liquids etc",
-        "ex_of_definition_list": [
-          "a lemonade bottle",
-          "a bottle of ginger beer."
-        ]
-      },
-      {
-        "mean_english": "đóng chai",
-        "definition": "to put into bottles",
-        "ex_of_definition_list": [
-          "The wine is bottled and stored."
-        ]
-      }
+    "hash_code_list_img": "1737259149",
+    "list_example": [
+      "a bottle of ginger beer."
     ],
-    "hash_code_list_definition_mean": "2061566699"
+    "hash_code_list_example": "644892659"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bottom_cb_dmean_5000_it.json",
@@ -2225,24 +1703,11 @@
         "id_image": "bottom_979792"
       }
     ],
-    "hash_code_list_img": "-1280296551",
-    "list_definition_mean": [
-      {
-        "mean_english": "đáy",
-        "definition": "the lowest part of anything",
-        "ex_of_definition_list": [
-          "the bottom of the sea."
-        ]
-      },
-      {
-        "mean_english": "mông đít",
-        "definition": "the part of the body on which a person sits",
-        "ex_of_definition_list": [
-          "She gave the child a smack on the bottom."
-        ]
-      }
+    "hash_code_list_img": "1870617805",
+    "list_example": [
+      "the bottom of the sea."
     ],
-    "hash_code_list_definition_mean": "1816935063"
+    "hash_code_list_example": "1877771760"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/boulder_cb_dmean_5000_it.json",
@@ -2265,17 +1730,14 @@
         "id_image": "boulder_2072406"
       }
     ],
-    "hash_code_list_img": "2121206544",
-    "list_definition_mean": [
-      {
-        "mean_english": "tảng đá",
-        "definition": "a large rock or stone",
-        "ex_of_definition_list": [
-          "A large boulder blocked the entrance to the cave."
-        ]
-      }
+    "hash_code_list_img": "-1465025817",
+    "list_example": [
+      "A large boulder blocked the entrance to the cave.",
+      "Adjacent to active border faults to the east and west, sheet- and debris flow-dominated alluvial boulder conglomerates accumulated.",
+      "Quaternary deposits are represented largely by modern cryological regoliths (ranging from coarse boulder to detritus-loamy regoliths).",
+      "Samples from the normal smooth surface of the gneiss boulder show that the surface has been ground and polished during glacial transportation."
     ],
-    "hash_code_list_definition_mean": "2109182462"
+    "hash_code_list_example": "1068125416"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bouncer_cb_dmean_5000_it.json",
@@ -2304,24 +1766,11 @@
         "id_image": "bouncer_3320224"
       }
     ],
-    "hash_code_list_img": "1531172178",
-    "list_definition_mean": [
-      {
-        "mean_english": "bảo vệ hộp đêm",
-        "definition": "someone whose job is to stop unwanted people from entering a club or bar, and to make people leave if they are behaving badly",
-        "ex_of_definition_list": [
-          "a nightclub bouncer."
-        ]
-      },
-      {
-        "mean_english": "cú ném trong môn bóng chày",
-        "definition": "(in cricket) a ball thrown very fast that rises above the batsman’s chest after it bounces",
-        "ex_of_definition_list": [
-          "He bowled a couple of nasty bouncers."
-        ]
-      }
+    "hash_code_list_img": "-1174604973",
+    "list_example": [
+      "If they won't let us in there's usually aggro—either on the bouncer or damage."
     ],
-    "hash_code_list_definition_mean": "-207392641"
+    "hash_code_list_example": "-1740149261"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bounce_cb_dmean_5000_it.json",
@@ -2357,38 +1806,10 @@
         "id_image": "bounce_5284182"
       }
     ],
-    "hash_code_list_img": "1890319986",
-    "list_definition_mean": [
-      {
-        "mean_english": "nảy lên",
-        "definition": "to (cause to) spring or jump back from a solid surface",
-        "ex_of_definition_list": [
-          "She was bouncing a ball against the wall",
-          "The children were bouncing up and down on a trampoline."
-        ]
-      },
-      {
-        "mean_english": "bị trả về cho người ký vì không có tài khoản",
-        "definition": "(of a cheque/check) to be sent back unpaid, because of lack of money in a bank account",
-        "ex_of_definition_list": [
-          "I tried to pay his cheque/check into my bank account, but it bounced."
-        ]
-      },
-      {
-        "mean_english": "sự nảy lên",
-        "definition": "(of a ball etc) an act of springing back",
-        "ex_of_definition_list": [
-          "With one bounce, the ball went over the wall."
-        ]
-      },
-      {
-        "mean_english": "nghị lực",
-        "definition": "energy",
-        "ex_of_definition_list": [
-          "There was a new bounce in his step."
-        ]
-      }
+    "hash_code_list_img": "-734074662",
+    "list_example": [
+      "There was a new bounce in his step."
     ],
-    "hash_code_list_definition_mean": "-1799419850"
+    "hash_code_list_example": "-311457346"
   }
 ]

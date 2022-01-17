@@ -15,17 +15,11 @@
         "id_image": "dementia_5705165"
       }
     ],
-    "hash_code_list_img": "921500181",
-    "list_definition_mean": [
-      {
-        "mean_english": "chứng mất trí",
-        "definition": "a serious illness that affects a person’s brain and memory, gradually causing them to lose the ability to think and behave normally",
-        "ex_of_definition_list": [
-          "She suffers from senile dementia."
-        ]
-      }
+    "hash_code_list_img": "1628800141",
+    "list_example": [
+      "She suffers from senile dementia."
     ],
-    "hash_code_list_definition_mean": "873636892"
+    "hash_code_list_example": "-1711830746"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/democracy_cb_dmean_5000_it.json",
@@ -63,18 +57,13 @@
         "id_image": "democracy_5392380"
       }
     ],
-    "hash_code_list_img": "1679885251",
-    "list_definition_mean": [
-      {
-        "mean_english": "dân chủ",
-        "definition": "(a country having) a form of government in which the people freely elect representatives to govern them",
-        "ex_of_definition_list": [
-          "Which is the world’s largest democracy?",
-          "He believes in democracy."
-        ]
-      }
+    "hash_code_list_img": "-2139476521",
+    "list_example": [
+      "Which is the world’s largest democracy?",
+      "He believes in democracy.",
+      "To measure democracy's effect on the stock of human capital, we need to allow for a significant time lag."
     ],
-    "hash_code_list_definition_mean": "273401494"
+    "hash_code_list_example": "1518758902"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/demographic_cb_dmean_5000_it.json",
@@ -113,24 +102,11 @@
         "id_image": "demographic_5835300"
       }
     ],
-    "hash_code_list_img": "-355918292",
-    "list_definition_mean": [
-      {
-        "mean_english": "đối tượng khách hàng",
-        "definition": "a particular section of the population that shares certain characteristics (age, gender etc) and is considered as a group",
-        "ex_of_definition_list": [
-          "The advertising deliberately targets the teenage female demographic."
-        ]
-      },
-      {
-        "mean_english": "thuộc nhân khẩu học",
-        "definition": "relating to the population and groups within it",
-        "ex_of_definition_list": [
-          "demographic trends."
-        ]
-      }
+    "hash_code_list_img": "-1769937562",
+    "list_example": [
+      "demographic trends."
     ],
-    "hash_code_list_definition_mean": "1691180413"
+    "hash_code_list_example": "1180377884"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/demography_cb_dmean_5000_it.json",
@@ -153,17 +129,11 @@
         "id_image": "demography_5671811"
       }
     ],
-    "hash_code_list_img": "-1571916444",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhân khẩu học",
-        "definition": "the scientific study of human populations and the changes that occur within them, for example by analysing statistics relating to births, deaths, diseases etc",
-        "ex_of_definition_list": [
-          "the social demography of Hungarian villages in the eighteenth and nineteenth centuries."
-        ]
-      }
+    "hash_code_list_img": "1673778326",
+    "list_example": [
+      "the social demography of Hungarian villages in the eighteenth and nineteenth centuries."
     ],
-    "hash_code_list_definition_mean": "411825399"
+    "hash_code_list_example": "1456300242"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/demolish_cb_dmean_5000_it.json",
@@ -201,17 +171,19 @@
         "id_image": "demolition_2276341"
       }
     ],
-    "hash_code_list_img": "-1257707602",
-    "list_definition_mean": [
-      {
-        "mean_english": "phá hủy",
-        "definition": "to pull or tear down",
-        "ex_of_definition_list": [
-          "They’re demolishing the old buildings in the centre of town."
-        ]
-      }
+    "hash_code_list_img": "-457703772",
+    "list_example": [
+      "They’re demolishing the old buildings in the centre of town.",
+      "The total number of listed redundant churches which have been demolished since 1969 is 53.",
+      "By 1980 it did none of this; rendered obsolete by containerization, the docks were largely derelict, many in®lled and most of the original dock buildings demolished.",
+      "Blocks of flats that were to be demolished have been revamped.",
+      "The theories were demolished in some of the first visual experiments, where objects could be identified from only a short spark-illuminated presentation.",
+      "In some cases they even demolished them in order to rebuild speculatively.",
+      "Press reports are replete with instances of courage and conviction of people who considered preservation of human feelings more important than demolishing religious institutions.",
+      "However, that estate of 1,018 flats and maisonettes, which was completed in 1973, is now being demolished.",
+      "The monumental buildings were demolished and made room for luxurious high-rise apartment blocks."
     ],
-    "hash_code_list_definition_mean": "768802726"
+    "hash_code_list_example": "-1982049697"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/demonstrate_cb_dmean_5000_it.json",
@@ -251,31 +223,11 @@
         "id_image": "demonstration_5635508"
       }
     ],
-    "hash_code_list_img": "-1483520622",
-    "list_definition_mean": [
-      {
-        "mean_english": "chứng minh",
-        "definition": "to show clearly",
-        "ex_of_definition_list": [
-          "This demonstrates his ignorance of the situation."
-        ]
-      },
-      {
-        "mean_english": "giải thích",
-        "definition": "to show how something works or is done",
-        "ex_of_definition_list": [
-          "He demonstrated how the new vacuum cleaner worked."
-        ]
-      },
-      {
-        "mean_english": "biểu tình",
-        "definition": "to express an opinion (usually political) by marching, showing banners etc in public",
-        "ex_of_definition_list": [
-          "A crowd collected to demonstrate against the new taxes."
-        ]
-      }
+    "hash_code_list_img": "-1579755839",
+    "list_example": [
+      "A crowd collected to demonstrate against the new taxes."
     ],
-    "hash_code_list_definition_mean": "355337996"
+    "hash_code_list_example": "-1136126734"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/demonstration_cb_dmean_5000_it.json",
@@ -314,24 +266,12 @@
         "id_image": "demonstration_5635508"
       }
     ],
-    "hash_code_list_img": "-581013122",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự trình diễn",
-        "definition": "a display or exhibition (of how something works etc)",
-        "ex_of_definition_list": [
-          "We were given a demonstration of how to use the new photocopier."
-        ]
-      },
-      {
-        "mean_english": "cuộc biểu tình",
-        "definition": "(also demoˈdemou – plural demos) a public expression of opinion by holding meetings and processions, showing placards etc",
-        "ex_of_definition_list": [
-          "The students have organized a demonstration against the education cuts."
-        ]
-      }
+    "hash_code_list_img": "-1821418726",
+    "list_example": [
+      "We were given a demonstration of how to use the new photocopier.",
+      "The students have organized a demonstration against the education cuts."
     ],
-    "hash_code_list_definition_mean": "2023904361"
+    "hash_code_list_example": "400035276"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/demonstrator_cb_dmean_5000_it.json",
@@ -365,17 +305,19 @@
         "id_image": "demonstrator_6009858"
       }
     ],
-    "hash_code_list_img": "-1565818917",
-    "list_definition_mean": [
-      {
-        "mean_english": "người biểu tình",
-        "definition": "a person who takes part in a public demonstration",
-        "ex_of_definition_list": [
-          "The demonstrators were chanting slogans against the government."
-        ]
-      }
+    "hash_code_list_img": "727505455",
+    "list_example": [
+      "The demonstrators were chanting slogans against the government.",
+      "425 transpose a demonstrator's actions in relation to herself into actions in relation to themselves.",
+      "When they passed a church along the route, the workers leading the column of demonstrators knelt down and received a blessing from two priests standing on the steps.",
+      "I call on their governments to embark on fruitful dialogue with the demonstrators.",
+      "Unfortunately, even the legitimate opinions of the peaceful demonstrators were obscured by the globalised violence of those who have become professional rioters.",
+      "As soon as the forces try to drive them out, the demonstrators will show that they are sufficiently committed to stop them leaving.",
+      "In 1989, however, the mammoth edifice would not be large enough to hold the 2,000 demonstrators who gathered for an evening service.",
+      "Including demonstrators, it has a teaching staff of forty-six.",
+      "Such quasi groups - which include voters, farmers, demonstrators, workers, and so on - are evidently of substantial importance for the investigation of many of the temporal sequences discussed in this essay."
     ],
-    "hash_code_list_definition_mean": "1914077815"
+    "hash_code_list_example": "775238855"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/demon_cb_dmean_5000_it.json",
@@ -403,17 +345,12 @@
         "id_image": "demon_606875"
       }
     ],
-    "hash_code_list_img": "1833830426",
-    "list_definition_mean": [
-      {
-        "mean_english": "ma quỷ",
-        "definition": "an evil spirit; a devil",
-        "ex_of_definition_list": [
-          "demons from Hell."
-        ]
-      }
+    "hash_code_list_img": "31138624",
+    "list_example": [
+      "Following our bounded rationality perspective, a fast and frugal mind need not employ a metalevel demon who makes optimal cost-benefit computations when selecting a heuristic.",
+      "The demon was then instructed to overturn a basin of water some distance away, in order to prove to onlookers that it had indeed left."
     ],
-    "hash_code_list_definition_mean": "434699892"
+    "hash_code_list_example": "1482560553"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/denial_cb_dmean_5000_it.json",
@@ -437,24 +374,17 @@
         "id_image": "denial_6349699"
       }
     ],
-    "hash_code_list_img": "1856026335",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự phủ nhận",
-        "definition": "(an act of) declaring that something is not true",
-        "ex_of_definition_list": [
-          "Do you accept her denial?"
-        ]
-      },
-      {
-        "mean_english": "sự từ chối",
-        "definition": "(an act of) refusing someone something",
-        "ex_of_definition_list": [
-          "a denial of his request."
-        ]
-      }
+    "hash_code_list_img": "1034144113",
+    "list_example": [
+      "a denial of his request.",
+      "In such a system, the judge's discretionary powers are limitless, and their arbitrariness would entail a denial of basic human rights.",
+      "The platform could also be inundated by denial of service attacks.",
+      "So a global denial of their veridicality would amount to an ontological claim that is, if not synonymous with atheism, at least antagonistic to theism.",
+      "There is often a culture of denial within some cultures toward mental illness.",
+      "These elements combine to create a profile that is an outright denial of the semiotics of the meyhanes and the luxury seafood restaurants.",
+      "Indeed, it is exactly the sort of denial that prompted the formulation of the neutrality thesis in the first place."
     ],
-    "hash_code_list_definition_mean": "-643397647"
+    "hash_code_list_example": "1031142222"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/density_cb_dmean_5000_it.json",
@@ -488,24 +418,12 @@
         "id_image": "density_6080884"
       }
     ],
-    "hash_code_list_img": "-1074208683",
-    "list_definition_mean": [
-      {
-        "mean_english": "mật độ",
-        "definition": "the number of items, people etc found in a given area compared with other areas especially if large",
-        "ex_of_definition_list": [
-          "the density of the population."
-        ]
-      },
-      {
-        "mean_english": "tỷ trọng",
-        "definition": "the quantity of matter in each unit of volume",
-        "ex_of_definition_list": [
-          "the density of a gas."
-        ]
-      }
+    "hash_code_list_img": "524682836",
+    "list_example": [
+      "the density of the population.",
+      "the density of a gas."
     ],
-    "hash_code_list_definition_mean": "-1088301412"
+    "hash_code_list_example": "1222814087"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dental_cb_dmean_5000_it.json",
@@ -543,17 +461,19 @@
         "id_image": "dental_5714939"
       }
     ],
-    "hash_code_list_img": "1896534912",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc về răng",
-        "definition": "of or for the teeth",
-        "ex_of_definition_list": [
-          "Regular dental care is essential for healthy teeth."
-        ]
-      }
+    "hash_code_list_img": "-1415756760",
+    "list_example": [
+      "Regular dental care is essential for healthy teeth.",
+      "Records were kept of their age (according to dental formula and physical appearance), gender and locality.",
+      "Differences in age assessments are likely explained by misidentification of molar positions in the original study and improved standards for dental maturation.",
+      "However, the private sector provides a major proportion of specialist consultations, dental consultations, and diagnostic services.",
+      "Lack of illness or injury, good dental health, and normal waist circumference had the strongest associations with perceived good health.",
+      "Obtaining dental wax cast from north wall boards 'stores hut'.",
+      "The estimated change in the medical cost per day was -3.15% for inpatient, -13.00% for outpatient, and -11.48% for dental care.",
+      "Most of the funds provide in-kind benefits, including medical, diagnostic, hospital, and rehabilitation services as well as dental and ophthalmic services.",
+      "There is no dental hypoplasia, indicating a childhood free of any serious or prolonged health stress."
     ],
-    "hash_code_list_definition_mean": "2013063909"
+    "hash_code_list_example": "652951166"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dentistry_cb_dmean_5000_it.json",
@@ -586,17 +506,15 @@
         "id_image": "dentistry_4728465"
       }
     ],
-    "hash_code_list_img": "-1834918843",
-    "list_definition_mean": [
-      {
-        "mean_english": "nha khoa",
-        "definition": "a dentist’s work",
-        "ex_of_definition_list": [
-          "the School of Dentistry at the University of Manchester."
-        ]
-      }
+    "hash_code_list_img": "-665518017",
+    "list_example": [
+      "The trend towards the expansion of private dentistry seems well entrenched.",
+      "The main trends in dentistry are driven by both knightly and knavish motives.",
+      "It was only in the 1980s that the progress in dentistry made this obsolete.",
+      "First, the professional ethos of dentistry is that of the autonomous clinician directly engaged with the patient.",
+      "During the same years, spending in dentistry grew 62 per cent, and private expenditure (drugs, physicians and equipment) 59 per cent."
     ],
-    "hash_code_list_definition_mean": "1328225982"
+    "hash_code_list_example": "-1295500801"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dentist_cb_dmean_5000_it.json",
@@ -634,18 +552,11 @@
         "id_image": "dentist_980015"
       }
     ],
-    "hash_code_list_img": "-1524718914",
-    "list_definition_mean": [
-      {
-        "mean_english": "nha sỹ",
-        "definition": "a person who cares for diseases etc of the teeth, by filling or removing them etc",
-        "ex_of_definition_list": [
-          "Have you made an appointment with the dentist yet?",
-          "I hate going to the dentist."
-        ]
-      }
+    "hash_code_list_img": "1211296833",
+    "list_example": [
+      "Have you made an appointment with the dentist yet?"
     ],
-    "hash_code_list_definition_mean": "43951615"
+    "hash_code_list_example": "-679324006"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/deny_cb_dmean_5000_it.json",
@@ -674,24 +585,11 @@
         "id_image": "deny_2776427"
       }
     ],
-    "hash_code_list_img": "-1900475315",
-    "list_definition_mean": [
-      {
-        "mean_english": "phủ nhận",
-        "definition": "to declare not to be true",
-        "ex_of_definition_list": [
-          "He denied the charge of theft."
-        ]
-      },
-      {
-        "mean_english": "từ chối",
-        "definition": "to refuse (to give or grant someone something); to say ’no’ to",
-        "ex_of_definition_list": [
-          "He was denied admission to the party."
-        ]
-      }
+    "hash_code_list_img": "-395639592",
+    "list_example": [
+      "By doing so, he was denying the local shepherds a right they had exercised as long as they could remember."
     ],
-    "hash_code_list_definition_mean": "1534882173"
+    "hash_code_list_example": "-1718542363"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/deodorant_cb_dmean_5000_it.json",
@@ -729,17 +627,13 @@
         "id_image": "deodorant_546144"
       }
     ],
-    "hash_code_list_img": "1028282013",
-    "list_definition_mean": [
-      {
-        "mean_english": "chất khử mùi",
-        "definition": "a substance that destroys or conceals unpleasant (body) smells",
-        "ex_of_definition_list": [
-          "She perspires a lot – she should use (a) deodorant."
-        ]
-      }
+    "hash_code_list_img": "1088160157",
+    "list_example": [
+      "Of the patients, 80% who used the deodorant said that it was pleasant to use and 65% said that they would use it again.",
+      "As mentioned deodorant whilst having their axilla treated.",
+      "Patients were also asked to complete a questionnaire relating to feelings and activities and to comment on the deodorant if they had used it."
     ],
-    "hash_code_list_definition_mean": "1268892097"
+    "hash_code_list_example": "-2136793234"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/department_cb_dmean_5000_it.json",
@@ -757,18 +651,12 @@
         "id_image": "department_2206541"
       }
     ],
-    "hash_code_list_img": "1029176253",
-    "list_definition_mean": [
-      {
-        "mean_english": "bộ; ban",
-        "definition": "a part or section of a government, university, office, or shop",
-        "ex_of_definition_list": [
-          "The Department of Justice",
-          "the sales department."
-        ]
-      }
+    "hash_code_list_img": "923437965",
+    "list_example": [
+      "In previous reports, we assessed the value of diagnostic and treatment procedures in the management of children visiting the emergency department with meningeal signs.",
+      "This approach is straightforward when a single diagnosis is listed, as is often the case for outpatient and emergency department visits."
     ],
-    "hash_code_list_definition_mean": "580340239"
+    "hash_code_list_example": "-1616530071"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/departure_cb_dmean_5000_it.json",
@@ -801,17 +689,11 @@
         "id_image": "departure_529907"
       }
     ],
-    "hash_code_list_img": "2144821893",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự khởi hành",
-        "definition": "an act of departing",
-        "ex_of_definition_list": [
-          "The departure of the train was delayed."
-        ]
-      }
+    "hash_code_list_img": "-2139851902",
+    "list_example": [
+      "The departure of the train was delayed."
     ],
-    "hash_code_list_definition_mean": "741236369"
+    "hash_code_list_example": "474260887"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/deposit_cb_dmean_5000_it.json",
@@ -855,59 +737,13 @@
         "id_image": "deposit_5848031"
       }
     ],
-    "hash_code_list_img": "-442916651",
-    "list_definition_mean": [
-      {
-        "mean_english": "đặt",
-        "definition": "to put or set down",
-        "ex_of_definition_list": [
-          "She deposited her shopping basket in the kitchen."
-        ]
-      },
-      {
-        "mean_english": "gửi tiền vào ngân hàng",
-        "definition": "to put in for safe keeping",
-        "ex_of_definition_list": [
-          "He deposited the money in the bank."
-        ]
-      },
-      {
-        "mean_english": "khoản tiền gửi vào tài khoản",
-        "definition": "an act of putting money in a bank etc",
-        "ex_of_definition_list": [
-          "She made several large deposits at the bank during that month."
-        ]
-      },
-      {
-        "mean_english": "tiền đặt cọc",
-        "definition": "an act of paying money as a guarantee that money which is or will be owed will be paid",
-        "ex_of_definition_list": [
-          "We have put down a deposit on a house in the country."
-        ]
-      },
-      {
-        "mean_english": "tiền ký quỹ",
-        "definition": "the money put into a bank or paid as a guarantee in this way",
-        "ex_of_definition_list": [
-          "We decided we could not afford to go on holiday and managed to get back the deposit which we had paid."
-        ]
-      },
-      {
-        "mean_english": "lớp chất đọng lại do một chất lỏng",
-        "definition": "a quantity of solid matter that has settled at the bottom of a liquid, or is left behind by a liquid",
-        "ex_of_definition_list": [
-          "The floodwater left a yellow deposit over everything."
-        ]
-      },
-      {
-        "mean_english": "trầm tích",
-        "definition": "a layer (of coal, iron etc) occurring naturally in rock",
-        "ex_of_definition_list": [
-          "rich deposits of iron ore."
-        ]
-      }
+    "hash_code_list_img": "311396529",
+    "list_example": [
+      "We have put down a deposit on a house in the country.",
+      "We decided we could not afford to go on holiday and managed to get back the deposit which we had paid.",
+      "The floodwater left a yellow deposit over everything."
     ],
-    "hash_code_list_definition_mean": "131479448"
+    "hash_code_list_example": "-338130619"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/depot_cb_dmean_5000_it.json",
@@ -927,25 +763,21 @@
         "id_image": "depot_5132400"
       }
     ],
-    "hash_code_list_img": "1881716203",
-    "list_definition_mean": [
-      {
-        "mean_english": "ga xe lửa hoặc bến xe buýt",
-        "definition": "a central warehouse where large amount of food, goods or equipment are stored",
-        "ex_of_definition_list": [
-          "a freight depot",
-          "an oil storage depot."
-        ]
-      },
-      {
-        "mean_english": "kho hàng",
-        "definition": "a place where vehicles are kept and repaired",
-        "ex_of_definition_list": [
-          "a bus/tram depot."
-        ]
-      }
+    "hash_code_list_img": "165443660",
+    "list_example": [
+      "a freight depot",
+      "an oil storage depot.",
+      "a bus/tram depot.",
+      "The number sent to the depots is 2,775.",
+      "In the near vicinity, we are threatened by what are, in theory, worthy causes—the construction f two rail freight depots.",
+      "One relates to railway freight and the delivery time of goods, and the other to road haul- age depots.",
+      "Most of this damage is done to trains in depots and in sidings.",
+      "The filth must be collected along with the parade of carts, which meant that the filth did not have to wait in the 74 depots.",
+      "Railtrack says that it has identified 90 new freight depots, indicating that it has paid for the work.",
+      "The big industrial concerns in this country establish depots.",
+      "The focus was on small parties establishing depots and the use of boats for sea journeys, and dogs and ponies for sledge journeys with skis for personal transportation."
     ],
-    "hash_code_list_definition_mean": "1838033137"
+    "hash_code_list_example": "358630940"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/depression_cb_dmean_5000_it.json",
@@ -981,31 +813,12 @@
         "id_image": "depression_670798"
       }
     ],
-    "hash_code_list_img": "-950234672",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự trầm cảm",
-        "definition": "a state of sadness and low spirits",
-        "ex_of_definition_list": [
-          "She was treated by the doctor for depression."
-        ]
-      },
-      {
-        "mean_english": "tình trạng suy thoái",
-        "definition": "lack of activity in trade",
-        "ex_of_definition_list": [
-          "the depression of the 1930s."
-        ]
-      },
-      {
-        "mean_english": "vùng áp thấp",
-        "definition": "an area of low pressure in the atmosphere",
-        "ex_of_definition_list": [
-          "The bad weather is caused by a depression over the Atlantic."
-        ]
-      }
+    "hash_code_list_img": "-182922384",
+    "list_example": [
+      "the depression of the 1930s.",
+      "The bad weather is caused by a depression over the Atlantic."
     ],
-    "hash_code_list_definition_mean": "-1620426904"
+    "hash_code_list_example": "-282001994"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/depth_cb_dmean_5000_it.json",
@@ -1029,25 +842,13 @@
         "id_image": "depth_5772867"
       }
     ],
-    "hash_code_list_img": "-1025898225",
-    "list_definition_mean": [
-      {
-        "mean_english": "độ sâu",
-        "definition": "the distance from the top downwards or from the surface inwards especially if great",
-        "ex_of_definition_list": [
-          "Coal is mined at a depth of 1,000 m."
-        ]
-      },
-      {
-        "mean_english": "cường độ",
-        "definition": "intensity or strength especially if great",
-        "ex_of_definition_list": [
-          "The depth of colour in the painting is astonishing",
-          "The depth of his feeling prevented him from speaking."
-        ]
-      }
+    "hash_code_list_img": "-1916418852",
+    "list_example": [
+      "Coal is mined at a depth of 1,000 m.",
+      "The depth of colour in the painting is astonishing",
+      "The depth of his feeling prevented him from speaking."
     ],
-    "hash_code_list_definition_mean": "-605101479"
+    "hash_code_list_example": "-1348145533"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/derrick_cb_dmean_5000_it.json",
@@ -1071,17 +872,13 @@
         "id_image": "derrick_882876"
       }
     ],
-    "hash_code_list_img": "244363214",
-    "list_definition_mean": [
-      {
-        "mean_english": "cần trục lớn",
-        "definition": "an apparatus like a mechanical crane for lifting weights",
-        "ex_of_definition_list": [
-          "The ship was unloaded, using the large derricks on the quay."
-        ]
-      }
+    "hash_code_list_img": "-861653338",
+    "list_example": [
+      "However, when drilling is taking place, there can be considerable noise from the operations, together with visual intrusion from a derrick 120 ft.",
+      "Otherwise, a traveling cantilever derrick may be used to extend the deck one section at a time starting from the towers and working outward.",
+      "Then one of the heavy steel and concrete containers crashed from a derrick into the ship's hold and was damaged."
     ],
-    "hash_code_list_definition_mean": "1581687108"
+    "hash_code_list_example": "-1758098337"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/descent_cb_dmean_5000_it.json",
@@ -1101,31 +898,16 @@
         "id_image": "descent_4344686"
       }
     ],
-    "hash_code_list_img": "484878812",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự đi xuống",
-        "definition": "the act of descending",
-        "ex_of_definition_list": [
-          "The descent of the hill was quickly completed."
-        ]
-      },
-      {
-        "mean_english": "đường dốc",
-        "definition": "a slope",
-        "ex_of_definition_list": [
-          "That is a steep descent."
-        ]
-      },
-      {
-        "mean_english": "dòng dõi",
-        "definition": "family; ancestry",
-        "ex_of_definition_list": [
-          "She is of royal descent."
-        ]
-      }
+    "hash_code_list_img": "1642154866",
+    "list_example": [
+      "The descent of the hill was quickly completed.",
+      "Finally, when an update to the descent graph of final descendants was chosen, 10-20 segregation indicators were changed.",
+      "Consequently, the pair [1.85]-[1.86] may be viewed as a realisation of the ascent-descent paradigm (or of its inverse).",
+      "His descent into hypocrisy and finally into openly acknowledged roguery outlines the corruptive effects of financial speculation.",
+      "Although the optimal rate of convergence of such a descent algorithm is relatively slow, the radius of convergence is rather large.",
+      "The dc function takes an arbitrary drawing procedure and a height, width, ascent, and descent for the pict."
     ],
-    "hash_code_list_definition_mean": "1898354501"
+    "hash_code_list_example": "788698204"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/description_cb_dmean_5000_it.json",
@@ -1160,31 +942,11 @@
         "id_image": "description_2620334"
       }
     ],
-    "hash_code_list_img": "1100702298",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự mô tả",
-        "definition": "(an) act of describing",
-        "ex_of_definition_list": [
-          "I recognized him from your description."
-        ]
-      },
-      {
-        "mean_english": "sự tả",
-        "definition": "an account of anything in words",
-        "ex_of_definition_list": [
-          "He gave a description of his holiday."
-        ]
-      },
-      {
-        "mean_english": "kiểu, loại",
-        "definition": "a sort or kind",
-        "ex_of_definition_list": [
-          "He carried a gun of some description."
-        ]
-      }
+    "hash_code_list_img": "-1792305807",
+    "list_example": [
+      "He gave a description of his holiday."
     ],
-    "hash_code_list_definition_mean": "-1197264715"
+    "hash_code_list_example": "-1777643243"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/desert_cb_dmean_5000_it.json",
@@ -1219,32 +981,18 @@
         "id_image": "desert_619136"
       }
     ],
-    "hash_code_list_img": "1185766125",
-    "list_definition_mean": [
-      {
-        "mean_english": "bỏ đi",
-        "definition": "to go away from and leave without help etc; to leave or abandon",
-        "ex_of_definition_list": [
-          "Why did you desert us?"
-        ]
-      },
-      {
-        "mean_english": "đào ngũ",
-        "definition": "to run away, usually from the army",
-        "ex_of_definition_list": [
-          "He was shot for trying to desert."
-        ]
-      },
-      {
-        "mean_english": "sa mạc",
-        "definition": "an area of barren country, usually hot, dry and sandy, where there is very little rain",
-        "ex_of_definition_list": [
-          "Parts of the country are like a desert",
-          "(also adjective) desert plants."
-        ]
-      }
+    "hash_code_list_img": "-1922688275",
+    "list_example": [
+      "Why did you desert us?",
+      "(also adjective) desert plants.",
+      "They sit on the least viable chunk of desert and scrub that exists.",
+      "Moreover, measuring the extent of a person's desert of punishment requires addressing difficult epistemological questions about excusing and mitigating circumstances.",
+      "Ordinary citizens, as voters, would desert centrist parties and transfer their allegiance to the extremes.",
+      "Determining whether the epistemological argument's assumptions about desert are in fact correct would take us far afield.",
+      "Only at this point does the loggia reveal itself to the right, and through it a 50-mile vista of the desert below.",
+      "Such accumulations are observed in certain desert environments on earth."
     ],
-    "hash_code_list_definition_mean": "-1233627553"
+    "hash_code_list_example": "388111692"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/designer_cb_dmean_5000_it.json",
@@ -1282,18 +1030,11 @@
         "id_image": "designer_6385077"
       }
     ],
-    "hash_code_list_img": "954486420",
-    "list_definition_mean": [
-      {
-        "mean_english": "người thiết kế",
-        "definition": "a person who makes designs or patterns",
-        "ex_of_definition_list": [
-          "a fashion designer",
-          "He is the designer of the yacht."
-        ]
-      }
+    "hash_code_list_img": "775722863",
+    "list_example": [
+      "He is the designer of the yacht."
     ],
-    "hash_code_list_definition_mean": "299617114"
+    "hash_code_list_example": "-2039808501"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/design_cb_dmean_5000_it.json",
@@ -1335,46 +1076,14 @@
         "id_image": "design_997305"
       }
     ],
-    "hash_code_list_img": "2083254538",
-    "list_definition_mean": [
-      {
-        "mean_english": "thiết kế",
-        "definition": "to invent and prepare a plan of (something) before it is built or made",
-        "ex_of_definition_list": [
-          "A famous architect designed this building."
-        ]
-      },
-      {
-        "mean_english": "bản thiết kế",
-        "definition": "a sketch or plan produced before something is made",
-        "ex_of_definition_list": [
-          "a design for a dress."
-        ]
-      },
-      {
-        "mean_english": "cách trang trí",
-        "definition": "style; the way in which something has been made or put together",
-        "ex_of_definition_list": [
-          "It is very modern in design",
-          "I don’t like the design of that building."
-        ]
-      },
-      {
-        "mean_english": "họa tiết",
-        "definition": "a pattern etc",
-        "ex_of_definition_list": [
-          "The curtains have a flower design on them."
-        ]
-      },
-      {
-        "mean_english": "ý định",
-        "definition": "a plan formed in the mind; (an) intention",
-        "ex_of_definition_list": [
-          "Our holidays coincided by design and not by accident."
-        ]
-      }
+    "hash_code_list_img": "1703871595",
+    "list_example": [
+      "a design for a dress.",
+      "I don’t like the design of that building.",
+      "The curtains have a flower design on them.",
+      "Our holidays coincided by design and not by accident."
     ],
-    "hash_code_list_definition_mean": "887011063"
+    "hash_code_list_example": "-1393904339"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/desire_cb_dmean_5000_it.json",
@@ -1403,25 +1112,13 @@
         "id_image": "desire_708674"
       }
     ],
-    "hash_code_list_img": "-791514839",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự khao khát",
-        "definition": "a wish or longing",
-        "ex_of_definition_list": [
-          "I have a sudden desire for a bar of chocolate",
-          "I have no desire ever to see him again."
-        ]
-      },
-      {
-        "mean_english": "khao khát",
-        "definition": "to long for or feel desire for",
-        "ex_of_definition_list": [
-          "After a day’s work, all I desire is a hot bath."
-        ]
-      }
+    "hash_code_list_img": "-2033128661",
+    "list_example": [
+      "I have a sudden desire for a bar of chocolate",
+      "I have no desire ever to see him again.",
+      "After a day’s work, all I desire is a hot bath."
     ],
-    "hash_code_list_definition_mean": "401239845"
+    "hash_code_list_example": "-1472673363"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/desktop_cb_dmean_5000_it.json",
@@ -1455,24 +1152,14 @@
         "id_image": "desktop_5512041"
       }
     ],
-    "hash_code_list_img": "760368529",
-    "list_definition_mean": [
-      {
-        "mean_english": "bàn giấy",
-        "definition": "the top surface of a desk",
-        "ex_of_definition_list": [
-          "Her desktop was covered in untidy piles of papers."
-        ]
-      },
-      {
-        "mean_english": "màn hình desktop",
-        "definition": "the main screen display of a computer which shows the icons of the programs that are available for use",
-        "ex_of_definition_list": [
-          "You can create a shortcut to the program on your desktop."
-        ]
-      }
+    "hash_code_list_img": "1299206501",
+    "list_example": [
+      "Her desktop was covered in untidy piles of papers.",
+      "In the near future it will be more and more common to have desktop computers with two or four processors.",
+      "A radical redesign of the desktop computer might do the trick.",
+      "Each listener sat in front of a desktop computer that controlled the presentation of the stimuli."
     ],
-    "hash_code_list_definition_mean": "-1910888166"
+    "hash_code_list_example": "10903032"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/desk_cb_dmean_5000_it.json",
@@ -1510,17 +1197,19 @@
         "id_image": "desk_288076"
       }
     ],
-    "hash_code_list_img": "80020182",
-    "list_definition_mean": [
-      {
-        "mean_english": "bàn viết",
-        "definition": "a piece of furniture, often like a table, for sitting at while writing, reading etc",
-        "ex_of_definition_list": [
-          "She kept the pile of letters in a drawer in her desk."
-        ]
-      }
+    "hash_code_list_img": "-547027938",
+    "list_example": [
+      "She kept the pile of letters in a drawer in her desk.",
+      "I am worried, as a result of my personal observation, about the immaturity of many of those who are behind teachers' desks today.",
+      "There were no desks, and no seats for the children.",
+      "The aura of opulence had gone: chaises-longues and chandeliers had given way to desks and cupboards.",
+      "All have recently been supplied with new desks and chairs as part of their introduction of computer systems.",
+      "During the war, we were told that children were automatically drawing pictures of aircraft as they sat at their desks in the schools.",
+      "I have never heard of a federation in which the governor-general had two desks.",
+      "In that event, let the young people sit at their desks and learn what is taught, however much it bores them.",
+      "They can be put on desks and serve as a necessary appliance with manipulability."
     ],
-    "hash_code_list_definition_mean": "1291180472"
+    "hash_code_list_example": "116464502"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/despair_cb_dmean_5000_it.json",
@@ -1545,31 +1234,13 @@
         "id_image": "despair_708667"
       }
     ],
-    "hash_code_list_img": "-1353861461",
-    "list_definition_mean": [
-      {
-        "mean_english": "thất vọng",
-        "definition": "to lose hope (of)",
-        "ex_of_definition_list": [
-          "I despair of ever teaching my son anything."
-        ]
-      },
-      {
-        "mean_english": "sự tuyệt vọng",
-        "definition": "the state of having given up hope",
-        "ex_of_definition_list": [
-          "He was filled with despair at the news."
-        ]
-      },
-      {
-        "mean_english": "làm ai thất vọng",
-        "definition": "(with the) something which causes someone to despair",
-        "ex_of_definition_list": [
-          "He is the despair of his mother."
-        ]
-      }
+    "hash_code_list_img": "-1951992333",
+    "list_example": [
+      "I despair of ever teaching my son anything.",
+      "He was filled with despair at the news.",
+      "He is the despair of his mother."
     ],
-    "hash_code_list_definition_mean": "1558837147"
+    "hash_code_list_example": "-598391367"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dessert_cb_dmean_5000_it.json",
@@ -1608,17 +1279,13 @@
         "id_image": "dessert_4072145"
       }
     ],
-    "hash_code_list_img": "-867001703",
-    "list_definition_mean": [
-      {
-        "mean_english": "món tráng miệng",
-        "definition": "the sweet course in a meal; pudding",
-        "ex_of_definition_list": [
-          "We had ice cream for dessert."
-        ]
-      }
+    "hash_code_list_img": "-1510108618",
+    "list_example": [
+      "Eggs were not used to make the dessert buns.",
+      "Her favourite dessert was chocolate cake with frosting.",
+      "After realizing that dessert buns could be implicated through the findings of descriptive and analytical epidemiology, we decided to examine more dessert buns."
     ],
-    "hash_code_list_definition_mean": "2045314448"
+    "hash_code_list_example": "417338237"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/destination_cb_dmean_5000_it.json",
@@ -1646,17 +1313,11 @@
         "id_image": "destination_854945"
       }
     ],
-    "hash_code_list_img": "1482883669",
-    "list_definition_mean": [
-      {
-        "mean_english": "nơi đến",
-        "definition": "the place to which someone or something is going",
-        "ex_of_definition_list": [
-          "I think we’ve arrived at our destination at last."
-        ]
-      }
+    "hash_code_list_img": "-2068918086",
+    "list_example": [
+      "I think we’ve arrived at our destination at last."
     ],
-    "hash_code_list_definition_mean": "1716645827"
+    "hash_code_list_example": "1032944351"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/destroyer_cb_dmean_5000_it.json",
@@ -1674,17 +1335,19 @@
         "id_image": "destroyer_3806893"
       }
     ],
-    "hash_code_list_img": "447392752",
-    "list_definition_mean": [
-      {
-        "mean_english": "tàu khu trục",
-        "definition": "a type of small fast warship",
-        "ex_of_definition_list": [
-          "naval destroyers."
-        ]
-      }
+    "hash_code_list_img": "417020763",
+    "list_example": [
+      "naval destroyers.",
+      "As a result, last summer, 1,000 redundancies were announced just as the orders were awarded for the type 45 destroyers.",
+      "I would hazard a guess that any aircraft with propellers on it by 1967 will look as funny as those four-funnelled destroyers did.",
+      "In the longer term, we have plans to place sufficient orders to maintain a force of about 50 destroyers and frigates.",
+      "One cruiser and two destroyers have been damaged but have returned safely to their bases.",
+      "They talk about aiming at having about 50 frigates and destroyers at their disposal.",
+      "The cost of destroyers has increased from £108 per standard ton to £228; and that of submarines, average for large and small, from £132 to something like £350.",
+      "As to destroyers, it is very much the same.",
+      "There has been a certain amount of criticism in some quarters that we are not building enough destroyers."
     ],
-    "hash_code_list_definition_mean": "302846925"
+    "hash_code_list_example": "-1739158882"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/destroy_cb_dmean_5000_it.json",
@@ -1703,24 +1366,20 @@
         "id_image": "destroy_2752076"
       }
     ],
-    "hash_code_list_img": "987620617",
-    "list_definition_mean": [
-      {
-        "mean_english": "phá hủy",
-        "definition": "to put an end to or make useless; to ruin",
-        "ex_of_definition_list": [
-          "Vandals destroyed the bus shelter."
-        ]
-      },
-      {
-        "mean_english": "giết",
-        "definition": "to kill (animals)",
-        "ex_of_definition_list": [
-          "This poison destroys rats."
-        ]
-      }
+    "hash_code_list_img": "831404385",
+    "list_example": [
+      "Vandals destroyed the bus shelter.",
+      "This poison destroys rats.",
+      "As in 1822, severe weather during the previous autumn had destroyed crops and resulted in food shortages during the early part of the year.",
+      "One is sighted before the other and this first effect, however slight and transient, immediately destroys the perfect symmetry.",
+      "If these become damaged or even destroyed by exogenous influences the continuation of a specie may be in danger.",
+      "If these snails are subsequently exposed to normal miracidia, the parasites are quickly destroyed by amoebocytes near the penetration area in the head-foot.",
+      "They destroyed the power structure, leaving the masks lying on the floor, impotent without their bundled remains.",
+      "Many houses (house) were destroyed by the flood last week.",
+      "By contrast, imperative data structures are typically ephemeral: an update destroys the old version of the data structure.",
+      "Each of the actions performed by the robot results in correlations newly established between the objects, with some old correlations being destroyed."
     ],
-    "hash_code_list_definition_mean": "1539316109"
+    "hash_code_list_example": "-1807825506"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/destruction_cb_dmean_5000_it.json",
@@ -1749,24 +1408,18 @@
         "id_image": "destruction_4742503"
       }
     ],
-    "hash_code_list_img": "251578561",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự tàn phá",
-        "definition": "the act or process of destroying or being destroyed",
-        "ex_of_definition_list": [
-          "the destruction of the city."
-        ]
-      },
-      {
-        "mean_english": "tình trạng bị phá hủy",
-        "definition": "the state of being destroyed; ruin",
-        "ex_of_definition_list": [
-          "The hurricane left behind a scene of destruction."
-        ]
-      }
+    "hash_code_list_img": "129000284",
+    "list_example": [
+      "the destruction of the city.",
+      "At the outer edges of the plume, however, the production and destruction terms rapidly approach zero and advection and transport balance each other.",
+      "The specific power deposition must be reduced to avoid destruction of the target.",
+      "Thus, we can think of the destruction of the city by the enemy as the name of the event the enemy destroyed the city.",
+      "Moreover, not only the death of two persons was dealt with, but also the destruction and transformation of an entire village.",
+      "For the efficacy of the method, the authors stress the importance of strict adherence to the dosing schedule and destruction of non-dosed stray dogs.",
+      "To that extent, the destruction caused by the motorway releases a certain amount of mythical meaning into the landscape, into what remains.",
+      "And might the lack of earlier barrow destruction also have something to do with more extensive farming systems?"
     ],
-    "hash_code_list_definition_mean": "-1352294698"
+    "hash_code_list_example": "-502860145"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/detail_cb_dmean_5000_it.json",
@@ -1795,24 +1448,11 @@
         "id_image": "detail_5673243"
       }
     ],
-    "hash_code_list_img": "-1509560090",
-    "list_definition_mean": [
-      {
-        "mean_english": "chi tiết",
-        "definition": "a small part or an item",
-        "ex_of_definition_list": [
-          "She paid close attention to the small details."
-        ]
-      },
-      {
-        "mean_english": "đặc điểm",
-        "definition": "all the small features and parts considered as a whole",
-        "ex_of_definition_list": [
-          "Look at the amazing detail in this drawing!"
-        ]
-      }
+    "hash_code_list_img": "1000959776",
+    "list_example": [
+      "Look at the amazing detail in this drawing!"
     ],
-    "hash_code_list_definition_mean": "-2023948816"
+    "hash_code_list_example": "1823216634"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/detective_cb_dmean_5000_it.json",
@@ -1845,18 +1485,18 @@
         "id_image": "detective_2646542"
       }
     ],
-    "hash_code_list_img": "1830329513",
-    "list_definition_mean": [
-      {
-        "mean_english": "thám tử",
-        "definition": "a person who tries to find criminals or watches suspected persons",
-        "ex_of_definition_list": [
-          "a private detective",
-          "She was questioned by detectives."
-        ]
-      }
+    "hash_code_list_img": "1207689655",
+    "list_example": [
+      "a private detective",
+      "She was questioned by detectives.",
+      "We were assured by the police that the sources of information for private detectives were not police sources.",
+      "I believe that we must do all we can to recruit more detectives.",
+      "In total, the number of detectives and other experts involved in all these activities has been increased by 150.",
+      "I cannot take a walk down the street without the detectives beside me.",
+      "I know that it has been stated that the detectives are in a different building, but that is not true.",
+      "I agreed particularly about the use which private detectives make of bugging devices."
     ],
-    "hash_code_list_definition_mean": "1312126897"
+    "hash_code_list_example": "127111983"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/detention_cb_dmean_5000_it.json",
@@ -1879,17 +1519,11 @@
         "id_image": "detention_5777990"
       }
     ],
-    "hash_code_list_img": "582361597",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự giam giữ",
-        "definition": "the state of being imprisoned",
-        "ex_of_definition_list": [
-          "The suspects are being held in detention."
-        ]
-      }
+    "hash_code_list_img": "834663347",
+    "list_example": [
+      "The suspects are being held in detention."
     ],
-    "hash_code_list_definition_mean": "7881265"
+    "hash_code_list_example": "-171699345"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/detergent_cb_dmean_5000_it.json",
@@ -1927,17 +1561,15 @@
         "id_image": "detergent_525795"
       }
     ],
-    "hash_code_list_img": "-1369059533",
-    "list_definition_mean": [
-      {
-        "mean_english": "chất tẩy",
-        "definition": "a (soapless) substance used for cleaning",
-        "ex_of_definition_list": [
-          "She poured detergent into the washing machine."
-        ]
-      }
+    "hash_code_list_img": "-1408110620",
+    "list_example": [
+      "She poured detergent into the washing machine.",
+      "Which detergent did the woman clean the floors with last night?",
+      "The third step is acquisition of protease resistance and takes place several hours after acquisition of detergent insolubility.",
+      "Detergents, which are commonly used for stabilizing and purifying hydrophobic molecules, can also be problematic, as detergent micelles scatter very well.",
+      "Traps were visited weekly to remove moths and replenish water and detergent with pheromone lures renewed every four to five weeks."
     ],
-    "hash_code_list_definition_mean": "1559261961"
+    "hash_code_list_example": "223527174"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/determination_cb_dmean_5000_it.json",
@@ -1961,17 +1593,18 @@
         "id_image": "determination_5661047"
       }
     ],
-    "hash_code_list_img": "1042566246",
-    "list_definition_mean": [
-      {
-        "mean_english": "tính cương quyết",
-        "definition": "firmness of character or stubbornness",
-        "ex_of_definition_list": [
-          "She showed her determination by refusing to give way."
-        ]
-      }
+    "hash_code_list_img": "827363486",
+    "list_example": [
+      "She showed her determination by refusing to give way.",
+      "This permits the determination of the allowable fuel for the aircraft, which ultimately yields the range capability.",
+      "The final chapter on pigmentation considers the likely biological significance of a trait much used in the determination of racial affinities.",
+      "This allows the determination of the asymmetry coefficient of the gravitational turbulent mixing for gases.",
+      "In spite of his conscious determination to appear young, his unconscious fears ultimately become realized.",
+      "Dramatically increasing repression in this way reflected the monarchy's determination to have provincial elites uphold royal authority.",
+      "Thus, once the partitioning of the domain is done, the determination of the 'best' function is straightforward.",
+      "The non-specific activation that occurs with conventional stimuli complicates the determination of the mechanisms of action and may contribute to side effects."
     ],
-    "hash_code_list_definition_mean": "542767012"
+    "hash_code_list_example": "-1272619728"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/detour_cb_dmean_5000_it.json",
@@ -1999,17 +1632,15 @@
         "id_image": "detour_4463632"
       }
     ],
-    "hash_code_list_img": "-671493508",
-    "list_definition_mean": [
-      {
-        "mean_english": "đường vòng",
-        "definition": "a wandering from the direct way",
-        "ex_of_definition_list": [
-          "We made a detour through the mountains."
-        ]
-      }
+    "hash_code_list_img": "-1843142527",
+    "list_example": [
+      "We made a detour through the mountains.",
+      "There exist several possibilities to chose the detour mode.",
+      "This patronage, however, was not consistent throughout; much of the detail of its detour thus requires a closer scrutiny.",
+      "Having said that, a detour by way of principal components greatly simplifies things.",
+      "We started to head to the wrong way to the side of the tent as we continued to make a detour avoiding the raven."
     ],
-    "hash_code_list_definition_mean": "768028739"
+    "hash_code_list_example": "1659203323"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/devaluation_cb_dmean_5000_it.json",
@@ -2027,17 +1658,15 @@
         "id_image": "devaluation_301095"
       }
     ],
-    "hash_code_list_img": "1765223485",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự giảm giá",
-        "definition": "the act of devaluing",
-        "ex_of_definition_list": [
-          "the devaluation of the dollar."
-        ]
-      }
+    "hash_code_list_img": "178314217",
+    "list_example": [
+      "the devaluation of the dollar.",
+      "The problem of managing sterling was actually greater in the period after devaluation than it had ever been before.",
+      "However, the devaluation greatly stimulated timber exports, which led to greater forest degradation.",
+      "The orthodox gold supporters attained a resumption of convertibility, but the voices for employment and against deflation attained a significant devaluation from the pre-war parity.",
+      "The devaluation of theories of aging and why this trend should be reversed."
     ],
-    "hash_code_list_definition_mean": "1127135393"
+    "hash_code_list_example": "1390014733"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/developer_cb_dmean_5000_it.json",
@@ -2067,31 +1696,21 @@
         "id_image": "developer_5965655"
       }
     ],
-    "hash_code_list_img": "1171304852",
-    "list_definition_mean": [
-      {
-        "mean_english": "chủ xây dựng công trình",
-        "definition": "a person or company that makes a profit by buying land or buildings and then putting new or better buildings there",
-        "ex_of_definition_list": [
-          "a property developer"
-        ]
-      },
-      {
-        "mean_english": "nhà phát triển",
-        "definition": "a person or company that creates new products and ideas",
-        "ex_of_definition_list": [
-          "a software developer."
-        ]
-      },
-      {
-        "mean_english": "thuốc tráng phim",
-        "definition": "a chemical substance which is used to develop films and photographs",
-        "ex_of_definition_list": [
-          "She placed the photograph in a tray full of developer."
-        ]
-      }
+    "hash_code_list_img": "-1637741732",
+    "list_example": [
+      "a property developer",
+      "a software developer.",
+      "She placed the photograph in a tray full of developer.",
+      "Vendor-supplied defaults for access policy could help ensure that deployments are consistent with what is checked by developers.",
+      "In order to build an effect-driven test specification, we need a dynamic, evolutionary, critical dialogue amongst a team of test developers.",
+      "The system's developers continuously introduce new abstractions as solutions to practical problems.",
+      "In fact, any instructional setting and any group of curriculum developers must determine priorities based on student needs, institutional expectations, and resource constraints.",
+      "Guideline developers and stakeholders convene regularly in a series of town hall-style meetings in which a guideline advisory committee serves as executive body.",
+      "Learning e-learning - a comprehensive investigation of course developers' and language teacher trainees' views regarding the usefulness and effectiveness of a multimedia self-tuition course.",
+      "Thus, agent developers should be able to choose the level of abstraction suitable for their purpose.",
+      "Most of these suits were ruled in favor of the golf-course developers. 10."
     ],
-    "hash_code_list_definition_mean": "-1353755602"
+    "hash_code_list_example": "-251085452"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/development_cb_dmean_5000_it.json",
@@ -2130,24 +1749,18 @@
         "id_image": "development_943802"
       }
     ],
-    "hash_code_list_img": "172656386",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự phát triển",
-        "definition": "the process or act of developing",
-        "ex_of_definition_list": [
-          "a crucial stage in the development of a child."
-        ]
-      },
-      {
-        "mean_english": "sự tiến triển",
-        "definition": "something new which is the result of developing",
-        "ex_of_definition_list": [
-          "important new developments in science."
-        ]
-      }
+    "hash_code_list_img": "788264189",
+    "list_example": [
+      "a crucial stage in the development of a child.",
+      "Research to support the development of organic food and farming.",
+      "Future research needs to consider the role of fathers or male caregivers in the emotional development of physically maltreated children.",
+      "These regulations and requirements have a major impact on the research and development of new drugs.",
+      "The relevance of the findings for cross-linguistic interaction in bilingual phonetic/phonological development is discussed.",
+      "The government needed professional and politically-minded staff to take on the planned political development of the country over the long haul.",
+      "Rigorous validation and quality control procedures have been imposed throughout the development course.",
+      "But the idea of an ageless self is also supported by developmental psychological theories, where the development after adolescence is seldom considered."
     ],
-    "hash_code_list_definition_mean": "-1568805745"
+    "hash_code_list_example": "1845096705"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/develop_cb_dmean_5000_it.json",
@@ -2188,39 +1801,16 @@
         "id_image": "develop_943797"
       }
     ],
-    "hash_code_list_img": "-1380956224",
-    "list_definition_mean": [
-      {
-        "mean_english": "mở rộng",
-        "definition": "to (cause to) grow bigger or to a more advanced state",
-        "ex_of_definition_list": [
-          "The plan developed slowly in his mind",
-          "Shanghai has developed into a very large city."
-        ]
-      },
-      {
-        "mean_english": "phát triển",
-        "definition": "to acquire gradually",
-        "ex_of_definition_list": [
-          "He developed the habit of getting up early."
-        ]
-      },
-      {
-        "mean_english": "bộc lộ rõ",
-        "definition": "to become active, visible etc",
-        "ex_of_definition_list": [
-          "Spots developed on her face."
-        ]
-      },
-      {
-        "mean_english": "rửa ảnh",
-        "definition": "to use chemicals to make (a photograph) visible",
-        "ex_of_definition_list": [
-          "My brother used to develop all his own films."
-        ]
-      }
+    "hash_code_list_img": "-312590607",
+    "list_example": [
+      "My brother used to develop all his own films.",
+      "Training should be multidisciplinary and multi-agency and involve older people and carers to develop a shared understanding of roles and needs.",
+      "This reuse permits the effort required to develop sets of transformations to be amortized over a large number of derivations.",
+      "Few shading experiments have provided the absolute measures of both incident radiation and crop structure necessary to develop a predictive approach.",
+      "This kind of institutional structure allows organisation leaders to develop internal practices that reshape conventional social roles.",
+      "And he recruited the creativity of an anesthesiologist to develop a management plan that would meet the special requirements of this case."
     ],
-    "hash_code_list_definition_mean": "-136242619"
+    "hash_code_list_example": "-85922268"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/device_cb_dmean_5000_it.json",
@@ -2254,24 +1844,12 @@
         "id_image": "device_2844994"
       }
     ],
-    "hash_code_list_img": "-858395396",
-    "list_definition_mean": [
-      {
-        "mean_english": "thiết bị; dụng cụ",
-        "definition": "something made for a purpose, eg a tool or instrument",
-        "ex_of_definition_list": [
-          "a device for opening cans."
-        ]
-      },
-      {
-        "mean_english": "phương sách",
-        "definition": "a plan or system of doing something, sometimes involving trickery",
-        "ex_of_definition_list": [
-          "This is a device for avoiding income tax."
-        ]
-      }
+    "hash_code_list_img": "2051956276",
+    "list_example": [
+      "a device for opening cans.",
+      "This is a device for avoiding income tax."
     ],
-    "hash_code_list_definition_mean": "-40238485"
+    "hash_code_list_example": "727124821"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/devil_cb_dmean_5000_it.json",
@@ -2307,31 +1885,13 @@
         "id_image": "devil_4860781"
       }
     ],
-    "hash_code_list_img": "33669851",
-    "list_definition_mean": [
-      {
-        "mean_english": "người tai quái",
-        "definition": "any evil or wicked spirit or person",
-        "ex_of_definition_list": [
-          "That woman is a devil!"
-        ]
-      },
-      {
-        "mean_english": "người quỷ quyệt",
-        "definition": "a person who is bad or disapproved of",
-        "ex_of_definition_list": [
-          "She’s a lazy devil."
-        ]
-      },
-      {
-        "mean_english": "người khốn khổ",
-        "definition": "an unfortunate person for whom one feels pity",
-        "ex_of_definition_list": [
-          "Poor devils! I feel really sorry for them."
-        ]
-      }
+    "hash_code_list_img": "971542774",
+    "list_example": [
+      "That woman is a devil!",
+      "She’s a lazy devil.",
+      "Poor devils! I feel really sorry for them."
     ],
-    "hash_code_list_definition_mean": "966690421"
+    "hash_code_list_example": "1697975655"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/devotion_cb_dmean_5000_it.json",
@@ -2350,23 +1910,11 @@
         "id_image": "devotion_708648"
       }
     ],
-    "hash_code_list_img": "2116712157",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự tận tâm",
-        "definition": "great love",
-        "ex_of_definition_list": [
-          "She had an her undying devotion for her children."
-        ]
-      },
-      {
-        "mean_english": "sự tận tụy",
-        "definition": "the act of devoting or of being devoted",
-        "ex_of_definition_list": [
-          "Her devotion to duty was admirable."
-        ]
-      }
+    "hash_code_list_img": "558873235",
+    "list_example": [
+      "She had an her undying devotion for her children.",
+      "Her devotion to duty was admirable."
     ],
-    "hash_code_list_definition_mean": "-1818746741"
+    "hash_code_list_example": "1715094949"
   }
 ]

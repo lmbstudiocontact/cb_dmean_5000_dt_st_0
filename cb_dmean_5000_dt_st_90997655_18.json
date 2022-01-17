@@ -26,24 +26,11 @@
         "id_image": "city_4531344"
       }
     ],
-    "hash_code_list_img": "-1012581389",
-    "list_definition_mean": [
-      {
-        "mean_english": "đô thị",
-        "definition": "a very large town",
-        "ex_of_definition_list": [
-          "Do you prefer living in the city or in the country?"
-        ]
-      },
-      {
-        "mean_english": "thành phố",
-        "definition": "a town, usually with a cathedral, granted special rights",
-        "ex_of_definition_list": [
-          "the City of London."
-        ]
-      }
+    "hash_code_list_img": "897188674",
+    "list_example": [
+      "Do you prefer living in the city or in the country?"
     ],
-    "hash_code_list_definition_mean": "477418993"
+    "hash_code_list_example": "1915830877"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/civilization_cb_dmean_5000_it.json",
@@ -77,24 +64,11 @@
         "id_image": "civilization_6193005"
       }
     ],
-    "hash_code_list_img": "-109917667",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự khai hóa",
-        "definition": "the act of civilizing, or process or state of being civilized",
-        "ex_of_definition_list": [
-          "the gradual civilization of the local tribes."
-        ]
-      },
-      {
-        "mean_english": "nền văn minh",
-        "definition": "a civilized people and their way of life",
-        "ex_of_definition_list": [
-          "the ancient civilizations of Egypt and Greece."
-        ]
-      }
+    "hash_code_list_img": "616596592",
+    "list_example": [
+      "the gradual civilization of the local tribes."
     ],
-    "hash_code_list_definition_mean": "113531564"
+    "hash_code_list_example": "-378837715"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/claim_cb_dmean_5000_it.json",
@@ -122,52 +96,19 @@
         "id_image": "claim_670845"
       }
     ],
-    "hash_code_list_img": "589232429",
-    "list_definition_mean": [
-      {
-        "mean_english": "quả quyết",
-        "definition": "to say that something is a fact",
-        "ex_of_definition_list": [
-          "He claims to be the fastest runner in the class."
-        ]
-      },
-      {
-        "mean_english": "đòi",
-        "definition": "to demand as a right",
-        "ex_of_definition_list": [
-          "You can claim your money back if the goods are damaged."
-        ]
-      },
-      {
-        "mean_english": "khẳng định",
-        "definition": "to state that one is the owner of",
-        "ex_of_definition_list": [
-          "Did anyone claim the umbrella which was left behind?"
-        ]
-      },
-      {
-        "mean_english": "sự khẳng định",
-        "definition": "a statement (that something is a fact)",
-        "ex_of_definition_list": [
-          "Her claim that she was the millionaire’s daughter was disproved."
-        ]
-      },
-      {
-        "mean_english": "sự đòi hỏi một số tiền bồi thường",
-        "definition": "(a demand for) a payment of compensation etc",
-        "ex_of_definition_list": [
-          "She made a claim for damages against her employer."
-        ]
-      },
-      {
-        "mean_english": "đòi hỏi",
-        "definition": "a demand for something which (one says) one owns or has a right to",
-        "ex_of_definition_list": [
-          "He has a rightful claim to the money."
-        ]
-      }
+    "hash_code_list_img": "979417898",
+    "list_example": [
+      "You can claim your money back if the goods are damaged.",
+      "Did anyone claim the umbrella which was left behind?",
+      "Her claim that she was the millionaire’s daughter was disproved.",
+      "She made a claim for damages against her employer.",
+      "He has a rightful claim to the money.",
+      "The claim may be true without the people's good judgment surfacing in their actual choices.",
+      "The central claim of this paper is that decision-making cannot be understood purely at the group level.",
+      "The authors claim to be modeling semantic representations in the domain of living things.",
+      "Their claim that higher levels of unemployment help extreme right parties is valid given their model."
     ],
-    "hash_code_list_definition_mean": "-494951575"
+    "hash_code_list_example": "448312553"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clairvoyance_cb_dmean_5000_it.json",
@@ -185,17 +126,15 @@
         "id_image": "clairvoyance_3834209"
       }
     ],
-    "hash_code_list_img": "1000630372",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự sáng suốt",
-        "definition": "the power of seeing things not able to be perceived by the normal senses (eg details about life after death)",
-        "ex_of_definition_list": [
-          "She claims to possess the gift of clairvoyance."
-        ]
-      }
+    "hash_code_list_img": "2002720284",
+    "list_example": [
+      "For example, a weather forecaster predicts rain not on the basis of clairvoyance but on the basis of patterns of prior meteorological events.",
+      "He expresses an extraordinary clairvoyance which is unwarranted in the light of the intricate details in the report.",
+      "The prominence given to the topics of mesmerism and clairvoyance heightened the general disapproval of the book.",
+      "However, the association with fraud led to a decline in interest in physical phenomena, and research was concentrated primarily on ostensibly mental phenomena such as clairvoyance and telepathy.",
+      "If it then turned out to be accurate, it would demonstrate that great distance did not necessarily prevent clairvoyance from operating."
     ],
-    "hash_code_list_definition_mean": "109584917"
+    "hash_code_list_example": "-111528902"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clamp_cb_dmean_5000_it.json",
@@ -229,24 +168,12 @@
         "id_image": "clamp_664101"
       }
     ],
-    "hash_code_list_img": "-1678376022",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái kẹp",
-        "definition": "a piece of wood, iron etc used to fasten things together or to strengthen them",
-        "ex_of_definition_list": [
-          "an adjustable clamp."
-        ]
-      },
-      {
-        "mean_english": "cặp",
-        "definition": "to bind together with a clamp",
-        "ex_of_definition_list": [
-          "They clamped the iron rods together."
-        ]
-      }
+    "hash_code_list_img": "2096401297",
+    "list_example": [
+      "an adjustable clamp.",
+      "They clamped the iron rods together."
     ],
-    "hash_code_list_definition_mean": "752592791"
+    "hash_code_list_example": "-1916447019"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clam_cb_dmean_5000_it.json",
@@ -275,24 +202,12 @@
         "id_image": "clam_468349"
       }
     ],
-    "hash_code_list_img": "2122428201",
-    "list_definition_mean": [
-      {
-        "mean_english": "(động vật) con trai",
-        "definition": "a shellfish with two shells joined together, used as food",
-        "ex_of_definition_list": [
-          "clams served with herb butter and lemon."
-        ]
-      },
-      {
-        "mean_english": "câm như hến",
-        "definition": "to suddenly stop talking or to refuse to talk",
-        "ex_of_definition_list": [
-          "He clammed up when the police asked who had helped him to steal the car."
-        ]
-      }
+    "hash_code_list_img": "-331775952",
+    "list_example": [
+      "Pennsylvanian insect biostratigraphy is comparatively new and is being developed in conjunction with that of other non-marine animals, notably conchostracans (clam shrimps).",
+      "In animal systems, studies on the activation of sea urchin and clam eggs have also found changes in enzyme activity and location."
     ],
-    "hash_code_list_definition_mean": "-1471150259"
+    "hash_code_list_example": "889749470"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clap_cb_dmean_5000_it.json",
@@ -314,48 +229,17 @@
         "id_image": "clap_3158967"
       }
     ],
-    "hash_code_list_img": "312928524",
-    "list_definition_mean": [
-      {
-        "mean_english": "vỗ tay",
-        "definition": "to strike the palms of the hands together eg to show approval, to mark a rhythm, or to gain attention etc",
-        "ex_of_definition_list": [
-          "When the singer appeared, the audience started to clap loudly",
-          "They clapped the speech enthusiastically",
-          "Clap your hands in time to the music."
-        ]
-      },
-      {
-        "mean_english": "vỗ",
-        "definition": "to strike (someone) with the palm of the hand, often in a friendly way",
-        "ex_of_definition_list": [
-          "Frank clapped him on the back and congratulated him."
-        ]
-      },
-      {
-        "mean_english": "tống ai vào tù nhanh chóng",
-        "definition": "to put suddenly (into prison, chains etc)",
-        "ex_of_definition_list": [
-          "They clapped him in jail."
-        ]
-      },
-      {
-        "mean_english": "tiếng sét",
-        "definition": "a sudden noise (of thunder)",
-        "ex_of_definition_list": [
-          "She heard a clap of thunder."
-        ]
-      },
-      {
-        "mean_english": "sự vỗ tay",
-        "definition": "an act of clapping",
-        "ex_of_definition_list": [
-          "They gave the performer a clap",
-          "He gave me a clap on the back."
-        ]
-      }
+    "hash_code_list_img": "1971558068",
+    "list_example": [
+      "When the singer appeared, the audience started to clap loudly",
+      "She heard a clap of thunder.",
+      "He gave me a clap on the back.",
+      "Several of his distinguished colleagues seemed to think that the end had come and were about to clap politely.",
+      "Jarred awake by a sudden clap of thunder, she found herself pregnant, and soon after, bore a supernatural child.",
+      "If we clap our hands or talk we soon 'decode' the basic parameters of the space.",
+      "They'll clap their hands as if they knew what they were applauding."
     ],
-    "hash_code_list_definition_mean": "1392599933"
+    "hash_code_list_example": "-2060813224"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clarinet_cb_dmean_5000_it.json",
@@ -388,17 +272,12 @@
         "id_image": "clarinet_848241"
       }
     ],
-    "hash_code_list_img": "-1585337212",
-    "list_definition_mean": [
-      {
-        "mean_english": "kèn clarinet",
-        "definition": "a type of musical wind instrument, usually made of wood, and played by means of keys and fingers covering combinations of holes",
-        "ex_of_definition_list": [
-          "Sonata for Clarinet and Piano."
-        ]
-      }
+    "hash_code_list_img": "-2035785762",
+    "list_example": [
+      "The clarinet is not cast as a concerto soloist pitted against the orchestra: rather it is part of the symphonic argument, avoiding empty display.",
+      "The spectrum of the acoustic output from a single reed, such as that which excites the clarinet acoustically, will consist of all harmonics being present."
     ],
-    "hash_code_list_definition_mean": "1672788453"
+    "hash_code_list_example": "786661631"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/classical_cb_dmean_5000_it.json",
@@ -433,31 +312,21 @@
         "id_image": "classical_4635433"
       }
     ],
-    "hash_code_list_img": "-1230959285",
-    "list_definition_mean": [
-      {
-        "mean_english": "kinh điển",
-        "definition": "(especially of literature, art etc) of ancient Greece and Rome",
-        "ex_of_definition_list": [
-          "classical studies."
-        ]
-      },
-      {
-        "mean_english": "cổ điển",
-        "definition": "(of music) having the traditional, established harmony and/or form",
-        "ex_of_definition_list": [
-          "He prefers classical music to rock."
-        ]
-      },
-      {
-        "mean_english": "hạng ưu",
-        "definition": "(of literature) considered to be of the highest class",
-        "ex_of_definition_list": [
-          "classical literature such as Chaucer, Shakespeare, and Dickens."
-        ]
-      }
+    "hash_code_list_img": "666910922",
+    "list_example": [
+      "classical studies.",
+      "He prefers classical music to rock.",
+      "classical literature such as Chaucer, Shakespeare, and Dickens.",
+      "With non-classical processes there is no possibility of learning about your design thinking as you write the rules.",
+      "Several problems have been shown to admit an increase in speed for a quantum computer compared with classical computation.",
+      "Such types do not readily fit into our 'classical control' paradigm.",
+      "On the other hand, domain theory has brought tools from classical topology to the study of partial order based models.",
+      "The call-by-value lambda calculus, or v -calculus, is a restriction of the classical -calculus, based on the concept of value.",
+      "However, it is also possible to turn it into a classical representation by describing it verbally or by giving it a name.",
+      "Nevertheless, one can think of this product by the reals as representing a trace of the (underlying) classical theory.",
+      "Lagrangian submanifolds are maximal submanifolds, on which the symplectic form vanishes; they represent so-called semi-classical approximations to quantum mechanical wave functions."
     ],
-    "hash_code_list_definition_mean": "-746448496"
+    "hash_code_list_example": "-152466891"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/classic_cb_dmean_5000_it.json",
@@ -484,45 +353,13 @@
         "id_image": "classic_5318799"
       }
     ],
-    "hash_code_list_img": "764671092",
-    "list_definition_mean": [
-      {
-        "mean_english": "hạng nhất",
-        "definition": "standard or best",
-        "ex_of_definition_list": [
-          "The cathedral is a classic example of Gothic architecture."
-        ]
-      },
-      {
-        "mean_english": "kinh điển",
-        "definition": "(of literature, art etc) of the highest quality",
-        "ex_of_definition_list": [
-          "F. Scott Fitzgerald’s classic novel “The Great Gatsby”."
-        ]
-      },
-      {
-        "mean_english": "cổ điển",
-        "definition": "(of dress etc) simple, elegant and traditional",
-        "ex_of_definition_list": [
-          "She went for the classic look with her hair in a pleat."
-        ]
-      },
-      {
-        "mean_english": "tác phẩm kinh điển",
-        "definition": "an established work of literature of high quality",
-        "ex_of_definition_list": [
-          "I have read all the classics."
-        ]
-      },
-      {
-        "mean_english": "văn học cổ Hy lạp",
-        "definition": "the language and literature of Greece and Rome",
-        "ex_of_definition_list": [
-          "He is studying classics."
-        ]
-      }
+    "hash_code_list_img": "2014349064",
+    "list_example": [
+      "The cathedral is a classic example of Gothic architecture.",
+      "F. Scott Fitzgerald’s classic novel “The Great Gatsby”.",
+      "She went for the classic look with her hair in a pleat."
     ],
-    "hash_code_list_definition_mean": "-1633166991"
+    "hash_code_list_example": "2127504951"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/classroom_cb_dmean_5000_it.json",
@@ -555,17 +392,11 @@
         "id_image": "classroom_4728690"
       }
     ],
-    "hash_code_list_img": "-1556251838",
-    "list_definition_mean": [
-      {
-        "mean_english": "phòng học",
-        "definition": "a room in a school where a class is taught",
-        "ex_of_definition_list": [
-          "(also adjective) classroom activities."
-        ]
-      }
+    "hash_code_list_img": "1161673703",
+    "list_example": [
+      "(also adjective) classroom activities."
     ],
-    "hash_code_list_definition_mean": "1470053549"
+    "hash_code_list_example": "404795908"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/class_cb_dmean_5000_it.json",
@@ -604,55 +435,12 @@
         "id_image": "class_508064"
       }
     ],
-    "hash_code_list_img": "-971589392",
-    "list_definition_mean": [
-      {
-        "mean_english": "hạng",
-        "definition": "a group of people or things that are alike in some way",
-        "ex_of_definition_list": [
-          "Their Labrador won first prize in its class in the dog show."
-        ]
-      },
-      {
-        "mean_english": "giai cấp",
-        "definition": "(the system according to which people belong to) one of a number of economic/social groups",
-        "ex_of_definition_list": [
-          "the upper class",
-          "the middle class",
-          "the working class",
-          "(also adjective) the class system."
-        ]
-      },
-      {
-        "mean_english": "tầng lớp",
-        "definition": "a grade or rank (of merit)",
-        "ex_of_definition_list": [
-          "musicians of a high class."
-        ]
-      },
-      {
-        "mean_english": "lớp",
-        "definition": "a number of students or scholars taught together",
-        "ex_of_definition_list": [
-          "John and I are in the same class."
-        ]
-      },
-      {
-        "mean_english": "bài học",
-        "definition": "a school lesson or college lecture etc",
-        "ex_of_definition_list": [
-          "a French class."
-        ]
-      },
-      {
-        "mean_english": "xếp hạng",
-        "definition": "to regard as being of a certain type",
-        "ex_of_definition_list": [
-          "He classes all politicians as dishonest."
-        ]
-      }
+    "hash_code_list_img": "1007523458",
+    "list_example": [
+      "Their Labrador won first prize in its class in the dog show.",
+      "(also adjective) the class system."
     ],
-    "hash_code_list_definition_mean": "-611988019"
+    "hash_code_list_example": "487571795"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/claw_cb_dmean_5000_it.json",
@@ -683,31 +471,21 @@
         "id_image": "claw_815954"
       }
     ],
-    "hash_code_list_img": "1365390523",
-    "list_definition_mean": [
-      {
-        "mean_english": "móng",
-        "definition": "one of the hooked nails of an animal or bird",
-        "ex_of_definition_list": [
-          "The cat sharpened its claws on the tree trunk."
-        ]
-      },
-      {
-        "mean_english": "vuốt",
-        "definition": "the foot of an animal or bird with hooked nails",
-        "ex_of_definition_list": [
-          "The owl held the mouse in its claw."
-        ]
-      },
-      {
-        "mean_english": "quắp; cào",
-        "definition": "to scratch or tear (at something) with claws or nails",
-        "ex_of_definition_list": [
-          "The two cats clawed at each other."
-        ]
-      }
+    "hash_code_list_img": "-226963246",
+    "list_example": [
+      "The cat sharpened its claws on the tree trunk.",
+      "The owl held the mouse in its claw.",
+      "The two cats clawed at each other.",
+      "Previously, if stocks ran too low, there was the danger of tax being clawed back.",
+      "The clawing back of £1,000 million from taxpayers is bound to increase unemployment substantially.",
+      "The new face offered every prospect of clawing back earlier losses.",
+      "Pads almost as long as claws.",
+      "They were scratching on the wire until they had pulled their claws out of their front paws trying to escape.",
+      "Measurement of the thickness of the corium and subcutaneous tissue of the hind claws of dairy cattle by ultrasound.",
+      "He hopes that by the time he is ready to demonstrate it to the military the lobster will have two claws which it can use as bump sensors.",
+      "At the same time housing benefit has been clawed back substantially."
     ],
-    "hash_code_list_definition_mean": "545271633"
+    "hash_code_list_example": "-2061468889"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clay_cb_dmean_5000_it.json",
@@ -740,17 +518,19 @@
         "id_image": "clay_5350529"
       }
     ],
-    "hash_code_list_img": "-999919029",
-    "list_definition_mean": [
-      {
-        "mean_english": "đất sét",
-        "definition": "a soft, sticky type of earth which is often baked into pottery, china, bricks etc",
-        "ex_of_definition_list": [
-          "a layer of clay hidden beneath a layer of lighter top soil."
-        ]
-      }
+    "hash_code_list_img": "1210736320",
+    "list_example": [
+      "a layer of clay hidden beneath a layer of lighter top soil.",
+      "Undoubtedly, if they had wanted to they could have produced naturalistic clay animals, with heads and legs, for example.",
+      "It took the high-risk movement to put the first cracks in the clay feet of traditional psychopathology.",
+      "It is desired that the operator feels the actual contact force when maneuvering the oil clay system using the force feedback system.",
+      "The sands are mostly well drained but low-lying areas accumulate sufficient clay and fines to retain water for periods after rainfall.",
+      "The building's concrete shell is insulated on the exterior and wrapped with extruded clay planks.",
+      "Figure 9 shows the relationship between the velocity and position for varying surface clay cutting in the x-direction.",
+      "From the eighteenth century landowners had recognised the need for effective techniques for draining impermeable clay soils.",
+      "Here, we present the results concerning the adsorption and detection of the adenine nucleic based on a series of minerals including clay and meteorite."
     ],
-    "hash_code_list_definition_mean": "786716390"
+    "hash_code_list_example": "-1440442948"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cleaner_cb_dmean_5000_it.json",
@@ -784,24 +564,11 @@
         "id_image": "cleaner_4633167"
       }
     ],
-    "hash_code_list_img": "-81058430",
-    "list_definition_mean": [
-      {
-        "mean_english": "người dọn dẹp",
-        "definition": "someone whose job is to clean other people’s houses etc.",
-        "ex_of_definition_list": [
-          "She works as a cleaner for one of the local schools."
-        ]
-      },
-      {
-        "mean_english": "người, vật làm sạch",
-        "definition": "a machine or substance used for cleaning",
-        "ex_of_definition_list": [
-          "We need to buy some more toilet cleaner."
-        ]
-      }
+    "hash_code_list_img": "1856295782",
+    "list_example": [
+      "She works as a cleaner for one of the local schools."
     ],
-    "hash_code_list_definition_mean": "1884360753"
+    "hash_code_list_example": "-105119743"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cleanser_cb_dmean_5000_it.json",
@@ -834,17 +601,12 @@
         "id_image": "cleanser_6075025"
       }
     ],
-    "hash_code_list_img": "1774234491",
-    "list_definition_mean": [
-      {
-        "mean_english": "chất tẩy trang",
-        "definition": "something which cleans, especially a cosmetic used to clean the face",
-        "ex_of_definition_list": [
-          "skin cleanser."
-        ]
-      }
+    "hash_code_list_img": "-703394518",
+    "list_example": [
+      "Originally developed as a sunburn remedy, it is popular among women as a facial cleanser and cosmetics remover.",
+      "A group game is a palate cleanser and should not relate to the established sets of scenes."
     ],
-    "hash_code_list_definition_mean": "599808168"
+    "hash_code_list_example": "-1925165194"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clean_cb_dmean_5000_it.json",
@@ -888,60 +650,16 @@
         "id_image": "clean_3022147"
       }
     ],
-    "hash_code_list_img": "448792447",
-    "list_definition_mean": [
-      {
-        "mean_english": "sạch",
-        "definition": "free from dirt, smoke etc",
-        "ex_of_definition_list": [
-          "a clean window",
-          "a clean dress."
-        ]
-      },
-      {
-        "mean_english": "gọn gàng",
-        "definition": "neat and tidy in one’s habits",
-        "ex_of_definition_list": [
-          "Cats are very clean animals."
-        ]
-      },
-      {
-        "mean_english": "chưa dùng đến",
-        "definition": "unused",
-        "ex_of_definition_list": [
-          "a clean sheet of paper."
-        ]
-      },
-      {
-        "mean_english": "trong sáng",
-        "definition": "free from evil or indecency",
-        "ex_of_definition_list": [
-          "Try to keep your language clean!"
-        ]
-      },
-      {
-        "mean_english": "chính xác",
-        "definition": "neat and even",
-        "ex_of_definition_list": [
-          "a clean cut."
-        ]
-      },
-      {
-        "mean_english": "hoàn toàn",
-        "definition": "completely",
-        "ex_of_definition_list": [
-          "He got clean away."
-        ]
-      },
-      {
-        "mean_english": "làm sạch",
-        "definition": "to (cause to) become free from dirt etc",
-        "ex_of_definition_list": [
-          "The windows need cleaning."
-        ]
-      }
+    "hash_code_list_img": "1635001603",
+    "list_example": [
+      "a clean window",
+      "a clean dress.",
+      "Cats are very clean animals.",
+      "a clean sheet of paper.",
+      "a clean cut.",
+      "He got clean away."
     ],
-    "hash_code_list_definition_mean": "1700608031"
+    "hash_code_list_example": "-1628311037"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clear_cb_dmean_5000_it.json",
@@ -984,99 +702,19 @@
         "id_image": "clear_552424"
       }
     ],
-    "hash_code_list_img": "-1813221270",
-    "list_definition_mean": [
-      {
-        "mean_english": "trong suốt",
-        "definition": "easy to see through; transparent",
-        "ex_of_definition_list": [
-          "clear glass."
-        ]
-      },
-      {
-        "mean_english": "trong trẻo",
-        "definition": "free from mist or cloud",
-        "ex_of_definition_list": [
-          "Isn’t the sky clear!"
-        ]
-      },
-      {
-        "mean_english": "rõ ràng",
-        "definition": "easy to see, hear or understand",
-        "ex_of_definition_list": [
-          "a clear explanation",
-          "The details on that photograph are very clear."
-        ]
-      },
-      {
-        "mean_english": "không có trở ngại",
-        "definition": "free from difficulty or obstacles",
-        "ex_of_definition_list": [
-          "There was a clear road ahead and we soon arrived at Jacksonville."
-        ]
-      },
-      {
-        "mean_english": "trong sạch",
-        "definition": "free from guilt etc",
-        "ex_of_definition_list": [
-          "I have a completely a clear conscience."
-        ]
-      },
-      {
-        "mean_english": "rõ ràng",
-        "definition": "free from doubt etc",
-        "ex_of_definition_list": [
-          "Are you quite clear about what I mean?"
-        ]
-      },
-      {
-        "mean_english": "không gặp khó khăn trở ngại",
-        "definition": "(often with of) without (risk of) being touched, caught etc",
-        "ex_of_definition_list": [
-          "Is the ship clear of the rocks?",
-          "They were finally clear of danger."
-        ]
-      },
-      {
-        "mean_english": "giũ bỏ",
-        "definition": "(often with of) free",
-        "ex_of_definition_list": [
-          "She is now clear of debt",
-          "The patient is clear of all infection."
-        ]
-      },
-      {
-        "mean_english": "dọn sạch",
-        "definition": "to make or become free from obstacles etc",
-        "ex_of_definition_list": [
-          "He cleared the table",
-          "I cleared my throat",
-          "He cleared the path of debris."
-        ]
-      },
-      {
-        "mean_english": "minh oan",
-        "definition": "(often with of) to prove the innocence of; to declare to be innocent",
-        "ex_of_definition_list": [
-          "He was cleared of all charges."
-        ]
-      },
-      {
-        "mean_english": "trở nên trong trẻo",
-        "definition": "(of the sky etc) to become bright, free from cloud etc",
-        "ex_of_definition_list": [
-          "The sky cleared and the sun came out."
-        ]
-      },
-      {
-        "mean_english": "vuợt qua",
-        "definition": "to get over or past something without touching it",
-        "ex_of_definition_list": [
-          "The horse cleared the jump easily."
-        ]
-      }
+    "hash_code_list_img": "808670016",
+    "list_example": [
+      "clear glass.",
+      "a clear explanation",
+      "There was a clear road ahead and we soon arrived at Jacksonville.",
+      "I have a completely a clear conscience.",
+      "Are you quite clear about what I mean?",
+      "Is the ship clear of the rocks?",
+      "They were finally clear of danger.",
+      "She is now clear of debt",
+      "The patient is clear of all infection."
     ],
-    "hash_code_list_definition_mean": "875035300"
+    "hash_code_list_example": "-434646311"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cleaver_cb_dmean_5000_it.json",
@@ -1094,17 +732,14 @@
         "id_image": "cleaver_1939680"
       }
     ],
-    "hash_code_list_img": "2066950978",
-    "list_definition_mean": [
-      {
-        "mean_english": "dao phay",
-        "definition": "a butcher’s knife",
-        "ex_of_definition_list": [
-          "a meat cleaver."
-        ]
-      }
+    "hash_code_list_img": "1616673469",
+    "list_example": [
+      "Everyone panics at this and can only suggest that the housekeeper rush to their house on public transporta taxito put the cleaver through the dishwasher.",
+      "He was almost drooling as he said it, as though holding a cleaver in one hand and a microwave in the other.",
+      "The location of a cleaver is often an important factor in the choice among routes for glacier flow.",
+      "The cleaver has broken and there have been injuries."
     ],
-    "hash_code_list_definition_mean": "361843668"
+    "hash_code_list_example": "430668822"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clef_cb_dmean_5000_it.json",
@@ -1127,17 +762,12 @@
         "id_image": "clef_1910790"
       }
     ],
-    "hash_code_list_img": "1831161694",
-    "list_definition_mean": [
-      {
-        "mean_english": "khóa âm nhạc",
-        "definition": "in music, a sign eg or on the stave fixing the pitch of the notes",
-        "ex_of_definition_list": [
-          "the bass/treble clef."
-        ]
-      }
+    "hash_code_list_img": "607708251",
+    "list_example": [
+      "Some elements of the roman a clef can be found throughout the text.",
+      "Another peculiar aspect of the notation of partimento fugues resides in the numerous clef changes, which can even be found after the exposition."
     ],
-    "hash_code_list_definition_mean": "1722053336"
+    "hash_code_list_example": "-1216432290"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clergyman_cb_dmean_5000_it.json",
@@ -1160,17 +790,12 @@
         "id_image": "clergyman_4651603"
       }
     ],
-    "hash_code_list_img": "646993755",
-    "list_definition_mean": [
-      {
-        "mean_english": "giáo sỹ Cơ đốc",
-        "definition": "one of the clergy; a priest, minister etc",
-        "ex_of_definition_list": [
-          "clergymen of various denominations."
-        ]
-      }
+    "hash_code_list_img": "-1420382509",
+    "list_example": [
+      "And why, when the clergyman (often justifiably) thought of himself as working unstintingly in his parishioners' interests, was he so often heartily despised by them?",
+      "Some parents waited months and years before having their children baptised by a passing clergyman of their own faith."
     ],
-    "hash_code_list_definition_mean": "1070978712"
+    "hash_code_list_example": "-1524323386"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clerk_cb_dmean_5000_it.json",
@@ -1200,31 +825,11 @@
         "id_image": "clerk_827069"
       }
     ],
-    "hash_code_list_img": "-731944876",
-    "list_definition_mean": [
-      {
-        "mean_english": "thư ký",
-        "definition": "a person who deals with letters, accounts etc in an office",
-        "ex_of_definition_list": [
-          "a wages clerk."
-        ]
-      },
-      {
-        "mean_english": "người đảm trách sổ sách",
-        "definition": "a public official in charge of the business affairs of the town council etc",
-        "ex_of_definition_list": [
-          "the town clerk."
-        ]
-      },
-      {
-        "mean_english": "người bán hàng",
-        "definition": "a shop assistant",
-        "ex_of_definition_list": [
-          "She works as a sales clerk in a pet store."
-        ]
-      }
+    "hash_code_list_img": "777274033",
+    "list_example": [
+      "She works as a sales clerk in a pet store."
     ],
-    "hash_code_list_definition_mean": "54783624"
+    "hash_code_list_example": "-1631747127"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/click_cb_dmean_5000_it.json",
@@ -1253,25 +858,11 @@
         "id_image": "click_849983"
       }
     ],
-    "hash_code_list_img": "-1826064265",
-    "list_definition_mean": [
-      {
-        "mean_english": "tiếng lách cách",
-        "definition": "a short, sharp sound, like that of a light-switch being turned on",
-        "ex_of_definition_list": [
-          "the click of the camera."
-        ]
-      },
-      {
-        "mean_english": "thành tiếng lách cách",
-        "definition": "to (cause to) make such a sound",
-        "ex_of_definition_list": [
-          "The soldier clicked his heels together",
-          "The gate clicked shut behind her."
-        ]
-      }
+    "hash_code_list_img": "1096109699",
+    "list_example": [
+      "the click of the camera."
     ],
-    "hash_code_list_definition_mean": "-1484464950"
+    "hash_code_list_example": "-435306953"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/client_cb_dmean_5000_it.json",
@@ -1300,24 +891,11 @@
         "id_image": "client_536853"
       }
     ],
-    "hash_code_list_img": "-599948387",
-    "list_definition_mean": [
-      {
-        "mean_english": "thân chủ",
-        "definition": "a person who receives professional advice from a lawyer, accountant etc",
-        "ex_of_definition_list": [
-          "It is routine procedure for an advocate to brief his client about stages in the litigation."
-        ]
-      },
-      {
-        "mean_english": "khách hàng",
-        "definition": "a customer",
-        "ex_of_definition_list": [
-          "That hairdresser is very popular with his clients."
-        ]
-      }
+    "hash_code_list_img": "1306090949",
+    "list_example": [
+      "It is routine procedure for an advocate to brief his client about stages in the litigation."
     ],
-    "hash_code_list_definition_mean": "-1972352385"
+    "hash_code_list_example": "-1262692996"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cliff_cb_dmean_5000_it.json",
@@ -1350,17 +928,16 @@
         "id_image": "cliff_3722802"
       }
     ],
-    "hash_code_list_img": "-119470120",
-    "list_definition_mean": [
-      {
-        "mean_english": "vách đá",
-        "definition": "a high steep rock, especially one facing the sea",
-        "ex_of_definition_list": [
-          "the white cliffs of Dover."
-        ]
-      }
+    "hash_code_list_img": "327004313",
+    "list_example": [
+      "The performance took place along a cliff top which dropped to a lagoon protected from the ocean by a thick sand dune.",
+      "Significantly some of these dates are from cliff sections exposed in relatively higher areas, which now appear to be potentially erosional areas.",
+      "A fitness cliff model could potentially explain the core dilemma of psychiatric genetics.",
+      "The ice cliff itself nowhere showed any stepped formation.",
+      "Distinct layers of firn were observed to the south, where the ice cap ends in a small cliff of 19 m in height.",
+      "The lithostratigraphy of the cores has been precisely correlated with the nearby cliff section, which has also been examined and re-described."
     ],
-    "hash_code_list_definition_mean": "201331671"
+    "hash_code_list_example": "1028173056"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/climate_cb_dmean_5000_it.json",
@@ -1394,24 +971,20 @@
         "id_image": "climate_5493014"
       }
     ],
-    "hash_code_list_img": "-1358178184",
-    "list_definition_mean": [
-      {
-        "mean_english": "khí hậu",
-        "definition": "the weather conditions of a region (temperature, moisture etc)",
-        "ex_of_definition_list": [
-          "Britain has a temperate climate."
-        ]
-      },
-      {
-        "mean_english": "không khí",
-        "definition": "the conditions in a country etc",
-        "ex_of_definition_list": [
-          "the economic/moral climate."
-        ]
-      }
+    "hash_code_list_img": "738537659",
+    "list_example": [
+      "Britain has a temperate climate.",
+      "the economic/moral climate.",
+      "The higher is this ratio the lower is the heat loss, so larger bodies (with higher x) are more beneficial in cold climates.",
+      "Given its extensive geographical range, this predator is locally adapted to a variety of climates.",
+      "The diversity of climates seemed to require a diversity of personal characteristics, and personal rights.",
+      "I think it should be the starting point for environmental design in temperate climates.",
+      "In temperate climates most people acquire the infection during childhood.",
+      "In temperate climates in the absence of vaccine, the lifetime risk for varicella is over 95 % [1].",
+      "Nothing in our account precludes \"empirical research on fossils, artefacts, genes, and climates\" as these relate to religious beliefs and practices.",
+      "We would expect hominids to show less response to fluctuating climates than other mammals show."
     ],
-    "hash_code_list_definition_mean": "-50982906"
+    "hash_code_list_example": "1712308500"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/climber_cb_dmean_5000_it.json",
@@ -1436,31 +1009,20 @@
         "id_image": "climber_3714418"
       }
     ],
-    "hash_code_list_img": "-903730638",
-    "list_definition_mean": [
-      {
-        "mean_english": "người leo trèo",
-        "definition": "a person who climbs (mountains)",
-        "ex_of_definition_list": [
-          "He is an experienced mountain climber."
-        ]
-      },
-      {
-        "mean_english": "cây leo",
-        "definition": "a climbing plant",
-        "ex_of_definition_list": [
-          "Flowering climbers covered the rough surface of the walls."
-        ]
-      },
-      {
-        "mean_english": "kẻ bon chen",
-        "definition": "(usually social climber) an ambitious person who tries to improve his/her social status",
-        "ex_of_definition_list": [
-          "She had a reputation for being a social climber."
-        ]
-      }
+    "hash_code_list_img": "-864861973",
+    "list_example": [
+      "He is an experienced mountain climber.",
+      "Flowering climbers covered the rough surface of the walls.",
+      "She had a reputation for being a social climber.",
+      "Table 1 shows that leaf area has a negative influence on leaf longevity, and climbers have relatively small leaves.",
+      "I stress that the map is essential for walkers and climbers and is particularly important for mountain safety.",
+      "The responses to the climbers were species-specific.",
+      "Through warden schemes and farming liaison officers, the authorities intervene successfully in land use conflicts between walkers and climbers and the farming community.",
+      "Eight teams of climbers tried and failed before them.",
+      "When did the climbers reach the top?",
+      "Tendrillar climbers tended to occur in roughly equal amounts in tree species to the left of the vertical axis."
     ],
-    "hash_code_list_definition_mean": "1230395622"
+    "hash_code_list_example": "-511676162"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/climb_cb_dmean_5000_it.json",
@@ -1496,40 +1058,11 @@
         "id_image": "climb_6381773"
       }
     ],
-    "hash_code_list_img": "-2029908962",
-    "list_definition_mean": [
-      {
-        "mean_english": "trèo leo",
-        "definition": "(of a person etc) to go up or towards the top of (a mountain, wall, ladder etc)",
-        "ex_of_definition_list": [
-          "He climbed to the top of the hill",
-          "He climbed up the ladder",
-          "The child climbed the tree."
-        ]
-      },
-      {
-        "mean_english": "leo trèo",
-        "definition": "to rise or ascend",
-        "ex_of_definition_list": [
-          "The path climbs to Westburton Hill."
-        ]
-      },
-      {
-        "mean_english": "hành động leo trèo",
-        "definition": "an act of going up",
-        "ex_of_definition_list": [
-          "a rapid climb to the top of his profession."
-        ]
-      },
-      {
-        "mean_english": "vật leo trèo",
-        "definition": "a route or place to be climbed",
-        "ex_of_definition_list": [
-          "The guide showed us the best climb."
-        ]
-      }
+    "hash_code_list_img": "1603437607",
+    "list_example": [
+      "a rapid climb to the top of his profession."
     ],
-    "hash_code_list_definition_mean": "598813349"
+    "hash_code_list_example": "-758142293"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clinical_cb_dmean_5000_it.json",
@@ -1548,24 +1081,12 @@
         "id_image": "clinical_5458932"
       }
     ],
-    "hash_code_list_img": "821725834",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc phòng khám",
-        "definition": "of a clinic",
-        "ex_of_definition_list": [
-          "a clinical procedure."
-        ]
-      },
-      {
-        "mean_english": "lãnh đạm",
-        "definition": "calm and cold without emotion",
-        "ex_of_definition_list": [
-          "He describes the incident in a clinical detached manner."
-        ]
-      }
+    "hash_code_list_img": "138617992",
+    "list_example": [
+      "a clinical procedure.",
+      "He describes the incident in a clinical detached manner."
     ],
-    "hash_code_list_definition_mean": "-378619341"
+    "hash_code_list_example": "531400270"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clinic_cb_dmean_5000_it.json",
@@ -1603,17 +1124,13 @@
         "id_image": "clinic_5266434"
       }
     ],
-    "hash_code_list_img": "278136331",
-    "list_definition_mean": [
-      {
-        "mean_english": "phòng khám",
-        "definition": "a place or part of a hospital where a particular kind of medical treatment or advice is given",
-        "ex_of_definition_list": [
-          "He is attending the skin clinic."
-        ]
-      }
+    "hash_code_list_img": "1706719914",
+    "list_example": [
+      "Teleconsultations for children were significantly more costly than clinic attendances because of the costs of the technology.",
+      "Data were systematically taken from the clinic notes, coded and transferred to punched cards for analysis.",
+      "The clinic was attacked on three fronts-the legal, the medical and the clerical."
     ],
-    "hash_code_list_definition_mean": "1863397263"
+    "hash_code_list_example": "-360881182"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clipboard_cb_dmean_5000_it.json",
@@ -1647,24 +1164,16 @@
         "id_image": "clipboard_966672"
       }
     ],
-    "hash_code_list_img": "1992823012",
-    "list_definition_mean": [
-      {
-        "mean_english": "bìa kẹp hồ sơ",
-        "definition": "a small board with a clip at the top for holding paper in place so that you can write on it while you are standing or moving around",
-        "ex_of_definition_list": [
-          "A government safety inspector arrived, clutching a clipboard in his hand."
-        ]
-      },
-      {
-        "mean_english": "bộ nhớ tạm",
-        "definition": "a part of a computer’s memory that stores information temporarily while you are moving it from one document to another",
-        "ex_of_definition_list": [
-          "You can copy the text to your clipboard and paste it anywhere in your document."
-        ]
-      }
+    "hash_code_list_img": "2115512871",
+    "list_example": [
+      "A government safety inspector arrived, clutching a clipboard in his hand.",
+      "You can copy the text to your clipboard and paste it anywhere in your document.",
+      "Then the man with the clipboard comes and ticks off all the improvements that the occupier has made to the property over, perhaps, 20 years.",
+      "Knowing the keystrokes, mouse actions, display, clipboard etc. used on one computer will not subsequently help an attacker gain access to the protected resource.",
+      "Upon arriving at the hospital, he finds a clipboard with his name on it, even though he has never been a patient there.",
+      "When data is added to the clipboard by an application, it typically makes it available in as many different data formats as it can."
     ],
-    "hash_code_list_definition_mean": "1425653837"
+    "hash_code_list_example": "-1459355886"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clipper_cb_dmean_5000_it.json",
@@ -1693,25 +1202,15 @@
         "id_image": "clipper_781562"
       }
     ],
-    "hash_code_list_img": "160674795",
-    "list_definition_mean": [
-      {
-        "mean_english": "kéo; tông đơ",
-        "definition": "a tool for clipping",
-        "ex_of_definition_list": [
-          "hedge clippers",
-          "nail clippers."
-        ]
-      },
-      {
-        "mean_english": "thuyền cao tốc",
-        "definition": "a type of fast sailing-ship",
-        "ex_of_definition_list": [
-          "a tea clipper (=a sailing ship formerly used in the tea trade)."
-        ]
-      }
+    "hash_code_list_img": "-936852474",
+    "list_example": [
+      "a tea clipper (=a sailing ship formerly used in the tea trade).",
+      "Fingernails and toenails must be filed with an emery board; cutting them with a clipper is taboo.",
+      "It does not follow, therefore, that this offence can be caused by the innocent gardener or hedge clipper busily trying to dispose of clippings.",
+      "It is the first clipper ship in this class since 1912.",
+      "As built, they were wet in a head sea, though this was significantly improved by the installation of a clipper bow in 19401941."
     ],
-    "hash_code_list_definition_mean": "-1230159242"
+    "hash_code_list_example": "-1297502390"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clip_cb_dmean_5000_it.json",
@@ -1755,62 +1254,12 @@
         "id_image": "clip_4684452"
       }
     ],
-    "hash_code_list_img": "2142517015",
-    "list_definition_mean": [
-      {
-        "mean_english": "cắt xén",
-        "definition": "to cut (foliage, an animal’s hair etc) with scissors or shears",
-        "ex_of_definition_list": [
-          "The shepherd clipped the sheep",
-          "The hedge was clipped."
-        ]
-      },
-      {
-        "mean_english": "đánh",
-        "definition": "to strike sharply",
-        "ex_of_definition_list": [
-          "She clipped him over the ear."
-        ]
-      },
-      {
-        "mean_english": "sự xén, hớt lông cừu",
-        "definition": "an act of clipping",
-        "ex_of_definition_list": [
-          "It took just a few clips of the scissors to tidy his hair."
-        ]
-      },
-      {
-        "mean_english": "cú nện mạnh",
-        "definition": "a sharp blow",
-        "ex_of_definition_list": [
-          "a clip on the ear."
-        ]
-      },
-      {
-        "mean_english": "đoạn phim",
-        "definition": "a short piece of film",
-        "ex_of_definition_list": [
-          "a video clip."
-        ]
-      },
-      {
-        "mean_english": "gắn chặt",
-        "definition": "to fasten with a clip",
-        "ex_of_definition_list": [
-          "Have you got something I can clip these papers together with?"
-        ]
-      },
-      {
-        "mean_english": "cái nghim; cái kẹp",
-        "definition": "something for holding things together or in position",
-        "ex_of_definition_list": [
-          "a paper clip",
-          "a hair clip",
-          "bicycle clips (= round pieces of metal etc for holding the bottom of trouser legs close to the leg)."
-        ]
-      }
+    "hash_code_list_img": "-129056495",
+    "list_example": [
+      "a clip on the ear.",
+      "Have you got something I can clip these papers together with?"
     ],
-    "hash_code_list_definition_mean": "670475997"
+    "hash_code_list_example": "1987044291"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cloakroom_cb_dmean_5000_it.json",
@@ -1829,17 +1278,15 @@
         "id_image": "cloakroom_1616440"
       }
     ],
-    "hash_code_list_img": "628142901",
-    "list_definition_mean": [
-      {
-        "mean_english": "phòng vệ sinh",
-        "definition": "a lavatory",
-        "ex_of_definition_list": [
-          "the ladies’ cloakroom."
-        ]
-      }
+    "hash_code_list_img": "1472659209",
+    "list_example": [
+      "The project incorporates two new classrooms with a new main entrance, cloakroom and lavatories.",
+      "Above the cloakroom is the bathroom, while the second floor at this end is attic.",
+      "They may be cloakroom attendants, catering workers or clerical workers working behind the scenes.",
+      "I will even throw in my personalised cloakroom hook for good measure.",
+      "Other men have been offered posts as cloakroom attendants."
     ],
-    "hash_code_list_definition_mean": "1261661415"
+    "hash_code_list_example": "533349600"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cloak_cb_dmean_5000_it.json",
@@ -1869,31 +1316,12 @@
         "id_image": "cloak_5327116"
       }
     ],
-    "hash_code_list_img": "-1404859413",
-    "list_definition_mean": [
-      {
-        "mean_english": "áo choàng không tay",
-        "definition": "a loose outer garment without sleeves, covering most of the body",
-        "ex_of_definition_list": [
-          "a woollen/woolen cloak."
-        ]
-      },
-      {
-        "mean_english": "sự che đậy",
-        "definition": "something that conceals",
-        "ex_of_definition_list": [
-          "They arrived under cloak of darkness."
-        ]
-      },
-      {
-        "mean_english": "che dấu",
-        "definition": "to cover or hide",
-        "ex_of_definition_list": [
-          "He used a false name to cloak his criminal activities."
-        ]
-      }
+    "hash_code_list_img": "684959712",
+    "list_example": [
+      "They arrived under cloak of darkness.",
+      "He used a false name to cloak his criminal activities."
     ],
-    "hash_code_list_definition_mean": "1018447041"
+    "hash_code_list_example": "2120380244"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clockwise_cb_dmean_5000_it.json",
@@ -1916,18 +1344,20 @@
         "id_image": "clockwise_523161"
       }
     ],
-    "hash_code_list_img": "1572558643",
-    "list_definition_mean": [
-      {
-        "mean_english": "theo chiều kim đồng hồ",
-        "definition": "in the direction of the movement of the hands of a clock",
-        "ex_of_definition_list": [
-          "The children moved clockwise round the room, then anticlockwise.",
-          "(also adjective) Hurricanes rotate in a clockwise direction in the Southern Hemisphere."
-        ]
-      }
+    "hash_code_list_img": "-1927935882",
+    "list_example": [
+      "The children moved clockwise round the room, then anticlockwise.",
+      "(also adjective) Hurricanes rotate in a clockwise direction in the Southern Hemisphere.",
+      "Making a clockwise angulation with the transducer, we obtained a transverse section in order to study the ventriculoinfundibular region.",
+      "The hunter selects a velocity uniformly at random between 0 and 1 and proceeds in a clockwise direction according to this velocity.",
+      "We refer to clockwise movement as the forward movement of a variable.",
+      "The stages commence at the top and move in clockwise direction.",
+      "Thus, dopamine did not alter the shape of the curves relating the length constant to membrane potential or their course of development (clockwise fashion).",
+      "The depicted direction of rotation is clockwise as seen from above.",
+      "In the tip region, the approaching vortex with a clockwise circulation causes a positive peak in the pressure fluctuation.",
+      "In region 11, stable steady convection can exist in either a clockwise or counterclockwise direction."
     ],
-    "hash_code_list_definition_mean": "1759030854"
+    "hash_code_list_example": "924192516"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clock_cb_dmean_5000_it.json",
@@ -1962,32 +1392,12 @@
         "id_image": "clock_593556"
       }
     ],
-    "hash_code_list_img": "-301727262",
-    "list_definition_mean": [
-      {
-        "mean_english": "đồng hồ",
-        "definition": "an instrument for measuring time, but not worn on the wrist like a watch",
-        "ex_of_definition_list": [
-          "The clock chimed five o’clock.",
-          "an alarm clock (= a clock with a ringing device for waking one up in the morning)."
-        ]
-      },
-      {
-        "mean_english": "đồng hồ công tơ mét",
-        "definition": "an instrument for measuring speed of a vehicle or distance travelled/traveled by a vehicle",
-        "ex_of_definition_list": [
-          "My car has 120,000 miles on the clock."
-        ]
-      },
-      {
-        "mean_english": "bấm giờ",
-        "definition": "to register (a time) on a stopwatch etc",
-        "ex_of_definition_list": [
-          "In the Men’s 200m, he clocked a record breaking 21.18 seconds."
-        ]
-      }
+    "hash_code_list_img": "-709929058",
+    "list_example": [
+      "The clock chimed five o’clock.",
+      "an alarm clock (= a clock with a ringing device for waking one up in the morning)."
     ],
-    "hash_code_list_definition_mean": "-1685298531"
+    "hash_code_list_example": "-1843550867"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clog_cb_dmean_5000_it.json",
@@ -2017,31 +1427,21 @@
         "id_image": "clog_805277"
       }
     ],
-    "hash_code_list_img": "432914388",
-    "list_definition_mean": [
-      {
-        "mean_english": "chiếc guốc",
-        "definition": "a shoe made entirely of wood",
-        "ex_of_definition_list": [
-          "Dutch clogs."
-        ]
-      },
-      {
-        "mean_english": "guốc",
-        "definition": "a shoe with a wooden sole",
-        "ex_of_definition_list": [
-          "She was wearing a pair of clogs."
-        ]
-      },
-      {
-        "mean_english": "bị bít kín",
-        "definition": "to make or become blocked",
-        "ex_of_definition_list": [
-          "The drain is clogged (up) with hair."
-        ]
-      }
+    "hash_code_list_img": "-998689334",
+    "list_example": [
+      "Dutch clogs.",
+      "She was wearing a pair of clogs.",
+      "The drain is clogged (up) with hair.",
+      "They are constantly dropping dead material which clogs the garage gutter, blows around the paths close to the house back door, clogs drains.",
+      "The screening plant was clogging materially, and it was impossible to get a sufficient volume of water throughout the plant.",
+      "The roads got clogged up and were gradually improved.",
+      "The state of the flora is deplorable in that trees hang over the canal and it is clogged up with weeds.",
+      "Many of our cities are clogged up with traffic, particularly at certain times of day.",
+      "When temperatures were raised, there would be a strong incentive for that, and the process would get clogged up.",
+      "An unnecessary provision not only clogs up the statute book but is liable to give rise to undesirable arguments, sometimes very far-fetched.",
+      "I can remember being hungry as a child and no shoes on my feet (clogs) and patched clothes to wear."
     ],
-    "hash_code_list_definition_mean": "2097885946"
+    "hash_code_list_example": "500719480"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clone_cb_dmean_5000_it.json",
@@ -2075,24 +1475,19 @@
         "id_image": "clone_815310"
       }
     ],
-    "hash_code_list_img": "283301851",
-    "list_definition_mean": [
-      {
-        "mean_english": "sản sinh vô tính",
-        "definition": "to produce a copy of an animal or plant from a single cell of that animal or plant",
-        "ex_of_definition_list": [
-          "In February 1997 scientists announced that they had successfully cloned a sheep."
-        ]
-      },
-      {
-        "mean_english": "dòng vô tính",
-        "definition": "a copy of an animal or plant produced from that animal or plant",
-        "ex_of_definition_list": [
-          "A plant cutting can be used to generate a clone."
-        ]
-      }
+    "hash_code_list_img": "1984540694",
+    "list_example": [
+      "In February 1997 scientists announced that they had successfully cloned a sheep.",
+      "A plant cutting can be used to generate a clone.",
+      "Of the clones, 21 were full-length (2n9 kb) elements and the rest were shorter elements due to internal deletions.",
+      "To our knowledge, few studies have been carried out on the cell-cycle stage of ear fibroblast cells from transgenic cloned cattle.",
+      "Second, slower growing clones would be expected to lose out in competitive interactions in mixed infections.",
+      "Data on viability of cultures, and the proportion of live cells which had differentiated on day 7 were collected for 11 clones.",
+      "To overcome this, many molecular techniques have been used recently to distinguish clones of enteric pathogens for epidemiological investigations.",
+      "The observed morphological variation was probably due to genetic differences, since all clones were reared in a common environment.",
+      "Within the clades, ' randomized congregations ' of clones representing different isolates and different geographical origins were identified."
     ],
-    "hash_code_list_definition_mean": "-1897609769"
+    "hash_code_list_example": "1727168769"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/closet_cb_dmean_5000_it.json",
@@ -2125,17 +1520,14 @@
         "id_image": "closet_5781903"
       }
     ],
-    "hash_code_list_img": "1271371090",
-    "list_definition_mean": [
-      {
-        "mean_english": "tủ",
-        "definition": "a cupboard",
-        "ex_of_definition_list": [
-          "a clothes closet."
-        ]
-      }
+    "hash_code_list_img": "1177912896",
+    "list_example": [
+      "It is refreshing to see closet drama discussed as a cultural practice in its own right rather than as a secondary (feminized and marginalized) genre.",
+      "When we arrived at the house, she went immediately to her closet and took out a dress and a pair of shoes.",
+      "Coming out of a cupboard or closet might signal a refusal to accede to the dominion of gender normativity.",
+      "The metaphor of the closet began as a metaphor of disruption."
     ],
-    "hash_code_list_definition_mean": "795822819"
+    "hash_code_list_example": "-1145402059"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/close_cb_dmean_5000_it.json",
@@ -2180,108 +1572,30 @@
         "id_image": "close_1588896"
       }
     ],
-    "hash_code_list_img": "719260715",
-    "list_definition_mean": [
-      {
-        "mean_english": "gần",
-        "definition": "near in time, place etc",
-        "ex_of_definition_list": [
-          "He stood close to his mother",
-          "Follow close behind."
-        ]
-      },
-      {
-        "mean_english": "vừa vặn",
-        "definition": "tightly; neatly",
-        "ex_of_definition_list": [
-          "a close-fitting dress."
-        ]
-      },
-      {
-        "mean_english": "gần trong quan hệ",
-        "definition": "near in relationship",
-        "ex_of_definition_list": [
-          "a close friend."
-        ]
-      },
-      {
-        "mean_english": "sát nhau",
-        "definition": "having a narrow difference between winner and loser",
-        "ex_of_definition_list": [
-          "a close contest",
-          "The result was close."
-        ]
-      },
-      {
-        "mean_english": "cẩn thận",
-        "definition": "thorough",
-        "ex_of_definition_list": [
-          "a close examination of the facts",
-          "Keep a close watch on him."
-        ]
-      },
-      {
-        "mean_english": "bó sát",
-        "definition": "tight",
-        "ex_of_definition_list": [
-          "a close fit."
-        ]
-      },
-      {
-        "mean_english": "ngột ngạt",
-        "definition": "without fresh air",
-        "ex_of_definition_list": [
-          "a close atmosphere",
-          "The weather was close and thundery."
-        ]
-      },
-      {
-        "mean_english": "keo kiệt",
-        "definition": "mean",
-        "ex_of_definition_list": [
-          "He’s very close (with his money)."
-        ]
-      },
-      {
-        "mean_english": "thích giữ bí mật",
-        "definition": "secretive",
-        "ex_of_definition_list": [
-          "They’re keeping very close about the business."
-        ]
-      },
-      {
-        "mean_english": "đóng",
-        "definition": "to make or become shut, often by bringing together two parts so as to cover an opening",
-        "ex_of_definition_list": [
-          "The baby closed his eyes",
-          "Close the door",
-          "The shops close on Sundays."
-        ]
-      },
-      {
-        "mean_english": "kết thúc",
-        "definition": "to finish; to come or bring to an end",
-        "ex_of_definition_list": [
-          "The meeting closed with everyone in agreement."
-        ]
-      },
-      {
-        "mean_english": "hoàn tất",
-        "definition": "to complete or settle (a business deal)",
-        "ex_of_definition_list": [
-          "We’re hoping to close the deal later today."
-        ]
-      },
-      {
-        "mean_english": "phần kết thúc",
-        "definition": "a stop, end or finish",
-        "ex_of_definition_list": [
-          "the close of day",
-          "towards the close of the nineteenth century."
-        ]
-      }
+    "hash_code_list_img": "-691557767",
+    "list_example": [
+      "He stood close to his mother",
+      "Follow close behind.",
+      "a close friend.",
+      "a close contest",
+      "a close examination of the facts",
+      "Keep a close watch on him.",
+      "a close fit.",
+      "a close atmosphere",
+      "The weather was close and thundery.",
+      "He’s very close (with his money).",
+      "They’re keeping very close about the business.",
+      "The shops close on Sundays.",
+      "We’re hoping to close the deal later today.",
+      "the close of day",
+      "towards the close of the nineteenth century.",
+      "However, to have an authority figure require that a patient justify his or her plans comes perilously close to coercion.",
+      "Thus, there is need to have a close working relationship with them.",
+      "However, close monitoring and a quick response seem to be the key factors in achieving success.",
+      "However, it seems intuitively plausible to suggest that our ex hypothesi deterministic universe is not close to any of these.",
+      "This is probably an artefact caused by the relative scarcity of saplings and a few larger saplings found close to adult trees."
     ],
-    "hash_code_list_definition_mean": "900662002"
+    "hash_code_list_example": "-843300611"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clothe_cb_dmean_5000_it.json",
@@ -2320,25 +1634,12 @@
         "id_image": "clothes_5853911"
       }
     ],
-    "hash_code_list_img": "-2104195383",
-    "list_definition_mean": [
-      {
-        "mean_english": "mặc quần áo cho",
-        "definition": "to provide with clothes",
-        "ex_of_definition_list": [
-          "The widow did not have enough money to clothe her children."
-        ]
-      },
-      {
-        "mean_english": "mặc quần áo",
-        "definition": "to put clothes on",
-        "ex_of_definition_list": [
-          "She was clothed in silk",
-          "She clothed herself in the most expensive materials."
-        ]
-      }
+    "hash_code_list_img": "-1261998173",
+    "list_example": [
+      "The widow did not have enough money to clothe her children.",
+      "The traders in both stories clothe their commercial and, in some cases, political activities in an imperial garb to which they have no legitimate claim."
     ],
-    "hash_code_list_definition_mean": "-1761812836"
+    "hash_code_list_example": "2013592870"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cloth_cb_dmean_5000_it.json",
@@ -2376,20 +1677,11 @@
         "id_image": "cloth_4299125"
       }
     ],
-    "hash_code_list_img": "-1841104330",
-    "list_definition_mean": [
-      {
-        "mean_english": "vải",
-        "definition": "(a piece of) woven material from which clothes and many other items are made",
-        "ex_of_definition_list": [
-          "a tablecloth",
-          "a face cloth",
-          "a floor cloth",
-          "Woollen cloth is often more expensive than other cloths."
-        ]
-      }
+    "hash_code_list_img": "-1095753054",
+    "list_example": [
+      "Woollen cloth is often more expensive than other cloths."
     ],
-    "hash_code_list_definition_mean": "779787734"
+    "hash_code_list_example": "-403438917"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cloudy_cb_dmean_5000_it.json",
@@ -2428,24 +1720,16 @@
         "id_image": "cloudy_765847"
       }
     ],
-    "hash_code_list_img": "976137975",
-    "list_definition_mean": [
-      {
-        "mean_english": "có mây",
-        "definition": "full of, having, or covered with clouds",
-        "ex_of_definition_list": [
-          "It is a bit cloudy today."
-        ]
-      },
-      {
-        "mean_english": "vẩn đục",
-        "definition": "not clear",
-        "ex_of_definition_list": [
-          "a cloudy photograph/memory."
-        ]
-      }
+    "hash_code_list_img": "767330194",
+    "list_example": [
+      "It is a bit cloudy today.",
+      "a cloudy photograph/memory.",
+      "They are not to be disposed of by cloudy generalisations or by pejorative epithets.",
+      "The lateral band is composed of round dots, cloudy suffusion, and dark patches occupying irregular depressions in the integument.",
+      "On cloudy days, values were typically 2.0 mm s71.",
+      "Would it not be a good idea if we had a short debate, to clarify this cloudy matter?"
     ],
-    "hash_code_list_definition_mean": "894316910"
+    "hash_code_list_example": "1031184588"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/cloud_cb_dmean_5000_it.json",
@@ -2483,53 +1767,12 @@
         "id_image": "cloud_383833"
       }
     ],
-    "hash_code_list_img": "-692825888",
-    "list_definition_mean": [
-      {
-        "mean_english": "mây",
-        "definition": "a mass of tiny drops of water floating in the sky",
-        "ex_of_definition_list": [
-          "white clouds in a blue sky",
-          "The hills were hidden in cloud."
-        ]
-      },
-      {
-        "mean_english": "đám",
-        "definition": "a great number or quantity of anything small moving together",
-        "ex_of_definition_list": [
-          "a cloud of flies."
-        ]
-      },
-      {
-        "mean_english": "bóng đen",
-        "definition": "something causing fear, depression etc",
-        "ex_of_definition_list": [
-          "a cloud of sadness."
-        ]
-      },
-      {
-        "mean_english": "mây che phủ",
-        "definition": "(often with over) to become cloudy",
-        "ex_of_definition_list": [
-          "The sky clouded over and it began to rain."
-        ]
-      },
-      {
-        "mean_english": "làm vẩn đục",
-        "definition": "to (cause to) become blurred or not clear",
-        "ex_of_definition_list": [
-          "Her eyes were clouded with tears."
-        ]
-      },
-      {
-        "mean_english": "phiền muộn",
-        "definition": "to (cause to) become gloomy or troubled",
-        "ex_of_definition_list": [
-          "His face clouded at the unhappy news."
-        ]
-      }
+    "hash_code_list_img": "-805823336",
+    "list_example": [
+      "a cloud of flies.",
+      "a cloud of sadness."
     ],
-    "hash_code_list_definition_mean": "-1718111806"
+    "hash_code_list_example": "283978789"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/clove_cb_dmean_5000_it.json",
@@ -2563,24 +1806,11 @@
         "id_image": "clove_5236132"
       }
     ],
-    "hash_code_list_img": "1174191202",
-    "list_definition_mean": [
-      {
-        "mean_english": "cây đinh hương",
-        "definition": "the flower bud of a tropical tree dried for use as a spice",
-        "ex_of_definition_list": [
-          "Add a pinch of ground cloves."
-        ]
-      },
-      {
-        "mean_english": "nhánh (hành, tỏi)",
-        "definition": "a section of a bulb",
-        "ex_of_definition_list": [
-          "a clove of garlic."
-        ]
-      }
+    "hash_code_list_img": "-2123551296",
+    "list_example": [
+      "a clove of garlic."
     ],
-    "hash_code_list_definition_mean": "694088403"
+    "hash_code_list_example": "698025120"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/clover_cb_dmean_5000_it.json",
@@ -2613,17 +1843,11 @@
         "id_image": "clover_4257617"
       }
     ],
-    "hash_code_list_img": "-223157663",
-    "list_definition_mean": [
-      {
-        "mean_english": "cỏ ba lá",
-        "definition": "a plant with leaves in three parts, used as food for cattle etc",
-        "ex_of_definition_list": [
-          "The cows are fed on clover."
-        ]
-      }
+    "hash_code_list_img": "944716976",
+    "list_example": [
+      "Both mechanisms also provide a similar, but somewhat less effective resistance against the spotted clover aphid."
     ],
-    "hash_code_list_definition_mean": "605884529"
+    "hash_code_list_example": "-1823832482"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/clown_cb_dmean_5000_it.json",
@@ -2653,31 +1877,11 @@
         "id_image": "clown_863115"
       }
     ],
-    "hash_code_list_img": "319717814",
-    "list_definition_mean": [
-      {
-        "mean_english": "anh hề",
-        "definition": "a person who works in a circus, performing funny acts (usually ridiculously dressed)",
-        "ex_of_definition_list": [
-          "a troupe of circus clowns."
-        ]
-      },
-      {
-        "mean_english": "người quê mùa",
-        "definition": "any person who behaves ridiculously",
-        "ex_of_definition_list": [
-          "He’s always acting the clown (= behaving like a clown)."
-        ]
-      },
-      {
-        "mean_english": "làm hề",
-        "definition": "to behave ridiculously",
-        "ex_of_definition_list": [
-          "Stop clowning around and get on with your work!."
-        ]
-      }
+    "hash_code_list_img": "501130359",
+    "list_example": [
+      "He’s always acting the clown (= behaving like a clown)."
     ],
-    "hash_code_list_definition_mean": "-984447251"
+    "hash_code_list_example": "482284448"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/club_cb_dmean_5000_it.json",
@@ -2715,45 +1919,11 @@
         "id_image": "club_6381778"
       }
     ],
-    "hash_code_list_img": "537970457",
-    "list_definition_mean": [
-      {
-        "mean_english": "dùi cui",
-        "definition": "a heavy stick etc used as a weapon",
-        "ex_of_definition_list": [
-          "The man was allegedly beaten with a club."
-        ]
-      },
-      {
-        "mean_english": "gậy",
-        "definition": "a bat or stick used in certain games (especially golf)",
-        "ex_of_definition_list": [
-          "a set of golf clubs."
-        ]
-      },
-      {
-        "mean_english": "hội",
-        "definition": "a number of people meeting for study, pleasure, games etc",
-        "ex_of_definition_list": [
-          "the local tennis club."
-        ]
-      },
-      {
-        "mean_english": "câu lạc bộ",
-        "definition": "the place where these people meet",
-        "ex_of_definition_list": [
-          "He goes to the club every Friday."
-        ]
-      },
-      {
-        "mean_english": "đánh bằng dùi cui",
-        "definition": "to beat or strike with a club",
-        "ex_of_definition_list": [
-          "They clubbed him to death."
-        ]
-      }
+    "hash_code_list_img": "460201050",
+    "list_example": [
+      "He goes to the club every Friday."
     ],
-    "hash_code_list_definition_mean": "2002103146"
+    "hash_code_list_example": "-964129940"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/clue_cb_dmean_5000_it.json",
@@ -2771,17 +1941,11 @@
         "id_image": "clues_5411108"
       }
     ],
-    "hash_code_list_img": "1277946481",
-    "list_definition_mean": [
-      {
-        "mean_english": "đầu mố",
-        "definition": "anything that helps to solve a mystery, puzzle etc",
-        "ex_of_definition_list": [
-          "The car number was a clue to the identity of the murderer",
-          "I can’t answer the second clue in this crossword."
-        ]
-      }
+    "hash_code_list_img": "2099793716",
+    "list_example": [
+      "The car number was a clue to the identity of the murderer",
+      "I can’t answer the second clue in this crossword."
     ],
-    "hash_code_list_definition_mean": "1684428704"
+    "hash_code_list_example": "-1239728413"
   }
 ]

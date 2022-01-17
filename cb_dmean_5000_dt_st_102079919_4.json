@@ -26,25 +26,11 @@
         "id_image": "moon_433842"
       }
     ],
-    "hash_code_list_img": "1912787916",
-    "list_definition_mean": [
-      {
-        "mean_english": "mặt trăng",
-        "definition": "the heavenly body that moves once round the earth in a month and reflects light from the sun",
-        "ex_of_definition_list": [
-          "The moon was shining brightly",
-          "Spacemen landed on the moon."
-        ]
-      },
-      {
-        "mean_english": "vệ tinh",
-        "definition": "any of the similar bodies moving round the other planets",
-        "ex_of_definition_list": [
-          "the moons of Jupiter."
-        ]
-      }
+    "hash_code_list_img": "125323697",
+    "list_example": [
+      "The moon was shining brightly"
     ],
-    "hash_code_list_definition_mean": "-1716089727"
+    "hash_code_list_example": "1192709349"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/moor_cb_dmean_5000_it.json",
@@ -63,17 +49,12 @@
         "id_image": "moor_2000317"
       }
     ],
-    "hash_code_list_img": "223198035",
-    "list_definition_mean": [
-      {
-        "mean_english": "neo tàu",
-        "definition": "to fasten (a ship etc) by a rope, cable or anchor",
-        "ex_of_definition_list": [
-          "We moored (the yacht) in the bay."
-        ]
-      }
+    "hash_code_list_img": "149734518",
+    "list_example": [
+      "Despite these improvements, substantial stretches of marsh, moor and heath remained around 1700.",
+      "In addition to their shared role in administration, landed gentlemen, professional gentlemen and gentlemen merchants stood shoulder to shoulder on the grouse moor and river bank."
     ],
-    "hash_code_list_definition_mean": "438055082"
+    "hash_code_list_example": "1247433767"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mop_cb_dmean_5000_it.json",
@@ -110,45 +91,14 @@
         "id_image": "mop_5234131"
       }
     ],
-    "hash_code_list_img": "-991180304",
-    "list_definition_mean": [
-      {
-        "mean_english": "giẻ lau sàn",
-        "definition": "a pad of sponge, or a bunch of pieces of coarse string or yarn etc, fixed on a handle, for washing floors, dishes etc",
-        "ex_of_definition_list": [
-          "a mop and bucket"
-        ]
-      },
-      {
-        "mean_english": "búi tóc",
-        "definition": "a thick mass of hair",
-        "ex_of_definition_list": [
-          "a mop of dark hair."
-        ]
-      },
-      {
-        "mean_english": "lau, chùi",
-        "definition": "an act of mopping",
-        "ex_of_definition_list": [
-          "He gave the floor a quick mop."
-        ]
-      },
-      {
-        "mean_english": "lau chùi",
-        "definition": "to rub or wipe with a mop",
-        "ex_of_definition_list": [
-          "She mopped the kitchen floor."
-        ]
-      },
-      {
-        "mean_english": "dọn sạch",
-        "definition": "to wipe or clean (eg a face covered with sweat)",
-        "ex_of_definition_list": [
-          "He mopped his brow."
-        ]
-      }
+    "hash_code_list_img": "2079282769",
+    "list_example": [
+      "a mop and bucket",
+      "a mop of dark hair.",
+      "In the picture condition, children were shown pictures of the two words cat and mop to reduce the need to hold them in working memory while they heard the problem.",
+      "Not only do these corridors of concrete mop up the older terraced property; they take delightful specimens of semi-detached houses in their train as well."
     ],
-    "hash_code_list_definition_mean": "186105536"
+    "hash_code_list_example": "482072034"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/moral_cb_dmean_5000_it.json",
@@ -172,25 +122,21 @@
         "id_image": "moral_6352978"
       }
     ],
-    "hash_code_list_img": "1950733545",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc đạo đức",
-        "definition": "of, or relating to, character or behaviour especially right behaviour",
-        "ex_of_definition_list": [
-          "She has high moral standards",
-          "He leads a very moral (= good) life."
-        ]
-      },
-      {
-        "mean_english": "bài học",
-        "definition": "the lesson to be learned from something that happens, or from a story",
-        "ex_of_definition_list": [
-          "The moral of this story is that crime doesn’t pay."
-        ]
-      }
+    "hash_code_list_img": "-1821763211",
+    "list_example": [
+      "She has high moral standards",
+      "He leads a very moral (= good) life.",
+      "The moral of this story is that crime doesn’t pay.",
+      "Another increasingly popular suggestion is that an individual's lifestyle choices may affect his or her moral claims or entitlements.",
+      "Finally, it is in the interest of employees to have ethical care that respects them as persons - in the full moral sense of the term.",
+      "So, if it can be the case that a deity's activity cannot account for worlds' moral differences, (7a) is false.",
+      "Natural philosophy was supposed to lead to moral virtue, to modesty and religious reverence.",
+      "The moral significance of the intending-foreseeing distinction requires more than the mere functional role of intention and foresight.",
+      "In other words, popular consensus, or a shared moral universe, may be something of a red herring.",
+      "An authority that rests on substantive moral limitations is conceptually possible.",
+      "Feminist ethicists reject this stance and assert that moral philosophy has to pay attention to the psychological, social and political dimensions of life."
     ],
-    "hash_code_list_definition_mean": "213322179"
+    "hash_code_list_example": "489954341"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/more_cb_dmean_5000_it.json",
@@ -217,60 +163,16 @@
         "id_image": "more_455902"
       }
     ],
-    "hash_code_list_img": "1704037556",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhiều hơn",
-        "definition": "a greater number or quantity of",
-        "ex_of_definition_list": [
-          "I’ve got more money than he has."
-        ]
-      },
-      {
-        "mean_english": "thêm nữa",
-        "definition": "an additional number or quantity of",
-        "ex_of_definition_list": [
-          "We need some more milk."
-        ]
-      },
-      {
-        "mean_english": "hơn",
-        "definition": "used to form the comparative of many adjectives and adverbs, especially those of more than two syllables",
-        "ex_of_definition_list": [
-          "She can do it more easily than I can",
-          "He is much more intelligent than they are."
-        ]
-      },
-      {
-        "mean_english": "nhiều hơn",
-        "definition": "to a greater degree or extent",
-        "ex_of_definition_list": [
-          "I’m exercising a little more now than I used to."
-        ]
-      },
-      {
-        "mean_english": "một lần nữa",
-        "definition": "again",
-        "ex_of_definition_list": [
-          "We’ll play it once more."
-        ]
-      },
-      {
-        "mean_english": "nhiều hơn",
-        "definition": "a greater number or quantity",
-        "ex_of_definition_list": [
-          "‘Are there a lot of people?’ ‘There are far more than we expected.’"
-        ]
-      },
-      {
-        "mean_english": "thêm",
-        "definition": "an additional number or amount",
-        "ex_of_definition_list": [
-          "We’ve run out of paint. Will you go and get some more?"
-        ]
-      }
+    "hash_code_list_img": "-720590744",
+    "list_example": [
+      "I’ve got more money than he has.",
+      "We need some more milk.",
+      "She can do it more easily than I can",
+      "He is much more intelligent than they are.",
+      "I’m exercising a little more now than I used to.",
+      "‘Are there a lot of people?’ ‘There are far more than we expected.’"
     ],
-    "hash_code_list_definition_mean": "-2016084258"
+    "hash_code_list_example": "1858682246"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/morgue_cb_dmean_5000_it.json",
@@ -293,17 +195,12 @@
         "id_image": "morgue_6001056"
       }
     ],
-    "hash_code_list_img": "1738607129",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà xác",
-        "definition": "a building where people who have been found dead are laid until they are identified etc",
-        "ex_of_definition_list": [
-          "a hospital morgue."
-        ]
-      }
+    "hash_code_list_img": "-1879369805",
+    "list_example": [
+      "They have, however, sanctioned a loan of £2,000 for a morgue and police court.",
+      "State and hospital officials refused to release other bodies from the morgue for burial until the uproar quieted, leveraging the dead as blackmail."
     ],
-    "hash_code_list_definition_mean": "725028040"
+    "hash_code_list_example": "1105887549"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mortar_cb_dmean_5000_it.json",
@@ -338,17 +235,11 @@
         "id_image": "mortar_963300"
       }
     ],
-    "hash_code_list_img": "968231494",
-    "list_definition_mean": [
-      {
-        "mean_english": "cối giã",
-        "definition": "a dish in which to grind substances, especially with a pestle",
-        "ex_of_definition_list": [
-          "a pestle and mortar."
-        ]
-      }
+    "hash_code_list_img": "-1899235781",
+    "list_example": [
+      "a pestle and mortar."
     ],
-    "hash_code_list_definition_mean": "637283246"
+    "hash_code_list_example": "1155872157"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mortgage_cb_dmean_5000_it.json",
@@ -382,18 +273,16 @@
         "id_image": "mortgage_646635"
       }
     ],
-    "hash_code_list_img": "-2069387477",
-    "list_definition_mean": [
-      {
-        "mean_english": "văn tự thế chấp",
-        "definition": "a legal agreement by which a sum of money is lent for the purpose of buying buildings, land etc",
-        "ex_of_definition_list": [
-          "a fixed-rate mortgage",
-          "(also adjective) mortgage repayments."
-        ]
-      }
+    "hash_code_list_img": "621414835",
+    "list_example": [
+      "(also adjective) mortgage repayments.",
+      "This difference is essentially due to difference in the purchase price and mortgage subsidies over the capital levy on housing.",
+      "He also knew that he had to continue working for several more years because his mortgage would close when he was 75 years old.",
+      "Deducting the amount of outstanding mortgage then produces an estimate of the amount of equity each respondent has tied up in his or her home.",
+      "The home mortgage interest deduction's value has increased from $1,277 on average in 1980 to $2,011 annually in 2001.",
+      "This was also the first time that the farm passed into the hands of a mortgage holder."
     ],
-    "hash_code_list_definition_mean": "1539258504"
+    "hash_code_list_example": "1392131934"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mosquito_cb_dmean_5000_it.json",
@@ -421,18 +310,17 @@
         "id_image": "mosquito_3154460"
       }
     ],
-    "hash_code_list_img": "-1647976106",
-    "list_definition_mean": [
-      {
-        "mean_english": "con muỗi",
-        "definition": "any of several types of small insect, which suck blood from animals and people and in this way transmit diseases such as malaria",
-        "ex_of_definition_list": [
-          "(also adjective) a mosquito bite",
-          "a mosquito net."
-        ]
-      }
+    "hash_code_list_img": "-945074685",
+    "list_example": [
+      "(also adjective) a mosquito bite",
+      "a mosquito net.",
+      "The use of mosquito nets by inhabitants of those houses was monitored by the collectors.",
+      "Thus, viruses entering the tick midgut are exposed to different environmental conditions compared with those existing in, for example, the mosquito midgut.",
+      "In the field, densities of larger dytiscids will probably never be high enough to significantly reduce levels of mosquito populations.",
+      "Workers lacked mosquito nets and even blankets to protect themselves from nights of exposure in remote corners of the forest.",
+      "The time frames cover the warm and rainy season, when peaks of mosquito abundance are more likely to occur in the area."
     ],
-    "hash_code_list_definition_mean": "1007881425"
+    "hash_code_list_example": "-1703020192"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/moss_cb_dmean_5000_it.json",
@@ -460,17 +348,16 @@
         "id_image": "moss_3968223"
       }
     ],
-    "hash_code_list_img": "1452932773",
-    "list_definition_mean": [
-      {
-        "mean_english": "rêu",
-        "definition": "(any variety of) a type of small flowerless plant, found in damp places, forming a soft green covering on tree trunks etc",
-        "ex_of_definition_list": [
-          "The bank of the river was covered in moss."
-        ]
-      }
+    "hash_code_list_img": "-293129773",
+    "list_example": [
+      "The maximum water-holding capacity of moss was estimated from the difference between moist and dry weight.",
+      "The moss was burnt off the willow stocks and in some cases the heat discoloured and even damaged the bark of the stocks.",
+      "Reduced litter loads and a greater quantity of moss were two key responses.",
+      "Only occasional spot spraying of fern regrowth is required after moss is established.",
+      "Other contaminants should also be considered, especially aerosols and particulate accumulations in snow ablation zones and moss sites adjacent to the runway site.",
+      "The four variables were: cover by higher plants, litter, moss and soil surface depressions, stratified towards the soil surface in that order."
     ],
-    "hash_code_list_definition_mean": "90777730"
+    "hash_code_list_example": "321817566"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/motherboard_cb_dmean_5000_it.json",
@@ -498,17 +385,16 @@
         "id_image": "motherboard_3868395"
       }
     ],
-    "hash_code_list_img": "1924034989",
-    "list_definition_mean": [
-      {
-        "mean_english": "bo mạch chủ",
-        "definition": "the main circuit board in a computer or other device",
-        "ex_of_definition_list": [
-          "Instructions on how to disassemble the computer and replace the motherboard should be in the Hardware Maintenance Manual."
-        ]
-      }
+    "hash_code_list_img": "1438221817",
+    "list_example": [
+      "Instructions on how to disassemble the computer and replace the motherboard should be in the Hardware Maintenance Manual.",
+      "Thus, after the selection of the motherboard alone the working-memory resource shows a deficit.",
+      "Both designs incorporate a switch board and a motherboard which were connected by a 12-pin ribbon cable.",
+      "It is commonly used to bond heatsinks to motherboard chipsets and video card processors where there are no mounting holes to clamp a heatsink down.",
+      "Years ago, the move to integrated graphics on the motherboard greatly reduced the market for low end video cards.",
+      "The motherboard had a non-standard form factor, 118 mm 153 mm 38 mm small."
     ],
-    "hash_code_list_definition_mean": "1755976067"
+    "hash_code_list_example": "1554331968"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/motherhood_cb_dmean_5000_it.json",
@@ -531,17 +417,14 @@
         "id_image": "motherhood_394438"
       }
     ],
-    "hash_code_list_img": "-166126276",
-    "list_definition_mean": [
-      {
-        "mean_english": "tình mẹ",
-        "definition": "the state of being a mother",
-        "ex_of_definition_list": [
-          "She gave up her career for motherhood."
-        ]
-      }
+    "hash_code_list_img": "-64495011",
+    "list_example": [
+      "In order to secure support for their children, past women needed to present marriage and motherhood as public not merely private concerns.",
+      "There has to be a new gender contract, to allow women to harmonize motherhood and careers.",
+      "Teenage motherhood is a frequent precursor of lone parenting, and this is implicit in our data as well.",
+      "Besides, many features of the system, especially motherhood at a very early age, were seen to be cruel and socially dysfunctional."
     ],
-    "hash_code_list_definition_mean": "1846406214"
+    "hash_code_list_example": "-1244172316"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mother_cb_dmean_5000_it.json",
@@ -566,32 +449,13 @@
         "id_image": "mother_819074"
       }
     ],
-    "hash_code_list_img": "-869045137",
-    "list_definition_mean": [
-      {
-        "mean_english": "mẹ",
-        "definition": "a female parent, especially human",
-        "ex_of_definition_list": [
-          "John’s mother lives in Manchester",
-          "(also adjective) The mother bird feeds her young."
-        ]
-      },
-      {
-        "mean_english": "Mẹ (tôn giáo)",
-        "definition": "(often with capital",
-        "ex_of_definition_list": [
-          "also Mother Superior) the female leader of a group of nuns."
-        ]
-      },
-      {
-        "mean_english": "chăm sóc",
-        "definition": "to care for as a mother does; to protect (sometimes too much)",
-        "ex_of_definition_list": [
-          "His wife tries to mother him."
-        ]
-      }
+    "hash_code_list_img": "1804663625",
+    "list_example": [
+      "John’s mother lives in Manchester",
+      "(also adjective) The mother bird feeds her young.",
+      "His wife tries to mother him."
     ],
-    "hash_code_list_definition_mean": "-1217836456"
+    "hash_code_list_example": "846518369"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/moth_cb_dmean_5000_it.json",
@@ -615,17 +479,14 @@
         "id_image": "moth_5517066"
       }
     ],
-    "hash_code_list_img": "-2010206713",
-    "list_definition_mean": [
-      {
-        "mean_english": "mọt vải",
-        "definition": "a clothes moth",
-        "ex_of_definition_list": [
-          "The moths have been at my evening dress."
-        ]
-      }
+    "hash_code_list_img": "1746215875",
+    "list_example": [
+      "Data in the succeeding section on moth emergence in the winter serve to explain the increase in oviposition.",
+      "Two other months showed departures in moth abundance from that predicted by the model.",
+      "The methods of obtaining information on the course of moth emergence are described.",
+      "The evolutionary discussions take the form of an orderby-order treatment of the ballooning behaviours and the ecological phylogenetics of spiders, spider mites and moth larvae."
     ],
-    "hash_code_list_definition_mean": "1527894263"
+    "hash_code_list_example": "1923421000"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/motion_cb_dmean_5000_it.json",
@@ -661,39 +522,13 @@
         "id_image": "motion_5775923"
       }
     ],
-    "hash_code_list_img": "-455059595",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự vận động",
-        "definition": "the act or state of moving",
-        "ex_of_definition_list": [
-          "the motion of the planets",
-          "He lost the power of motion."
-        ]
-      },
-      {
-        "mean_english": "cử chỉ",
-        "definition": "a single movement or gesture",
-        "ex_of_definition_list": [
-          "He summoned the waiter with a motion of the hand."
-        ]
-      },
-      {
-        "mean_english": "bản kiến nghị",
-        "definition": "a proposal put before a meeting",
-        "ex_of_definition_list": [
-          "She was asked to speak against the motion in the debate."
-        ]
-      },
-      {
-        "mean_english": "ra hiệu, ra ý",
-        "definition": "to make a movement or sign eg directing a person or telling him to do something",
-        "ex_of_definition_list": [
-          "He motioned (to) her to come nearer."
-        ]
-      }
+    "hash_code_list_img": "-95798531",
+    "list_example": [
+      "the motion of the planets",
+      "He summoned the waiter with a motion of the hand.",
+      "She was asked to speak against the motion in the debate."
     ],
-    "hash_code_list_definition_mean": "2130657447"
+    "hash_code_list_example": "769987454"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/motivate_cb_dmean_5000_it.json",
@@ -731,17 +566,18 @@
         "id_image": "motivate_6002895"
       }
     ],
-    "hash_code_list_img": "-2116168408",
-    "list_definition_mean": [
-      {
-        "mean_english": "thúc đẩy",
-        "definition": "to cause to act in a particular way",
-        "ex_of_definition_list": [
-          "He was motivated by jealousy."
-        ]
-      }
+    "hash_code_list_img": "-2014590077",
+    "list_example": [
+      "He was motivated by jealousy.",
+      "The choice of the third correlogram peak was not motivated by rigorous theoretical considerations but was also not arbitrary.",
+      "However, this strategy may not be motivated by language dominance alone.",
+      "Such an assumption might be motivated by the supposition that the agent has already considered the decision problem under the first presentation.",
+      "People have to be educated and motivated to segregate waste.",
+      "I do not take for granted, however, that everyone has the will or the interest to do so, if not motivated by good examples.",
+      "The principle must be motivated by other considerations.",
+      "The narrative determination of a universe motivates the segmentation of the time line into foreground and background (the former is treated as the present)."
     ],
-    "hash_code_list_definition_mean": "1131908492"
+    "hash_code_list_example": "160251691"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/motorbike_cb_dmean_5000_it.json",
@@ -774,17 +610,14 @@
         "id_image": "motorbike_698597"
       }
     ],
-    "hash_code_list_img": "275001196",
-    "list_definition_mean": [
-      {
-        "mean_english": "xe mô tô",
-        "definition": "any of several types of usually heavy bicycle moved by a motor",
-        "ex_of_definition_list": [
-          "a motorcycle helmet."
-        ]
-      }
+    "hash_code_list_img": "1955848779",
+    "list_example": [
+      "Rather, the utterance is a relative clause (' 'the motorbike that you bought' ') being used to specify a particular toy.",
+      "My noble friend has given us the terrifying figures of the loss of life and loss of limbs that occur among motorbike riders.",
+      "One could see the motorbike coming and this would be of very good assistance.",
+      "The alternative to a motorbike is a pushbike, for which one does not need a licence."
     ],
-    "hash_code_list_definition_mean": "225009596"
+    "hash_code_list_example": "315212431"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/motorcyclist_cb_dmean_5000_it.json",
@@ -812,17 +645,14 @@
         "id_image": "motorcyclist_4532474"
       }
     ],
-    "hash_code_list_img": "372363646",
-    "list_definition_mean": [
-      {
-        "mean_english": "người lái xe mô tô",
-        "definition": "a person who rides a motorbike",
-        "ex_of_definition_list": [
-          "The motorcyclist was injured in the road accident."
-        ]
-      }
+    "hash_code_list_img": "-1775303870",
+    "list_example": [
+      "The motorcyclist was injured in the road accident.",
+      "Last week, he quashed a three-month driving ban on a speeding motorcyclist because he was finding it difficult to get to work.",
+      "Compare the motorcyclist to the patient in the next bed to him - the depressive motorcyclist.",
+      "I think the most plausible suggestion is that the motorcyclist does feel something when he thinks of his recovery."
     ],
-    "hash_code_list_definition_mean": "1678289099"
+    "hash_code_list_example": "751521414"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/motorway_cb_dmean_5000_it.json",
@@ -850,17 +680,15 @@
         "id_image": "motorway_3393375"
       }
     ],
-    "hash_code_list_img": "-412720843",
-    "list_definition_mean": [
-      {
-        "mean_english": "xa lộ",
-        "definition": "a road specially made for fast traffic",
-        "ex_of_definition_list": [
-          "They are building a new motorway to link the two cities."
-        ]
-      }
+    "hash_code_list_img": "-655873402",
+    "list_example": [
+      "They are building a new motorway to link the two cities.",
+      "A new rail and motorway bridge is to open at the turn of the century.",
+      "In economic terms, landslides pose immense hazards, even on the seemingly insignificant scale of a motorway embankment failure.",
+      "The maximum length of any motorway is 910 km, the maximum number of restaurants per motorway is 49.",
+      "Consider a lorry in the middle lane of a motorway moving to the inside lane as a car approaches from behind."
     ],
-    "hash_code_list_definition_mean": "1492835562"
+    "hash_code_list_example": "-1422247680"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/motor_cb_dmean_5000_it.json",
@@ -889,25 +717,11 @@
         "id_image": "motor_465048"
       }
     ],
-    "hash_code_list_img": "-369999386",
-    "list_definition_mean": [
-      {
-        "mean_english": "động cơ ô tô",
-        "definition": "a machine, usually a petrol engine or an electrical device, that gives motion or power",
-        "ex_of_definition_list": [
-          "a washing-machine has an electric motor",
-          "(also adjective) a motor boat/vehicle."
-        ]
-      },
-      {
-        "mean_english": "đi ô tô",
-        "definition": "to travel by car",
-        "ex_of_definition_list": [
-          "We motored down to my mother’s house at the weekend."
-        ]
-      }
+    "hash_code_list_img": "1070001080",
+    "list_example": [
+      "(also adjective) a motor boat/vehicle."
     ],
-    "hash_code_list_definition_mean": "-655436261"
+    "hash_code_list_example": "-165695945"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mould_cb_dmean_5000_it.json",
@@ -940,45 +754,11 @@
         "id_image": "mould_817327"
       }
     ],
-    "hash_code_list_img": "357795538",
-    "list_definition_mean": [
-      {
-        "mean_english": "mốc meo",
-        "definition": "a growth on stale food etc",
-        "ex_of_definition_list": [
-          "This bread is covered with mould/mold."
-        ]
-      },
-      {
-        "mean_english": "khuôn",
-        "definition": "a shape into which a substance in liquid form is poured so that it may take on that shape when it cools and hardens",
-        "ex_of_definition_list": [
-          "a jelly mould/mold."
-        ]
-      },
-      {
-        "mean_english": "đúc",
-        "definition": "to form in a mould",
-        "ex_of_definition_list": [
-          "The metal is moulded/molded into long bars."
-        ]
-      },
-      {
-        "mean_english": "nặn",
-        "definition": "to work into a shape",
-        "ex_of_definition_list": [
-          "He moulded/molded the clay into a ball."
-        ]
-      },
-      {
-        "mean_english": "nặn",
-        "definition": "to make the shape of (something)",
-        "ex_of_definition_list": [
-          "She moulded/molded the figure out of/in clay."
-        ]
-      }
+    "hash_code_list_img": "-1552404596",
+    "list_example": [
+      "It can cause the metal to tear away from the mould walls resulting in a deformed casting."
     ],
-    "hash_code_list_definition_mean": "66430992"
+    "hash_code_list_example": "1031388259"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mountain_cb_dmean_5000_it.json",
@@ -1006,18 +786,12 @@
         "id_image": "mountain_661933"
       }
     ],
-    "hash_code_list_img": "1340459326",
-    "list_definition_mean": [
-      {
-        "mean_english": "núi",
-        "definition": "a high hill",
-        "ex_of_definition_list": [
-          "Mount Everest is the highest mountain in the world",
-          "(also adjective) a mountain stream."
-        ]
-      }
+    "hash_code_list_img": "-966781542",
+    "list_example": [
+      "Mount Everest is the highest mountain in the world",
+      "(also adjective) a mountain stream."
     ],
-    "hash_code_list_definition_mean": "720486265"
+    "hash_code_list_example": "-1780758895"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mount_cb_dmean_5000_it.json",
@@ -1042,61 +816,15 @@
         "id_image": "mount_306730"
       }
     ],
-    "hash_code_list_img": "31874156",
-    "list_definition_mean": [
-      {
-        "mean_english": "leo",
-        "definition": "to get or climb up (on or on to)",
-        "ex_of_definition_list": [
-          "He mounted the platform",
-          "She mounted (the horse) and rode off."
-        ]
-      },
-      {
-        "mean_english": "trèo le",
-        "definition": "to rise in level",
-        "ex_of_definition_list": [
-          "Prices are mounting steeply."
-        ]
-      },
-      {
-        "mean_english": "đóng khung",
-        "definition": "to put (a picture etc) into a frame, or stick it on to card etc",
-        "ex_of_definition_list": [
-          "We should mount some of these photographs."
-        ]
-      },
-      {
-        "mean_english": "treo",
-        "definition": "to hang or put up on a stand, support etc",
-        "ex_of_definition_list": [
-          "He mounted the tiger’s head on the wall."
-        ]
-      },
-      {
-        "mean_english": "được trang bị",
-        "definition": "to organize",
-        "ex_of_definition_list": [
-          "The army mounted an attack",
-          "They’re planning to mount an exhibition of paintings by local artists."
-        ]
-      },
-      {
-        "mean_english": "khung",
-        "definition": "a support or backing on which anything is placed for display",
-        "ex_of_definition_list": [
-          "Would this picture look better on a red mount or a black one?"
-        ]
-      },
-      {
-        "mean_english": "đỉnh núi",
-        "definition": "a mountain",
-        "ex_of_definition_list": [
-          "Mount Everest."
-        ]
-      }
+    "hash_code_list_img": "868214514",
+    "list_example": [
+      "We should mount some of these photographs.",
+      "They’re planning to mount an exhibition of paintings by local artists.",
+      "Would this picture look better on a red mount or a black one?",
+      "He then lifted him onto his own mount and took him to an inn and looked after him.",
+      "This developing sense of self increasingly helps the child to mount an organized response to stimuli, especially challenging stimuli."
     ],
-    "hash_code_list_definition_mean": "1185063733"
+    "hash_code_list_example": "1801740362"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mourn_cb_dmean_5000_it.json",
@@ -1114,17 +842,19 @@
         "id_image": "mourn_3768716"
       }
     ],
-    "hash_code_list_img": "1679092663",
-    "list_definition_mean": [
-      {
-        "mean_english": "than khóc, thương tiếc",
-        "definition": "to have or show great sorrow eg for a person who has died",
-        "ex_of_definition_list": [
-          "She mourned (for) her dead son."
-        ]
-      }
+    "hash_code_list_img": "1457383958",
+    "list_example": [
+      "She mourned (for) her dead son.",
+      "Tears are droplets of love, which herald the process of mourning and remembrance.",
+      "Not only might the mourner need to create meaning, but, in fact, those who are mourning often work to change social conditions.",
+      "In so far as grandparental relations are concerned, we found no examples of grandparents left ' mourning ' having lost touch with grandchildren following divorce.",
+      "Allow me also to express my feelings of profound mourning for all victims, both at home and abroad, of that history.",
+      "The gaps are mourned as lacunae - deaths - but the acknowledgement of loss becomes in itself cause for quiet rejoicing.",
+      "Blessed are they that mourn, for they shall be comforted.",
+      "What is the best way for parents to carry out this period of mourning?",
+      "In a healthy subject, the loss is introjected - mourned and grieved for, accepted as a part of reality, and worked through."
     ],
-    "hash_code_list_definition_mean": "1804109489"
+    "hash_code_list_example": "133995254"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mousse_cb_dmean_5000_it.json",
@@ -1152,17 +882,18 @@
         "id_image": "mousse_2455852"
       }
     ],
-    "hash_code_list_img": "629525148",
-    "list_definition_mean": [
-      {
-        "mean_english": "món kem mút",
-        "definition": "a dish made from flavoured/flavored whipped cream and eaten cold",
-        "ex_of_definition_list": [
-          "My favourite dessert is chocolate mousse."
-        ]
-      }
+    "hash_code_list_img": "-1686023117",
+    "list_example": [
+      "Hair mousse adds volume to hair and often provides both conditioning and hold, without any clumps or build-up.",
+      "Had dispersant been applied from the air in the vicinity of the spill source, the formation of mousse might have been prevented.",
+      "We have heard a great deal about the stick, but not even a nuance of mousse of carrot has been dangled in front of us.",
+      "The chocolate mousse was made from desiccated chocolate mousse, and water.",
+      "By using stated food preferences, rather than asking children to recall what they actually ate, we identified chocolate mousse as a food vehicle that was significantly associated with illness.",
+      "The nature of the oil and rough seas contributed to the rapid formation of a chocolate mousse emulsification of oil and water.",
+      "Semi-permanent color mousse can be used to give toning to hair that is fading from hair color processes.",
+      "Chocolate charlotte uses a mousse filling within the layers."
     ],
-    "hash_code_list_definition_mean": "102373394"
+    "hash_code_list_example": "1209223484"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/moustache_cb_dmean_5000_it.json",
@@ -1180,17 +911,19 @@
         "id_image": "moustache_205043"
       }
     ],
-    "hash_code_list_img": "1401758503",
-    "list_definition_mean": [
-      {
-        "mean_english": "ria mép",
-        "definition": "the hair on the upper lip of a man",
-        "ex_of_definition_list": [
-          "The young man has grown a moustache."
-        ]
-      }
+    "hash_code_list_img": "808663392",
+    "list_example": [
+      "The young man has grown a moustache.",
+      "Contemporary photos indicate that, while cowboys often had moustaches (sometimes quite fancy), beards were not common one out of twenty cowboys, perhaps.",
+      "A triangle, a tennis racquet and a couple of moustaches.",
+      "They had shiny shoes, pristine ironed uniforms and waxed moustaches.",
+      "To do so, the band members shaved off their trademark beards and moustaches and cut their hair short.",
+      "Many of the figures have no facial hair, though several of them wear very long moustaches, with heavy ends which hang down to the level of the chin.",
+      "On several occasions since the 1970s, troopers have been given the option of voting to be able to wear short sleeve shirts in warm weather months and to have moustaches.",
+      "The female has a grey back and wings, orange head and underparts, and a white face with black eye stripe and moustaches.",
+      "In the late 19th century, the ornate beards and moustaches worn by the officers of the day, which complemented their rank and age, were also worn by socially equivalent civilians."
     ],
-    "hash_code_list_definition_mean": "264686309"
+    "hash_code_list_example": "224006595"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mouthpiece_cb_dmean_5000_it.json",
@@ -1209,17 +942,11 @@
         "id_image": "mouthpiece_1923024"
       }
     ],
-    "hash_code_list_img": "1268380428",
-    "list_definition_mean": [
-      {
-        "mean_english": "miệng (kèn, sáo, còi…)",
-        "definition": "the piece of a musical instrument etc which is held in the mouth",
-        "ex_of_definition_list": [
-          "the mouthpiece of a horn."
-        ]
-      }
+    "hash_code_list_img": "761009709",
+    "list_example": [
+      "the mouthpiece of a horn."
     ],
-    "hash_code_list_definition_mean": "1023842297"
+    "hash_code_list_example": "-876283348"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mouth_cb_dmean_5000_it.json",
@@ -1239,31 +966,17 @@
         "id_image": "mouth_2731397"
       }
     ],
-    "hash_code_list_img": "1168376690",
-    "list_definition_mean": [
-      {
-        "mean_english": "miệng",
-        "definition": "the opening in the head by which a human or animal eats and speaks or makes noises",
-        "ex_of_definition_list": [
-          "What has the baby got in its mouth?"
-        ]
-      },
-      {
-        "mean_english": "cửa (hang, sông…)",
-        "definition": "the opening or entrance eg of a bottle, river etc",
-        "ex_of_definition_list": [
-          "the mouth of the harbour."
-        ]
-      },
-      {
-        "mean_english": "nói to",
-        "definition": "to move the lips as if forming (words), but without making any sound",
-        "ex_of_definition_list": [
-          "He mouthed the words to me so that no-one could overhear."
-        ]
-      }
+    "hash_code_list_img": "9108738",
+    "list_example": [
+      "the mouth of the harbour.",
+      "The problem was resolved by measuring the distance of the vegetation front relative to the bay mouth instead of the land/water boundary.",
+      "It is the mouth part which enters the mucosa and the worm obtains nutrition from the host tissue.",
+      "The deep draught estuary was easy to defend since it had a narrow mouth surrounded by mountains.",
+      "Specifically, mouth opening and closing, hand closing and opening, and stepping forward and backward movements were studied.",
+      "Anterior to the mouth there are two small raised sections of the cuticle, each bearing four or five tubercles.",
+      "The sharply delineated but superficial attachment to the equine caecum by the mouth leaves behind an oval area devoid of epithelial cells."
     ],
-    "hash_code_list_definition_mean": "-1517060893"
+    "hash_code_list_example": "317795795"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/movement_cb_dmean_5000_it.json",
@@ -1307,59 +1020,20 @@
         "id_image": "movement_5978857"
       }
     ],
-    "hash_code_list_img": "-75056494",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự chuyển động",
-        "definition": "(an act of) changing position or going from one point to another",
-        "ex_of_definition_list": [
-          "The animal turned sideways with a swift movement."
-        ]
-      },
-      {
-        "mean_english": "hoạt động",
-        "definition": "activity",
-        "ex_of_definition_list": [
-          "In this play there is a lot of discussion, but not much movement."
-        ]
-      },
-      {
-        "mean_english": "cử động",
-        "definition": "the art of moving gracefully or expressively",
-        "ex_of_definition_list": [
-          "She teaches movement and drama."
-        ]
-      },
-      {
-        "mean_english": "phong trào, cuộc vận động",
-        "definition": "an organization or association",
-        "ex_of_definition_list": [
-          "the Scout movement."
-        ]
-      },
-      {
-        "mean_english": "kim đồng hồ…)",
-        "definition": "the moving parts of a watch, clock etc",
-        "ex_of_definition_list": [
-          "The movement of the watch requires some adjustment."
-        ]
-      },
-      {
-        "mean_english": "(âm nhạc) phần",
-        "definition": "a section of a large-scale piece of music",
-        "ex_of_definition_list": [
-          "the third movement of Beethoven’s Fifth Symphony."
-        ]
-      },
-      {
-        "mean_english": "xu hướng chung",
-        "definition": "a general tendency towards a habit, point of view etc",
-        "ex_of_definition_list": [
-          "There’s a movement towards simple designs in clothing these days."
-        ]
-      }
+    "hash_code_list_img": "451858131",
+    "list_example": [
+      "She teaches movement and drama.",
+      "The movement of the watch requires some adjustment.",
+      "the third movement of Beethoven’s Fifth Symphony.",
+      "There’s a movement towards simple designs in clothing these days.",
+      "We have applied the same idea to teaching music by arguing for body movement as a physical metaphor between musical activities and conceptual thinking.",
+      "Then the vertical fluid movement is most accelerated along the rear axis, generating a vertical jet.",
+      "Its position at the present surface represents a vertical component of net movement of about 50 km, since its high-pressure metamorphism.",
+      "Finally, planning will time the movement such that a sufficient period of time is available for the control system to operate.",
+      "Every change in the number of droplets affects the movement of the remaining droplets immediately; the trajectories are non-smooth.",
+      "Investigating a model of commonsense thinking about causes of movement with 7- to 16-year-old pupils."
     ],
-    "hash_code_list_definition_mean": "-573171951"
+    "hash_code_list_example": "412501872"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/move_cb_dmean_5000_it.json",
@@ -1386,47 +1060,13 @@
         "id_image": "move_1558171"
       }
     ],
-    "hash_code_list_img": "951010685",
-    "list_definition_mean": [
-      {
-        "mean_english": "di chuyển",
-        "definition": "to (cause to) change position or go from one place to another",
-        "ex_of_definition_list": [
-          "He moved his arm",
-          "Don’t move!",
-          "Please move your car."
-        ]
-      },
-      {
-        "mean_english": "chuyển nhà",
-        "definition": "to change houses",
-        "ex_of_definition_list": [
-          "We’re moving on Saturday."
-        ]
-      },
-      {
-        "mean_english": "xúc động",
-        "definition": "to affect the feelings or emotions of",
-        "ex_of_definition_list": [
-          "I was deeply moved by the film."
-        ]
-      },
-      {
-        "mean_english": "(đánh cờ) nước",
-        "definition": "(in board games) an act of moving a piece",
-        "ex_of_definition_list": [
-          "You can win this game in three moves."
-        ]
-      },
-      {
-        "mean_english": "chuyển, xê dịch",
-        "definition": "an act of changing homes",
-        "ex_of_definition_list": [
-          "How did your move go?"
-        ]
-      }
+    "hash_code_list_img": "1778005919",
+    "list_example": [
+      "Please move your car.",
+      "How did your move go?",
+      "The manipulator remains standing still, until the operator begins to move it."
     ],
-    "hash_code_list_definition_mean": "-201226146"
+    "hash_code_list_example": "-1589584235"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/movie_cb_dmean_5000_it.json",
@@ -1450,24 +1090,14 @@
         "id_image": "movie_412785"
       }
     ],
-    "hash_code_list_img": "-45091779",
-    "list_definition_mean": [
-      {
-        "mean_english": "bộ phim",
-        "definition": "a cinema film",
-        "ex_of_definition_list": [
-          "a horror movie."
-        ]
-      },
-      {
-        "mean_english": "phim",
-        "definition": "(in plural with the) the cinema and films in general",
-        "ex_of_definition_list": [
-          "I go to the movies at leat once a week."
-        ]
-      }
+    "hash_code_list_img": "317008631",
+    "list_example": [
+      "From snapshot to movie : phi analysis of protein folding transition states taken one step further.",
+      "Confronting a policy without powerful, loyal supporters, they established conditions in which the adaptation of the political order of movie censorship could not longer occur.",
+      "After watching the movie you will know their meaning, how they are used, in what circumstance you can use it naturally.",
+      "In addition, partial movie sound tracks are currently used throughout the mainland to teach listening comprehension."
     ],
-    "hash_code_list_definition_mean": "-1473789290"
+    "hash_code_list_example": "-1628116263"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mug_cb_dmean_5000_it.json",
@@ -1497,24 +1127,11 @@
         "id_image": "mug_6255844"
       }
     ],
-    "hash_code_list_img": "468091139",
-    "list_definition_mean": [
-      {
-        "mean_english": "ca",
-        "definition": "a type of cup with usually tall, more or less vertical sides",
-        "ex_of_definition_list": [
-          "a mug of coffee."
-        ]
-      },
-      {
-        "mean_english": "bóp cổ",
-        "definition": "to attack and usually rob",
-        "ex_of_definition_list": [
-          "He was mugged when coming home late at night."
-        ]
-      }
+    "hash_code_list_img": "-1985231161",
+    "list_example": [
+      "a mug of coffee."
     ],
-    "hash_code_list_definition_mean": "1345209229"
+    "hash_code_list_example": "-912979624"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/multicultural_cb_dmean_5000_it.json",
@@ -1532,17 +1149,17 @@
         "id_image": "multicultural_1425396"
       }
     ],
-    "hash_code_list_img": "1139386561",
-    "list_definition_mean": [
-      {
-        "mean_english": "đa văn hóa",
-        "definition": "involving or including people from many different countries, races, or religions",
-        "ex_of_definition_list": [
-          "Britain is a multicultural society."
-        ]
-      }
+    "hash_code_list_img": "547670982",
+    "list_example": [
+      "Britain is a multicultural society.",
+      "From this perspective there might be a natural affinity between neo-liberal and multicultural citizenship regimes.",
+      "Activities, family relationships and feelings about aging in a multicultural elderly sample.",
+      "Pathways and barriers to mental health care in an urban multicultural milieu : an epidemiological and ethnographic study.",
+      "The genetics of smoking persistence in men and women : a multicultural study.",
+      "Writing games: multicultural case studies of academic literacy practices in higher education.",
+      "These major demographic changes have left many teachers and other school personnel unprepared to deal with the new realities of the multilingual, multicultural classroom."
     ],
-    "hash_code_list_definition_mean": "1525969971"
+    "hash_code_list_example": "1514140139"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/multilingual_cb_dmean_5000_it.json",
@@ -1560,17 +1177,18 @@
         "id_image": "multilingual_6314107"
       }
     ],
-    "hash_code_list_img": "222334076",
-    "list_definition_mean": [
-      {
-        "mean_english": "đa ngôn ngữ",
-        "definition": "speaking, written in, or using several different languages",
-        "ex_of_definition_list": [
-          "a multilingual community."
-        ]
-      }
+    "hash_code_list_img": "284230223",
+    "list_example": [
+      "a multilingual community.",
+      "In a multilingual society, minority groups use various written codes, which serve partially discrete functions.",
+      "It is based on an impressive number of multilingual written and oral sources.",
+      "Furthermore, and pertinent to this paragraph, they are extremely interested in supporting a multilingual presence of the site.",
+      "Whereas the first concentrates on the factors which influence language acquisition processes, the second provides insights into language processing from a multilingual didactics perspective.",
+      "Consequently, this study provides a window on the abiding theoretical problem of the study of lexical borrowings as sociolinguistic variables in multilingual communities in general.",
+      "Graph-rewriting lexical choice is most useful in multilingual generation, when the same conceptual content must be expressed in different languages.",
+      "In addition, in multilingual acquisition, the learning process is often interrupted because the learner starts learning another language."
     ],
-    "hash_code_list_definition_mean": "394663929"
+    "hash_code_list_example": "-1195316509"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/multimedia_cb_dmean_5000_it.json",
@@ -1605,24 +1223,20 @@
         "id_image": "multimedia_6298339"
       }
     ],
-    "hash_code_list_img": "1828385785",
-    "list_definition_mean": [
-      {
-        "mean_english": "đa môi trường",
-        "definition": "using a combination of sound, pictures, and video to present information on a computer screen",
-        "ex_of_definition_list": [
-          "multimedia software."
-        ]
-      },
-      {
-        "mean_english": "đa phương tiện",
-        "definition": "(in art and education) using different methods and materials to present information or to express something",
-        "ex_of_definition_list": [
-          "a multimedia presentation."
-        ]
-      }
+    "hash_code_list_img": "305360981",
+    "list_example": [
+      "multimedia software.",
+      "a multimedia presentation.",
+      "the use of multimedia in online distance learning.",
+      "Research has demonstrated that students can develop word segmentation and word recognition skills in multimedia environments.",
+      "Will the rise of multimedia performance (including live video mixes by vj's) in popular music veins have a positive effect on such output?",
+      "The 1992 edition lists 2212 titles including 419 multimedia discs.",
+      "Attacking anxiety : a naturalistic study of a multimedia self-help program.",
+      "Therefore, the authors emphasize representing knowledge concerning the function of a multimedia document rather than the document itself.",
+      "I should add that, in our multimedia world, it depends on the general level of literacy as well.",
+      "The whole area of direct interaction with the public is left to some intriguing references to multimedia and installation works in the final chapter."
     ],
-    "hash_code_list_definition_mean": "-1551526690"
+    "hash_code_list_example": "-158183822"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/multiple_cb_dmean_5000_it.json",
@@ -1652,31 +1266,13 @@
         "id_image": "multiple_3527609"
       }
     ],
-    "hash_code_list_img": "-1412864905",
-    "list_definition_mean": [
-      {
-        "mean_english": "gồm nhiều phần",
-        "definition": "having, or affecting, many parts",
-        "ex_of_definition_list": [
-          "She suffered multiple injuries when she fell out of the window."
-        ]
-      },
-      {
-        "mean_english": "nhiều",
-        "definition": "involving many things of the same sort",
-        "ex_of_definition_list": [
-          "Fifteen vehicles were involved in the multiple crash on the motorway."
-        ]
-      },
-      {
-        "mean_english": "bội số",
-        "definition": "a number that contains another number an exact number of times",
-        "ex_of_definition_list": [
-          "65 is a multiple of 5."
-        ]
-      }
+    "hash_code_list_img": "-790749682",
+    "list_example": [
+      "She suffered multiple injuries when she fell out of the window.",
+      "Fifteen vehicles were involved in the multiple crash on the motorway.",
+      "65 is a multiple of 5."
     ],
-    "hash_code_list_definition_mean": "15518180"
+    "hash_code_list_example": "1520755986"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/multiplication_cb_dmean_5000_it.json",
@@ -1699,17 +1295,18 @@
         "id_image": "multiplication_6287123"
       }
     ],
-    "hash_code_list_img": "928579437",
-    "list_definition_mean": [
-      {
-        "mean_english": "tính nhân",
-        "definition": "the act of multiplying numbers",
-        "ex_of_definition_list": [
-          "(also adjective) a multiplication sum."
-        ]
-      }
+    "hash_code_list_img": "1365089482",
+    "list_example": [
+      "(also adjective) a multiplication sum.",
+      "An elaborated variant of structural multiplication is the use of shell companies.",
+      "Our studies upon the living parasite, moreover, confirm the view that the cross forms are multiplication forms as the sequel will show.",
+      "Conversion from carbon to carbon dioxide equivalents requires multiplication by a factor of 44/12.",
+      "However, the multiplication of different types of rural activities is simply the most easily observable aspect of the transition currently underway.",
+      "These scores are negative logarithms of probabilities and therefore require addition as opposed to multiplication when two scores are combined.",
+      "Commentators on and promoters of the new illustrated books of the 1850s did not simply emphasize how powers of multiplication had been harnessed.",
+      "This method of multiplication fully and naturally accounts for the very varying sizes of larvae found in the oyster."
     ],
-    "hash_code_list_definition_mean": "730553789"
+    "hash_code_list_example": "1832277628"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/multiply_cb_dmean_5000_it.json",
@@ -1738,24 +1335,16 @@
         "id_image": "multiply_5558675"
       }
     ],
-    "hash_code_list_img": "42586462",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhân lên",
-        "definition": "to add a number to itself a given number of times and find the total",
-        "ex_of_definition_list": [
-          "4 + 4 + 4 or 4 multiplied by 3 or 4  3 = 12."
-        ]
-      },
-      {
-        "mean_english": "sinh sôi nảy nở",
-        "definition": "to (cause to) increase in number, especially by breeding",
-        "ex_of_definition_list": [
-          "Rabbits multiply very rapidly."
-        ]
-      }
+    "hash_code_list_img": "-1492385192",
+    "list_example": [
+      "Rabbits multiply very rapidly.",
+      "However, to be practical several collective, generally defined coordinates can be used to multiply slice through the landscape in order to carefully characterize the bottlenecks.",
+      "The rice dressing was then kept at warm, outdoor temperatures for many hours, which likely allowed bacteria to further multiply before being served.",
+      "It follows from (1.5) that any components of the motion which are doubly periodic, multiply periodic, or chaotic, are precisely zero, and not just small.",
+      "To enhance safety and system per formance, multiply redundant sensors are installed for measuring key variables in order to create direct measurement redundancy.",
+      "Generation of multiply charged ions at low and high laser-power densities."
     ],
-    "hash_code_list_definition_mean": "10771839"
+    "hash_code_list_example": "-899232345"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/municipality_cb_dmean_5000_it.json",
@@ -1774,24 +1363,12 @@
         "id_image": "municipality_4430746"
       }
     ],
-    "hash_code_list_img": "62443153",
-    "list_definition_mean": [
-      {
-        "mean_english": "thành phố tự trị",
-        "definition": "a town, city, or other district that has its own government",
-        "ex_of_definition_list": [
-          "The Municipality of Red Lake is the most northwesterly municipality in Ontario."
-        ]
-      },
-      {
-        "mean_english": "chính quyền thành phố tự trị",
-        "definition": "the group of people who govern a municipality",
-        "ex_of_definition_list": [
-          "The first meeting of the newly elected municipality."
-        ]
-      }
+    "hash_code_list_img": "433699496",
+    "list_example": [
+      "The Municipality of Red Lake is the most northwesterly municipality in Ontario.",
+      "Rather than provide subsidized full-service housing, the municipality permits settlers to lease or purchase unused municipal land."
     ],
-    "hash_code_list_definition_mean": "-1313227055"
+    "hash_code_list_example": "321798965"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/municipal_cb_dmean_5000_it.json",
@@ -1809,17 +1386,19 @@
         "id_image": "municipal_5763219"
       }
     ],
-    "hash_code_list_img": "976783240",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc thành thị",
-        "definition": "of, or controlled or owned by, the government of a city or town",
-        "ex_of_definition_list": [
-          "the municipal buildings."
-        ]
-      }
+    "hash_code_list_img": "1212708544",
+    "list_example": [
+      "the municipal buildings.",
+      "A similar change could be observed in municipal politics.",
+      "It is, in a way, the sine qua non of municipal connections, since it gives them grandeur and legitimacy.",
+      "The unease of liberal councils was finally alleviated by the national government's wresting of township administration from municipal control.",
+      "In 1926 all the seats in municipal councils were lost.",
+      "Proposals for delivery mechanisms other than the private market and municipal action received little support.",
+      "Progressive local authorities, therefore, embraced the emergent technology of destructors and thereby wed municipal waste management to large-scale and cost-ineffective waste disposal schemes.",
+      "They, in appreciation, voted him into municipal government, even while he sat in jail, although they, too, condemned his criminal activities.",
+      "Moreover, confirming the partisan priority thesis, the most vocal advocates for the transfer have been opposition municipal governments."
     ],
-    "hash_code_list_definition_mean": "1021635425"
+    "hash_code_list_example": "-567906595"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/murder_cb_dmean_5000_it.json",
@@ -1849,32 +1428,11 @@
         "id_image": "murder_5411101"
       }
     ],
-    "hash_code_list_img": "-72264141",
-    "list_definition_mean": [
-      {
-        "mean_english": "kẻ sát nhân",
-        "definition": "(an act of) killing a person on purpose and illegally",
-        "ex_of_definition_list": [
-          "The police are treating his death as a case of murder",
-          "an increase in the number of murders."
-        ]
-      },
-      {
-        "mean_english": "tội giết người",
-        "definition": "any killing or causing of death that is considered as bad as this",
-        "ex_of_definition_list": [
-          "the murder of innocent people by terrorists."
-        ]
-      },
-      {
-        "mean_english": "giết người",
-        "definition": "to kill (a person) on purpose and illegally",
-        "ex_of_definition_list": [
-          "He murdered two children."
-        ]
-      }
+    "hash_code_list_img": "1685617581",
+    "list_example": [
+      "the murder of innocent people by terrorists."
     ],
-    "hash_code_list_definition_mean": "323464964"
+    "hash_code_list_example": "-194353115"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/muscle_cb_dmean_5000_it.json",
@@ -1902,17 +1460,12 @@
         "id_image": "muscle_5730228"
       }
     ],
-    "hash_code_list_img": "877682335",
-    "list_definition_mean": [
-      {
-        "mean_english": "cơ bắp",
-        "definition": "any of the bundles of fibres/fibers in the body which, by contracting or relaxing, cause movement of the body",
-        "ex_of_definition_list": [
-          "He has well-developed muscles in his arms."
-        ]
-      }
+    "hash_code_list_img": "1122438382",
+    "list_example": [
+      "In this case, elastic fibers did not appear through the smooth muscle cells which were surrounding the recanalized vessels.",
+      "A few patients may show male-pattern balding and mild facial and hand muscle weakness."
     ],
-    "hash_code_list_definition_mean": "937593663"
+    "hash_code_list_example": "-676160752"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/muscular_cb_dmean_5000_it.json",
@@ -1931,24 +1484,17 @@
         "id_image": "muscular_2307843"
       }
     ],
-    "hash_code_list_img": "1014991940",
-    "list_definition_mean": [
-      {
-        "mean_english": "liên quan đến cơ bắp",
-        "definition": "of, or relating to, muscle(s)",
-        "ex_of_definition_list": [
-          "great muscular strength."
-        ]
-      },
-      {
-        "mean_english": "cơ bắp",
-        "definition": "having well-developed muscles; strong",
-        "ex_of_definition_list": [
-          "She is tall and muscular."
-        ]
-      }
+    "hash_code_list_img": "899589556",
+    "list_example": [
+      "great muscular strength.",
+      "The myocardium of the rudimentary right ventricle is separated by the atrioventricular groove from the muscular floor of the blind-ending right atrium.",
+      "Three would involve complex skeletal and muscular problems tending to impede rather than improve mobility.",
+      "The participant's muscular strength or weakness in resisting to this force informs the instructor as to the participant's predispositions.",
+      "With a hypoplastic, or absent infundibulum, the pulmonary trunk is tapered, and there is usually an element of muscular atresia in the infundibulum as well.",
+      "The proportion of muscular, partially muscular and non-muscular arteries accompanying each type of airway was determined.",
+      "Such complete absence of the muscular outlet septum was not present in any of the patients without the deletion."
     ],
-    "hash_code_list_definition_mean": "1658113419"
+    "hash_code_list_example": "-1272727087"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/museum_cb_dmean_5000_it.json",
@@ -1976,17 +1522,11 @@
         "id_image": "museum_827094"
       }
     ],
-    "hash_code_list_img": "-1571432004",
-    "list_definition_mean": [
-      {
-        "mean_english": "bảo tàng",
-        "definition": "a place where collections of things of artistic, scientific or historic interest are set out for display",
-        "ex_of_definition_list": [
-          "the National History Museum."
-        ]
-      }
+    "hash_code_list_img": "-1676841171",
+    "list_example": [
+      "A small museum as well as a snack bar, a restaurant, and a souvenir shop were built in the vicinity of the attraction."
     ],
-    "hash_code_list_definition_mean": "1091633156"
+    "hash_code_list_example": "-1557596391"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/muse_cb_dmean_5000_it.json",
@@ -2009,17 +1549,14 @@
         "id_image": "muse_647668"
       }
     ],
-    "hash_code_list_img": "2101395297",
-    "list_definition_mean": [
-      {
-        "mean_english": "suy tưởng",
-        "definition": "to think about a matter usually without serious concentration",
-        "ex_of_definition_list": [
-          "I mused on whether or not to take a walk through the park."
-        ]
-      }
+    "hash_code_list_img": "713147343",
+    "list_example": [
+      "They muse also provide encouragement for vibrant economic enterprise where investment, good management and good work are rewarded.",
+      "A great change muse brought about in the overall attitude to women.",
+      "Those decisions muse be made, and made public, as soon as possible.",
+      "The song 'just happened' - they are like an authentic genius composer visited by the muse and effortlessly delivered of a perfectly formed piece of music."
     ],
-    "hash_code_list_definition_mean": "49250634"
+    "hash_code_list_example": "-1841730275"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mushroom_cb_dmean_5000_it.json",
@@ -2043,25 +1580,11 @@
         "id_image": "mushroom_1408997"
       }
     ],
-    "hash_code_list_img": "1392835007",
-    "list_definition_mean": [
-      {
-        "mean_english": "nấm",
-        "definition": "a type of fungus, usually shaped like an umbrella, many varieties of which are edible",
-        "ex_of_definition_list": [
-          "wild mushrooms",
-          "(also adjective) a mushroom omelette."
-        ]
-      },
-      {
-        "mean_english": "mọc nhanh như nấm",
-        "definition": "to grow in size very rapidly",
-        "ex_of_definition_list": [
-          "The town has mushroomed since the 1950s."
-        ]
-      }
+    "hash_code_list_img": "-940029646",
+    "list_example": [
+      "(also adjective) a mushroom omelette."
     ],
-    "hash_code_list_definition_mean": "294628620"
+    "hash_code_list_example": "-457028370"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/musical_cb_dmean_5000_it.json",
@@ -2092,38 +1615,17 @@
         "id_image": "musical_5105523"
       }
     ],
-    "hash_code_list_img": "-1594549749",
-    "list_definition_mean": [
-      {
-        "mean_english": "thuộc âm nhạc",
-        "definition": "of or producing music",
-        "ex_of_definition_list": [
-          "a musical instrument."
-        ]
-      },
-      {
-        "mean_english": "du dương",
-        "definition": "like music, especially in being pleasant to hear",
-        "ex_of_definition_list": [
-          "a musical voice."
-        ]
-      },
-      {
-        "mean_english": "có năng khiếu về nhạc",
-        "definition": "(of a person) having a talent for music",
-        "ex_of_definition_list": [
-          "Their children are all musical."
-        ]
-      },
-      {
-        "mean_english": "nhạc kịch; phim ca nhạc",
-        "definition": "a film or play that includes a large amount of singing, dancing etc",
-        "ex_of_definition_list": [
-          "We went to see a musical."
-        ]
-      }
+    "hash_code_list_img": "-1267645501",
+    "list_example": [
+      "a musical instrument.",
+      "a musical voice.",
+      "In this study, a musical note was considered to be a gene and a phrase to be a gene strand.",
+      "French had no 'settled musical accent' that could be marked.",
+      "In more traditional musical terms this component could be thought of as a drone or pedal point.",
+      "On the other hand, the fact of using different speakers and placing them in different positions allows a particularly musical flow of sound.",
+      "The difficulty this presented in terms of the equal but competing imperative for musical variation is evident from the autograph manuscript."
     ],
-    "hash_code_list_definition_mean": "-825185187"
+    "hash_code_list_example": "1253803802"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/musician_cb_dmean_5000_it.json",
@@ -2152,24 +1654,20 @@
         "id_image": "musician_4125075"
       }
     ],
-    "hash_code_list_img": "-640736378",
-    "list_definition_mean": [
-      {
-        "mean_english": "nhà soạn nhạc; nhạc sĩ",
-        "definition": "a person who is skilled in music",
-        "ex_of_definition_list": [
-          "The conductor of this orchestra is a fine musician."
-        ]
-      },
-      {
-        "mean_english": "nhạc công",
-        "definition": "a person who plays a musical instrument",
-        "ex_of_definition_list": [
-          "This show has ten singers, twenty dancers and fifty musicians."
-        ]
-      }
+    "hash_code_list_img": "-1936903456",
+    "list_example": [
+      "The conductor of this orchestra is a fine musician.",
+      "This show has ten singers, twenty dancers and fifty musicians.",
+      "In the years circa 1400 its ranks included a number of leading musicians.",
+      "Green looked at the way in which popular musicians learned to play outside formal instrument tuition.",
+      "Do musicians really communicate with one another and with their audience?",
+      "The study found most musicians to be wholly or partly self-employed, and to work in a variety of often interdependent roles throughout their careers.",
+      "This provided them with broad understanding of musicians' language, contexts and the kinds of tasks they were likely to discuss.",
+      "This means that the programme producers are in the same relationship to the television market as the musicians who are the subjects of their programmes.",
+      "Probably unknown to the arrangers, adjustments in subtle nuances (bowing, articulation, timbre) appropriate for string writing were made by the veteran string musicians.",
+      "Consider how few musicians enjoy practising with a metronome; fewer still like performing with one."
     ],
-    "hash_code_list_definition_mean": "270211346"
+    "hash_code_list_example": "288073669"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/music_cb_dmean_5000_it.json",
@@ -2193,26 +1691,12 @@
         "id_image": "music_439532"
       }
     ],
-    "hash_code_list_img": "814462917",
-    "list_definition_mean": [
-      {
-        "mean_english": "âm nhạc",
-        "definition": "the art of arranging and combining sounds able to be produced by the human voice or by instruments",
-        "ex_of_definition_list": [
-          "She prefers classical music to pop music",
-          "She is studying music",
-          "(also adjective) a music lesson."
-        ]
-      },
-      {
-        "mean_english": "bản nhạc",
-        "definition": "the written form in which such tones etc are set down",
-        "ex_of_definition_list": [
-          "The pianist has forgotten to bring her music."
-        ]
-      }
+    "hash_code_list_img": "703668936",
+    "list_example": [
+      "She prefers classical music to pop music",
+      "(also adjective) a music lesson."
     ],
-    "hash_code_list_definition_mean": "481202842"
+    "hash_code_list_example": "54781074"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mustard_cb_dmean_5000_it.json",
@@ -2235,16 +1719,13 @@
         "id_image": "mustard_877720"
       }
     ],
-    "hash_code_list_img": "1596769549",
-    "list_definition_mean": [
-      {
-        "mean_english": "cây mù tạc",
-        "definition": "a type of seasoning with a hot taste made from the seeds of the mustard plant",
-        "ex_of_definition_list": [
-          "Dijon mustard."
-        ]
-      }
+    "hash_code_list_img": "1959452640",
+    "list_example": [
+      "I put them in the pan add sugar and mustard season to taste cover it.",
+      "As soil nitrogen concentrations were not reported, these observational differences cannot be attributed solely to the presence of white mustard residues.",
+      "Is there enough mustard seed and so on to plant that acreage in the time we have been given?",
+      "One is reminded of the old saying that sympathy without help is like mustard without beef."
     ],
-    "hash_code_list_definition_mean": "1799623229"
+    "hash_code_list_example": "-664308713"
   }
 ]

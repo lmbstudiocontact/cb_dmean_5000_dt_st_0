@@ -23,39 +23,12 @@
         "id_image": "cup_202636"
       }
     ],
-    "hash_code_list_img": "1600304223",
-    "list_definition_mean": [
-      {
-        "mean_english": "tách",
-        "definition": "a usually round hollow container to hold liquid for drinking, often with a handle",
-        "ex_of_definition_list": [
-          "a teacup",
-          "a cup of tea."
-        ]
-      },
-      {
-        "mean_english": "cúp",
-        "definition": "an ornamental vessel, usually of silver or other metal, given as a prize in sports events etc",
-        "ex_of_definition_list": [
-          "They won the Football League Cup."
-        ]
-      },
-      {
-        "mean_english": "khum thành hình chén",
-        "definition": "to form (one’s hands) into the shape of a cup",
-        "ex_of_definition_list": [
-          "He cupped his hands round his mouth and called."
-        ]
-      },
-      {
-        "mean_english": "khum tay",
-        "definition": "to hold (something) in one’s cupped hands",
-        "ex_of_definition_list": [
-          "He cupped the egg in his hands."
-        ]
-      }
+    "hash_code_list_img": "-807668458",
+    "list_example": [
+      "a cup of tea.",
+      "Subjects were positioned using a chin cup with the test eye at the focal point of the lights."
     ],
-    "hash_code_list_definition_mean": "-764619372"
+    "hash_code_list_example": "2076049884"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/curator_cb_dmean_5000_it.json",
@@ -83,17 +56,12 @@
         "id_image": "curator_827073"
       }
     ],
-    "hash_code_list_img": "1937326138",
-    "list_definition_mean": [
-      {
-        "mean_english": "người phụ trách bảo tàng",
-        "definition": "a person in charge of a museum etc",
-        "ex_of_definition_list": [
-          "the curator of the Clark County Museum."
-        ]
-      }
+    "hash_code_list_img": "-919255969",
+    "list_example": [
+      "the curator of the Clark County Museum.",
+      "Files were indexed by date so that the curator could audition the files received on a particular day."
     ],
-    "hash_code_list_definition_mean": "1212897856"
+    "hash_code_list_example": "-1412216391"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cure_cb_dmean_5000_it.json",
@@ -114,32 +82,17 @@
         "id_image": "cure_1029134"
       }
     ],
-    "hash_code_list_img": "1566238409",
-    "list_definition_mean": [
-      {
-        "mean_english": "làm cho ai khỏe mạnh",
-        "definition": "to make better",
-        "ex_of_definition_list": [
-          "That medicine cured me",
-          "That will cure him of his bad habits."
-        ]
-      },
-      {
-        "mean_english": "chữa bệnh",
-        "definition": "to get rid of (an illness etc)",
-        "ex_of_definition_list": [
-          "That pill cured my headache."
-        ]
-      },
-      {
-        "mean_english": "chữa khỏi",
-        "definition": "something which cures",
-        "ex_of_definition_list": [
-          "They’re trying to find a cure for cancer."
-        ]
-      }
+    "hash_code_list_img": "376330892",
+    "list_example": [
+      "That will cure him of his bad habits.",
+      "They’re trying to find a cure for cancer.",
+      "Some assume that the opening of one blister will cure the case.",
+      "Changes in cure rate and changes in influx of infections were examined.",
+      "Our examples show that algebraic data types with existential component types simultaneously cure all three of these drawbacks.",
+      "His cure seemed anticlimactic after his dramatic description of the symptoms of the disease.",
+      "In all cases, the cure rate (proportion of subjects treated in whom disappearance of ova and\\or parasites was observed after treatment) has been tabulated."
     ],
-    "hash_code_list_definition_mean": "545702831"
+    "hash_code_list_example": "-1407027994"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/curiosity_cb_dmean_5000_it.json",
@@ -168,24 +121,13 @@
         "id_image": "curious_5020323"
       }
     ],
-    "hash_code_list_img": "-143881769",
-    "list_definition_mean": [
-      {
-        "mean_english": "tính ham hiểu biết",
-        "definition": "eagerness to learn",
-        "ex_of_definition_list": [
-          "She was very unpopular because of her curiosity about other people’s affairs."
-        ]
-      },
-      {
-        "mean_english": "của hiếm",
-        "definition": "something strange and rare",
-        "ex_of_definition_list": [
-          "That old chair is quite a curiosity."
-        ]
-      }
+    "hash_code_list_img": "-1344622710",
+    "list_example": [
+      "She was very unpopular because of her curiosity about other people’s affairs.",
+      "Their curiosity had been supplanted by real experience so that they were no longer simply hearing, but actively listening.",
+      "In the 20th century, curiosity and the outward urge took astrobiology and popular culture to infinity, and beyond."
     ],
-    "hash_code_list_definition_mean": "1856638021"
+    "hash_code_list_example": "160361785"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/curious_cb_dmean_5000_it.json",
@@ -209,24 +151,20 @@
         "id_image": "curious_5020323"
       }
     ],
-    "hash_code_list_img": "-1439704753",
-    "list_definition_mean": [
-      {
-        "mean_english": "tò mò",
-        "definition": "strange; odd",
-        "ex_of_definition_list": [
-          "a curious habit."
-        ]
-      },
-      {
-        "mean_english": "ham hiểu biết",
-        "definition": "anxious or interested (to learn)",
-        "ex_of_definition_list": [
-          "I’m curious (to find out) whether he passed his exams."
-        ]
-      }
+    "hash_code_list_img": "-1176302989",
+    "list_example": [
+      "a curious habit.",
+      "I’m curious (to find out) whether he passed his exams.",
+      "Instead of being afraid, the curious nature of children incites them to play.",
+      "The brick surfaces with their flush glazing reinforce that curious quality.",
+      "The attempt to discredit sectarian practices asserted the professionalism of regular medicine by implicitly disavowing its curious past as well as asserting its clinical present.",
+      "When machine and organizational systems became the tools of dominion, a curious recoding of the entrepreneurial \"man of force\" ideal took shape.",
+      "This curious contradiction or confusion is a fallacy to which most linguists seem prone.",
+      "However, a significant weakness is its handling of sources, which is curious as the work is essentially a doctoral dissertation.",
+      "In addition, the editors' decision to include names among the dictionary entries leads to curious inconsistencies.",
+      "Even the mythtellers, texts, and social practices mentioned in passing are subjected to some curious transformations."
     ],
-    "hash_code_list_definition_mean": "307840622"
+    "hash_code_list_example": "-1842251780"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/curl_cb_dmean_5000_it.json",
@@ -247,38 +185,11 @@
         "id_image": "curl_1403050"
       }
     ],
-    "hash_code_list_img": "2000449894",
-    "list_definition_mean": [
-      {
-        "mean_english": "uốn quăn",
-        "definition": "to twist or turn (especially hair) into small coils or rolls",
-        "ex_of_definition_list": [
-          "My hair curls easily."
-        ]
-      },
-      {
-        "mean_english": "co tròn",
-        "definition": "(sometimes with up) to move in curves; to bend or roll",
-        "ex_of_definition_list": [
-          "The paper curled (up) at the edges."
-        ]
-      },
-      {
-        "mean_english": "quăn",
-        "definition": "a coil of hair etc",
-        "ex_of_definition_list": [
-          "She wears her hair in long curls."
-        ]
-      },
-      {
-        "mean_english": "tóc xoăn",
-        "definition": "the quality of being curled",
-        "ex_of_definition_list": [
-          "My hair has very little curl in it."
-        ]
-      }
+    "hash_code_list_img": "676153508",
+    "list_example": [
+      "My hair has very little curl in it."
     ],
-    "hash_code_list_definition_mean": "1727784197"
+    "hash_code_list_example": "955565451"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/currency_cb_dmean_5000_it.json",
@@ -316,18 +227,11 @@
         "id_image": "currency_333743"
       }
     ],
-    "hash_code_list_img": "-1475906039",
-    "list_definition_mean": [
-      {
-        "mean_english": "tiền tệ",
-        "definition": "the money (notes and coins) of a country",
-        "ex_of_definition_list": [
-          "the currencies of the world",
-          "foreign currency."
-        ]
-      }
+    "hash_code_list_img": "665945269",
+    "list_example": [
+      "foreign currency."
     ],
-    "hash_code_list_definition_mean": "1522292851"
+    "hash_code_list_example": "-1459634672"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/current_cb_dmean_5000_it.json",
@@ -347,32 +251,13 @@
         "id_image": "current_2361619"
       }
     ],
-    "hash_code_list_img": "546685776",
-    "list_definition_mean": [
-      {
-        "mean_english": "hiện tại",
-        "definition": "of or belonging to the present",
-        "ex_of_definition_list": [
-          "the current month",
-          "the current temperature."
-        ]
-      },
-      {
-        "mean_english": "hướng",
-        "definition": "(the direction of) a stream of water or air",
-        "ex_of_definition_list": [
-          "the current of a river."
-        ]
-      },
-      {
-        "mean_english": "dòng, luồng",
-        "definition": "(a) flow of electricity",
-        "ex_of_definition_list": [
-          "an electrical current."
-        ]
-      }
+    "hash_code_list_img": "834093569",
+    "list_example": [
+      "the current month",
+      "the current temperature.",
+      "the current of a river."
     ],
-    "hash_code_list_definition_mean": "1344198569"
+    "hash_code_list_example": "1749855437"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/curriculum_cb_dmean_5000_it.json",
@@ -405,17 +290,13 @@
         "id_image": "curriculum_4728722"
       }
     ],
-    "hash_code_list_img": "1919933050",
-    "list_definition_mean": [
-      {
-        "mean_english": "các môn học hoặc khóa học ở trường đại học",
-        "definition": "a course, especially of study at school or university",
-        "ex_of_definition_list": [
-          "They are changing the national curriculum."
-        ]
-      }
+    "hash_code_list_img": "-529239162",
+    "list_example": [
+      "Or, put another way, curriculum must be enacted to exist.",
+      "The prospect of eight levels of attainment in the revised curriculum of 2000 held out little hope for a more reasonable approach.",
+      "Developing curriculum materials for endangered language education: lessons from the field."
     ],
-    "hash_code_list_definition_mean": "956934259"
+    "hash_code_list_example": "-635006830"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/curry_cb_dmean_5000_it.json",
@@ -455,24 +336,13 @@
         "id_image": "curry_644703"
       }
     ],
-    "hash_code_list_img": "-348866363",
-    "list_definition_mean": [
-      {
-        "mean_english": "món cà ri",
-        "definition": "(an originally Indian dish of) meat, vegetables etc cooked with spices",
-        "ex_of_definition_list": [
-          "lamb curry."
-        ]
-      },
-      {
-        "mean_english": "nấu cà ri",
-        "definition": "to cook in this way",
-        "ex_of_definition_list": [
-          "Are you going to curry this meat?"
-        ]
-      }
+    "hash_code_list_img": "-1454676557",
+    "list_example": [
+      "Are you going to curry this meat?",
+      "Let id : 1 be the curry of the identity map.",
+      "One could not curry favour with him; he was as straight as die."
     ],
-    "hash_code_list_definition_mean": "-14541270"
+    "hash_code_list_example": "-1090206015"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/curse_cb_dmean_5000_it.json",
@@ -498,39 +368,12 @@
         "id_image": "cursing_4126461"
       }
     ],
-    "hash_code_list_img": "633816497",
-    "list_definition_mean": [
-      {
-        "mean_english": "chửi rủa",
-        "definition": "to wish that evil may fall upon",
-        "ex_of_definition_list": [
-          "I curse the day that I was born!",
-          "The witch cursed him."
-        ]
-      },
-      {
-        "mean_english": "nguyền rủa",
-        "definition": "to use violent language; to swear",
-        "ex_of_definition_list": [
-          "He cursed (at his own stupidity) when he dropped the hammer on his toe."
-        ]
-      },
-      {
-        "mean_english": "lời nguyền rủa",
-        "definition": "an act of cursing, or the words used",
-        "ex_of_definition_list": [
-          "the witch’s curse."
-        ]
-      },
-      {
-        "mean_english": "người bị nguyền rủa",
-        "definition": "a thing or person which is cursed",
-        "ex_of_definition_list": [
-          "Having to work is the curse of my life."
-        ]
-      }
+    "hash_code_list_img": "-491205497",
+    "list_example": [
+      "I curse the day that I was born!",
+      "Having to work is the curse of my life."
     ],
-    "hash_code_list_definition_mean": "-1483427633"
+    "hash_code_list_example": "684800593"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cursor_cb_dmean_5000_it.json",
@@ -563,17 +406,17 @@
         "id_image": "cursor_4713302"
       }
     ],
-    "hash_code_list_img": "-1783520943",
-    "list_definition_mean": [
-      {
-        "mean_english": "con trỏ",
-        "definition": "a small, sometimes flashing, movable symbol on a computer screen that marks the place where the next character typed on the keyboard will appear or where some action is required",
-        "ex_of_definition_list": [
-          "Simply touch the spot on the text where you want to move the cursor."
-        ]
-      }
+    "hash_code_list_img": "-1952183688",
+    "list_example": [
+      "However, should there be more than one red beam overlapping at the cursor position, the total influence for the lamps may total 100% or more.",
+      "The joystick and cursor are spatially separated and not physically connected.",
+      "The other two pins are used to represent the cursor of a word processor.",
+      "The indentation points are given by the list of column numbers at which to position the cursor for a possible indentation for the current line.",
+      "The user may not move the cursor except into editable fields.",
+      "When precision requirements were low, the arrowhead cursor shape influenced movement durations instead, with the effects again as might be expected from illusory figures.",
+      "The acousmograph enables one to select a passage on the screen and then listen to it whilst following the cursor on the graphic."
     ],
-    "hash_code_list_definition_mean": "1722316089"
+    "hash_code_list_example": "-42059783"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/curtain_cb_dmean_5000_it.json",
@@ -591,18 +434,11 @@
         "id_image": "curtain_2433268"
       }
     ],
-    "hash_code_list_img": "1787266967",
-    "list_definition_mean": [
-      {
-        "mean_english": "màn cửa",
-        "definition": "a piece of material hung up to act as a screen at a window, on a theatre/theater stage etc",
-        "ex_of_definition_list": [
-          "The maid drew the curtains",
-          "The curtain came down at the end of the play."
-        ]
-      }
+    "hash_code_list_img": "469383346",
+    "list_example": [
+      "The curtain came down at the end of the play."
     ],
-    "hash_code_list_definition_mean": "2022055357"
+    "hash_code_list_example": "-547166799"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/curvature_cb_dmean_5000_it.json",
@@ -620,17 +456,19 @@
         "id_image": "curvature_1589495"
       }
     ],
-    "hash_code_list_img": "1644631163",
-    "list_definition_mean": [
-      {
-        "mean_english": "độ cong",
-        "definition": "the condition or extent of being curved",
-        "ex_of_definition_list": [
-          "the curvature of the earth."
-        ]
-      }
+    "hash_code_list_img": "1895322196",
+    "list_example": [
+      "the curvature of the earth.",
+      "At the initial stages of the growth, stable curved fronts are observed, characterized by a monotonic curvature along the whole front (figure 2a).",
+      "The analysis of the test inter ferogram is complicated by the presence of fringe curvature also in absence of the plasma.",
+      "In the process we saw that there were examples of non-isometric graph manifolds of non-positive curvature whose universal covers have equivalent boundaries.",
+      "This ring, as well as being interventricular, is also atrioventricular at its initial location within the inner curvature of the heart.",
+      "The (mean) curvature is considered to be located at the vertices.",
+      "Due to the curvature of the virtual wall, the wider cell becomes more divergent.",
+      "This then leads to a simple and elegant iterative scheme because we have a linear relationship between curvature and normal velocity.",
+      "Peaks of the curvature function correspond to the corners of the represented curve and their height depends on the angle at these corners."
     ],
-    "hash_code_list_definition_mean": "514587380"
+    "hash_code_list_example": "-1150402460"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/curve_cb_dmean_5000_it.json",
@@ -670,24 +508,11 @@
         "id_image": "curve_803199"
       }
     ],
-    "hash_code_list_img": "900782635",
-    "list_definition_mean": [
-      {
-        "mean_english": "có hình cong",
-        "definition": "anything shaped like this",
-        "ex_of_definition_list": [
-          "a curve in the road."
-        ]
-      },
-      {
-        "mean_english": "uốn cong",
-        "definition": "to bend in a curve",
-        "ex_of_definition_list": [
-          "The road curves east."
-        ]
-      }
+    "hash_code_list_img": "-687692781",
+    "list_example": [
+      "a curve in the road."
     ],
-    "hash_code_list_definition_mean": "-1755466938"
+    "hash_code_list_example": "1348183347"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cushion_cb_dmean_5000_it.json",
@@ -717,31 +542,12 @@
         "id_image": "cushion_2803350"
       }
     ],
-    "hash_code_list_img": "1593133689",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái đệm",
-        "definition": "a bag of cloth etc filled with soft material, eg feathers etc, used for support or to make a seat more comfortable",
-        "ex_of_definition_list": [
-          "I’ll sit on a cushion on the floor."
-        ]
-      },
-      {
-        "mean_english": "hơi đệm",
-        "definition": "any similar support",
-        "ex_of_definition_list": [
-          "A hovercraft travels on a cushion of air."
-        ]
-      },
-      {
-        "mean_english": "lót nệm",
-        "definition": "to lessen the force of a blow etc",
-        "ex_of_definition_list": [
-          "The soft sand cushioned his fall."
-        ]
-      }
+    "hash_code_list_img": "-243000163",
+    "list_example": [
+      "I’ll sit on a cushion on the floor.",
+      "A hovercraft travels on a cushion of air."
     ],
-    "hash_code_list_definition_mean": "-1871484613"
+    "hash_code_list_example": "404993326"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/custody_cb_dmean_5000_it.json",
@@ -765,24 +571,17 @@
         "id_image": "custody_2322911"
       }
     ],
-    "hash_code_list_img": "1854277984",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự chăm sóc",
-        "definition": "care or keeping",
-        "ex_of_definition_list": [
-          "The mother was awarded custody of the children by the court."
-        ]
-      },
-      {
-        "mean_english": "sự giam cầm",
-        "definition": "the care of police or prison authorities",
-        "ex_of_definition_list": [
-          "The accused man is in custody."
-        ]
-      }
+    "hash_code_list_img": "-869624883",
+    "list_example": [
+      "The mother was awarded custody of the children by the court.",
+      "The simple, uniform divorce agreement form used by parties in the rabbinical courts contributes to the relative lack of detailed legal custody and visitation arrangements.",
+      "In addition, the families in our study suffered many of the stresses that attend poverty, divorce, custody disputes, and alcohol and drug problems.",
+      "Quarrels about the custody of records sometimes dragged on for a few months or even years.",
+      "All specimens and samples were considered evidence and had to follow a chain of custody procedure.",
+      "Obviously, where a frozen embryo is concerned, the 'parent' who wishes to destroy the embryo will not gain custody on the basis of these criteria.",
+      "There were other vague promises about the release of arrested workers from custody and civic benefits for the striking workers."
     ],
-    "hash_code_list_definition_mean": "-180837913"
+    "hash_code_list_example": "971205412"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/customer_cb_dmean_5000_it.json",
@@ -821,24 +620,20 @@
         "id_image": "customer_3255388"
       }
     ],
-    "hash_code_list_img": "-1313368307",
-    "list_definition_mean": [
-      {
-        "mean_english": "khách hàng",
-        "definition": "a person who buys from a shop etc",
-        "ex_of_definition_list": [
-          "our regular customers."
-        ]
-      },
-      {
-        "mean_english": "gã",
-        "definition": "used jokingly for a person",
-        "ex_of_definition_list": [
-          "He’s certainly a strange customer."
-        ]
-      }
+    "hash_code_list_img": "-1619218127",
+    "list_example": [
+      "our regular customers.",
+      "He’s certainly a strange customer.",
+      "They note, for example, how farmers take pride and satisfaction in selling to customers who know them and value their products36,37.",
+      "At print shop service counters, customers can place orders for document services in person.",
+      "Although both are physical in nature, customers use quite different resources for referring to each.",
+      "Suppose the stanza turned out to appeal to the choice that modern subjects make to safeguard choice, to remain cool customers in the faith market.",
+      "Sellers tend to be identified by their merchandise (theme) and do not typically know their customers (recipient).",
+      "Let the customers in this busy period be identified by their arrival sequence in the busy period.",
+      "However, the customers are usually satisfied by inexact matches that are sufficiently close to their needs.",
+      "None of the methods used to provide information to customers were significant."
     ],
-    "hash_code_list_definition_mean": "1639487627"
+    "hash_code_list_example": "-601978692"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/customize_cb_dmean_5000_it.json",
@@ -871,17 +666,14 @@
         "id_image": "customize_4176919"
       }
     ],
-    "hash_code_list_img": "1174627880",
-    "list_definition_mean": [
-      {
-        "mean_english": "tùy chỉnh",
-        "definition": "to change something so that it is exactly what you want or need",
-        "ex_of_definition_list": [
-          "The software allows you to customize the appearance on-screen to suit your own needs."
-        ]
-      }
+    "hash_code_list_img": "516102133",
+    "list_example": [
+      "The software allows you to customize the appearance on-screen to suit your own needs.",
+      "The user may configure and customize the agent according to one's personal preferences.",
+      "Its adaptable control tables are easy to customize for special applications or for turnkey operation.",
+      "The supplier may be able to customize the agent according to the user's preferences."
     ],
-    "hash_code_list_definition_mean": "2081098744"
+    "hash_code_list_example": "-661534425"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/custom_cb_dmean_5000_it.json",
@@ -906,25 +698,13 @@
         "id_image": "custom_2761020"
       }
     ],
-    "hash_code_list_img": "-1629636933",
-    "list_definition_mean": [
-      {
-        "mean_english": "thói quen",
-        "definition": "what a person etc is in the habit of doing or does regularly",
-        "ex_of_definition_list": [
-          "It’s my custom to go for a walk on Saturday mornings",
-          "religious customs."
-        ]
-      },
-      {
-        "mean_english": "khách quen",
-        "definition": "the regular buying of goods at the same shop etc; trade or business",
-        "ex_of_definition_list": [
-          "The new supermarkets take away custom from the small shops."
-        ]
-      }
+    "hash_code_list_img": "1061342712",
+    "list_example": [
+      "It’s my custom to go for a walk on Saturday mornings",
+      "The new supermarkets take away custom from the small shops.",
+      "But it was obviously his original idea to convert this school custom into a creative act."
     ],
-    "hash_code_list_definition_mean": "746383601"
+    "hash_code_list_example": "-1613766944"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cute_cb_dmean_5000_it.json",
@@ -953,24 +733,16 @@
         "id_image": "cute_260236"
       }
     ],
-    "hash_code_list_img": "95257761",
-    "list_definition_mean": [
-      {
-        "mean_english": "đáng yêu",
-        "definition": "attractive or pleasing in any way",
-        "ex_of_definition_list": [
-          "a cute baby."
-        ]
-      },
-      {
-        "mean_english": "lanh lợi",
-        "definition": "cunningly clever",
-        "ex_of_definition_list": [
-          "You think you’re pretty cute, don’t you!"
-        ]
-      }
+    "hash_code_list_img": "151995572",
+    "list_example": [
+      "a cute baby.",
+      "With regard to the owning of capital assets, this is a very cute and cunning method of dealing with the question.",
+      "I do not blame them for it, but they are on the make, and they are very cute people on the make.",
+      "The cute youngster will grow into a formidable reptile needing plenty of space.",
+      "She wrote that adults would not be able to make something as cute as this.",
+      "They have been described as cute and somewhat humorous."
     ],
-    "hash_code_list_definition_mean": "1203859442"
+    "hash_code_list_example": "1395587552"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cutter_cb_dmean_5000_it.json",
@@ -999,18 +771,12 @@
         "id_image": "cutter_939543"
       }
     ],
-    "hash_code_list_img": "661398218",
-    "list_definition_mean": [
-      {
-        "mean_english": "người hoặc vật cắt",
-        "definition": "a person or thing that cuts",
-        "ex_of_definition_list": [
-          "a wood-cutter",
-          "a glass-cutter."
-        ]
-      }
+    "hash_code_list_img": "-1637189807",
+    "list_example": [
+      "a wood-cutter",
+      "a glass-cutter."
     ],
-    "hash_code_list_definition_mean": "499774924"
+    "hash_code_list_example": "-1436568096"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cut_cb_dmean_5000_it.json",
@@ -1061,122 +827,34 @@
         "id_image": "cut_6347611"
       }
     ],
-    "hash_code_list_img": "338666726",
-    "list_definition_mean": [
-      {
-        "mean_english": "cắt",
-        "definition": "to make an opening in, usually with something with a sharp edge",
-        "ex_of_definition_list": [
-          "He cut the paper with a pair of scissors."
-        ]
-      },
-      {
-        "mean_english": "cắt rời từng mảnh",
-        "definition": "to separate or divide by cutting",
-        "ex_of_definition_list": [
-          "She cut a slice of bread",
-          "The child cut out the pictures",
-          "She cut up the meat into small pieces."
-        ]
-      },
-      {
-        "mean_english": "cắt may",
-        "definition": "to make by cutting",
-        "ex_of_definition_list": [
-          "She cut a hole in the cloth."
-        ]
-      },
-      {
-        "mean_english": "cắt ngắn",
-        "definition": "to shorten by cutting; to trim",
-        "ex_of_definition_list": [
-          "Do you want me to cut your hair?",
-          "I’ll cut the grass."
-        ]
-      },
-      {
-        "mean_english": "cắt giảm",
-        "definition": "to reduce",
-        "ex_of_definition_list": [
-          "They cut my wages by ten per cent."
-        ]
-      },
-      {
-        "mean_english": "cắt bỏ",
-        "definition": "to remove",
-        "ex_of_definition_list": [
-          "They cut several passages from the film."
-        ]
-      },
-      {
-        "mean_english": "cắt đứt",
-        "definition": "to wound or hurt by breaking the skin (of)",
-        "ex_of_definition_list": [
-          "I cut my hand on a piece of glass."
-        ]
-      },
-      {
-        "mean_english": "dừng",
-        "definition": "to stop",
-        "ex_of_definition_list": [
-          "When the actress said the wrong words, the director ordered ‘Cut!’"
-        ]
-      },
-      {
-        "mean_english": "đi tắt",
-        "definition": "to take a short route or way",
-        "ex_of_definition_list": [
-          "He cut through/across the park on his way to the office",
-          "A van cut in in front of me on the motorway."
-        ]
-      },
-      {
-        "mean_english": "tiếp xúc",
-        "definition": "to meet and cross (a line or geometrical figure)",
-        "ex_of_definition_list": [
-          "An axis cuts a circle in two places."
-        ]
-      },
-      {
-        "mean_english": "trốn học",
-        "definition": "to stay away from (a class, lecture etc)",
-        "ex_of_definition_list": [
-          "He cut school and went to the cinema."
-        ]
-      },
-      {
-        "mean_english": "lờ",
-        "definition": "(also cut dead) to ignore completely",
-        "ex_of_definition_list": [
-          "She cut me dead in the High Street."
-        ]
-      },
-      {
-        "mean_english": "cắt",
-        "definition": "the result of an act of cutting",
-        "ex_of_definition_list": [
-          "a cut on the head",
-          "a power cut (= stoppage of electrical power)",
-          "a haircut",
-          "a cut in prices."
-        ]
-      },
-      {
-        "mean_english": "cắt ngắn",
-        "definition": "the way in which something is tailored, fashioned etc",
-        "ex_of_definition_list": [
-          "the cut of the jacket."
-        ]
-      },
-      {
-        "mean_english": "miếng thịt",
-        "definition": "a piece of meat cut from an animal",
-        "ex_of_definition_list": [
-          "a cut of beef."
-        ]
-      }
+    "hash_code_list_img": "1930863469",
+    "list_example": [
+      "He cut the paper with a pair of scissors.",
+      "She cut a slice of bread",
+      "The child cut out the pictures",
+      "She cut up the meat into small pieces.",
+      "She cut a hole in the cloth.",
+      "Do you want me to cut your hair?",
+      "I’ll cut the grass.",
+      "They cut my wages by ten per cent.",
+      "They cut several passages from the film.",
+      "I cut my hand on a piece of glass.",
+      "He cut through/across the park on his way to the office",
+      "A van cut in in front of me on the motorway.",
+      "He cut school and went to the cinema.",
+      "She cut me dead in the High Street.",
+      "a cut on the head",
+      "a power cut (= stoppage of electrical power)",
+      "a cut in prices.",
+      "the cut of the jacket.",
+      "a cut of beef.",
+      "Reducing radiation levels by 70% with a hessian cloth only cut transpiration by individual trees by about 10% compared with unshaded plants.",
+      "However, there are quite a few pairs of systems for which the families of minimal cut sets cannot be ordered.",
+      "However, the succession is cut by a number of small faults so that the section is not continuous.",
+      "The operations are set up to cut timber from 1,000 hectares of rainforest in an ecologically sustainable manner.",
+      "Coronal sections cut at 50 mm in a rostrocaudal series."
     ],
-    "hash_code_list_definition_mean": "-1250368780"
+    "hash_code_list_example": "1973324462"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cyberspace_cb_dmean_5000_it.json",
@@ -1204,17 +882,13 @@
         "id_image": "cyberspace_6213710"
       }
     ],
-    "hash_code_list_img": "606618428",
-    "list_definition_mean": [
-      {
-        "mean_english": "không gian mạng",
-        "definition": "the imaginary place which information passes through when it travels from one computer to another online",
-        "ex_of_definition_list": [
-          "We’re closer to reaching the goal of the UK being one of the safest places in the world to do business in cyberspace."
-        ]
-      }
+    "hash_code_list_img": "387205357",
+    "list_example": [
+      "Once uprooted, words in cyberspace take leave of their senses.",
+      "Though some stay in cyberspace as a way to ensure their anonymity, others decide they have to live with their real names and faces.",
+      "This paper addresses the issues concerning the impact of music on cyberspace globalisation."
     ],
-    "hash_code_list_definition_mean": "287628696"
+    "hash_code_list_example": "-1721468757"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cycle_cb_dmean_5000_it.json",
@@ -1256,38 +930,12 @@
         "id_image": "cycle_4018100"
       }
     ],
-    "hash_code_list_img": "1226991889",
-    "list_definition_mean": [
-      {
-        "mean_english": "đi xe đạp",
-        "definition": "to go by bicycle",
-        "ex_of_definition_list": [
-          "He cycles to work every day."
-        ]
-      },
-      {
-        "mean_english": "xe đạp",
-        "definition": "shortened form of bicycle",
-        "ex_of_definition_list": [
-          "They bought the child a cycle for his birthday."
-        ]
-      },
-      {
-        "mean_english": "chu kỳ",
-        "definition": "a number of events happening one after the other in a certain order",
-        "ex_of_definition_list": [
-          "the life-cycle of the butterfly."
-        ]
-      },
-      {
-        "mean_english": "tập thơ",
-        "definition": "a series of poems, songs etc written about one main event etc",
-        "ex_of_definition_list": [
-          "a song cycle."
-        ]
-      }
+    "hash_code_list_img": "-1072067620",
+    "list_example": [
+      "They bought the child a cycle for his birthday.",
+      "the life-cycle of the butterfly."
     ],
-    "hash_code_list_definition_mean": "-1721908212"
+    "hash_code_list_example": "-889002155"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cyclone_cb_dmean_5000_it.json",
@@ -1320,17 +968,15 @@
         "id_image": "cyclone_6182921"
       }
     ],
-    "hash_code_list_img": "-911768693",
-    "list_definition_mean": [
-      {
-        "mean_english": "gió xoáy",
-        "definition": "a violent wind-storm",
-        "ex_of_definition_list": [
-          "The cyclone ripped the roofs off houses and tore up trees."
-        ]
-      }
+    "hash_code_list_img": "-178195933",
+    "list_example": [
+      "The cyclone ripped the roofs off houses and tore up trees.",
+      "The potential flow is towards the sink position and the creation of a cyclone is thus easily explained.",
+      "Of the remaining 2030 stems, 129 (6% + 1%) were dead from cyclone damage and 506 (25% + 2%) had experienced major damage.",
+      "The structure of the classic cyclone is contained in all introductory texts on meteorology.",
+      "An image cyclone is generated near the left-hand wall by the normal flow boundary condition, and the cyclone-anticyclone pair propagates dgwnstream."
     ],
-    "hash_code_list_definition_mean": "1632468958"
+    "hash_code_list_example": "1742135764"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cylinder_cb_dmean_5000_it.json",
@@ -1360,31 +1006,11 @@
         "id_image": "cylinder_5853947"
       }
     ],
-    "hash_code_list_img": "330435883",
-    "list_definition_mean": [
-      {
-        "mean_english": "hình trụ",
-        "definition": "a solid shape or object with a circular base and top and straight sides",
-        "ex_of_definition_list": [
-          "Calculate the total surface area of the cylinder."
-        ]
-      },
-      {
-        "mean_english": "trục",
-        "definition": "any of several pieces of machinery of this shape, solid or hollow",
-        "ex_of_definition_list": [
-          "The brake cylinder of his car is leaking."
-        ]
-      },
-      {
-        "mean_english": "xi lanh",
-        "definition": "a container in the shape of a cylinder",
-        "ex_of_definition_list": [
-          "two cylinders of oxygen."
-        ]
-      }
+    "hash_code_list_img": "1752610560",
+    "list_example": [
+      "The brake cylinder of his car is leaking."
     ],
-    "hash_code_list_definition_mean": "-1697549847"
+    "hash_code_list_example": "890888231"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cymbal_cb_dmean_5000_it.json",
@@ -1422,17 +1048,15 @@
         "id_image": "cymbal_488541"
       }
     ],
-    "hash_code_list_img": "-9688694",
-    "list_definition_mean": [
-      {
-        "mean_english": "cái chũm chọe",
-        "definition": "a brass musical instrument like a plate with a hollow in the centre/center, two of which are struck together to produce a noise",
-        "ex_of_definition_list": [
-          "The cymbals clashed."
-        ]
-      }
+    "hash_code_list_img": "-1759818510",
+    "list_example": [
+      "A dreamy synthesizer supplies an affirmative upward cadence in a major key, and, following another two-note upwards progression on timpani, a cymbal crescendo softly sounds.",
+      "Lia, a guitarist, surrounded herself with various sized drums, a range of beaters, a suspended cymbal and a cowbell.",
+      "This piece successfully melds processed voice/cymbal samples with massed orchestral sonorities.",
+      "What is interesting about this section is how the pesky crash cymbal gets transferred to the downbeat when the riff returns to tonic.",
+      "The cymbal also heralds the beginning of the voiceover, and a series of quieter crashes are looped and echoed under the announcement."
     ],
-    "hash_code_list_definition_mean": "153416720"
+    "hash_code_list_example": "626318553"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dab_cb_dmean_5000_it.json",
@@ -1462,31 +1086,12 @@
         "id_image": "dab_5775062"
       }
     ],
-    "hash_code_list_img": "-2097817303",
-    "list_definition_mean": [
-      {
-        "mean_english": "vỗ nhẹ",
-        "definition": "to touch gently with something soft or moist",
-        "ex_of_definition_list": [
-          "He dabbed the wound gently with cotton wool."
-        ]
-      },
-      {
-        "mean_english": "miếng",
-        "definition": "a small lump of anything soft or moist",
-        "ex_of_definition_list": [
-          "a dab of butter."
-        ]
-      },
-      {
-        "mean_english": "sự thấm",
-        "definition": "a gentle touch",
-        "ex_of_definition_list": [
-          "She gave the cut a dab with a wet cloth."
-        ]
-      }
+    "hash_code_list_img": "528153819",
+    "list_example": [
+      "a dab of butter.",
+      "She gave the cut a dab with a wet cloth."
     ],
-    "hash_code_list_definition_mean": "867732544"
+    "hash_code_list_example": "-229129157"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dad_cb_dmean_5000_it.json",
@@ -1514,19 +1119,15 @@
         "id_image": "dad_6093533"
       }
     ],
-    "hash_code_list_img": "-1966767526",
-    "list_definition_mean": [
-      {
-        "mean_english": "cha, bố",
-        "definition": "children’s words for father",
-        "ex_of_definition_list": [
-          "daddy and mummy",
-          "Where is your daddy?",
-          "What are you doing, Daddy?"
-        ]
-      }
+    "hash_code_list_img": "-1003153595",
+    "list_example": [
+      "His dad also checked the chain and the brakes to see if they worked.",
+      "Her professionalism and my dad were victims that night.",
+      "Tomorrow he was taking his dad to his doctor.",
+      "It wasn't about my dad or my mom.",
+      "The mention of my mam and dad is not casual."
     ],
-    "hash_code_list_definition_mean": "843444218"
+    "hash_code_list_example": "1903306539"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/daffodil_cb_dmean_5000_it.json",
@@ -1549,17 +1150,11 @@
         "id_image": "daffodil_5463420"
       }
     ],
-    "hash_code_list_img": "-867666962",
-    "list_definition_mean": [
-      {
-        "mean_english": "thủy tiên hoa vàng",
-        "definition": "a kind of yellow spring flower which grows from a bulb",
-        "ex_of_definition_list": [
-          "a bunch of daffodils."
-        ]
-      }
+    "hash_code_list_img": "903918631",
+    "list_example": [
+      "They have done an enormous amount to help themselves, particularly in marketing the daffodil crop."
     ],
-    "hash_code_list_definition_mean": "1927585673"
+    "hash_code_list_example": "232559541"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dagger_cb_dmean_5000_it.json",
@@ -1597,17 +1192,11 @@
         "id_image": "dagger_488354"
       }
     ],
-    "hash_code_list_img": "720262680",
-    "list_definition_mean": [
-      {
-        "mean_english": "dao găm",
-        "definition": "a knife or short sword for stabbing",
-        "ex_of_definition_list": [
-          "He was armed with a dagger."
-        ]
-      }
+    "hash_code_list_img": "1449762132",
+    "list_example": [
+      "He was armed with a dagger."
     ],
-    "hash_code_list_definition_mean": "1256374330"
+    "hash_code_list_example": "-1378451543"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/daily_cb_dmean_5000_it.json",
@@ -1627,39 +1216,18 @@
         "id_image": "daily_1933926"
       }
     ],
-    "hash_code_list_img": "1010620356",
-    "list_definition_mean": [
-      {
-        "mean_english": "hàng ngày",
-        "definition": "happening etc every day",
-        "ex_of_definition_list": [
-          "a daily walk",
-          "This is part of our daily lives."
-        ]
-      },
-      {
-        "mean_english": "hàng ngày",
-        "definition": "every day",
-        "ex_of_definition_list": [
-          "I get paid daily."
-        ]
-      },
-      {
-        "mean_english": "nhật báo",
-        "definition": "a newspaper published every day",
-        "ex_of_definition_list": [
-          "The same story is in all the dailies."
-        ]
-      },
-      {
-        "mean_english": "người giúp việc",
-        "definition": "(also daily help) British, old-fashioned a person who is paid to come regularly and help with the housework",
-        "ex_of_definition_list": [
-          "Our daily (help) comes on Mondays."
-        ]
-      }
+    "hash_code_list_img": "530216611",
+    "list_example": [
+      "a daily walk",
+      "This is part of our daily lives.",
+      "Our daily (help) comes on Mondays.",
+      "Only symptoms with significant impact on daily activities contributed as diagnostic criteria.",
+      "Nucleated settlement would have placed the inhabitants of a farm in close daily proximity.",
+      "Foraging frequency was positively correlated with minimum daily temperatures and very few foragers were observed in winter.",
+      "The objective of the trial was to assess the efficacy and tolerability of once daily ropinirole 24-h prolonged release as an adjunct to levodopa.",
+      "All patients received 60 mg oral pseudoephedrine twice daily as outpatients."
     ],
-    "hash_code_list_definition_mean": "88740183"
+    "hash_code_list_example": "-262721428"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dairy_cb_dmean_5000_it.json",
@@ -1688,17 +1256,18 @@
         "id_image": "dairy_334126"
       }
     ],
-    "hash_code_list_img": "1248495492",
-    "list_definition_mean": [
-      {
-        "mean_english": "cửa hàng bán bơ sữa",
-        "definition": "a shop supplying milk, butter, cheese etc",
-        "ex_of_definition_list": [
-          "We bought milk at the dairy."
-        ]
-      }
+    "hash_code_list_img": "-1688662368",
+    "list_example": [
+      "Data on labour inputs for forage production, market prices of dairy products and farm inputs were also collected.",
+      "Even taking this reduction into account, legume-based organic systems still show a gain over conventional grass-based dairy systems.",
+      "This scenario assumed expansion of the coupled dairy farm to use the additional forages.",
+      "Moreover, the main change between the first and second agreements for the dairy sector was to delay the introduction of the measures until 2005/06.",
+      "Fewer handlers may be needed to process the grains and dairy that predominate in these regions.",
+      "The enterprise combination for a marginal farmer under low risk levels was crop (0.25 ha), dairy (1 unit), fishery (0.25 ha) and biogas (1 unit).",
+      "During that time period, the ammonium loss from sulphur-coated urea was significantly greater than that measured from the composted dairy manure.",
+      "However, farmers in this study did not rely exclusively on dairy incomes."
     ],
-    "hash_code_list_definition_mean": "158065101"
+    "hash_code_list_example": "-1384636281"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/daisy_cb_dmean_5000_it.json",
@@ -1726,17 +1295,11 @@
         "id_image": "daisy_5463416"
       }
     ],
-    "hash_code_list_img": "1737406627",
-    "list_definition_mean": [
-      {
-        "mean_english": "hoa cúc dại",
-        "definition": "a type of small common flower with a yellow centre/center and usually white petals",
-        "ex_of_definition_list": [
-          "The field was full of daisies."
-        ]
-      }
+    "hash_code_list_img": "233043810",
+    "list_example": [
+      "Although they were rather large, they made excellent daisy chains for children."
     ],
-    "hash_code_list_definition_mean": "2072818338"
+    "hash_code_list_example": "-1355613484"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/damage_cb_dmean_5000_it.json",
@@ -1761,33 +1324,16 @@
         "id_image": "damage_2752079"
       }
     ],
-    "hash_code_list_img": "880715599",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự hư hại",
-        "definition": "injury or hurt, especially to a thing",
-        "ex_of_definition_list": [
-          "The storm did/caused a lot of damage",
-          "She suffered brain damage as a result of the accident."
-        ]
-      },
-      {
-        "mean_english": "khoản tiền được trả hay đòi phải trả để bồi thường thiệt hại",
-        "definition": "payment for loss or injury suffered",
-        "ex_of_definition_list": [
-          "The court awarded him $5,000 damages."
-        ]
-      },
-      {
-        "mean_english": "gây hư hại",
-        "definition": "to make less effective or less usable etc; spoil",
-        "ex_of_definition_list": [
-          "The bomb damaged several buildings",
-          "The book was damaged in the post."
-        ]
-      }
+    "hash_code_list_img": "1055078729",
+    "list_example": [
+      "She suffered brain damage as a result of the accident.",
+      "The result of this damage is that there are now dead processors scattered at random in the system.",
+      "Structural damage to each tree was recorded: trunk snap, branch damage, bark damage, or a leaning bole.",
+      "Since increased canopy reduces the kinetic energy with which raindrops hit the ground, the damage to soil from rainfall is reduced.",
+      "Only guts that were removed without damage were used in further analysis.",
+      "Second, the authors propose that damage to visual/sensory features will simply make inaccessible the functional information associated with the visual representation."
     ],
-    "hash_code_list_definition_mean": "1954819917"
+    "hash_code_list_example": "209629735"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/damper_cb_dmean_5000_it.json",
@@ -1816,17 +1362,11 @@
         "id_image": "damper_998298"
       }
     ],
-    "hash_code_list_img": "698081388",
-    "list_definition_mean": [
-      {
-        "mean_english": "làm cụt hứng",
-        "definition": "something which lessens the strength of enthusiasm, interest etc",
-        "ex_of_definition_list": [
-          "Her presence cast a damper on the proceedings."
-        ]
-      }
+    "hash_code_list_img": "911483206",
+    "list_example": [
+      "Her presence cast a damper on the proceedings."
     ],
-    "hash_code_list_definition_mean": "1779341339"
+    "hash_code_list_example": "-1080884079"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dam_cb_dmean_5000_it.json",
@@ -1861,24 +1401,15 @@
         "id_image": "dam_778653"
       }
     ],
-    "hash_code_list_img": "-1707842684",
-    "list_definition_mean": [
-      {
-        "mean_english": "đập nước",
-        "definition": "a bank or wall of earth, concrete etc to keep back water",
-        "ex_of_definition_list": [
-          "A new dam was being built at the mouth of the valley."
-        ]
-      },
-      {
-        "mean_english": "xây đập ngăn nước",
-        "definition": "to hold back by means of a dam",
-        "ex_of_definition_list": [
-          "The river has been dammed up."
-        ]
-      }
+    "hash_code_list_img": "-452106564",
+    "list_example": [
+      "A new dam was being built at the mouth of the valley.",
+      "They then join with community members in participatory processes in order to evaluate dam planning.",
+      "A dam of modeling clay was used to allow the shear testing to be conducted in submersion.",
+      "Work started in 1960, and the dam that came into operation in 1971 created one of the largest man-made lakes in the world.",
+      "Researchers contacted communities and informed them about dam projects the government was planning."
     ],
-    "hash_code_list_definition_mean": "1917071608"
+    "hash_code_list_example": "-864082780"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dance_cb_dmean_5000_it.json",
@@ -1914,40 +1445,18 @@
         "id_image": "dance_6280362"
       }
     ],
-    "hash_code_list_img": "152144958",
-    "list_definition_mean": [
-      {
-        "mean_english": "khiêu vũ",
-        "definition": "to move in time to music by ma-king a series of rhythmic steps",
-        "ex_of_definition_list": [
-          "She began to dance",
-          "Can you dance the waltz?"
-        ]
-      },
-      {
-        "mean_english": "nhấc lên nhấc xuống",
-        "definition": "to move quickly up and down",
-        "ex_of_definition_list": [
-          "The father was dancing the baby on his knee."
-        ]
-      },
-      {
-        "mean_english": "nhảy múa",
-        "definition": "a series of fixed steps made in time to music",
-        "ex_of_definition_list": [
-          "Have you done this dance before?",
-          "(also adjective) dance music."
-        ]
-      },
-      {
-        "mean_english": "vũ hội",
-        "definition": "a social gathering at which people dance",
-        "ex_of_definition_list": [
-          "We’re going to a dance next Saturday."
-        ]
-      }
+    "hash_code_list_img": "-969868379",
+    "list_example": [
+      "Can you dance the waltz?",
+      "Have you done this dance before?",
+      "(also adjective) dance music.",
+      "We’re going to a dance next Saturday.",
+      "The masker had amply padded his derriere and bust, and when he performed he periodically punctuated his slow dance movements with exaggerated hip thrusts.",
+      "Then, to thunderous drumming of the big drum and clashing of the large cymbals, they dance past each other and exit in separate directions.",
+      "Only the politicians who paid for the dance floor came to the community and received votes.",
+      "Here the latest trends in music and dance could be enjoyed, and the latest fashions flaunted."
     ],
-    "hash_code_list_definition_mean": "78813086"
+    "hash_code_list_example": "1616454545"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dangerous_cb_dmean_5000_it.json",
@@ -1975,19 +1484,19 @@
         "id_image": "dangerous_5848269"
       }
     ],
-    "hash_code_list_img": "-579610471",
-    "list_definition_mean": [
-      {
-        "mean_english": "chính là mối hiểm họa",
-        "definition": "very unsafe and likely to be the cause of danger",
-        "ex_of_definition_list": [
-          "a dangerous road",
-          "a dangerous enemy",
-          "Crocodiles are dangerous animals."
-        ]
-      }
+    "hash_code_list_img": "-1060239064",
+    "list_example": [
+      "a dangerous road",
+      "a dangerous enemy",
+      "Crocodiles are dangerous animals.",
+      "But it is as dangerous as it is useful for two reasons.",
+      "Only statements and conversations considered to be subversive or dangerous attracted the attention of those in authority and came to be recorded via judicial processes.",
+      "Women, fire, and dangerous things : what categories reveal about the mind.",
+      "The result is that many politicians feel it is dangerous to allow one ethnic group to produce the president for eight years.",
+      "Following this interpretation, it may be dangerous to reject the variant reading 66° as a mere corruption.",
+      "His motivation for undertaking the dangerous journey was the hope of making money on a good deal."
     ],
-    "hash_code_list_definition_mean": "1506304718"
+    "hash_code_list_example": "1174513719"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/danger_cb_dmean_5000_it.json",
@@ -2021,25 +1530,12 @@
         "id_image": "danger_5570598"
       }
     ],
-    "hash_code_list_img": "-840050527",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự nguy hiểm",
-        "definition": "something that may cause harm or injury",
-        "ex_of_definition_list": [
-          "The canal is a danger to children."
-        ]
-      },
-      {
-        "mean_english": "nguy cơ",
-        "definition": "a state or situation in which harm may come to a person or thing",
-        "ex_of_definition_list": [
-          "He is in danger",
-          "The bridge is in danger of collapse."
-        ]
-      }
+    "hash_code_list_img": "2113949185",
+    "list_example": [
+      "The canal is a danger to children.",
+      "The bridge is in danger of collapse."
     ],
-    "hash_code_list_definition_mean": "1403443581"
+    "hash_code_list_example": "2070601667"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/daredevil_cb_dmean_5000_it.json",
@@ -2062,17 +1558,18 @@
         "id_image": "daredevil_2905351"
       }
     ],
-    "hash_code_list_img": "-55544098",
-    "list_definition_mean": [
-      {
-        "mean_english": "người liều lĩnh",
-        "definition": "a bold or reckless person",
-        "ex_of_definition_list": [
-          "(also adjective) a daredevil motorcyclist."
-        ]
-      }
+    "hash_code_list_img": "-2016205070",
+    "list_example": [
+      "(also adjective) a daredevil motorcyclist.",
+      "He loved to play practical jokes and was a daredevil as a child.",
+      "While still at school he was a daredevil performer of tricks in and on moving vehicles.",
+      "They sometimes happen because of the daredevil nature of those in that age group.",
+      "Nevertheless, he changed from daredevil to careful driver, who could still be very fast but without the conquering carefreeness that is linked to success.",
+      "She is something of a know-it-all, but also a daredevil at times.",
+      "The player controls the eponymous daredevil and navigates time-limited courses, aiming to complete enough objectives to continue to further rounds.",
+      "Once hip-hop became corporate, they took the daredevil out of the artistry."
     ],
-    "hash_code_list_definition_mean": "91904802"
+    "hash_code_list_example": "-1581051987"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dart_cb_dmean_5000_it.json",
@@ -2107,31 +1604,11 @@
         "id_image": "dart_3468314"
       }
     ],
-    "hash_code_list_img": "1395526529",
-    "list_definition_mean": [
-      {
-        "mean_english": "phi tiêu",
-        "definition": "a pointed arrow-like weapon for throwing or shooting",
-        "ex_of_definition_list": [
-          "a poisoned dart."
-        ]
-      },
-      {
-        "mean_english": "sự lao tới",
-        "definition": "a sudden and quick movement",
-        "ex_of_definition_list": [
-          "The cat made a quick dart across the road."
-        ]
-      },
-      {
-        "mean_english": "lao; phóng",
-        "definition": "to move suddenly and quickly",
-        "ex_of_definition_list": [
-          "The mouse darted into a hole."
-        ]
-      }
+    "hash_code_list_img": "11778836",
+    "list_example": [
+      "The cat made a quick dart across the road."
     ],
-    "hash_code_list_definition_mean": "-301563256"
+    "hash_code_list_example": "1384058138"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dash_cb_dmean_5000_it.json",
@@ -2170,52 +1647,13 @@
         "id_image": "dash_1685689"
       }
     ],
-    "hash_code_list_img": "-525788495",
-    "list_definition_mean": [
-      {
-        "mean_english": "xông tới",
-        "definition": "to move with speed and violence",
-        "ex_of_definition_list": [
-          "A squirrel dashed across the road."
-        ]
-      },
-      {
-        "mean_english": "đập mạnh",
-        "definition": "to knock, throw etc violently, especially so as to break",
-        "ex_of_definition_list": [
-          "He dashed the bottle to pieces against the wall."
-        ]
-      },
-      {
-        "mean_english": "làm mất hy vọng",
-        "definition": "to bring down suddenly and violently or to make very depressed",
-        "ex_of_definition_list": [
-          "Our hopes were dashed."
-        ]
-      },
-      {
-        "mean_english": "sự lao tới",
-        "definition": "a sudden rush or movement",
-        "ex_of_definition_list": [
-          "The child made a dash for the door."
-        ]
-      },
-      {
-        "mean_english": "một chút",
-        "definition": "a small amount of something, especially liquid",
-        "ex_of_definition_list": [
-          "whisky with a dash of soda."
-        ]
-      },
-      {
-        "mean_english": "sự hăng hái",
-        "definition": "energy and enthusiasm",
-        "ex_of_definition_list": [
-          "All his activities showed the same dash and spirit."
-        ]
-      }
+    "hash_code_list_img": "304042866",
+    "list_example": [
+      "The child made a dash for the door.",
+      "whisky with a dash of soda.",
+      "All his activities showed the same dash and spirit."
     ],
-    "hash_code_list_definition_mean": "945953335"
+    "hash_code_list_example": "-1899196035"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/database_cb_dmean_5000_it.json",
@@ -2253,17 +1691,13 @@
         "id_image": "database_586283"
       }
     ],
-    "hash_code_list_img": "-588200527",
-    "list_definition_mean": [
-      {
-        "mean_english": "cơ sở dữ liệu",
-        "definition": "(also data-bank) computing a large amount of information which is stored in a computer",
-        "ex_of_definition_list": [
-          "The photographs of millions of people have been put on a national police database."
-        ]
-      }
+    "hash_code_list_img": "-1278772505",
+    "list_example": [
+      "The data storage for other cases could be some database systems.",
+      "A large statistical database has been obtained which provides considerable insight to the structural and transport properties of thermally stratified turbulence.",
+      "It is possible to define a set of rules that explicitly defines the possible transitions in terms of the difference between consecutive database states."
     ],
-    "hash_code_list_definition_mean": "715657752"
+    "hash_code_list_example": "-2015170022"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/data_cb_dmean_5000_it.json",
@@ -2296,17 +1730,11 @@
         "id_image": "data_984433"
       }
     ],
-    "hash_code_list_img": "448787786",
-    "list_definition_mean": [
-      {
-        "mean_english": "dữ liệu",
-        "definition": "or noun singular facts or information (especially the information given to a computer)",
-        "ex_of_definition_list": [
-          "All the data has/have been entered into the computer."
-        ]
-      }
+    "hash_code_list_img": "-1995545403",
+    "list_example": [
+      "All the data has/have been entered into the computer."
     ],
-    "hash_code_list_definition_mean": "1612554073"
+    "hash_code_list_example": "1106392229"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/date_cb_dmean_5000_it.json",
@@ -2344,52 +1772,12 @@
         "id_image": "date_5739970"
       }
     ],
-    "hash_code_list_img": "-2116877457",
-    "list_definition_mean": [
-      {
-        "mean_english": "ngày tháng",
-        "definition": "(a statement on a letter etc giving) the day of the month, the month and year",
-        "ex_of_definition_list": [
-          "I can’t read the date on this letter."
-        ]
-      },
-      {
-        "mean_english": "ngày tháng",
-        "definition": "the day and month and/or the year in which something happened or is going to happen",
-        "ex_of_definition_list": [
-          "What is your date of birth?"
-        ]
-      },
-      {
-        "mean_english": "hẹn hò",
-        "definition": "an appointment or engagement, especially a social one with a member of the opposite sex",
-        "ex_of_definition_list": [
-          "He asked her for a date."
-        ]
-      },
-      {
-        "mean_english": "đề ngày tháng",
-        "definition": "to have or put a date on",
-        "ex_of_definition_list": [
-          "This letter isn’t dated."
-        ]
-      },
-      {
-        "mean_english": "có từ",
-        "definition": "(with fromor back) to belong to; to have been made, written etc at (a certain time)",
-        "ex_of_definition_list": [
-          "Their quarrel dates back to last year."
-        ]
-      },
-      {
-        "mean_english": "đã cũ",
-        "definition": "to become obviously old-fashioned",
-        "ex_of_definition_list": [
-          "His books haven’t dated much."
-        ]
-      }
+    "hash_code_list_img": "-631651713",
+    "list_example": [
+      "I can’t read the date on this letter.",
+      "What is your date of birth?"
     ],
-    "hash_code_list_definition_mean": "-1317301760"
+    "hash_code_list_example": "-431098487"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/daughter_cb_dmean_5000_it.json",
@@ -2412,18 +1800,12 @@
         "id_image": "daughter_5020137"
       }
     ],
-    "hash_code_list_img": "107206958",
-    "list_definition_mean": [
-      {
-        "mean_english": "con gái",
-        "definition": "a female child (when spoken of in relation to her parents)",
-        "ex_of_definition_list": [
-          "That is Mary’s daughter",
-          "She has two daughters."
-        ]
-      }
+    "hash_code_list_img": "-852760241",
+    "list_example": [
+      "Through these gendered patterns of participation, the parents create connection with their daughter and negotiate their parental authority with their daughter and with each other.",
+      "Excretory+secretory products were subjected to centrifugation (11000 g for 20 min) to remove daughter sporocysts."
     ],
-    "hash_code_list_definition_mean": "1843768693"
+    "hash_code_list_example": "1312484123"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dawn_cb_dmean_5000_it.json",
@@ -2463,31 +1845,11 @@
         "id_image": "dawn_721073"
       }
     ],
-    "hash_code_list_img": "-1296065144",
-    "list_definition_mean": [
-      {
-        "mean_english": "bình minh",
-        "definition": "(especially of daylight) to begin to appear",
-        "ex_of_definition_list": [
-          "As soon as the day dawned, we set off on our journey."
-        ]
-      },
-      {
-        "mean_english": "rạng đông",
-        "definition": "the very beginning of a day; very early morning",
-        "ex_of_definition_list": [
-          "We must get up at dawn."
-        ]
-      },
-      {
-        "mean_english": "buổi sơ khai",
-        "definition": "the very beginning of something",
-        "ex_of_definition_list": [
-          "the dawn of civilization."
-        ]
-      }
+    "hash_code_list_img": "1526108332",
+    "list_example": [
+      "the dawn of civilization."
     ],
-    "hash_code_list_definition_mean": "597840286"
+    "hash_code_list_example": "1283567856"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/daylight_cb_dmean_5000_it.json",
@@ -2521,24 +1883,16 @@
         "id_image": "daylight_6316156"
       }
     ],
-    "hash_code_list_img": "-1201265467",
-    "list_definition_mean": [
-      {
-        "mean_english": "ban ngày",
-        "definition": "the light given by the sun",
-        "ex_of_definition_list": [
-          "Daylight streamed in through the window",
-          "(also adjective) daylight hours."
-        ]
-      },
-      {
-        "mean_english": "rạng đông",
-        "definition": "dawn",
-        "ex_of_definition_list": [
-          "To get there on time we must leave before daylight."
-        ]
-      }
+    "hash_code_list_img": "177772995",
+    "list_example": [
+      "(also adjective) daylight hours.",
+      "In this room, daylight plays between varying intensities, between shadow and light.",
+      "Therefore, fruits were placed on the forest floor during daylight hours to measure their behaviour.",
+      "The medium has its greatest potential when it is revealed in daylight because it is the strongest, purest and most subtle of lights.",
+      "Illumination was provided by diffuse daylight and supplemented by fluorescent light.",
+      "Pigmentation of haloarchaea is light dependent ; thus, cells grown in the presence or absence of daylight were used.",
+      "The three functions that describe the daylight spectral variations are overinterpreted too."
     ],
-    "hash_code_list_definition_mean": "-1386656233"
+    "hash_code_list_example": "641731604"
   }
 ]

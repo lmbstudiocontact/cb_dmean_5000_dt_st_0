@@ -31,69 +31,22 @@
         "id_image": "low_6418233"
       }
     ],
-    "hash_code_list_img": "1153715471",
-    "list_definition_mean": [
-      {
-        "mean_english": "thấp",
-        "definition": "not at or reaching up to a great distance from the ground, sea-level etc",
-        "ex_of_definition_list": [
-          "low hills",
-          "a low ceiling",
-          "This chair is too low for the child."
-        ]
-      },
-      {
-        "mean_english": "nhỏ tiếng",
-        "definition": "making little sound; not loud",
-        "ex_of_definition_list": [
-          "She spoke in a low voice."
-        ]
-      },
-      {
-        "mean_english": "trầm",
-        "definition": "at the bottom of the range of musical sounds",
-        "ex_of_definition_list": [
-          "That note is too low for a female voice."
-        ]
-      },
-      {
-        "mean_english": "nhỏ",
-        "definition": "small",
-        "ex_of_definition_list": [
-          "a low price."
-        ]
-      },
-      {
-        "mean_english": "yếu",
-        "definition": "not strong; weak or feeble",
-        "ex_of_definition_list": [
-          "The fire was very low."
-        ]
-      },
-      {
-        "mean_english": "thấp",
-        "definition": "near the bottom in grade, rank, class etc",
-        "ex_of_definition_list": [
-          "low temperatures",
-          "the lower classes."
-        ]
-      },
-      {
-        "mean_english": "vị trí thấp",
-        "definition": "in or to a low position, manner or state",
-        "ex_of_definition_list": [
-          "The ball flew low over the net."
-        ]
-      },
-      {
-        "mean_english": "làm ầm",
-        "definition": "to make the noise of cattle; to moo",
-        "ex_of_definition_list": [
-          "The cows were lowing."
-        ]
-      }
+    "hash_code_list_img": "1292737845",
+    "list_example": [
+      "low hills",
+      "a low ceiling",
+      "This chair is too low for the child.",
+      "She spoke in a low voice.",
+      "That note is too low for a female voice.",
+      "a low price.",
+      "low temperatures",
+      "The ball flew low over the net.",
+      "This case admits a specially simple normal form in which the low degree terms of the normal form can be replaced by coordinate functions.",
+      "This is because their phonetic ability is low and their functional knowledge (in terms of the recoverability principle) is not yet developed.",
+      "Both men and women with low support were more likely to report psychological distress than those with high support.",
+      "However, what is reinforced by these data, is the very low percentage of flies in the total trapped population that bore pollinaria."
     ],
-    "hash_code_list_definition_mean": "-1750427776"
+    "hash_code_list_example": "783119994"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lucky_cb_dmean_5000_it.json",
@@ -122,25 +75,18 @@
         "id_image": "lucky_4617318"
       }
     ],
-    "hash_code_list_img": "-514909666",
-    "list_definition_mean": [
-      {
-        "mean_english": "có tính may mắn",
-        "definition": "having good luck",
-        "ex_of_definition_list": [
-          "He was very lucky to escape alive."
-        ]
-      },
-      {
-        "mean_english": "mang tới vận may",
-        "definition": "bringing good luck",
-        "ex_of_definition_list": [
-          "a lucky number",
-          "a lucky charm."
-        ]
-      }
+    "hash_code_list_img": "-1390072492",
+    "list_example": [
+      "He was very lucky to escape alive.",
+      "a lucky number",
+      "a lucky charm.",
+      "I am lucky to be able to draw on both cultures.",
+      "There are those who are lucky or clever enough to possess dollars.",
+      "The last bride is always lucky and/or clever.",
+      "Both approaches, however, emphasize that it is possible to understand discovery in terms of heuristics of creative thinking and thus to go beyond lucky guesses.",
+      "It is consistent with taking him to be lucky for being blessed with this gift."
     ],
-    "hash_code_list_definition_mean": "-1360983995"
+    "hash_code_list_example": "-675028982"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/luck_cb_dmean_5000_it.json",
@@ -169,24 +115,14 @@
         "id_image": "luck_3159017"
       }
     ],
-    "hash_code_list_img": "-922608648",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự may mắn",
-        "definition": "the state of happening by chance",
-        "ex_of_definition_list": [
-          "Whether you win or not is just luck – there’s no skill involved."
-        ]
-      },
-      {
-        "mean_english": "vận đỏ",
-        "definition": "something good which happens by chance",
-        "ex_of_definition_list": [
-          "She has all the luck!"
-        ]
-      }
+    "hash_code_list_img": "-1274569195",
+    "list_example": [
+      "Whether you win or not is just luck – there’s no skill involved.",
+      "Whether a widow survived in poverty or prosperity was a matter of luck and the laws of inheritance.",
+      "On the contrary, the factory often provided steady work, a stable wage and a world in which with a little luck one could ascend.",
+      "A little luck or some extra effort should be enough."
     ],
-    "hash_code_list_definition_mean": "1350603749"
+    "hash_code_list_example": "-589692670"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/luggage_cb_dmean_5000_it.json",
@@ -219,18 +155,16 @@
         "id_image": "luggage_421856"
       }
     ],
-    "hash_code_list_img": "2084182610",
-    "list_definition_mean": [
-      {
-        "mean_english": "hành lý",
-        "definition": "the suitcases, trunks etc of a traveller",
-        "ex_of_definition_list": [
-          "He carried her luggage to the train",
-          "(also adjective) a luggage compartment."
-        ]
-      }
+    "hash_code_list_img": "809766947",
+    "list_example": [
+      "He carried her luggage to the train",
+      "(also adjective) a luggage compartment.",
+      "Which pieces of luggage are more alike than others depends not only upon what properties they share, but upon who makes the comparison, and when.",
+      "They had delayed charter flights, hour-long waits for luggage to be brought to hotel rooms, and over-booked day excursions.",
+      "There was a luggage wagon that would pick up and drop at the head of the march.",
+      "The police know that drugs have been introduced into legitimate consignments of goods and luggage and recovered when the container has been landed."
     ],
-    "hash_code_list_definition_mean": "70432930"
+    "hash_code_list_example": "27596753"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lug_cb_dmean_5000_it.json",
@@ -248,17 +182,11 @@
         "id_image": "lug_1772564"
       }
     ],
-    "hash_code_list_img": "620462902",
-    "list_definition_mean": [
-      {
-        "mean_english": "kéo lê",
-        "definition": "to drag with difficulty",
-        "ex_of_definition_list": [
-          "She lugged the heavy trunk across the floor."
-        ]
-      }
+    "hash_code_list_img": "595382915",
+    "list_example": [
+      "She lugged the heavy trunk across the floor."
     ],
-    "hash_code_list_definition_mean": "335204582"
+    "hash_code_list_example": "-1108399787"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lumber_cb_dmean_5000_it.json",
@@ -289,24 +217,16 @@
         "id_image": "lumber_4251853"
       }
     ],
-    "hash_code_list_img": "-614321828",
-    "list_definition_mean": [
-      {
-        "mean_english": "làm vướng víu",
-        "definition": "to give (someone) an unwanted responsibility",
-        "ex_of_definition_list": [
-          "He was lumbered with the job of sweeping the yard."
-        ]
-      },
-      {
-        "mean_english": "kéo lê ì ạch",
-        "definition": "to move about heavily and clumsily",
-        "ex_of_definition_list": [
-          "He lumbered drunkenly around the room."
-        ]
-      }
+    "hash_code_list_img": "-1024480580",
+    "list_example": [
+      "The model sought to maximize the income received from productive activity (lumber extraction) restricted by a biodiversity index depending on the number of individuals of each species.",
+      "The high level of protection for lumber and furniture products is likely to artificially increase the demand for these products, thus promoting both legal and illegal logging activities.",
+      "The 1993 volume of lumber exported, for example, reflected a 434 per cent increase above the 1983 figure.",
+      "Recruiters were able to evade administrative supervision and engage workers from circonscriptions hundreds of miles from the lumber camps.",
+      "The flow of population to lumber camps along the lakes had been largely one way with the majority of recruits deciding not to return to their villages.",
+      "Processing the logs into lumber for export in huge quantities thus replaced the gradual cutback in log exports to make up for the loss of income in the latter activity."
     ],
-    "hash_code_list_definition_mean": "1208462726"
+    "hash_code_list_example": "-229304076"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lunar_cb_dmean_5000_it.json",
@@ -344,17 +264,19 @@
         "id_image": "lunar_4657808"
       }
     ],
-    "hash_code_list_img": "331060270",
-    "list_definition_mean": [
-      {
-        "mean_english": "mặt trăng",
-        "definition": "of the moon",
-        "ex_of_definition_list": [
-          "a lunar eclipse."
-        ]
-      }
+    "hash_code_list_img": "-1903507197",
+    "list_example": [
+      "a lunar eclipse.",
+      "In the contrast zone of light and shadow, the fifth lunar disk (fig. 17) shows a stronger dark than all the previous examples.",
+      "We will discuss viability of sample deposition on the surface, lunar site selection, and sample processing strategies for a future sample return mission.",
+      "This confirms the use of only one formula for the backward calculation and a value of 29.530846 days for the lunar month.",
+      "The case of the lunar valleys and mountains, however, was different.",
+      "This is suggested by the fact that the most common prognostic texts, whether lunar or calendrical, are those devoted to medical matters.",
+      "She then reads the name of that paper color, lunar blue (line 24).",
+      "In all three communities, the importance of understanding the diurnal tidal cycle, as well as the monthly lunar cycle was frequently emphasised.",
+      "A child born in the seventh month of the lunar calendar, for example, would be 1 sai, or in his first year of life."
     ],
-    "hash_code_list_definition_mean": "83375864"
+    "hash_code_list_example": "1974480010"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lunch_cb_dmean_5000_it.json",
@@ -388,24 +310,15 @@
         "id_image": "lunch_5483765"
       }
     ],
-    "hash_code_list_img": "1135810089",
-    "list_definition_mean": [
-      {
-        "mean_english": "bữa trưa",
-        "definition": "a meal eaten in the middle of the day",
-        "ex_of_definition_list": [
-          "What did you have for lunch?"
-        ]
-      },
-      {
-        "mean_english": "ăn trưa",
-        "definition": "to eat this meal",
-        "ex_of_definition_list": [
-          "We lunched on the train."
-        ]
-      }
+    "hash_code_list_img": "-530046600",
+    "list_example": [
+      "According to parent report, forty percent of the children participated in the school lunch program.",
+      "The main concerns ranged from where, when and with whom lunch was taken at school.",
+      "Approximately 24% of the sample reported receiving free lunch at school at the beginning of middle school.",
+      "I only request that you should treat me to lunch sometime.",
+      "Table 1 lists the parent educational level and lunch status of the participants by group."
     ],
-    "hash_code_list_definition_mean": "-1090603127"
+    "hash_code_list_example": "1296320319"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lung_cb_dmean_5000_it.json",
@@ -423,17 +336,11 @@
         "id_image": "lung_2417998"
       }
     ],
-    "hash_code_list_img": "1171120114",
-    "list_definition_mean": [
-      {
-        "mean_english": "phổi",
-        "definition": "one of the pair of organs of breathing, in man and other animals",
-        "ex_of_definition_list": [
-          "lung disease."
-        ]
-      }
+    "hash_code_list_img": "1929760720",
+    "list_example": [
+      "lung disease."
     ],
-    "hash_code_list_definition_mean": "1032560141"
+    "hash_code_list_example": "3457967"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lust_cb_dmean_5000_it.json",
@@ -451,17 +358,11 @@
         "id_image": "lust_1316898"
       }
     ],
-    "hash_code_list_img": "1373072114",
-    "list_definition_mean": [
-      {
-        "mean_english": "sự thèm khát",
-        "definition": "(a) very strong desire",
-        "ex_of_definition_list": [
-          "a lust for power."
-        ]
-      }
+    "hash_code_list_img": "1479286700",
+    "list_example": [
+      "a lust for power."
     ],
-    "hash_code_list_definition_mean": "1088170749"
+    "hash_code_list_example": "1726428566"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/luxurious_cb_dmean_5000_it.json",
@@ -489,17 +390,18 @@
         "id_image": "luxurious_6193395"
       }
     ],
-    "hash_code_list_img": "-1242190274",
-    "list_definition_mean": [
-      {
-        "mean_english": "xa hoa",
-        "definition": "supplied with luxuries",
-        "ex_of_definition_list": [
-          "a really luxurious flat/life."
-        ]
-      }
+    "hash_code_list_img": "342843422",
+    "list_example": [
+      "a really luxurious flat/life.",
+      "They found it not in the ancestral piles and forelock-tugging tenantry still prized by provincial elites, but in the determined pursuit of luxurious fashion in the capital.",
+      "The housing in each case was luxurious and food in unlimited quantities was at disposal.",
+      "They are duties imposed for revenue purposes upon purely luxurious articles.",
+      "The opening satire attacks the contemporary court and courtier as luxurious and effeminate.",
+      "There is an increase in administrative headquarters staff and, of course, there is the usual addition of luxurious offices and so forth.",
+      "I suggest that we cannot afford, in our present economic conditions, a scale of hospitality which has grown up in more luxurious days.",
+      "Only 400 or 500 yards away from some of the most luxurious establishments in the world lie some of the world's worst slums."
     ],
-    "hash_code_list_definition_mean": "819132937"
+    "hash_code_list_example": "-1951268002"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/luxury_cb_dmean_5000_it.json",
@@ -533,25 +435,11 @@
         "id_image": "luxury_4954442"
       }
     ],
-    "hash_code_list_img": "-204714053",
-    "list_definition_mean": [
-      {
-        "mean_english": "xa xỉ",
-        "definition": "great comfort usually amongst expensive things",
-        "ex_of_definition_list": [
-          "They live in luxury",
-          "(also adjective) gold jewellery and other luxury goods."
-        ]
-      },
-      {
-        "mean_english": "xa hoa",
-        "definition": "something pleasant but not necessary, and often rare and expensive",
-        "ex_of_definition_list": [
-          "We’re going to give up all those luxuries and only spend money on essentials."
-        ]
-      }
+    "hash_code_list_img": "-1093908950",
+    "list_example": [
+      "(also adjective) gold jewellery and other luxury goods."
     ],
-    "hash_code_list_definition_mean": "-1228874646"
+    "hash_code_list_example": "989672579"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lyric_cb_dmean_5000_it.json",
@@ -576,16 +464,18 @@
         "id_image": "lyric_5093639"
       }
     ],
-    "hash_code_list_img": "-1964315230",
-    "list_definition_mean": [
-      {
-        "mean_english": "lời bài hát",
-        "definition": "the words of a song",
-        "ex_of_definition_list": [
-          "The tune is good, but I don’t like the lyrics."
-        ]
-      }
+    "hash_code_list_img": "967956167",
+    "list_example": [
+      "The tune is good, but I don’t like the lyrics.",
+      "One issue which is notable for its absence is the power of lyrics and actions in musical games.",
+      "Of course, the music and lyrics were always of great importance as well.",
+      "The lyrics of the song are interpreted with respect to the events of that flood.",
+      "Usage is illustrated by means of texts, advertisements, cartoons, proverbs, lyrics, and interviews.",
+      "Furthermore, the way in which lyrics are sung - sarcastically, plaintively, etc. - may belie the words on the page.",
+      "The lyrics, in seven- and ten-syllable couplets, are simply 'recited' (yin).",
+      "Words (and lyrics) became central in the popular musical culture in so far as the songs of cantautori aspired to literary dignity.",
+      "The incoherence of the lyrics is made irrelevant by the coherence of melody, rhythm and accompaniment, and by the power of performance."
     ],
-    "hash_code_list_definition_mean": "1736264969"
+    "hash_code_list_example": "1467609352"
   }
 ]

@@ -28,40 +28,14 @@
         "id_image": "puzzle_868648"
       }
     ],
-    "hash_code_list_img": "-578539515",
-    "list_definition_mean": [
-      {
-        "mean_english": "làm bối rối",
-        "definition": "to perplex, baffle or bewilder",
-        "ex_of_definition_list": [
-          "The question puzzled them",
-          "What puzzles me is how he got here so soon."
-        ]
-      },
-      {
-        "mean_english": "suy nghĩ kỹ lưỡng",
-        "definition": "to think long and carefully about a problem etc",
-        "ex_of_definition_list": [
-          "I puzzled over the sum for hours."
-        ]
-      },
-      {
-        "mean_english": "vấn đề khó xử",
-        "definition": "a problem that causes a lot of thought",
-        "ex_of_definition_list": [
-          "Her behaviour was a puzzle to him."
-        ]
-      },
-      {
-        "mean_english": "câu đố",
-        "definition": "a kind of game or toy to test one’s thinking, knowledge or skill",
-        "ex_of_definition_list": [
-          "a jigsaw puzzle",
-          "a crossword puzzle."
-        ]
-      }
+    "hash_code_list_img": "-1242669389",
+    "list_example": [
+      "Her behaviour was a puzzle to him.",
+      "For instance, the explanation of the equity premium puzzle is relatively satisfying: spectral results are as good as those obtained in the traditional approach.",
+      "This puzzle indicates the importance of treating action ascriptions among participants in joint acts differently from action ascription generally.",
+      "The puzzle is created by the reappearance of a familiar form, self-regulation."
     ],
-    "hash_code_list_definition_mean": "-441214242"
+    "hash_code_list_example": "302829103"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pyjamas_cb_dmean_5000_it.json",
@@ -94,17 +68,11 @@
         "id_image": "pyjamas_407328"
       }
     ],
-    "hash_code_list_img": "-322711302",
-    "list_definition_mean": [
-      {
-        "mean_english": "bộ đồ ngủ",
-        "definition": "a suit for sleeping, consisting of trousers and a jacket",
-        "ex_of_definition_list": [
-          "two pairs of pyjamas."
-        ]
-      }
+    "hash_code_list_img": "-465580144",
+    "list_example": [
+      "two pairs of pyjamas."
     ],
-    "hash_code_list_definition_mean": "736640669"
+    "hash_code_list_example": "147548764"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pyre_cb_dmean_5000_it.json",
@@ -127,16 +95,12 @@
         "id_image": "pyre_676345"
       }
     ],
-    "hash_code_list_img": "-1569617545",
-    "list_definition_mean": [
-      {
-        "mean_english": "giàn thiêu",
-        "definition": "a pile of wood on which a dead body is ceremonially burned",
-        "ex_of_definition_list": [
-          "a funeral pyre"
-        ]
-      }
+    "hash_code_list_img": "-1898524841",
+    "list_example": [
+      "What advice will be given to those on farms close to the pyre and close to the fallout of the pyre?",
+      "One hopes that they have expressed their views and that that particular form of celebration will not continue and become a funeral pyre in the form of violence.",
+      "The pyre has dolls in coffins hung on it."
     ],
-    "hash_code_list_definition_mean": "282017390"
+    "hash_code_list_example": "439770754"
   }
 ]
